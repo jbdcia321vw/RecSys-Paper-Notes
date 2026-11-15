@@ -9,15 +9,15 @@
 🔥 **高频主题：** TOIS ×3 · LLM Agent ×2
 
 <dl>
-<dt><strong><a href="recommender_ai_agent_integrating_large_language_models_for_interactive_reco/">Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations</a></strong></dt>
+<dt><strong><a href="recommender_ai_agent_integrating_large_language_models_for_interactive_reco/">Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>以 LLM 为大脑、传统推荐模型为工具，配合候选总线、长短期画像、计划优先执行与反思机制，在 Steam/MovieLens/Beauty 上显著超越 GPT-4 与 Chat-Rec。</p>
 </dd>
-<dt><strong><a href="user_behavior_simulation_with_large_language_model_based_agents/">User Behavior Simulation with Large Language Model based Agents</a></strong></dt>
+<dt><strong><a href="user_behavior_simulation_with_large_language_model_based_agents/">User Behavior Simulation with Large Language Model based Agents</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>提出 LLM Agent 用户行为模拟器 RecAgent，以画像-记忆-动作三模块与沙盒环境复现信息茧房与从众现象，行为可信度逼近真人。</p>
 </dd>
-<dt><strong><a href="vague_preference_policy_learning_for_conversational_recommendation/">Vague Preference Policy Learning for Conversational Recommendation</a></strong></dt>
+<dt><strong><a href="vague_preference_policy_learning_for_conversational_recommendation/">Vague Preference Policy Learning for Conversational Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>提出 VPMCR 模糊偏好场景与 VPPL 框架，用软估计替代二值过滤，SR@15 最高提升 22%，平均轮次显著下降。</p>
 </dd>

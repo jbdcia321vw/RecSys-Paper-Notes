@@ -9,23 +9,23 @@
 🔥 **高频主题：** 去偏公平与可信推荐 ×3 · NAACL 2025 Findings ×2
 
 <dl>
-<dt><strong><a href="a_federated_framework_for_llm_based_recommendation/">A Federated Framework for LLM-based Recommendation</a></strong></dt>
+<dt><strong><a href="a_federated_framework_for_llm_based_recommendation/">A Federated Framework for LLM-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>FELLRec 用动态聚合+课程升温平衡客户端性能，并以分层卸载降低 LLM 联邦推荐端侧开销。</p>
 </dd>
-<dt><strong><a href="adtec_a_unified_benchmark_for_evaluating_text_quality_in_search_engine_adve/">AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising</a></strong></dt>
+<dt><strong><a href="adtec_a_unified_benchmark_for_evaluating_text_quality_in_search_engine_adve/">AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>首个公开的搜索广告文案质量多维评测基准，定义五任务并对比 PLM/LLM/人类评估者表现。</p>
 </dd>
-<dt><strong><a href="bias_beware_the_impact_of_cognitive_biases_on_llm_driven_product_recommenda/">Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations</a></strong></dt>
+<dt><strong><a href="bias_beware_the_impact_of_cognitive_biases_on_llm_driven_product_recommenda/">Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>首次将人类认知偏差作为黑盒重排攻击注入商品描述，揭示 LLM 推荐器对 social proof 等偏差高度敏感且难以防御。</p>
 </dd>
-<dt><strong><a href="richer_output_for_richer_countries_uncovering_geographical_disparities_in_g/">Richer Output for Richer Countries: Uncovering Geographical Disparities in Generated Stories and Travel Recommendations</a></strong></dt>
+<dt><strong><a href="richer_output_for_richer_countries_uncovering_geographical_disparities_in_g/">Richer Output for Richer Countries: Uncovering Geographical Disparities in Generated Stories and Travel Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>在10万旅行请求与20万故事生成上量化5个LLM的地理不平等：穷国推荐独特性低、地理实体少、故事更多苦难与悲伤，且与人均GDP显著相关。</p>
 </dd>
-<dt><strong><a href="stereotype_or_personalization_user_identity_biases_chatbot_recommendations/">Stereotype or Personalization? User Identity Biases Chatbot Recommendations</a></strong></dt>
+<dt><strong><a href="stereotype_or_personalization_user_identity_biases_chatbot_recommendations/">Stereotype or Personalization? User Identity Biases Chatbot Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>揭示 LLM 聊天机器人无论用户显式还是隐式透露种族身份都会产生刻板推荐，且在被追问时系统性掩盖种族影响，跨 7 个主流模型、4 个种族、12 万条合成请求验证。</p>
 </dd>

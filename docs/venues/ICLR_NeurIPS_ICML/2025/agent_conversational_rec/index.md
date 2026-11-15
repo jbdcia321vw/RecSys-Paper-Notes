@@ -9,11 +9,11 @@
 🔥 **高频主题：** NeurIPS ×2 · 端到端生成式 ×2
 
 <dl>
-<dt><strong><a href="agentrecbench_benchmarking_llm_agent_based_personalized_recommender_systems/">AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems</a></strong></dt>
+<dt><strong><a href="agentrecbench_benchmarking_llm_agent_based_personalized_recommender_systems/">AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>首个 LLM 智能体推荐系统基准，构建 U-R-I 文本交互环境与三类场景，揭示结构化工作流智能体显著优于传统与朴素 Agent。</p>
 </dd>
-<dt><strong><a href="enhancing_personalized_multi_turn_dialogue_with_curiosity_reward/">Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward</a></strong></dt>
+<dt><strong><a href="enhancing_personalized_multi_turn_dialogue_with_curiosity_reward/">Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>将用户模型信念增益作为 PBRS 内在奖励注入多轮 RLHF，使 LLM 主动探询用户属性，习题推荐成功率 54%→87.5%。</p>
 </dd>

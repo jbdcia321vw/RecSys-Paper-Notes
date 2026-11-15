@@ -1,8 +1,8 @@
 site_name: RecSys Paper Notes · 推荐系统论文精读库
 site_description: RecSys Paper Notes 推荐系统与信息检索顶会顶刊论文精读库，覆盖 22 个会刊、16 大方向，按会刊/年份/主题分类，每篇 5 分钟读懂核心思想
-site_url: https://jbdcia321vw.github.io/Paper-Notes/
-repo_url: https://github.com/jbdcia321vw/Paper-Notes
-repo_name: jbdcia321vw/Paper-Notes
+site_url: https://jbdcia321vw.github.io/RecSys-Paper-Notes/
+repo_url: https://github.com/jbdcia321vw/RecSys-Paper-Notes
+repo_name: jbdcia321vw/RecSys-Paper-Notes
 
 theme:
   name: material
@@ -19,20 +19,18 @@ theme:
     - search.highlight
     - content.code.copy
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7
-        name: 切换至深色模式
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+        name: 切换至浅色模式
+    - scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-4
-        name: 切换至浅色模式
+        name: 切换至深色模式
 
 plugins:
   - search:

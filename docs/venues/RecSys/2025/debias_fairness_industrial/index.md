@@ -9,39 +9,39 @@
 🔥 **高频主题：** 重排 ×5 · 去偏公平与工业架构 ×3 · 流行度去偏 ×3
 
 <dl>
-<dt><strong><a href="a_reproducibility_study_of_product_side_fairness_in_bundle_recommendation/">A Reproducibility Study of Product-side Fairness in Bundle Recommendation</a></strong></dt>
+<dt><strong><a href="a_reproducibility_study_of_product_side_fairness_in_bundle_recommendation/">A Reproducibility Study of Product-side Fairness in Bundle Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>首个捆绑推荐商品侧公平性复现研究，揭示捆绑级与物品级曝光分布不一致、指标间结论分歧，并发现用户捆绑偏好越强曝光越公平。</p>
 </dd>
-<dt><strong><a href="leveraging_geometric_insights_in_hyperbolic_triplet_loss_for_improved_recom/">Leveraging Geometric Insights in Hyperbolic Triplet Loss for Improved Recommendations</a></strong></dt>
+<dt><strong><a href="leveraging_geometric_insights_in_hyperbolic_triplet_loss_for_improved_recom/">Leveraging Geometric Insights in Hyperbolic Triplet Loss for Improved Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>洛伦兹双曲三元组损失 TriplH，以物品-物品项自适应间隔替代固定 margin，兼顾精度、去流行度偏差与 3 倍推理加速。</p>
 </dd>
-<dt><strong><a href="mitigating_popularity_bias_in_counterfactual_explanations_using_large_langu/">Mitigating Popularity Bias in Counterfactual Explanations using Large Language Models</a></strong></dt>
+<dt><strong><a href="mitigating_popularity_bias_in_counterfactual_explanations_using_large_langu/">Mitigating Popularity Bias in Counterfactual Explanations using Large Language Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 LLM 生成用户画像并贪心剔除“出格”历史项，作为 ACCENT 反事实解释的即插即用预处理，使解释流行度分布更贴合用户偏好。</p>
 </dd>
-<dt><strong><a href="opening_the_black_box_interpretable_remedies_for_popularity_bias_in_recomme/">Opening the Black Box: Interpretable Remedies for Popularity Bias in Recommender Systems</a></strong></dt>
+<dt><strong><a href="opening_the_black_box_interpretable_remedies_for_popularity_bias_in_recomme/">Opening the Black Box: Interpretable Remedies for Popularity Bias in Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用稀疏自编码器定位流行度神经元并做激活转向，在 ML-1M/Last.fm 上以极小精度损失换取显著曝光公平提升。</p>
 </dd>
-<dt><strong><a href="privacy_risks_of_llm_empowered_recommender_systems_an_inversion_attack_pers/">Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective</a></strong></dt>
+<dt><strong><a href="privacy_risks_of_llm_empowered_recommender_systems_an_inversion_attack_pers/">Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>首次系统研究 LLM 推荐系统的 logits 反演攻击，提出相似度引导精炼，可恢复 65% 交互物品与 87% 年龄性别。</p>
 </dd>
-<dt><strong><a href="recps_privacy_risk_scoring_for_recommender_systems/">RecPS: Privacy Risk Scoring for Recommender Systems</a></strong></dt>
+<dt><strong><a href="recps_privacy_risk_scoring_for_recommender_systems/">RecPS: Privacy Risk Scoring for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>基于差分隐私推导交互级隐私分数，用 RecLiRA 成员推断攻击估计 TPR/FPR，指导细粒度交互移除以兼顾隐私与效用。</p>
 </dd>
-<dt><strong><a href="rethinking_the_privacy_of_text_embeddings_a_reproducibility_study_of_text_e/">Rethinking the Privacy of Text Embeddings: A Reproducibility Study of \&quot;Text Embeddings Reveal (Almost) As Much As Text\&quot;</a></strong></dt>
+<dt><strong><a href="rethinking_the_privacy_of_text_embeddings_a_reproducibility_study_of_text_e/">Rethinking the Privacy of Text Embeddings: A Reproducibility Study of \&quot;Text Embeddings Reveal (Almost) As Much As Text\&quot;</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>复现 Vec2Text 嵌入反演攻击，揭示其长度敏感性，并提出免调参 8-bit 量化作为轻量隐私防御。</p>
 </dd>
-<dt><strong><a href="ricciflowrec_a_geometric_root_cause_recommender_using_ricci_curvature_on_fi/">RicciFlowRec: A Geometric Root Cause Recommender Using Ricci Curvature on Financial Graphs</a></strong></dt>
+<dt><strong><a href="ricciflowrec_a_geometric_root_cause_recommender_using_ricci_curvature_on_fi/">RicciFlowRec: A Geometric Root Cause Recommender Using Ricci Curvature on Financial Graphs</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 Ollivier/Forman-Ricci 曲率与 Ricci 流在动态金融图上做根因归因，以曲率风险惩罚重排资产，NDCG@10 提升 4.9%、Top-10 波动降 28%。</p>
 </dd>
-<dt><strong><a href="stairway_to_fairness_connecting_group_and_individual_fairness/">Stairway to Fairness: Connecting Group and Individual Fairness</a></strong></dt>
+<dt><strong><a href="stairway_to_fairness_connecting_group_and_individual_fairness/">Stairway to Fairness: Connecting Group and Individual Fairness</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>首次用同一族度量（SD/Gini/Atk）在 3 数据集 8 组 LLMRec 运行上实证组公平与个体公平的错位，揭示组间公平掩盖组内与个体不公。</p>
 </dd>

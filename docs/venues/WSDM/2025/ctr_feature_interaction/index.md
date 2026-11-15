@@ -9,11 +9,11 @@
 🔥 **高频主题：** CTR预估与特征交叉 ×2 · 精排 ×2
 
 <dl>
-<dt><strong><a href="explainable_ctr_prediction_via_llm_reasoning/">Explainable CTR Prediction via LLM Reasoning</a></strong></dt>
+<dt><strong><a href="explainable_ctr_prediction_via_llm_reasoning/">Explainable CTR Prediction via LLM Reasoning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 PPO 双奖励（LC 用户意图对齐 + IC 与 ID-CTR 模型对齐）把 LLM 解释生成嵌入 CTR 流程，免解释数据集，AUC 最高提升 18.2%。</p>
 </dd>
-<dt><strong><a href="fusion_matters_learning_fusion_in_deep_click_through_rate_prediction_models/">Fusion Matters: Learning Fusion in Deep Click-through Rate Prediction Models</a></strong></dt>
+<dt><strong><a href="fusion_matters_learning_fusion_in_deep_click_through_rate_prediction_models/">Fusion Matters: Learning Fusion in Deep Click-through Rate Prediction Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>将CTR模型的融合连接与融合算子统一建模为可微搜索空间，用one-shot联合选择替代手工stacked/parallel，三数据集AUC稳定超越EDCN与NASRec。</p>
 </dd>

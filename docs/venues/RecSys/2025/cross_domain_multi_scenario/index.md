@@ -9,23 +9,23 @@
 🔥 **高频主题：** 召回 ×4
 
 <dl>
-<dt><strong><a href="affect_aware_cross_domain_recommendation_for_art_therapy_via_music_preferen/">Affect-aware Cross-Domain Recommendation for Art Therapy via Music Preference Elicitation</a></strong></dt>
+<dt><strong><a href="affect_aware_cross_domain_recommendation_for_art_therapy_via_music_preferen/">Affect-aware Cross-Domain Recommendation for Art Therapy via Music Preference Elicitation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>以音乐偏好诱导替代纯视觉诱导，提出 Mozart/Haydn/Salieri 三种情感感知跨域艺术治疗推荐，200 人用户研究验证情绪改善。</p>
 </dd>
-<dt><strong><a href="impacts_of_mainstream_driven_algorithms_on_recommendations_for_children_acr/">Impacts of Mainstream-Driven Algorithms on Recommendations for Children Across Domains: A Reproducibility Study</a></strong></dt>
+<dt><strong><a href="impacts_of_mainstream_driven_algorithms_on_recommendations_for_children_acr/">Impacts of Mainstream-Driven Algorithms on Recommendations for Children Across Domains: A Reproducibility Study</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>跨电影/音乐/图书三域复现儿童与主流用户偏好偏差，并引入流行度偏差指标，揭示推荐算法对儿童群体的域特异性失效。</p>
 </dd>
-<dt><strong><a href="leave_no_one_behind_fairness_aware_cross_domain_recommender_systems_for_non/">Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for Non-Overlapping Users</a></strong></dt>
+<dt><strong><a href="leave_no_one_behind_fairness_aware_cross_domain_recommender_systems_for_non/">Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for Non-Overlapping Users</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>为无源域数据的非重叠用户生成虚拟源域画像，双注意力+限制器实现模型无关的跨域公平性纠偏，UGF最高降94.13%且整体精度不降。</p>
 </dd>
-<dt><strong><a href="rankgraph_unified_heterogeneous_graph_learning_for_cross_domain_recommendat/">RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation</a></strong></dt>
+<dt><strong><a href="rankgraph_unified_heterogeneous_graph_learning_for_cross_domain_recommendat/">RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>构建跨产品异构异质图，用 GPU 加速 RGCN + 对比学习产出图 token 注入推荐基础模型，线上 CTR +0.92%、CVR +2.82%。</p>
 </dd>
-<dt><strong><a href="zero_shot_cross_domain_knowledge_distillation_a_case_study_on_youtube_music/">Zero-shot Cross-domain Knowledge Distillation: A Case study on YouTube Music</a></strong></dt>
+<dt><strong><a href="zero_shot_cross_domain_knowledge_distillation_a_case_study_on_youtube_music/">Zero-shot Cross-domain Knowledge Distillation: A Case study on YouTube Music</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 YouTube 视频大教师零样本蒸馏到低流量 YouTube Music 双排序模型，离线 AUC 微增但线上新发内容互动 +11.39%。</p>
 </dd>

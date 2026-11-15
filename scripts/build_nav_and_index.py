@@ -19,6 +19,8 @@ from collections import defaultdict
 
 from init_clean_recsys_repo import VENUES, CATEGORIES, SUPPORTED_YEARS
 
+REPO_SLUG = "RecSys-Paper-Notes"
+
 CAT_ICONS = {
     "collaborative_filtering": "🤝",
     "graph_rec": "🕸️",
@@ -36,6 +38,25 @@ CAT_ICONS = {
     "multi_task_reranking": "⚖️",
     "rl_bandit_rec": "🎮",
     "debias_fairness_industrial": "🛡️",
+}
+
+CATEGORY_ABBR = {
+    "collaborative_filtering": "CF",
+    "graph_rec": "Graph",
+    "self_supervised_denoising": "SSL",
+    "sequential_rec": "Seq",
+    "generative_rec": "GenRec",
+    "llm_rec": "LLM4Rec",
+    "agent_conversational_rec": "CRS",
+    "multimodal_rec": "MM",
+    "social_group_rec": "Social",
+    "cold_start_rec": "Cold",
+    "cross_domain_multi_scenario": "Cross",
+    "poi_spatiotemporal_rec": "POI",
+    "ctr_feature_interaction": "CTR",
+    "multi_task_reranking": "MTL",
+    "rl_bandit_rec": "RL",
+    "debias_fairness_industrial": "Debias",
 }
 
 PORTAL_STYLE = """<style>
@@ -221,6 +242,37 @@ def note_url(rel_from_docs: str) -> str:
     return rel_from_docs[:-3] + "/" if rel_from_docs.endswith(".md") else rel_from_docs.rstrip("/") + "/"
 
 
+def render_paper_tags(item: dict) -> str:
+    """渲染论文标题旁的出处、类别与年份标签。"""
+    tags = []
+    venue_code = item.get("venue", "")
+    venue = VENUES.get(venue_code, {})
+    venue_name = venue.get("name", venue_code)
+    if venue_name:
+        tags.append(
+            f'<span class="paper-tag paper-tag--venue" '
+            f'title="发表出处：{_esc(venue.get("full_name", venue_name))}">{_esc(venue_name)}</span>'
+        )
+
+    for category in item.get("categories", []):
+        cinfo = CATEGORIES.get(category)
+        if not cinfo:
+            continue
+        abbr = CATEGORY_ABBR.get(category, category)
+        tags.append(
+            f'<span class="paper-tag paper-tag--category" '
+            f'title="{_esc(cinfo["title"])}">{_esc(abbr)}</span>'
+        )
+
+    year = item.get("year", "")
+    if year:
+        tags.append(
+            f'<span class="paper-tag paper-tag--year" title="发表年份">{_esc(year)}</span>'
+        )
+
+    return f'<span class="paper-tags">{"".join(tags)}</span>' if tags else ""
+
+
 def render_paper_dl(items: list, href_for) -> str:
     """按原版 Paper-Notes 的 <dl><dt><dd> 结构渲染论文列表。"""
     lines = ["<dl>"]
@@ -229,7 +281,9 @@ def render_paper_dl(items: list, href_for) -> str:
         desc = re.sub(r"^(?:\[[^\]]+\]\s*)+", "", item.get("description") or "").strip()
         desc = _esc(desc or "点击查看核心思想与实验协议精读")
         href = _esc(href_for(item))
-        lines.append(f'<dt><strong><a href="{href}">{title}</a></strong></dt>')
+        lines.append(
+            f'<dt><strong><a href="{href}">{title}</a></strong>{render_paper_tags(item)}</dt>'
+        )
         lines.append("<dd>")
         lines.append(f"<p>{desc}</p>")
         lines.append("</dd>")
@@ -740,9 +794,9 @@ def build_home_and_mkdocs_yml(repo_root: Path, notes: list, years: list, github_
 
     mkdocs_content = f"""site_name: RecSys Paper Notes · 推荐系统论文精读库
 site_description: RecSys Paper Notes 推荐系统与信息检索顶会顶刊论文精读库，覆盖 {len(VENUES)} 个会刊、{len(CATEGORIES)} 大方向，按会刊/年份/主题分类，每篇 5 分钟读懂核心思想
-site_url: https://{github_user}.github.io/Paper-Notes/
-repo_url: https://github.com/{github_user}/Paper-Notes
-repo_name: {github_user}/Paper-Notes
+site_url: https://{github_user}.github.io/{REPO_SLUG}/
+repo_url: https://github.com/{github_user}/{REPO_SLUG}
+repo_name: {github_user}/{REPO_SLUG}
 
 theme:
   name: material
@@ -756,20 +810,18 @@ theme:
     - search.highlight
     - content.code.copy
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7
-        name: 切换至深色模式
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+        name: 切换至浅色模式
+    - scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-4
-        name: 切换至浅色模式
+        name: 切换至深色模式
 
 plugins:
   - search:

@@ -10,11 +10,11 @@
 
 - 仓库：[jbdcia321vw/RecSys-Paper-Notes](https://github.com/jbdcia321vw/RecSys-Paper-Notes)
 - 在线阅读：**[https://jbdcia321vw.github.io/RecSys-Paper-Notes/](https://jbdcia321vw.github.io/RecSys-Paper-Notes/)**
-- 当前收录：**1240 篇**推荐系统与信息检索论文精读笔记
+- 当前收录：**1,240 篇**推荐系统与信息检索论文精读笔记（2025 年 672 篇，2026 年 568 篇）
 - 覆盖范围：**22 个顶会与顶刊**、**16 个推荐系统正交方向**
 - 更新方式：自动发现候选论文 + LLM 辅助生成 + 人工抽查纠错
 
-> 仓库 slug 保持为 `Paper-Notes`，因此 GitHub Pages 访问地址稳定为
+> 仓库已更名为 `RecSys-Paper-Notes`，GitHub Pages 访问地址为
 > **https://jbdcia321vw.github.io/RecSys-Paper-Notes/**。
 
 ## 🌐 在线阅读
@@ -50,7 +50,9 @@ RecSys Paper Notes 是一个面向推荐系统（Recommender Systems）与信息
 
 ## 📊 收录概览
 
-> 统计截至 2026-11，具体数量以[站点首页](https://jbdcia321vw.github.io/RecSys-Paper-Notes/)为准。
+> 统计截至 2026-11-15，具体数量以[站点首页](https://jbdcia321vw.github.io/RecSys-Paper-Notes/)为准。
+>
+> 年份分布：2025 年 **672** 篇，2026 年 **568** 篇，合计 **1,240** 篇。
 
 ### 🧭 研究方向
 

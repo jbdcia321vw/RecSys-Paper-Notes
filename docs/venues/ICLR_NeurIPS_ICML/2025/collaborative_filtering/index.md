@@ -9,11 +9,11 @@
 🔥 **高频主题：** 召回 ×2
 
 <dl>
-<dt><strong><a href="covariate_moderated_empirical_bayes_matrix_factorization/">Covariate-moderated Empirical Bayes Matrix Factorization</a></strong></dt>
+<dt><strong><a href="covariate_moderated_empirical_bayes_matrix_factorization/">Covariate-moderated Empirical Bayes Matrix Factorization</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用协变量调制的经验贝叶斯先验统一矩阵分解，MovieLens 100K 上 RMSE 全面优于 EBMF/MFAI/VAE 系基线。</p>
 </dd>
-<dt><strong><a href="recommendations_with_sparse_comparison_data_provably_fast_convergence_for_n/">Recommendations with Sparse Comparison Data: Provably Fast Convergence for Nonconvex Matrix Factorization</a></strong></dt>
+<dt><strong><a href="recommendations_with_sparse_comparison_data_provably_fast_convergence_for_n/">Recommendations with Sparse Comparison Data: Provably Fast Convergence for Nonconvex Matrix Factorization</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>将成对比较反馈建模为低秩矩阵分解下的离散选择似然，证明稀疏数据下投影梯度下降在热启动邻域内指数收敛，样本复杂度近最优。</p>
 </dd>

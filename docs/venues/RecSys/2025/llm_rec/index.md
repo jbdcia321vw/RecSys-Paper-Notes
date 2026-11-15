@@ -9,19 +9,19 @@
 🔥 **高频主题：** 大语言模型推荐 ×4
 
 <dl>
-<dt><strong><a href="balancing_fine_tuning_and_rag_a_hybrid_strategy_for_dynamic_llm_recommendat/">Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates</a></strong></dt>
+<dt><strong><a href="balancing_fine_tuning_and_rag_a_hybrid_strategy_for_dynamic_llm_recommendat/">Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>以十亿用户短视频兴趣探索系统为案例，量化对比微调与RAG的更新代价/敏捷性，提出月度微调+周内RAG刷新的混合更新策略，线上A/B显著提升满意度。</p>
 </dd>
-<dt><strong><a href="biases_in_llm_generated_musical_taste_profiles_for_recommendation/">Biases in LLM-Generated Musical Taste Profiles for Recommendation</a></strong></dt>
+<dt><strong><a href="biases_in_llm_generated_musical_taste_profiles_for_recommendation/">Biases in LLM-Generated Musical Taste Profiles for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>通过 64 人用户研究揭示 LLM 生成音乐品味画像存在流派/国别系统性偏差，且用户认同度与下游推荐指标仅弱相关。</p>
 </dd>
-<dt><strong><a href="evaluating_podcast_recommendations_with_profile_aware_llm_as_a_judge/">Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge</a></strong></dt>
+<dt><strong><a href="evaluating_podcast_recommendations_with_profile_aware_llm_as_a_judge/">Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用90天收听历史蒸馏自然语言用户画像，驱动零样本LLM做剧集级与模型级离线评判，47人用户研究中与人工判断高度一致。</p>
 </dd>
-<dt><strong><a href="heterogeneous_user_modeling_for_llm_based_recommendation/">Heterogeneous User Modeling for LLM-based Recommendation</a></strong></dt>
+<dt><strong><a href="heterogeneous_user_modeling_for_llm_based_recommendation/">Heterogeneous User Modeling for LLM-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用压缩提示+[USER]锚点token将跨域异构行为压成单一用户表征，并以域重要性平滑加权缓解域跷跷板，六域全库排序R@10最高提升约30%。</p>
 </dd>
