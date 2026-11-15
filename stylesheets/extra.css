@@ -350,6 +350,62 @@
   border-radius: 2px;
 }
 
+/* ── Paper list tags: venue / category / year ── */
+.md-typeset .paper-tags {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.28rem;
+  margin-left: 0.55rem;
+  vertical-align: middle;
+}
+.md-typeset .paper-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.08rem 0.46rem;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  font-size: 0.66rem;
+  font-weight: 700;
+  line-height: 1.45;
+  letter-spacing: 0.01em;
+  white-space: nowrap;
+}
+.md-typeset .paper-tag--venue {
+  background: rgba(63, 81, 181, 0.14);
+  border-color: rgba(63, 81, 181, 0.28);
+  color: #3949ab;
+}
+.md-typeset .paper-tag--category {
+  background: transparent;
+  border-color: currentColor;
+  color: var(--md-accent-fg-color);
+}
+.md-typeset .paper-tag--year {
+  background: rgba(128, 128, 128, 0.12);
+  border-color: rgba(128, 128, 128, 0.22);
+  color: var(--md-default-fg-color--light);
+}
+[data-md-color-scheme="slate"] .md-typeset .paper-tag--venue {
+  background: rgba(121, 134, 203, 0.2);
+  border-color: rgba(121, 134, 203, 0.38);
+  color: #c5cae9;
+}
+[data-md-color-scheme="slate"] .md-typeset .paper-tag--category {
+  color: #c4b5fd;
+}
+[data-md-color-scheme="slate"] .md-typeset .paper-tag--year {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.16);
+  color: rgba(255, 255, 255, 0.72);
+}
+@media (max-width: 600px) {
+  .md-typeset .paper-tags {
+    display: flex;
+    margin: 0.32rem 0 0;
+  }
+}
+
+
 /* ── Conf index "查看全部 N 篇 → / Browse all N → " entry links ── */
 /* These render as a bare <p><a> (note titles become <dl><dt><strong><a>,
    already styled above). Without this rule the link inherits the dark navy
