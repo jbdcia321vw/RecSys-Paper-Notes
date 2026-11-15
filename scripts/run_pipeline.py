@@ -90,6 +90,33 @@ def wait_for_off_peak() -> None:
     time.sleep(wait)
 
 
+def sync_repo_name_to_recsys_paper_notes() -> None:
+    """自动将脚本与配置文件中残留的旧仓库路径 jbdcia321vw/Paper-Notes 同步为 jbdcia321vw/RecSys-Paper-Notes。"""
+    targets = [
+        REPO_ROOT / "mkdocs.yml",
+        REPO_ROOT / "README.md",
+        REPO_ROOT / "docs" / "about.md",
+        SCRIPT_DIR / "build_nav_and_index.py",
+        SCRIPT_DIR / "init_clean_recsys_repo.py",
+    ]
+    for p in targets:
+        if not p.exists():
+            continue
+        try:
+            orig = p.read_text(encoding="utf-8", errors="ignore")
+            updated = (
+                orig.replace("jbdcia321vw/Paper-Notes", "jbdcia321vw/RecSys-Paper-Notes")
+                .replace("jbdcia321vw.github.io/Paper-Notes", "jbdcia321vw.github.io/RecSys-Paper-Notes")
+                .replace("- 仓库 slug：`Paper-Notes`（保持不变，以保证 GitHub Pages 地址稳定）\n", "")
+                .replace("- 仓库 slug：Paper-Notes（保持不变，以保证 GitHub Pages 地址稳定）\n", "")
+                .replace("当前已收录 300+ 篇 2026 年论文笔记，具体数量以首页统计为准。", "当前已覆盖 2025–2026 等多年度顶会与顶刊论文笔记，具体实时收录数量以首页统计为准。")
+            )
+            if updated != orig:
+                p.write_text(updated, encoding="utf-8")
+        except OSError:
+            pass
+
+
 def run_command(cmd: list, dry_run: bool = False, log: RunLog = None, label: str = "") -> float:
     display = " ".join(shlex.quote(str(part)) for part in cmd)
     title = f"{label} " if label else ""
@@ -223,6 +250,7 @@ def main() -> int:
 
     # 预先创建目标年份下全部 22 会刊 x 16 分类子目录，防止 build_nav_and_index 写空分类 index.md 时报 FileNotFoundError
     if not args.dry_run:
+        sync_repo_name_to_recsys_paper_notes()
         for _v in VENUES:
             for _c in CATEGORIES:
                 (REPO_ROOT / "docs" / "venues" / _v / str(args.year) / _c).mkdir(parents=True, exist_ok=True)
@@ -349,6 +377,9 @@ def main() -> int:
         log=log,
         label="重建导航索引",
     )
+
+    if not args.dry_run:
+        sync_repo_name_to_recsys_paper_notes()
 
     if not args.skip_site:
         run_command(
