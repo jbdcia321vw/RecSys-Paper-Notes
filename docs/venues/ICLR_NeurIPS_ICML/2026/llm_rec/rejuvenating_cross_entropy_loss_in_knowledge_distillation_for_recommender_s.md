@@ -140,13 +140,28 @@ Gowalla 上 NDCG@20（三种同构设置，趋势一致）：
 <!-- related-papers:start -->
 ## 相关论文推荐
 
-> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
-
-<div class="related-papers">
-  <a class="related-paper" href="../../../../KDD/2025/llm_rec/exploring_feature_based_knowledge_distillation_for_recommender_system_a_fre/">    <span class="related-paper-title">Exploring Feature-based Knowledge Distillation for Recommender System: A Frequency Perspective</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
-  <a class="related-paper" href="../../../../RecSys/2025/cross_domain_multi_scenario/zero_shot_cross_domain_knowledge_distillation_a_case_study_on_youtube_music/">    <span class="related-paper-title">Zero-shot Cross-domain Knowledge Distillation: A Case study on YouTube Music</span>    <span class="related-paper-meta">RecSys · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
-  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/preference_consistent_knowledge_distillation_for_recommender_system/">    <span class="related-paper-title">Preference-Consistent Knowledge Distillation for Recommender System</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
-  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/active_large_language_model_based_knowledge_distillation_for_session_based_/">    <span class="related-paper-title">Active Large Language Model-based Knowledge Distillation for Session-based Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
-  <a class="related-paper" href="../../../../WWW/2025/multi_task_reranking/nlgr_utilizing_neighbor_lists_for_generative_rerank_in_personalized_recomme/">    <span class="related-paper-title">NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+<div class="conf-index related-papers">
+<dl>
+<dt><strong><a href="../../../../KDD/2025/llm_rec/exploring_feature_based_knowledge_distillation_for_recommender_system_a_fre/">Exploring Feature-based Knowledge Distillation for Recommender System: A Frequency Perspective</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dd>
+<p>从频域视角揭示特征蒸馏等权缺陷，提出轻量图滤波重加权 FreqD，全库排序下 Recall@20 最高提升 18.2%。</p>
+</dd>
+<dt><strong><a href="../../../../RecSys/2025/cross_domain_multi_scenario/zero_shot_cross_domain_knowledge_distillation_a_case_study_on_youtube_music/">Zero-shot Cross-domain Knowledge Distillation: A Case study on YouTube Music</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dd>
+<p>用 YouTube 视频大教师零样本蒸馏到低流量 YouTube Music 双排序模型，离线 AUC 微增但线上新发内容互动 +11.39%。</p>
+</dd>
+<dt><strong><a href="../../../../TKDE/2025/llm_rec/preference_consistent_knowledge_distillation_for_recommender_system/">Preference-Consistent Knowledge Distillation for Recommender System</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dd>
+<p>揭示特征蒸馏中投影器导致的偏好不一致现象，提出成对/列表两种正则项约束投影器，全库排序下 NDCG@20 最高提升 20%。</p>
+</dd>
+<dt><strong><a href="../../../../AAAI/2025/llm_rec/active_large_language_model_based_knowledge_distillation_for_session_based_/">Active Large Language Model-based Knowledge Distillation for Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dd>
+<p>用 max-min 主动学习从全量会话中挑出少量高增益实例喂给 GPT-4 教师蒸馏，500 条样本即超越全量 KD 与 10 倍参数教师。</p>
+</dd>
+<dt><strong><a href="../../../../WWW/2025/multi_task_reranking/nlgr_utilizing_neighbor_lists_for_generative_rerank_in_personalized_recomme/">NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dd>
+<p>用邻居列表相对奖励对齐评估器-生成器目标，并以采样式非自回归生成灵活跳转组合空间，美团线上 CTR +3.25%。</p>
+</dd>
+</dl>
 </div>
 <!-- related-papers:end -->

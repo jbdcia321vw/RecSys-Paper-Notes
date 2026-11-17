@@ -168,13 +168,28 @@ $$\eta_\pi=\frac{\mathbb{E}_{u:r_u>0}[\mathrm{NDCG}@k(\pi)]}{\mathbb{E}_{u:r_u>0
 <!-- related-papers:start -->
 ## 相关论文推荐
 
-> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
-
-<div class="related-papers">
-  <a class="related-paper" href="../../generative_rec/revisiting_generative_vs_dense_retrieval_a_static_value_prior_reverses_the_/">    <span class="related-paper-title">Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
-  <a class="related-paper" href="../../agent_conversational_rec/retrieval_scoring_and_decoding_shape_performance_and_stability_in_llm_based/">    <span class="related-paper-title">Retrieval, Scoring, and Decoding Shape Performance and Stability in LLM-based Conversational Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
-  <a class="related-paper" href="../../../../RecSys/2025/multi_task_reranking/radar_recall_augmentation_through_deferred_asynchronous_retrieval/">    <span class="related-paper-title">RADAR: Recall Augmentation through Deferred Asynchronous Retrieval</span>    <span class="related-paper-meta">RecSys · 2025 · MTL / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
-  <a class="related-paper" href="../../../../SIGIR/2025/multi_task_reranking/comprehensive_list_generation_for_multi_generator_reranking/">    <span class="related-paper-title">Comprehensive List Generation for Multi-Generator Reranking</span>    <span class="related-paper-meta">SIGIR · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
-  <a class="related-paper" href="../../../2025/multi_task_reranking/you_only_evaluate_once_a_tree_based_rerank_method_at_meituan/">    <span class="related-paper-title">You Only Evaluate Once: A Tree-based Rerank Method at Meituan</span>    <span class="related-paper-meta">CIKM · 2025 · MTL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+<div class="conf-index related-papers">
+<dl>
+<dt><strong><a href="../../generative_rec/revisiting_generative_vs_dense_retrieval_a_static_value_prior_reverses_the_/">Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>在受控 GR/DR 对比下揭示指标选择反转胜负，用免训练静态价值先验重排 DR 即反超 GR 最佳物品价值并保持召回领先。</p>
+</dd>
+<dt><strong><a href="../../agent_conversational_rec/retrieval_scoring_and_decoding_shape_performance_and_stability_in_llm_based/">Retrieval, Scoring, and Decoding Shape Performance and Stability in LLM-based Conversational Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>在 ReDial 上系统解耦候选池规模、一阶段检索器与解码温度对 LLM 重排器的影响，揭示协议选择可移动 NDCG@10 超过模型差距。</p>
+</dd>
+<dt><strong><a href="../../../../RecSys/2025/multi_task_reranking/radar_recall_augmentation_through_deferred_asynchronous_retrieval/">RADAR: Recall Augmentation through Deferred Asynchronous Retrieval</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dd>
+<p>用离线异步全复杂度精排模型对 50 倍候选池预打分并缓存 Top-200，线上绕过召回与粗排直接注入精排，Recall@200 翻倍、线上 +0.8%。</p>
+</dd>
+<dt><strong><a href="../../../../SIGIR/2025/multi_task_reranking/comprehensive_list_generation_for_multi_generator_reranking/">Comprehensive List Generation for Multi-Generator Reranking</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dd>
+<p>提出多生成器-评估器重排框架与列表全面性指标，用 CLIG 自动学习互补生成器，离线 AUC 提升 0.9%、线上观看时长 +0.48%。</p>
+</dd>
+<dt><strong><a href="../../../2025/multi_task_reranking/you_only_evaluate_once_a_tree_based_rerank_method_at_meituan/">You Only Evaluate Once: A Tree-based Rerank Method at Meituan</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dd>
+<p>用树状多尺度上下文提取+上下文缓存实现单阶段全排列重排，离线GAUC显著提升并落地美团外卖。</p>
+</dd>
+</dl>
 </div>
 <!-- related-papers:end -->

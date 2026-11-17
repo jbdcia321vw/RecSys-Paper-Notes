@@ -14,7 +14,6 @@ build_related_papers.py
 
 import argparse
 import hashlib
-import html
 import json
 import posixpath
 import re
@@ -29,15 +28,11 @@ REPO_ROOT = SCRIPT_DIR.parent
 if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
-from build_nav_and_index import CATEGORY_ABBR, VENUES, collect_all_notes
+from build_nav_and_index import collect_all_notes, render_paper_dl
 
 START_MARKER = "<!-- related-papers:start -->"
 END_MARKER = "<!-- related-papers:end -->"
 DEFAULT_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-
-
-def esc(value: str) -> str:
-    return html.escape(value or "", quote=True)
 
 
 def normalize_title(value: str) -> str:
@@ -187,40 +182,22 @@ def relative_note_url(source_rel: str, target_rel: str) -> str:
     return rel.rstrip("/") + "/"
 
 
-def related_meta(note: dict) -> str:
-    venue_code = note.get("venue", "")
-    venue_name = VENUES.get(venue_code, {}).get("name", venue_code)
-    parts = [part for part in [venue_name, note.get("year", "")] if part]
-    categories = " / ".join(
-        CATEGORY_ABBR.get(category, category)
-        for category in note.get("categories", [])[:3]
-    )
-    if categories:
-        parts.append(categories)
-    return " · ".join(parts)
-
-
 def render_related_block(note: dict, related: list) -> str:
     if not related:
         return ""
+
+    def href_for(item: dict) -> str:
+        return relative_note_url(note["rel_from_docs"], item["rel_from_docs"])
+
     lines = [
         START_MARKER,
         "## 相关论文推荐",
         "",
-        f"> 基于论文标题与摘要的语义相似度，推荐 {len(related)} 篇最相关论文。",
-        "",
-        '<div class="related-papers">',
+        '<div class="conf-index related-papers">',
+        render_paper_dl(related, href_for),
+        "</div>",
+        END_MARKER,
     ]
-    for item in related:
-        href = relative_note_url(note["rel_from_docs"], item["rel_from_docs"])
-        lines.append(
-            f'  <a class="related-paper" href="{esc(href)}">'
-            f'    <span class="related-paper-title">{esc(item["title"])}</span>'
-            f'    <span class="related-paper-meta">{esc(related_meta(item))}</span>'
-            f'    <span class="related-paper-score">语义相似度 {item["score"]:.2f}</span>'
-            f'  </a>'
-        )
-    lines.extend(["</div>", END_MARKER])
     return "\n".join(lines)
 
 
@@ -316,6 +293,7 @@ def main() -> int:
                 {
                     "rel_from_docs": other["rel_from_docs"],
                     "title": other.get("title", ""),
+                    "description": other.get("description", ""),
                     "score": float(similarity[index][int(other_index)]),
                     "venue": other.get("venue", ""),
                     "year": other.get("year", ""),

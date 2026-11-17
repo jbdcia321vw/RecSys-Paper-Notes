@@ -116,13 +116,28 @@ flowchart TD
 <!-- related-papers:start -->
 ## 相关论文推荐
 
-> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
-
-<div class="related-papers">
-  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/toward_holistic_evaluation_of_recommender_systems_powered_by_generative_mod/">    <span class="related-paper-title">Toward Holistic Evaluation of Recommender Systems Powered by Generative Models</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
-  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/a_standardized_re_evaluation_of_conversational_recommender_systems_on_the_r/">    <span class="related-paper-title">A Standardized Re-evaluation of Conversational Recommender Systems on the ReDial Dataset</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
-  <a class="related-paper" href="../../../2026/debias_fairness_industrial/normative_alignment_of_recommender_systems_via_internal_label_shift/">    <span class="related-paper-title">Normative Alignment of Recommender Systems via Internal Label Shift</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
-  <a class="related-paper" href="../consistent_explainers_or_unreliable_narrators_understanding_llm_generated_g/">    <span class="related-paper-title">Consistent Explainers or Unreliable Narrators? Understanding LLM-generated Group Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · Social / CRS</span>    <span class="related-paper-score">语义相似度 0.50</span>  </a>
-  <a class="related-paper" href="../../../../WSDM/2026/collaborative_filtering/have_we_really_understood_collaborative_information_an_empirical_investigat/">    <span class="related-paper-title">Have We Really Understood Collaborative Information? An Empirical Investigation</span>    <span class="related-paper-meta">WSDM · 2026 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.49</span>  </a>
+<div class="conf-index related-papers">
+<dl>
+<dt><strong><a href="../../../../SIGIR/2025/debias_fairness_industrial/toward_holistic_evaluation_of_recommender_systems_powered_by_generative_mod/">Toward Holistic Evaluation of Recommender Systems Powered by Generative Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dd>
+<p>提出 Gen-RecSys 评估挑战二分法与 WH-六问 + 三维目标(D1–D5)整体评估框架，用场景化案例揭示传统 NDCG 无法覆盖的幻觉、偏见与政策合规风险。</p>
+</dd>
+<dt><strong><a href="../../../../SIGIR/2026/agent_conversational_rec/a_standardized_re_evaluation_of_conversational_recommender_systems_on_the_r/">A Standardized Re-evaluation of Conversational Recommender Systems on the ReDial Dataset</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>统一复现 7 个 CRS 模型，揭示 Recall@1 复现粒度鸿沟、约 50% 精度来自重复捷径、增益多源于 LLM 骨干而非架构创新。</p>
+</dd>
+<dt><strong><a href="../../../2026/debias_fairness_industrial/normative_alignment_of_recommender_systems_via_internal_label_shift/">Normative Alignment of Recommender Systems via Internal Label Shift</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>将编辑/公平目标建模为属性层内部标签偏移，用免重训的闭式重加权实现系统级规范对齐，KL 大幅下降且 AUC 基本无损。</p>
+</dd>
+<dt><strong><a href="../consistent_explainers_or_unreliable_narrators_understanding_llm_generated_g/">Consistent Explainers or Unreliable Narrators? Understanding LLM-generated Group Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dd>
+<p>用社会选择聚合策略作多基线对4个LLM的群组推荐与解释做一致性审计，发现推荐近似ADD、解释常称平均但夹带未定义流行度/相似度/多样性。</p>
+</dd>
+<dt><strong><a href="../../../../WSDM/2026/collaborative_filtering/have_we_really_understood_collaborative_information_an_empirical_investigat/">Have We Really Understood Collaborative Information? An Empirical Investigation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>以物品共现路径长度量化协作信息为0/1/2-hop协作关系，系统实证其在六个基准上的分布、对12种推荐算法的影响与预测依赖，揭示模型强于简单CR、弱于复杂CR的核心规律。</p>
+</dd>
+</dl>
 </div>
 <!-- related-papers:end -->

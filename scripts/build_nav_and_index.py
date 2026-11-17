@@ -273,6 +273,15 @@ def render_paper_tags(item: dict) -> str:
     return f'<span class="paper-tags">{"".join(tags)}</span>' if tags else ""
 
 
+PIPELINE_TAG_TERMS = {"召回", "粗排", "精排", "重排", "排序"}
+
+
+def is_pipeline_tag(tag: str) -> bool:
+    """判断 tag 是否只由召回/精排/重排等推荐链路阶段词组成。"""
+    parts = [part for part in re.split(r"[\s/+、,，&和与及\-]+", tag) if part]
+    return bool(parts) and all(part in PIPELINE_TAG_TERMS for part in parts)
+
+
 def render_hot_tags(items: list, excluded: set, limit: int = 8) -> str:
     """根据论文 frontmatter tags 生成高频主题摘要。"""
     excluded_norm = {re.sub(r"\s+", "", value).lower() for value in excluded if value}
@@ -280,7 +289,11 @@ def render_hot_tags(items: list, excluded: set, limit: int = 8) -> str:
     for item in items:
         for tag in item.get("tags", []):
             tag = (tag or "").strip()
-            if tag and re.sub(r"\s+", "", tag).lower() not in excluded_norm:
+            if (
+                tag
+                and not is_pipeline_tag(tag)
+                and re.sub(r"\s+", "", tag).lower() not in excluded_norm
+            ):
                 counts[tag] += 1
     hot = sorted(
         ((tag, count) for tag, count in counts.items() if count >= 2),
@@ -838,18 +851,18 @@ theme:
     - search.highlight
     - content.code.copy
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: 切换至深色模式
     - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/brightness-4
+        icon: material/brightness-7
         name: 切换至浅色模式
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换至深色模式
 
 plugins:
   - search:
