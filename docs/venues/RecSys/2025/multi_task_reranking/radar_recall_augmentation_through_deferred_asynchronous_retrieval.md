@@ -122,3 +122,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （系统描述条理清晰、RQ 组织明确，但全文几乎无公式与复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （线上 +0.8% 顶线提升且零延迟代价，落地价值高；但无开源代码、强依赖内部基础设施，复现门槛高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/the_recall_ceiling_of_llm_recommendation_reranking/">    <span class="related-paper-title">The Recall Ceiling of LLM Recommendation Reranking</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/grank_towards_target_aware_and_streamlined_industrial_retrieval_with_a_gene/">    <span class="related-paper-title">GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../non_parametric_graph_convolution_for_re_ranking_in_recommendation_systems/">    <span class="related-paper-title">Non-parametric Graph Convolution for Re-ranking in Recommendation Systems</span>    <span class="related-paper-meta">RecSys · 2025 · MTL / Graph</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/revisiting_generative_vs_dense_retrieval_a_static_value_prior_reverses_the_/">    <span class="related-paper-title">Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/pi2i_a_personalized_item_based_collaborative_filtering_retrieval_framework/">    <span class="related-paper-title">PI2I: A Personalized Item-Based Collaborative Filtering Retrieval Framework</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

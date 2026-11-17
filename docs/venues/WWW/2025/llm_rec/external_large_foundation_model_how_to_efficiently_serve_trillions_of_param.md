@@ -119,3 +119,16 @@ Amazon Electronics（DMIN→DeepFaM）：0.8502 → **0.8573** AUC，LogLoss 0.5
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理陈述与附录构造性证明完整，符号清晰；正文公式与系统描述略混杂，部分细节下放附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在 Meta 广告系统服务万亿参数模型且零线上延迟增量，DAS 架构可直接借鉴；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/recranker_instruction_tuning_large_language_model_as_ranker_for_top_k_recom/">    <span class="related-paper-title">RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/one_model_for_all_large_language_models_are_domain_agnostic_recommendation_/">    <span class="related-paper-title">One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Cross</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../TKDD/2026/generative_rec/eval4direc_a_unified_and_systematic_evaluation_framework_for_diffusion_base/">    <span class="related-paper-title">Eval4DiRec: A Unified and Systematic Evaluation Framework for Diffusion-based Recommender Systems</span>    <span class="related-paper-meta">ACM TKDD · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/sequential_rec/ptf_fsr_a_parameter_transmission_free_federated_sequential_recommender_syst/">    <span class="related-paper-title">PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+</div>
+<!-- related-papers:end -->

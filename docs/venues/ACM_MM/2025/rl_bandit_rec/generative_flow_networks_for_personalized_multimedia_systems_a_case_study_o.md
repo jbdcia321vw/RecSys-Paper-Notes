@@ -130,3 +130,16 @@ $R(s,a)=\alpha Q(s,a)-\beta L(s,a)-\gamma C(s,a)$。
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （GFlowNet 基础公式与统一框架五要素表述完整，但个性化与多候选的增益归因在正文中略有重叠）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （问题定义贴近快手等真实业务，但无开源代码、依赖仿真器与合成偏好，线上部署前需补齐时延与奖励校准验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/flowtime_towards_continuous_generative_watch_time_prediction_via_flow_based/">    <span class="related-paper-title">FlowTime: Towards Continuous Generative Watch Time Prediction via Flow-based Personalized Priors</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/a_content_driven_micro_video_recommendation_dataset_at_scale/">    <span class="related-paper-title">A Content-Driven Micro-Video Recommendation Dataset at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/gflowgr_fine_tuning_generative_recommendation_frameworks_with_generative_fl/">    <span class="related-paper-title">GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / RL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/efficient_multimodal_streaming_recommendation_via_expandable_side_mixture_o/">    <span class="related-paper-title">Efficient Multimodal Streaming Recommendation via Expandable Side Mixture-of-Experts</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/when_how_to_write_for_personalized_demand_aware_query_rewriting_in_video_se/">    <span class="related-paper-title">When &amp; How to Write for Personalized Demand-aware Query Rewriting in Video Search</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

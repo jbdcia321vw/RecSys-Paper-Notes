@@ -123,3 +123,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、框架图清晰，但符号定义偏简，Merge/多头的具体实现与复杂度分析略欠严谨）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已全量部署抖音 ECS 服务百万用户，MPS 部署方案完整可借鉴，延迟仅 +0.38%，落地价值极高；扣分项为未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/slmrec_distilling_large_language_models_into_small_for_sequential_recommend/">    <span class="related-paper-title">SLMRec: Distilling Large Language Models into Small for Sequential Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/continual_recommender_systems/">    <span class="related-paper-title">Continual Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/cold_start_rec/large_language_model_simulator_for_cold_start_recommendation/">    <span class="related-paper-title">Large Language Model Simulator for Cold-Start Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/sequential_rec/closing_the_long_short_view_gap_in_sequential_recommendation_without_cached/">    <span class="related-paper-title">Closing the Long-Short View Gap in Sequential Recommendation without Cached History</span>    <span class="related-paper-meta">CIKM · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

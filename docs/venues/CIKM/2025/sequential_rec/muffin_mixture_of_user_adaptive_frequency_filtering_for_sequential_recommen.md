@@ -139,3 +139,16 @@ $$\mathcal{L}=\mathcal{L}_{rec}+\alpha\mathcal{L}_{aux}+\beta\mathcal{L}_{bal}$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RFFT 半谱、零填充维度、门控公式符号一致且维度标注清晰，UAF 只取 $\mathbf{X}^0$ 这一非显然设计有明确交代；频带切分边界公式略显琐碎）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、基于 RecBole-DA 可直接复现，训练效率优于 SLIME4Rec；但推理侧每用户额外 0.03ms 与 $K$ 次逆变换在超大规模候选集下需工程优化）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/sequential_rec/wavelet_enhanced_adaptive_frequency_filter_for_sequential_recommendation/">    <span class="related-paper-title">Wavelet Enhanced Adaptive Frequency Filter for Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/sequential_rec/exploiting_inter_session_information_with_frequency_enhanced_dual_path_netw/">    <span class="related-paper-title">Exploiting Inter-Session Information with Frequency-enhanced Dual-Path Networks for Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/fedin_frequency_enhanced_deep_interest_network_for_click_through_rate_predi/">    <span class="related-paper-title">FEDIN: Frequency-Enhanced Deep Interest Network for Click-Through Rate Prediction</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/frequency_aware_graph_signal_processing_for_collaborative_filtering/">    <span class="related-paper-title">Frequency-aware Graph Signal Processing for Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/sigma_selective_gated_mamba_for_sequential_recommendation/">    <span class="related-paper-title">SIGMA: Selective Gated Mamba for Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

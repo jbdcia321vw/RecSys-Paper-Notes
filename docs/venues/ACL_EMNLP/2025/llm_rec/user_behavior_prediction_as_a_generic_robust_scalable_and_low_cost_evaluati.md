@@ -118,3 +118,16 @@ $$\text{Gen}(\theta) \propto -\mathbb{E}_{\delta_j}\left[\hat{H}(B_T|\delta_j) -
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （熵框架公式简洁、Turing/Wittgenstein 哲学动机铺陈充分，但部分论证偏思辨、缺严格推导）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （低成本复用现有推荐数据集是亮点，但闭源模型付费复现、50 候选小规模限制了直接工程部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/do_llms_memorize_recommendation_datasets_a_preliminary_study_on_movielens_1/">    <span class="related-paper-title">Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/generative_rec/generative_large_recommendation_models_emerging_trends_in_llms_for_recommen/">    <span class="related-paper-title">Generative Large Recommendation Models: Emerging Trends in LLMs for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/sprint_scalable_and_predictive_intent_refinement_for_llm_enhanced_session_b/">    <span class="related-paper-title">SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

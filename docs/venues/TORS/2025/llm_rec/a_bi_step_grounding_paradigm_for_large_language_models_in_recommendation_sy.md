@@ -136,3 +136,16 @@ $$\tilde{D}_i = \hat{D}_i \,(1 + P_i)^{\gamma}, \quad P_i = \frac{C_i - \min_j C
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （空间定义与公式推导简洁自洽，统计注入公式完整，但部分实现细节如 oracle 表征的具体抽取层未充分说明）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、1024 样本即可用的低成本特性极具吸引力，但 LLM 推理延迟与全库检索开销仍是线上部署的主要瓶颈）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/how_can_recommender_systems_benefit_from_large_language_models_a_survey/">    <span class="related-paper-title">How Can Recommender Systems Benefit from Large Language Models: A Survey</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/one_model_for_all_large_language_models_are_domain_agnostic_recommendation_/">    <span class="related-paper-title">One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Cross</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/tf_dcon_leveraging_large_language_models_llms_to_empower_training_free_data/">    <span class="related-paper-title">TF-DCon: Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/reinforced_prompt_personalization_for_recommendation_with_large_language_mo/">    <span class="related-paper-title">Reinforced Prompt Personalization for Recommendation with Large Language Models</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

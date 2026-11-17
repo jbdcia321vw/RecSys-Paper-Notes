@@ -128,3 +128,16 @@ Hit Ratio@50（NDCG@50 乘 $10^{-3}$，此处仅列 Hit@50，最优加粗）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （双层优化与检测打分定义清晰，攻击侧缺形式化收敛/最优性讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （攻击零注入成本、检测可直接嵌入内容审核链路，但攻击/检测代码未开源，复现依赖商用 LLM）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/llm_rec/prompt_unknown_promotion_attacks_against_llm_based_sequential_recommender_s/">    <span class="related-paper-title">Prompt-Unknown Promotion Attacks against LLM-based Sequential Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/privacy_risks_of_llm_empowered_recommender_systems_an_inversion_attack_pers/">    <span class="related-paper-title">Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../diversity_aware_dual_promotion_poisoning_attack_on_sequential_recommendatio/">    <span class="related-paper-title">Diversity-aware Dual-promotion Poisoning Attack on Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/debias_fairness_industrial/an_efficient_and_effective_agentic_group_shilling_attack_on_recommender_sys/">    <span class="related-paper-title">An Efficient and Effective Agentic Group Shilling Attack on Recommender Systems</span>    <span class="related-paper-meta">ICDM · 2026 · Debias / CRS</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/attacking_and_defending_multi_agent_collaborative_filtering_systems_through/">    <span class="related-paper-title">Attacking and Defending Multi-Agent Collaborative Filtering Systems Through Connectivity</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / CRS</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

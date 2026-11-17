@@ -120,3 +120,17 @@ $$\mathcal{L}_{\text{rank}} = -\,\text{neuralNDCG}(\hat{y}, y)$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （用户不相交 + 时间外推划分严谨、数据规模惊人，但仅两个 GBDT 基线、无显著性检验、无线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化与符号定义清晰，公式简洁；主结果以图代表、缺少精确数值是明显减分项）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （Ray+DDP 的 80 GPU 训练框架与端上排序路线图对工业界参考价值高，但无开源代码、数据不可获取，复现门槛极高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/interest_changes_considering_user_interest_life_cycle_in_recommendation_sys/">    <span class="related-paper-title">Interest Changes: Considering User Interest Life Cycle in Recommendation System</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/decoupled_temporal_encoding_for_generative_recommendation/">    <span class="related-paper-title">Decoupled Temporal Encoding for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2025/multimodal_rec/dual_phase_playtime_guided_recommendation_interest_intensity_exploration_an/">    <span class="related-paper-title">Dual-Phase Playtime-guided Recommendation: Interest Intensity Exploration and Multimodal Random Walks</span>    <span class="related-paper-meta">ACM MM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/temporal_linear_item_item_model_for_sequential_recommendation/">    <span class="related-paper-title">Temporal Linear Item-Item Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/long_term_interest_clock_fine_grained_time_perception_in_streaming_recommen/">    <span class="related-paper-title">Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

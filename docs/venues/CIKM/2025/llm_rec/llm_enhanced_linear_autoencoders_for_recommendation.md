@@ -132,3 +132,16 @@ NV-Embed-V2 骨干下的核心结果（节选 R@20 / N@20）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （两阶段闭式解推导完整、约束条件与正则等效性解释清晰，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、无梯度训练、推理为一次稀疏矩阵乘，工程友好；但 $O(n^3)$ 求逆限制其超大规模物品库的直接部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../2026/sequential_rec/lsf_sr_latent_semantic_fusion_for_sequential_recommendation_via_flow_based_/">    <span class="related-paper-title">LSF-SR: Latent Semantic Fusion for Sequential Recommendation via Flow-based Conditional Variational Autoencoders</span>    <span class="related-paper-meta">CIKM · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/the_mental_world_of_large_language_models_in_recommendation_a_benchmark_on_/">    <span class="related-paper-title">The Mental World of Large Language Models in Recommendation: A Benchmark on Association, Personalization, and Knowledgeability</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

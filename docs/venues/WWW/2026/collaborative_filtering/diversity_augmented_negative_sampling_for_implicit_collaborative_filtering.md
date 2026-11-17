@@ -127,3 +127,17 @@ $$\tilde{\kappa}(\boldsymbol{v}_i,\boldsymbol{v}_j)=q_i q_j \kappa(\boldsymbol{v
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （4 数据集 × 2 骨干 × 9 基线、Full-Ranking 无偏评测、5 种子均值 + $p<0.05$ 显著性，消融覆盖三大模块与两个关键超参）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （多样性定义、复杂度推导与算法伪代码完整清晰，$k$-DPP 细节置于附录，主线公式紧凑）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、无需元数据、训练耗时与 DNS/MixGCF 同量级，但缓存刷新与核矩阵开销在超大规模场景仍需工程优化）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/evaluating_and_addressing_fairness_across_user_groups_in_negative_sampling_/">    <span class="related-paper-title">Evaluating and Addressing Fairness Across User Groups in Negative Sampling for Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/self_supervised_denoising/scone_a_novel_stochastic_sampling_to_generate_contrastive_views_and_hard_ne/">    <span class="related-paper-title">SCONE: A Novel Stochastic Sampling to Generate Contrastive Views and Hard Negative Samples for Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/divergence_meets_consensus_a_multi_source_negative_sampling_framework_for_s/">    <span class="related-paper-title">Divergence Meets Consensus: A Multi-Source Negative Sampling Framework for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../2025/self_supervised_denoising/mixrec_individual_and_collective_mixing_empowers_data_augmentation_for_reco/">    <span class="related-paper-title">MixRec: Individual and Collective Mixing Empowers Data Augmentation for Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2025/multimodal_rec/generating_negative_samples_for_multi_modal_recommendation/">    <span class="related-paper-title">Generating Negative Samples for Multi-Modal Recommendation</span>    <span class="related-paper-meta">ACM MM · 2025 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

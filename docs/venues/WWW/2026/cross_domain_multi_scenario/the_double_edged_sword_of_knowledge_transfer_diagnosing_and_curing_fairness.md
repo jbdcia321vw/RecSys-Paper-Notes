@@ -127,3 +127,17 @@ CMF + QB-gender 设定：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （5 骨干 × 2 数据集 × 2 敏感属性 + 公平性 SOTA 对比 + 完整消融与超参分析，$p<0.05$ 检验到位；缺多组与跨类型域验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理—实证—方法三段闭环清晰，公式推导完整；部分符号在正文与附录间复用略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （模型无关插件、推理零开销、代码已开源，可直接挂载现有 CDR 生产链路）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/cross_domain_multi_scenario/leave_no_one_behind_fairness_aware_cross_domain_recommender_systems_for_non/">    <span class="related-paper-title">Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for Non-Overlapping Users</span>    <span class="related-paper-meta">RecSys · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/post_hoc_provider_fairness_adaptation_via_hierarchical_exposure_alignment/">    <span class="related-paper-title">Post-hoc Provider Fairness Adaptation via Hierarchical Exposure Alignment</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../fedecider_an_llm_based_framework_for_federated_cross_domain_recommendation/">    <span class="related-paper-title">FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../2025/cross_domain_multi_scenario/abxi_invariant_interest_adaptation_for_task_guided_cross_domain_sequential_/">    <span class="related-paper-title">ABXI: Invariant Interest Adaptation for Task-Guided Cross-Domain Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../2025/cross_domain_multi_scenario/uncovering_cross_domain_recommendation_ability_of_large_language_models/">    <span class="related-paper-title">Uncovering Cross-Domain Recommendation Ability of Large Language Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -124,3 +124,16 @@ $$U(l,\mathcal{R}_a)=\frac{1}{|\mathcal{R}_{a,l}|}\sum_{r\in\mathcal{R}_{a,l}}\f
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （指标定义与公式清晰、附录给出完整提示模板与独特性计算，相关性解读谨慎）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与数据开源，审计流水线可直接复用于推荐/生成产品的公平性回归测试，但属离线审计、无在线部署开销）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../poi_spatiotemporal_rec/triptailor_a_real_world_benchmark_for_personalized_travel_planning/">    <span class="related-paper-title">TripTailor: A Real-World Benchmark for Personalized Travel Planning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · POI / CRS</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/from_time_and_place_to_preference_llm_driven_geo_temporal_context_in_recomm/">    <span class="related-paper-title">From Time and Place to Preference: LLM-Driven Geo-Temporal Context in Recommendations</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/large_language_models_as_narrative_driven_recommenders/">    <span class="related-paper-title">Large Language Models as Narrative-Driven Recommenders</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/poi_spatiotemporal_rec/adaptive_location_hierarchy_learning_for_long_tailed_mobility_prediction/">    <span class="related-paper-title">Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · POI / Cold</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/synthtrips_a_knowledge_grounded_framework_for_benchmark_query_generation_fo/">    <span class="related-paper-title">SynthTRIPs: A Knowledge-Grounded Framework for Benchmark Query Generation for Personalized Tourism Recommenders</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+</div>
+<!-- related-papers:end -->

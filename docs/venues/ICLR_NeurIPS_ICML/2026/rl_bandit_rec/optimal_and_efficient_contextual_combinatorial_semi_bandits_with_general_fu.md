@@ -128,3 +128,17 @@ $\bar{p}_t=\arg\max_{\bar{p}\in\bar{\mathcal{S}}}\langle\bar{p},\hat{f}_t(x_t,\c
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （覆盖合成与两个真实 LTR 基准、10+10 seed 调参/评估规范，但规模小、缺数值表与显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （上下界匹配、Mode 1/2 双路径证明完整，势函数终止性论证与 anytime 扩展齐备，44 页附录自洽）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码已开源、仅需回归器与线性优化 oracle 即可接入，但每轮凸优化与 $\tilde{O}(A)$ 次 oracle 调用在大候选池下需进一步近似）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2025/rl_bandit_rec/neural_combinatorial_clustered_bandits_for_recommendation_systems/">    <span class="related-paper-title">Neural Combinatorial Clustered Bandits for Recommendation Systems</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · RL / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../incentivized_exploration_with_stochastic_covariates_a_two_stage_mechanism_d/">    <span class="related-paper-title">Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/rl_bandit_rec/exploitation_over_exploration_unmasking_the_bias_in_linear_bandit_recommend/">    <span class="related-paper-title">Exploitation Over Exploration: Unmasking the Bias in Linear Bandit Recommender Offline Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/rl_bandit_rec/off_policy_learning_with_limited_supply/">    <span class="related-paper-title">Off-Policy Learning with Limited Supply</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/rl_bandit_rec/preference_is_more_than_comparisons_rethinking_dueling_bandits_with_augment/">    <span class="related-paper-title">Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · RL / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -134,3 +134,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/cold_start_rec/large_language_model_simulator_for_cold_start_recommendation/">    <span class="related-paper-title">Large Language Model Simulator for Cold-Start Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/reformulating_sequential_recommendation_learning_dynamic_user_interest_with/">    <span class="related-paper-title">Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/llm_rec/pre_trained_llms_meet_sequential_recommenders_efficient_user_centric_knowle/">    <span class="related-paper-title">Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation</span>    <span class="related-paper-meta">ECIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/think_before_recommendation_autonomous_reasoning_enhanced_recommender/">    <span class="related-paper-title">Think before Recommendation: Autonomous Reasoning-enhanced Recommender</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/r_2_ec_towards_large_recommender_models_with_reasoning/">    <span class="related-paper-title">R$^2$ec: Towards Large Recommender Models with Reasoning</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+</div>
+<!-- related-papers:end -->

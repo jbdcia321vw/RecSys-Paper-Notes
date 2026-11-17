@@ -132,3 +132,16 @@ Douban 数据集 Augmentation Utility + SDV 分布相似度：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式推导链条清晰，半独立假设的动机交代充分，伪代码置于附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （华为广告冷启动已线上验证 +2% RPM，离线合成不增在线延迟；但代码未开源、依赖 70B LLM 推理成本较高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/generative_rec/recbase_generative_foundation_model_pretraining_for_zero_shot_recommendatio/">    <span class="related-paper-title">RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../2026/llm_rec/token_level_collaborative_alignment_for_llm_based_generative_recommendation/">    <span class="related-paper-title">Token-level Collaborative Alignment for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/llm_rec/reason4rec_deliberative_user_preference_alignment_of_large_language_models_/">    <span class="related-paper-title">Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/promax_exploring_the_potential_of_llm_derived_profiles_with_distribution_sh/">    <span class="related-paper-title">ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../2026/cross_domain_multi_scenario/generative_data_transformation_from_mixed_to_unified_data/">    <span class="related-paper-title">Generative Data Transformation: From Mixed to Unified Data</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

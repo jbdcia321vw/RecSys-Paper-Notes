@@ -144,3 +144,17 @@ LightGCN 骨干，Recall@20：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/cold_start_rec/shallow_autoencoding_recommender_with_cold_start_handling_via_side_features/">    <span class="related-paper-title">Shallow AutoEncoding Recommender with Cold Start Handling via Side Features</span>    <span class="related-paper-meta">CIKM · 2025 · Cold / CF</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/self_supervised_denoising/post_training_denoising_of_user_profiles_with_llms_in_collaborative_filteri/">    <span class="related-paper-title">Post-Training Denoising of User Profiles with LLMs in Collaborative Filtering Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · SSL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/self_supervised_denoising/empowering_denoising_sequential_recommendation_with_large_language_model_em/">    <span class="related-paper-title">Empowering Denoising Sequential Recommendation with Large Language Model Embeddings</span>    <span class="related-paper-meta">CIKM · 2025 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/self_supervised_denoising/unleashing_the_power_of_large_language_model_for_denoising_recommendation/">    <span class="related-paper-title">Unleashing the Power of Large Language Model for Denoising Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · SSL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

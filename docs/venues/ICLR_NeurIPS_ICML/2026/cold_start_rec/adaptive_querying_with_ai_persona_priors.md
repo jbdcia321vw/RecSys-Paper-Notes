@@ -128,3 +128,17 @@ $T=5$时 greedy 相对最强 CAT 基线 MGRM 降低 log loss **2.4%**（1.019 vs
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （合成 + 真实双设定、三种 proper scoring rule、完整消融与运行时对比，但仅单一人群数据集、缺公平性分桶与显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （公式推导简洁自洽，闭式更新与算法伪代码清晰，复杂度与误设定分析到位）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、无需逐题校准即可上线新题是冷启动刚需，但 greedy 的 40 分钟推理与 LLM 离线批量 elicitation 成本需工程优化）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/personax_a_recommendation_agent_oriented_user_modeling_framework_for_long_b/">    <span class="related-paper-title">PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/cold_start_rec/bayescns_a_unified_bayesian_approach_to_address_cold_start_and_non_stationa/">    <span class="related-paper-title">BayesCNS: A Unified Bayesian Approach to Address Cold Start and Non-Stationarity in Search Systems at Scale</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Cold / RL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/reformulating_sequential_recommendation_learning_dynamic_user_interest_with/">    <span class="related-paper-title">Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../agent_conversational_rec/propersim_developing_proactive_and_personalized_ai_assistants_through_user_/">    <span class="related-paper-title">ProPerSim: Developing Proactive and Personalized AI Assistants through User-Assistant Simulation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/agent_conversational_rec/simulating_before_planning_constructing_intrinsic_user_world_model_for_user/">    <span class="related-paper-title">Simulating Before Planning: Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning</span>    <span class="related-paper-meta">SIGIR · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

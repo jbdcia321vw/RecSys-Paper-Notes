@@ -138,3 +138,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （流水线与质控描述详尽、隐私合规文档完备；核心公式较少，偏工程叙述）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码与排行榜全开源，ClueWeb-Reco 可直接作为浏览器推荐线上前哨评测，隐私方案具直接合规价值）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/do_llms_memorize_recommendation_datasets_a_preliminary_study_on_movielens_1/">    <span class="related-paper-title">Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/the_hidden_cost_of_defaults_in_recommender_system_evaluation/">    <span class="related-paper-title">The Hidden Cost of Defaults in Recommender System Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/personalized_recommendation_tool_learning_via_autonomous_language_agents/">    <span class="related-paper-title">Personalized Recommendation Tool Learning via Autonomous Language Agents</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../agent_conversational_rec/agentrecbench_benchmarking_llm_agent_based_personalized_recommender_systems/">    <span class="related-paper-title">AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/llm_as_a_judge_for_reliable_and_explainable_offline_evaluation_in_top_k_rec/">    <span class="related-paper-title">LLM-as-a-Judge for Reliable and Explainable Offline Evaluation in Top-K Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

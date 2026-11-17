@@ -133,3 +133,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （任务模板与增广规则描述具体可复现，公式简洁；但缺复杂度与延迟分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、基于 Llama3 + PEFT 易复现；三模型串行推理的时延是上线前必须解决的门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/tree_of_preferences_for_diversified_recommendation/">    <span class="related-paper-title">Tree of Preferences for Diversified Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lettingo_explore_user_profile_generation_for_recommendation_system/">    <span class="related-paper-title">LettinGo: Explore User Profile Generation for Recommendation System</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/how_to_diversify_any_personalized_recommender/">    <span class="related-paper-title">How to Diversify any Personalized Recommender?</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/generative_rec/controlling_diversity_at_inference_guiding_diffusion_recommender_models_wit/">    <span class="related-paper-title">Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences</span>    <span class="related-paper-meta">KDD · 2025 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/reclm_recommendation_instruction_tuning/">    <span class="related-paper-title">RecLM: Recommendation Instruction Tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

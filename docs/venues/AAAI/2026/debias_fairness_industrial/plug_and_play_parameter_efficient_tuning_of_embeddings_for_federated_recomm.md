@@ -125,3 +125,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （4 骨干 × 3 数据集 × 4 策略覆盖广、5 次均值，但划分/打分协议与显著性检验缺失）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三类压缩策略公式完整、通信/存储/计算复杂度表清晰，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （插件式零侵入、代码开源、通信降幅显著，但策略选择与超参调优仍需工程经验）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/personalized_federated_collaborative_filtering_a_variational_autoencoder_ap/">    <span class="related-paper-title">Personalized Federated Collaborative Filtering: A Variational AutoEncoder Approach</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/gradients_as_an_action_towards_communication_efficient_federated_recommende/">    <span class="related-paper-title">Gradients as an Action: Towards Communication-Efficient Federated Recommender Systems via Adaptive Action Sharing</span>    <span class="related-paper-meta">KDD · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/cross_domain_multi_scenario/fedmm_federated_collaborative_signal_quantization_for_multi_market_ctr_pred/">    <span class="related-paper-title">FedMM: Federated Collaborative Signal Quantization for Multi-Market CTR Prediction</span>    <span class="related-paper-meta">SIGIR · 2026 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/debias_fairness_industrial/a_federated_framework_for_llm_based_recommendation/">    <span class="related-paper-title">A Federated Framework for LLM-based Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/on_device_content_based_recommendation_with_single_shot_embedding_pruning_a/">    <span class="related-paper-title">On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -132,3 +132,17 @@ $\beta=0.5$时$C=9$遗憾最低、$C=5$RMSE 最低；$C$ 从 1→9 使 Flickr/Bl
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （三数据集 + 反事实模拟 + 留出边无偏评估较规范，但全为半合成、缺真实 A/B 与显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理、证明草图与算法伪码完整，权衡直觉解释清晰；自适应部分理论留白略遗憾）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，插件式结构易接入现有 Bandit 系统，复杂度仅依赖候选池规模，适合病毒营销/社交推荐干预）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/rl_bandit_rec/incentivized_exploration_with_stochastic_covariates_a_two_stage_mechanism_d/">    <span class="related-paper-title">Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/rl_bandit_rec/exploitation_over_exploration_unmasking_the_bias_in_linear_bandit_recommend/">    <span class="related-paper-title">Exploitation Over Exploration: Unmasking the Bias in Linear Bandit Recommender Offline Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/counterfactual_inference_under_thompson_sampling/">    <span class="related-paper-title">Counterfactual Inference under Thompson Sampling</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/social_group_rec/heterogeneous_influence_maximization_in_user_recommendation/">    <span class="related-paper-title">Heterogeneous Influence Maximization in User Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Social / RL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/causality_aware_graph_aggregation_weight_estimator_for_popularity_debiasing/">    <span class="related-paper-title">Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

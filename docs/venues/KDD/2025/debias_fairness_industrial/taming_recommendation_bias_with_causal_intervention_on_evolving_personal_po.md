@@ -135,3 +135,16 @@ LightGCN 骨干，Rec@20（括号内为相对完整模型跌幅）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （因果图到 Eq.(5) 的后门推导链条清晰，Jensen 近似给出定理引用；部分符号上标 $t$ 省略处略影响可读性）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，干预仅需两个标量外推、推理开销近零，可直接挂载在现有双塔/图召回骨干上）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/causality_aware_graph_aggregation_weight_estimator_for_popularity_debiasing/">    <span class="related-paper-title">Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/poi_spatiotemporal_rec/exploring_the_effect_of_context_awareness_and_popularity_calibration_on_pop/">    <span class="related-paper-title">Exploring the Effect of Context-Awareness and Popularity Calibration on Popularity Bias in POI Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · POI / Debias</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/unbiased_recommender_systems_with_implicit_feedback/">    <span class="related-paper-title">Unbiased Recommender Systems with Implicit Feedback</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/unbiased_collaborative_filtering_with_fair_sampling/">    <span class="related-paper-title">Unbiased Collaborative Filtering with Fair Sampling</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

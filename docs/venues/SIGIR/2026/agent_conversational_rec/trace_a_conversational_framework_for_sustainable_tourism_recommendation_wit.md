@@ -133,3 +133,17 @@ $$(r^*, E, r_{alt}) = A_{EG}(R_0, R_1, U, \mathrm{WTC})$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐ （无基线、无消融、无显著性检验，24 人小样本主观研究，仅够 Demo 级别）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （形式化四阶段流水线清晰、公式简洁、系统架构与实现栈交代完整，但缺复杂度与失败案例分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （ADK + FastAPI + Firestore + Docker 全栈可复现、延迟可接受，但无公开仓库链接与多智能体成本核算）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/agent_conversational_rec/recoworld_building_simulated_environments_for_agentic_recommender_systems/">    <span class="related-paper-title">RecoWorld: Building Simulated Environments for Agentic Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/agent_conversational_rec/agentrecbench_benchmarking_llm_agent_based_personalized_recommender_systems/">    <span class="related-paper-title">AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/a_survey_on_llm_powered_agents_for_recommender_systems/">    <span class="related-paper-title">A Survey on LLM-powered Agents for Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/enhancing_recommendation_explanations_through_user_centric_refinement/">    <span class="related-paper-title">Enhancing Recommendation Explanations through User-Centric Refinement</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/personalized_recommendation_tool_learning_via_autonomous_language_agents/">    <span class="related-paper-title">Personalized Recommendation Tool Learning via Autonomous Language Agents</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

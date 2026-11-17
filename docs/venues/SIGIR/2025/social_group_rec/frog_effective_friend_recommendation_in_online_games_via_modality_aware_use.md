@@ -122,3 +122,16 @@ Game1 数据集上移除各模块（括号内为相对完整模型的下降幅�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与复杂度证明完整，但部分符号排版有噪声、Matching-Net 注意力维度定义略含糊）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （腾讯线上部署验证、复杂度可控，但代码未实际开源、图像预训练流程复现门槛较高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACM_MM/2025/multimodal_rec/dual_phase_playtime_guided_recommendation_interest_intensity_exploration_an/">    <span class="related-paper-title">Dual-Phase Playtime-guided Recommendation: Interest Intensity Exploration and Multimodal Random Walks</span>    <span class="related-paper-meta">ACM MM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/creator_side_recommender_system_challenges_designs_and_applications/">    <span class="related-paper-title">Creator-Side Recommender System: Challenges, Designs, and Applications</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/on_device_content_based_recommendation_with_single_shot_embedding_pruning_a/">    <span class="related-paper-title">On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/collaborative_retrieval_for_large_language_model_based_conversational_recom/">    <span class="related-paper-title">Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/iagent_llm_agent_as_a_shield_between_user_and_recommender_systems/">    <span class="related-paper-title">iAgent: LLM Agent as a Shield between User and Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -119,3 +119,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题动机层层递进、图示与提示模板完整透明、指标定义明确；但全文无形式化建模，属系统/实证类论文而非方法推导类）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （直接来自 Spotify 生产场景，画像可缓存、评判可并行，天然适配上线前模型预筛；扣分在于闭源模型依赖与代码未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../biases_in_llm_generated_musical_taste_profiles_for_recommendation/">    <span class="related-paper-title">Biases in LLM-Generated Musical Taste Profiles for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../2026/agent_conversational_rec/llm_as_a_judge_for_evaluating_system_responses_in_conversational_music_reco/">    <span class="related-paper-title">LLM-as-a-Judge for Evaluating System Responses in Conversational Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/promax_exploring_the_potential_of_llm_derived_profiles_with_distribution_sh/">    <span class="related-paper-title">ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lettingo_explore_user_profile_generation_for_recommendation_system/">    <span class="related-paper-title">LettinGo: Explore User Profile Generation for Recommendation System</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

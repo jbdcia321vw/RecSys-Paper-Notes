@@ -130,3 +130,16 @@ $$\mathcal{L}(\theta_i)=\frac{1}{m}\sum_{i}\hat{\mathbb{E}}_t\Big[\min\big(r^i_t
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Dec-POMDP 五要素与公式定义清晰，算法伪代码完整，复杂度对比表到位；部分符号如 $p^d_{u_i}$与$a^i_t$ 混用略欠统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，推理延迟仅 0.06ms/样本、训练开销与 REMIT 相当，工程可落地性强；但需为每个源域维护独立 Agent 与预训练 MF，域数量扩展时参数线性增长）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/cross_domain_multi_scenario/cross_domain_sequential_recommendation_with_representation_level_user_trans/">    <span class="related-paper-title">Cross-Domain Sequential Recommendation with Representation-Level User Transfer</span>    <span class="related-paper-meta">CIKM · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/rl_bandit_rec/darlr_dual_agent_offline_reinforcement_learning_for_recommender_systems_wit/">    <span class="related-paper-title">DARLR: Dual-Agent Offline Reinforcement Learning for Recommender Systems with Dynamic Reward</span>    <span class="related-paper-meta">SIGIR · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/cross_domain_multi_scenario/revisiting_self_attention_for_cross_domain_sequential_recommendation/">    <span class="related-paper-title">Revisiting Self-attention for Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/abxi_invariant_interest_adaptation_for_task_guided_cross_domain_sequential_/">    <span class="related-paper-title">ABXI: Invariant Interest Adaptation for Task-Guided Cross-Domain Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/rl_bandit_rec/choosing_the_best_of_both_worlds_diverse_and_novel_recommendations_through_/">    <span class="related-paper-title">Choosing the Best of Both Worlds: Diverse and Novel Recommendations through Multi-Objective Reinforcement Learning</span>    <span class="related-paper-meta">WSDM · 2025 · RL / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

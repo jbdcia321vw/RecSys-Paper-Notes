@@ -135,3 +135,16 @@ $\mathbf{R}_1=\text{Kmeans}(\mathbf{M},N),\ \mathbf{M}_1=\mathbf{M}-\text{Neares
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （公式简洁可读，但符号与算法描述偏工程化，VQ/RQ 公式存在排版笔误，缺复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （服务 4 亿日活、广告收入 +9.704%、电商 GMV +2.296%，落地价值极高；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDE/2026/multimodal_rec/gala_generative_aligned_learning_for_adaptive_multimodal_representation_in_/">    <span class="related-paper-title">GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System</span>    <span class="related-paper-meta">ICDE · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/kuairecv2_benchmarking_large_scale_continual_learning_for_diversified_and_m/">    <span class="related-paper-title">KuaiRecV2: Benchmarking Large-Scale Continual Learning for Diversified and Multi-task Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../generative_rec/empowering_large_language_model_for_sequential_recommendation_via_multimoda/">    <span class="related-paper-title">Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs</span>    <span class="related-paper-meta">CIKM · 2025 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/mosaic_a_fleet_of_user_embedding_specialists_for_recommendation_at_meta/">    <span class="related-paper-title">Mosaic: A Fleet of User Embedding Specialists for Recommendation at Meta</span>    <span class="related-paper-meta">RecSys · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../cold_start_rec/multi_modal_adaptive_mixture_of_experts_for_cold_start_recommendation/">    <span class="related-paper-title">Multi-modal Adaptive Mixture of Experts for Cold-start Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -131,3 +131,17 @@ Coat 数据集上的输入配置消融：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/on_the_convergent_validity_of_offline_evaluation_designs_for_recommender_sy/">    <span class="related-paper-title">On the Convergent Validity of Offline Evaluation Designs for Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/a_universal_framework_for_offline_serendipity_evaluation_in_recommender_sys/">    <span class="related-paper-title">A Universal Framework for Offline Serendipity Evaluation in Recommender Systems via Large Language Models</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/on_the_reliability_of_sampling_strategies_in_offline_recommender_evaluation/">    <span class="related-paper-title">On the Reliability of Sampling Strategies in Offline Recommender Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/orbit_open_recommendation_benchmark_for_reproducible_research_with_hidden_t/">    <span class="related-paper-title">ORBIT: Open Recommendation Benchmark for Reproducible Research with Hidden Tests</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/from_top_1_to_top_k_a_reproducibility_study_and_benchmarking_of_counterfact/">    <span class="related-paper-title">From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

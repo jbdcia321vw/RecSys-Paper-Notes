@@ -127,3 +127,16 @@ CLIP 下四主干平均提升：R@10 +11.39%、R@20 +8.62%、N@10 +18.71%、N@20
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、附录给出偏差 $\theta$与有效分量$p$ 的几何推导；但过滤/重构两式形式相近易混淆，需靠文字区分）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （即插即用、编码器冻结、仅增 1–2% 参数与 15% 训练时间，代码已开源，工程落地门槛极低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/a_content_driven_micro_video_recommendation_dataset_at_scale/">    <span class="related-paper-title">A Content-Driven Micro-Video Recommendation Dataset at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/efficient_multimodal_streaming_recommendation_via_expandable_side_mixture_o/">    <span class="related-paper-title">Efficient Multimodal Streaming Recommendation via Expandable Side Mixture-of-Experts</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/short_video_segment_level_user_dynamic_interests_modeling_in_personalized_r/">    <span class="related-paper-title">Short Video Segment-level User Dynamic Interests Modeling in Personalized Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/multimodal_rec/cammsr_category_guided_attentive_mixture_of_experts_for_multimodal_sequenti/">    <span class="related-paper-title">CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../2026/agent_conversational_rec/when_top_ranked_recommendations_fail_modeling_multi_granular_negative_feedb/">    <span class="related-paper-title">When Top-ranked Recommendations Fail: Modeling Multi-Granular Negative Feedback for Explainable and Robust Video Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

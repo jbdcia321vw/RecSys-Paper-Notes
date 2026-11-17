@@ -7,6 +7,8 @@ hide:
 
 7 篇 IEEE TKDE 2026 论文解读，覆盖 5 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
+🔥 **高频主题：** TKDE ×7 · 召回 ×5 · 多模态推荐 ×2
+
 <div class="conf-index">
 <hr />
 <h2 id="collaborative_filtering">🤝 协同过滤与双塔召回 (1)</h2>

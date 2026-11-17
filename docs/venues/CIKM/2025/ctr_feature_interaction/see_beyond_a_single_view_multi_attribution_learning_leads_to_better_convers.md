@@ -122,3 +122,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与 CAT 示例清晰、公式简洁，但 Eq.(1) 排版有符号瑕疵，缺少复杂度与训练开销分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （与生产模型同构、推理仅走 PTP 单通路，线上 ROI +2.6% 已兑现，落地路径极清晰；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/ctr_feature_interaction/mac_a_conversion_rate_prediction_benchmark_featuring_labels_under_multiple_/">    <span class="related-paper-title">MAC: A Conversion Rate Prediction Benchmark Featuring Labels Under Multiple Attribution Mechanisms</span>    <span class="related-paper-meta">KDD · 2026 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.81</span>  </a>
+  <a class="related-paper" href="../../../2026/ctr_feature_interaction/can_large_language_models_identify_meaningful_touchpoints_in_conversion_att/">    <span class="related-paper-title">Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?</span>    <span class="related-paper-meta">CIKM · 2026 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/ctr_feature_interaction/on_predicting_post_click_conversion_rate_via_counterfactual_inference/">    <span class="related-paper-title">On Predicting Post-Click Conversion Rate via Counterfactual Inference</span>    <span class="related-paper-meta">ICDM · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multi_task_reranking/practical_multi_task_learning_for_rare_conversions_in_ad_tech/">    <span class="related-paper-title">Practical Multi-Task Learning for Rare Conversions in Ad Tech</span>    <span class="related-paper-meta">RecSys · 2025 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/alm_mta_front_door_causal_multi_touch_attribution_method_for_creator_ecosys/">    <span class="related-paper-title">ALM-MTA: Front-Door Causal Multi-Touch Attribution Method for Creator-Ecosystem Optimization</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Debias / RL</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

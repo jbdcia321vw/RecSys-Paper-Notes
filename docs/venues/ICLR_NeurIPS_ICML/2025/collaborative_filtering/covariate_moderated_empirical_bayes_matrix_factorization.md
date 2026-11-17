@@ -129,3 +129,16 @@ MovieLens 100K 评分补全 RMSE（越低越好，数值读自原文图 3，为 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （cEBNM 子问题与 ELBO 推导完整、Proposition 1 与 Lemma 1 证明清晰，符号略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （PyTorch 开源实现完整，但全量残差扫描导致大规模场景开销偏高，更适合中小规模或离线分析场景）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/collaborative_filtering/latent_factor_modeling_with_expert_network_for_multi_behavior_recommendatio/">    <span class="related-paper-title">Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/recpfn_prior_fitted_networks_for_in_context_based_recommendations/">    <span class="related-paper-title">RecPFN: Prior-Fitted Networks for In-Context-Based Recommendations</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/does_weighting_improve_matrix_factorization_for_recommender_systems/">    <span class="related-paper-title">Does Weighting Improve Matrix Factorization for Recommender Systems?</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/probabilistic_residual_learning_for_online_recommendations/">    <span class="related-paper-title">Probabilistic Residual Learning for Online Recommendations</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../recommendations_with_sparse_comparison_data_provably_fast_convergence_for_n/">    <span class="related-paper-title">Recommendations with Sparse Comparison Data: Provably Fast Convergence for Nonconvex Matrix Factorization</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+</div>
+<!-- related-papers:end -->

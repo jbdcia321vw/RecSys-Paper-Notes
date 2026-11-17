@@ -124,3 +124,16 @@ $\eta=1.0$严格约束下，EASE 几乎不可削减（MR 97.8%–99.8%），Item
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （PRR/MR/SE 定义干净，问题形式化与算法伪代码严谨，技术设定依赖性的讨论诚实且有洞察）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码与配置全开源、结论对合规实践有直接参考价值，但 GR 的 SE 在长历史上达数万次推理，线上规模化仍需更高效算法）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/can_recommender_systems_teach_themselves_a_recursive_self_improving_framewo/">    <span class="related-paper-title">Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/does_weighting_improve_matrix_factorization_for_recommender_systems/">    <span class="related-paper-title">Does Weighting Improve Matrix Factorization for Recommender Systems?</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/request_only_optimization_for_recommendation_systems/">    <span class="related-paper-title">Request-Only Optimization for Recommendation Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/on_the_convergent_validity_of_offline_evaluation_designs_for_recommender_sy/">    <span class="related-paper-title">On the Convergent Validity of Offline Evaluation Designs for Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/iagent_llm_agent_as_a_shield_between_user_and_recommender_systems/">    <span class="related-paper-title">iAgent: LLM Agent as a Shield between User and Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

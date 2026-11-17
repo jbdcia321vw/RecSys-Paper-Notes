@@ -130,3 +130,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （融合公式与两阶段训练推导简洁自洽，符号统一；部分模块细节如 PRIM 的 MLP 结构描述偏简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在闲鱼全量上线并带来 GMV +1.1%，BERT 离线预计算保证低延迟，工程价值高；但未开源限制复现）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/collaborative_filtering/pi2i_a_personalized_item_based_collaborative_filtering_retrieval_framework/">    <span class="related-paper-title">PI2I: A Personalized Item-Based Collaborative Filtering Retrieval Framework</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/rethinking_llm_based_recommendations_a_personalized_query_driven_parallel_i/">    <span class="related-paper-title">Rethinking LLM-Based Recommendations: A Personalized Query-Driven Parallel Integration</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/ctr_feature_interaction/a_unified_framework_for_multi_domain_ctr_prediction_via_large_language_mode/">    <span class="related-paper-title">A Unified Framework for Multi-Domain CTR Prediction via Large Language Models</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CTR / Cross</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/generative_rec/a_generative_framework_for_personalized_sticker_retrieval/">    <span class="related-paper-title">A Generative Framework for Personalized Sticker Retrieval</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../2026/ctr_feature_interaction/genci_generative_modeling_of_user_interest_shift_via_cohort_based_intent_le/">    <span class="related-paper-title">GenCI: Generative Modeling of User Interest Shift via Cohort-based Intent Learning for CTR Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / GenRec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

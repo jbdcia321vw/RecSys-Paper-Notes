@@ -135,3 +135,17 @@ MSDR 测试集（AUC %，RelaImpr 相对 Vanilla MLP）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （公开基准 + 5.12 亿样本自建集 + 两年线上 A/B，消融与超参敏感性完整；但自建集划分方式描述略简）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （CCO/CCB/PSN 公式紧凑、符号一致，复杂度分析到位；比较特征信息容量的理论讨论偏定性）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （高德生产环境服役两年、15 ms/200–300 QPS 实测、数据集开源，工业参考价值极高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/think_when_needed_model_aware_reasoning_routing_for_llm_based_ranking/">    <span class="related-paper-title">Think When Needed: Model-Aware Reasoning Routing for LLM-based Ranking</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/sequential_rec/routerec_behavior_guided_sparse_routing_for_sequential_recommendation/">    <span class="related-paper-title">RouteRec: Behavior-Guided Sparse Routing for Sequential Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/poi_spatiotemporal_rec/triptailor_a_real_world_benchmark_for_personalized_travel_planning/">    <span class="related-paper-title">TripTailor: A Real-World Benchmark for Personalized Travel Planning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · POI / CRS</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/poi_spatiotemporal_rec/sep_gcn_leveraging_similar_edge_pairs_with_temporal_and_spatial_contexts_fo/">    <span class="related-paper-title">SEP-GCN: Leveraging Similar Edge Pairs with Temporal and Spatial Contexts for Location-Based Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · POI / Graph</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/sequential_rec/from_overlooked_to_explored_recovering_item_relations_via_mixture_of_perspe/">    <span class="related-paper-title">From Overlooked to Explored: Recovering Item Relations via Mixture of Perspectives for Sequential Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

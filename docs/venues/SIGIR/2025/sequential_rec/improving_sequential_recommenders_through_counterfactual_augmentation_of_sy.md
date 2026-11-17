@@ -142,3 +142,16 @@ Tenrec + Self-Improving 策略下的组件消融（图 5，趋势性结论）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （轨迹/状态/奖励符号定义清晰、Algorithm 1 完整，但 RTG 在推理阶段的设定偏工程化、缺理论论证）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、仅需曝光日志即可落地，增广离线完成不干扰线上，但增广计算成本与模拟器偏差是上线前需评估的风险）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../csrec_rethinking_sequential_recommendation_from_a_causal_perspective/">    <span class="related-paper-title">CSRec: Rethinking Sequential Recommendation from A Causal Perspective</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cold_start_rec/tail_aware_data_augmentation_for_long_tail_sequential_recommendation/">    <span class="related-paper-title">Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cold / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/sequential_rec/improving_sequential_recommendations_via_bidirectional_temporal_data_augmen/">    <span class="related-paper-title">Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/rl_bandit_rec/mtrec_learning_to_align_with_user_preferences_via_mental_reward_models/">    <span class="related-paper-title">MTRec: Learning to Align with User Preferences via Mental Reward Models</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -121,3 +121,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （时间切分零重叠、开放生成主评测避免负采样偏差、bootstrap 置信区间与分布校正分析到位，扣分在缺在线 A/B）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （匹配式与路由式定义清晰，附录对 $\delta$、$\tau$、CoT 长度的敏感性分析完整，部分关键论证散落在附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （85ms 延迟、0% 幻觉、100× 成本优势极具工程说服力，但未开源且强依赖内部 SID 码本与画像体系）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/reasoning_over_semantic_ids_enhances_generative_recommendation/">    <span class="related-paper-title">Reasoning over Semantic IDs Enhances Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/crown_a_novel_approach_to_comprehending_users_preferences_for_accurate_pers/">    <span class="related-paper-title">CROWN: A Novel Approach to Comprehending Users&#x27; Preferences for Accurate Personalized News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/sprint_scalable_and_predictive_intent_refinement_for_llm_enhanced_session_b/">    <span class="related-paper-title">SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/semantic_ids_for_recommender_systems_at_snapchat_use_cases_technical_challe/">    <span class="related-paper-title">Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/agent_conversational_rec/improving_conversational_recommendation_with_contextual_adaptation_of_exter/">    <span class="related-paper-title">Improving Conversational Recommendation with Contextual Adaptation of External Recommenders and LLM-based Reranking</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -128,3 +128,16 @@ YouTubeDNN 骨干上提升更猛：ML-1M NDCG@10 从 0.0492（KAR）升至 0.070
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两阶段流程与四条元路径定义清晰，量化公式规范；元路径聚合的式 7–8 略简，缺少对 $H_u\cup H_i$ 拼接方式的细节说明）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已开源，华为广告主流量模型，RPM +2.69% / eCPM +7.31%，增量插入 $O(1)$，model-agnostic 可直接插拔）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/enhancing_collaborative_semantics_of_language_model_driven_recommendations_/">    <span class="related-paper-title">Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/corona_a_coarse_to_fine_framework_for_graph_based_recommendation_with_large/">    <span class="related-paper-title">CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/g_refer_graph_retrieval_augmented_large_language_model_for_explainable_reco/">    <span class="related-paper-title">G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/graphlora_structure_aware_low_rank_adaptation_for_large_language_model_reco/">    <span class="related-paper-title">GraphLoRA: Structure-Aware Low-Rank Adaptation for Large Language Model Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/graph_rec/graph_cross_correlated_network_for_recommendation/">    <span class="related-paper-title">Graph Cross-Correlated Network for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Graph / CTR</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

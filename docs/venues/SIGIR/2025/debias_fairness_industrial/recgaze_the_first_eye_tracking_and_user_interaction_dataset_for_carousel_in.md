@@ -118,3 +118,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （数据字典与预处理流程交代清晰，几乎无公式；对"第 2/3 页右侧注视升高"仅给假设未给检验）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （公开预处理集 + 受限原始集 + 完整刺激与屏布局，可直接支撑轮播位置去偏、点击模型与 gaze-based 推荐研究）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/following_the_eye_tracking_evidence_established_web_search_assumptions_fail/">    <span class="related-paper-title">Following the Eye-Tracking Evidence: Established Web-Search Assumptions Fail in Carousel Interfaces</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/debias_fairness_industrial/revisiting_n2dcg_an_empirically_grounded_reformulation_of_carousel_recommen/">    <span class="related-paper-title">Revisiting N2DCG: An Empirically Grounded Reformulation of Carousel Recommendation Evaluation</span>    <span class="related-paper-meta">CIKM · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/from_click_modeling_to_offline_and_off_policy_evaluation_in_carousel_recomm/">    <span class="related-paper-title">From Click Modeling to Offline and Off-Policy Evaluation in Carousel Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/watchlens_a_configurable_platform_for_online_video_recommendation_experimen/">    <span class="related-paper-title">WatchLens: A Configurable Platform for Online Video Recommendation Experiments</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/facet_aware_multi_head_mixture_of_experts_model_for_sequential_recommendati/">    <span class="related-paper-title">Facet-Aware Multi-Head Mixture-of-Experts Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

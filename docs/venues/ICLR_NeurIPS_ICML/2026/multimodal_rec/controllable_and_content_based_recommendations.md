@@ -129,3 +129,17 @@ Hellinger 距离对分布尾部差异更敏感，使编码器几何预先贴合�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三模态七骨干 + Strong Generalization + 四类干预设计完整，但缺显著性检验与真实用户验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （流程与公式简洁，$\mathcal{L}_{\text{align}}$、$\mathcal{L}_{\text{rec}}$ 细节下放附录，主文略欠自足）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （打分延迟 <1 ms、代码开源，但画像生成 10–13 s/用户与多 LLM 依赖抬高部署门槛）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/multimodal_rec/notellm_2_multimodal_large_representation_models_for_recommendation/">    <span class="related-paper-title">NoteLLM-2: Multimodal Large Representation Models for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/agent_conversational_rec/when_top_ranked_recommendations_fail_modeling_multi_granular_negative_feedb/">    <span class="related-paper-title">When Top-ranked Recommendations Fail: Modeling Multi-Granular Negative Feedback for Explainable and Robust Video Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/multimodal_rec/efficient_and_effective_adaptation_of_multimodal_foundation_models_in_seque/">    <span class="related-paper-title">Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cold_start_rec/multi_modal_adaptive_mixture_of_experts_for_cold_start_recommendation/">    <span class="related-paper-title">Multi-modal Adaptive Mixture of Experts for Cold-start Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/a_content_driven_micro_video_recommendation_dataset_at_scale/">    <span class="related-paper-title">A Content-Driven Micro-Video Recommendation Dataset at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

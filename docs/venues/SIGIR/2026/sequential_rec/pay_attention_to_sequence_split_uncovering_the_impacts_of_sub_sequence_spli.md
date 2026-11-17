@@ -130,3 +130,17 @@ Beauty 数据集 H@10 / N@10（`w/o SSS` 为移除隐性 SSS 后重训）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDE/2025/llm_rec/delrec_distilling_sequential_pattern_to_enhance_llms_based_sequential_recom/">    <span class="related-paper-title">DELRec: Distilling Sequential Pattern to Enhance LLMs-based Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/sequential_rec/time_to_split_exploring_data_splitting_strategies_for_offline_evaluation_of/">    <span class="related-paper-title">Time to Split: Exploring Data Splitting Strategies for Offline Evaluation of Sequential Recommenders</span>    <span class="related-paper-meta">RecSys · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/slmrec_distilling_large_language_models_into_small_for_sequential_recommend/">    <span class="related-paper-title">SLMRec: Distilling Large Language Models into Small for Sequential Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/blossomrec_block_level_fused_sparse_attention_mechanism_for_sequential_reco/">    <span class="related-paper-title">BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

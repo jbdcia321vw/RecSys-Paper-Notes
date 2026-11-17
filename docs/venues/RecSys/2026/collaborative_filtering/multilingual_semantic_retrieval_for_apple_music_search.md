@@ -161,3 +161,17 @@ $$Q(s)=f_{p_i}+\frac{s-s_{p_i}}{s_{p_{i+1}}-s_{p_i}}\cdot(f_{p_{i+1}}-f_{p_i}),\
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （9 个留出集 + 非转化会话分类分析 + 18 天全球 A/B 与分桶归因完整，扣分在离线标注依赖 LLM 且消融规模偏小）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、动机—设计—验证链条清晰，负结果表格坦诚；但部分超参阈值仅以"分位数"描述未给具体数值）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （真实全球部署、p95 延迟增量 < 55 ms、免重训排序器、无 storefront 回归，工业参考价值极高；可惜未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/collaborative_filtering/scaling_multilingual_semantic_search_in_uber_eats_delivery/">    <span class="related-paper-title">Scaling Multilingual Semantic Search in Uber Eats Delivery</span>    <span class="related-paper-meta">KDD · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/improving_item_discoverability_in_e_commerce_search_via_related_intent_gene/">    <span class="related-paper-title">Improving Item Discoverability in e-Commerce Search via Related Intent Generation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/collaborative_filtering/real_time_indexing_for_large_scale_recommendation_by_streaming_vector_quant/">    <span class="related-paper-title">Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever</span>    <span class="related-paper-meta">KDD · 2025 · CF / GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/multimodal_rec/uninote_a_unified_embedding_model_for_multimodal_representation_and_ranking/">    <span class="related-paper-title">UniNote: A Unified Embedding Model for Multimodal Representation and Ranking</span>    <span class="related-paper-meta">KDD · 2026 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../2025/multimodal_rec/just_ask_for_music_jam_multimodal_and_personalized_natural_language_music_r/">    <span class="related-paper-title">Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -119,3 +119,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （十亿级真实数据 + 逐日防穿越滚动评估 + 大规模线上 A/B，但基线偏少、无公开数据）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （框架叙述清晰，但公式极少、多处 need citation 未清理，理论分析薄弱）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已全量上线，+10ms 延迟换 5.61% 时长，工程性价比极高；但未开源，复现门槛高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/cold_start_rec/large_language_model_simulator_for_cold_start_recommendation/">    <span class="related-paper-title">Large Language Model Simulator for Cold-Start Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/recommendation_is_a_dish_better_served_warm/">    <span class="related-paper-title">Recommendation Is a Dish Better Served Warm</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cross_domain_multi_scenario/scenario_wise_rec_a_multi_scenario_recommendation_benchmark/">    <span class="related-paper-title">Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark</span>    <span class="related-paper-meta">CIKM · 2025 · Cross / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../llm_reasoning_for_cold_start_item_recommendation/">    <span class="related-paper-title">LLM Reasoning for Cold-Start Item Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/item_centric_exploration_for_cold_start_problem/">    <span class="related-paper-title">Item-centric Exploration for Cold Start Problem</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / RL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

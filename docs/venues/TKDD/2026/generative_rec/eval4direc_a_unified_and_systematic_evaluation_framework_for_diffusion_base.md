@@ -122,3 +122,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （5 场景 14 模型、统一 Full-Ranking、5 种子 + 配对 t 检验，协议严谨度为本领域标杆）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （DDPM/SDE 预备知识完整、模块契约清晰，但部分表格排版与符号重复略显冗长）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （开源完整、扩展成本低，但扩散推理延迟与大规模数据缺失限制直接上线价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TORS/2026/generative_rec/diffusion_recommender_models_and_the_illusion_of_progress_a_concerning_stud/">    <span class="related-paper-title">Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch</span>    <span class="related-paper-meta">ACM TORS · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/the_efficiency_vs_accuracy_trade_off_optimizing_rag_enhanced_llm_recommende/">    <span class="related-paper-title">The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/sequential_rec/a_survey_on_intent_aware_recommender_systems/">    <span class="related-paper-title">A Survey on Intent-aware Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · Seq / CRS</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/debias_fairness_industrial/impression_aware_recommender_systems/">    <span class="related-paper-title">Impression-Aware Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

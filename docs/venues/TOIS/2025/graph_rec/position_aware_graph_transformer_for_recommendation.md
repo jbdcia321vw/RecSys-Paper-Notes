@@ -137,3 +137,16 @@ SSM 损失对照（Recall@20）：LightGCN 0.0330 → LightGCN-SSM 0.0613 → Li
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与算法伪代码完整、复杂度分析到位，但符号偶有笔误、部分超参搜索描述较粗）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （模型无关、易插拔是最大卖点，但 5 倍单轮开销与未开源削弱了直接落地与复现信心）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../collaborative_filtering/lightweight_embeddings_with_graph_rewiring_for_collaborative_filtering/">    <span class="related-paper-title">Lightweight Embeddings with Graph Rewiring for Collaborative Filtering</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../TMM/2026/multimodal_rec/cross_modal_attention_network_with_dual_graph_learning_in_multimodal_recomm/">    <span class="related-paper-title">Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation</span>    <span class="related-paper-meta">IEEE TMM · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/llm_rec/principled_synthetic_data_enables_the_first_scaling_laws_for_llms_in_recomm/">    <span class="related-paper-title">Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../llm_rec/recranker_instruction_tuning_large_language_model_as_ranker_for_top_k_recom/">    <span class="related-paper-title">RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../self_supervised_denoising/symmetric_graph_contrastive_learning_against_noisy_views_for_recommendation/">    <span class="related-paper-title">Symmetric Graph Contrastive Learning against Noisy Views for Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+</div>
+<!-- related-papers:end -->

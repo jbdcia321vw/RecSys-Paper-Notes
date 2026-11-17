@@ -129,3 +129,17 @@ Qwen-7B + Random 候选，Recall@1：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/knowledge_graph_retrieval_augmented_generation_for_llm_based_recommendation/">    <span class="related-paper-title">Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/cross_domain_multi_scenario/one_for_dozens_adaptive_recommendation_for_all_domains_with_counterfactual_/">    <span class="related-paper-title">One for Dozens: Adaptive REcommendation for All Domains with Counterfactual Augmentation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Cross / CTR</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/bridging_the_user_side_knowledge_gap_in_knowledge_aware_recommendations_wit/">    <span class="related-paper-title">Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/towards_comprehensible_recommendation_with_large_language_model_fine_tuning/">    <span class="related-paper-title">Towards Comprehensible Recommendation with Large Language Model Fine-tuning</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

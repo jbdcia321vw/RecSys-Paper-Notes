@@ -142,3 +142,16 @@ $$\boldsymbol{z}^{v}=\mathrm{PSEnc}\big(\boldsymbol{v}_1+e_1,\dots,\boldsymbol{v
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （伪代码与训练超参披露详尽、可复现性强，但公式化程度偏弱，多数设计以文字描述而非数学形式给出）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已全量上线、40 字节/房源、年增收数千万美元，且论文以"易复现"为明确写作目标，工程参考价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/llm_rec/token_efficient_item_representation_via_images_for_llm_recommender_systems/">    <span class="related-paper-title">Token-Efficient Item Representation via Images for LLM Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/vl_clip_enhancing_multimodal_recommendations_via_visual_grounding_and_llm_a/">    <span class="related-paper-title">VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/journeyformer_encoding_airbnb_guest_journey_with_sequence_modeling/">    <span class="related-paper-title">JourneyFormer: Encoding Airbnb Guest Journey with Sequence Modeling</span>    <span class="related-paper-meta">KDD · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/tokens_are_all_you_need_dual_purpose_semantic_ids_for_achieving_llm_level_i/">    <span class="related-paper-title">Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in Recommendation Systems</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/egr_embedding_native_generative_retrieval_with_a_shared_llm/">    <span class="related-paper-title">EGR: Embedding-Native Generative Retrieval with a Shared LLM</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+</div>
+<!-- related-papers:end -->

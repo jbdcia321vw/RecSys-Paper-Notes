@@ -132,3 +132,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （离线全量 + 30 天双端线上 A/B + 同预算压缩方法横评完整，但缺公开数据集与命中率敏感性分析）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （SA/STCA 公式与系统摊销的 FLOPs 分析清晰，缓存与复杂度假设交代明确；部分诊断图自承不可作强证据）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （抖音全量流量部署、49.9×/63.9× 算力节省与 +2.33% Finish 的线上实证，是长序列工业落地的强参考，唯代码未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/make_it_long_keep_it_fast_end_to_end_10k_long_user_behavior_sequence_modeli/">    <span class="related-paper-title">Make It Long, Keep It Fast: End-to-End 10K Long User Behavior Sequence Modeling for Billion-Scale Douyin Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.82</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/vk_lsvd_a_large_scale_industrial_dataset_for_short_video_recommendation/">    <span class="related-paper-title">VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/beyond_item_ids_scaling_short_form_video_recommendation_via_semantic_native/">    <span class="related-paper-title">Beyond Item IDs: Scaling Short-Form-Video Recommendation via Semantic-Native Long Sequence Modeling</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/sequential_rec/closing_the_long_short_view_gap_in_sequential_recommendation_without_cached/">    <span class="related-paper-title">Closing the Long-Short View Gap in Sequential Recommendation without Cached History</span>    <span class="related-paper-meta">CIKM · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/a_contextual_aware_position_encoding_for_sequential_recommendation/">    <span class="related-paper-title">A Contextual-Aware Position Encoding for Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

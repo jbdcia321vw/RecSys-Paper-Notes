@@ -133,3 +133,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与复杂度分析清晰，幂律拟合给出 $R^2$，符号略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （开源代码、线上 CTR +2.81% 实测、时延反降，工程闭环完整）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/unleashing_the_potential_of_sparse_attention_on_long_term_behaviors_for_ctr/">    <span class="related-paper-title">Unleashing the Potential of Sparse Attention on Long-term Behaviors for CTR Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/elec_efficient_large_language_model_empowered_click_through_rate_prediction/">    <span class="related-paper-title">ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/lrea_low_rank_efficient_attention_on_modeling_long_term_user_behaviors_for_/">    <span class="related-paper-title">LREA: Low-Rank Efficient Attention on Modeling Long-Term User Behaviors for CTR Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/ctr_feature_interaction/ctr_sink_attention_sink_for_language_models_in_click_through_rate_predictio/">    <span class="related-paper-title">CTR-Sink: Attention Sink for Language Models in Click-Through Rate Prediction</span>    <span class="related-paper-meta">KDD · 2026 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/sequential_rec/massive_memorization_with_hundreds_of_trillions_of_parameters_for_sequentia/">    <span class="related-paper-title">Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

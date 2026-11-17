@@ -127,3 +127,16 @@ $$\tilde{g}_{l,n}[i]=\frac{M_d^{(l)}[i,n]\,g_{l,n}[i]}{\sum_{i'}M_d^{(l)}[i',n]\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （掩码化门控与算法 1 表述清晰，反事实部分为假设驱动、缺形式化误差界）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，参数量与存储远优于逐域建模，但掩码搜索的训练调度成本需工程优化）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/filling_the_gaps_selective_knowledge_augmentation_for_llm_recommenders/">    <span class="related-paper-title">Filling the Gaps: Selective Knowledge Augmentation for LLM Recommenders</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/fedecider_an_llm_based_framework_for_federated_cross_domain_recommendation/">    <span class="related-paper-title">FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/uncovering_cross_domain_recommendation_ability_of_large_language_models/">    <span class="related-paper-title">Uncovering Cross-Domain Recommendation Ability of Large Language Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/abxi_invariant_interest_adaptation_for_task_guided_cross_domain_sequential_/">    <span class="related-paper-title">ABXI: Invariant Interest Adaptation for Task-Guided Cross-Domain Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/cross_domain_multi_scenario/automated_prompting_for_non_overlapping_cross_domain_sequential_recommendat/">    <span class="related-paper-title">Automated Prompting for Non-overlapping Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

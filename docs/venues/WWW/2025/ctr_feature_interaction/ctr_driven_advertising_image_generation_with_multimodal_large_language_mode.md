@@ -138,3 +138,16 @@ PCPO 消融（第 5 轮 Match Rate）：LLaVA 0.753 → 预训练初始化 0.842
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三阶段流程与公式定义清晰，DPO/PCPO 推导规范，符号略有多处重复定义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与预训练模型已开源，线上 CTR +2% 已验证，但训练算力与底模依赖限制中小团队复现）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/multimodal_rec/native_multimodal_representation_learning_for_click_through_rate_prediction/">    <span class="related-paper-title">Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios</span>    <span class="related-paper-meta">CIKM · 2026 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/multimodal_rec/icg_improving_cover_image_generation_via_mllm_based_prompting_and_personali/">    <span class="related-paper-title">ICG: Improving Cover Image Generation via MLLM-based Prompting and Personalized Preference Alignment</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/cold_start_rec/idproxy_ctr_prediction_with_multimodal_llms_for_cold_start_recommendation_a/">    <span class="related-paper-title">IDProxy: CTR Prediction with Multimodal LLMs for Cold-Start Recommendation at Xiaohongshu</span>    <span class="related-paper-meta">RecSys · 2026 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/multimodal_large_language_models_with_adaptive_preference_optimization_for_/">    <span class="related-paper-title">Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/debias_fairness_industrial/adtec_a_unified_benchmark_for_evaluating_text_quality_in_search_engine_adve/">    <span class="related-paper-title">AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

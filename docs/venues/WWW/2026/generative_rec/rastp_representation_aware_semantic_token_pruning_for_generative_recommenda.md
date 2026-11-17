@@ -134,3 +134,17 @@ $$I_k = S_k \cdot \|\mathbf{h}_k\|_1$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （5 seed 均值±方差规范、剪枝策略与剪枝层两组消融完整，但数据集统计缺失、排序协议未声明、无 SOTA 基线横向对比）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （4 页短文公式精简、符号一致、动机—观察—方法的逻辑链清晰，复杂度分析略欠）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、模块即插即用零额外参数、26.7% 训练提速对日更场景直接可用，但缺显存与吞吐实测）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/generative_rec/generating_long_semantic_ids_in_parallel_for_recommendation/">    <span class="related-paper-title">Generating Long Semantic IDs in Parallel for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/rethinking_item_tokenization_in_generative_recommenders_from_fixed_atoms_to/">    <span class="related-paper-title">Rethinking Item Tokenization in Generative Recommenders: From Fixed Atoms to Semantic Subwords</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/bi_level_optimization_for_generative_recommendation_bridging_tokenization_a/">    <span class="related-paper-title">Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/earn_efficient_inference_acceleration_for_llm_based_generative_recommendati/">    <span class="related-paper-title">EARN: Efficient Inference Acceleration for LLM-based Generative Recommendation by Register Tokens</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/genrec_a_preference_oriented_generative_framework_for_large_scale_recommend/">    <span class="related-paper-title">GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

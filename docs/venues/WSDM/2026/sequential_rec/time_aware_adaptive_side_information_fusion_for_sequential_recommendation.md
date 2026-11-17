@@ -133,3 +133,17 @@ $$\mathcal{L}=\mathcal{L}^{ID}_{rec}+\sum_{j=1}^{\lvert\mathcal{A}\rvert}W_j\big
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （4 数据集 + Full-Ranking 无偏评测 + 5 种子 + 配对 t 检验 + 完整消融/滤波类型/超参/效率/案例研究，实验矩阵相当完整）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义清晰，复杂度分析给出与 MSSR 的显式对比，但部分符号如 $\mathbf{H}^{l-1}$ 同时指代 ID 与属性两路的写法略含混）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、基于 RecBole 实现、训练时间与显存均优于 SOTA，TSP 可即插即用，工程部署门槛低）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/diff_dual_side_information_filtering_and_fusion_for_sequential_recommendati/">    <span class="related-paper-title">DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/multimodal_rec/prism_personalized_recommendation_via_information_synergy_module/">    <span class="related-paper-title">PRISM: Personalized Recommendation via Information Synergy Module</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/hierarchical_time_aware_mixture_of_experts_for_multi_modal_sequential_recom/">    <span class="related-paper-title">Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/fusion_and_alignment_enhancement_with_large_language_models_for_tail_item_s/">    <span class="related-paper-title">Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

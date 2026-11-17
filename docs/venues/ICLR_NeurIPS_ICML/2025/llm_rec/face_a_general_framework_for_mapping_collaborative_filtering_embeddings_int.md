@@ -133,3 +133,16 @@ $$\mathcal{L}_{align} = -\frac{1}{|\Omega|}\sum_{v\in\Omega}\log\frac{\phi(d_v,s
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RQ-VAE 与对比损失公式清晰、伪逆映射推导完整，复杂度分析到位；部分符号与 RLMRec 重叠需对照阅读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （模型无关插件、代码开源、复杂度对实体数线性，descriptor 可支撑冷启动与可控推荐；但依赖 LLM 嵌入服务带来额外工程成本）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDE/2025/llm_rec/darec_a_disentangled_alignment_framework_for_large_language_model_and_recom/">    <span class="related-paper-title">DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System</span>    <span class="related-paper-meta">ICDE · 2025 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/l2rec_towards_dual_view_understanding_of_llms_for_personalized_recommendati/">    <span class="related-paper-title">L2Rec: Towards Dual-View Understanding of LLMs for Personalized Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/multimodal_rec/structural_and_disentangled_adaptation_of_large_vision_language_models_for_/">    <span class="related-paper-title">Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/pre_train_align_and_disentangle_empowering_sequential_recommendation_with_l/">    <span class="related-paper-title">Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

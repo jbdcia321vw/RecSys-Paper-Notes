@@ -120,3 +120,17 @@ $$\mathcal{L}=-\ln\hat{y}_{ij}-\sum_{k=1}^{n_{neg}}\ln(1-\hat{y}_{ik}),$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （三数据集 + 全库排序 + Bonferroni 校正规范，但缺时间切分、缺传统消融、Baby 上性能退化未深入归因）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （5 页短文结构紧凑，公式与伪代码清晰，参数量推导明确，但 Algorithm 1 中负样本损失误写为 $\ln(1-\hat{y}_{ij})$ 属笔误）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与预处理数据已开源、基于 Elliot 框架，参数量减半对显存敏感场景友好，但训练时长与线上延迟未验证）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../cold_start_rec/learning_sparse_representations_of_multimodal_content_for_enhanced_cold_ite/">    <span class="related-paper-title">Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/stair_manipulating_collaborative_and_multimodal_information_for_e_commerce_/">    <span class="related-paper-title">STAIR: Manipulating Collaborative and Multimodal Information for E-Commerce Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / CF</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/graph_rec/contextgnn_beyond_two_tower_recommendation_systems/">    <span class="related-paper-title">ContextGNN: Beyond Two-Tower Recommendation Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -134,3 +134,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （掩码调度给出单调性证明、损失与符号定义清晰，部分模块（如聚类与翻译损失）细节略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、线上仅需 LightGCN 前向，但 LLM 离线推断成本与兴趣图规模随用户数线性增长是部署门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/self_supervised_denoising/unleashing_the_power_of_large_language_model_for_denoising_recommendation/">    <span class="related-paper-title">Unleashing the Power of Large Language Model for Denoising Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · SSL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/knowledge_graph_retrieval_augmented_generation_for_llm_based_recommendation/">    <span class="related-paper-title">Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../2026/cross_domain_multi_scenario/from_ids_to_semantics_a_generative_framework_for_cross_domain_recommendatio/">    <span class="related-paper-title">From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Cross / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

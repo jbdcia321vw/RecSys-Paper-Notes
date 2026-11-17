@@ -127,3 +127,16 @@ $$\mathcal{L}_{sgcl}=\sum_{(i,j)\in\mathcal{B}}-\log\frac{\exp(\boldsymbol{u}_i^
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式紧凑、复杂度逐项拆解到位，但符号与基线描述略简，5 页篇幅限制了推导展开）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、单塔单损失、训练时长降至 1/3、无 $\lambda$ 调参，对大规模图召回落地极友好）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../nlgcl_naturally_existing_neighbor_layers_graph_contrastive_learning_for_rec/">    <span class="related-paper-title">NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/self_supervised_denoising/squeeze_and_excitation_a_weighted_graph_contrastive_learning_for_collaborat/">    <span class="related-paper-title">Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering</span>    <span class="related-paper-meta">SIGIR · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/self_supervised_denoising/generative_data_augmentation_in_graph_contrastive_learning_for_recommendati/">    <span class="related-paper-title">Generative Data Augmentation in Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/reclm_recommendation_instruction_tuning/">    <span class="related-paper-title">RecLM: Recommendation Instruction Tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/cross_domain_multi_scenario/a_unified_framework_for_adaptive_representation_enhancement_and_inversed_le/">    <span class="related-paper-title">A Unified Framework for Adaptive Representation Enhancement and Inversed Learning in Cross-Domain Recommendation</span>    <span class="related-paper-meta">DASFAA · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+</div>
+<!-- related-papers:end -->

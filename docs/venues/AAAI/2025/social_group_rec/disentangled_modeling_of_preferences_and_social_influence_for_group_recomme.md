@@ -124,3 +124,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义清晰，因果图与案例图辅助到位，复杂度分析略缺）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，群组表征可离线预计算，但超图构图开销需工程优化）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/mixrec_heterogeneous_graph_collaborative_filtering/">    <span class="related-paper-title">MixRec: Heterogeneous Graph Collaborative Filtering</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/social_group_rec/leveraging_member_group_relations_via_multi_view_graph_filtering_for_effect/">    <span class="related-paper-title">Leveraging Member-Group Relations via Multi-View Graph Filtering for Effective Group Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Social / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/self_supervised_denoising/mixrec_individual_and_collective_mixing_empowers_data_augmentation_for_reco/">    <span class="related-paper-title">MixRec: Individual and Collective Mixing Empowers Data Augmentation for Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/self_supervised_denoising/squeeze_and_excitation_a_weighted_graph_contrastive_learning_for_collaborat/">    <span class="related-paper-title">Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering</span>    <span class="related-paper-meta">SIGIR · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/social_group_rec/community_aware_social_community_recommendation/">    <span class="related-paper-title">Community-Aware Social Community Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Social / Graph</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

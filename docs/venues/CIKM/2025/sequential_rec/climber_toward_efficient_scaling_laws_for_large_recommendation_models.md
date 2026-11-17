@@ -125,3 +125,16 @@ $$\boldsymbol{A}(S_k) = \mathrm{Softmax}\!\left(\frac{\boldsymbol{Q}\boldsymbol{
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、复杂度推导清晰，MSE/ATL/BGF 三模块边界明确；温度与偏置函数参数化细节略欠）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （千万级用户线上部署、5.15× 训练加速、推理快 2.92–14.38×、100× 模型扩容不增资源，落地价值极高；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/mixformer_co_scaling_up_dense_and_sequence_in_industrial_recommenders/">    <span class="related-paper-title">MixFormer: Co-Scaling Up Dense and Sequence in Industrial Recommenders</span>    <span class="related-paper-meta">KDD · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/towards_generalizable_and_efficient_large_scale_generative_recommenders/">    <span class="related-paper-title">Towards Generalizable and Efficient Large-Scale Generative Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/onetrans_unified_feature_interaction_and_sequence_modeling_with_one_transfo/">    <span class="related-paper-title">OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

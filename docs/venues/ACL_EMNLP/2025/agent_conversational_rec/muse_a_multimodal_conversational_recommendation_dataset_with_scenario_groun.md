@@ -135,3 +135,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与流程描述清晰，三模块职责边界明确；但全文几乎无公式化建模，理论刻画偏弱）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码匿名开源、框架可扩展至新品类，但图像 API 成本与 MLLM 依赖限制大规模工业复制）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/harnessing_multimodal_large_language_models_for_multimodal_sequential_recom/">    <span class="related-paper-title">Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/multimodal_large_language_models_with_adaptive_preference_optimization_for_/">    <span class="related-paper-title">Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/multimodal_rec/mllmrec_a_preference_reasoning_paradigm_with_graph_refinement_for_multimoda/">    <span class="related-paper-title">MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/llm_rec/scaling_multimodal_search_and_recommendation_with_small_language_models_via/">    <span class="related-paper-title">Scaling Multimodal Search and Recommendation with Small Language Models via Upside-Down Reinforcement Learning</span>    <span class="related-paper-meta">ICDM · 2025 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multimodal_rec/notellm_2_multimodal_large_representation_models_for_recommendation/">    <span class="related-paper-title">NoteLLM-2: Multimodal Large Representation Models for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

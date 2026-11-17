@@ -134,3 +134,17 @@ $$\mathcal{L}_{\text{final}}=\mathcal{L}_{\text{utility}}+\lambda\,\mathcal{L}_{
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （合成 SCM + 半合成 KuaiRand 100 种子 CI + 千万级线上 A/B 三档递进，含 Oracle 上界对照，唯真实场景覆盖偏少）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （假设 A1/A2 与命题链条清晰，附录含高斯闭式验证与界有效性讨论，但正文对 NCE-CLUB 与 GRL 不等价的处理略显轻描淡写）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （仅需现有日志、套任意监督模型、推理零开销，已在 Spotify 生产验证；扣分项为暂未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../DASFAA/2025/cross_domain_multi_scenario/cross_domain_causal_preference_learning_for_out_of_distribution_recommendat/">    <span class="related-paper-title">Cross-Domain Causal Preference Learning for Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">DASFAA · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/addressing_correlated_latent_exogenous_variables_in_debiased_recommender_sy/">    <span class="related-paper-title">Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/probabilistic_residual_learning_for_online_recommendations/">    <span class="related-paper-title">Probabilistic Residual Learning for Online Recommendations</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/counterfactual_inference_under_thompson_sampling/">    <span class="related-paper-title">Counterfactual Inference under Thompson Sampling</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/debias_fairness_industrial/explain_then_forget_recommendation_unlearning_under_asymmetric_access_const/">    <span class="related-paper-title">Explain, Then Forget: Recommendation Unlearning under Asymmetric Access Constraint</span>    <span class="related-paper-meta">ICDM · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

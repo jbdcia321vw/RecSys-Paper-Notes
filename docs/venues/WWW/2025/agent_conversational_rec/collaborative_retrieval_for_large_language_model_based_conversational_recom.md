@@ -126,3 +126,16 @@ $$\min_{W}\ \|\mathbf{R}_{\mathcal{Q}}-\mathbf{R}W\|_F^2+\lambda\|W\|_F^2,\quad 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、提示词全公开，EASE 推导清晰；部分结论以图趋势呈现缺精确数值表）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与 Reddit-v2 开源，无需训练即可插拔；但多轮 LLM 调用成本是线上部署主要门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../bridging_conversational_and_collaborative_signals_for_conversational_recomm/">    <span class="related-paper-title">Bridging Conversational and Collaborative Signals for Conversational Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / CF</span>    <span class="related-paper-score">语义相似度 0.84</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/agent_conversational_rec/improving_conversational_recommendation_with_contextual_adaptation_of_exter/">    <span class="related-paper-title">Improving Conversational Recommendation with Contextual Adaptation of External Recommenders and LLM-based Reranking</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/agent_conversational_rec/usb_rec_an_effective_framework_for_improving_conversational_recommendation_/">    <span class="related-paper-title">USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model</span>    <span class="related-paper-meta">RecSys · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../llm_rec/beyond_retrieval_generating_narratives_in_conversational_recommender_system/">    <span class="related-paper-title">Beyond Retrieval: Generating Narratives in Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/refining_text_generation_for_realistic_conversational_recommendation_via_di/">    <span class="related-paper-title">Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+</div>
+<!-- related-papers:end -->

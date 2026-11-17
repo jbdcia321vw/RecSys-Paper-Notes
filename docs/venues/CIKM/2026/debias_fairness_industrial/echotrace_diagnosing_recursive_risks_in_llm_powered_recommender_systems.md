@@ -130,3 +130,17 @@ $$\text{FEF}=1-\frac{|\mathcal{O}_{LLM}\cap\mathcal{O}_{gt}|}{|\mathcal{O}_{LLM}
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/exploring_the_escalation_of_source_bias_in_user_data_and_recommender_system/">    <span class="related-paper-title">Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/uncertainty_quantification_and_decomposition_for_llm_based_recommendation/">    <span class="related-paper-title">Uncertainty Quantification and Decomposition for LLM-based Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/llm_rec/effectiveness_of_llms_in_temporal_user_profiling_for_recommendation/">    <span class="related-paper-title">Effectiveness of LLMs in Temporal User Profiling for Recommendation</span>    <span class="related-paper-meta">ICDM · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/agent_conversational_rec/agentrecbench_benchmarking_llm_agent_based_personalized_recommender_systems/">    <span class="related-paper-title">AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

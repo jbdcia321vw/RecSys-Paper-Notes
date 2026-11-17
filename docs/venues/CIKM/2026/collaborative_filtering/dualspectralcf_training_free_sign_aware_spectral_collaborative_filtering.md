@@ -134,3 +134,17 @@ Recall@20，粗体为免训练区块内最优，下划线为次优：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/collaborative_filtering/graph_spectral_filtering_with_chebyshev_interpolation_for_recommendation/">    <span class="related-paper-title">Graph Spectral Filtering with Chebyshev Interpolation for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/collaborative_filtering/beyond_instance_level_alignment_and_uniformity_semantic_factor_learning_for/">    <span class="related-paper-title">Beyond Instance-Level Alignment and Uniformity: Semantic Factor Learning for Collaborative Filtering</span>    <span class="related-paper-meta">KDD · 2026 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/self_supervised_denoising/sgcl_unifying_self_supervised_and_supervised_learning_for_graph_recommendat/">    <span class="related-paper-title">SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/diversity_augmented_negative_sampling_for_implicit_collaborative_filtering/">    <span class="related-paper-title">Diversity-Augmented Negative Sampling for Implicit Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/social_group_rec/pulse_socially_aware_user_representation_modeling_toward_parameter_efficien/">    <span class="related-paper-title">PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

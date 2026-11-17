@@ -147,3 +147,16 @@ MMRecUn 在验证/测试集上较 AMUN 的 Recall 分别提升 **29.6%/26.69%**�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （BPR divergence 与信息界命题推导清晰，符号表完整，时间复杂度分析到位；部分公式排版在原文中略有错位）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （推理零开销、比重训快 1.3×、代码开源，直接对应 GDPR 合规与内容授权撤回等真实工业需求，落地价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/obliviate_efficient_unlearning_in_recommender_systems/">    <span class="related-paper-title">Obliviate: Efficient Unlearning in Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/debias_fairness_industrial/customized_retrieval_augmented_generation_with_llm_for_debiasing_recommenda/">    <span class="related-paper-title">Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation Unlearning</span>    <span class="related-paper-meta">ICDM · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/erase_a_real_world_aligned_benchmark_for_unlearning_in_recommender_systems/">    <span class="related-paper-title">ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/pre_training_for_recommendation_unlearning/">    <span class="related-paper-title">Pre-training for Recommendation Unlearning</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/debias_fairness_industrial/explain_then_forget_recommendation_unlearning_under_asymmetric_access_const/">    <span class="related-paper-title">Explain, Then Forget: Recommendation Unlearning under Asymmetric Access Constraint</span>    <span class="related-paper-meta">ICDM · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -138,3 +138,16 @@ Amazon Arts 上的视角与选择策略消融：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三挑战-三创新的叙事对齐良好，公式简洁；但 PPO 部分推导较略，状态/奖励设计缺少理论分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，训练仅需 2.77GB 显存、约 4 小时，远优于微调方案；但离线反思的 LLM 调用成本与在线延迟仍需工业侧进一步核算）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/reformulating_sequential_recommendation_learning_dynamic_user_interest_with/">    <span class="related-paper-title">Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/what_makes_llms_effective_sequential_recommenders_a_study_on_preference_int/">    <span class="related-paper-title">What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

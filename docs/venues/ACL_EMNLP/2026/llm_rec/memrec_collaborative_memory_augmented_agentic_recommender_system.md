@@ -122,3 +122,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （四领域基准 + 消融 + 分桶 + 扰动 + 成本分析齐全，显著性检验到位；扣分在候选集重排协议与单次运行、缺少方差报告）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三阶段流水线叙述清晰、公式简洁，但方法以提示工程为主，缺少复杂度与收敛性的形式化分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、$O(1)$ 更新复杂度、给出从云端 API 到本地 7B 的完整成本-性能帕累托前沿，工程可落地性强）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/llm_rec/harp_training_free_dual_profile_agentic_communication_for_llm_based_recomme/">    <span class="related-paper-title">HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/agent_conversational_rec/agentcf_memory_enhanced_llm_based_agents_for_popularity_aware_cross_domain_/">    <span class="related-paper-title">AgentCF++: Memory-enhanced LLM-based Agents for Popularity-aware Cross-domain Recommendations</span>    <span class="related-paper-meta">SIGIR · 2025 · CRS / Cross</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/agent_conversational_rec/agentdr_dynamic_recommendation_with_implicit_item_item_relations_via_llm_ba/">    <span class="related-paper-title">AgentDR: Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/personalized_recommendation_tool_learning_via_autonomous_language_agents/">    <span class="related-paper-title">Personalized Recommendation Tool Learning via Autonomous Language Agents</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../2025/agent_conversational_rec/a_survey_on_llm_powered_agents_for_recommender_systems/">    <span class="related-paper-title">A Survey on LLM-powered Agents for Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

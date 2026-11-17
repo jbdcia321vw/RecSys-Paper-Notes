@@ -136,3 +136,17 @@ Conformal 弃权（保留集幻觉率 %，Amazon）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （3 目录 × 4 厂商 × 12 cell + 201 人工标注 + 多匹配器稳健性检验相当扎实；扣分在单标注者、Amazon 仪器误差偏高、无 grounded 系统对照）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （对仪器误差、循环性、锚定、批处理漏答 1.0% 等威胁均逐条量化披露，v2 主动更正匹配器并反转结论，学术诚实度罕见）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码、18,833 条判定、201 条标注、prompt 全文全开源；结论直接指导生产审计应"同时报校准 + 验证匹配器 + 用目录锚定提问"，但零样本设定与生产 grounded 栈仍有距离）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../generative_rec/revisiting_generative_vs_dense_retrieval_a_static_value_prior_reverses_the_/">    <span class="related-paper-title">Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../the_recall_ceiling_of_llm_recommendation_reranking/">    <span class="related-paper-title">The Recall Ceiling of LLM Recommendation Reranking</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/one_polluted_page_is_enough_evaluating_web_content_pollution_in_llm_recomme/">    <span class="related-paper-title">One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommenders</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

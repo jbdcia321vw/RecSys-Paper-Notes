@@ -131,3 +131,16 @@ Amazon 排序：MAPS HR@10 = **0.7735** vs CoPPS 0.4854（+59.4%），NDCG@10 = 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三阶段结构与公式清晰，但 MoAE 门控细节与专家数量等超参描述偏简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、LLM 冻结可离线缓存嵌入，但实时性与大规模用户验证仍待补）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../similarity_value_consultation_value_assessment_and_alignment_for_personaliz/">    <span class="related-paper-title">Similarity = Value? Consultation Value Assessment and Alignment for Personalized Search</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/generative_rec/towards_context_aware_reasoning_enhanced_generative_searching_in_e_commerce/">    <span class="related-paper-title">Towards Context-aware Reasoning-enhanced Generative Searching in E-commerce</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../2026/llm_rec/eager_enrich_and_align_generative_query_recommendation_from_clicked_items_i/">    <span class="related-paper-title">EAGER: Enrich-and-Align Generative Query Recommendation from Clicked Items in E-commerce Search</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/ai_guided_accelerator_for_search_experience/">    <span class="related-paper-title">AI Guided Accelerator For Search Experience</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/debias_fairness_industrial/llm_based_user_product_relevance_evaluation_for_dynamic_product_advertising/">    <span class="related-paper-title">LLM-based User-Product Relevance Evaluation for Dynamic Product Advertising</span>    <span class="related-paper-meta">CIKM · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

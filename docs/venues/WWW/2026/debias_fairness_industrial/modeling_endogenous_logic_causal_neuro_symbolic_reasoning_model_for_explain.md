@@ -130,3 +130,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 Full-Ranking + 显著性检验 + 六组消融完整，但缺用户研究与量化解释指标）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （因果图与 FDA 两步映射清晰，公式规范；阈值 $\tau$ 与路径分派规则的形式化略欠严谨）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （无需外部属性、复杂度与邻居/规则数解耦，工程友好；但未开源、超参与层数组合需逐数据集调）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../mclmr_a_model_agnostic_causal_learning_framework_for_multi_behavior_recomme/">    <span class="related-paper-title">MCLMR: A Model-Agnostic Causal Learning Framework for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / SSL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../llm_rec/thinkrec_thinking_based_recommendation_via_llm/">    <span class="related-paper-title">ThinkRec: Thinking-based Recommendation via LLM</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/r_2_ec_towards_large_recommender_models_with_reasoning/">    <span class="related-paper-title">R$^2$ec: Towards Large Recommender Models with Reasoning</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/sequential_rec/explainable_session_based_recommendation_via_path_reasoning/">    <span class="related-paper-title">Explainable Session-based Recommendation via Path Reasoning</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/sequential_rec/recrec_latent_interests_recursive_reasoning_for_sequential_recommendation/">    <span class="related-paper-title">RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

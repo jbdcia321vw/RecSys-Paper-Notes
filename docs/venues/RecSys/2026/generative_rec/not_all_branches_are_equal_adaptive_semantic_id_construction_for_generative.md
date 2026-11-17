@@ -127,3 +127,17 @@ AST-V2 在全部 20 个「数据集×指标」组合上最优或并列最优，�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （五域 Full-Ranking + 统一骨干与下游模型隔离分词效应、$p<0.05$ 显著性、头尾 Pareto 与方向性分析完整；缺线上或大规模效率实验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （前缀掩码相似度的动机实验极具说服力，望远镜方差分解与 V2 单调收敛性论证严谨；MILP 求解器与近似程度细节略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （分词层与模型解耦、冷启动 $O(BdL)$ 挂载友好，但 MILP 与多候选 KMeans 的构造成本是大规模部署的主要门槛，且暂未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../topology_aware_tokenization_for_generative_recommendation/">    <span class="related-paper-title">Topology-Aware Tokenization for Generative Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/generative_rec/efficient_optimization_of_hierarchical_identifiers_for_generative_recommend/">    <span class="related-paper-title">Efficient Optimization of Hierarchical Identifiers for Generative Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/understanding_generative_recommendation_with_semantic_ids_from_a_model_scal/">    <span class="related-paper-title">Understanding Generative Recommendation with Semantic IDs from a Model-scaling View</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/sprig_semantic_id_enhanced_paths_for_knowledge_graph_based_generative_recom/">    <span class="related-paper-title">SPRIG: Semantic-ID-enhanced Paths for Knowledge Graph-based Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/generative_rec/rethinking_semantic_id_construction_for_generative_recommendation_simhash_w/">    <span class="related-paper-title">Rethinking Semantic ID Construction for Generative Recommendation: SimHash with Parallel Decoding and Semantic Alignment</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -134,3 +134,16 @@ $$\mathcal{L}_{omtp}=\lambda_1\mathcal{L}_n+\lambda_2\mathcal{L}_o,\quad \mathca
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式推导清晰、符号统一，OMTP 顺序损失定义明确，复杂度分析略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （快手 3 亿 DAU 全量部署、延迟接近非自回归、线上多指标显著提升，工程价值极高；可惜暂未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/multi_task_reranking/nlgr_utilizing_neighbor_lists_for_generative_rerank_in_personalized_recomme/">    <span class="related-paper-title">NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/multi_task_reranking/degre_dense_supervised_generative_reranking_for_recommendation/">    <span class="related-paper-title">DeGRe: Dense-supervised Generative Reranking for Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/bi_level_optimization_for_generative_recommendation_bridging_tokenization_a/">    <span class="related-paper-title">Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/llm_rec/empowering_compact_llms_with_fusion_of_layer_wise_exits_for_recommendation/">    <span class="related-paper-title">Empowering Compact LLMs with Fusion of Layer-wise Exits for Recommendation</span>    <span class="related-paper-meta">ICDM · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/breaking_the_likelihood_trap_consistent_generative_recommendation_with_grap/">    <span class="related-paper-title">Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

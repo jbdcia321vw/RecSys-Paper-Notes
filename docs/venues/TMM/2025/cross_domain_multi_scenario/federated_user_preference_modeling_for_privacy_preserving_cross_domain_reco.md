@@ -133,3 +133,16 @@ Task 2（Book/Music）与 Task 3（Sport/Cloth）HR@10：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义清晰、算法伪代码完整，隐私预算推导引用充分，但部分符号上下标在域间切换处略含混）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，联邦通信仅传低维原型、推理为本地 MLP，工程开销低，适合多业务方合规联合建模）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/fedecider_an_llm_based_framework_for_federated_cross_domain_recommendation/">    <span class="related-paper-title">FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/personalized_recommendation_models_in_federated_settings_a_survey/">    <span class="related-paper-title">Personalized Recommendation Models in Federated Settings: A Survey</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/learning_evolving_preferences_a_federated_continual_framework_for_user_cent/">    <span class="related-paper-title">Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/federated_continual_recommendation/">    <span class="related-paper-title">Federated Continual Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/debias_fairness_industrial/personalized_federated_collaborative_filtering_a_variational_autoencoder_ap/">    <span class="related-paper-title">Personalized Federated Collaborative Filtering: A Variational AutoEncoder Approach</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

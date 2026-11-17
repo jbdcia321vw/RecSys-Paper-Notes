@@ -136,3 +136,17 @@ Gowalla 上 NDCG@20（三种同构设置，趋势一致）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （三数据集 × 五师生架构 × 同构/异构 + 全库排序 + 配对 t 检验 + 完整消融与效率对比，覆盖充分）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理与证明链条清晰，附录含采样近似验证与 $\gamma$ 调度三原则论证；部分符号在正文与附录间略有重复）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、训练开销与 CD/RRD 同级、推理零额外成本，唯教师打分预存带来存储约束）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/exploring_feature_based_knowledge_distillation_for_recommender_system_a_fre/">    <span class="related-paper-title">Exploring Feature-based Knowledge Distillation for Recommender System: A Frequency Perspective</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cross_domain_multi_scenario/zero_shot_cross_domain_knowledge_distillation_a_case_study_on_youtube_music/">    <span class="related-paper-title">Zero-shot Cross-domain Knowledge Distillation: A Case study on YouTube Music</span>    <span class="related-paper-meta">RecSys · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/preference_consistent_knowledge_distillation_for_recommender_system/">    <span class="related-paper-title">Preference-Consistent Knowledge Distillation for Recommender System</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/active_large_language_model_based_knowledge_distillation_for_session_based_/">    <span class="related-paper-title">Active Large Language Model-based Knowledge Distillation for Session-based Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multi_task_reranking/nlgr_utilizing_neighbor_lists_for_generative_rerank_in_personalized_recomme/">    <span class="related-paper-title">NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

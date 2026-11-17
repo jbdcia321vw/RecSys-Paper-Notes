@@ -125,3 +125,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式链条完整、符号统一，MoE 与门控推导清晰；但部分表格数值存在明显排版异常，复杂度分析略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （仅改末层、参数量与计算量近零增长、可插拔到任意注意力骨干，工程落地门槛低；但两阶段训练与双超参调优增加上线成本）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/multimodal_rec/prism_personalized_recommendation_via_information_synergy_module/">    <span class="related-paper-title">PRISM: Personalized Recommendation via Information Synergy Module</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/star_rec_making_peace_with_length_variance_and_pattern_diversity_in_sequent/">    <span class="related-paper-title">STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/efficient_multimodal_streaming_recommendation_via_expandable_side_mixture_o/">    <span class="related-paper-title">Efficient Multimodal Streaming Recommendation via Expandable Side Mixture-of-Experts</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/empowering_sequential_recommendation_from_collaborative_signals_and_semanti/">    <span class="related-paper-title">Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

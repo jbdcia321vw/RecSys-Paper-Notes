@@ -129,3 +129,16 @@ GRU4Rec 上 TMask-R 提升更显著：Sports H@10 从 0.0157→0.0274（+74.52%�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Q1→Q2→Q3 递进式叙事清晰，公式简洁；但缺理论支撑，作者自认留待未来）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （零重训零参数、代码开源、分钟级部署开销，是难得的"免费午餐"型工程技巧）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/temporal_linear_item_item_model_for_sequential_recommendation/">    <span class="related-paper-title">Temporal Linear Item-Item Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../2026/self_supervised_denoising/asarrec_adaptive_sequential_augmentation_for_robust_self_supervised_sequent/">    <span class="related-paper-title">AsarRec: Adaptive Sequential Augmentation for Robust Self-supervised Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/sequential_rec/improving_sequential_recommendations_via_bidirectional_temporal_data_augmen/">    <span class="related-paper-title">Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cold_start_rec/tail_aware_data_augmentation_for_long_tail_sequential_recommendation/">    <span class="related-paper-title">Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cold / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/augmenting_sequential_recommendation_with_balanced_relevance_and_diversity/">    <span class="related-paper-title">Augmenting Sequential Recommendation with Balanced Relevance and Diversity</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

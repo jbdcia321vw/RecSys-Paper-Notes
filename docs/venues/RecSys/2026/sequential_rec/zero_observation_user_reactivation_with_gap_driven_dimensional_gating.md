@@ -134,3 +134,17 @@ $$\mathcal{L}=-\sum_u \log\frac{\exp(\hat{y}_{u,i_u})}{\sum_{j\in\mathcal{I}}\ex
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/sequential_rec/closing_the_long_short_view_gap_in_sequential_recommendation_without_cached/">    <span class="related-paper-title">Closing the Long-Short View Gap in Sequential Recommendation without Cached History</span>    <span class="related-paper-meta">CIKM · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/cross_domain_multi_scenario/horizon_a_benchmark_for_in_the_wild_user_behaviour_modeling/">    <span class="related-paper-title">HORIZON: A Benchmark for In-the-wild User Behaviour Modeling</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/make_it_long_keep_it_fast_end_to_end_10k_long_user_behavior_sequence_modeli/">    <span class="related-paper-title">Make It Long, Keep It Fast: End-to-End 10K Long User Behavior Sequence Modeling for Billion-Scale Douyin Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/slmrec_distilling_large_language_models_into_small_for_sequential_recommend/">    <span class="related-paper-title">SLMRec: Distilling Large Language Models into Small for Sequential Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/sigma_selective_gated_mamba_for_sequential_recommendation/">    <span class="related-paper-title">SIGMA: Selective Gated Mamba for Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

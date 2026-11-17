@@ -143,3 +143,16 @@ $$\text{Mean Share}(R,g)=\frac{1}{|R|}\sum_{r\in R}\frac{\#\,g\text{ in }r}{\#\t
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （对齐度、熵、JSD 定义清晰，RQ 组织条理分明，公式简洁无冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、纯黑盒 API 评测易复现，可直接作为聊天机器人上线前的公平性审计流水线）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/llm_rec/biases_in_llm_generated_musical_taste_profiles_for_recommendation/">    <span class="related-paper-title">Biases in LLM-Generated Musical Taste Profiles for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../bias_beware_the_impact_of_cognitive_biases_on_llm_driven_product_recommenda/">    <span class="related-paper-title">Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/privacy_risks_of_llm_empowered_recommender_systems_an_inversion_attack_pers/">    <span class="related-paper-title">Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/agent_conversational_rec/impact_of_tone_aware_explanations_in_recommender_systems/">    <span class="related-paper-title">Impact of Tone-Aware Explanations in Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · CRS</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/the_beginning_of_chatgpt_ads/">    <span class="related-paper-title">The Beginning of ChatGPT Ads</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -127,3 +127,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （复现判据、偏差归因与耗时表条理清晰，公式极少但符号一致，数据集统计披露略粗）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （直接给出"传统模型 833 倍成本优势"的工程结论，实验工件与调参范围全公开，对工业选型与审稿实践均有即时价值）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ECIR/2025/llm_rec/revisiting_language_models_in_neural_news_recommender_systems/">    <span class="related-paper-title">Revisiting Language Models in Neural News Recommender Systems</span>    <span class="related-paper-meta">ECIR · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/what_makes_llms_effective_sequential_recommenders_a_study_on_preference_int/">    <span class="related-paper-title">What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/recommendation_and_temptation/">    <span class="related-paper-title">Recommendation and Temptation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -128,3 +128,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （ODE 与扩散公式推导清晰，但部分符号如 $\tilde{\mathbf{A}}_{us}^t$的下标含义与$K=0$ 推理的理论依据仅引文交代，略欠自洽）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，增广图可离线预计算，但 ODE 多步求解与迭代训练对在线时延构成实际约束）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/decoupled_temporal_encoding_for_generative_recommendation/">    <span class="related-paper-title">Decoupled Temporal Encoding for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/temporal_linear_item_item_model_for_sequential_recommendation/">    <span class="related-paper-title">Temporal Linear Item-Item Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/modeling_stage_wise_evolution_of_user_interests_for_news_recommendation/">    <span class="related-paper-title">Modeling Stage-wise Evolution of User Interests for News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/sequential_rec/not_just_what_but_when_integrating_irregular_intervals_to_llm_for_sequentia/">    <span class="related-paper-title">Not Just What, But When: Integrating Irregular Intervals to LLM for Sequential Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

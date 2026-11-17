@@ -135,3 +135,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RQ 驱动结构清晰、场景表完备，公式极少但度量定义明确，局限自陈坦诚）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码与数据全开源，直接服务 DSA 合规审计与监管实践，对平台治理与研究者均高价值）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/the_role_of_follow_networks_and_twitter_s_content_recommender_on_partisan_s/">    <span class="related-paper-title">The Role of Follow Networks and Twitter&#x27;s Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / Social</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/whose_posts_get_ranked_identical_text_exposure_gaps_in_bluesky_custom_feeds/">    <span class="related-paper-title">Whose Posts Get Ranked: Identical-Text Exposure Gaps in Bluesky Custom Feeds</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Social</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/the_hidden_cost_of_defaults_in_recommender_system_evaluation/">    <span class="related-paper-title">The Hidden Cost of Defaults in Recommender System Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/privacy_risks_of_llm_empowered_recommender_systems_an_inversion_attack_pers/">    <span class="related-paper-title">Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/splitlight_an_exploratory_toolkit_for_recommender_systems_datasets_and_spli/">    <span class="related-paper-title">SplitLight: An Exploratory Toolkit for Recommender Systems Datasets and Splits</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+</div>
+<!-- related-papers:end -->

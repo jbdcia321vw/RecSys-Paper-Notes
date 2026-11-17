@@ -130,3 +130,17 @@ $$\mathbf{h}_u^{(m)}=\sigma\!\left(W\!\left(\gamma_u^{(m)}\mathbf{h}_u^{(0,m)}+(
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （六数据集+双模型规模+LLM-as-Judge 较完整，但缺人工评估、缺排序任务、划分沿用旧工作未做时间切分）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号一致、方面 schema 示例表直观；门控函数 $f_\theta$与$\omega$ 细节被推入附录，正文略欠完整）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （软提示可缓存、图检索为查表，推理友好；但画像构建的 LLM 调用成本与未开源代码削弱了直接复现性）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/multifaceted_user_modeling_in_recommendation_a_federated_foundation_models_/">    <span class="related-paper-title">Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/personax_a_recommendation_agent_oriented_user_modeling_framework_for_long_b/">    <span class="related-paper-title">PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/debias_fairness_industrial/customized_retrieval_augmented_generation_with_llm_for_debiasing_recommenda/">    <span class="related-paper-title">Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation Unlearning</span>    <span class="related-paper-meta">ICDM · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/copl_collaborative_preference_learning_for_personalizing_llms/">    <span class="related-paper-title">CoPL: Collaborative Preference Learning for Personalizing LLMs</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../2025/cross_domain_multi_scenario/perscen_learning_personalized_interaction_pattern_and_scenario_preference_f/">    <span class="related-paper-title">PERSCEN: Learning Personalized Interaction Pattern and Scenario Preference for Multi-Scenario Matching</span>    <span class="related-paper-meta">KDD · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

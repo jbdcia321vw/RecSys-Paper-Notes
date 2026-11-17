@@ -135,3 +135,16 @@ MovieLens-1M 上移除各注意力层（Precision@5 / NDCG@5 / MAP@5，%）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三层注意力的张量维度流转与复杂度推导清晰，Property 5.1 证明简洁；部分符号如 $\mathbf{H}^{(U)}$与$\tilde{\mathbf{H}}_{i_j}$ 的堆叠关系需对照公式细读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，无构图与负采样管线，工程链路轻；但上下文采样需在线实时构图，大规模候选下的延迟仍需验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/recommendation_is_a_dish_better_served_warm/">    <span class="related-paper-title">Recommendation Is a Dish Better Served Warm</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/cross_domain_multi_scenario/cross_domain_sequential_recommendation_with_representation_level_user_trans/">    <span class="related-paper-title">Cross-Domain Sequential Recommendation with Representation-Level User Transfer</span>    <span class="related-paper-meta">CIKM · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/personalized_diffusion_model_reshapes_cold_start_bundle_recommendation/">    <span class="related-paper-title">Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / GenRec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/mixrec_heterogeneous_graph_collaborative_filtering/">    <span class="related-paper-title">MixRec: Heterogeneous Graph Collaborative Filtering</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

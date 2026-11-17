@@ -129,3 +129,16 @@ LightGCL、$k=20$，考察替换池过滤阈值$\beta$（图5）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Theorem 1/Proposition 2/3 层层递进，反例构造清晰，复杂度分析到位；风险函数忽略位置权重略有简化）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （模型无关、免重训、$O(|\mathcal{I}|\log|\mathcal{I}|)$ 且阈值可缓存，代码已开源，可直接作为重排层风控插件部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/content_agnostic_moderation_for_stance_neutral_recommendation/">    <span class="related-paper-title">Content-Agnostic Moderation for Stance-Neutral Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/recommendation_and_temptation/">    <span class="related-paper-title">Recommendation and Temptation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/multimodal_rec/truthsr_trustworthy_sequential_recommender_systems_via_user_generated_multi/">    <span class="related-paper-title">TruthSR: Trustworthy Sequential Recommender Systems via User-generated Multimodal Content</span>    <span class="related-paper-meta">DASFAA · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/iagent_llm_agent_as_a_shield_between_user_and_recommender_systems/">    <span class="related-paper-title">iAgent: LLM Agent as a Shield between User and Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

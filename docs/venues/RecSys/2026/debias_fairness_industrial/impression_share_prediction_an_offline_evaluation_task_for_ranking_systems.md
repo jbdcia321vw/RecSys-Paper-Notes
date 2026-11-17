@@ -130,3 +130,17 @@ $$P(Y^m_t \mid do(A^m_t=a), D_t) = P(Y^m_t \mid A^m_t=a, D_t)$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （时间切分与 seen/held-out 双轨设计合理、分桶细致，但缺显著性检验、单系统单窗口、pre-entry 目标仅为代理）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （DAG 与识别等式表述严谨、特征维度交代清楚，5 页篇幅下公式与符号无冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （直接面向 A/B 前置门控的真实痛点，推理仅需分钟级快照与 8-token 短序列，工程开销极低；但数据与代码未开源，复现受限）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/ctr_feature_interaction/identifying_offline_metrics_that_predict_online_impact_a_pragmatic_strategy/">    <span class="related-paper-title">Identifying Offline Metrics that Predict Online Impact: A Pragmatic Strategy for Real-World Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/ctr_feature_interaction/on_predicting_post_click_conversion_rate_via_counterfactual_inference/">    <span class="related-paper-title">On Predicting Post-Click Conversion Rate via Counterfactual Inference</span>    <span class="related-paper-meta">ICDM · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../2025/ctr_feature_interaction/counterfactual_inference_under_thompson_sampling/">    <span class="related-paper-title">Counterfactual Inference under Thompson Sampling</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/deep_learning_causal_retrieval_optimization_for_efficient_e_commerce_distri/">    <span class="related-paper-title">Deep-learning Causal Retrieval Optimization for Efficient e-commerce Distribution in Pinterest</span>    <span class="related-paper-meta">KDD · 2026 · Debias / RL</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../2025/collaborative_filtering/on_the_reliability_of_sampling_strategies_in_offline_recommender_evaluation/">    <span class="related-paper-title">On the Reliability of Sampling Strategies in Offline Recommender Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

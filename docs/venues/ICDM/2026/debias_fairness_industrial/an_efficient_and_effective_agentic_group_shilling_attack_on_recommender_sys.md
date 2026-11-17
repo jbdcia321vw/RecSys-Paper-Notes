@@ -138,3 +138,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （6 数据集 × 11 受害者 × 5 检测器，5 次运行带 95% CI，策略/组件/骨干/预算四类消融齐全）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （信号定义与算法流程清晰，但怀疑分权重与告警阈值缺乏理论或敏感性支撑）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、免训练、约 24 分钟完成一次压测，可直接作为推荐系统鲁棒性红队基准）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/spattack_subgroup_poisoning_attacks_on_federated_recommender_systems/">    <span class="related-paper-title">Spattack: Subgroup Poisoning Attacks on Federated Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/attacking_and_defending_multi_agent_collaborative_filtering_systems_through/">    <span class="related-paper-title">Attacking and Defending Multi-Agent Collaborative Filtering Systems Through Connectivity</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / CRS</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/id_free_not_risk_free_llm_powered_agents_unveil_risks_in_id_free_recommende/">    <span class="related-paper-title">ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in ID-Free Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/diversity_aware_dual_promotion_poisoning_attack_on_sequential_recommendatio/">    <span class="related-paper-title">Diversity-aware Dual-promotion Poisoning Attack on Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/iagent_llm_agent_as_a_shield_between_user_and_recommender_systems/">    <span class="related-paper-title">iAgent: LLM Agent as a Shield between User and Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

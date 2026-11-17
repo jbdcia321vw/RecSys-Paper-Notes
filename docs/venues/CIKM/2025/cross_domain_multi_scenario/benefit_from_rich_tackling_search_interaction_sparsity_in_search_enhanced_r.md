@@ -124,3 +124,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与公式链条清晰，损失逐项交代，复杂度讨论到位；部分符号如 $\mathbf{E}^{\|r}$ 排版略乱）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （LLM 离线推理、在线仅跑轻量图 + Transformer，图规模远小于 User-Item 图，工程友好；但代码未开源、依赖闭源 LLM 总结流程）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/the_future_is_sparse_embedding_compression_for_scalable_retrieval_in_recomm/">    <span class="related-paper-title">The Future is Sparse: Embedding Compression for Scalable Retrieval in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/corona_a_coarse_to_fine_framework_for_graph_based_recommendation_with_large/">    <span class="related-paper-title">CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/efficient_learning_of_sparse_representations_from_interactions/">    <span class="related-paper-title">Efficient Learning of Sparse Representations from Interactions</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/rethinking_llm_based_recommendations_a_personalized_query_driven_parallel_i/">    <span class="related-paper-title">Rethinking LLM-Based Recommendations: A Personalized Query-Driven Parallel Integration</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/graph_rec/an_automatic_graph_construction_framework_based_on_large_language_models_fo/">    <span class="related-paper-title">An Automatic Graph Construction Framework based on Large Language Models for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · Graph / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

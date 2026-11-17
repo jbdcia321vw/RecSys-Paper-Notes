@@ -141,3 +141,16 @@ $$\mathcal{L}=\mathcal{L}_{main}+\lambda_1\mathcal{L}_{CP}+\lambda_2\mathcal{L}_
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义清晰、模块动机有图示支撑，个别符号如 $\alpha_m$ 的作用缺少消融验证）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、基于 RecBole 易复现，但两级 MoE 的在线延迟与显存成本未量化，落地需额外压测）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/multi_modal_multi_behavior_sequential_recommendation_with_conditional_diffu/">    <span class="related-paper-title">Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/multimodal_rec/cammsr_category_guided_attentive_mixture_of_experts_for_multimodal_sequenti/">    <span class="related-paper-title">CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/cpmr_context_aware_incremental_sequential_recommendation_with_pseudo_multi_/">    <span class="related-paper-title">CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../2026/multimodal_rec/prism_personalized_recommendation_via_information_synergy_module/">    <span class="related-paper-title">PRISM: Personalized Recommendation via Information Synergy Module</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/empowering_sequential_recommendation_from_collaborative_signals_and_semanti/">    <span class="related-paper-title">Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

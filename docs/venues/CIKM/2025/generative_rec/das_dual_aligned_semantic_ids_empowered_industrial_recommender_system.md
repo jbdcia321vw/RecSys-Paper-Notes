@@ -144,3 +144,16 @@ MDAM 三路对齐的逐项移除（CTR 任务）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （框架图与因果图清晰，但公式 (3)(4) 存在符号笔误与括号不匹配，部分损失项下标定义略含糊）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已全量部署服务 4 亿 DAU，eCPM +3.48%、冷启动 +8.98%，判别式与生成式双路复用，落地价值极高；扣分项为未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/generative_rec/rethinking_semantic_id_construction_for_generative_recommendation_simhash_w/">    <span class="related-paper-title">Rethinking Semantic ID Construction for Generative Recommendation: SimHash with Parallel Decoding and Semantic Alignment</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/semantic_ids_for_joint_generative_search_and_recommendation/">    <span class="related-paper-title">Semantic IDs for Joint Generative Search and Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/llm_rec/darec_a_disentangled_alignment_framework_for_large_language_model_and_recom/">    <span class="related-paper-title">DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System</span>    <span class="related-paper-meta">ICDE · 2025 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/fusion_and_alignment_enhancement_with_large_language_models_for_tail_item_s/">    <span class="related-paper-title">Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/generative_recommender_with_end_to_end_learnable_item_tokenization/">    <span class="related-paper-title">Generative Recommender with End-to-End Learnable Item Tokenization</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

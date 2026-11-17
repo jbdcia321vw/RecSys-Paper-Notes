@@ -136,3 +136,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （五数据集、三类基线、冷启动/度分桶/噪声注入/超参敏感性齐全，但 1000 负采样排序偏乐观，测试集经 LLM 过滤引入评估偏差）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义清晰、元路径与门控推导完整，训练时间与 LLM 预处理成本均有量化，但部分符号如 $\boldsymbol{z}_i^{\phi\prime}$与$\boldsymbol{z}_i^\phi$ 关系表述略含糊）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、推理零 LLM 开销、每 epoch 0.2s 远快于 DHGAN，LLM 预处理为一次性离线成本；但依赖 BLIP-2 与 Flan-T5-XXL 的部署门槛与静态关系假设限制实时演化场景）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/beyond_graph_convolution_multimodal_recommendation_with_topology_aware_mlps/">    <span class="related-paper-title">Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../2025/sequential_rec/linear_item_item_model_with_neural_knowledge_for_session_based_recommendati/">    <span class="related-paper-title">Linear Item-Item Model with Neural Knowledge for Session-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/generative_rec/recbase_generative_foundation_model_pretraining_for_zero_shot_recommendatio/">    <span class="related-paper-title">RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/self_supervised_denoising/generative_data_augmentation_in_graph_contrastive_learning_for_recommendati/">    <span class="related-paper-title">Generative Data Augmentation in Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/mixrec_heterogeneous_graph_collaborative_filtering/">    <span class="related-paper-title">MixRec: Heterogeneous Graph Collaborative Filtering</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

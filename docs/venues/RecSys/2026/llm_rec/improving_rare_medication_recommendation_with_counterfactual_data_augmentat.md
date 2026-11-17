@@ -138,3 +138,17 @@ MIMIC-III（CF=反事实数据，IT=指令微调）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/fine_grained_list_wise_alignment_for_generative_medication_recommendation/">    <span class="related-paper-title">Fine-grained List-wise Alignment for Generative Medication Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/cold_start_rec/user_adaptive_meta_learning_for_cold_start_medication_recommendation_with_u/">    <span class="related-paper-title">User-Adaptive Meta-Learning for Cold-Start Medication Recommendation with Uncertainty Filtering</span>    <span class="related-paper-meta">ICDE · 2026 · Cold / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/reasoning_over_semantic_ids_enhances_generative_recommendation/">    <span class="related-paper-title">Reasoning over Semantic IDs Enhances Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/ctr_feature_interaction/explainable_ctr_prediction_via_llm_reasoning/">    <span class="related-paper-title">Explainable CTR Prediction via LLM Reasoning</span>    <span class="related-paper-meta">WSDM · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/llm_rec/delrec_distilling_sequential_pattern_to_enhance_llms_based_sequential_recom/">    <span class="related-paper-title">DELRec: Distilling Sequential Pattern to Enhance LLMs-based Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

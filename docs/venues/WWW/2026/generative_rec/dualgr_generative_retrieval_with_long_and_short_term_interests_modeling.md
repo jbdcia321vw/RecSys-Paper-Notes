@@ -126,3 +126,17 @@ $$\mathcal{L}_{\text{ENTP}}=\frac{1}{N}\sum_{i\in\mathcal{B}}\Big[c_i\sum_{\ell=
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （工业级在线 HR 与一周 A/B 有说服力，但缺离线公开数据集复现、显著性检验与多样性指标）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （4 页短文公式紧凑、符号一致，S2D 的历史压缩量级分析到位，但训练-推理不一致处未展开讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在快手亿级用户场景全量验证、延迟可控，工程价值高；但未开源，复现依赖私有日志与 SID 量化流程）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/genrec_a_preference_oriented_generative_framework_for_large_scale_recommend/">    <span class="related-paper-title">GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/hyformer_revisiting_the_roles_of_sequence_modeling_and_feature_interaction_/">    <span class="related-paper-title">HyFormer: Revisiting the Roles of Sequence Modeling and Feature Interaction in CTR Prediction</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/sequential_rec/user_long_term_multi_interest_retrieval_model_for_recommendation/">    <span class="related-paper-title">User Long-Term Multi-Interest Retrieval Model for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Seq / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/rethinking_item_tokenization_in_generative_recommenders_from_fixed_atoms_to/">    <span class="related-paper-title">Rethinking Item Tokenization in Generative Recommenders: From Fixed Atoms to Semantic Subwords</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/egr_embedding_native_generative_retrieval_with_a_shared_llm/">    <span class="related-paper-title">EGR: Embedding-Native Generative Retrieval with a Shared LLM</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

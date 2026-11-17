@@ -130,3 +130,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三域 Full-Ranking + 三次种子 + 12 个基线 + 完整消融与冷启动/文本泛化分析，但缺显著性检验与效率对比）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号统一、算法流程完整，但熵引导的预算采样与衰减触发条件描述偏工程化，理论分析较弱）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （推理零开销、代码已开源、骨干与 RPG 完全兼容，仅训练期增加一次前向，落地门槛低）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/sequential_rec/improving_sequential_recommendations_via_bidirectional_temporal_data_augmen/">    <span class="related-paper-title">Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/collaborative_memory_augmentation_for_generative_recommendation/">    <span class="related-paper-title">Collaborative Memory Augmentation for Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/one_sequential_recommendation_model_pretrained_from_synthetic_priors_predic/">    <span class="related-paper-title">One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets</span>    <span class="related-paper-meta">KDD · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../2025/generative_rec/enhancing_time_awareness_in_generative_recommendation/">    <span class="related-paper-title">Enhancing Time Awareness in Generative Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/fave_flow_based_average_velocity_establishment_for_sequential_recommendatio/">    <span class="related-paper-title">FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

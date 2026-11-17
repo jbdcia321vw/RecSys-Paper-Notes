@@ -131,3 +131,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/llm_as_a_judge_for_reliable_and_explainable_offline_evaluation_in_top_k_rec/">    <span class="related-paper-title">LLM-as-a-Judge for Reliable and Explainable Offline Evaluation in Top-K Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/agent_conversational_rec/llm_powered_user_simulator_for_recommender_system/">    <span class="related-paper-title">LLM-Powered User Simulator for Recommender System</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/agent_conversational_rec/pub_an_llm_enhanced_personality_driven_user_behaviour_simulator_for_recomme/">    <span class="related-paper-title">PUB: An LLM-Enhanced Personality-Driven User Behaviour Simulator for Recommender System Evaluation</span>    <span class="related-paper-meta">SIGIR · 2025 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/on_the_reliability_of_sampling_strategies_in_offline_recommender_evaluation/">    <span class="related-paper-title">On the Reliability of Sampling Strategies in Offline Recommender Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/recommendation_and_temptation/">    <span class="related-paper-title">Recommendation and Temptation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

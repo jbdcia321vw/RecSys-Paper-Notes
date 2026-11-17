@@ -132,3 +132,16 @@ Token 参数化对比（Train NE Gain，相对基线）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RQ-VAE 与参数化公式定义清晰，NE 与 AAR 指标交代明确，复杂度分析略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在 Meta 广告系统上线一年以上，0.15% 线上增益 + 43% 方差下降，工程链路完整，唯代码未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/enhancing_id_based_recommendation_with_large_language_models/">    <span class="related-paper-title">Enhancing ID-based Recommendation with Large Language Models</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/llm_rec/a_bi_step_grounding_paradigm_for_large_language_models_in_recommendation_sy/">    <span class="related-paper-title">A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/cross_domain_multi_scenario/federated_semantic_learning_for_privacy_preserving_cross_domain_recommendat/">    <span class="related-paper-title">Federated Semantic Learning for Privacy-preserving Cross-domain Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR-AP/2026/generative_rec/what_makes_a_good_semantic_id_for_generative_recommendation_a_reproducibili/">    <span class="related-paper-title">What Makes a Good Semantic ID for Generative Recommendation? A Reproducibility Study</span>    <span class="related-paper-meta">SIGIR-AP · 2026 · GenRec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

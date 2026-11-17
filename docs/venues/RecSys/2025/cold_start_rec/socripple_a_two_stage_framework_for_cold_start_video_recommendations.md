@@ -127,3 +127,16 @@ $$P(y_{u,i}=1\mid u,i)=\frac{\exp(s(u,i))}{\exp(s(u,i))+\sum_{i'\in \mathcal{B}^
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （4 页短文结构紧凑、公式仅保留必要的双塔与 sampled softmax，符号干净；但超参与系统细节留白较多）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （物品侧零训练成本、用户嵌入日更 + FAISS 索引、在线仅一次 KNN 与轻量聚合，落地路径清晰；但无开源代码且强绑定社交图，复现门槛高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../2026/cold_start_rec/learning_sparse_representations_of_multimodal_content_for_enhanced_cold_ite/">    <span class="related-paper-title">Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/personalized_diffusion_model_reshapes_cold_start_bundle_recommendation/">    <span class="related-paper-title">Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cold_start_rec/shallow_autoencoding_recommender_with_cold_start_handling_via_side_features/">    <span class="related-paper-title">Shallow AutoEncoding Recommender with Cold Start Handling via Side Features</span>    <span class="related-paper-meta">CIKM · 2025 · Cold / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/cold_start_rec/online_item_cold_start_recommendation_with_popularity_aware_meta_learning/">    <span class="related-paper-title">Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning</span>    <span class="related-paper-meta">KDD · 2025 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

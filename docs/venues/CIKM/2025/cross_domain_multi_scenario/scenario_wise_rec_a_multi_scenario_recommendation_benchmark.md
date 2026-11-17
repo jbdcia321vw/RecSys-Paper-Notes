@@ -133,3 +133,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （形式化简洁、场景切分与 COV 定义清晰，但理论分析较浅）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （全开源、含工业验证与教程，可直接作为 MSR 研究的标准实验底座）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/sequential_rec/time_to_split_exploring_data_splitting_strategies_for_offline_evaluation_of/">    <span class="related-paper-title">Time to Split: Exploring Data Splitting Strategies for Offline Evaluation of Sequential Recommenders</span>    <span class="related-paper-meta">RecSys · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/recflow_an_industrial_full_flow_recommendation_dataset/">    <span class="related-paper-title">RecFlow: An Industrial Full Flow Recommendation Dataset</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/recnexteval_a_reference_implementation_for_temporal_next_batch_recommendati/">    <span class="related-paper-title">RecNextEval: A Reference Implementation for Temporal Next-Batch Recommendation Evaluation</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/cross_domain_multi_scenario/reinforcing_user_interest_evolution_in_multi_scenario_learning_for_recommen/">    <span class="related-paper-title">Reinforcing User Interest Evolution in Multi-Scenario Learning for recommender systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Cross / RL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cold_start_rec/trinity_a_scenario_aware_recommendation_framework_for_large_scale_cold_star/">    <span class="related-paper-title">Trinity: A Scenario-Aware Recommendation Framework for Large-Scale Cold-Start Users</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cold / Cross</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

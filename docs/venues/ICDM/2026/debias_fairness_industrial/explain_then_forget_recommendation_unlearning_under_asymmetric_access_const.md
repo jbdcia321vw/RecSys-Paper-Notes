@@ -137,3 +137,17 @@ ML-1M 上对 CCI 因果引导的消融（CEU-Random 随机惩罚、CEU-Reverse �
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 × 两骨干 × 七基线，Full-Ranking + 白盒 MIA + 延迟 + 遗忘比例压力测试齐全，配对 t 检验到位；不足是缺少序列/生成式骨干与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （CCI/URA 两模块公式简洁、伪代码完整、因果图直观；但 $do(E:=E^*)$的可识别性论证偏弱，部分符号如$u(\mathbf{P}_u)$ 的定义略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码已开源，免参数、可缓存、9–55 倍加速且天然支持连续请求，直接对应 MLaaS 合规遗忘的真实工业诉求，落地路径清晰）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/obliviate_efficient_unlearning_in_recommender_systems/">    <span class="related-paper-title">Obliviate: Efficient Unlearning in Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/pre_training_for_recommendation_unlearning/">    <span class="related-paper-title">Pre-training for Recommendation Unlearning</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/erase_a_real_world_aligned_benchmark_for_unlearning_in_recommender_systems/">    <span class="related-paper-title">ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/customized_retrieval_augmented_generation_with_llm_for_debiasing_recommenda/">    <span class="related-paper-title">Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation Unlearning</span>    <span class="related-paper-meta">ICDM · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/can_recommender_systems_teach_themselves_a_recursive_self_improving_framewo/">    <span class="related-paper-title">Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

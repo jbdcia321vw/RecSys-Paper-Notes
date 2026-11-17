@@ -123,3 +123,16 @@ $$\boldsymbol{e}_u^{(l+1)}=\sigma\!\left(\frac{\boldsymbol{e}_u^{(l)}+\sum_{i\in
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （动机—实证—方法的逻辑链清晰，公式简洁；但部分符号如 $\hat{\boldsymbol{e}}_i$的下标$L_0$ 存在笔误）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （即插即用骨干、开销接近 LightGCN、已匿名开源，落地门槛低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/collaborative_filtering/graph_spectral_filtering_with_chebyshev_interpolation_for_recommendation/">    <span class="related-paper-title">Graph Spectral Filtering with Chebyshev Interpolation for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/a_node_aware_dynamic_quantization_approach_for_graph_collaborative_filterin/">    <span class="related-paper-title">A Node-Aware Dynamic Quantization Approach for Graph Collaborative Filtering</span>    <span class="related-paper-meta">CIKM · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/collaborative_filtering/memory_is_no_longer_a_bottleneck_memory_efficient_graph_filtering_for_scala/">    <span class="related-paper-title">Memory Is No Longer a Bottleneck: Memory-Efficient Graph Filtering for Scalable Collaborative Filtering</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/social_group_rec/pulse_socially_aware_user_representation_modeling_toward_parameter_efficien/">    <span class="related-paper-title">PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/graph_rec/how_do_graph_signals_affect_recommendation_unveiling_the_mystery_of_low_and/">    <span class="related-paper-title">How Do Graph Signals Affect Recommendation: Unveiling the Mystery of Low and High-Frequency Graph Signals</span>    <span class="related-paper-meta">KDD · 2026 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

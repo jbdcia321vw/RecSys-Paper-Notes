@@ -128,3 +128,16 @@ Open Bandit Dataset（Men's campaign）上各估计器的 99% 置信区间与真
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （6 页短文，公式推导从约束优化到 Delta 方法一气呵成，符号统一、无冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （无超参、开销可忽略、代码全开源，可直接嵌入现有 OPE 流水线，对日志稀缺场景收益显著）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../rl_bandit_rec/off_policy_evaluation_and_learning_for_matching_markets/">    <span class="related-paper-title">Off-Policy Evaluation and Learning for Matching Markets</span>    <span class="related-paper-meta">RecSys · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/additive_control_variates_dominate_self_normalisation_in_off_policy_evaluat/">    <span class="related-paper-title">Additive Control Variates Dominate Self-Normalisation in Off-Policy Evaluation</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../ctr_feature_interaction/counterfactual_inference_under_thompson_sampling/">    <span class="related-paper-title">Counterfactual Inference under Thompson Sampling</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/llm_as_a_judge_for_reliable_and_explainable_offline_evaluation_in_top_k_rec/">    <span class="related-paper-title">LLM-as-a-Judge for Reliable and Explainable Offline Evaluation in Top-K Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../rl_bandit_rec/exploitation_over_exploration_unmasking_the_bias_in_linear_bandit_recommend/">    <span class="related-paper-title">Exploitation Over Exploration: Unmasking the Bias in Linear Bandit Recommender Offline Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

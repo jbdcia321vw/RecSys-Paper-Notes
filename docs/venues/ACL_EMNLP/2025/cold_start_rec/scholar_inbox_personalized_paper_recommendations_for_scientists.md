@@ -118,3 +118,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （权重推导与偏置修正链条清晰，超参消融详尽，系统架构描述完整）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （系统已上线服务 23k 用户、35% 月活，数据集开源，但代码未开源且线性模型扩展性有限）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ECIR/2026/llm_rec/scinup_natural_language_user_interest_profiles_for_scientific_literature_re/">    <span class="related-paper-title">SciNUP: Natural Language User Interest Profiles for Scientific Literature Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/datarec_a_python_library_for_standardized_and_reproducible_data_management_/">    <span class="related-paper-title">DataRec: A Python Library for Standardized and Reproducible Data Management in Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/how_to_diversify_any_personalized_recommender/">    <span class="related-paper-title">How to Diversify any Personalized Recommender?</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/continual_recommender_systems/">    <span class="related-paper-title">Continual Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/llm_rec/balancing_fine_tuning_and_rag_a_hybrid_strategy_for_dynamic_llm_recommendat/">    <span class="related-paper-title">Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

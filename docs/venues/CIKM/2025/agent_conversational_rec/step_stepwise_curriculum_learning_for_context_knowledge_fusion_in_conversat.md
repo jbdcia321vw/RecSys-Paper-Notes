@@ -134,3 +134,16 @@ ReDial 数据集上逐组件移除（推荐 Recall / 对话 Distinct）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三阶段损失与调度权重公式定义清晰，符号统一，但部分公式排版有 OCR 噪声）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （PLM 冻结、仅训轻量模块，代码已开源，单卡 L20 可复现，工程部署门槛低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/agent_conversational_rec/on_mitigating_data_sparsity_in_conversational_recommender_systems/">    <span class="related-paper-title">On Mitigating Data Sparsity in Conversational Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2026 · CRS / Cold</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/agent_conversational_rec/improving_conversational_recommendation_with_contextual_adaptation_of_exter/">    <span class="related-paper-title">Improving Conversational Recommendation with Contextual Adaptation of External Recommenders and LLM-based Reranking</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/bridging_conversational_and_collaborative_signals_for_conversational_recomm/">    <span class="related-paper-title">Bridging Conversational and Collaborative Signals for Conversational Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / CF</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/enhancing_collaborative_semantics_of_language_model_driven_recommendations_/">    <span class="related-paper-title">Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/recquest_towards_estimating_user_domain_knowledge_in_conversational_recomme/">    <span class="related-paper-title">RecQuest: Towards Estimating User Domain Knowledge in Conversational Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

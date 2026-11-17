@@ -143,3 +143,17 @@ Recall@20（图 2 数值）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/multimodal_rec/mllmrec_a_preference_reasoning_paradigm_with_graph_refinement_for_multimoda/">    <span class="related-paper-title">MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/cohesion_composite_graph_convolutional_network_with_dual_stage_fusion_for_m/">    <span class="related-paper-title">COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/beyond_graph_convolution_multimodal_recommendation_with_topology_aware_mlps/">    <span class="related-paper-title">Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/multimodal_rec/vi_mmrec_similarity_aware_training_cost_free_virtual_user_item_interactions/">    <span class="related-paper-title">VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multimodal_rec/information_guided_selective_modality_interest_alignment_for_multimodal_rec/">    <span class="related-paper-title">Information-Guided Selective Modality-Interest Alignment for Multimodal Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

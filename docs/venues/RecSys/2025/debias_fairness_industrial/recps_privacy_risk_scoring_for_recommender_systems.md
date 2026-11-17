@@ -126,3 +126,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （DP→MIA→分数的推导链条清晰，算法伪代码完整，复杂度分析到位；用户级连乘上界到均值聚合的过渡略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码已开源、流程可复现，但 500 个 shadow 模型的训练开销与仅限概率输出模型的约束，使其短期内更适合作为合规审计工具而非线上常驻组件）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/membership_inference_attacks_on_in_context_examples_in_llm_based_recommende/">    <span class="related-paper-title">Membership Inference Attacks on In-Context Examples in LLM-based Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/reference_recommendation_based_membership_inference_attack_against_hybrid_b/">    <span class="related-paper-title">Reference Recommendation based Membership Inference Attack against Hybrid-based Recommender Systems</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../privacy_risks_of_llm_empowered_recommender_systems_an_inversion_attack_pers/">    <span class="related-paper-title">Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/obliviate_efficient_unlearning_in_recommender_systems/">    <span class="related-paper-title">Obliviate: Efficient Unlearning in Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/poi_spatiotemporal_rec/a_survey_on_point_of_interest_recommendation_models_architectures_and_secur/">    <span class="related-paper-title">A Survey on Point-of-Interest Recommendation: Models, Architectures, and Security</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · POI / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

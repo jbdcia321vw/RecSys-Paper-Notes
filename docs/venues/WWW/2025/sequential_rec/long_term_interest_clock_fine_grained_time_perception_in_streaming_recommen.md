@@ -132,3 +132,16 @@ $$\alpha(\boldsymbol{b}_m,\boldsymbol{q})=\frac{(W_b\boldsymbol{b}_m)\odot(W_q\b
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式精简、动机与三缺陷剖析清晰，4 页短文信息密度高；但部分符号如 $s(\cdot)$ 维度、PS 存储细节略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在抖音音乐多应用精排上线，预计算+PS 方案可直接复用；但无开源代码、依赖长期行为日志，复现门槛高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/pyramid_mixer_multi_dimensional_multi_period_interest_modeling_for_sequenti/">    <span class="related-paper-title">Pyramid Mixer: Multi-dimensional Multi-period Interest Modeling for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../2026/sequential_rec/mixture_of_sequence_theme_aware_mixture_of_experts_for_long_sequence_recomm/">    <span class="related-paper-title">Mixture of Sequence: Theme-Aware Mixture-of-Experts for Long-Sequence Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/decoupled_temporal_encoding_for_generative_recommendation/">    <span class="related-paper-title">Decoupled Temporal Encoding for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/balancing_accuracy_and_novelty_with_sub_item_popularity/">    <span class="related-paper-title">Balancing Accuracy and Novelty with Sub-Item Popularity</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

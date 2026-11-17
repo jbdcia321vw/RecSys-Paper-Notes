@@ -126,3 +126,17 @@ $$\mathcal{L}=\mathcal{L}_{m}+\alpha\cdot\mathbb{I}(y=1)\,\mathrm{MSE}(y_d,\hat{
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （2.41B 曝光工业级数据 + 时间切分防穿越 + 5 次重复 + 线上 A/B 全链路验证，但仅单平台、缺延迟反馈对比）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （公式简洁、模块边界清楚，但 DCM-Context 的 GateNet 细节与 $\alpha$取值未展开，部分符号如$f_m$、$\mathcal{M}$ 定义略含糊）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在天猫全量部署、响应时间增幅 <5%、代码开源，工程可复现性极强）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../counterfactual_multi_task_learning_for_delayed_conversion_modeling_in_e_com/">    <span class="related-paper-title">Counterfactual Multi-task Learning for Delayed Conversion Modeling in E-commerce Sales Pre-Promotion</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/modeling_cascaded_delay_feedback_for_online_net_conversion_rate_prediction_/">    <span class="related-paper-title">Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/ctr_feature_interaction/jointly_optimizing_debiased_ctr_and_uplift_for_coupons_marketing_a_unified_/">    <span class="related-paper-title">Jointly Optimizing Debiased CTR and Uplift for Coupons Marketing: A Unified Causal Framework</span>    <span class="related-paper-meta">CIKM · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/delayed_feedback_modeling_for_post_click_gross_merchandise_volume_predictio/">    <span class="related-paper-title">Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights and Approaches</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/time_matters_enhancing_sequential_recommendations_with_time_guided_graph_ne/">    <span class="related-paper-title">Time Matters: Enhancing Sequential Recommendations with Time-Guided Graph Neural ODEs</span>    <span class="related-paper-meta">KDD · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+</div>
+<!-- related-papers:end -->

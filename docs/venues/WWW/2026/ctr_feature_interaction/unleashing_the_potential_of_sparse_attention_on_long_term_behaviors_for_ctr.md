@@ -128,3 +128,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 + 10 基线 + 消融 + 稀疏度/替代方案对比 + scaling law + 线上 A/B 完整，但线上流量与周期偏短）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与复杂度分析清晰，三分支与偏置定义完整，但部分符号如 $E_B$与$E_S$ 的关系需读者自行推断）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源，8.9× 加速、40ms 推理、线上 CTR/CPM 双涨，且验证了三个数量级 FLOPs 的 scaling law，工业部署价值突出）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../sequential_rec/blossomrec_block_level_fused_sparse_attention_mechanism_for_sequential_reco/">    <span class="related-paper-title">BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/ctr_feature_interaction/ctr_sink_attention_sink_for_language_models_in_click_through_rate_predictio/">    <span class="related-paper-title">CTR-Sink: Attention Sink for Language Models in Click-Through Rate Prediction</span>    <span class="related-paper-meta">KDD · 2026 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/modeling_stage_wise_evolution_of_user_interests_for_news_recommendation/">    <span class="related-paper-title">Modeling Stage-wise Evolution of User Interests for News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/sequential_rec/long_sequence_recommendation_models_need_decoupled_embeddings/">    <span class="related-paper-title">Long-Sequence Recommendation Models Need Decoupled Embeddings</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/star_rec_making_peace_with_length_variance_and_pattern_diversity_in_sequent/">    <span class="related-paper-title">STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

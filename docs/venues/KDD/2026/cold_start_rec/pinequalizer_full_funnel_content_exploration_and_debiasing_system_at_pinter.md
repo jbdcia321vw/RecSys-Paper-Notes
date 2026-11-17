@@ -132,3 +132,17 @@ Related Pins 场景组件级 A/B 汇总（自 2024 年各次上线增益聚合�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/item_centric_exploration_for_cold_start_problem/">    <span class="related-paper-title">Item-centric Exploration for Cold Start Problem</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / RL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/interactrank_personalized_web_scale_search_pre_ranking_with_cross_interacti/">    <span class="related-paper-title">InteractRank: Personalized Web-Scale Search Pre-Ranking with Cross Interaction Features</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/socripple_a_two_stage_framework_for_cold_start_video_recommendations/">    <span class="related-paper-title">SocRipple: A Two-Stage Framework for Cold-Start Video Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Social</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/transact_v2_lifelong_user_action_sequence_modeling_on_pinterest_recommendat/">    <span class="related-paper-title">TransAct V2: Lifelong User Action Sequence Modeling on Pinterest Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/genpage_towards_end_to_end_generative_homepage_construction_at_netflix/">    <span class="related-paper-title">GenPage: Towards End-to-End Generative Homepage Construction at Netflix</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

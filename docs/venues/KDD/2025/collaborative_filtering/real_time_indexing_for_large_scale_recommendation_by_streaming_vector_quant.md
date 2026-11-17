@@ -141,3 +141,16 @@ $$k_o^*=\arg\min_k\|\mathbf{e}_k-\mathbf{v}_o\|^2\cdot r,\quad r=\min\!\Big(\fra
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与公式链条清晰、表 1 的七维对比很有洞察，但部分符号（如 $\delta^t$、$h_{jp}$）定义偏简，附录依赖较重）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已替换抖音全部主召回器、索引构建从小时级降至实时、实现仅基于现成 VQ-VAE，工程可落地性极强；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/merge_next_generation_item_indexing_paradigm_for_large_scale_streaming_reco/">    <span class="related-paper-title">MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/interactrank_personalized_web_scale_search_pre_ranking_with_cross_interacti/">    <span class="related-paper-title">InteractRank: Personalized Web-Scale Search Pre-Ranking with Cross Interaction Features</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / CTR</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/multi_task_reranking/equip_pre_ranking_with_target_attention_by_residual_quantization/">    <span class="related-paper-title">Equip Pre-ranking with Target Attention by Residual Quantization</span>    <span class="related-paper-meta">SIGIR · 2026 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/sequential_rec/foresight_prediction_enhanced_live_streaming_recommendation/">    <span class="related-paper-title">Foresight Prediction Enhanced Live-Streaming Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/grank_towards_target_aware_and_streamlined_industrial_retrieval_with_a_gene/">    <span class="related-paper-title">GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -126,3 +126,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化清晰、GDR 示例与归因分类定义明确，但表格中部分数值前后不一致、公式化程度偏低）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （直接面向生产 SLA 与 token 预算，Compression 策略 p95 降 45%、token 省 8 倍，落地指导性极强；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/multimodal_rec/intentlens_grounding_underspecified_multimodal_queries_for_recommendation_v/">    <span class="related-paper-title">IntentLens: Grounding Underspecified Multimodal Queries for Recommendation via Tool-Augmented Reasoning</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/multimodal_rec/cammsr_category_guided_attentive_mixture_of_experts_for_multimodal_sequenti/">    <span class="related-paper-title">CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/muse_a_multimodal_conversational_recommendation_dataset_with_scenario_groun/">    <span class="related-paper-title">Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/agent_conversational_rec/styletailor_towards_personalized_fashion_styling_via_hierarchical_negative_/">    <span class="related-paper-title">StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/personalized_image_generation_with_large_multimodal_models/">    <span class="related-paper-title">Personalized Image Generation with Large Multimodal Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

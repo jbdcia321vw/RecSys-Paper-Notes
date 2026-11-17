@@ -153,3 +153,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （切分变体定义清晰、图表自洽，但部分符号如 $T_{\text{val}}$/$T_{\text{test}}$ 的选取准则散落各处，需读者自行拼合）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （开源完整切分代码，直接给出"用 GTS+Last/Random、配 GT 验证、上线前重训练"的可执行建议，对工业评测流水线立即可用）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/pay_attention_to_sequence_split_uncovering_the_impacts_of_sub_sequence_spli/">    <span class="related-paper-title">Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/recnexteval_a_reference_implementation_for_temporal_next_batch_recommendati/">    <span class="related-paper-title">RecNextEval: A Reference Implementation for Temporal Next-Batch Recommendation Evaluation</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/splitlight_an_exploratory_toolkit_for_recommender_systems_datasets_and_spli/">    <span class="related-paper-title">SplitLight: An Exploratory Toolkit for Recommender Systems Datasets and Splits</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -145,3 +145,16 @@ LLM 仅在离线画像阶段调用，在线训练零 LLM 开销；三模型异�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、prompt 模板完整可复现，逻辑链条交代清楚）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （LLM 仅离线调用、在线 0.76s 推理，工程友好且已开源，适合作为 RL 推荐训练沙盒）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/a_llm_based_controllable_scalable_human_involved_user_simulator_framework_f/">    <span class="related-paper-title">A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/agent_conversational_rec/recoworld_building_simulated_environments_for_agentic_recommender_systems/">    <span class="related-paper-title">RecoWorld: Building Simulated Environments for Agentic Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/flexible_generation_of_preference_data_for_recommendation_analysis/">    <span class="related-paper-title">Flexible Generation of Preference Data for Recommendation Analysis</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/agent_conversational_rec/agentrecbench_benchmarking_llm_agent_based_personalized_recommender_systems/">    <span class="related-paper-title">AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/task_aware_automated_user_profile_generation_for_recommendation_simulation_/">    <span class="related-paper-title">Task-Aware Automated User Profile Generation for Recommendation Simulation Using Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

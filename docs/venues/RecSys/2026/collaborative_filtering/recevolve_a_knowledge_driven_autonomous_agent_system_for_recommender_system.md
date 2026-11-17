@@ -121,3 +121,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （有 2M 步全量离线与真实线上 A/B 双验证，但仅单场景、无多数据集、无显著性检验与方差报告）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （搜索问题形式化与 Algorithm 1 清晰，工程细节充分；但缺复杂度分析与关键超参敏感性讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （推理零额外开销、已上线见效，工程价值极高；但代码未开源、依赖内部基础设施，复现门槛高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../llm_rec/self_evolving_recommendation_system_end_to_end_autonomous_model_optimizatio/">    <span class="related-paper-title">Self-Evolving Recommendation System: End-To-End Autonomous Model Optimization With LLM Agents</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/llm_rec/autoresearch_at_production_scale_failure_modes_and_a_multi_agent_framework/">    <span class="related-paper-title">AutoResearch at Production Scale: Failure Modes and a Multi-Agent Framework</span>    <span class="related-paper-meta">ICDM · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../agent_conversational_rec/rec_a_verifiable_benchmark_for_agentic_recommender_systems/">    <span class="related-paper-title">$τ$-Rec: A Verifiable Benchmark for Agentic Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../llm_rec/personalized_recommendation_tool_learning_via_autonomous_language_agents/">    <span class="related-paper-title">Personalized Recommendation Tool Learning via Autonomous Language Agents</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/agent_conversational_rec/agentrecbench_benchmarking_llm_agent_based_personalized_recommender_systems/">    <span class="related-paper-title">AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

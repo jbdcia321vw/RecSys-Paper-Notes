@@ -113,3 +113,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （五维组织清晰、表 1 矩阵直观，但公式与形式化定义较少，偏概念性叙述）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （为工业界提供可信推荐全景 checklist 与权衡警示，但无开源代码与可复现 pipeline）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../impression_aware_recommender_systems/">    <span class="related-paper-title">Impression-Aware Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../TKDD/2026/generative_rec/eval4direc_a_unified_and_systematic_evaluation_framework_for_diffusion_base/">    <span class="related-paper-title">Eval4DiRec: A Unified and Systematic Evaluation Framework for Diffusion-based Recommender Systems</span>    <span class="related-paper-meta">ACM TKDD · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/debias_fairness_industrial/a_thorough_performance_benchmarking_on_lightweight_embedding_based_recommen/">    <span class="related-paper-title">A Thorough Performance Benchmarking on Lightweight Embedding-based Recommender Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

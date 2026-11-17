@@ -145,3 +145,16 @@ $\hat{p}(x_l|x_{<l})=\frac{\exp f(x_l;x_{<l})}{\exp f(x_l;x_{<l})+\sum_{n\in N}\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两类过拟合的刻画清晰、五种策略对比直观，但 sampled softmax 的方差/偏差分析略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已开源、已在 AliExpress 全量上线并带来 GMV +7.03%，incremental-GPSD 可直接复用）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multi_task_reranking/sort_a_systematically_optimized_ranking_transformer_for_industrial_scale_re/">    <span class="related-paper-title">SORT: A Systematically Optimized Ranking Transformer for Industrial-scale Recommenders</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/onetrans_unified_feature_interaction_and_sequence_modeling_with_one_transfo/">    <span class="related-paper-title">OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/generative_rec/mtgr_industrial_scale_generative_recommendation_framework_in_meituan/">    <span class="related-paper-title">MTGR: Industrial-Scale Generative Recommendation Framework in Meituan</span>    <span class="related-paper-meta">CIKM · 2025 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/genrec_a_preference_oriented_generative_framework_for_large_scale_recommend/">    <span class="related-paper-title">GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

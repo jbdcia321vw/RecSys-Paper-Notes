@@ -129,3 +129,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （13 个基线覆盖三类范式、消融完整，但随机划分有泄漏风险、无显著性检验、提升幅度偏小）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义干净、Prompt 模板完整披露、复杂度与超参表清晰；物品图融合 $S^*=\tilde{S}+\tilde{C}$ 的量纲差异未做归一化讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码已开源、在线推理开销可控，但离线 7B 模型全量推理成本与 Prompt 敏感性是规模化落地的主要门槛）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACM_MM/2026/multimodal_rec/one_graph_multiple_gains_single_high_quality_item_item_graph_for_multimodal/">    <span class="related-paper-title">One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation</span>    <span class="related-paper-meta">ACM MM · 2026 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/beyond_graph_convolution_multimodal_recommendation_with_topology_aware_mlps/">    <span class="related-paper-title">Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../llm_rec/multimodal_large_language_models_with_adaptive_preference_optimization_for_/">    <span class="related-paper-title">Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/harnessing_multimodal_large_language_models_for_multimodal_sequential_recom/">    <span class="related-paper-title">Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2025/multimodal_rec/i_3_mrec_invariant_learning_with_information_bottleneck_for_incomplete_moda/">    <span class="related-paper-title">I$^3$-MRec: Invariant Learning with Information Bottleneck for Incomplete Modality Recommendation</span>    <span class="related-paper-meta">ACM MM · 2025 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+</div>
+<!-- related-papers:end -->

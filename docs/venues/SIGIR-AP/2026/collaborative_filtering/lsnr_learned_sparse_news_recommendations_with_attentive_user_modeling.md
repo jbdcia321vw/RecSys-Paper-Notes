@@ -141,3 +141,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （五阶段评估设计严谨，N=1 控制实验巧妙隔离截断混淆，消融完整，但仅 impression 级排序、缺全库排序精度）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号统一，通路互补性论证清楚，复杂度与稀疏度统计到位）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、索引小一个数量级、用户编码毫秒级，短历史新用户场景直接契合新闻平台痛点）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ECIR/2025/llm_rec/revisiting_language_models_in_neural_news_recommender_systems/">    <span class="related-paper-title">Revisiting Language Models in Neural News Recommender Systems</span>    <span class="related-paper-meta">ECIR · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/cold_start_rec/learning_sparse_representations_of_multimodal_content_for_enhanced_cold_ite/">    <span class="related-paper-title">Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/enhancing_news_recommendation_with_hierarchical_llm_prompting/">    <span class="related-paper-title">Enhancing News Recommendation with Hierarchical LLM Prompting</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/blossomrec_block_level_fused_sparse_attention_mechanism_for_sequential_reco/">    <span class="related-paper-title">BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/efficient_learning_of_sparse_representations_from_interactions/">    <span class="related-paper-title">Efficient Learning of Sparse Representations from Interactions</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

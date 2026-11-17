@@ -123,3 +123,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （任务定义与协议描述详尽可复现，公式简洁；但部分表格排版混乱、T2/T6 指标口径解释略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （数据、采集系统与代码全开源，协议可直接复用；但千级对话规模对工业级训练仍偏小）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/agent_conversational_rec/recquest_towards_estimating_user_domain_knowledge_in_conversational_recomme/">    <span class="related-paper-title">RecQuest: Towards Estimating User Domain Knowledge in Conversational Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_retrieval_generating_narratives_in_conversational_recommender_system/">    <span class="related-paper-title">Beyond Retrieval: Generating Narratives in Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/towards_personalized_conversational_sales_agents_contextual_user_profiling_/">    <span class="related-paper-title">Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/improving_item_discoverability_in_e_commerce_search_via_related_intent_gene/">    <span class="related-paper-title">Improving Item Discoverability in e-Commerce Search via Related Intent Generation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/maps_motivation_aware_personalized_search_via_llm_driven_consultation_align/">    <span class="related-paper-title">MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

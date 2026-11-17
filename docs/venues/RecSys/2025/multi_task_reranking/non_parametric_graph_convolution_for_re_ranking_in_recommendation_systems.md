@@ -131,3 +131,16 @@ $$\text{Weight}(\mathcal{M}_{ij})[u',v']=\sum_{(u,v)\neq(u',v')}\left(1-\text{We
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四步流程与公式定义清晰、图示直观；聚合权重公式存在拼写瑕疵且缺复杂度严格推导）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （零重训、可插拔、代码开源，训练零增量开销，对现有 CTR 管线极其友好，落地门槛极低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/corona_a_coarse_to_fine_framework_for_graph_based_recommendation_with_large/">    <span class="related-paper-title">CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../self_supervised_denoising/sgcl_unifying_self_supervised_and_supervised_learning_for_graph_recommendat/">    <span class="related-paper-title">SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/graphhash_graph_clustering_enables_parameter_efficiency_in_recommender_syst/">    <span class="related-paper-title">GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/rankformer_a_graph_transformer_for_recommendation_based_on_ranking_objectiv/">    <span class="related-paper-title">Rankformer: A Graph Transformer for Recommendation based on Ranking Objective</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/graph_rec/contextgnn_beyond_two_tower_recommendation_systems/">    <span class="related-paper-title">ContextGNN: Beyond Two-Tower Recommendation Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

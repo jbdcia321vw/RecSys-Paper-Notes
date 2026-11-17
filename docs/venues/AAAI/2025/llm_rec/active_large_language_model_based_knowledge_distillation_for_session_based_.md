@@ -133,3 +133,16 @@ $$p^*_s=\begin{cases}\frac{1}{H_{k^*}(g^{si}_s+g^{in}_s)}, & 1\le s\le k_{si}+k_
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理-定义-证明链条清晰，$p^*$与$k^*$ 闭式表达完整；但正文证明仅为 sketch，增益超参的经验性偏强）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （成本从 347 美元降至 8.6 美元、学生模型与普通 SBR 同量级，落地路径清晰；扣分在于代码未正式开源、依赖 GPT-4 API 版本稳定性）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/selfdr_self_distillation_from_reasoning_for_llm_based_recommendation/">    <span class="related-paper-title">SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/generative_rec/generative_large_recommendation_models_emerging_trends_in_llms_for_recommen/">    <span class="related-paper-title">Generative Large Recommendation Models: Emerging Trends in LLMs for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../re2llm_reflective_reinforcement_large_language_model_for_session_based_reco/">    <span class="related-paper-title">Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/agent_conversational_rec/usb_rec_an_effective_framework_for_improving_conversational_recommendation_/">    <span class="related-paper-title">USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model</span>    <span class="related-paper-meta">RecSys · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/do_llms_memorize_recommendation_datasets_a_preliminary_study_on_movielens_1/">    <span class="related-paper-title">Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

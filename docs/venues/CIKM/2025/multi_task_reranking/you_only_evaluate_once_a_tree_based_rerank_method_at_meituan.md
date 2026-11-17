@@ -124,3 +124,16 @@ CCM 效率消融（去掉 CCM 后随机采样 K 个列表）：Taobao K=50 时 H
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （模块划分清晰、复杂度分析到位，但 GBPR 的 sgn 形式与 $\alpha$ 敏感性讨论偏简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在美团外卖全量部署，时延零增长、GMV +7.64%，落地说服力极强；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/multi_task_reranking/nlgr_utilizing_neighbor_lists_for_generative_rerank_in_personalized_recomme/">    <span class="related-paper-title">NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../2026/llm_rec/profiling_what_matters_context_aware_item_profiles_from_large_scale_metadat/">    <span class="related-paper-title">Profiling What Matters: Context-Aware Item Profiles from Large-Scale Metadata for LLM Recommenders</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../2026/llm_rec/the_recall_ceiling_of_llm_recommendation_reranking/">    <span class="related-paper-title">The Recall Ceiling of LLM Recommendation Reranking</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/multi_task_reranking/degre_dense_supervised_generative_reranking_for_recommendation/">    <span class="related-paper-title">DeGRe: Dense-supervised Generative Reranking for Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multi_task_reranking/comprehensive_list_generation_for_multi_generator_reranking/">    <span class="related-paper-title">Comprehensive List Generation for Multi-Generator Reranking</span>    <span class="related-paper-meta">SIGIR · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

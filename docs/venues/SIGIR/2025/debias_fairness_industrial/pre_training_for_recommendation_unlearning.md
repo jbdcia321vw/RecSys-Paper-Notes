@@ -125,3 +125,16 @@ SimGCL 骨干：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Eq.7-14 推导链条连贯，IDM/IDG 定义清晰；部分符号如 $\tilde{c}$与$\mathbf{W}_\eta$ 的维度说明略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （开源完整，遗忘耗时 0.31s 量级、显存与重训同级，直接契合 GDPR 合规删除的线上需求）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/erase_a_real_world_aligned_benchmark_for_unlearning_in_recommender_systems/">    <span class="related-paper-title">ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/graph_rec/lightkg_efficient_knowledge_aware_recommendations_with_simplified_gnn_archi/">    <span class="related-paper-title">LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture</span>    <span class="related-paper-meta">KDD · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/obliviate_efficient_unlearning_in_recommender_systems/">    <span class="related-paper-title">Obliviate: Efficient Unlearning in Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/reclm_recommendation_instruction_tuning/">    <span class="related-paper-title">RecLM: Recommendation Instruction Tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/alphafree_recommendation_free_from_users_ids_and_gnns/">    <span class="related-paper-title">AlphaFree: Recommendation Free from Users, IDs, and GNNs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

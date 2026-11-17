@@ -130,3 +130,16 @@ $$\underbrace{\mathrm{H}[q(\pi_u|\mathcal{H}_u,\mathcal{C}_u)]}_{\text{总不确
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （熵分解推导清晰、算法伪代码完整，PL 近似的误差界未严格分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与权重开源，推理开销与基线持平，可直接作为 LLM 重排的可靠性门控，但 5 次采样成本需工程优化）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/rl_bandit_rec/uncertainty_calibrated_recommendations_for_low_active_users/">    <span class="related-paper-title">Uncertainty-Aware Adaptive Recommendation across User Lifecycle</span>    <span class="related-paper-meta">KDD · 2026 · RL / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/do_llms_memorize_recommendation_datasets_a_preliminary_study_on_movielens_1/">    <span class="related-paper-title">Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cold_start_rec/harnessing_light_for_cold_start_recommendations_leveraging_epistemic_uncert/">    <span class="related-paper-title">Harnessing Light for Cold-Start Recommendations: Leveraging Epistemic Uncertainty to Enhance Performance in User-Item Interactions</span>    <span class="related-paper-meta">CIKM · 2025 · Cold / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

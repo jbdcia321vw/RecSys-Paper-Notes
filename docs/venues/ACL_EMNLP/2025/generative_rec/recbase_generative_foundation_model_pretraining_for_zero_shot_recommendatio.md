@@ -134,3 +134,16 @@ $$\mathcal{L}=-\sum_{t=1}^{n}\sum_{j=1}^{m}\log P(s_t^{j*}\mid s_t^{<j*},S_{<t})
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （CL-VAE 损失与自回归目标公式清晰、符号统一，算法伪代码完整；码本规模/层数的选择依据有图 5 定量支撑）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码已开源，2 万词表带来显著推理加速，1.3B 即可对标 7B，跨域零样本对冷启动业务线极具吸引力）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/llm_recg_a_semantic_bias_aware_framework_for_zero_shot_sequential_recommend/">    <span class="related-paper-title">LLM-RecG: A Semantic Bias-Aware Framework for Zero-Shot Sequential Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Seq</span>    <span class="related-paper-score">语义相似度 0.83</span>  </a>
+  <a class="related-paper" href="../recgpt_a_foundation_model_for_sequential_recommendation/">    <span class="related-paper-title">RecGPT: A Foundation Model for Sequential Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.81</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/generative_archetype_grounded_item_representations_for_sequential_recommend/">    <span class="related-paper-title">Generative Archetype-Grounded Item Representations for Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/cold_start_rec/genrecedit_adapting_model_editing_for_generative_recommendation_with_cold_s/">    <span class="related-paper-title">GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items</span>    <span class="related-paper-meta">SIGIR · 2026 · Cold / GenRec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/universal_item_tokenization_for_transferable_generative_recommendation/">    <span class="related-paper-title">Universal Item Tokenization for Transferable Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Cross</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+</div>
+<!-- related-papers:end -->

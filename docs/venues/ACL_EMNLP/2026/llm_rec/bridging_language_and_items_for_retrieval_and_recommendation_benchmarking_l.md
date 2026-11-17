@@ -121,3 +121,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三场景 12 数据集、11 模型、参数受控适配器与 Borda 聚合严谨，惟搜索候选池非全库略打折）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （任务定义与公式简洁清晰，附录给出完整划分/元数据/失败案例分析，符号规范）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （Amazon'23 与 BLaIR-Bench 工具链全开源，离线编码 + 在线 ANN 架构直接可落地，选型指导价值高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/the_mental_world_of_large_language_models_in_recommendation_a_benchmark_on_/">    <span class="related-paper-title">The Mental World of Large Language Models in Recommendation: A Benchmark on Association, Personalization, and Knowledgeability</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/flare_fusing_language_models_and_collaborative_architectures_for_recommende/">    <span class="related-paper-title">FLARE: Fusing Language Models and Collaborative Architectures for Recommender Enhancement</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/semantic_ids_for_joint_generative_search_and_recommendation/">    <span class="related-paper-title">Semantic IDs for Joint Generative Search and Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/llm_rec/exploring_the_upper_limits_of_text_based_collaborative_filtering_using_larg/">    <span class="related-paper-title">Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights</span>    <span class="related-paper-meta">CIKM · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

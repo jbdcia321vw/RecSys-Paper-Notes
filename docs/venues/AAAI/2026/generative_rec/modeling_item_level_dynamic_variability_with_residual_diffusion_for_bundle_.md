@@ -129,3 +129,17 @@ $\rho=-3$ 下移除残差连接（`w/o R`）对比：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （4 数据集 × 6 骨干 × 5 档 $\rho$ 覆盖充分，Full-Ranking 协议规范；扣分于合成变化构造与个别异常数值缺解释）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （前向/反向推导完整、算法伪代码清晰，但式(7)中 $e_{t'}$与$t'$ 的取值规则表述略含糊）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （模型无关、即插即用、训练仅增 4%、代码开源，落地门槛低；推理延迟未评估为主要保留项）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/personalized_diffusion_model_reshapes_cold_start_bundle_recommendation/">    <span class="related-paper-title">Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/cold_start_rec/epiccbr_item_relation_enhanced_dual_scenario_contrastive_learning_for_cold_/">    <span class="related-paper-title">EpicCBR: Item-Relation-Enhanced Dual-Scenario Contrastive Learning for Cold-Start Bundle Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · Cold / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/prompt_to_slate_diffusion_models_for_prompt_conditioned_slate_generation/">    <span class="related-paper-title">Prompt-to-Slate: Diffusion Models for Prompt-Conditioned Slate Generation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/preference_diffusion_for_recommendation/">    <span class="related-paper-title">Preference Diffusion for Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/dual_diffusional_generative_fashion_recommendation/">    <span class="related-paper-title">Dual-Diffusional Generative Fashion Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -124,3 +124,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （对四类评估协议的假设、优势与局限拆解到位，且诚实指出单次运行、静态单轮、LLM-as-judge 三大缺陷，但无自有实验与定量元分析）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （分类规则与主格分配判据表述明确、边界清晰，附录提供数据集-文献与指标-文献映射，数学仅涉及 $\Delta B$ 等少量符号，规范无冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （按干预深度分层给出闭源/开源场景的选型指引，配套 GitHub 资源库便于复现检索，但缺少统一基准与可执行评测脚本）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/towards_fair_large_language_model_based_recommender_systems_without_costly_/">    <span class="related-paper-title">Towards Fair Large Language Model-based Recommender Systems without Costly Retraining</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/facter_fairness_aware_conformal_thresholding_and_prompt_engineering_for_ena/">    <span class="related-paper-title">FACTER: Fairness-Aware Conformal Thresholding and Prompt Engineering for Enabling Fair LLM-Based Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/stairway_to_fairness_connecting_group_and_individual_fairness/">    <span class="related-paper-title">Stairway to Fairness: Connecting Group and Individual Fairness</span>    <span class="related-paper-meta">RecSys · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/unmasking_gender_bias_in_recommendation_systems_and_enhancing_category_awar/">    <span class="related-paper-title">Unmasking Gender Bias in Recommendation Systems and Enhancing Category-Aware Fairness</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/social_group_rec/consensus_vs_dissent_dynamic_llm_modeling_of_subjective_preferences_in_grou/">    <span class="related-paper-title">Consensus vs. Dissent: Dynamic LLM Modeling of Subjective Preferences in Group Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · Social / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

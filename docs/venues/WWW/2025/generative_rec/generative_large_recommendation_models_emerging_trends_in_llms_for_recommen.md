@@ -117,3 +117,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （提纲层次清晰、议题边界明确，但全文几乎无公式与形式化定义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （源自华为诺亚方舟一线实践，数据工程与效率议题对工业落地指导性强，但无开源代码）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/do_llms_memorize_recommendation_datasets_a_preliminary_study_on_movielens_1/">    <span class="related-paper-title">Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/generative_rec/unlocking_scaling_law_in_industrial_recommendation_systems_with_a_three_ste/">    <span class="related-paper-title">Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model</span>    <span class="related-paper-meta">WSDM · 2026 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+</div>
+<!-- related-papers:end -->

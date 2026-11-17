@@ -129,3 +129,17 @@ $$\mathcal{L}(\pi_\theta)=-\mathbb{E}_{\mathcal{B}\sim\mathcal{D}}\Big[\sum_{l\i
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （四个数据集 + 5 次运行 + t-test + 两周线上 A/B，但组构造超参消融仅限 Industry 单集）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理 1 证明链完整、附录含 UAT 与 KL 界推导，但主文公式密度高、组相对条件的实践标定略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （线上全量部署、延迟降 45%、MFU 提升 6 倍，单阶段架构工程价值极高；代码暂未公开为唯一扣分项）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/multi_task_reranking/comprehensive_list_generation_for_multi_generator_reranking/">    <span class="related-paper-title">Comprehensive List Generation for Multi-Generator Reranking</span>    <span class="related-paper-meta">SIGIR · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multi_task_reranking/nlgr_utilizing_neighbor_lists_for_generative_rerank_in_personalized_recomme/">    <span class="related-paper-title">NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/multi_task_reranking/degre_dense_supervised_generative_reranking_for_recommendation/">    <span class="related-paper-title">DeGRe: Dense-supervised Generative Reranking for Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/multi_task_reranking/not_all_candidates_are_created_equal_a_heterogeneity_aware_approach_to_pre_/">    <span class="related-paper-title">Not All Candidates are Created Equal: A Heterogeneity-Aware Approach to Pre-ranking in Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

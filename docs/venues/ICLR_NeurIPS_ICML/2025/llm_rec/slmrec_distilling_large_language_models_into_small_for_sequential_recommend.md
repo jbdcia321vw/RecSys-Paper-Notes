@@ -140,3 +140,16 @@ Cloth / Movie 上逐项加入正则项（%）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号统一、Proposition 推导清晰，复杂度与效率表完备，动机图与架构图表意明确）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （13% 参数、6.6x/8.0x 加速、与量化剪枝正交、代码开源，直击十亿级流量部署痛点，落地价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/do_llms_memorize_recommendation_datasets_a_preliminary_study_on_movielens_1/">    <span class="related-paper-title">Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/llm_rec/delrec_distilling_sequential_pattern_to_enhance_llms_based_sequential_recom/">    <span class="related-paper-title">DELRec: Distilling Sequential Pattern to Enhance LLMs-based Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/cold_start_rec/large_language_model_simulator_for_cold_start_recommendation/">    <span class="related-paper-title">Large Language Model Simulator for Cold-Start Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/a_contextual_aware_position_encoding_for_sequential_recommendation/">    <span class="related-paper-title">A Contextual-Aware Position Encoding for Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

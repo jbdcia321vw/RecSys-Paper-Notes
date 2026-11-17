@@ -129,3 +129,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （数据统计、文件 schema、时间戳变换公式交代清晰，规模对比表详实）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （4.79B 交互完全公开、Parquet 分发、三档子采样降低门槛，是难得的可复现工业级基准）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/vk_lsvd_a_large_scale_industrial_dataset_for_short_video_recommendation/">    <span class="related-paper-title">VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../just_ask_for_music_jam_multimodal_and_personalized_natural_language_music_r/">    <span class="related-paper-title">Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../generative_rec/semantic_ids_for_music_recommendation/">    <span class="related-paper-title">Semantic IDs for Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -127,3 +127,17 @@ $$\mathcal{L}_{\text{SC-DPO}}=\mathcal{L}_{\text{DPO}}+\lambda_a\max(0,\delta-r^
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （10 万级工业数据 + 标签指标 + LLM 评委 + 14 天线上 A/B 三层验证完整，但离线目标为教师生成、缺乏人工标注的真实偏好）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （损失各项动机与消融一一对应，CALR 与 Latent-Valid 诊断设计严谨；部分符号如 $g(t)$与$b(e)$ 的映射交代略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码与匿名数据集开源，503ms 延迟满足生产要求，线上 UV-CTR 正向收益，是少见的全链路闭环工业论文）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/s_2_gr_stepwise_semantic_guided_reasoning_in_latent_space_for_generative_re/">    <span class="related-paper-title">S$^2$GR: Stepwise Semantic-Guided Reasoning in Latent Space for Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/poi_spatiotemporal_rec/think2go_generative_next_poi_recommendation_with_llm_reasoning/">    <span class="related-paper-title">Think2Go: Generative Next POI Recommendation with LLM Reasoning</span>    <span class="related-paper-meta">KDD · 2026 · POI / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/recrec_latent_interests_recursive_reasoning_for_sequential_recommendation/">    <span class="related-paper-title">RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/cross_domain_multi_scenario/atomic_intent_reasoning_bringing_llm_semantics_to_industrial_cross_domain_r/">    <span class="related-paper-title">Atomic Intent Reasoning: Bringing LLM Semantics to Industrial Cross-Domain Recommendations</span>    <span class="related-paper-meta">KDD · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/generative_rec/towards_context_aware_reasoning_enhanced_generative_searching_in_e_commerce/">    <span class="related-paper-title">Towards Context-aware Reasoning-enhanced Generative Searching in E-commerce</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

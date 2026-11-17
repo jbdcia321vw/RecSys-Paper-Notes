@@ -131,3 +131,16 @@ Beauty 上 AtSpeed-S / AtSpeed-R 组件移除（图 3）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （接受率与 TVD 的推导链条清晰，附录给出分布等价证明）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、外挂式无损加速近 2×，对 LLM 推荐线上部署直接可用）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/earn_efficient_inference_acceleration_for_llm_based_generative_recommendati/">    <span class="related-paper-title">EARN: Efficient Inference Acceleration for LLM-based Generative Recommendation by Register Tokens</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2026/generative_rec/dav_gen_end_to_end_generative_retrieval_via_draft_and_verify/">    <span class="related-paper-title">DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/token_level_collaborative_alignment_for_llm_based_generative_recommendation/">    <span class="related-paper-title">Token-level Collaborative Alignment for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/apao_bridging_the_training_inference_gap_in_generative_recommendation_via_a/">    <span class="related-paper-title">APAO: Bridging the Training-Inference Gap in Generative Recommendation via Adaptive Prefix-Aware Optimization</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/efficiency_unleashed_inference_acceleration_for_llm_based_recommender_syste/">    <span class="related-paper-title">Efficiency Unleashed: Inference Acceleration for LLM-based Recommender Systems with Speculative Decoding</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

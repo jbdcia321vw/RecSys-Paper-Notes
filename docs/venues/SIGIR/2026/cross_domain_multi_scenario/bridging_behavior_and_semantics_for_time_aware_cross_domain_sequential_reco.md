@@ -136,3 +136,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集六域、11 个基线、消融/分桶/噪声/可视化五类分析齐全，但仅采样排序、缺 Full-Ranking 与显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （ODE 离散化与反事实损失公式清晰，Euler 近似误差与 LLM 分支复杂度未展开分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （ODE 与门控模块轻量易部署，但 LLM 语义分支的离线成本与未开源削弱了直接复现价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../sequential_rec/rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../2025/cross_domain_multi_scenario/bridge_the_domains_large_language_models_enhanced_cross_domain_sequential_r/">    <span class="related-paper-title">Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/sequential_rec/improving_sequential_recommendations_via_bidirectional_temporal_data_augmen/">    <span class="related-paper-title">Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/time_matters_enhancing_sequential_recommendations_with_time_guided_graph_ne/">    <span class="related-paper-title">Time Matters: Enhancing Sequential Recommendations with Time-Guided Graph Neural ODEs</span>    <span class="related-paper-meta">KDD · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/abxi_invariant_interest_adaptation_for_task_guided_cross_domain_sequential_/">    <span class="related-paper-title">ABXI: Invariant Interest Adaptation for Task-Guided Cross-Domain Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

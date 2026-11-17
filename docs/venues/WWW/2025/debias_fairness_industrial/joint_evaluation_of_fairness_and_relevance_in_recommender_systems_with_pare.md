@@ -141,3 +141,16 @@ $$t' = \arg\min_{j\in[1,|P|-1]} \left| lenPF(T_j) - \alpha \cdot lenPF(P) \right
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （帕累托定义、弧长参考点与停止条件推导清晰，图 1 玩具示例极具说服力；Oracle2Fair 细节置于附录略增阅读成本）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、model-agnostic、可离线缓存 PF 并以 6–12 点近似达到 $\tau\geq0.9$，适合作为公平重排上线的离线验收指标；但 PF 构建成本限制了高频迭代场景）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ECIR/2026/debias_fairness_industrial/measuring_individual_user_fairness_with_user_similarity_and_effectiveness_d/">    <span class="related-paper-title">Measuring Individual User Fairness with User Similarity and Effectiveness Disparity</span>    <span class="related-paper-meta">ECIR · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/stairway_to_fairness_connecting_group_and_individual_fairness/">    <span class="related-paper-title">Stairway to Fairness: Connecting Group and Individual Fairness</span>    <span class="related-paper-meta">RecSys · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/fairsort_learning_to_fair_rank_for_personalized_recommendations_in_two_side/">    <span class="related-paper-title">FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/post_hoc_provider_fairness_adaptation_via_hierarchical_exposure_alignment/">    <span class="related-paper-title">Post-hoc Provider Fairness Adaptation via Hierarchical Exposure Alignment</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/a_reproducibility_study_of_product_side_fairness_in_bundle_recommendation/">    <span class="related-paper-title">A Reproducibility Study of Product-side Fairness in Bundle Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

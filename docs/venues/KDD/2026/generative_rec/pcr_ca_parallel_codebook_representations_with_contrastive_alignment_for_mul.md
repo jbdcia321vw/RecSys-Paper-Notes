@@ -131,3 +131,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （3.4 亿真实交互 + 时间切分 + 七档流行度分桶 + 配对 t 检验 + 线上 A/B 完整，唯缺公开数据集复现）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、超参与窗口选择均有网格搜索依据，三阶段训练流程交代清楚；部分符号如 $\alpha_j$ 在双流融合处的下标复用略含混）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已全量部署微软商店，每物品仅存 4 个整数码、吞吐 12 万/秒、新 App 22ms 完成编码，工程价值极高；但代码与数据未开源，复现门槛高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/sequential_rec/bridging_textual_collaborative_gap_through_semantic_codes_for_sequential_re/">    <span class="related-paper-title">Bridging Textual-Collaborative Gap through Semantic Codes for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/generative_rec/multi_aspect_cross_modal_quantization_for_generative_recommendation/">    <span class="related-paper-title">Multi-Aspect Cross-modal Quantization for Generative Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/deep_multiple_quantization_network_on_long_behavior_sequence_for_click_thro/">    <span class="related-paper-title">Deep Multiple Quantization Network on Long Behavior Sequence for Click-Through Rate Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/l2rec_towards_dual_view_understanding_of_llms_for_personalized_recommendati/">    <span class="related-paper-title">L2Rec: Towards Dual-View Understanding of LLMs for Personalized Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multimodal_rec/native_multimodal_representation_learning_for_click_through_rate_prediction/">    <span class="related-paper-title">Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios</span>    <span class="related-paper-meta">CIKM · 2026 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

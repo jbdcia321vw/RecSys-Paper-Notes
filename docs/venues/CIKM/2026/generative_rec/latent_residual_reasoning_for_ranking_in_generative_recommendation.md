@@ -132,3 +132,17 @@ $$\mathcal{L}_{\text{reasoning}}=\sum_{r=1}^{R_{\text{steps}}}\frac{1}{KT}\sum_{
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/s_2_gr_stepwise_semantic_guided_reasoning_in_latent_space_for_generative_re/">    <span class="related-paper-title">S$^2$GR: Stepwise Semantic-Guided Reasoning in Latent Space for Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../llm_rec/do_recommenders_need_to_think_in_words_latent_reasoning_for_efficient_llm_b/">    <span class="related-paper-title">Do Recommenders Need to Think in Words? Latent Reasoning for Efficient LLM-Based Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/generative_rec/inductive_generative_recommendation_via_retrieval_based_speculation/">    <span class="related-paper-title">Inductive Generative Recommendation via Retrieval-based Speculation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/llm_rec/reason4rec_deliberative_user_preference_alignment_of_large_language_models_/">    <span class="related-paper-title">Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/mgfrec_towards_reinforced_reasoning_recommendation_with_multiple_groundings/">    <span class="related-paper-title">MGFRec: Towards Reinforced Reasoning Recommendation with Multiple Groundings and Feedback</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

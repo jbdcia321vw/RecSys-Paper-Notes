@@ -120,3 +120,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/hypercomplex_prompt_aware_multimodal_recommendation/">    <span class="related-paper-title">Hypercomplex Prompt-aware Multimodal Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/beyond_graph_convolution_multimodal_recommendation_with_topology_aware_mlps/">    <span class="related-paper-title">Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/multimodal_rec/multimodal_enhanced_federated_recommendation_a_group_wise_fusion_approach/">    <span class="related-paper-title">Multimodal-enhanced Federated Recommendation: A Group-wise Fusion Approach</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/multimodal_rec/spectrum_based_modality_representation_fusion_graph_convolutional_network_f/">    <span class="related-paper-title">Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/multimodal_rec/prism_personalized_recommendation_via_information_synergy_module/">    <span class="related-paper-title">PRISM: Personalized Recommendation via Information Synergy Module</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

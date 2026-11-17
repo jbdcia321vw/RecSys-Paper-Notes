@@ -130,3 +130,17 @@ MF 骨干上 TRACER 同样全面领先（Home ACC 6.90 vs. LLM-ESR 4.20，Improv
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/sequential_rec/continual_recommender_systems/">    <span class="related-paper-title">Continual Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/sequential_rec/capturing_user_interests_from_data_streams_for_continual_sequential_recomme/">    <span class="related-paper-title">Capturing User Interests from Data Streams for Continual Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/generative_rec/tracer_token_reassignment_for_concept_erasure_in_generative_recommendation/">    <span class="related-paper-title">TRACER: Token ReAssignment for Concept ERasure in Generative Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../debias_fairness_industrial/decomposing_staleness_in_recommender_systems_a_dual_filter_framework_for_su/">    <span class="related-paper-title">Decomposing Staleness in Recommender Systems: A Dual-Filter Framework for Supersession and Decay</span>    <span class="related-paper-meta">CIKM · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/learning_evolving_preferences_a_federated_continual_framework_for_user_cent/">    <span class="related-paper-title">Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

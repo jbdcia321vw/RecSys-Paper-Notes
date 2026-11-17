@@ -140,3 +140,17 @@ $$\mathbf{p}^{(s)}_{i,t}=\mathrm{TopKSoftmax}_{k_G}\big(\{\phi^{(s)}_g(\mathbf{q
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/mixture_of_sequence_theme_aware_mixture_of_experts_for_long_sequence_recomm/">    <span class="related-paper-title">Mixture of Sequence: Theme-Aware Mixture-of-Experts for Long-Sequence Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/sequential_rec/hymoerec_hybrid_mixture_of_experts_for_sequential_recommendation/">    <span class="related-paper-title">HyMoERec: Hybrid Mixture-of-Experts for Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/sprint_scalable_and_predictive_intent_refinement_for_llm_enhanced_session_b/">    <span class="related-paper-title">SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/slmrec_distilling_large_language_models_into_small_for_sequential_recommend/">    <span class="related-paper-title">SLMRec: Distilling Large Language Models into Small for Sequential Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../2025/self_supervised_denoising/a_self_supervised_mixture_of_experts_framework_for_multi_behavior_recommend/">    <span class="related-paper-title">A Self-Supervised Mixture-of-Experts Framework for Multi-behavior Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · SSL / CF</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

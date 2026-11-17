@@ -130,3 +130,16 @@ $$\mathcal{L}_{M}(y,\hat{y})=-\frac{1}{N}\sum_{i=1}^{N}\sum_{m\in M}\lambda_{m}\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、ALM 与 DCN 定义清晰，工业背景交代充分；帕累托最优仅定性描述）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在 Spotify 全量部署，音频 CTR +14.5%、eCPC −4.8%，架构与 MMoE 同量级开销，落地价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2026/multi_task_reranking/cold_starting_podcast_ads_and_promotions_with_multi_task_learning_on_spotif/">    <span class="related-paper-title">Cold-Starting Podcast Ads and Promotions with Multi-Task Learning on Spotify</span>    <span class="related-paper-meta">WSDM · 2026 · MTL / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cold_start_rec/multi_modal_adaptive_mixture_of_experts_for_cold_start_recommendation/">    <span class="related-paper-title">Multi-modal Adaptive Mixture of Experts for Cold-start Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/multimodal_rec/cammsr_category_guided_attentive_mixture_of_experts_for_multimodal_sequenti/">    <span class="related-paper-title">CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multimodal_rec/native_multimodal_representation_learning_for_click_through_rate_prediction/">    <span class="related-paper-title">Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios</span>    <span class="related-paper-meta">CIKM · 2026 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/diffusion_based_multi_modal_synergy_interest_network_for_click_through_rate/">    <span class="related-paper-title">Diffusion-based Multi-modal Synergy Interest Network for Click-through Rate Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

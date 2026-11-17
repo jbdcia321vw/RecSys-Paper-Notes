@@ -138,3 +138,16 @@ $$g(M_i)=1-\frac{s_i+r_i}{2}\cdot\max\left(r_i^{\beta},\delta\right)$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与 Prompt 附录极为详尽，公式简洁；但遗忘函数与增强阈值等超参缺乏敏感性分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （沙盒与推荐算法解耦、可插 RecBole，工程友好；但主体代码未开源、API 成本与延迟制约大规模部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/a_llm_based_controllable_scalable_human_involved_user_simulator_framework_f/">    <span class="related-paper-title">A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/agent_conversational_rec/temporal_aware_user_behaviour_simulation_with_large_language_models_for_rec/">    <span class="related-paper-title">Temporal-Aware User Behaviour Simulation with Large Language Models for Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · CRS / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/recusersim_a_realistic_and_diverse_user_simulator_for_evaluating_conversati/">    <span class="related-paper-title">RecUserSim: A Realistic and Diverse User Simulator for Evaluating Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/agentsociety_challenge_designing_llm_agents_for_user_modeling_and_recommend/">    <span class="related-paper-title">AgentSociety Challenge: Designing LLM Agents for User Modeling and Recommendation on Web Platforms</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/task_aware_automated_user_profile_generation_for_recommendation_simulation_/">    <span class="related-paper-title">Task-Aware Automated User Profile Generation for Recommendation Simulation Using Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

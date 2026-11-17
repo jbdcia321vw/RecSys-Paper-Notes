@@ -128,3 +128,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RQ-VAE 量化与三重损失公式推导清晰、符号一致，框架图与 SID 语义可视化直观，复杂度分析略欠）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源，SID 可离线预计算、token 降 55%、测试时间减半，对线上 LLM 推荐部署有直接降本价值）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/generative_rec/understanding_generative_recommendation_with_semantic_ids_from_a_model_scal/">    <span class="related-paper-title">Understanding Generative Recommendation with Semantic IDs from a Model-scaling View</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../2026/poi_spatiotemporal_rec/think2go_generative_next_poi_recommendation_with_llm_reasoning/">    <span class="related-paper-title">Think2Go: Generative Next POI Recommendation with LLM Reasoning</span>    <span class="related-paper-meta">KDD · 2026 · POI / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/generative_rec/multi_aspect_cross_modal_quantization_for_generative_recommendation/">    <span class="related-paper-title">Multi-Aspect Cross-modal Quantization for Generative Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/sprig_semantic_id_enhanced_paths_for_knowledge_graph_based_generative_recom/">    <span class="related-paper-title">SPRIG: Semantic-ID-enhanced Paths for Knowledge Graph-based Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/generative_rec/distinguished_quantized_guidance_for_diffusion_based_sequence_recommendatio/">    <span class="related-paper-title">Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -130,3 +130,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与损失定义清晰、超参详尽，但整体架构图置于附录 B，正文可读性略打折）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、超参与训练细节完整，手工特征与分段编码技巧可直接迁移至工业画像系统）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/reclm_recommendation_instruction_tuning/">    <span class="related-paper-title">RecLM: Recommendation Instruction Tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/self_supervised_denoising/omnisage_large_scale_multi_entity_heterogeneous_graph_representation_learni/">    <span class="related-paper-title">OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning</span>    <span class="related-paper-meta">KDD · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/cross_domain_multi_scenario/behavior_importance_aware_graph_neural_architecture_search_for_cross_domain/">    <span class="related-paper-title">Behavior Importance-Aware Graph Neural Architecture Search for Cross-Domain Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/graph_rec/task_aware_retrieval_augmentation_for_dynamic_recommendation/">    <span class="related-paper-title">Task-Aware Retrieval Augmentation for Dynamic Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Graph / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

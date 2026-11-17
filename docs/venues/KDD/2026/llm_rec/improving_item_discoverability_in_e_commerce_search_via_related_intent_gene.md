@@ -137,3 +137,17 @@ LLM judge 与人类专家对齐（表 3）：Title Relevance F1 0.67、Intent Re
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/eager_enrich_and_align_generative_query_recommendation_from_clicked_items_i/">    <span class="related-paper-title">EAGER: Enrich-and-Align Generative Query Recommendation from Clicked Items in E-commerce Search</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/genfacet_end_to_end_generative_faceted_search_via_multi_task_preference_ali/">    <span class="related-paper-title">GenFacet: End-to-End Generative Faceted Search via Multi-Task Preference Alignment in E-Commerce</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/ai_guided_accelerator_for_search_experience/">    <span class="related-paper-title">AI Guided Accelerator For Search Experience</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/itemrag_item_based_retrieval_augmented_generation_for_llm_based_recommendat/">    <span class="related-paper-title">ItemRAG: Item-Based Retrieval-Augmented Generation for LLM-Based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/think_to_personalize_unifying_reasoning_and_retrieval_for_user_centric_pers/">    <span class="related-paper-title">Think-to-Personalize: Unifying Reasoning and Retrieval for User-Centric Personalized Dense Retrieval</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

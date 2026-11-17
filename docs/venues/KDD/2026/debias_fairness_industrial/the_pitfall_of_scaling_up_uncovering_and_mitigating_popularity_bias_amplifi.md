@@ -132,3 +132,17 @@ HSTU 骨干上 SPRINT 同样全面领先（如 Toy N@5 从 .0310 提至 .0438，
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/collaborative_filtering/on_the_role_of_weight_decay_in_collaborative_filtering_a_popularity_perspec/">    <span class="related-paper-title">On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective</span>    <span class="related-paper-meta">KDD · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/climber_toward_efficient_scaling_laws_for_large_recommendation_models/">    <span class="related-paper-title">Climber: Toward Efficient Scaling Laws for Large Recommendation Models</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/sequential_rec/residual_dominance_as_a_structural_account_of_last_item_reliance_in_causal_/">    <span class="related-paper-title">Residual Dominance as a Structural Account of Last-Item Reliance in Causal Self-Attention Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

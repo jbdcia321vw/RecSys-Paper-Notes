@@ -139,3 +139,16 @@ $$\mathcal{L}_{\text{UDRL}} = -\sum_{t=1}^{|y|}\log p_\theta\!\left(y_t \mid c,\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （管线与样本格式描述清晰、表格完整，但公式极少、UDRL 的数学形式未展开，复杂度分析缺失）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （500MB 显存 + 353 tok/s 的部署收益极具说服力，合成数据管线可复用；但训练代码与数据未开源，复现需自建管线）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/multimodal_quantitative_language_for_generative_recommendation/">    <span class="related-paper-title">Multimodal Quantitative Language for Generative Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/muse_a_multimodal_conversational_recommendation_dataset_with_scenario_groun/">    <span class="related-paper-title">Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/multimodal_large_language_models_with_adaptive_preference_optimization_for_/">    <span class="related-paper-title">Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multimodal_rec/notellm_2_multimodal_large_representation_models_for_recommendation/">    <span class="related-paper-title">NoteLLM-2: Multimodal Large Representation Models for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../rl_bandit_rec/beyond_static_llm_policies_imitation_enhanced_reinforcement_learning_for_re/">    <span class="related-paper-title">Beyond Static LLM Policies: Imitation-Enhanced Reinforcement Learning for Recommendation</span>    <span class="related-paper-meta">ICDM · 2025 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -131,3 +131,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （流程与公式编号清晰、Prompt 模板完整公开，但核心模块均为 prompt 级描述，缺少复杂度与收敛性分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码与数据全开源、自反思插件易复用，但多轮 LLM 调用与长上下文开销使其短期内难以承载线上流量）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/personalized_recommendation_tool_learning_via_autonomous_language_agents/">    <span class="related-paper-title">Personalized Recommendation Tool Learning via Autonomous Language Agents</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/agent_conversational_rec/agentrecbench_benchmarking_llm_agent_based_personalized_recommender_systems/">    <span class="related-paper-title">AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/agent_conversational_rec/agentcf_memory_enhanced_llm_based_agents_for_popularity_aware_cross_domain_/">    <span class="related-paper-title">AgentCF++: Memory-enhanced LLM-based Agents for Popularity-aware Cross-domain Recommendations</span>    <span class="related-paper-meta">SIGIR · 2025 · CRS / Cross</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../a_survey_on_llm_powered_agents_for_recommender_systems/">    <span class="related-paper-title">A Survey on LLM-powered Agents for Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/agent_conversational_rec/multi_agent_collaborative_filtering_orchestrating_users_and_items_for_agent/">    <span class="related-paper-title">Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

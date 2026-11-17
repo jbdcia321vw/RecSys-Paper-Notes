@@ -129,3 +129,16 @@ $$IB=I(Z;R)+I(Z,Z_m;R)-\beta I(X;Z)$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两大性质—方法—损失的对应关系清晰，IB 三项分解与 CLUB 上界交代明确，互信息估计的近似误差未讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、无生成式预训练、推理仅一次 MLP 融合，工程友好；但需按数据集重调三个超参）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/generating_with_fairness_a_modality_diffused_counterfactual_framework_for_i/">    <span class="related-paper-title">Generating with Fairness: A Modality-Diffused Counterfactual Framework for Incomplete Multimodal Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.81</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/multimodal_rec/mllmrec_a_preference_reasoning_paradigm_with_graph_refinement_for_multimoda/">    <span class="related-paper-title">MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/multimodal_large_language_models_with_adaptive_preference_optimization_for_/">    <span class="related-paper-title">Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/multimodal_rec/training_free_graph_based_imputation_of_missing_modalities_in_multimodal_re/">    <span class="related-paper-title">Training-free Graph-based Imputation of Missing Modalities in Multimodal Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/multimodal_rec/prism_personalized_recommendation_via_information_synergy_module/">    <span class="related-paper-title">PRISM: Personalized Recommendation via Information Synergy Module</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+</div>
+<!-- related-papers:end -->

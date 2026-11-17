@@ -127,3 +127,17 @@ $$\mathcal{L}(\theta)=\mathbb{E}\Big[\tfrac1G\textstyle\sum_j\{\min(\tilde\pi_j\
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/recommendation_and_temptation/">    <span class="related-paper-title">Recommendation and Temptation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/multimodal_rec/mend_the_measurement_gap_latent_user_preference_modeling_for_short_form_vid/">    <span class="related-paper-title">Mend the Measurement Gap: Latent User Preference Modeling for Short-Form Video Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/exploiting_fine_grained_skip_behaviors_for_micro_video_recommendation/">    <span class="related-paper-title">Exploiting Fine-Grained Skip Behaviors for Micro-Video Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/rl_bandit_rec/stratified_expert_cloning_for_retention_aware_recommendation_at_scale/">    <span class="related-paper-title">Stratified Expert Cloning for Retention-Aware Recommendation at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · RL / MTL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/swat_statistical_modeling_of_video_watch_time_through_user_behavior_analysi/">    <span class="related-paper-title">SWaT: Statistical Modeling of Video Watch Time through User Behavior Analysis</span>    <span class="related-paper-meta">KDD · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+</div>
+<!-- related-papers:end -->

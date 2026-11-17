@@ -139,3 +139,16 @@ JD 生产集关键指标（相对 Base 的绝对提升 pp）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （损失设计与附录梯度推导清晰，但部分符号（如 $B_h$ 在正文与附录定义不一致）略有瑕疵）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （TP99 仅 +0.73%、可插拔到任意粗排模型、线上全量部署，工业价值极高；可惜未开源仅给伪代码）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/multi_task_reranking/not_all_candidates_are_created_equal_a_heterogeneity_aware_approach_to_pre_/">    <span class="related-paper-title">Not All Candidates are Created Equal: A Heterogeneity-Aware Approach to Pre-ranking in Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/killing_two_birds_with_one_stone_unifying_retrieval_and_ranking_with_a_sing/">    <span class="related-paper-title">Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/interactrank_personalized_web_scale_search_pre_ranking_with_cross_interacti/">    <span class="related-paper-title">InteractRank: Personalized Web-Scale Search Pre-Ranking with Cross Interaction Features</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multi_task_reranking/gref_a_unified_generative_framework_for_efficient_reranking_via_ordered_mul/">    <span class="related-paper-title">GReF: A Unified Generative Framework for Efficient Reranking via Ordered Multi-token Prediction</span>    <span class="related-paper-meta">CIKM · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multi_task_reranking/csmf_cascaded_selective_mask_fine_tuning_for_multi_objective_embedding_base/">    <span class="related-paper-title">CSMF: Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval</span>    <span class="related-paper-meta">SIGIR · 2025 · MTL / CF</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

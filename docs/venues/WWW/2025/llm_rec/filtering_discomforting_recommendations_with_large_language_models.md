@@ -124,3 +124,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （模块划分与设计目标 G1–G4 一一对应，流程图清晰；形式化较浅，缺复杂度与延迟量化分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （浏览器插件形态、本地存储、插件式零侵入，工程落地路径清晰；但未开源、依赖 LLM API 成本，规模化部署待验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2026/llm_rec/towards_next_generation_recommender_systems_a_benchmark_for_personalized_re/">    <span class="related-paper-title">Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/iagent_llm_agent_as_a_shield_between_user_and_recommender_systems/">    <span class="related-paper-title">iAgent: LLM Agent as a Shield between User and Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/llm_rec/biases_in_llm_generated_musical_taste_profiles_for_recommendation/">    <span class="related-paper-title">Biases in LLM-Generated Musical Taste Profiles for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/llm_rec/evaluating_podcast_recommendations_with_profile_aware_llm_as_a_judge/">    <span class="related-paper-title">Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/llm_rec/prompt_tuning_as_user_inherent_profile_inference_machine/">    <span class="related-paper-title">Prompt Tuning as User Inherent Profile Inference Machine</span>    <span class="related-paper-meta">CIKM · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

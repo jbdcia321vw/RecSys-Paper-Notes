@@ -133,3 +133,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （因果假设与 PNDE/TNIE 推导清晰，但式 (22) 将 $\tilde{\mathbf{e}}_i$误写为$\mathbf{e}_u$，且部分符号前后不一致）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （插件式设计、推理开销极低、易嵌入现有召回；但依赖离线 LLM 画像生成且未开源，复现成本中等）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../one_model_for_all_large_language_models_are_domain_agnostic_recommendation_/">    <span class="related-paper-title">One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Cross</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../how_can_recommender_systems_benefit_from_large_language_models_a_survey/">    <span class="related-paper-title">How Can Recommender Systems Benefit from Large Language Models: A Survey</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/llm_rec/a_bi_step_grounding_paradigm_for_large_language_models_in_recommendation_sy/">    <span class="related-paper-title">A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

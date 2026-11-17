@@ -144,3 +144,16 @@ $$ \mathcal{L}_{PCKD\text{-}L}=-\sum_{u}\sum_{i\in\mathcal{Q}_u}P(\mathbf{i}_s|\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （偏好与不一致定义清晰、图示直观，部分表格存在数值排版瑕疵如 0.881、0.01671）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，学生仅 1/10 规模达教师水平，但列表版训练开销与每 5 轮重排的工程成本需权衡）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/exploring_feature_based_knowledge_distillation_for_recommender_system_a_fre/">    <span class="related-paper-title">Exploring Feature-based Knowledge Distillation for Recommender System: A Frequency Perspective</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/d2k_turning_historical_data_into_retrievable_knowledge_for_recommender_syst/">    <span class="related-paper-title">D2K: Turning Historical Data into Retrievable Knowledge for Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/can_recommender_systems_teach_themselves_a_recursive_self_improving_framewo/">    <span class="related-paper-title">Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/active_large_language_model_based_knowledge_distillation_for_session_based_/">    <span class="related-paper-title">Active Large Language Model-based Knowledge Distillation for Session-based Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/pre_train_and_fine_tune_recommenders_as_large_models/">    <span class="related-paper-title">Pre-train and Fine-tune: Recommenders as Large Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

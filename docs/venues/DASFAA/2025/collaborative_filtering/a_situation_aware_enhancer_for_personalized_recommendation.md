@@ -141,3 +141,16 @@ xDeepFM+SARE 相对最强情境感知基线（MIND 上 CARCA、KuaiRand 上 MEAN
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、参数复杂度分析到位、任务定义严谨；个别符号如 $Sc$ 与 softmax 维度说明略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （模型无关插件、额外参数可忽略、推理仅增一次内积，代码已开源，工程接入成本极低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/re2a_situated_conversational_recommendation_via_rubric_based_preference_rea/">    <span class="related-paper-title">Re2A: Situated Conversational Recommendation via Rubric-based Preference Reasoning and Alignment</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/why_not_together_a_multiple_round_recommender_system_for_queries_and_items/">    <span class="related-paper-title">Why Not Together? A Multiple-Round Recommender System for Queries and Items</span>    <span class="related-paper-meta">KDD · 2025 · Seq / CRS</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/sequential_rec/an_adaptive_context_aware_and_stacked_attention_network_based_recommendatio/">    <span class="related-paper-title">An Adaptive, Context-Aware, and Stacked Attention Network-Based Recommendation System to Capture Users&#x27; Temporal Preference</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/poi_spatiotemporal_rec/sep_gcn_leveraging_similar_edge_pairs_with_temporal_and_spatial_contexts_fo/">    <span class="related-paper-title">SEP-GCN: Leveraging Similar Edge Pairs with Temporal and Spatial Contexts for Location-Based Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · POI / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

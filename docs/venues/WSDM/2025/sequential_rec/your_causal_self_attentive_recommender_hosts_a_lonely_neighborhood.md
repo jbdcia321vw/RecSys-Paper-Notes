@@ -134,3 +134,16 @@ AR 相对 AE 的提升：Beauty +48.26%、Sports +58.79%、Video +16.30%、Yelp 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （稀疏度两条性质与秩-k 误差上界推导清晰，但部分符号在正文与附录间略有跳转）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与流水线全开源、HuggingFace 即插即用；但结论偏“选型指南”而非直接涨点，Yelp 反例需业务侧自行判断）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/sequential_rec/residual_dominance_as_a_structural_account_of_last_item_reliance_in_causal_/">    <span class="related-paper-title">Residual Dominance as a Structural Account of Last-Item Reliance in Causal Self-Attention Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/sequential_rec/revisiting_self_attentive_sequential_recommendation_beyond_the_llm_paradigm/">    <span class="related-paper-title">Revisiting Self-Attentive Sequential Recommendation Beyond the LLM Paradigm</span>    <span class="related-paper-meta">ICDM · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/blossomrec_block_level_fused_sparse_attention_mechanism_for_sequential_reco/">    <span class="related-paper-title">BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/lrea_low_rank_efficient_attention_on_modeling_long_term_user_behaviors_for_/">    <span class="related-paper-title">LREA: Low-Rank Efficient Attention on Modeling Long-Term User Behaviors for CTR Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/cross_domain_multi_scenario/revisiting_self_attention_for_cross_domain_sequential_recommendation/">    <span class="related-paper-title">Revisiting Self-attention for Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

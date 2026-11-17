@@ -110,3 +110,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐ （仅一张两行受控表、单数据集单模型，四条诊断全无定量验证，作者自认图 1 仅为动机）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （论证线索清晰、类比克制且自我设限，公式虽少但符号一致，对前人工作的定位准确）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （全局时间切分与双视图对照可即刻复用，但整体为议程设定，缺少可直接部署的组件与开源实现）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/unleashing_the_potential_of_sparse_attention_on_long_term_behaviors_for_ctr/">    <span class="related-paper-title">Unleashing the Potential of Sparse Attention on Long-term Behaviors for CTR Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/rethinking_item_tokenization_in_generative_recommenders_from_fixed_atoms_to/">    <span class="related-paper-title">Rethinking Item Tokenization in Generative Recommenders: From Fixed Atoms to Semantic Subwords</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/sequential_rec/more_a_mixture_of_reflectors_framework_for_large_language_model_based_seque/">    <span class="related-paper-title">MoRE: A Mixture of Reflectors Framework for Large Language Model-Based Sequential Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/sequential_rec/residual_dominance_as_a_structural_account_of_last_item_reliance_in_causal_/">    <span class="related-paper-title">Residual Dominance as a Structural Account of Last-Item Reliance in Causal Self-Attention Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

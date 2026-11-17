@@ -134,3 +134,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四阶段流水线表述清晰、循环统计与熵公式定义完整，但部分特征仅指向代码、数据集统计量未在正文给出）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码已开源、框架数据集无关易迁移，但逐轮 LLM 调用的成本与延迟使其难以支撑大规模线上评估，更适合小规模可控实验与冷启动场景研究）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/agent_conversational_rec/task_aware_automated_user_profile_generation_for_recommendation_simulation_/">    <span class="related-paper-title">Task-Aware Automated User Profile Generation for Recommendation Simulation Using Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/recusersim_a_realistic_and_diverse_user_simulator_for_evaluating_conversati/">    <span class="related-paper-title">RecUserSim: A Realistic and Diverse User Simulator for Evaluating Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/agent_conversational_rec/llm_powered_user_simulator_for_recommender_system/">    <span class="related-paper-title">LLM-Powered User Simulator for Recommender System</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/a_llm_based_controllable_scalable_human_involved_user_simulator_framework_f/">    <span class="related-paper-title">A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/personax_a_recommendation_agent_oriented_user_modeling_framework_for_long_b/">    <span class="related-paper-title">PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -129,3 +129,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （符号表完整、复杂度分析到位、消融与参数敏感性齐全，部分公式如 Eq.17 的 dup 与 $\mu$ 作用解释略含糊）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （BBP 指数级矩阵开销限制大规模部署，且未开源，但关系链建模与损失加权思路对多行为电商场景有直接参考价值）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../graph_cross_correlated_network_for_recommendation/">    <span class="related-paper-title">Graph Cross-Correlated Network for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Graph / CTR</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/graph_rec/contextgnn_beyond_two_tower_recommendation_systems/">    <span class="related-paper-title">ContextGNN: Beyond Two-Tower Recommendation Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/hierarchical_graph_information_bottleneck_for_multi_behavior_recommendation/">    <span class="related-paper-title">Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/mixrec_heterogeneous_graph_collaborative_filtering/">    <span class="related-paper-title">MixRec: Heterogeneous Graph Collaborative Filtering</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/reclm_recommendation_instruction_tuning/">    <span class="related-paper-title">RecLM: Recommendation Instruction Tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

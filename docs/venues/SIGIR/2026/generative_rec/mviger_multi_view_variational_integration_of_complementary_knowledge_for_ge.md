@@ -127,3 +127,17 @@ $$q^*(z|H(u),y^*)=\frac{p_\theta(y^*|z)p_\psi(z|H(u))}{\sum_{z'}p_\theta(y^*|z')
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 Full-Ranking + 显著性检验 + 索引替换/推理时延/超参敏感性分析齐全，缺 LLM 主干扩展）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （ELBO 拉格朗日推导与算法伪代码清晰，RQ-VAE 部分为标准引用）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （单视图降级路径实用，但多模板推理开销与代码未开源削弱直接部署性）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../bi_level_optimization_for_generative_recommendation_bridging_tokenization_a/">    <span class="related-paper-title">Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_retrieval_generating_narratives_in_conversational_recommender_system/">    <span class="related-paper-title">Beyond Retrieval: Generating Narratives in Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../genrec_a_preference_oriented_generative_framework_for_large_scale_recommend/">    <span class="related-paper-title">GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../sigma_a_semantic_grounded_instruction_driven_generative_multi_task_recommen/">    <span class="related-paper-title">SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

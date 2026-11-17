@@ -132,3 +132,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （十亿级工业数据 + 一周百万用户 A/B + 单路径多维指标很扎实，但缺公开数据集与逐组件消融）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三挑战-三机制的对应结构干净，公式简洁；部分超参与阈值选择缺乏定量依据）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已开源，单机 30 核替代 1000 实例集群，线上指标全面正向，落地价值极高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/collaborative_filtering/real_time_indexing_for_large_scale_recommendation_by_streaming_vector_quant/">    <span class="related-paper-title">Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever</span>    <span class="related-paper-meta">KDD · 2025 · CF / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/not_all_branches_are_equal_adaptive_semantic_id_construction_for_generative/">    <span class="related-paper-title">Not All Branches Are Equal: Adaptive Semantic ID Construction for Generative Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/generative_rec/efficient_optimization_of_hierarchical_identifiers_for_generative_recommend/">    <span class="related-paper-title">Efficient Optimization of Hierarchical Identifiers for Generative Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/graphhash_graph_clustering_enables_parameter_efficiency_in_recommender_syst/">    <span class="related-paper-title">GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/grank_towards_target_aware_and_streamlined_industrial_retrieval_with_a_gene/">    <span class="related-paper-title">GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / MTL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -128,3 +128,16 @@ $g_{R,1}'=(1-\mathbb{I}\{\xi_1<0\}\xi_1)\lambda_1 g_1''+\mathbb{I}\{\xi_2\geq0\}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （Router 四象限分析表清晰、收敛性有界证明到位，但 Updater 公式(7)中 softmax 分母符号存在排版错误，部分符号定义散落）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （推理零延迟、训练仅增 6 分钟、线上 CTR +1.79%，是少见的"低成本高收益"工业级 MTL 方案，可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/multi_task_reranking/efficient_multi_task_prompt_tuning_for_recommendation/">    <span class="related-paper-title">Efficient Multi-task Prompt Tuning for Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/cross_domain_multi_scenario/towards_personalized_federated_multi_scenario_multi_task_recommendation/">    <span class="related-paper-title">Towards Personalized Federated Multi-Scenario Multi-Task Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cross / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multi_task_reranking/personalized_task_dependency_graphs_for_mitigating_signal_erosion_in_multi_/">    <span class="related-paper-title">Personalized Task Dependency Graphs for Mitigating Signal Erosion in Multi-Task Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multi_task_reranking/mpformer_adaptive_framework_for_industrial_multi_task_personalized_sequenti/">    <span class="related-paper-title">MPFormer: Adaptive Framework for Industrial Multi-Task Personalized Sequential Retriever</span>    <span class="related-paper-meta">CIKM · 2025 · MTL / CF</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/mosaic_a_fleet_of_user_embedding_specialists_for_recommendation_at_meta/">    <span class="related-paper-title">Mosaic: A Fleet of User Embedding Specialists for Recommendation at Meta</span>    <span class="related-paper-meta">RecSys · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

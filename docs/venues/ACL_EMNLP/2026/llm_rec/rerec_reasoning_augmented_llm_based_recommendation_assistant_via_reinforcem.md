@@ -126,3 +126,17 @@ Qwen-2.5-3B 骨干上 ReRec 同样全面领先（Movie-Hard 0.547 vs RLOO 0.529�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （双域五类查询 + 跨域/跨任务/能力保留实验较全面，但 Sampled Ranking 协议偏弱、缺 Full-Ranking 与显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三模块公式定义清晰、超参与实现细节完整，RAAE 的段切分与奖励回填逻辑表述严谨）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、仅需 3B 骨干与 2×H20、无额外过程奖励模型，推理单次前向，落地成本可控）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/r_2_ec_towards_large_recommender_models_with_reasoning/">    <span class="related-paper-title">R$^2$ec: Towards Large Recommender Models with Reasoning</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/think_before_recommendation_autonomous_reasoning_enhanced_recommender/">    <span class="related-paper-title">Think before Recommendation: Autonomous Reasoning-enhanced Recommender</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../agent_conversational_rec/harpo_hierarchical_agentic_reasoning_for_user_aligned_conversational_recomm/">    <span class="related-paper-title">HARPO: Hierarchical Agentic Reasoning for User-Aligned Conversational Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/llm_rec/reason4rec_deliberative_user_preference_alignment_of_large_language_models_/">    <span class="related-paper-title">Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/re2llm_reflective_reinforcement_large_language_model_for_session_based_reco/">    <span class="related-paper-title">Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

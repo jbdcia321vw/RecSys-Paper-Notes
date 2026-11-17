@@ -127,3 +127,16 @@ $$\Delta\ln\frac{\theta_i}{\theta_j}+\Delta\ln\frac{\theta_j}{\theta_i}=0$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （式 17/21 的抵消推导清晰严谨，符号统一，5 页篇幅内论证完整）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （插件式改造、零推理开销、代码已开源，工程落地门槛极低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/poi_spatiotemporal_rec/exploring_the_effect_of_context_awareness_and_popularity_calibration_on_pop/">    <span class="related-paper-title">Exploring the Effect of Context-Awareness and Popularity Calibration on Popularity Bias in POI Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · POI / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/unbiased_recommender_systems_with_implicit_feedback/">    <span class="related-paper-title">Unbiased Recommender Systems with Implicit Feedback</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/taming_recommendation_bias_with_causal_intervention_on_evolving_personal_po/">    <span class="related-paper-title">Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/does_weighting_improve_matrix_factorization_for_recommender_systems/">    <span class="related-paper-title">Does Weighting Improve Matrix Factorization for Recommender Systems?</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

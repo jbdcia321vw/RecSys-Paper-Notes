@@ -133,3 +133,17 @@ LightGCN + Amazon-books：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集双骨干、8 个基线、$p<0.01$ 显著性、噪声注入与效率分析齐全，但划分与打分协议细节依赖前作、缺阈值敏感性）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （动机图与案例研究直观，公式与损失定义完整；部分符号在正文与附录间略有出入，复杂度分析较简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、LLM 信号离线预生成不增在线延迟，但 LLM API 成本与 prompt 工程是落地门槛）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/llm_rec/towards_next_generation_recommender_systems_a_benchmark_for_personalized_re/">    <span class="related-paper-title">Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/the_mental_world_of_large_language_models_in_recommendation_a_benchmark_on_/">    <span class="related-paper-title">The Mental World of Large Language Models in Recommendation: A Benchmark on Association, Personalization, and Knowledgeability</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/decoding_in_latent_spaces_for_efficient_inference_in_llm_based_recommendati/">    <span class="related-paper-title">Decoding in Latent Spaces for Efficient Inference in LLM-based Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

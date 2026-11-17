@@ -137,3 +137,16 @@ Internal-full 上改变资源与超参（Table 7）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （组件职责、后端权衡、经验教训叙述清晰，公式极少但系统设计描述严谨）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （完整开源、已在 Snapchat 支撑 35+ 发布，是十亿级 GNN 落地少有的可复现实战参考）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/social_group_rec/scaling_graph_neural_networks_for_friend_recommendation_multi_hash_user_emb/">    <span class="related-paper-title">Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling</span>    <span class="related-paper-meta">CIKM · 2026 · Social / Graph</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/lightgnn_simple_graph_neural_network_for_recommendation/">    <span class="related-paper-title">LightGNN: Simple Graph Neural Network for Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../graph_rec/lightkg_efficient_knowledge_aware_recommendations_with_simplified_gnn_archi/">    <span class="related-paper-title">LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture</span>    <span class="related-paper-meta">KDD · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/cross_domain_multi_scenario/behavior_importance_aware_graph_neural_architecture_search_for_cross_domain/">    <span class="related-paper-title">Behavior Importance-Aware Graph Neural Architecture Search for Cross-Domain Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/pre_training_for_recommendation_unlearning/">    <span class="related-paper-title">Pre-training for Recommendation Unlearning</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

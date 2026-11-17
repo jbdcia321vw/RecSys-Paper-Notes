@@ -127,3 +127,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （4 数据集含大规模 Yambda、Full-Ranking、3 种子±标准差、阈值消融完整，唯 News 预处理为重建）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （复杂度对比表与算法伪代码清晰，RQ1–RQ3 组织严谨，收敛性变化仅作观察未深究）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码全开源、建树最高 59× 加速、模型零改动即可替换，对需频繁重训的生成式召回极具部署价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/not_all_branches_are_equal_adaptive_semantic_id_construction_for_generative/">    <span class="related-paper-title">Not All Branches Are Equal: Adaptive Semantic ID Construction for Generative Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/merge_next_generation_item_indexing_paradigm_for_large_scale_streaming_reco/">    <span class="related-paper-title">MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/revisiting_generative_vs_dense_retrieval_a_static_value_prior_reverses_the_/">    <span class="related-paper-title">Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multi_task_reranking/you_only_evaluate_once_a_tree_based_rerank_method_at_meituan/">    <span class="related-paper-title">You Only Evaluate Once: A Tree-based Rerank Method at Meituan</span>    <span class="related-paper-meta">CIKM · 2025 · MTL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/egr_embedding_native_generative_retrieval_with_a_shared_llm/">    <span class="related-paper-title">EGR: Embedding-Native Generative Retrieval with a Shared LLM</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

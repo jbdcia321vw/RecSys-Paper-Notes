@@ -133,3 +133,17 @@ MSGIFSR 在 6 个数据集上几乎全面最优（相对次优 DHCN 在 Tmall P@
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/quantifying_user_coherence_a_unified_framework_for_analyzing_recommender_sy/">    <span class="related-paper-title">Quantifying User Coherence: A Unified Framework for Analyzing Recommender Systems Across Domains</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/cold_start_rec/all_in_one_heterogeneous_interaction_modeling_for_cold_start_rating_predict/">    <span class="related-paper-title">All-in-One: Heterogeneous Interaction Modeling for Cold-Start Rating Prediction</span>    <span class="related-paper-meta">ICDE · 2025 · Cold / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/self_supervised_denoising/a_self_supervised_mixture_of_experts_framework_for_multi_behavior_recommend/">    <span class="related-paper-title">A Self-Supervised Mixture-of-Experts Framework for Multi-behavior Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · SSL / CF</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/continual_recommender_systems/">    <span class="related-paper-title">Continual Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/collm_integrating_collaborative_embeddings_into_large_language_models_for_r/">    <span class="related-paper-title">CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

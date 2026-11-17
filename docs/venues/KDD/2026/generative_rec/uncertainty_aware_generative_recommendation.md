@@ -131,3 +131,17 @@ $$r(y_i)=\begin{cases}1.0, & y_i=y^*\\ -\dfrac{\exp(s(y_i))}{\sum_{y_j\in\mathca
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../apao_bridging_the_training_inference_gap_in_generative_recommendation_via_a/">    <span class="related-paper-title">APAO: Bridging the Training-Inference Gap in Generative Recommendation via Adaptive Prefix-Aware Optimization</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cold_start_rec/harnessing_light_for_cold_start_recommendations_leveraging_epistemic_uncert/">    <span class="related-paper-title">Harnessing Light for Cold-Start Recommendations: Leveraging Epistemic Uncertainty to Enhance Performance in User-Item Interactions</span>    <span class="related-paper-meta">CIKM · 2025 · Cold / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/gflowgr_fine_tuning_generative_recommendation_frameworks_with_generative_fl/">    <span class="related-paper-title">GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / RL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/generative_rec/inductive_generative_recommendation_via_retrieval_based_speculation/">    <span class="related-paper-title">Inductive Generative Recommendation via Retrieval-based Speculation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/learning_from_unreachable_rewards_hint_conditioned_reinforcement_learning_f/">    <span class="related-paper-title">Learning from Unreachable Rewards: Hint-Conditioned Reinforcement Learning for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / RL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

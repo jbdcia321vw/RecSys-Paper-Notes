@@ -138,3 +138,16 @@ $$w^m_{u,p,n}=1-\frac{\exp(y^m_{u,p}-y^m_{u,n})}{\sum_{m\in\mathcal{M}}\exp(y^m_
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （受控变体实验的表 1 极具说服力，公式与算法伪代码完整；但符号 $\dagger$与$\sim$ 混用、部分公式排版有噪声，复杂度分析略粗）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，参数量 37M/91.5M 与 LATTICE 同量级、单 epoch 4.47s 可接受，晚期融合前置省去 $|\mathcal{M}|$ 倍构图，具备直接落地多模态召回的条件）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/multimodal_rec/spectrum_based_modality_representation_fusion_graph_convolutional_network_f/">    <span class="related-paper-title">Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.83</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/hypercomplex_prompt_aware_multimodal_recommendation/">    <span class="related-paper-title">Hypercomplex Prompt-aware Multimodal Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.82</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/mentor_multi_level_self_supervised_learning_for_multimodal_recommendation/">    <span class="related-paper-title">MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.82</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2026/multimodal_rec/one_graph_multiple_gains_single_high_quality_item_item_graph_for_multimodal/">    <span class="related-paper-title">One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation</span>    <span class="related-paper-meta">ACM MM · 2026 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/beyond_graph_convolution_multimodal_recommendation_with_topology_aware_mlps/">    <span class="related-paper-title">Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+</div>
+<!-- related-papers:end -->

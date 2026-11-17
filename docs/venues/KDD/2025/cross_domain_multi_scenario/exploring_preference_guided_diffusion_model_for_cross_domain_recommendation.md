@@ -129,3 +129,16 @@ $\alpha=20\%$与$80\%$ 两档（50% 趋势一致，略）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （前向/逆向/重参数化推导链条完整，噪声调度与引导公式定义清晰，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （全量数据实验贴近真实分布，但 200 步迭代推理延迟与未开源代码削弱了直接部署价值）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDE/2025/cross_domain_multi_scenario/personalized_multi_interest_modeling_for_cross_domain_recommendation_to_col/">    <span class="related-paper-title">Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users</span>    <span class="related-paper-meta">ICDE · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/cross_domain_multi_scenario/cross_domain_sequential_recommendation_with_representation_level_user_trans/">    <span class="related-paper-title">Cross-Domain Sequential Recommendation with Representation-Level User Transfer</span>    <span class="related-paper-meta">CIKM · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/cross_domain_multi_scenario/from_ids_to_semantics_a_generative_framework_for_cross_domain_recommendatio/">    <span class="related-paper-title">From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Cross / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2025/cross_domain_multi_scenario/leveraging_multimodal_data_and_side_users_for_diffusion_cross_domain_recomm/">    <span class="related-paper-title">Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation</span>    <span class="related-paper-meta">ACM MM · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/collm_integrating_collaborative_embeddings_into_large_language_models_for_r/">    <span class="related-paper-title">CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

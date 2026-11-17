@@ -113,3 +113,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐ （无自建实验与统计检验，陷阱选取缺系统综述方法学，但引用的稀疏度/开源率等量化证据扎实）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三轴结构清晰、20 项陷阱编号可追溯、Table 1 映射直观；数学形式化极少，属立场论文合理取舍）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （对 DMO 与旅游平台的产品设计有直接指导意义，Living Lab 与合成数据建议可操作；但无代码、无基准，短期难以直接复现验证）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/recommendation_unlearning_via_influence_function/">    <span class="related-paper-title">Recommendation Unlearning via Influence Function</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2026/graph_rec/cpgrec_a_balance_oriented_framework_for_personalized_video_game_recommendat/">    <span class="related-paper-title">CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations</span>    <span class="related-paper-meta">ACM TOIS · 2026 · Graph / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/extending_movielens_32m_to_provide_new_evaluation_objectives/">    <span class="related-paper-title">Extending MovieLens-32M to Provide New Evaluation Objectives</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2026/cross_domain_multi_scenario/causal_invariant_cross_domain_out_of_distribution_recommendation/">    <span class="related-paper-title">Causal-Invariant Cross-Domain Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2026 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/debias_fairness_industrial/a_thorough_performance_benchmarking_on_lightweight_embedding_based_recommen/">    <span class="related-paper-title">A Thorough Performance Benchmarking on Lightweight Embedding-based Recommender Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -116,3 +116,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （镜像公式对照清晰、算法伪代码完整，部分符号如 $\mathcal{C}$ 兼指物品集与候选集略有歧义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （亿级用户平台全量上线、DAC +2.9%，工程路径与 UAC 实现细节可直接复用，唯代码未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/iagent_llm_agent_as_a_shield_between_user_and_recommender_systems/">    <span class="related-paper-title">iAgent: LLM Agent as a Shield between User and Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/parameter_efficient_single_collaborative_branch_for_recommendation/">    <span class="related-paper-title">Parameter-Efficient Single Collaborative Branch for Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · CF</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/fairsort_learning_to_fair_rank_for_personalized_recommendations_in_two_side/">    <span class="related-paper-title">FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/how_to_diversify_any_personalized_recommender/">    <span class="related-paper-title">How to Diversify any Personalized Recommender?</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/continual_recommender_systems/">    <span class="related-paper-title">Continual Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

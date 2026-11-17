@@ -127,3 +127,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （三数据集 + 人工评测 + 跨域零样本较完整，但 Sampled Ranking、奖励模型自评循环性与基线骨干不统一削弱说服力）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四模块公式定义清晰、消融与超参敏感性分析详尽，附录含复杂度与错误分析，符号略冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码与标注管线开源、LoRA 训练仅 2.5 小时成本低，但树搜索延迟与四阶段管线限制实时场景落地）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2026/llm_rec/reason4rec_deliberative_user_preference_alignment_of_large_language_models_/">    <span class="related-paper-title">Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/personalized_recommendation_tool_learning_via_autonomous_language_agents/">    <span class="related-paper-title">Personalized Recommendation Tool Learning via Autonomous Language Agents</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/agent_conversational_rec/agentrecbench_benchmarking_llm_agent_based_personalized_recommender_systems/">    <span class="related-paper-title">AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../llm_rec/rerec_reasoning_augmented_llm_based_recommendation_assistant_via_reinforcem/">    <span class="related-paper-title">ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/agent_conversational_rec/ask_to_be_sure_informative_interactions_for_confident_multi_turn_llm_recomm/">    <span class="related-paper-title">Ask to Be Sure: Informative Interactions for Confident Multi-Turn LLM Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

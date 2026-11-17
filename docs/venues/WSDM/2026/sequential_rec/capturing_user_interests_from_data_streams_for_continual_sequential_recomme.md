@@ -141,3 +141,17 @@ Gowalla、Fine-tune、$D_4$：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 × 两训练设定 × RA/LA/H-mean 三指标 + 用户分组分析 + 效率表，消融完整；但超参敏感性仅单数据集）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （五步流程拆解清晰，Eq.7-16 推导连贯，复杂度分析到位；兴趣池符号略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，推理时间较 SASRec 降约 47%，免回放设计契合隐私约束，适合流式增量部署）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/continual_recommender_systems/">    <span class="related-paper-title">Continual Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/blossomrec_block_level_fused_sparse_attention_mechanism_for_sequential_reco/">    <span class="related-paper-title">BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/learning_evolving_preferences_a_federated_continual_framework_for_user_cent/">    <span class="related-paper-title">Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/federated_continual_recommendation/">    <span class="related-paper-title">Federated Continual Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

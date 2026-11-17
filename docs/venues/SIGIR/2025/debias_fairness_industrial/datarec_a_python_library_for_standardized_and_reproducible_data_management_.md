@@ -138,3 +138,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （结构清晰、配置示例与代码片段具体可操作，全文无复杂公式故无符号歧义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （开源、9 框架导出、checksum 校验与配置回放，直接可用于团队内部基准治理）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/splitlight_an_exploratory_toolkit_for_recommender_systems_datasets_and_spli/">    <span class="related-paper-title">SplitLight: An Exploratory Toolkit for Recommender Systems Datasets and Splits</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/flexible_generation_of_preference_data_for_recommendation_analysis/">    <span class="related-paper-title">Flexible Generation of Preference Data for Recommendation Analysis</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/the_hidden_cost_of_defaults_in_recommender_system_evaluation/">    <span class="related-paper-title">The Hidden Cost of Defaults in Recommender System Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/orbit_open_recommendation_benchmark_for_reproducible_research_with_hidden_t/">    <span class="related-paper-title">ORBIT: Open Recommendation Benchmark for Reproducible Research with Hidden Tests</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/erase_a_real_world_aligned_benchmark_for_unlearning_in_recommender_systems/">    <span class="related-paper-title">ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

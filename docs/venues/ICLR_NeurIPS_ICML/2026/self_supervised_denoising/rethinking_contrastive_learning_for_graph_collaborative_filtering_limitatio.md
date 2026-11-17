@@ -129,3 +129,17 @@ NDCG@20（原文 Table 2，LightGCN 骨干）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （4 数据集 × 3 骨干 × 2 损失族的全交叉矩阵 + 5 次运行方差 + 三档 cutoff，Full-Ranking 协议规范；扣分在于无冷启动/长尾分桶与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （式 1–6 的展开与附录 A/B 的梯度推导完整闭环，符号统一，复杂度分析明确，余弦相似度扩展也给出）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （推理零开销、无新增参数、代码已开源，仅训练侧 +25% 时间与超参搜索成本；对已用 SSM 的 GCF 系统是低风险替换）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/self_supervised_denoising/nlgcl_naturally_existing_neighbor_layers_graph_contrastive_learning_for_rec/">    <span class="related-paper-title">NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/self_supervised_denoising/sgcl_unifying_self_supervised_and_supervised_learning_for_graph_recommendat/">    <span class="related-paper-title">SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/self_supervised_denoising/squeeze_and_excitation_a_weighted_graph_contrastive_learning_for_collaborat/">    <span class="related-paper-title">Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering</span>    <span class="related-paper-meta">SIGIR · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/graph_rec/neural_tree_collaborative_filtering_rethinking_graph_collaborative_filterin/">    <span class="related-paper-title">Neural Tree Collaborative Filtering: Rethinking Graph Collaborative Filtering as Tree Collaborative Filtering with Curvature-Aware Propagation Depth</span>    <span class="related-paper-meta">CIKM · 2026 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/graph_rec/do_all_nodes_benefit_equally_from_knowledge_graphs_adaptive_node_aware_kg_f/">    <span class="related-paper-title">Do All Nodes Benefit Equally from Knowledge Graphs? Adaptive Node-Aware KG Fusion for Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

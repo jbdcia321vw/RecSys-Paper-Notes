@@ -133,3 +133,16 @@ $\mathcal{L}=\mathcal{L}_{bpr}+\lambda\mathcal{L}_{code}+\mu\mathcal{L}_{aug}+\e
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式紧凑、符号统一，RQ/PQ 与余弦分配的取舍有明确解释，复杂度分析略欠）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （推理阶段零额外开销、代码已开源，训练期量化与增强的工程成本是主要落地门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/self_supervised_denoising/nlgcl_naturally_existing_neighbor_layers_graph_contrastive_learning_for_rec/">    <span class="related-paper-title">NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.83</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/self_supervised_denoising/squeeze_and_excitation_a_weighted_graph_contrastive_learning_for_collaborat/">    <span class="related-paper-title">Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering</span>    <span class="related-paper-meta">SIGIR · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/self_supervised_denoising/sgcl_unifying_self_supervised_and_supervised_learning_for_graph_recommendat/">    <span class="related-paper-title">SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/self_supervised_denoising/radar_relation_aware_diffusion_asymmetric_graph_contrastive_learning_for_re/">    <span class="related-paper-title">RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/self_supervised_denoising/generative_data_augmentation_in_graph_contrastive_learning_for_recommendati/">    <span class="related-paper-title">Generative Data Augmentation in Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

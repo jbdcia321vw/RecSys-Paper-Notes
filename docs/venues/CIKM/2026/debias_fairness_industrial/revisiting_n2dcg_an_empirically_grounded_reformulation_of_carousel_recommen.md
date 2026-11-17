@@ -140,3 +140,17 @@ $$2DCG_{ref}(y)=\sum_{i=1}^{I}\sum_{j=1}^{J}\frac{g(y_{i,j})}{\log_2(4i+9\tilde{
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （跨人群留出 + 2 万次仿真成对比较设计巧妙，惟数据集单一、ground truth 存在自洽循环）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （两处缺陷均以最小反例表格与示意图说清，公式紧凑、参数含义与约束交代完整）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （闭式折扣零在线开销、代码开源，可直接替换现有轮播离线评估；但需按业务布局重拟合参数）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/recgaze_the_first_eye_tracking_and_user_interaction_dataset_for_carousel_in/">    <span class="related-paper-title">RecGaze: The First Eye Tracking and User Interaction Dataset for Carousel Interfaces</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/following_the_eye_tracking_evidence_established_web_search_assumptions_fail/">    <span class="related-paper-title">Following the Eye-Tracking Evidence: Established Web-Search Assumptions Fail in Carousel Interfaces</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/from_click_modeling_to_offline_and_off_policy_evaluation_in_carousel_recomm/">    <span class="related-paper-title">From Click Modeling to Offline and Off-Policy Evaluation in Carousel Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/watchlens_a_configurable_platform_for_online_video_recommendation_experimen/">    <span class="related-paper-title">WatchLens: A Configurable Platform for Online Video Recommendation Experiments</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/cold_start_rec/pinequalizer_full_funnel_content_exploration_and_debiasing_system_at_pinter/">    <span class="related-paper-title">PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest</span>    <span class="related-paper-meta">KDD · 2026 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

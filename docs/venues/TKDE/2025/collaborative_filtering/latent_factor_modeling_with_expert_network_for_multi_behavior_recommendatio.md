@@ -124,3 +124,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义完整、含时间复杂度分析，但三路损失权重直接省略调优、部分符号如 $S(\cdot)$与专家集合$S$ 复用易混淆）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，门控仅激活部分专家控制开销，但训练成本偏高、$K$ 需逐场景调参，落地需额外工程权衡）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/mixrec_heterogeneous_graph_collaborative_filtering/">    <span class="related-paper-title">MixRec: Heterogeneous Graph Collaborative Filtering</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/self_supervised_denoising/a_self_supervised_mixture_of_experts_framework_for_multi_behavior_recommend/">    <span class="related-paper-title">A Self-Supervised Mixture-of-Experts Framework for Multi-behavior Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · SSL / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/factorized_latent_reasoning_for_llm_based_recommendation/">    <span class="related-paper-title">Factorized Latent Reasoning for LLM-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/hierarchical_graph_information_bottleneck_for_multi_behavior_recommendation/">    <span class="related-paper-title">Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/debias_fairness_industrial/personalized_federated_collaborative_filtering_a_variational_autoencoder_ap/">    <span class="related-paper-title">Personalized Federated Collaborative Filtering: A Variational AutoEncoder Approach</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -129,3 +129,17 @@ $$\mathcal{L}=-\mathbb{E}\log\sigma\Big(\beta\log\tfrac{\pi_\theta(y_w|x)}{\pi_{
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集、三 backbone、三目标泛化 + 完整消融与 Top-K 对照，但仅 Sampled Ranking 与单一 HR@1 指标略欠）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （梯度分解与 $\beta$ 公式推导清晰，符号统一；坍缩的理论刻画仍偏一阶近似，缺收敛性分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （即插即用、免预处理、训练开销 +0.85%、推理零额外成本，代码与 checkpoint 全开源，美团工业背景加持）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/what_makes_llms_effective_sequential_recommenders_a_study_on_preference_int/">    <span class="related-paper-title">What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/sprec_self_play_to_debias_llm_based_recommendation/">    <span class="related-paper-title">SPRec: Self-Play to Debias LLM-based Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/rl_bandit_rec/preference_is_more_than_comparisons_rethinking_dueling_bandits_with_augment/">    <span class="related-paper-title">Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · RL / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/recommendation_and_temptation/">    <span class="related-paper-title">Recommendation and Temptation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/llm_rec/dlcrec_a_novel_approach_for_managing_diversity_in_llm_based_recommender_sys/">    <span class="related-paper-title">DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems</span>    <span class="related-paper-meta">WSDM · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

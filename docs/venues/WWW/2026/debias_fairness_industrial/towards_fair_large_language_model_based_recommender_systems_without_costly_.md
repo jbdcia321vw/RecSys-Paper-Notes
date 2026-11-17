@@ -136,3 +136,17 @@ $$\Delta\theta\approx\frac{1}{n}\sum_{z_k\in\mathcal{D}_{unlearn}}H_\theta^{-1}\
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/debias_fairness_industrial/rethinking_fairness_in_llm_based_recommender_systems_a_survey/">    <span class="related-paper-title">Rethinking Fairness in LLM-Based Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/facter_fairness_aware_conformal_thresholding_and_prompt_engineering_for_ena/">    <span class="related-paper-title">FACTER: Fairness-Aware Conformal Thresholding and Prompt Engineering for Enabling Fair LLM-Based Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../2025/llm_rec/sprec_self_play_to_debias_llm_based_recommendation/">    <span class="related-paper-title">SPRec: Self-Play to Debias LLM-based Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/debias_fairness_industrial/customized_retrieval_augmented_generation_with_llm_for_debiasing_recommenda/">    <span class="related-paper-title">Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation Unlearning</span>    <span class="related-paper-meta">ICDM · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cross_domain_multi_scenario/leave_no_one_behind_fairness_aware_cross_domain_recommender_systems_for_non/">    <span class="related-paper-title">Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for Non-Overlapping Users</span>    <span class="related-paper-meta">RecSys · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

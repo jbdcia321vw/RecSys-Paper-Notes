@@ -141,3 +141,16 @@ Ali-CCP AUC：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （ELBO 推导与双向 KL 目标写得紧凑自洽，公式编号完整；部分符号如 $\boldsymbol{e}_s$与$\boldsymbol{b}_{us}$ 的对应关系略含糊）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （即插即用、推理零采样开销、参数已量化压缩、线上收入 +4.6%，落地价值高；但未开源，复现需自行补细节）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/cross_domain_multi_scenario/reinforcing_user_interest_evolution_in_multi_scenario_learning_for_recommen/">    <span class="related-paper-title">Reinforcing User Interest Evolution in Multi-Scenario Learning for recommender systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Cross / RL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/mviger_multi_view_variational_integration_of_complementary_knowledge_for_ge/">    <span class="related-paper-title">MVIGER: Multi-View Variational Integration of Complementary Knowledge for Generative Recommender</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/cross_domain_multi_scenario/perscen_learning_personalized_interaction_pattern_and_scenario_preference_f/">    <span class="related-paper-title">PERSCEN: Learning Personalized Interaction Pattern and Scenario Preference for Multi-Scenario Matching</span>    <span class="related-paper-meta">KDD · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../generative_rec/tbgrecall_a_generative_retrieval_model_for_e_commerce_recommendation_scenar/">    <span class="related-paper-title">TBGRecall: A Generative Retrieval Model for E-commerce Recommendation Scenarios</span>    <span class="related-paper-meta">CIKM · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/cross_domain_multi_scenario/towards_personalized_federated_multi_scenario_multi_task_recommendation/">    <span class="related-paper-title">Towards Personalized Federated Multi-Scenario Multi-Task Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cross / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

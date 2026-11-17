@@ -142,3 +142,17 @@ $$\Delta_{intent}=\lambda_1\Delta H+\lambda_2(1-JA)+\lambda_3\,JS(P_{\mathcal{B}
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （线上四场景数千万用户 A/B 极具说服力，但离线仅靠 LLM 自评、缺标准检索指标与模块级消融，学术严谨度打折）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与算法伪代码清晰，触发机制三信号定义完整，但部分符号如 $\mathcal{Z}$与$P_{\mathcal{B}}$ 的关系交代略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （真实淘宝全量场景验证、GMV +2.5%，端侧部署路径完整可复制，是 LLM4Rec 工业落地的标杆案例；可惜未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2026/llm_rec/towards_next_generation_recommender_systems_a_benchmark_for_personalized_re/">    <span class="related-paper-title">Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/sprint_scalable_and_predictive_intent_refinement_for_llm_enhanced_session_b/">    <span class="related-paper-title">SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/rethinking_llm_based_recommendations_a_personalized_query_driven_parallel_i/">    <span class="related-paper-title">Rethinking LLM-Based Recommendations: A Personalized Query-Driven Parallel Integration</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/collaboration_of_large_language_models_and_small_recommendation_models_for_/">    <span class="related-paper-title">Collaboration of Large Language Models and Small Recommendation Models for Device-Cloud Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/agent_conversational_rec/agentdr_dynamic_recommendation_with_implicit_item_item_relations_via_llm_ba/">    <span class="related-paper-title">AgentDR: Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

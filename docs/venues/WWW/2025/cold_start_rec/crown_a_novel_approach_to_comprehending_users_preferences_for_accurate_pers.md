@@ -138,3 +138,16 @@ $$\mathbf{r}_n=\mathbf{r}_n^{(T)}+cs_n\cdot\mathbf{r}_n^{(C)}$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三大挑战与三模块一一对应、公式简洁、图 2 预实验与图 5 可视化形成闭环论证，复杂度分析置于附录稍显隐蔽）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与数据已开源，不依赖阅读时长等难采反馈，二部图构图与 GAT 传播开销可控，适合新闻/内容平台的精排阶段直接复用）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/diaurec_dual_intent_space_representation_optimization_for_recommendation/">    <span class="related-paper-title">DIAURec: Dual-Intent Space Representation Optimization for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multi_task_reranking/beyond_item_dissimilarities_diversifying_by_intent_in_recommender_systems/">    <span class="related-paper-title">Beyond Item Dissimilarities: Diversifying by Intent in Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · MTL / RL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/intent_driven_semantic_id_generation_for_grounded_conversational_news_recom/">    <span class="related-paper-title">Intent-Driven Semantic ID Generation for Grounded Conversational News Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR-AP/2026/collaborative_filtering/lsnr_learned_sparse_news_recommendations_with_attentive_user_modeling/">    <span class="related-paper-title">LSNR: Learned Sparse News Recommendations with Attentive User Modeling</span>    <span class="related-paper-meta">SIGIR-AP · 2026 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/sequential_rec/bid_farewell_to_seesaw_towards_accurate_long_tail_session_based_recommendat/">    <span class="related-paper-title">Bid Farewell to Seesaw: Towards Accurate Long-tail Session-based Recommendation via Dual Constraints of Hybrid Intents</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

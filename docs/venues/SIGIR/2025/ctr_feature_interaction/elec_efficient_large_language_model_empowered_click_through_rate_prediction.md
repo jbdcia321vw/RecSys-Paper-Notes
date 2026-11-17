@@ -132,3 +132,16 @@ $$\mathcal{L}_{rep}=\frac{1}{N}\sum_{i=1}^{N}\lVert h_{v,i}-h_{g,i}\rVert^{2}$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号一致、CLID 与 MSE 动机解释到位，5 页篇幅内信息密度高）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （在线 0.087s 且与 LLM 规模解耦，落地价值明确；但未开源、离线 LLM 推理成本需自建）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/ctr_feature_interaction/a_unified_framework_for_multi_domain_ctr_prediction_via_large_language_mode/">    <span class="related-paper-title">A Unified Framework for Multi-Domain CTR Prediction via Large Language Models</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CTR / Cross</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/exploring_scaling_laws_of_ctr_model_for_online_performance_improvement/">    <span class="related-paper-title">Exploring Scaling Laws of CTR Model for Online Performance Improvement</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multimodal_rec/native_multimodal_representation_learning_for_click_through_rate_prediction/">    <span class="related-paper-title">Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios</span>    <span class="related-paper-meta">CIKM · 2026 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../dlf_enhancing_explicit_implicit_interaction_via_dynamic_low_order_aware_fus/">    <span class="related-paper-title">DLF: Enhancing Explicit-Implicit Interaction via Dynamic Low-Order-Aware Fusion for CTR Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/ctr_feature_interaction/interformer_effective_heterogeneous_interaction_learning_for_click_through_/">    <span class="related-paper-title">InterFormer: Effective Heterogeneous Interaction Learning for Click-Through Rate Prediction</span>    <span class="related-paper-meta">CIKM · 2025 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

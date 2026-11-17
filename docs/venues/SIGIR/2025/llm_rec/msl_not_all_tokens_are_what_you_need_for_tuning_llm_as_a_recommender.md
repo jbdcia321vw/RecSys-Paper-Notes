@@ -134,3 +134,16 @@ NDCG@10，骨干为 BIGRec（原文 Table 6）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （引理 1/2 证明完整、梯度分解清晰，高斯假设的严谨性稍弱）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （仅改损失、代码开源、训练反而更快，工程落地门槛极低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/improving_llms_for_recommendation_with_out_of_vocabulary_tokens/">    <span class="related-paper-title">Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/llm_rec/revisiting_language_models_in_neural_news_recommender_systems/">    <span class="related-paper-title">Revisiting Language Models in Neural News Recommender Systems</span>    <span class="related-paper-meta">ECIR · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/token_level_collaborative_alignment_for_llm_based_generative_recommendation/">    <span class="related-paper-title">Token-level Collaborative Alignment for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -135,3 +135,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三阶段流程与蒸馏目标定义清楚，公式简洁；理论分析较少，主要靠实验支撑）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、8B 学生模型+CF 召回重排降低 98% 耗时，具备多阶段链路落地形态，但画像离线构建与更新成本需工程权衡）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/think_before_recommendation_autonomous_reasoning_enhanced_recommender/">    <span class="related-paper-title">Think before Recommendation: Autonomous Reasoning-enhanced Recommender</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/llm_rec/reason4rec_deliberative_user_preference_alignment_of_large_language_models_/">    <span class="related-paper-title">Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../improving_llm_powered_recommendations_with_personalized_information/">    <span class="related-paper-title">Improving LLM-powered Recommendations with Personalized Information</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/agent_conversational_rec/reasoning_over_user_preferences_knowledge_graph_augmented_llms_for_explaina/">    <span class="related-paper-title">Reasoning over User Preferences: Knowledge Graph-Augmented LLMs for Explainable Conversational Recommendations</span>    <span class="related-paper-meta">ICDM · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/proex_a_unified_framework_leveraging_large_language_model_with_profile_extr/">    <span class="related-paper-title">ProEx: A Unified Framework Leveraging Large Language Model with Profile Extrapolation for Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -125,3 +125,16 @@ JD 排序（AUC / MRR）：NRMS 76.88/29.11，FRNet 76.54/29.18，MaskNet 74.93/
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与模块职责定义清晰，符号统一，复杂度与效率有交代；部分符号如 $\Phi$、$id(\cdot)$ 说明略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，训练 82 分钟、推理 28ms，两阶段架构与真实招聘业务高度契合，可直接参考部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lettingo_explore_user_profile_generation_for_recommendation_system/">    <span class="related-paper-title">LettinGo: Explore User Profile Generation for Recommendation System</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/enriching_semantic_profiles_into_knowledge_graph_for_recommender_systems_us/">    <span class="related-paper-title">Enriching Semantic Profiles into Knowledge Graph for Recommender Systems Using Large Language Models</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/scaling_transformers_for_discriminative_recommendation_via_generative_pretr/">    <span class="related-paper-title">Scaling Transformers for Discriminative Recommendation via Generative Pretraining</span>    <span class="related-paper-meta">KDD · 2025 · CTR / GenRec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/personalized_recommendation_tool_learning_via_autonomous_language_agents/">    <span class="related-paper-title">Personalized Recommendation Tool Learning via Autonomous Language Agents</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/fedecider_an_llm_based_framework_for_federated_cross_domain_recommendation/">    <span class="related-paper-title">FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -145,3 +145,17 @@ $$s^\*=\arg\max_{s\in\{\text{ADD,APP,FAI,LMS,MAJ,MPL}\}}\ \frac{1}{5}\sum_{k=1}^
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/debias_fairness_industrial/rethinking_fairness_in_llm_based_recommender_systems_a_survey/">    <span class="related-paper-title">Rethinking Fairness in LLM-Based Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../2025/social_group_rec/consistent_explainers_or_unreliable_narrators_understanding_llm_generated_g/">    <span class="related-paper-title">Consistent Explainers or Unreliable Narrators? Understanding LLM-generated Group Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · Social / CRS</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../multi_task_reranking/position_bias_undermines_preference_consistency_in_listwise_llm_based_reran/">    <span class="related-paper-title">Position Bias Undermines Preference Consistency in Listwise LLM-Based Reranking</span>    <span class="related-paper-meta">RecSys · 2026 · MTL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/review_driven_personalized_preference_reasoning_with_large_language_models_/">    <span class="related-paper-title">Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

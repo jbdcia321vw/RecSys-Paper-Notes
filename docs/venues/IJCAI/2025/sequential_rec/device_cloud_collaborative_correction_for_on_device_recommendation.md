@@ -130,3 +130,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （TTT 更新规则、对偶形式与融合公式推导清晰，算法伪代码完整，复杂度对比有据）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，端侧 1.95M 参数与 17.0M FLOPs/token 极具部署吸引力，通信开销实测可接受）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACM_MM/2025/sequential_rec/chord_customizing_hybrid_precision_on_device_model_for_sequential_recommend/">    <span class="related-paper-title">CHORD: Customizing Hybrid-precision On-device Model for Sequential Recommendation with Device-cloud Collaboration</span>    <span class="related-paper-meta">ACM MM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2025/cold_start_rec/tackling_device_data_distribution_real_time_shift_via_prototype_based_param/">    <span class="related-paper-title">Tackling Device Data Distribution Real-time Shift via Prototype-based Parameter Editing</span>    <span class="related-paper-meta">ACM MM · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/collaboration_of_large_language_models_and_small_recommendation_models_for_/">    <span class="related-paper-title">Collaboration of Large Language Models and Small Recommendation Models for Device-Cloud Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/pricorec_a_privacy_aware_cloud_device_collaborative_framework_for_ad_recomm/">    <span class="related-paper-title">PriCoRec: A Privacy-Aware Cloud-Device Collaborative Framework for Ad Recommendation under Feature Constraints</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

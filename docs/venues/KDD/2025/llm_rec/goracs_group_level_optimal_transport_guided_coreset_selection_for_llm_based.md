@@ -150,3 +150,16 @@ Food 数据集（图 4 数值化）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三个定理层层递进、POO 到 OT 形式的改写推导清晰，附录含完整证明与算法伪代码；部分符号如 $\nu_\mathcal{V}$与$\mu_\mathcal{V}$ 混用需留意）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码已开源，20% 时间/15% FLOPs 超越全量训练，选择阶段无需重训 LLM，对 LLMRec 落地是直接可用的降本手段）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/exact_and_efficient_unlearning_for_large_language_model_based_recommendatio/">    <span class="related-paper-title">Exact and Efficient Unlearning for Large Language Model-based Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/training_seeds_and_model_selection_stability_in_recommender_system_evaluati/">    <span class="related-paper-title">Training seeds and model-selection stability in recommender-system evaluation</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/do_llms_memorize_recommendation_datasets_a_preliminary_study_on_movielens_1/">    <span class="related-paper-title">Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

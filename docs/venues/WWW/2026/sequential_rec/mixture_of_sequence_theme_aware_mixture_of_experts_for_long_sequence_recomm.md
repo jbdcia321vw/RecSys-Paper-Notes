@@ -138,3 +138,17 @@ MoS 在四种骨干上均取得最优平均排名（AUC 排名 1/1/1/1），下�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集×四骨干×无负采样全库排序较扎实，含效率与路由行为分析，但缺显著性检验与跨域超参敏感性）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （现象—动机—方法的逻辑链清晰，公式简洁，复杂度分析给出 53% 的量化对比）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （模型无关即插即用、代码开源、FLOPs 低于同类 MoE，直接适配现有长序列精排系统）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/star_rec_making_peace_with_length_variance_and_pattern_diversity_in_sequent/">    <span class="related-paper-title">STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/sequential_rec/dp_rec_towards_dynamic_patching_for_efficient_long_sequence_recommendation/">    <span class="related-paper-title">DP-Rec: Towards Dynamic Patching for Efficient Long-Sequence Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/cross_domain_multi_scenario/horizon_a_benchmark_for_in_the_wild_user_behaviour_modeling/">    <span class="related-paper-title">HORIZON: A Benchmark for In-the-wild User Behaviour Modeling</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../modeling_stage_wise_evolution_of_user_interests_for_news_recommendation/">    <span class="related-paper-title">Modeling Stage-wise Evolution of User Interests for News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -128,3 +128,16 @@ $h_i^{l+1} = M_t\Big(\text{concat}_r\big(f_r(c_{i,r}\textstyle\sum_{j\in\mathcal
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （公式简洁、符号基本自洽，但超参、图规模、复杂度分析全部缺失，4 页篇幅牺牲了可复现细节）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在十亿级 surface 上线并有 A/B 正收益，召回 + FM token 双通道落地路径清晰，但未开源、依赖内部图基础设施）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/graph_rec/graph_cross_correlated_network_for_recommendation/">    <span class="related-paper-title">Graph Cross-Correlated Network for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Graph / CTR</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/graph_rec/contextgnn_beyond_two_tower_recommendation_systems/">    <span class="related-paper-title">ContextGNN: Beyond Two-Tower Recommendation Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/cross_domain_multi_scenario/adaptive_graph_integration_for_cross_domain_recommendation_via_heterogeneou/">    <span class="related-paper-title">Adaptive Graph Integration for Cross-Domain Recommendation via Heterogeneous Graph Coordinators</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/graph_rec/spark_adaptive_low_rank_knowledge_graph_modeling_in_hybrid_geometric_spaces/">    <span class="related-paper-title">SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Graph / Cold</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/graph_rec/graph_sequential_alignment_and_uniformity_toward_enhanced_recommendation_sy/">    <span class="related-paper-title">Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Graph / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -134,3 +134,16 @@ $$P_\theta(p|u)\approx\frac{e^{f_\theta(u,p)}}{e^{f_\theta(u,p)}+\frac{1}{n}\sum
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （梯度分解与重要性采样推导清晰，权重物理含义解释到位）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （仅改损失层、推理零开销、代码开源，可直接嵌入现有双塔召回管线）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/collaborative_filtering/two_level_softmax_sampling_done_right_correcting_bias_from_size_imbalance_a/">    <span class="related-paper-title">Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/msl_not_all_tokens_are_what_you_need_for_tuning_llm_as_a_recommender/">    <span class="related-paper-title">MSL: Not All Tokens Are What You Need for Tuning LLM as a Recommender</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/collaborative_filtering/learning_recommender_systems_with_soft_target_a_decoupled_perspective/">    <span class="related-paper-title">Learning Recommender Systems with Soft Target: A Decoupled Perspective</span>    <span class="related-paper-meta">DASFAA · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/diversity_augmented_negative_sampling_for_implicit_collaborative_filtering/">    <span class="related-paper-title">Diversity-Augmented Negative Sampling for Implicit Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/self_supervised_denoising/hard_vs_noise_resolving_hard_noisy_sample_confusion_in_recommender_systems_/">    <span class="related-paper-title">Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · SSL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

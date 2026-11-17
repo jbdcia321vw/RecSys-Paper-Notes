@@ -124,3 +124,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （4 页短文结构紧凑，Elo 公式与相关性系数交代明确，平台组件与 UI 流程描述清楚，仅缺 Elo 不确定性的形式化讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （平台公开可访问、代码与 474 段对话数据集全开源、新系统仅需实现一个方法即可接入，对 CRS 社区具有直接可用的基准价值）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/a_standardized_re_evaluation_of_conversational_recommender_systems_on_the_r/">    <span class="related-paper-title">A Standardized Re-evaluation of Conversational Recommender Systems on the ReDial Dataset</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR-AP/2025/agent_conversational_rec/limitations_of_current_evaluation_practices_for_conversational_recommender_/">    <span class="related-paper-title">Limitations of Current Evaluation Practices for Conversational Recommender Systems and the Potential of User Simulation</span>    <span class="related-paper-meta">SIGIR-AP · 2025 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/bridging_conversational_and_collaborative_signals_for_conversational_recomm/">    <span class="related-paper-title">Bridging Conversational and Collaborative Signals for Conversational Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/collaborative_retrieval_for_large_language_model_based_conversational_recom/">    <span class="related-paper-title">Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/recquest_towards_estimating_user_domain_knowledge_in_conversational_recomme/">    <span class="related-paper-title">RecQuest: Towards Estimating User Domain Knowledge in Conversational Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

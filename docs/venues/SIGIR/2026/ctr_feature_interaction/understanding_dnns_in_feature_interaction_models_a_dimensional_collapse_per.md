@@ -118,3 +118,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （双数据集 + 谱/RankMe/梯度三重证据较完整，但缺显著性检验、数据集统计与更多骨干验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （梯度推导清晰，p-DNN/s-DNN 梯度形式区分明确，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，RankMe 监控成本低、可直接嵌入现有精排训练管线）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/hypercomplex_prompt_aware_multimodal_recommendation/">    <span class="related-paper-title">Hypercomplex Prompt-aware Multimodal Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/efficient_learning_of_sparse_representations_from_interactions/">    <span class="related-paper-title">Efficient Learning of Sparse Representations from Interactions</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/mixformer_co_scaling_up_dense_and_sequence_in_industrial_recommenders/">    <span class="related-paper-title">MixFormer: Co-Scaling Up Dense and Sequence in Industrial Recommenders</span>    <span class="related-paper-meta">KDD · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../2025/ctr_feature_interaction/dlf_enhancing_explicit_implicit_interaction_via_dynamic_low_order_aware_fus/">    <span class="related-paper-title">DLF: Enhancing Explicit-Implicit Interaction via Dynamic Low-Order-Aware Fusion for CTR Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/tayfcs_towards_light_feature_combination_selection_for_deep_recommender_sys/">    <span class="related-paper-title">TayFCS: Towards Light Feature Combination Selection for Deep Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · CTR</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

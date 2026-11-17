@@ -136,3 +136,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、动机图与查询案例直观，但自适应 $\lambda$ 的理论依据偏经验，缺复杂度形式化分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （完全免训练、代码开源、延迟与物品池规模解耦，对动态大商品池电商场景落地价值高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/rallrec_improving_retrieval_augmented_large_language_model_recommendation_w/">    <span class="related-paper-title">RALLRec: Improving Retrieval Augmented Large Language Model Recommendation with Representation Learning</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/profiling_what_matters_context_aware_item_profiles_from_large_scale_metadat/">    <span class="related-paper-title">Profiling What Matters: Context-Aware Item Profiles from Large-Scale Metadata for LLM Recommenders</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/llm_rec/towards_next_generation_recommender_systems_a_benchmark_for_personalized_re/">    <span class="related-paper-title">Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+</div>
+<!-- related-papers:end -->

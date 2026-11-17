@@ -139,3 +139,17 @@ MovieLens-20M 上"多样性词 vs 物品排名信息"的语义对照：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/opening_the_black_box_interpretable_remedies_for_popularity_bias_in_recomme/">    <span class="related-paper-title">Opening the Black Box: Interpretable Remedies for Popularity Bias in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/tree_of_preferences_for_diversified_recommendation/">    <span class="related-paper-title">Tree of Preferences for Diversified Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/taming_recommendation_bias_with_causal_intervention_on_evolving_personal_po/">    <span class="related-paper-title">Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/poi_spatiotemporal_rec/exploring_the_effect_of_context_awareness_and_popularity_calibration_on_pop/">    <span class="related-paper-title">Exploring the Effect of Context-Awareness and Popularity Calibration on Popularity Bias in POI Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · POI / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../towards_fair_large_language_model_based_recommender_systems_without_costly_/">    <span class="related-paper-title">Towards Fair Large Language Model-based Recommender Systems without Costly Retraining</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

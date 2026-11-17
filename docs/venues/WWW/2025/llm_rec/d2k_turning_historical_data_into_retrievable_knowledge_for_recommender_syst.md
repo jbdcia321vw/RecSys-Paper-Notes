@@ -132,3 +132,16 @@ Eleme 数据集 AUC：D2K-adp-share 达 0.6033 / 0.6107 / 0.6147，相对最优�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三元知识与直接知识定义明确、公式简洁，但适配单元参数量推导略跳跃）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （模型无关易插拔、检索延迟 <100ms/batch，但知识库存储与更新开销是主要落地门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/bridging_the_user_side_knowledge_gap_in_knowledge_aware_recommendations_wit/">    <span class="related-paper-title">Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/request_only_optimization_for_recommendation_systems/">    <span class="related-paper-title">Request-Only Optimization for Recommendation Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/can_recommender_systems_teach_themselves_a_recursive_self_improving_framewo/">    <span class="related-paper-title">Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/cold_start_rec/online_item_cold_start_recommendation_with_popularity_aware_meta_learning/">    <span class="related-paper-title">Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning</span>    <span class="related-paper-meta">KDD · 2025 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/cross_domain_multi_scenario/one_for_dozens_adaptive_recommendation_for_all_domains_with_counterfactual_/">    <span class="related-paper-title">One for Dozens: Adaptive REcommendation for All Domains with Counterfactual Augmentation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Cross / CTR</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

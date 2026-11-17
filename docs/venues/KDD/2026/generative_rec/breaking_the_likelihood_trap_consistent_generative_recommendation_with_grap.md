@@ -141,3 +141,17 @@ $$\mathcal{L}_{con}=-\sum_{k=1}^{K}\sum_{s=1}^{N}\log \hat{y}_{s,k}$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （离线双数据集 + 5 天线上 A/B + 多样性/延迟/消融齐全，但缺公开基准与显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （路径边缘化与联合前瞻推导完整、算法伪代码清晰，转移矩阵复杂度分析略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （30 亿 DAU 平台验证、延迟与 NAR4Rec 持平、改造成本低，唯代码未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/reclm_recommendation_instruction_tuning/">    <span class="related-paper-title">RecLM: Recommendation Instruction Tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/generative_rec/beyond_the_flat_sequence_hierarchical_and_preference_aware_generative_recom/">    <span class="related-paper-title">Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/personalized_image_generation_for_recommendations_beyond_catalogs/">    <span class="related-paper-title">Personalized Image Generation for Recommendations Beyond Catalogs</span>    <span class="related-paper-meta">RecSys · 2025 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../multi_task_reranking/degre_dense_supervised_generative_reranking_for_recommendation/">    <span class="related-paper-title">DeGRe: Dense-supervised Generative Reranking for Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multi_task_reranking/gref_a_unified_generative_framework_for_efficient_reranking_via_ordered_mul/">    <span class="related-paper-title">GReF: A Unified Generative Framework for Efficient Reranking via Ordered Multi-token Prediction</span>    <span class="related-paper-meta">CIKM · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

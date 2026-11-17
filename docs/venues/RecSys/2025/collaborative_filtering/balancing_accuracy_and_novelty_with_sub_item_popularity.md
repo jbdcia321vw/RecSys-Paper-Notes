@@ -124,3 +124,16 @@ $$\text{logits}^{\text{final}}_i=\gamma\cdot\text{logits}^{\text{rec}}_i+\alpha\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号一致，sPPS 与 PPS 的对照定义清晰，凸组合约束交代明确）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （打分层后置融合、免重训调参、子 ID 压缩降参，代码与数据全开源，落地门槛极低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../cold_start_rec/item_centric_exploration_for_cold_start_problem/">    <span class="related-paper-title">Item-centric Exploration for Cold Start Problem</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / RL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/rethinking_popularity_bias_in_collaborative_filtering_via_analytical_vector/">    <span class="related-paper-title">Rethinking Popularity Bias in Collaborative Filtering via Analytical Vector Decomposition</span>    <span class="related-paper-meta">KDD · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/facet_aware_multi_head_mixture_of_experts_model_for_sequential_recommendati/">    <span class="related-paper-title">Facet-Aware Multi-Head Mixture-of-Experts Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/empowering_sequential_recommendation_from_collaborative_signals_and_semanti/">    <span class="related-paper-title">Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../multimodal_rec/beyond_the_past_leveraging_audio_and_human_memory_for_sequential_music_reco/">    <span class="related-paper-title">Beyond the past: Leveraging Audio and Human Memory for Sequential Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

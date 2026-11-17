@@ -120,3 +120,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （合成+两真实集、四机制、双 $K$ 较全面，但缺线上 A/B 与深度模型验证，福利指标非标准检索指标）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理-直觉-实验三段式清晰，图 1 嵌入分布直观解释同质化效应，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，结论"策略环境降正则"可直接指导调参，但落地需扩展到真实深度推荐管线）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/recommendation_and_temptation/">    <span class="related-paper-title">Recommendation and Temptation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/exploring_the_escalation_of_source_bias_in_user_data_and_recommender_system/">    <span class="related-paper-title">Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/identifying_and_upweighting_power_niche_users_to_mitigate_popularity_bias_i/">    <span class="related-paper-title">Identifying and Upweighting Power-Niche Users to Mitigate Popularity Bias in Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/how_fair_is_your_diffusion_recommender_model/">    <span class="related-paper-title">How Fair is Your Diffusion Recommender Model?</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

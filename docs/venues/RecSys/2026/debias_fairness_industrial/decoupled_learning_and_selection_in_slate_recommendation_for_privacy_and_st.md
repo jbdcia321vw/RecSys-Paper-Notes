@@ -133,3 +133,17 @@ $$P_{\text{flip}}\lesssim K(|C|-K)\exp\!\Big[-\frac{\gamma^2}{2(1-w)^2\tau^2}\Bi
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/additive_control_variates_dominate_self_normalisation_in_off_policy_evaluat/">    <span class="related-paper-title">Additive Control Variates Dominate Self-Normalisation in Off-Policy Evaluation</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../llm_rec/pairwise_ranking_outperforms_single_action_rl_for_offline_explanation_selec/">    <span class="related-paper-title">Pairwise Ranking Outperforms Single-Action RL for Offline Explanation Selection: A Practical Lesson</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/orbit_open_recommendation_benchmark_for_reproducible_research_with_hidden_t/">    <span class="related-paper-title">ORBIT: Open Recommendation Benchmark for Reproducible Research with Hidden Tests</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/talos_optimizing_top_k_accuracy_in_recommender_systems/">    <span class="related-paper-title">Talos: Optimizing Top-$K$ Accuracy in Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/obliviate_efficient_unlearning_in_recommender_systems/">    <span class="related-paper-title">Obliviate: Efficient Unlearning in Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
+</div>
+<!-- related-papers:end -->

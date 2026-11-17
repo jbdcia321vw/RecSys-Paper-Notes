@@ -131,3 +131,16 @@ $\mathcal{L}=\sum_{j\in\mathcal{D}}\alpha\,\mathrm{CE}(hl_j,\hat{p}_j)+(1-\alpha
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （工业落地叙事清晰、公式简洁；式 1 对比损失的下标与负样本记号略欠规范，部分符号未完全统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （真实全流量上线，缺陷率降 45.8%、购买率 +0.866%，双塔 CPU 部署方案与 KD 采样策略可直接复用；扣分项为未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../llm_rec/alibaba_international_e_commerce_product_search_competition_dcuragons_team_/">    <span class="related-paper-title">Alibaba International E-commerce Product Search Competition DcuRAGONs Team Technical Report</span>    <span class="related-paper-meta">CIKM · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/llm_rec/relevance_matters_a_multi_task_and_multi_stage_large_language_model_approac/">    <span class="related-paper-title">Relevance Matters: A Multi-Task and Multi-Stage Large Language Model Approach for E-commerce Query Rewriting</span>    <span class="related-paper-meta">ICDE · 2026 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/improving_item_discoverability_in_e_commerce_search_via_related_intent_gene/">    <span class="related-paper-title">Improving Item Discoverability in e-Commerce Search via Related Intent Generation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/collaborative_filtering/scaling_multilingual_semantic_search_in_uber_eats_delivery/">    <span class="related-paper-title">Scaling Multilingual Semantic Search in Uber Eats Delivery</span>    <span class="related-paper-meta">KDD · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/smart_llm_augmented_hybrid_retrieval_for_dynamic_product_ads/">    <span class="related-paper-title">SMART: LLM-Augmented Hybrid Retrieval for Dynamic Product Ads</span>    <span class="related-paper-meta">RecSys · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

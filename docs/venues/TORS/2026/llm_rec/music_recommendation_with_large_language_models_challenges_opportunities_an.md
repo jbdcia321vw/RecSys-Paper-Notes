@@ -102,3 +102,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐ （无自建实验、无数据集统计、无显著性检验，全部论据为文献转述）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三接触面 + 评估决策树的结构清晰，形式化 $f: X \to Y$与$M(y^*,y)$ 定义规范，54 页篇幅略显冗长）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （Deezer 工业视角的 RAG 延迟/token 成本、目录新鲜度讨论实用，但无开源代码与可执行基准）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../multimodal_rec/adopting_state_of_the_art_pretrained_audio_representations_for_music_recomm/">    <span class="related-paper-title">Adopting State-of-the-Art Pretrained Audio Representations for Music Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2026 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/how_can_recommender_systems_benefit_from_large_language_models_a_survey/">    <span class="related-paper-title">How Can Recommender Systems Benefit from Large Language Models: A Survey</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../2025/llm_rec/a_bi_step_grounding_paradigm_for_large_language_models_in_recommendation_sy/">    <span class="related-paper-title">A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/one_model_for_all_large_language_models_are_domain_agnostic_recommendation_/">    <span class="related-paper-title">One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Cross</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

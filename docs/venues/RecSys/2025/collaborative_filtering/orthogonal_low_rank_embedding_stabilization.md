@@ -115,3 +115,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （算法伪代码与矩阵恒等式推导干净，内积保持性证明一句话到位，工程落地讨论充分）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （$e\times e$ 变换、可内嵌为网络层、链式参考设计极具工程价值，但无开源代码且依赖私有数据，复现受限）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/ocp_orthogonal_constrained_projection_for_sparse_scaling_in_industrial_comm/">    <span class="related-paper-title">OCP: Orthogonal Constrained Projection for Sparse Scaling in Industrial Commodity Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/spectran_spectral_aware_transformer_based_adapter_for_llm_enhanced_sequenti/">    <span class="related-paper-title">SpecTran: Spectral-Aware Transformer-based Adapter for LLM-Enhanced Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/ace_anisotropy_controllable_embedding_for_llm_enhanced_sequential_recommend/">    <span class="related-paper-title">ACE: Anisotropy-Controllable Embedding for LLM-enhanced Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/fusion_and_alignment_enhancement_with_large_language_models_for_tail_item_s/">    <span class="related-paper-title">Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/efficient_learning_of_sparse_representations_from_interactions/">    <span class="related-paper-title">Efficient Learning of Sparse Representations from Interactions</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

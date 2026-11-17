@@ -116,3 +116,17 @@ $$\mathcal{M}^t_u=\{(a_k,i_k,\tau_k)\in\mathcal{H}_u \mid \alpha_k>\delta\},\qua
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/agent_conversational_rec/agentrecbench_benchmarking_llm_agent_based_personalized_recommender_systems/">    <span class="related-paper-title">AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.83</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/a_survey_on_llm_powered_agents_for_recommender_systems/">    <span class="related-paper-title">A Survey on LLM-powered Agents for Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.82</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/agent_conversational_rec/recommender_ai_agent_integrating_large_language_models_for_interactive_reco/">    <span class="related-paper-title">Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../2025/agent_conversational_rec/recusersim_a_realistic_and_diverse_user_simulator_for_evaluating_conversati/">    <span class="related-paper-title">RecUserSim: A Realistic and Diverse User Simulator for Evaluating Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../agentdr_dynamic_recommendation_with_implicit_item_item_relations_via_llm_ba/">    <span class="related-paper-title">AgentDR: Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+</div>
+<!-- related-papers:end -->

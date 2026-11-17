@@ -142,3 +142,16 @@ ML-1M 上三种检索策略的 NDCG@10（图 4 数据）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三阶段流程与背包 DP 推导清晰，隐私分析给出条件独立论证，但部分符号如 $K'$与$K_c$ 关系表述略松）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、骨干无关即插即用、遗忘线性扩展契合 GDPR 连续请求场景，但 LLM 推理延迟是部署瓶颈）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/erase_a_real_world_aligned_benchmark_for_unlearning_in_recommender_systems/">    <span class="related-paper-title">ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lettingo_explore_user_profile_generation_for_recommendation_system/">    <span class="related-paper-title">LettinGo: Explore User Profile Generation for Recommendation System</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/obliviate_efficient_unlearning_in_recommender_systems/">    <span class="related-paper-title">Obliviate: Efficient Unlearning in Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/collaborative_filtering/clusterrag_cluster_based_collaborative_filtering_for_personalized_retrieval/">    <span class="related-paper-title">ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/generative_rec/tracer_token_reassignment_for_concept_erasure_in_generative_recommendation/">    <span class="related-paper-title">TRACER: Token ReAssignment for Concept ERasure in Generative Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

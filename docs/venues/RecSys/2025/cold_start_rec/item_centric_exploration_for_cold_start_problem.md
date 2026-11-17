@@ -125,3 +125,16 @@ $$p(S^+|u,i)<\mu_i-2\sigma_i$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Beta 共轭推导与判据公式清晰，4 页短文信息密度高，先验设置等细节略欠）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （零额外模型前向、仅两次计数读取即可上线，风险低收益明确；但无开源代码，复现依赖自有排序头）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../collaborative_filtering/balancing_accuracy_and_novelty_with_sub_item_popularity/">    <span class="related-paper-title">Balancing Accuracy and Novelty with Sub-Item Popularity</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/recommendation_and_temptation/">    <span class="related-paper-title">Recommendation and Temptation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/cold_start_rec/pinequalizer_full_funnel_content_exploration_and_debiasing_system_at_pinter/">    <span class="related-paper-title">PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest</span>    <span class="related-paper-meta">KDD · 2026 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/how_to_diversify_any_personalized_recommender/">    <span class="related-paper-title">How to Diversify any Personalized Recommender?</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

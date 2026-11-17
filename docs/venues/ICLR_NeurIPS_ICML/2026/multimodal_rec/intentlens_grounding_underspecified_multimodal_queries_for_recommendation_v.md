@@ -130,3 +130,17 @@ $$J_{MGRPO}=\frac{\sum_{i\in\mathcal{B}}\sum_{l\in P_i}\ell(\rho_{i,l},\hat{A}_i
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （Full-Ranking 全库排序、5 次运行、消融与泛化/效率/人工评测齐全，但基准为自建合成数据，外部效度受限）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两阶段流程与奖励公式定义清楚，工具集与合成细节下沉附录，理论分析偏弱）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （两阶段解耦使物品富化可离线缓存、在线仅 2 次 MLLM 调用，工程友好；但 4 s 延迟、未开源、隐私与记忆访问合规成本构成落地门槛）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/multimodal_rec/mllmrec_a_preference_reasoning_paradigm_with_graph_refinement_for_multimoda/">    <span class="related-paper-title">MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/intent_representation_learning_with_large_language_model_for_recommendation/">    <span class="related-paper-title">Intent Representation Learning with Large Language Model for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/multimodal_rec/cammsr_category_guided_attentive_mixture_of_experts_for_multimodal_sequenti/">    <span class="related-paper-title">CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/mira_empowering_one_touch_ai_services_on_smartphones_with_mllm_based_instru/">    <span class="related-paper-title">MIRA: Empowering One-Touch AI Services on Smartphones with MLLM-based Instruction Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/harnessing_multimodal_large_language_models_for_multimodal_sequential_recom/">    <span class="related-paper-title">Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -140,3 +140,17 @@ Beauty 数据集上 $\alpha$与动态缩放$\beta$ 的联合消融（NDCG@10）�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （全局时间切分与 5 种子均值规范，但基线数量与指标维度偏少，缺显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两阶段流程与损失公式交代清晰，$\beta$ 的动机与消融呼应到位，符号略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （推理零开销、训练仅增 5–25%、代码开源，是可直接上线的 LLM 知识注入方案）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.83</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/llm_rec/delrec_distilling_sequential_pattern_to_enhance_llms_based_sequential_recom/">    <span class="related-paper-title">DELRec: Distilling Sequential Pattern to Enhance LLMs-based Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/reformulating_sequential_recommendation_learning_dynamic_user_interest_with/">    <span class="related-paper-title">Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+</div>
+<!-- related-papers:end -->

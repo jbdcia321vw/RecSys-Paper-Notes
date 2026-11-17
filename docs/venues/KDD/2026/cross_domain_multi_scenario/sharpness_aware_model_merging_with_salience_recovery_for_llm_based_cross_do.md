@@ -123,3 +123,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （6 组双域 + 多域扩展 + 重叠率 + 超参敏感性覆盖全面，但 30 项采样排序弱于全库排序，且缺少线上或全库对比）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （瓶颈—诊断—算子的叙事链条清晰，公式与附录证明完整，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （合并为纯参数算术、推理零额外开销、代码已开源，但多域独立微调的算力门槛限制中小团队落地）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/abxi_invariant_interest_adaptation_for_task_guided_cross_domain_sequential_/">    <span class="related-paper-title">ABXI: Invariant Interest Adaptation for Task-Guided Cross-Domain Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/generative_data_transformation_from_mixed_to_unified_data/">    <span class="related-paper-title">Generative Data Transformation: From Mixed to Unified Data</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/fedecider_an_llm_based_framework_for_federated_cross_domain_recommendation/">    <span class="related-paper-title">FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/cross_domain_multi_scenario/llm_edt_large_language_model_enhanced_cross_domain_sequential_recommendatio/">    <span class="related-paper-title">LLM-EDT: Large Language Model Enhanced Cross-domain Sequential Recommendation with Dual-phase Training</span>    <span class="related-paper-meta">SIGIR · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../mergerec_model_merging_for_data_isolated_cross_domain_sequential_recommenda/">    <span class="related-paper-title">MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

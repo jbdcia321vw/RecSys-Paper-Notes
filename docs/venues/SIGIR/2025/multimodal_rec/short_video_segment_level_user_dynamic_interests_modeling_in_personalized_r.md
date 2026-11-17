@@ -137,3 +137,16 @@ $\mathcal{L}_{u,v}=-\sum_{i=y,\,j\neq y}^{N-1}\ln\sigma(p_j-p_i)$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与案例可视化清晰、公式简洁，但部分符号如 $p_1$ 重复出现、融合公式记号略松散）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （开源代码与首个片段级短视频数据集 SegMM，插件式 SegRec 低耦合易部署，快手真实场景背书）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/a_content_driven_micro_video_recommendation_dataset_at_scale/">    <span class="related-paper-title">A Content-Driven Micro-Video Recommendation Dataset at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/vk_lsvd_a_large_scale_industrial_dataset_for_short_video_recommendation/">    <span class="related-paper-title">VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/multimodal_rec/mend_the_measurement_gap_latent_user_preference_modeling_for_short_form_vid/">    <span class="related-paper-title">Mend the Measurement Gap: Latent User Preference Modeling for Short-Form Video Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/efficient_multimodal_streaming_recommendation_via_expandable_side_mixture_o/">    <span class="related-paper-title">Efficient Multimodal Streaming Recommendation via Expandable Side Mixture-of-Experts</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/agent_conversational_rec/when_top_ranked_recommendations_fail_modeling_multi_granular_negative_feedb/">    <span class="related-paper-title">When Top-ranked Recommendations Fail: Modeling Multi-Granular Negative Feedback for Explainable and Robust Video Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

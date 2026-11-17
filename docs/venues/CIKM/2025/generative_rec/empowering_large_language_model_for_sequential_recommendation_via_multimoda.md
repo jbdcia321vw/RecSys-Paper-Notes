@@ -128,3 +128,16 @@ Beauty 数据集，指标 nDCG@20（图 5(b)）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两难动机推导清晰、公式紧凑，RQ-VAE 与融合模块的符号略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、LoRA 仅调 0.19% 参数、推理比 TIGER 更省，但双大模型离线成本是落地门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/pre_train_align_and_disentangle_empowering_sequential_recommendation_with_l/">    <span class="related-paper-title">Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/generative_rec/multi_aspect_cross_modal_quantization_for_generative_recommendation/">    <span class="related-paper-title">Multi-Aspect Cross-modal Quantization for Generative Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/cold_start_rec/motorec_sparse_regularized_multimodal_tokenization_for_cold_start_recommend/">    <span class="related-paper-title">MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../2026/sequential_rec/lsf_sr_latent_semantic_fusion_for_sequential_recommendation_via_flow_based_/">    <span class="related-paper-title">LSF-SR: Latent Semantic Fusion for Sequential Recommendation via Flow-based Conditional Variational Autoencoders</span>    <span class="related-paper-meta">CIKM · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

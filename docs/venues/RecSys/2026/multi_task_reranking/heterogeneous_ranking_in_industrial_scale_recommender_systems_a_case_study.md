@@ -135,3 +135,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （离线千万级样本 + 跨类型 xAUC 细粒度拆解 + 1% 流量线上 A/B 带置信区间，闭环完整；扣分在于无公开数据与超参敏感性分析）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号自洽，DL-AUC 三种工业场景的推演清晰；但部分模块（如 LENS 可视化）偏定性描述，缺定量阈值）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （模型 +<5%、延迟 +<0.5%、DAU 正向且无核心指标回退，是罕见的完整生产案例；但闭源使其复现价值打折）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../llm_rec/llm_based_user_personas_for_recommendations_at_scale/">    <span class="related-paper-title">LLM-Based User Personas for Recommendations at Scale</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/cross_domain_multi_scenario/automated_information_flow_selection_for_multi_scenario_multi_task_recommen/">    <span class="related-paper-title">Automated Information Flow Selection for Multi-scenario Multi-task Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · Cross / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../2025/cross_domain_multi_scenario/zero_shot_cross_domain_knowledge_distillation_a_case_study_on_youtube_music/">    <span class="related-paper-title">Zero-shot Cross-domain Knowledge Distillation: A Case study on YouTube Music</span>    <span class="related-paper-meta">RecSys · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../generative_rec/towards_generalizable_and_efficient_large_scale_generative_recommenders/">    <span class="related-paper-title">Towards Generalizable and Efficient Large-Scale Generative Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cold_start_rec/multi_modal_adaptive_mixture_of_experts_for_cold_start_recommendation/">    <span class="related-paper-title">Multi-modal Adaptive Mixture of Experts for Cold-start Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

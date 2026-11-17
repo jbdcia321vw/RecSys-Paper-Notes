@@ -133,3 +133,16 @@ $$\hat{\mathbf{B}}_{weighted}=\hat{\mathbf{B}}\,\mathrm{diag}(\mathbf{w})$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （从 EASE 的 SVD 分解推导流行度偏置来源，公式链清晰、闭式解推导完整，符号定义克制）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （权重与相似度解耦、流行度更新零重训，代码已开源；但受限于 $|I|^3$ 求逆，仅适合中等规模物品库的召回层）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/opening_the_black_box_interpretable_remedies_for_popularity_bias_in_recomme/">    <span class="related-paper-title">Opening the Black Box: Interpretable Remedies for Popularity Bias in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/unbiased_collaborative_filtering_with_fair_sampling/">    <span class="related-paper-title">Unbiased Collaborative Filtering with Fair Sampling</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/ctr_feature_interaction/uncertainty_calibration_for_counterfactual_propensity_estimation_in_recomme/">    <span class="related-paper-title">Uncertainty Calibration for Counterfactual Propensity Estimation in Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/why_is_normalization_necessary_for_linear_recommenders/">    <span class="related-paper-title">Why is Normalization Necessary for Linear Recommenders?</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/taming_recommendation_bias_with_causal_intervention_on_evolving_personal_po/">    <span class="related-paper-title">Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

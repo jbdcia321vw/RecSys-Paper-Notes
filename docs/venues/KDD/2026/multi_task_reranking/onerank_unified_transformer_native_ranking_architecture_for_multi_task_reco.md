@@ -131,3 +131,17 @@ $$\mathcal{L}=\sum_{k=1}^{K}\left(\alpha\mathcal{L}^{\text{list}}_k+\beta\mathca
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/multi_task_reranking/task_blind_no_more_multi_task_information_flow_in_unified_ranking_backbones/">    <span class="related-paper-title">Task-Blind No MORE: Multi-Task Information Flow in Unified Ranking Backbones</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/onetrans_unified_feature_interaction_and_sequence_modeling_with_one_transfo/">    <span class="related-paper-title">OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multi_task_reranking/mpformer_adaptive_framework_for_industrial_multi_task_personalized_sequenti/">    <span class="related-paper-title">MPFormer: Adaptive Framework for Industrial Multi-Task Personalized Sequential Retriever</span>    <span class="related-paper-meta">CIKM · 2025 · MTL / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/towards_generalizable_and_efficient_large_scale_generative_recommenders/">    <span class="related-paper-title">Towards Generalizable and Efficient Large-Scale Generative Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

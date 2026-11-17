@@ -130,3 +130,16 @@ $$\mathcal{J}_{GRPO}(\theta)=\mathbb{E}\Big[\tfrac{1}{G}\sum_{i=1}^{G}\tfrac{1}{
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与 prompt 模板交代清晰，GRPO 与奖励分档定义完整，缺少复杂度与延迟分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （0.4% 数据即达全量基线水平极具吸引力，但未开源、7B 在线推理成本高，落地需蒸馏至小模型）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/r4ec_a_reasoning_reflection_and_refinement_framework_for_recommendation_sys/">    <span class="related-paper-title">R4ec: A Reasoning, Reflection, and Refinement Framework for Recommendation Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/r_2_ec_towards_large_recommender_models_with_reasoning/">    <span class="related-paper-title">R$^2$ec: Towards Large Recommender Models with Reasoning</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/thinkrec_thinking_based_recommendation_via_llm/">    <span class="related-paper-title">ThinkRec: Thinking-based Recommendation via LLM</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/agent_conversational_rec/agentrecbench_benchmarking_llm_agent_based_personalized_recommender_systems/">    <span class="related-paper-title">AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/think_before_recommendation_autonomous_reasoning_enhanced_recommender/">    <span class="related-paper-title">Think before Recommendation: Autonomous Reasoning-enhanced Recommender</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

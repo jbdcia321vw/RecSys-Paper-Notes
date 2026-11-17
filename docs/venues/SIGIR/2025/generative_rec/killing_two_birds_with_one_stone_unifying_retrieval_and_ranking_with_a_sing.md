@@ -144,3 +144,16 @@ MovieLens-1M，骨干统一为 HSTU：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、模块动机与失效现象对应清晰，但相对分数公式的物理含义与 $\alpha$ 选取缺少推导）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （模型无关、即插即用、复杂度减半，工程价值高；但暂未开源，且缺延迟与线上验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/generative_rec/inductive_generative_recommendation_via_retrieval_based_speculation/">    <span class="related-paper-title">Inductive Generative Recommendation via Retrieval-based Speculation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../2026/cold_start_rec/genrecedit_adapting_model_editing_for_generative_recommendation_with_cold_s/">    <span class="related-paper-title">GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items</span>    <span class="related-paper-meta">SIGIR · 2026 · Cold / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../2026/generative_rec/bi_level_optimization_for_generative_recommendation_bridging_tokenization_a/">    <span class="related-paper-title">Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/multimodal_quantitative_language_for_generative_recommendation/">    <span class="related-paper-title">Multimodal Quantitative Language for Generative Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2026/generative_rec/dav_gen_end_to_end_generative_retrieval_via_draft_and_verify/">    <span class="related-paper-title">DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

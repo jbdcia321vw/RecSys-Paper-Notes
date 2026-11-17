@@ -147,3 +147,17 @@ ICS 敏感性（Avazu）：$T=1$稀疏度 76.4%/AUC 0.7821 →$T=5$稀疏度 91.
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/sequential_rec/closing_the_long_short_view_gap_in_sequential_recommendation_without_cached/">    <span class="related-paper-title">Closing the Long-Short View Gap in Sequential Recommendation without Cached History</span>    <span class="related-paper-meta">CIKM · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../2025/ctr_feature_interaction/dlf_enhancing_explicit_implicit_interaction_via_dynamic_low_order_aware_fus/">    <span class="related-paper-title">DLF: Enhancing Explicit-Implicit Interaction via Dynamic Low-Order-Aware Fusion for CTR Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/the_future_is_sparse_embedding_compression_for_scalable_retrieval_in_recomm/">    <span class="related-paper-title">The Future is Sparse: Embedding Compression for Scalable Retrieval in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/efficient_learning_of_sparse_representations_from_interactions/">    <span class="related-paper-title">Efficient Learning of Sparse Representations from Interactions</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/mixformer_co_scaling_up_dense_and_sequence_in_industrial_recommenders/">    <span class="related-paper-title">MixFormer: Co-Scaling Up Dense and Sequence in Industrial Recommenders</span>    <span class="related-paper-meta">KDD · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

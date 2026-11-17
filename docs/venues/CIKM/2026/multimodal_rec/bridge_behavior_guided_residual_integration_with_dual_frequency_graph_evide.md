@@ -126,3 +126,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACM_MM/2026/debias_fairness_industrial/tru_targeted_reverse_update_for_efficient_multimodal_recommendation_unlearn/">    <span class="related-paper-title">TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning</span>    <span class="related-paper-meta">ACM MM · 2026 · Debias / MM</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/multimodal_rec/can_complementary_signals_bridge_similarity_islands_manifold_augmented_grap/">    <span class="related-paper-title">Can Complementary Signals Bridge Similarity Islands? Manifold-Augmented Graph Embedding for Multimodal Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/multimodal_rec/structured_spectral_reasoning_for_frequency_adaptive_multimodal_recommendat/">    <span class="related-paper-title">Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/multimodal_rec/structural_and_disentangled_adaptation_of_large_vision_language_models_for_/">    <span class="related-paper-title">Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2026/multimodal_rec/one_graph_multiple_gains_single_high_quality_item_item_graph_for_multimodal/">    <span class="related-paper-title">One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation</span>    <span class="related-paper-meta">ACM MM · 2026 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

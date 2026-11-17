@@ -145,3 +145,16 @@ $$\max_{\Theta}\sum_{u\in U}\sum_{(S_u,\hat{S}_u^n)}\sum_{i=1}^{n}\log P_{\Theta
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （框架清晰、公式简洁，但部分符号如 $S_u^{sub}$ 定义略松，实验表格存在个别数值排版疑误）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （模型无关、在线零开销、离线一次性生成，落地门槛低；但未开源且生成成本与 ID 幻觉率未量化）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/enhancing_embedding_representation_stability_in_recommendation_systems_with/">    <span class="related-paper-title">Enhancing Embedding Representation Stability in Recommendation Systems with Semantic ID</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../one_model_for_all_large_language_models_are_domain_agnostic_recommendation_/">    <span class="related-paper-title">One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Cross</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../cold_start_rec/id_centric_pre_training_for_recommendation/">    <span class="related-paper-title">ID-centric Pre-training for Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cold / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../mitigating_propensity_bias_of_large_language_models_for_recommender_systems/">    <span class="related-paper-title">Mitigating Propensity Bias of Large Language Models for Recommender Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../how_can_recommender_systems_benefit_from_large_language_models_a_survey/">    <span class="related-paper-title">How Can Recommender Systems Benefit from Large Language Models: A Survey</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

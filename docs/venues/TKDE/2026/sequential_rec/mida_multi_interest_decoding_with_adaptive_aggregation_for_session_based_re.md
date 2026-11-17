@@ -145,3 +145,17 @@ GCE-GNN 骨干，R@5 / M@5：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/multi_grained_patch_training_for_efficient_llm_based_recommendation/">    <span class="related-paper-title">Multi-Grained Patch Training for Efficient LLM-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/rethinking_item_tokenization_in_generative_recommenders_from_fixed_atoms_to/">    <span class="related-paper-title">Rethinking Item Tokenization in Generative Recommenders: From Fixed Atoms to Semantic Subwords</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/collaborative_memory_augmentation_for_generative_recommendation/">    <span class="related-paper-title">Collaborative Memory Augmentation for Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/l2rec_towards_dual_view_understanding_of_llms_for_personalized_recommendati/">    <span class="related-paper-title">L2Rec: Towards Dual-View Understanding of LLMs for Personalized Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

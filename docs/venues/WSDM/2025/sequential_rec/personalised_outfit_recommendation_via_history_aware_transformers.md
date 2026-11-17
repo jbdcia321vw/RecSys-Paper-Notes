@@ -137,3 +137,16 @@ FITB 任务（Accuracy）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义清晰、动机—设计—消融链条完整，部分符号如 $p_0$/$p_o$ 存在笔误）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （冻结 CLIP + 轻量 Transformer 推理开销可控，冷启动友好，但未开源且历史拼接带来显存约束）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/dual_diffusional_generative_fashion_recommendation/">    <span class="related-paper-title">Dual-Diffusional Generative Fashion Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/agent_conversational_rec/styletailor_towards_personalized_fashion_styling_via_hierarchical_negative_/">    <span class="related-paper-title">StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/deepaffinity_long_term_aspect_preference_prediction_in_ecommerce_using_smal/">    <span class="related-paper-title">DeepAffinity: Long-Term Aspect Preference Prediction in eCommerce using Small Language Models</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/palate_pretrained_autoregressive_latent_embeddings/">    <span class="related-paper-title">PALATE: Pretrained Autoregressive LATent Embeddings</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/improving_visual_recommendation_on_e_commerce_platforms_using_vision_langua/">    <span class="related-paper-title">Improving Visual Recommendation on E-commerce Platforms Using Vision-Language Models</span>    <span class="related-paper-meta">RecSys · 2025 · MM / CF</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

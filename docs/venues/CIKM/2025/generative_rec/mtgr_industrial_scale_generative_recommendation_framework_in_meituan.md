@@ -127,3 +127,16 @@ $$\tilde{V} = \mathrm{silu}(K^{\top}Q)\,(N_U+N_{\vec{S}}+N_{\vec{R}}+N_I)^{-1}\,
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、掩码规则图示清晰，但部分符号如 $N_I$与$K$ 混用，系统章节偏工程叙述）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在美团主流量全量部署，训练成本持平、推理降 12%，是近两年少见的完整工业闭环验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/generative_rec/unlocking_scaling_law_in_industrial_recommendation_systems_with_a_three_ste/">    <span class="related-paper-title">Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model</span>    <span class="related-paper-meta">WSDM · 2026 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/earn_efficient_inference_acceleration_for_llm_based_generative_recommendati/">    <span class="related-paper-title">EARN: Efficient Inference Acceleration for LLM-based Generative Recommendation by Register Tokens</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/climber_toward_efficient_scaling_laws_for_large_recommendation_models/">    <span class="related-paper-title">Climber: Toward Efficient Scaling Laws for Large Recommendation Models</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/towards_generalizable_and_efficient_large_scale_generative_recommenders/">    <span class="related-paper-title">Towards Generalizable and Efficient Large-Scale Generative Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

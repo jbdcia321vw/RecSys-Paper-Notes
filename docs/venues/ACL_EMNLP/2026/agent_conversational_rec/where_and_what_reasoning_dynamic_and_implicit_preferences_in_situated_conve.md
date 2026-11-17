@@ -123,3 +123,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （双数据集 + 三类范式基线 + 消融/变体/误差传播/人工评估齐全，但评估集 50% 平衡采样削弱了真实分布代表性）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （POMDP 与似然比推导完整、符号统一，但 Eq.6 的近似与信念状态摊销细节略依赖附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、在线全用 7B 开源模型、闭源仅离线预处理，延迟与强基线相当；短板是候选数增长带来的线性打分开销）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../re2a_situated_conversational_recommendation_via_rubric_based_preference_rea/">    <span class="related-paper-title">Re2A: Situated Conversational Recommendation via Rubric-based Preference Reasoning and Alignment</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/agent_conversational_rec/siturecbench_evaluating_frontier_models_as_situated_recommendation_assistan/">    <span class="related-paper-title">SituRecBench: Evaluating Frontier Models as Situated Recommendation Assistants in 3D Environments</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/when_and_how_to_ask_dynamic_preference_elicitation_strategies_for_conversat/">    <span class="related-paper-title">When and How to Ask: Dynamic Preference Elicitation Strategies for Conversational Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../towards_effective_structured_context_modeling_for_conversational_recommende/">    <span class="related-paper-title">Towards Effective Structured Context Modeling for Conversational Recommender Systems via Dual-node Monte Carlo Tree Search</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/collaborative_retrieval_for_large_language_model_based_conversational_recom/">    <span class="related-paper-title">Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

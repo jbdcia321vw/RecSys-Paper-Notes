@@ -115,3 +115,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （系统流程与部署栈描述清晰、图 2 信息完整，但全文无形式化定义与复杂度/成本分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （真实 20% 灰度上线、开源代码与 ECIR Industry Talk 资源齐备，架构可直接借鉴，唯 LLM 提示与超参细节缺失）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/semantic_ids_for_music_recommendation/">    <span class="related-paper-title">Semantic IDs for Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../contextualizing_spotify_s_audiobook_list_recommendations_with_descriptive_s/">    <span class="related-paper-title">Contextualizing Spotify&#x27;s Audiobook List Recommendations with Descriptive Shelves</span>    <span class="related-paper-meta">ECIR · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/beyond_the_past_leveraging_audio_and_human_memory_for_sequential_music_reco/">    <span class="related-paper-title">Beyond the past: Leveraging Audio and Human Memory for Sequential Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/balancing_accuracy_and_novelty_with_sub_item_popularity/">    <span class="related-paper-title">Balancing Accuracy and Novelty with Sub-Item Popularity</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/just_ask_for_music_jam_multimodal_and_personalized_natural_language_music_r/">    <span class="related-paper-title">Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

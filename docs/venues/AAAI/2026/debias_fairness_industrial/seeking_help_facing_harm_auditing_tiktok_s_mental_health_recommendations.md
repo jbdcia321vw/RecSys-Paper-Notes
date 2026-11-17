@@ -125,3 +125,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （208 会话、8,727 视频规模可观且附 CI，但缺显著性检验、标注噪声中等、种子查询覆盖有限）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （研究问题、因子设计与统计口径交代清晰，公式极简但足够，附录操作可靠性详实）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （对平台安全策略有直接政策启示，但代码因伦理考量未开源，复现需自建采集管线）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../llm_rec/contextualizing_recommendation_explanations_with_llms_a_user_study/">    <span class="related-paper-title">Contextualizing Recommendation Explanations with LLMs: A User Study</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/datasets_for_navigating_sensitive_topics_in_recommendation_systems/">    <span class="related-paper-title">Datasets for Navigating Sensitive Topics in Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/agent_conversational_rec/unveiling_and_simulating_short_video_addiction_behaviors_via_economic_addic/">    <span class="related-paper-title">Unveiling and Simulating Short-Video Addiction Behaviors via Economic Addiction Theory</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../agent_conversational_rec/when_top_ranked_recommendations_fail_modeling_multi_granular_negative_feedb/">    <span class="related-paper-title">When Top-ranked Recommendations Fail: Modeling Multi-Granular Negative Feedback for Explainable and Robust Video Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/social_group_rec/you_don_t_bring_me_flowers_mitigating_unwanted_recommendations_through_conf/">    <span class="related-paper-title">You Don&#x27;t Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control</span>    <span class="related-paper-meta">RecSys · 2025 · Social / Debias</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+</div>
+<!-- related-papers:end -->

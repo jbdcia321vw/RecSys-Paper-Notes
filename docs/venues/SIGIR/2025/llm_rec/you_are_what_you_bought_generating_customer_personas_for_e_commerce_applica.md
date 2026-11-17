@@ -123,3 +123,16 @@ $\mathbf{L}[u_i,r_m]=c_m\cdot\frac{\Phi[u_i,r_m]}{\sum_{r_n}\Phi[u_i,r_n]},\quad
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （DU 分数、$\Psi=\Pi\mathbf{L}$、RevAff 递推与两条复杂度定理定义严谨，符号表完备）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、5% 采样即达标、RevAff 秒级处理千万级交互，直接对应线上标注预算痛点）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/palate_pretrained_autoregressive_latent_embeddings/">    <span class="related-paper-title">PALATE: Pretrained Autoregressive LATent Embeddings</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/merrec_a_large_scale_multipurpose_mercari_dataset_for_consumer_to_consumer_/">    <span class="related-paper-title">MerRec: A Large-scale Multipurpose Mercari Dataset for Consumer-to-Consumer Recommendation Systems</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cross_domain_multi_scenario/global_distribution_aware_scenario_specific_variational_representation_lear/">    <span class="related-paper-title">Global-Distribution Aware Scenario-Specific Variational Representation Learning Framework</span>    <span class="related-paper-meta">CIKM · 2025 · Cross / CTR</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/deepaffinity_long_term_aspect_preference_prediction_in_ecommerce_using_smal/">    <span class="related-paper-title">DeepAffinity: Long-Term Aspect Preference Prediction in eCommerce using Small Language Models</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/generative_rec/tbgrecall_a_generative_retrieval_model_for_e_commerce_recommendation_scenar/">    <span class="related-paper-title">TBGRecall: A Generative Retrieval Model for E-commerce Recommendation Scenarios</span>    <span class="related-paper-meta">CIKM · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

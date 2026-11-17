@@ -128,3 +128,17 @@ $$w^r_{i,j}>\eta\, n_{i,j}(t)\Big(\sqrt{1+\tfrac{1}{n_{i,j}(t)}}-1\Big),$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （四类基准覆盖推荐/多目标/LLM，但候选规模小、缺标准消融表与显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理链条完整、阈值推导清晰，RQ1–RQ3 组织得当；部分符号与附录依赖较重）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、无需拟合参数模型、每轮开销低，适合在线偏好抽取；标注环节是落地主要成本）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/rl_bandit_rec/incentivized_exploration_with_stochastic_covariates_a_two_stage_mechanism_d/">    <span class="related-paper-title">Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/agent_conversational_rec/leveraging_the_power_of_conversations_optimal_key_term_selection_in_convers/">    <span class="related-paper-title">Leveraging the Power of Conversations: Optimal Key Term Selection in Conversational Contextual Bandits</span>    <span class="related-paper-meta">KDD · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/rl_bandit_rec/interactive_visualization_recommendation_with_hier_sucb/">    <span class="related-paper-title">Interactive Visualization Recommendation with Hier-SUCB</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · RL / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/rl_bandit_rec/exploitation_over_exploration_unmasking_the_bias_in_linear_bandit_recommend/">    <span class="related-paper-title">Exploitation Over Exploration: Unmasking the Bias in Linear Bandit Recommender Offline Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2026/llm_rec/dynamicpo_dynamic_preference_optimization_for_recommendation/">    <span class="related-paper-title">DynamicPO: Dynamic Preference Optimization for Recommendation</span>    <span class="related-paper-meta">DASFAA · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

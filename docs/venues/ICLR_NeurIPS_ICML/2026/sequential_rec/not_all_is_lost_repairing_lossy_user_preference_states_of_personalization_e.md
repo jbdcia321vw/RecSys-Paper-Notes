@@ -124,3 +124,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （4 数据集 12 宿主 + 冻结头/头微调/输出端校正三重对照与 bootstrap CI 很扎实，扣分在采样排序与部分点估计）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （算子分解与附录推导完整、定理与可实现条件交代清楚，但正文符号密度高、附录长达 59 页，阅读门槛偏高）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （免重训即可给已部署模型涨点、系数全局固定易复现；但 38–44% 延迟开销与未开源代码削弱即插即用性）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/earn_efficient_inference_acceleration_for_llm_based_generative_recommendati/">    <span class="related-paper-title">EARN: Efficient Inference Acceleration for LLM-based Generative Recommendation by Register Tokens</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/unipinrec_unifying_generative_retrieval_and_ranking_at_pinterest_scale/">    <span class="related-paper-title">UniPinRec: Unifying Generative Retrieval and Ranking at Pinterest Scale</span>    <span class="related-paper-meta">RecSys · 2026 · CF / GenRec</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/from_recall_to_forgetting_benchmarking_long_term_memory_for_personalized_ag/">    <span class="related-paper-title">From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/towards_generalizable_and_efficient_large_scale_generative_recommenders/">    <span class="related-paper-title">Towards Generalizable and Efficient Large-Scale Generative Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/efficient_multimodal_streaming_recommendation_via_expandable_side_mixture_o/">    <span class="related-paper-title">Efficient Multimodal Streaming Recommendation via Expandable Side Mixture-of-Experts</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

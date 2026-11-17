@@ -119,3 +119,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （双工业数据集 + 冷启动分桶 + 插件泛化 + 线上 A/B 完整，但缺全库排序与显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、算法伪代码清晰，但 Eq.6/7 中 $\mathbf{E}_i^{warm}$ 符号复用易混淆，复杂度分析缺失）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （即插即用、推理零额外开销、线上 GMV 实证，工程价值极高；可惜未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/graph_rec/spark_adaptive_low_rank_knowledge_graph_modeling_in_hybrid_geometric_spaces/">    <span class="related-paper-title">SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Graph / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/cold_start_rec/learning_sparse_representations_of_multimodal_content_for_enhanced_cold_ite/">    <span class="related-paper-title">Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/location_matters_leveraging_multi_resolution_geo_embeddings_for_housing_sea/">    <span class="related-paper-title">Location Matters: Leveraging Multi-Resolution Geo-Embeddings for Housing Search</span>    <span class="related-paper-meta">RecSys · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/from_time_and_place_to_preference_llm_driven_geo_temporal_context_in_recomm/">    <span class="related-paper-title">From Time and Place to Preference: LLM-Driven Geo-Temporal Context in Recommendations</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/agent_conversational_rec/siturecbench_evaluating_frontier_models_as_situated_recommendation_assistan/">    <span class="related-paper-title">SituRecBench: Evaluating Frontier Models as Situated Recommendation Assistants in 3D Environments</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

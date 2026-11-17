@@ -131,3 +131,17 @@ PUF 本身无模块可消融，作者以受控扰动实验替代，检验各度�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （4 数据集 × 7 推荐器 × 全库排序 + Kendall $\tau$ 一致性分析 + 三类受控扰动实验，元评估设计相当完整，惟缺大规模与深度模型验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （符号定义干净、公式仅一条却表意完备，对每个基线度量的缺陷均有明确定位，实验叙述与结论严格对应）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、计算开销比同类成对度量低 1–2 个数量级，可直接嵌入离线评测流水线；但绝对分值不可跨场景比较，需配套标准化规范）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/stairway_to_fairness_connecting_group_and_individual_fairness/">    <span class="related-paper-title">Stairway to Fairness: Connecting Group and Individual Fairness</span>    <span class="related-paper-meta">RecSys · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/joint_evaluation_of_fairness_and_relevance_in_recommender_systems_with_pare/">    <span class="related-paper-title">Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/a_reproducibility_study_of_product_side_fairness_in_bundle_recommendation/">    <span class="related-paper-title">A Reproducibility Study of Product-side Fairness in Bundle Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/post_hoc_provider_fairness_adaptation_via_hierarchical_exposure_alignment/">    <span class="related-paper-title">Post-hoc Provider Fairness Adaptation via Hierarchical Exposure Alignment</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/equity_vs_equality_optimizing_ranking_fairness_for_tailored_provider_needs/">    <span class="related-paper-title">Equity vs. Equality: Optimizing Ranking Fairness for Tailored Provider Needs</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

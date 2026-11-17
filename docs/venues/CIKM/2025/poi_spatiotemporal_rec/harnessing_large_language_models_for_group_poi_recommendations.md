@@ -129,3 +129,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与算法流程清晰，公式简洁；但部分符号前后不一致、聚合适配器输入跳过位置编码的理论论证偏直觉）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （思路可落地，但 8B 模型 + 双 QLoRA 的线上成本高，且未开源代码，复现门槛较高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/hsuga_llm_enhanced_recommendation_with_hierarchical_semantic_understanding_/">    <span class="related-paper-title">HSUGA: LLM-Enhanced Recommendation with Hierarchical Semantic Understanding and Group-Aware Alignment</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/copl_collaborative_preference_learning_for_personalizing_llms/">    <span class="related-paper-title">CoPL: Collaborative Preference Learning for Personalizing LLMs</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/improving_llms_for_recommendation_with_out_of_vocabulary_tokens/">    <span class="related-paper-title">Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/collm_integrating_collaborative_embeddings_into_large_language_models_for_r/">    <span class="related-paper-title">CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/poi_spatiotemporal_rec/generative_next_poi_recommendation_with_semantic_id/">    <span class="related-paper-title">Generative Next POI Recommendation with Semantic ID</span>    <span class="related-paper-meta">KDD · 2025 · POI / GenRec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

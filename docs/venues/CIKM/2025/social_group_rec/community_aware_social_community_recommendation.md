@@ -135,3 +135,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理 4.2/4.3/4.4 与复杂度分析完整，符号统一，附录承载证明）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，训练参数仅初始嵌入、复杂度同 MF，稀疏乘可高效部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/social_group_rec/score_based_generative_diffusion_models_for_social_recommendations/">    <span class="related-paper-title">Score-based Generative Diffusion Models for Social Recommendations</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/social_group_rec/pulse_socially_aware_user_representation_modeling_toward_parameter_efficien/">    <span class="related-paper-title">PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/social_group_rec/from_aggregation_to_selection_user_validated_distributed_social_recommendat/">    <span class="related-paper-title">From Aggregation to Selection: User-Validated Distributed Social Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Social / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/graph_rec/graph_cross_correlated_network_for_recommendation/">    <span class="related-paper-title">Graph Cross-Correlated Network for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Graph / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/social_group_rec/disentangled_modeling_of_preferences_and_social_influence_for_group_recomme/">    <span class="related-paper-title">Disentangled Modeling of Preferences and Social Influence for Group Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

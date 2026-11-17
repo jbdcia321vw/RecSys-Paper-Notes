@@ -137,3 +137,16 @@ RS 重评实验（节选核心列，三折平均，% ；Avg 为分数值）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （5 页短文结构紧凑，问题形式化与提示模板图示清晰，公式简洁无冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （框架与模型无关、即插即用，但百万级 LLM 调用成本与未开源代码削弱了直接落地性）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/exploring_the_potential_of_llms_for_serendipity_evaluation_in_recommender_s/">    <span class="related-paper-title">Exploring the Potential of LLMs for Serendipity Evaluation in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.81</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/llm_as_a_judge_for_reliable_and_explainable_offline_evaluation_in_top_k_rec/">    <span class="related-paper-title">LLM-as-a-Judge for Reliable and Explainable Offline Evaluation in Top-K Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/llm_rec/towards_next_generation_recommender_systems_a_benchmark_for_personalized_re/">    <span class="related-paper-title">Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -130,3 +130,16 @@ $$\mathcal{L}_{aux}=-y\log f(\boldsymbol{z}'_0)-(1-y)\log(1-f(\boldsymbol{z}'_0)
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式精简、算法流程清晰，5 页短文信息密度高；但部分符号与训练细节略欠展开）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （抖音音乐全量部署、推理仅 +0.5 ms，工程价值明确；可惜未开源，学界复现门槛高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/unlocking_the_power_of_diffusion_models_in_sequential_recommendation_a_simp/">    <span class="related-paper-title">Unlocking the Power of Diffusion Models in Sequential Recommendation: A Simple and Effective Approach</span>    <span class="related-paper-meta">KDD · 2025 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2025/generative_rec/flow_matching_based_sequential_recommender_model/">    <span class="related-paper-title">Flow Matching based Sequential Recommender Model</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/addressing_missing_data_issue_for_diffusion_based_recommendation/">    <span class="related-paper-title">Addressing Missing Data Issue for Diffusion-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/self_supervised_denoising/simdiffrec_semantic_similarity_guided_diffusion_for_contrastive_sequential_/">    <span class="related-paper-title">SimDiffRec: Semantic Similarity-Guided Diffusion for Contrastive Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/preference_diffusion_for_recommendation/">    <span class="related-paper-title">Preference Diffusion for Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

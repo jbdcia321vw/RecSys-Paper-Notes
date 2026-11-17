@@ -139,3 +139,16 @@ $$\hat{\mathbf{B}}_{\text{LINK}}=\arg\min_{\mathbf{B}}\ \alpha\|\tilde{\mathbf{X
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （闭式解推导完整，并将 LIS/NIT 统一解释为 KD 框架下的特例，符号清晰；部分超参敏感性分析略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、推理仅一次稀疏矩阵乘法、FLOPs 降低 813 倍、训练快至 953 倍，对召回侧轻量化落地极具吸引力）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/temporal_linear_item_item_model_for_sequential_recommendation/">    <span class="related-paper-title">Temporal Linear Item-Item Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2026/sequential_rec/rethinking_convolutional_networks_for_attribute_aware_sequential_recommenda/">    <span class="related-paper-title">Rethinking Convolutional Networks for Attribute-Aware Sequential Recommendation</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2026 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../2026/sequential_rec/fusion_and_alignment_enhancement_with_large_language_models_for_tail_item_s/">    <span class="related-paper-title">Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../2026/multimodal_rec/multi_modal_relational_item_representation_learning_for_inferring_substitut/">    <span class="related-paper-title">Multi-modal Relational Item Representation Learning for Inferring Substitutable and Complementary Items</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

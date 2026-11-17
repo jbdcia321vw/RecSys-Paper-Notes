@@ -131,3 +131,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号统一、超参与基线配置交代清楚，相对提升表格一目了然；理论分析较浅，未深入解释 Transformer 失效机理）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （直接回答"是否该从 GBDT 迁移到 DNN"的工程决策问题，双塔可预计算、服务成本可控；但数据私有、代码未开源，复现需自建同构日志）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/fairfs_addressing_deep_feature_selection_biases_for_recommender_system/">    <span class="related-paper-title">FairFS: Addressing Deep Feature Selection Biases for Recommender System</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/zorro_a_zero_weight_personalized_recommender_system_for_scalable_news_recom/">    <span class="related-paper-title">ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / Cold</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../ctr_feature_interaction/identifying_offline_metrics_that_predict_online_impact_a_pragmatic_strategy/">    <span class="related-paper-title">Identifying Offline Metrics that Predict Online Impact: A Pragmatic Strategy for Real-World Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/deep_learning_causal_retrieval_optimization_for_efficient_e_commerce_distri/">    <span class="related-paper-title">Deep-learning Causal Retrieval Optimization for Efficient e-commerce Distribution in Pinterest</span>    <span class="related-paper-meta">KDD · 2026 · Debias / RL</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/graph_rec/contextgnn_beyond_two_tower_recommendation_systems/">    <span class="related-paper-title">ContextGNN: Beyond Two-Tower Recommendation Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+</div>
+<!-- related-papers:end -->

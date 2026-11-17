@@ -128,3 +128,16 @@ $$\mathcal{L}=-\sum_{i=1}^{L}\log P(v_i\mid v_{<i},I)$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与提示示例直观，公式简洁；但偏好推断过程缺形式化定义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码开源、LoRA 高效微调友好，但 7B 模型在线推理成本高，更适合离线蒸馏或召回增强）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/multimodal_large_language_models_with_adaptive_preference_optimization_for_/">    <span class="related-paper-title">Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.82</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multimodal_rec/notellm_2_multimodal_large_representation_models_for_recommendation/">    <span class="related-paper-title">NoteLLM-2: Multimodal Large Representation Models for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.81</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/multimodal_rec/cammsr_category_guided_attentive_mixture_of_experts_for_multimodal_sequenti/">    <span class="related-paper-title">CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/do_recommender_systems_really_leverage_multimodal_content_a_comprehensive_a/">    <span class="related-paper-title">Do Recommender Systems Really Leverage Multimodal Content? A Comprehensive Analysis on Multimodal Representations for Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/multimodal_rec/mllmrec_a_preference_reasoning_paradigm_with_graph_refinement_for_multimoda/">    <span class="related-paper-title">MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+</div>
+<!-- related-papers:end -->

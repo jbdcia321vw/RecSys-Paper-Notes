@@ -144,3 +144,16 @@ Alimama R@500（%）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三支路公式定义完整、算法伪代码清晰，VQ 直通估计器与 GLU 推导规范；部分符号如 $\mathbf{W}_{r2}$ 被称为"bias matrix"表述略含糊）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源，~10 GFLOPs / 4.30MB / 4.83ms 推理，明确面向美团级工业召回，落地价值高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../DASFAA/2025/collaborative_filtering/a_situation_aware_enhancer_for_personalized_recommendation/">    <span class="related-paper-title">A Situation-aware Enhancer for Personalized Recommendation</span>    <span class="related-paper-meta">DASFAA · 2025 · CF / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cross_domain_multi_scenario/global_distribution_aware_scenario_specific_variational_representation_lear/">    <span class="related-paper-title">Global-Distribution Aware Scenario-Specific Variational Representation Learning Framework</span>    <span class="related-paper-meta">CIKM · 2025 · Cross / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/generative_rec/behavior_tokens_speak_louder_disentangled_explainable_recommendation_with_b/">    <span class="related-paper-title">Behavior Tokens Speak Louder: Disentangled Explainable Recommendation with Behavior Vocabulary</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/alphafree_recommendation_free_from_users_ids_and_gnns/">    <span class="related-paper-title">AlphaFree: Recommendation Free from Users, IDs, and GNNs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/cross_domain_multi_scenario/towards_personalized_federated_multi_scenario_multi_task_recommendation/">    <span class="related-paper-title">Towards Personalized Federated Multi-Scenario Multi-Task Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cross / MTL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -130,3 +130,16 @@ $$r_w=\begin{cases} r \text{ with } s=2, & \exists s=2 \\ \text{label}, & \foral
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （PODCS 算法与 SES 流程描述清晰，公式简洁；但部分符号与超参选择缺乏理论推导支撑）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、LoRA 微调成本可控，但树搜索推理延迟是线上部署的主要瓶颈）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ECIR/2026/agent_conversational_rec/interplay_training_independent_simulators_for_reference_free_conversational/">    <span class="related-paper-title">Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/collaborative_retrieval_for_large_language_model_based_conversational_recom/">    <span class="related-paper-title">Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/bridging_conversational_and_collaborative_signals_for_conversational_recomm/">    <span class="related-paper-title">Bridging Conversational and Collaborative Signals for Conversational Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / CF</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/refining_text_generation_for_realistic_conversational_recommendation_via_di/">    <span class="related-paper-title">Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/agent_conversational_rec/ask_to_be_sure_informative_interactions_for_confident_multi_turn_llm_recomm/">    <span class="related-paper-title">Ask to Be Sure: Informative Interactions for Confident Multi-Turn LLM Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -128,3 +128,16 @@ $$\mathcal{L}_{PPO}=\mathbb{E}\left[R(\mathbf{z},a)-\beta\,\mathrm{KL}(\pi_{\the
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （MDP 定义、奖励设计与 PPO 目标交代清楚，Prompt 全文附录完整可复现，公式简洁无冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （检索器推理开销极小、代码已开源，但依赖闭源 GPT-4 API 且提示库需持续维护，离线可用、在线高并发场景需额外蒸馏或缓存）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/r4ec_a_reasoning_reflection_and_refinement_framework_for_recommendation_sys/">    <span class="related-paper-title">R4ec: A Reasoning, Reflection, and Refinement Framework for Recommendation Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/llm_rec/balancing_fine_tuning_and_rag_a_hybrid_strategy_for_dynamic_llm_recommendat/">    <span class="related-paper-title">Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/rerec_reasoning_augmented_llm_based_recommendation_assistant_via_reinforcem/">    <span class="related-paper-title">ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/llm_rec/delrec_distilling_sequential_pattern_to_enhance_llms_based_sequential_recom/">    <span class="related-paper-title">DELRec: Distilling Sequential Pattern to Enhance LLMs-based Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

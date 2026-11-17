@@ -123,3 +123,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （模块划分清晰、公式完整，混合提示与掩码方案表述明确，复杂度分析略欠）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、场景贴合美团贴纸/海报业务，但多模型级联的推理成本是落地主要障碍）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/discrete_preference_learning_for_personalized_multimodal_generation/">    <span class="related-paper-title">Discrete Preference Learning for Personalized Multimodal Generation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/personalized_image_generation_for_recommendations_beyond_catalogs/">    <span class="related-paper-title">Personalized Image Generation for Recommendations Beyond Catalogs</span>    <span class="related-paper-meta">RecSys · 2025 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/multimodal_rec/icg_improving_cover_image_generation_via_mllm_based_prompting_and_personali/">    <span class="related-paper-title">ICG: Improving Cover Image Generation via MLLM-based Prompting and Personalized Preference Alignment</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/multimodal_quantitative_language_for_generative_recommendation/">    <span class="related-paper-title">Multimodal Quantitative Language for Generative Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/harnessing_multimodal_large_language_models_for_multimodal_sequential_recom/">    <span class="related-paper-title">Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

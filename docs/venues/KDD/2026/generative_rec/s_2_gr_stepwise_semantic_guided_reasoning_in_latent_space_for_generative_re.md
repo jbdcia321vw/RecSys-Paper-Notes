@@ -121,3 +121,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../reasoning_over_semantic_ids_enhances_generative_recommendation/">    <span class="related-paper-title">Reasoning over Semantic IDs Enhances Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/sprig_semantic_id_enhanced_paths_for_knowledge_graph_based_generative_recom/">    <span class="related-paper-title">SPRIG: Semantic-ID-enhanced Paths for Knowledge Graph-based Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Graph</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/latent_residual_reasoning_for_ranking_in_generative_recommendation/">    <span class="related-paper-title">Latent Residual Reasoning for Ranking in Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/addressing_cross_stage_decoupling_of_semantic_and_collaborative_signals_in_/">    <span class="related-paper-title">Addressing Cross-Stage Decoupling of Semantic and Collaborative Signals in Generative Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../llm_rec/mgfrec_towards_reinforced_reasoning_recommendation_with_multiple_groundings/">    <span class="related-paper-title">MGFRec: Towards Reinforced Reasoning Recommendation with Multiple Groundings and Feedback</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

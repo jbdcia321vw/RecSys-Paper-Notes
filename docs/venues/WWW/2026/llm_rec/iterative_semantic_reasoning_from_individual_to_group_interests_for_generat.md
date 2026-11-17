@@ -141,3 +141,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （三数据集 + 14 基线 + 显著性检验齐全，但 DR 仅采样排序、缺冷启动/长尾分桶与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三模块公式清晰、复杂度分析到位，但 Eq.8/9 中 $\text{sg}[\cdot]$与温度系数$\tau$ 的符号定义略简，部分符号前后不一致）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、推理开销与 ELMRec 持平，但离线 LLM 语义生成管线与 14B 模型依赖抬高落地门槛）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/llm_based_user_personas_for_recommendations_at_scale/">    <span class="related-paper-title">LLM-Based User Personas for Recommendations at Scale</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../agent_conversational_rec/agentdr_dynamic_recommendation_with_implicit_item_item_relations_via_llm_ba/">    <span class="related-paper-title">AgentDR: Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/bridging_the_user_side_knowledge_gap_in_knowledge_aware_recommendations_wit/">    <span class="related-paper-title">Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/proex_a_unified_framework_leveraging_large_language_model_with_profile_extr/">    <span class="related-paper-title">ProEx: A Unified Framework Leveraging Large Language Model with Profile Extrapolation for Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/sprig_semantic_id_enhanced_paths_for_knowledge_graph_based_generative_recom/">    <span class="related-paper-title">SPRIG: Semantic-ID-enhanced Paths for Knowledge Graph-based Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

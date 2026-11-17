@@ -141,3 +141,16 @@ Movie 域 MRR（%）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （公式与符号定义清楚、框架图完整，但正文存在方法名 IFCDRS/IFCDSR 拼写不一致、贡献段与实验段数据集数量表述矛盾等疏漏）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （CLIP 嵌入可离线缓存、在线开销与 SASRec 同级，模块可插拔，但代码未开源且超参需人工调优）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/cross_domain_multi_scenario/cross_domain_sequential_recommendation_with_representation_level_user_trans/">    <span class="related-paper-title">Cross-Domain Sequential Recommendation with Representation-Level User Transfer</span>    <span class="related-paper-meta">CIKM · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/cross_domain_multi_scenario/automated_prompting_for_non_overlapping_cross_domain_sequential_recommendat/">    <span class="related-paper-title">Automated Prompting for Non-overlapping Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../abxi_invariant_interest_adaptation_for_task_guided_cross_domain_sequential_/">    <span class="related-paper-title">ABXI: Invariant Interest Adaptation for Task-Guided Cross-Domain Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/cross_domain_multi_scenario/bridge_the_domains_large_language_models_enhanced_cross_domain_sequential_r/">    <span class="related-paper-title">Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/cross_domain_multi_scenario/a_unified_framework_for_adaptive_representation_enhancement_and_inversed_le/">    <span class="related-paper-title">A Unified Framework for Adaptive Representation Enhancement and Inversed Learning in Cross-Domain Recommendation</span>    <span class="related-paper-meta">DASFAA · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -125,3 +125,17 @@ $$R=\mathbb{I}_{\text{Gate}}\cdot(w_{cate}R_{cate}+w_{attr}R_{attr}+w_{reason}R_
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （离线双分布测试集 + RAR 忠实度指标 + 线上 GSB 人工评测 + 4 天 A/B 形成完整证据链，扣分在于训练集规模与统计显著性检验披露不足）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （奖励门控与 GRPO 目标公式表述清晰、案例研究直观，但部分符号如 $R_{label}$与$R_{cate}/R_{attr}/R_{rele}$ 的层级关系在正文中略显跳跃）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在淘宝主搜服务数亿用户，MFU 35%、P99 ≤400ms 的工程指标完整披露，是少见的"论文即生产系统"范例；但未开源、依赖私有 42B MoE 基座，复现门槛高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/adore_autonomous_domain_oriented_relevance_engine_for_e_commerce/">    <span class="related-paper-title">ADORE: Autonomous Domain-Oriented Relevance Engine for E-commerce</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/eager_enrich_and_align_generative_query_recommendation_from_clicked_items_i/">    <span class="related-paper-title">EAGER: Enrich-and-Align Generative Query Recommendation from Clicked Items in E-commerce Search</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/think_before_recommendation_autonomous_reasoning_enhanced_recommender/">    <span class="related-paper-title">Think before Recommendation: Autonomous Reasoning-enhanced Recommender</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/llm_rec/relevance_matters_a_multi_task_and_multi_stage_large_language_model_approac/">    <span class="related-paper-title">Relevance Matters: A Multi-Task and Multi-Stage Large Language Model Approach for E-commerce Query Rewriting</span>    <span class="related-paper-meta">ICDE · 2026 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/agent_conversational_rec/starec_an_efficient_agent_framework_for_recommender_systems_via_autonomous_/">    <span class="related-paper-title">STARec: An Efficient Agent Framework for Recommender Systems via Autonomous Deliberate Reasoning</span>    <span class="related-paper-meta">CIKM · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -133,3 +133,17 @@ $\boldsymbol{c}^1_u=\text{MeanPool}\big(\text{Concat}(\text{Attn}^1_1,\dots,\tex
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （六个真实下游任务 + 线上 A/B + 三组消融 + 效率对比相当完整，扣分在于无公开数据集、无全库排序协议、阈值敏感性缺失）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （符号体系对 $\boldsymbol{u}^k$与$u$的区分交代清楚，公式简洁；但$T_4$跳过逻辑与$\mathcal{L}_{INTRA}$中$N(T)$ 的表述略绕）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （线上 289 万用户 A/B 验证 +1.28% AUC，推理仅增 $d_u$ 维特征、开销可忽略，是少见的端到端可落地预训练方案；可惜未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/cross_domain_multi_scenario/horizon_a_benchmark_for_in_the_wild_user_behaviour_modeling/">    <span class="related-paper-title">HORIZON: A Benchmark for In-the-wild User Behaviour Modeling</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/towards_generalizable_and_efficient_large_scale_generative_recommenders/">    <span class="related-paper-title">Towards Generalizable and Efficient Large-Scale Generative Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/sprint_scalable_and_predictive_intent_refinement_for_llm_enhanced_session_b/">    <span class="related-paper-title">SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/sequential_rec/panther_generative_pretraining_beyond_language_for_sequential_user_behavior/">    <span class="related-paper-title">PANTHER: Generative Pretraining Beyond Language for Sequential User Behavior Modeling</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/cross_domain_multi_scenario/learning_universal_user_representations_leveraging_cross_domain_user_intent/">    <span class="related-paper-title">Learning Universal User Representations Leveraging Cross-domain User Intent at Snapchat</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

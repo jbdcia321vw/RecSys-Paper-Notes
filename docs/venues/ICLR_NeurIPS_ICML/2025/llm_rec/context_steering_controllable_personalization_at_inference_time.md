@@ -133,3 +133,16 @@ $\lambda=-1$退化为无上下文、$\lambda=0$等价于普通拼接、$\lambda>
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （影响力函数与反演公式推导清晰，$\lambda$ 的边界语义与数值稳定区间交代明确）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、零训练即插即用，代价仅为 2 倍前向，适合作为 LLM 推荐系统的轻量个性化层）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/proex_a_unified_framework_leveraging_large_language_model_with_profile_extr/">    <span class="related-paper-title">ProEx: A Unified Framework Leveraging Large Language Model with Profile Extrapolation for Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/uqabench_evaluating_user_embedding_for_prompting_llms_in_personalized_quest/">    <span class="related-paper-title">UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/mgfrec_towards_reinforced_reasoning_recommendation_with_multiple_groundings/">    <span class="related-paper-title">MGFRec: Towards Reinforced Reasoning Recommendation with Multiple Groundings and Feedback</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/unleashing_the_potential_of_sparse_attention_on_long_term_behaviors_for_ctr/">    <span class="related-paper-title">Unleashing the Potential of Sparse Attention on Long-term Behaviors for CTR Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/llm_rec/contextualizing_recommendation_explanations_with_llms_a_user_study/">    <span class="related-paper-title">Contextualizing Recommendation Explanations with LLMs: A User Study</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

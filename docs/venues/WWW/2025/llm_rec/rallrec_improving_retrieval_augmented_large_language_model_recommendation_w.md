@@ -128,3 +128,16 @@ $$\mathcal{L}_{ssl}=-\mathbb{E}\left[\log\frac{f(\boldsymbol{e}_i^{\text{text}},
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （5 页短文结构紧凑，公式与符号定义清晰，重排器设计交代明确）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，嵌入可离线复用、重排零训练成本，但 LLM 详述生成的离线开销需评估）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/rethinking_llm_based_recommendations_a_personalized_query_driven_parallel_i/">    <span class="related-paper-title">Rethinking LLM-Based Recommendations: A Personalized Query-Driven Parallel Integration</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../agent_conversational_rec/collaborative_retrieval_for_large_language_model_based_conversational_recom/">    <span class="related-paper-title">Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/collaborative_filtering/clusterrag_cluster_based_collaborative_filtering_for_personalized_retrieval/">    <span class="related-paper-title">ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/knowledge_graph_retrieval_augmented_generation_for_llm_based_recommendation/">    <span class="related-paper-title">Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

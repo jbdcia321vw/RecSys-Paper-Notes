@@ -127,3 +127,16 @@ $$\mathcal{L}_{ng}=-\sum_{j=1}^{n}\log\sigma\big((g_{i_1}^j-g_{i_2}^j)(\hat{y}_{
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义清晰，优先损失的门控逻辑有示例表辅助，复杂度分析略欠）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、推理仅单次前向，绿色损失可即插即用，但阈值调参成本需工程侧承担）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/cold_start_rec/eating_for_a_sustainable_planet_personalized_sustainable_diet_recommendatio/">    <span class="related-paper-title">Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Cold / MTL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multi_task_reranking/mopi_hfrs_a_multi_objective_personalized_health_aware_food_recommendation_s/">    <span class="related-paper-title">MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation</span>    <span class="related-paper-meta">KDD · 2025 · MTL / Graph</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/recommendation_and_temptation/">    <span class="related-paper-title">Recommendation and Temptation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/social_group_rec/you_don_t_bring_me_flowers_mitigating_unwanted_recommendations_through_conf/">    <span class="related-paper-title">You Don&#x27;t Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control</span>    <span class="related-paper-meta">RecSys · 2025 · Social / Debias</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/identifying_and_upweighting_power_niche_users_to_mitigate_popularity_bias_i/">    <span class="related-paper-title">Identifying and Upweighting Power-Niche Users to Mitigate Popularity Bias in Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+</div>
+<!-- related-papers:end -->

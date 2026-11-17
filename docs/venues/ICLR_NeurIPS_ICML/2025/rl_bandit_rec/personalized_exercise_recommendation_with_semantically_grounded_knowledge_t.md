@@ -125,3 +125,16 @@ $Q(s_t,\tilde{z}^q_{t+1})=\hat{y}^q_{t+1}\cdot y^c_{t+1}(1)+(1-\hat{y}^q_{t+1})\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （MDP 与 MVE 推导清晰，模块划分明确，部分超参与图表数值仅在附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （全流程开源、单步推理开销低、支持新题扩展，但 LLM 标注成本与模拟器偏差需工程化解）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/rerec_reasoning_augmented_llm_based_recommendation_assistant_via_reinforcem/">    <span class="related-paper-title">ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multi_task_reranking/nr4der_neural_re_ranking_for_diversified_exercise_recommendation/">    <span class="related-paper-title">NR4DER: Neural Re-ranking for Diversified Exercise Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MTL / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../llm_rec/think_before_recommendation_autonomous_reasoning_enhanced_recommender/">    <span class="related-paper-title">Think before Recommendation: Autonomous Reasoning-enhanced Recommender</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/rl_bandit_rec/large_language_model_driven_policy_exploration_for_recommender_systems/">    <span class="related-paper-title">Large Language Model driven Policy Exploration for Recommender Systems</span>    <span class="related-paper-meta">WSDM · 2025 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/selfdr_self_distillation_from_reasoning_for_llm_based_recommendation/">    <span class="related-paper-title">SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

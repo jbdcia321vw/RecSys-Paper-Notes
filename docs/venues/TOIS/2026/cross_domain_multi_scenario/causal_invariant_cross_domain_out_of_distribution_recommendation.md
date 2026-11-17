@@ -125,3 +125,17 @@ $$\hat{R}_{\tau+1}=\arg\max_{\hat{R}\subset R^t} H_{\hat{R}}(Y^t\mid \mathcal{Z}
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三种 OOD 划分 + IID 对照 + 消融 + 噪声/提示扰动鲁棒性较完整，但缺非重叠与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （DAG 约束与后门调整公式推导清晰，含逐模块复杂度分析，符号表完备）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （在线推理开销可控，但 LLM 离线标注成本高且未开源，复现门槛偏高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/cross_domain_multi_scenario/causal_deconfounding_via_confounder_disentanglement_for_dual_target_cross_d/">    <span class="related-paper-title">Causal Deconfounding via Confounder Disentanglement for Dual-Target Cross-Domain Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../2025/cross_domain_multi_scenario/coherence_guided_preference_disentanglement_for_cross_domain_recommendation/">    <span class="related-paper-title">Coherence-guided Preference Disentanglement for Cross-domain Recommendations</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / SSL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/poi_spatiotemporal_rec/point_of_interest_recommendation_pitfalls_and_viable_solutions/">    <span class="related-paper-title">Point of Interest Recommendation: Pitfalls and Viable Solutions</span>    <span class="related-paper-meta">ACM TORS · 2026 · POI / Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/debias_fairness_industrial/recommendation_unlearning_via_influence_function/">    <span class="related-paper-title">Recommendation Unlearning via Influence Function</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/generative_rec/diffusion_recommender_models_and_the_illusion_of_progress_a_concerning_stud/">    <span class="related-paper-title">Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch</span>    <span class="related-paper-meta">ACM TORS · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+</div>
+<!-- related-papers:end -->

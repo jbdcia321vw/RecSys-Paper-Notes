@@ -125,3 +125,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （Full-Ranking + 五指标 + 四类 11 个基线 + $t$ 检验齐全，消融覆盖构图/滤波/对比三模块，但随机划分与仅两数据集略欠）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四图构造与滤波公式定义清晰，复杂度分析完整，附录给出 Jacobi 递推；但 Eq.16 与 Eq.13 的符号一致性、$\mathbf{C}$ 每 epoch 重建的梯度处理细节略含糊）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （基于 RecBole-GNN 实现、ZhihuRec 公开可复现，四图结构贴合真实问答平台；但动态构图开销与模型代码未开源限制了直接落地）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/graph_rec/graph_cross_correlated_network_for_recommendation/">    <span class="related-paper-title">Graph Cross-Correlated Network for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Graph / CTR</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/collaborative_filtering/a_node_aware_dynamic_quantization_approach_for_graph_collaborative_filterin/">    <span class="related-paper-title">A Node-Aware Dynamic Quantization Approach for Graph Collaborative Filtering</span>    <span class="related-paper-meta">CIKM · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/collaborative_filtering/memory_is_no_longer_a_bottleneck_memory_efficient_graph_filtering_for_scala/">    <span class="related-paper-title">Memory Is No Longer a Bottleneck: Memory-Efficient Graph Filtering for Scalable Collaborative Filtering</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/reclm_recommendation_instruction_tuning/">    <span class="related-paper-title">RecLM: Recommendation Instruction Tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/enhancing_collaborative_semantics_of_language_model_driven_recommendations_/">    <span class="related-paper-title">Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

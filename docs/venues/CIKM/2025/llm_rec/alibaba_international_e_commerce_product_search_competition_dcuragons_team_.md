@@ -128,3 +128,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、流程清晰，但数据集统计与超参细节披露不足）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码已开源，LoRA + 单次前向打分可直接部署为召回相关性过滤器，竞赛第一背书）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../cold_start_rec/csrm_llm_embracing_multilingual_llms_for_cold_start_relevance_matching_in_e/">    <span class="related-paper-title">CSRM-LLM: Embracing Multilingual LLMs for Cold-Start Relevance Matching in Emerging E-commerce Markets</span>    <span class="related-paper-meta">CIKM · 2025 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/generative_product_recommendations_for_implicit_superlative_queries/">    <span class="related-paper-title">Generative Product Recommendations for Implicit Superlative Queries</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/llm_rec/relevance_matters_a_multi_task_and_multi_stage_large_language_model_approac/">    <span class="related-paper-title">Relevance Matters: A Multi-Task and Multi-Stage Large Language Model Approach for E-commerce Query Rewriting</span>    <span class="related-paper-meta">ICDE · 2026 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/agent_conversational_rec/pscon_product_search_through_conversations/">    <span class="related-paper-title">PSCon: Product Search Through Conversations</span>    <span class="related-paper-meta">SIGIR · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/collaborative_filtering/scaling_multilingual_semantic_search_in_uber_eats_delivery/">    <span class="related-paper-title">Scaling Multilingual Semantic Search in Uber Eats Delivery</span>    <span class="related-paper-meta">KDD · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -128,3 +128,16 @@ $$\mathcal{L}_{d}(x)=\mathrm{CE}\big(\mathcal{R}(x,\boldsymbol{\pi})\,\|\,\mathb
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （策略五步流程清晰，OD@20 与失真损失定义简洁；但部分符号如 $M^{c,o}_{\boldsymbol{\pi}}$与$K$ 的下标体系略密，统计模型设定细节偏简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码已并入 MultiTRON 开源，OD@20、乘积指标与失真损失均可直接复用；单模型分流显著降低实验成本，对工业实践者价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/zorro_a_zero_weight_personalized_recommender_system_for_scalable_news_recom/">    <span class="related-paper-title">ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / Cold</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/llm_as_a_judge_for_reliable_and_explainable_offline_evaluation_in_top_k_rec/">    <span class="related-paper-title">LLM-as-a-Judge for Reliable and Explainable Offline Evaluation in Top-K Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/orbit_open_recommendation_benchmark_for_reproducible_research_with_hidden_t/">    <span class="related-paper-title">ORBIT: Open Recommendation Benchmark for Reproducible Research with Hidden Tests</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/on_the_convergent_validity_of_offline_evaluation_designs_for_recommender_sy/">    <span class="related-paper-title">On the Convergent Validity of Offline Evaluation Designs for Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/impression_share_prediction_an_offline_evaluation_task_for_ranking_systems/">    <span class="related-paper-title">Impression Share Prediction: An Offline Evaluation Task for Ranking Systems</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

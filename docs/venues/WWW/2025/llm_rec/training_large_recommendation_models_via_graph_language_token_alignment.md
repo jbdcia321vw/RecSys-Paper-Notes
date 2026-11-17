@@ -134,3 +134,16 @@ $$\mathcal{L}_{CE}=-\frac{1}{L}\sum_{t=1}^{L}\log\frac{\exp(\mathbf{Z}_i[t,y^+_{
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三阶段框架与公式表述清晰、图示直观，5 页短文信息密度高，但部分符号与指令模板细节略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （仅微调投影器 + 量化 LLM 的思路利于落地，但未开源、百万级物品的 logits 开销与推理时延缺乏实测支撑）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/llm_rec/token_level_collaborative_alignment_for_llm_based_generative_recommendation/">    <span class="related-paper-title">Token-level Collaborative Alignment for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/enhancing_collaborative_semantics_of_language_model_driven_recommendations_/">    <span class="related-paper-title">Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/generative_recommender_with_end_to_end_learnable_item_tokenization/">    <span class="related-paper-title">Generative Recommender with End-to-End Learnable Item Tokenization</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/corona_a_coarse_to_fine_framework_for_graph_based_recommendation_with_large/">    <span class="related-paper-title">CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../graph_rec/graph_sequential_alignment_and_uniformity_toward_enhanced_recommendation_sy/">    <span class="related-paper-title">Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Graph / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

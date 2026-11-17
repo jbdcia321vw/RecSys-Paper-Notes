@@ -115,3 +115,16 @@ $$\mathcal{C}^{*}=\arg\max_{\{q_k,\dots,q_T\}}\;|\{q_k,\dots,q_T\}|\quad \text{s
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （管线叙述清晰、示例具体，但形式化程度低，阈值选择与相似度模型细节交代不足）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （完整落地于 eBay 生产 SRP，架构与提示词设计可直接复用，唯缺开源代码与数据）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/think_to_personalize_unifying_reasoning_and_retrieval_for_user_centric_pers/">    <span class="related-paper-title">Think-to-Personalize: Unifying Reasoning and Retrieval for User-Centric Personalized Dense Retrieval</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/eager_enrich_and_align_generative_query_recommendation_from_clicked_items_i/">    <span class="related-paper-title">EAGER: Enrich-and-Align Generative Query Recommendation from Clicked Items in E-commerce Search</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/improving_item_discoverability_in_e_commerce_search_via_related_intent_gene/">    <span class="related-paper-title">Improving Item Discoverability in e-Commerce Search via Related Intent Generation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/generative_rec/towards_context_aware_reasoning_enhanced_generative_searching_in_e_commerce/">    <span class="related-paper-title">Towards Context-aware Reasoning-enhanced Generative Searching in E-commerce</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/llm_rec/relevance_matters_a_multi_task_and_multi_stage_large_language_model_approac/">    <span class="related-paper-title">Relevance Matters: A Multi-Task and Multi-Stage Large Language Model Approach for E-commerce Query Rewriting</span>    <span class="related-paper-meta">ICDE · 2026 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

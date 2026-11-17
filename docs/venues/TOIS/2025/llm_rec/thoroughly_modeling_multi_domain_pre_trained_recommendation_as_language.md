@@ -139,3 +139,16 @@ $$PP(c_i)=P(w_1,\dots,w_N)^{-\frac{1}{N}}$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （指标定义与属性选择表清晰可操作，公式简洁；但部分指标仅定性描述，缺少形式化定义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （明确指向重排部署且小模型可用，但生成式打分开销大、代码未开源，落地需自建推理加速）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../how_can_recommender_systems_benefit_from_large_language_models_a_survey/">    <span class="related-paper-title">How Can Recommender Systems Benefit from Large Language Models: A Survey</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/llm_rec/a_bi_step_grounding_paradigm_for_large_language_models_in_recommendation_sy/">    <span class="related-paper-title">A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../one_model_for_all_large_language_models_are_domain_agnostic_recommendation_/">    <span class="related-paper-title">One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Cross</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/the_efficiency_vs_accuracy_trade_off_optimizing_rag_enhanced_llm_recommende/">    <span class="related-paper-title">The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/sequential_rec/a_survey_on_intent_aware_recommender_systems/">    <span class="related-paper-title">A Survey on Intent-aware Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · Seq / CRS</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

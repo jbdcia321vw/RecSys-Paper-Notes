@@ -131,3 +131,17 @@ $$s_{CE}(t_a,t_b)=\text{freq}(t_a,t_b)\cdot\sqrt{P(t_b|t_a)P(t_a|t_b)}\cdot\sqrt
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/learning_decomposed_contextual_token_representations_from_pretrained_and_co/">    <span class="related-paper-title">Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/cold_start_rec/genrecedit_adapting_model_editing_for_generative_recommendation_with_cold_s/">    <span class="related-paper-title">GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items</span>    <span class="related-paper-meta">SIGIR · 2026 · Cold / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/generative_rec/recgpt_a_foundation_model_for_sequential_recommendation/">    <span class="related-paper-title">RecGPT: A Foundation Model for Sequential Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/order_agnostic_identifier_for_large_language_model_based_generative_recomme/">    <span class="related-paper-title">Order-agnostic Identifier for Large Language Model-based Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/empowering_cross_domain_sequential_recommendation_with_hybrid_tokenization_/">    <span class="related-paper-title">Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cross</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+</div>
+<!-- related-papers:end -->

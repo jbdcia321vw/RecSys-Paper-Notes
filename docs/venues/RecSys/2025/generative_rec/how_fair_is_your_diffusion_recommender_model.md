@@ -124,3 +124,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题定义清晰、指标操作化明确、Kiviat 可视化直观；受短文篇幅限制公式从简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、基于 RecBole 易复现；"聚类粒度调公平"是低改造成本的工程抓手，但线上 A/B 与延迟评估缺失）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/adaptive_autoguidance_for_item_side_fairness_in_diffusion_recommender_syste/">    <span class="related-paper-title">Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/improving_recommendation_fairness_via_graph_structure_and_representation_au/">    <span class="related-paper-title">Improving Recommendation Fairness via Graph Structure and Representation Augmentation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/fairdgcl_fairness_aware_recommendation_with_dynamic_graph_contrastive_learn/">    <span class="related-paper-title">FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / SSL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/towards_fair_large_language_model_based_recommender_systems_without_costly_/">    <span class="related-paper-title">Towards Fair Large Language Model-based Recommender Systems without Costly Retraining</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../debias_fairness_industrial/opening_the_black_box_interpretable_remedies_for_popularity_bias_in_recomme/">    <span class="related-paper-title">Opening the Black Box: Interpretable Remedies for Popularity Bias in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -146,3 +146,17 @@ Fashion 数据集，HR@10 / NDCG@10：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 × 三骨干 × Full-Ranking + 显著性检验 + 长尾分桶 + 兼容性双面板，覆盖充分；但分组敏感性仅在单组合上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两级分解与分组公式定义干净，符号一致；但缺少 HSU 阶段数与序列长度的复杂度分析，融合算子 $\phi$ 的具体选择未在正文交代）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （插件式设计与增量更新利于集成，但每 stage 一次 LLM 调用的离线成本与未开源代码削弱了直接落地与复现的可行性）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/pre_train_align_and_disentangle_empowering_sequential_recommendation_with_l/">    <span class="related-paper-title">Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/cross_domain_multi_scenario/bridge_the_domains_large_language_models_enhanced_cross_domain_sequential_r/">    <span class="related-paper-title">Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/collm_integrating_collaborative_embeddings_into_large_language_models_for_r/">    <span class="related-paper-title">CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/fusion_and_alignment_enhancement_with_large_language_models_for_tail_item_s/">    <span class="related-paper-title">Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

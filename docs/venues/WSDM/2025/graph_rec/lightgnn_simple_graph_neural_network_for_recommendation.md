@@ -130,3 +130,16 @@ Recall@20，Gowalla 与 Yelp 在不同保留率（嵌入/边）下：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义清晰、框架图完整，但正文存在少量排版与符号不一致瑕疵）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源，80% 边/90% 嵌入裁剪下 FLOPs 降 90%、存储降 70%，对大规模召回部署价值直接）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/graph_rec/graph_sequential_alignment_and_uniformity_toward_enhanced_recommendation_sy/">    <span class="related-paper-title">Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Graph / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/graph_rec/lightkg_efficient_knowledge_aware_recommendations_with_simplified_gnn_archi/">    <span class="related-paper-title">LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture</span>    <span class="related-paper-meta">KDD · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/pre_training_for_recommendation_unlearning/">    <span class="related-paper-title">Pre-training for Recommendation Unlearning</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/social_group_rec/pulse_socially_aware_user_representation_modeling_toward_parameter_efficien/">    <span class="related-paper-title">PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/self_supervised_denoising/nlgcl_naturally_existing_neighbor_layers_graph_contrastive_learning_for_rec/">    <span class="related-paper-title">NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

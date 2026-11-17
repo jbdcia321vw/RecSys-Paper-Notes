@@ -137,3 +137,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （任务形式化、三模块拆解与损失定义清晰，公式简洁无冗余，唯摘要算子与融合细节的推导略浅）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （DistilBERT 66M 版本以极小精度损失换取部署友好性，单次前向即可在线触发，工程价值明确；但数据与代码均未开源，复现受限）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/multimodal_rec/intentlens_grounding_underspecified_multimodal_queries_for_recommendation_v/">    <span class="related-paper-title">IntentLens: Grounding Underspecified Multimodal Queries for Recommendation via Tool-Augmented Reasoning</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../vl_clip_enhancing_multimodal_recommendations_via_visual_grounding_and_llm_a/">    <span class="related-paper-title">VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/multimodal_rec/gala_generative_aligned_learning_for_adaptive_multimodal_representation_in_/">    <span class="related-paper-title">GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System</span>    <span class="related-paper-meta">ICDE · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multimodal_rec/native_multimodal_representation_learning_for_click_through_rate_prediction/">    <span class="related-paper-title">Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios</span>    <span class="related-paper-meta">CIKM · 2026 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../agent_conversational_rec/failure_prediction_in_conversational_recommendation_systems/">    <span class="related-paper-title">Failure Prediction in Conversational Recommendation Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CRS / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

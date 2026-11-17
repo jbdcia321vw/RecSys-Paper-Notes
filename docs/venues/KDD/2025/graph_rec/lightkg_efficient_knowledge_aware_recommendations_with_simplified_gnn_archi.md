@@ -134,3 +134,16 @@ KG 利用实验（Tab.7）：LightKG 加 KG 后 Last.FM Recall 从 0.2725 升至
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、复杂度分析与 LightGCN 等价性推导清晰，动机实验链条完整；标量编码的语义上限在正文中坦诚讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （开源代码 + RecBole 复现 + 训练时间省 84.3%，线性聚合易于分布式实现，单侧对比层可进一步降本，落地价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/pre_training_for_recommendation_unlearning/">    <span class="related-paper-title">Pre-training for Recommendation Unlearning</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/alphafree_recommendation_free_from_users_ids_and_gnns/">    <span class="related-paper-title">AlphaFree: Recommendation Free from Users, IDs, and GNNs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/lightgnn_simple_graph_neural_network_for_recommendation/">    <span class="related-paper-title">LightGNN: Simple Graph Neural Network for Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/reclm_recommendation_instruction_tuning/">    <span class="related-paper-title">RecLM: Recommendation Instruction Tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/corona_a_coarse_to_fine_framework_for_graph_based_recommendation_with_large/">    <span class="related-paper-title">CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

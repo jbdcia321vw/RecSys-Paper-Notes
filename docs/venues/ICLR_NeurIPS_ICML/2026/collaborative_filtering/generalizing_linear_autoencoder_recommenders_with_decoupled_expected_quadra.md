@@ -136,3 +136,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （9 个数据集覆盖强/弱两种泛化划分、Full-Ranking 协议规范、5 次随机切分配对 $t$ 检验补齐显著性，但缺少大规模工业数据与线上 A/B）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （DEQL 定义—特化—快速算法的推导链条完整，$G^{(i)}$分段元素、Miller 两步更新的公式均显式给出，复杂度分析含$O(n^{2.376})$ 下界讨论，附录证明齐全）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、闭式解无梯度调参、CPU 即可训练且时间远低于 GNN；但 $O(n^3)$逆运算与$O(n^2)$ 内存使其在百万物品级需低秩/分块改造，落地需额外工程）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/does_weighting_improve_matrix_factorization_for_recommender_systems/">    <span class="related-paper-title">Does Weighting Improve Matrix Factorization for Recommender Systems?</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../self_supervised_denoising/can_recommender_systems_teach_themselves_a_recursive_self_improving_framewo/">    <span class="related-paper-title">Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../2025/collaborative_filtering/recommendations_with_sparse_comparison_data_provably_fast_convergence_for_n/">    <span class="related-paper-title">Recommendations with Sparse Comparison Data: Provably Fast Convergence for Nonconvex Matrix Factorization</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/reclm_recommendation_instruction_tuning/">    <span class="related-paper-title">RecLM: Recommendation Instruction Tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/generative_rec/asymmetric_diffusion_recommendation_model/">    <span class="related-paper-title">Asymmetric Diffusion Recommendation Model</span>    <span class="related-paper-meta">CIKM · 2025 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

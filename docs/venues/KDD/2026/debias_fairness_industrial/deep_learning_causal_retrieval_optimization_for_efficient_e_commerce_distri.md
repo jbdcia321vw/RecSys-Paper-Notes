@@ -133,3 +133,17 @@ SLF 头的决策对齐指标（相对基线变化，%）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （随机 Holdout、正反向双指标、离线回放与线上逐阈值对齐验证，工业论文中罕见的完整闭环）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （损失与回放算法表述清晰，但部分符号（如 $\omega_i$与$\omega_i^{DR}$）复用略密，缺少复杂度与方差的理论分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （100k QPS 并行部署零延迟回退、触发率降 85% 且节省近 50 万美元，配方对中小平台也给出了数据效率替代方案）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/generative_rec/tbgrecall_a_generative_retrieval_model_for_e_commerce_recommendation_scenar/">    <span class="related-paper-title">TBGRecall: A Generative Retrieval Model for E-commerce Recommendation Scenarios</span>    <span class="related-paper-meta">CIKM · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/transact_v2_lifelong_user_action_sequence_modeling_on_pinterest_recommendat/">    <span class="related-paper-title">TransAct V2: Lifelong User Action Sequence Modeling on Pinterest Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/counterfactual_multi_task_learning_for_delayed_conversion_modeling_in_e_com/">    <span class="related-paper-title">Counterfactual Multi-task Learning for Delayed Conversion Modeling in E-commerce Sales Pre-Promotion</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/case_cadence_aware_set_encoding_for_large_scale_next_basket_repurchase_reco/">    <span class="related-paper-title">CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/ctr_feature_interaction/on_predicting_post_click_conversion_rate_via_counterfactual_inference/">    <span class="related-paper-title">On Predicting Post-Click Conversion Rate via Counterfactual Inference</span>    <span class="related-paper-meta">ICDM · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

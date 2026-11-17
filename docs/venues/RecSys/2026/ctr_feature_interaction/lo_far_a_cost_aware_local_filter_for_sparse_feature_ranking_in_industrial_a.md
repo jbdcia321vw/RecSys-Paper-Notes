@@ -119,3 +119,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （端到端重训 + ΔNE 的评测协议贴合工业真实目标，但仅单数据集、无显著性检验、主结果缺数值表）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （成本分解、复杂度与适用范围边界表述清晰坦诚，公式简洁无冗余，但理论保证仅停留在复杂度层面）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （CPU-only、逐特征并行、易缓存重试监控，2 CPU 小时 vs 数 GPU-天，落地价值极高；扣分项为未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/ctr_feature_interaction/rankmixer_scaling_up_ranking_models_in_industrial_recommenders/">    <span class="related-paper-title">RankMixer: Scaling Up Ranking Models in Industrial Recommenders</span>    <span class="related-paper-meta">CIKM · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/silvertorch_a_unified_model_based_system_to_democratize_large_scale_recomme/">    <span class="related-paper-title">SilverTorch: A Unified Model-based System to Democratize Large-Scale Recommendation on GPUs</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/fairfs_addressing_deep_feature_selection_biases_for_recommender_system/">    <span class="related-paper-title">FairFS: Addressing Deep Feature Selection Biases for Recommender System</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/beyond_dense_connectivity_explicit_sparsity_for_scalable_recommendation/">    <span class="related-paper-title">Beyond Dense Connectivity: Explicit Sparsity for Scalable Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multi_task_reranking/sort_a_systematically_optimized_ranking_transformer_for_industrial_scale_re/">    <span class="related-paper-title">SORT: A Systematically Optimized Ranking Transformer for Industrial-scale Recommenders</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

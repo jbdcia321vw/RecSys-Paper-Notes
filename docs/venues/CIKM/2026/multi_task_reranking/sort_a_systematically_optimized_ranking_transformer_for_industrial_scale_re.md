@@ -132,3 +132,17 @@ Base 规模逐项叠加（相对标准 Transformer）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （离线三档规模对齐 + 逐项消融 + 四场景一个月线上 A/B 完整，但缺公开数据集与校准类指标）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （架构与系统优化叙述清晰、图表自洽，但核心公式偏少、复杂度与路由细节略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （全量部署 AliExpress 全用户，GMV +8.65% 且延迟降 62%、吞吐 +589%，落地价值已被线上验证；可惜未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/ctr_feature_interaction/rankmixer_scaling_up_ranking_models_in_industrial_recommenders/">    <span class="related-paper-title">RankMixer: Scaling Up Ranking Models in Industrial Recommenders</span>    <span class="related-paper-meta">CIKM · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/transretrieval_scaling_up_transformer_based_retrieval_for_industrial_recomm/">    <span class="related-paper-title">TransRetrieval: Scaling Up Transformer-Based Retrieval for Industrial Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · CF / Cross</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/onetrans_unified_feature_interaction_and_sequence_modeling_with_one_transfo/">    <span class="related-paper-title">OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/hyformer_revisiting_the_roles_of_sequence_modeling_and_feature_interaction_/">    <span class="related-paper-title">HyFormer: Revisiting the Roles of Sequence Modeling and Feature Interaction in CTR Prediction</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

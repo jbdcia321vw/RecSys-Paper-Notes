@@ -128,3 +128,16 @@ $$\bar{h}_v=\frac{1}{|\mathcal{M}(v)|}\sum_{h_j\in\mathcal{M}(v)}h_j$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式极简清晰、三种聚合策略对比到位，复杂度与空间分析完整，但缺少对表征质量的进一步理论分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （即插即用、10 倍以上提速、30% 记忆即可超基线，落地价值高；扣分在于未开源与记忆更新机制缺失）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/do_recommenders_need_to_think_in_words_latent_reasoning_for_efficient_llm_b/">    <span class="related-paper-title">Do Recommenders Need to Think in Words? Latent Reasoning for Efficient LLM-Based Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/sequential_rec/long_sequence_recommendation_models_need_decoupled_embeddings/">    <span class="related-paper-title">Long-Sequence Recommendation Models Need Decoupled Embeddings</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/earn_efficient_inference_acceleration_for_llm_based_generative_recommendati/">    <span class="related-paper-title">EARN: Efficient Inference Acceleration for LLM-based Generative Recommendation by Register Tokens</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

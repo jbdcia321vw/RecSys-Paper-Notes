@@ -135,3 +135,17 @@ POS-P 越低说明高重要性交互被移除后目标越快掉出榜单，NEG-P
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （3 数据集 × 6 推荐器 × 11 解释器，Optuna 统一调参，但 500 用户采样与 OOM 缺口略损完整性）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三维度协议定义清晰，公式与指标推导完整，表格信息密度高）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （全代码开源，直接给出各解释器推理耗时与可扩展性边界，对线上解释服务选型具直接指导意义）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/agent_conversational_rec/from_counterfactual_edits_to_human_narratives_llm_driven_interpretations_fo/">    <span class="related-paper-title">From Counterfactual Edits to Human Narratives: LLM-Driven Interpretations for Recommender System Explanations</span>    <span class="related-paper-meta">CIKM · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/agent_conversational_rec/the_utility_of_llms_in_recommender_systems_explanation_evaluation/">    <span class="related-paper-title">The Utility of LLMs in Recommender Systems Explanation Evaluation</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/graph_rec/path_based_summary_explanations_for_graph_recommenders_extended_version/">    <span class="related-paper-title">Path-based summary explanations for graph recommenders (extended version)</span>    <span class="related-paper-meta">ICDE · 2025 · Graph / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/fidelity_aware_recommendation_explanations_via_stochastic_path_integration/">    <span class="related-paper-title">Fidelity-Aware Recommendation Explanations via Stochastic Path Integration</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/g_refer_graph_retrieval_augmented_large_language_model_for_explainable_reco/">    <span class="related-paper-title">G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

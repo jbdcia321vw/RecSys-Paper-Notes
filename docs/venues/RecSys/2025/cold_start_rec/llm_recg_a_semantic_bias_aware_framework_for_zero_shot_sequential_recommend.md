@@ -139,3 +139,16 @@ BERT4Rec 在 IS 源域、VG/MI 目标域（原文 Table 5）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题定义、损失推导与 $\beta$自动配比公式清晰，Table 1 的偏置示例极具说服力；$\mathcal{L}_{inter}$ 的交叉熵方向与「最小化」表述略绕）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、模型无关可插拔、在线仅增投影层开销；但 LLM 离线编码成本与 $k$/$\tau$ 调参负担需工程侧额外评估）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/generative_rec/recbase_generative_foundation_model_pretraining_for_zero_shot_recommendatio/">    <span class="related-paper-title">RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.83</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/abxi_invariant_interest_adaptation_for_task_guided_cross_domain_sequential_/">    <span class="related-paper-title">ABXI: Invariant Interest Adaptation for Task-Guided Cross-Domain Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/cross_domain_multi_scenario/llm_edt_large_language_model_enhanced_cross_domain_sequential_recommendatio/">    <span class="related-paper-title">LLM-EDT: Large Language Model Enhanced Cross-domain Sequential Recommendation with Dual-phase Training</span>    <span class="related-paper-meta">SIGIR · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/generative_data_transformation_from_mixed_to_unified_data/">    <span class="related-paper-title">Generative Data Transformation: From Mixed to Unified Data</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

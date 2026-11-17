@@ -135,3 +135,17 @@ $$\mathcal{L}_{Gen} = \sum_{l \in \mathcal{T}_{syn}} w_l \sum_{t=1}^{L} \left[ \
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/multi_task_reranking/gref_a_unified_generative_framework_for_efficient_reranking_via_ordered_mul/">    <span class="related-paper-title">GReF: A Unified Generative Framework for Efficient Reranking via Ordered Multi-token Prediction</span>    <span class="related-paper-meta">CIKM · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multi_task_reranking/nlgr_utilizing_neighbor_lists_for_generative_rerank_in_personalized_recomme/">    <span class="related-paper-title">NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../generative_rec/hierarchical_residual_policy_optimization_for_generative_recommendations/">    <span class="related-paper-title">Hierarchical Residual Policy Optimization for Generative Recommendations</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / RL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../generative_rec/breaking_the_likelihood_trap_consistent_generative_recommendation_with_grap/">    <span class="related-paper-title">Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../generative_rec/apao_bridging_the_training_inference_gap_in_generative_recommendation_via_a/">    <span class="related-paper-title">APAO: Bridging the Training-Inference Gap in Generative Recommendation via Adaptive Prefix-Aware Optimization</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

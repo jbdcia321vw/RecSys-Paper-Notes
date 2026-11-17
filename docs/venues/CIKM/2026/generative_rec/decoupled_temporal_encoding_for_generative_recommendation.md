@@ -126,3 +126,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （公开+工业双数据集、完整消融、密度/周期性/长度三维修敏感性分析、三周线上 A/B 与全量上线，唯缺全库排序指标）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式紧凑、符号一致、动机-设计-验证三段闭环清晰，但爆发项定义中 $x_{t_i}$与$\bar{x}_{t_i}$ 记号重复易混淆）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （238 参数 / 0.47 KB / +0.3% 延迟，已全量上线淘宝闪购，代码开源，即插即用价值极高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/temporal_linear_item_item_model_for_sequential_recommendation/">    <span class="related-paper-title">Temporal Linear Item-Item Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/generative_rec/enhancing_time_awareness_in_generative_recommendation/">    <span class="related-paper-title">Enhancing Time Awareness in Generative Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/time_matters_enhancing_sequential_recommendations_with_time_guided_graph_ne/">    <span class="related-paper-title">Time Matters: Enhancing Sequential Recommendations with Time-Guided Graph Neural ODEs</span>    <span class="related-paper-meta">KDD · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/sequential_rec/improving_sequential_recommendations_via_bidirectional_temporal_data_augmen/">    <span class="related-paper-title">Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

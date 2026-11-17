@@ -131,3 +131,17 @@ $$q_i^{(l)}=h_i^{(l)}W_i^Q,\quad k_i^{(l)}=h_i^{(l)}W_i^K,\quad v_i^{(l)}=h_i^{(
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/sequential_rec/climber_toward_efficient_scaling_laws_for_large_recommendation_models/">    <span class="related-paper-title">Climber: Toward Efficient Scaling Laws for Large Recommendation Models</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/mixformer_co_scaling_up_dense_and_sequence_in_industrial_recommenders/">    <span class="related-paper-title">MixFormer: Co-Scaling Up Dense and Sequence in Industrial Recommenders</span>    <span class="related-paper-meta">KDD · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/beyond_dense_connectivity_explicit_sparsity_for_scalable_recommendation/">    <span class="related-paper-title">Beyond Dense Connectivity: Explicit Sparsity for Scalable Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/generative_rec/unlocking_scaling_law_in_industrial_recommendation_systems_with_a_three_ste/">    <span class="related-paper-title">Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model</span>    <span class="related-paper-meta">WSDM · 2026 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/exploring_test_time_scaling_via_prediction_merging_on_large_scale_recommend/">    <span class="related-paper-title">Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

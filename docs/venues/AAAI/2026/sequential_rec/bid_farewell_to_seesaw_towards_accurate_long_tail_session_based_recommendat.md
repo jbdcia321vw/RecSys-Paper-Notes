@@ -132,3 +132,17 @@ HID 在全部 4 个底座 × 3 个数据集上均取得 HR/MRR 与 tCov 双项�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （4 底座 × 4 竞品 × 3 数据集的全矩阵实验扎实，Full-Ranking 与 t 检验规范，但缺 batch size 与属性缺失比例的敏感性分析）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （约束推导链条完整、附录证明清晰，公式 11–13 编号与正文略有错位，属排版瑕疵）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （即插即用、意图离线预存、推理零额外开销，代码已开源，工程落地门槛极低）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/sprint_scalable_and_predictive_intent_refinement_for_llm_enhanced_session_b/">    <span class="related-paper-title">SPRINT: Scalable and Predictive Intent Refinement for LLM-Enhanced Session-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multi_task_reranking/beyond_item_dissimilarities_diversifying_by_intent_in_recommender_systems/">    <span class="related-paper-title">Beyond Item Dissimilarities: Diversifying by Intent in Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · MTL / RL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/intent_representation_learning_with_large_language_model_for_recommendation/">    <span class="related-paper-title">Intent Representation Learning with Large Language Model for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/diaurec_dual_intent_space_representation_optimization_for_recommendation/">    <span class="related-paper-title">DIAURec: Dual-Intent Space Representation Optimization for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/crown_a_novel_approach_to_comprehending_users_preferences_for_accurate_pers/">    <span class="related-paper-title">CROWN: A Novel Approach to Comprehending Users&#x27; Preferences for Accurate Personalized News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

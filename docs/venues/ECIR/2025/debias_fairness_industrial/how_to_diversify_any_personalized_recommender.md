@@ -147,3 +147,16 @@ GoodBook 图书（节选）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （算法伪代码与流程交代清晰，公式简洁；但校准指标定义与散度方向的对应关系需读者自行推断）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、模型无关、推理零开销，适合作为多样性 baseline；但 KNN 插补的离线成本与用户同意机制是落地前提）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/multi_task_reranking/beyond_item_dissimilarities_diversifying_by_intent_in_recommender_systems/">    <span class="related-paper-title">Beyond Item Dissimilarities: Diversifying by Intent in Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · MTL / RL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/llm_rec/dlcrec_a_novel_approach_for_managing_diversity_in_llm_based_recommender_sys/">    <span class="related-paper-title">DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems</span>    <span class="related-paper-meta">WSDM · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/tree_of_preferences_for_diversified_recommendation/">    <span class="related-paper-title">Tree of Preferences for Diversified Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/does_weighting_improve_matrix_factorization_for_recommender_systems/">    <span class="related-paper-title">Does Weighting Improve Matrix Factorization for Recommender Systems?</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/reformulating_sequential_recommendation_learning_dynamic_user_interest_with/">    <span class="related-paper-title">Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

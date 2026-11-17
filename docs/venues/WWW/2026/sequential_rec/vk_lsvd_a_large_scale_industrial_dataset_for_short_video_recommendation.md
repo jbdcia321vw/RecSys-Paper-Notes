@@ -121,3 +121,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （GTS 与 Random 双协议对照、iALS 相似度验证较扎实，但基线过简、缺序列 SOTA 锚点与竞赛结果）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Schema、统计表与伦理说明清晰完整，无复杂公式故无符号歧义，但基线评估细节略含糊）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （407 亿真实交互 + Apache 2.0 + 子集脚本 + 活跃竞赛，是短视频序列推荐与冷启动研究的高价值公共基础设施）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/a_content_driven_micro_video_recommendation_dataset_at_scale/">    <span class="related-paper-title">A Content-Driven Micro-Video Recommendation Dataset at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/short_video_segment_level_user_dynamic_interests_modeling_in_personalized_r/">    <span class="related-paper-title">Short Video Segment-level User Dynamic Interests Modeling in Personalized Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/sequential_rec/sequenceo1_end_to_end_ultra_long_100k_sequence_modeling_in_recommendation_w/">    <span class="related-paper-title">SequenceO1: End-to-End Ultra-Long (100K) Sequence Modeling in Recommendation with Low-Rank Caching</span>    <span class="related-paper-meta">RecSys · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/multimodal_rec/binge_watch_reproducible_multimodal_benchmarks_datasets_for_large_scale_mov/">    <span class="related-paper-title">Binge Watch: Reproducible Multimodal Benchmark Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M</span>    <span class="related-paper-meta">RecSys · 2026 · MM</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/beyond_item_ids_scaling_short_form_video_recommendation_via_semantic_native/">    <span class="related-paper-title">Beyond Item IDs: Scaling Short-Form-Video Recommendation via Semantic-Native Long Sequence Modeling</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

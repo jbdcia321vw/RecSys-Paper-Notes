@@ -143,3 +143,17 @@ $$\mathcal{L}_{\text{align}}=-\frac{1}{|\mathcal{S}|}\sum_{i\in\mathcal{S}}\cos\
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （四域全库排序、配对 t 检验、分词器替换与对齐开关双消融、冷启动与超参分析齐备；缺线上验证与更大规模碰撞压力测试）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两条设计原则贯穿全文、公式简洁且推理复杂度推导清晰；对 SimHash 局部敏感性的理论刻画偏直觉，缺形式化误差界）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （分词零训练、CPU 亚秒级、推理 $O(mMd+Nm)$ 且代码开源，是少数"降复杂度还涨点"的方案，工程迁移门槛极低）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/generative_rec/generating_long_semantic_ids_in_parallel_for_recommendation/">    <span class="related-paper-title">Generating Long Semantic IDs in Parallel for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/semantic_ids_for_joint_generative_search_and_recommendation/">    <span class="related-paper-title">Semantic IDs for Joint Generative Search and Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/generative_rec/das_dual_aligned_semantic_ids_empowered_industrial_recommender_system/">    <span class="related-paper-title">DAS: Dual-Aligned Semantic IDs Empowered Industrial Recommender System</span>    <span class="related-paper-meta">CIKM · 2025 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/empowering_cross_domain_sequential_recommendation_with_hybrid_tokenization_/">    <span class="related-paper-title">Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cross</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/generative_rec/controllable_generative_recommendation_via_guided_token_refinement/">    <span class="related-paper-title">Controllable Generative Recommendation via Guided Token Refinement</span>    <span class="related-paper-meta">ICDM · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

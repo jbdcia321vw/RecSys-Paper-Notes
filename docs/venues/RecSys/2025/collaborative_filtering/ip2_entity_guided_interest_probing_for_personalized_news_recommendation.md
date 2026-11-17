@@ -128,3 +128,16 @@ $$\mathcal{L}_i=\alpha\mathcal{L}^{-}_i+\beta\mathcal{L}^{h}_i+\delta\mathcal{L}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （行为动机与公式推导清晰，SEE 与对比损失定义完整，复杂度分析略缺）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （推理仅内积无额外开销、不依赖 KG 易部署，但依赖实体标注质量与预训练算力）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/crown_a_novel_approach_to_comprehending_users_preferences_for_accurate_pers/">    <span class="related-paper-title">CROWN: A Novel Approach to Comprehending Users&#x27; Preferences for Accurate Personalized News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/enhancing_news_recommendation_with_hierarchical_llm_prompting/">    <span class="related-paper-title">Enhancing News Recommendation with Hierarchical LLM Prompting</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/agent_conversational_rec/topic_centric_explanations_for_news_recommendation/">    <span class="related-paper-title">Topic-Centric Explanations for News Recommendation</span>    <span class="related-paper-meta">ACM TORS · 2025 · CRS / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/agent_conversational_rec/reindex_then_adapt_improving_large_language_models_for_conversational_recom/">    <span class="related-paper-title">Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · CRS / GenRec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/intent_driven_semantic_id_generation_for_grounded_conversational_news_recom/">    <span class="related-paper-title">Intent-Driven Semantic ID Generation for Grounded Conversational News Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / GenRec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

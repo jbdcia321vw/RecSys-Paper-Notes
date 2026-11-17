@@ -139,3 +139,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四模块结构叙述清楚、图示完整，但全文几乎无形式化公式，评分机制仅文字描述，理论严谨度偏弱）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在华为 Celia 餐饮助手真实部署并与人工对齐，小底座可跑，落地价值明确；但代码未开源，复现需自行重建 prompt 与工具链）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../a_llm_based_controllable_scalable_human_involved_user_simulator_framework_f/">    <span class="related-paper-title">A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.83</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/task_aware_automated_user_profile_generation_for_recommendation_simulation_/">    <span class="related-paper-title">Task-Aware Automated User Profile Generation for Recommendation Simulation Using Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/agent_conversational_rec/interplay_training_independent_simulators_for_reference_free_conversational/">    <span class="related-paper-title">Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../2026/agent_conversational_rec/recoworld_building_simulated_environments_for_agentic_recommender_systems/">    <span class="related-paper-title">RecoWorld: Building Simulated Environments for Agentic Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/agent_conversational_rec/temporal_aware_user_behaviour_simulation_with_large_language_models_for_rec/">    <span class="related-paper-title">Temporal-Aware User Behaviour Simulation with Large Language Models for Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · CRS / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+</div>
+<!-- related-papers:end -->

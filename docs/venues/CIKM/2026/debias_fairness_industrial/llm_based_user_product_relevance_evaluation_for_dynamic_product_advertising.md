@@ -133,3 +133,17 @@ $$w_g=\log(1+|g|)\cdot\beta(e_g),\quad \beta(\text{purchase})=3,\ \beta(\text{ca
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/smart_llm_augmented_hybrid_retrieval_for_dynamic_product_ads/">    <span class="related-paper-title">SMART: LLM-Augmented Hybrid Retrieval for Dynamic Product Ads</span>    <span class="related-paper-meta">RecSys · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/ai_guided_accelerator_for_search_experience/">    <span class="related-paper-title">AI Guided Accelerator For Search Experience</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/improving_item_discoverability_in_e_commerce_search_via_related_intent_gene/">    <span class="related-paper-title">Improving Item Discoverability in e-Commerce Search via Related Intent Generation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/llm_rec/relevance_matters_a_multi_task_and_multi_stage_large_language_model_approac/">    <span class="related-paper-title">Relevance Matters: A Multi-Task and Multi-Stage Large Language Model Approach for E-commerce Query Rewriting</span>    <span class="related-paper-meta">ICDE · 2026 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/maps_motivation_aware_personalized_search_via_llm_driven_consultation_align/">    <span class="related-paper-title">MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

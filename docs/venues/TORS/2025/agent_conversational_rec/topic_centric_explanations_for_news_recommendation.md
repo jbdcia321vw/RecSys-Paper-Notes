@@ -123,3 +123,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义完整、解释生成流程图文清晰，复杂度与预处理讨论到位）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、解释为注意力后处理零额外推理开销，可直接嵌入现有新闻推荐精排链路）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/crown_a_novel_approach_to_comprehending_users_preferences_for_accurate_pers/">    <span class="related-paper-title">CROWN: A Novel Approach to Comprehending Users&#x27; Preferences for Accurate Personalized News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/enhancing_news_recommendation_with_hierarchical_llm_prompting/">    <span class="related-paper-title">Enhancing News Recommendation with Hierarchical LLM Prompting</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/llm_rec/contextualizing_recommendation_explanations_with_llms_a_user_study/">    <span class="related-paper-title">Contextualizing Recommendation Explanations with LLMs: A User Study</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/ip2_entity_guided_interest_probing_for_personalized_news_recommendation/">    <span class="related-paper-title">IP2: Entity-Guided Interest Probing for Personalized News Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR-AP/2026/collaborative_filtering/lsnr_learned_sparse_news_recommendations_with_attentive_user_modeling/">    <span class="related-paper-title">LSNR: Learned Sparse News Recommendations with Attentive User Modeling</span>    <span class="related-paper-meta">SIGIR-AP · 2026 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

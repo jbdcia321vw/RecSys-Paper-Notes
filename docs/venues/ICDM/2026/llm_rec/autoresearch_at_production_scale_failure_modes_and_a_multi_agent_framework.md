@@ -129,3 +129,17 @@ System B 分阶段（15 轮 / 150+ 迭代）：基线 0.348 → Phase 1 智能�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （全库 Full-Ranking、11 日期重复评估、不可变评估器与全尺度复测到位，但消融为观察性、缺受控复现）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （失效模式—根因—补救的映射清晰，公式极少但定义明确；代价依赖原则仅两点经验支撑，未形式化）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （节省约 8 工程师周、5.8× 覆盖扩展极具说服力，五条实践建议可直接照搬；但数据专有、代码未开源，复现需自建行为图）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/recevolve_a_knowledge_driven_autonomous_agent_system_for_recommender_system/">    <span class="related-paper-title">RecEvolve: A Knowledge-Driven Autonomous Agent System for Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/cold_start_rec/soft_curriculum_learning_for_optimizing_fresh_and_generalized_recommendatio/">    <span class="related-paper-title">Soft Curriculum Learning for Optimizing Fresh and Generalized Recommendations</span>    <span class="related-paper-meta">RecSys · 2026 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/self_evolving_recommendation_system_end_to_end_autonomous_model_optimizatio/">    <span class="related-paper-title">Self-Evolving Recommendation System: End-To-End Autonomous Model Optimization With LLM Agents</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/mosaic_a_fleet_of_user_embedding_specialists_for_recommendation_at_meta/">    <span class="related-paper-title">Mosaic: A Fleet of User Embedding Specialists for Recommendation at Meta</span>    <span class="related-paper-meta">RecSys · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/llm_rec/balancing_fine_tuning_and_rag_a_hybrid_strategy_for_dynamic_llm_recommendat/">    <span class="related-paper-title">Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

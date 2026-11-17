@@ -128,3 +128,17 @@ Phase-I 细粒度控制（Sports R@20）：完整 0.1221 > 去正交化 0.1218 >
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （四数据集 Full-Ranking + 硬互补子集 + 细粒度消融 + 图扰动鲁棒性齐全，但硬子集为定向诊断、部分 safeguard 缺显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （间隙约束推导完整、附录详尽，作者对结论边界（不证明语义正确性）表述克制严谨）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （Phase I 为一次性预处理、秒级耗时、推理零 LLM 开销，代码已开源，工程可落地性强）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/beyond_graph_convolution_multimodal_recommendation_with_topology_aware_mlps/">    <span class="related-paper-title">Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/hypercomplex_prompt_aware_multimodal_recommendation/">    <span class="related-paper-title">Hypercomplex Prompt-aware Multimodal Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/cohesion_composite_graph_convolutional_network_with_dual_stage_fusion_for_m/">    <span class="related-paper-title">COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/graph_rec/spark_adaptive_low_rank_knowledge_graph_modeling_in_hybrid_geometric_spaces/">    <span class="related-paper-title">SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Graph / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/multimodal_rec/structural_and_disentangled_adaptation_of_large_vision_language_models_for_/">    <span class="related-paper-title">Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -125,3 +125,17 @@ $$\text{Gate}=\frac{1}{1-p+\epsilon}$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐ （Full-Ranking 协议值得肯定，但仅一个数据集、无显著性检验、无超参敏感性分析，实验规模偏薄）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （框架图与公式基本清晰，但符号复用混乱（$p$ 同时指正样本与概率）、Gate 设计动机推导略跳跃）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （推理开销与 SASRec 同级、易嵌入现有链路，但未开源且奖励工程需业务调参，复现门槛中等）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/cpmr_context_aware_incremental_sequential_recommendation_with_pseudo_multi_/">    <span class="related-paper-title">CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multi_task_reranking/beyond_item_dissimilarities_diversifying_by_intent_in_recommender_systems/">    <span class="related-paper-title">Beyond Item Dissimilarities: Diversifying by Intent in Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · MTL / RL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cross_domain_multi_scenario/global_distribution_aware_scenario_specific_variational_representation_lear/">    <span class="related-paper-title">Global-Distribution Aware Scenario-Specific Variational Representation Learning Framework</span>    <span class="related-paper-meta">CIKM · 2025 · Cross / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2026/rl_bandit_rec/llm_enhanced_reinforcement_learning_for_long_term_user_satisfaction_in_inte/">    <span class="related-paper-title">LLM-Enhanced Reinforcement Learning for Long-Term User Satisfaction in Interactive Recommendation</span>    <span class="related-paper-meta">DASFAA · 2026 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2025/sequential_rec/towards_automatic_sampling_of_user_behaviors_for_sequential_recommender_sys/">    <span class="related-paper-title">Towards Automatic Sampling of User Behaviors for Sequential Recommender Systems</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

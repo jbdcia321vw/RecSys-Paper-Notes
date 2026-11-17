@@ -156,3 +156,16 @@ Ali-Express 四国（MLP backbone，CVR / CTCVR AUC）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （SCM 图、三算法伪代码与 ELBO 推导清晰，且诚实讨论了反事实量不可识别性；但部分符号在正文与附录间略有重复定义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （反事实标签离线生成、在线推理零额外开销，线上 CPA 降 23.36% 直接对应广告成本，代码已开源，工程迁移成本极低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/counterfactual_inference_under_thompson_sampling/">    <span class="related-paper-title">Counterfactual Inference under Thompson Sampling</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/ctr_feature_interaction/can_large_language_models_identify_meaningful_touchpoints_in_conversion_att/">    <span class="related-paper-title">Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?</span>    <span class="related-paper-meta">CIKM · 2026 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/ctr_feature_interaction/see_beyond_a_single_view_multi_attribution_learning_leads_to_better_convers/">    <span class="related-paper-title">See Beyond a Single View: Multi-Attribution Learning Leads to Better Conversion Rate Prediction</span>    <span class="related-paper-meta">CIKM · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/mclmr_a_model_agnostic_causal_learning_framework_for_multi_behavior_recomme/">    <span class="related-paper-title">MCLMR: A Model-Agnostic Causal Learning Framework for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/genci_generative_modeling_of_user_interest_shift_via_cohort_based_intent_le/">    <span class="related-paper-title">GenCI: Generative Modeling of User Interest Shift via Cohort-based Intent Learning for CTR Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

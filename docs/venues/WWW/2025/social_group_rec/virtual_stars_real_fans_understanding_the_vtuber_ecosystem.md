@@ -132,3 +132,16 @@ FanRanker 排序性能（真实购买会员在同场观众中的位次分布）�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （ChatSim 定义简洁、RQ 组织清晰、统计检验到位，公式层面本身较浅）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （Top-50 命中85%对主播端极具操作性，RF/HGB 推理开销极低，代码已开源，但跨平台迁移需重新校准）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/kuailive_a_real_time_interactive_dataset_for_live_streaming_recommendation/">    <span class="related-paper-title">KuaiLive: A Real-time Interactive Dataset for Live Streaming Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/sequential_rec/foresight_prediction_enhanced_live_streaming_recommendation/">    <span class="related-paper-title">Foresight Prediction Enhanced Live-Streaming Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/watchlens_a_configurable_platform_for_online_video_recommendation_experimen/">    <span class="related-paper-title">WatchLens: A Configurable Platform for Online Video Recommendation Experiments</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/llm_rec/effectiveness_of_llms_in_temporal_user_profiling_for_recommendation/">    <span class="related-paper-title">Effectiveness of LLMs in Temporal User Profiling for Recommendation</span>    <span class="related-paper-meta">ICDM · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/social_group_rec/frog_effective_friend_recommendation_in_online_games_via_modality_aware_use/">    <span class="related-paper-title">FROG: Effective Friend Recommendation in Online Games via Modality-aware User Preferences</span>    <span class="related-paper-meta">SIGIR · 2025 · Social / MM</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+</div>
+<!-- related-papers:end -->

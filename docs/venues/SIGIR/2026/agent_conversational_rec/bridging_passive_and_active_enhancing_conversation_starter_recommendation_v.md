@@ -123,3 +123,17 @@ $$\mathcal{L}_{debiased}=-\beta_q\log\frac{\exp(f(u,q)-\log P(c_q))}{\sum_{q'\in
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/sequential_rec/ai_guided_accelerator_for_search_experience/">    <span class="related-paper-title">AI Guided Accelerator For Search Experience</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/eager_enrich_and_align_generative_query_recommendation_from_clicked_items_i/">    <span class="related-paper-title">EAGER: Enrich-and-Align Generative Query Recommendation from Clicked Items in E-commerce Search</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/refining_text_generation_for_realistic_conversational_recommendation_via_di/">    <span class="related-paper-title">Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/llm_rec/towards_next_generation_recommender_systems_a_benchmark_for_personalized_re/">    <span class="related-paper-title">Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/intsr_an_integrated_generative_framework_for_search_and_recommendation/">    <span class="related-paper-title">IntSR: An Integrated Generative Framework for Search and Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -131,3 +131,17 @@ $$\mathrm{KL}(p_j\|\rho)=\rho\log\frac{\rho}{p_j}+(1-\rho)\log\frac{1-\rho}{1-p_
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （跨 2 模型 × 2 数据集较全面，但缺精度对照、缺可解释基线、干预仅个例）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （损失分解与梯度路径交代清晰，KL 稀疏动机明确；复杂度与超参敏感性分析偏薄）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （后验训练、零改架构、单坐标干预，代码已开源，适合做嵌入审计与内容治理工具）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/efficient_learning_of_sparse_representations_from_interactions/">    <span class="related-paper-title">Efficient Learning of Sparse Representations from Interactions</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/opening_the_black_box_interpretable_remedies_for_popularity_bias_in_recomme/">    <span class="related-paper-title">Opening the Black Box: Interpretable Remedies for Popularity Bias in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/diaurec_dual_intent_space_representation_optimization_for_recommendation/">    <span class="related-paper-title">DIAURec: Dual-Intent Space Representation Optimization for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/generative_rec/recbase_generative_foundation_model_pretraining_for_zero_shot_recommendatio/">    <span class="related-paper-title">RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

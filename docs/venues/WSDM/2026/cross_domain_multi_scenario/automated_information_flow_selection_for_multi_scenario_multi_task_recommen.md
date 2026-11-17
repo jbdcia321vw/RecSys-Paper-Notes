@@ -136,3 +136,17 @@ $$\delta(Q_i^{k,m},\hat I_i^{k,m})=Q_i^{k,m}-\sum_{j=1}^{4}g_{ij}^m\odot h_i^{j}
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/cross_domain_multi_scenario/towards_personalized_federated_multi_scenario_multi_task_recommendation/">    <span class="related-paper-title">Towards Personalized Federated Multi-Scenario Multi-Task Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cross / MTL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multi_task_reranking/mpformer_adaptive_framework_for_industrial_multi_task_personalized_sequenti/">    <span class="related-paper-title">MPFormer: Adaptive Framework for Industrial Multi-Task Personalized Sequential Retriever</span>    <span class="related-paper-meta">CIKM · 2025 · MTL / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/multi_task_reranking/efficient_multi_task_prompt_tuning_for_recommendation/">    <span class="related-paper-title">Efficient Multi-task Prompt Tuning for Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multi_task_reranking/paragon_parameter_generation_for_controllable_multi_task_recommendation/">    <span class="related-paper-title">Paragon: Parameter Generation for Controllable Multi-Task Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multi_task_reranking/personalized_task_dependency_graphs_for_mitigating_signal_erosion_in_multi_/">    <span class="related-paper-title">Personalized Task Dependency Graphs for Mitigating Signal Erosion in Multi-Task Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

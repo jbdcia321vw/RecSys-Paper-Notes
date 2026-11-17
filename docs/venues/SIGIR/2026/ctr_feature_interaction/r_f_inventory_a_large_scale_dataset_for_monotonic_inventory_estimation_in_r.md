@@ -121,3 +121,17 @@ Task 2，联合外推划分（Method 3）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/rl_bandit_rec/an_adaptable_budget_planner_for_enhancing_budget_constrained_auto_bidding_i/">    <span class="related-paper-title">An Adaptable Budget Planner for Enhancing Budget-Constrained Auto-Bidding in Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · RL / CTR</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/ctr_feature_interaction/hmaf_a_hierarchical_multi_slot_gd_rtb_allocation_framework/">    <span class="related-paper-title">HMAF: A Hierarchical Multi-Slot GD-RTB Allocation Framework</span>    <span class="related-paper-meta">KDD · 2026 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/bat_benchmark_for_auto_bidding_task/">    <span class="related-paper-title">BAT: Benchmark for Auto-bidding Task</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/ctr_feature_interaction/funnelcausalnet_funnel_aware_joint_conversion_revenue_uplift_for_multi_tier/">    <span class="related-paper-title">FunnelCausalNet: Funnel-aware Joint Conversion-Revenue Uplift for Multi-tier Coupon Allocation</span>    <span class="related-paper-meta">CIKM · 2026 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.50</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/rl_bandit_rec/ahbid_an_adaptable_hierarchical_bidding_framework_for_cross_channel_adverti/">    <span class="related-paper-title">AHBid: An Adaptable Hierarchical Bidding Framework for Cross-Channel Advertising</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.49</span>  </a>
+</div>
+<!-- related-papers:end -->

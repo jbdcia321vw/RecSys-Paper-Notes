@@ -128,3 +128,16 @@ $$\frac{\mathbf{x}^\top\mathbf{y}}{\|\mathbf{x}\|\|\mathbf{y}\|}\approx\frac{\ma
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式精简、核技巧推导干净、训练/推理两模式图示清晰；但数据集统计与超参细节披露不足）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （免重训骨干、100 秒训练、CSR 兼容 pgvector/SciPy/PyTorch、代码已开源，是可直接插入现有召回链路的低成本升级方案）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/efficient_learning_of_sparse_representations_from_interactions/">    <span class="related-paper-title">Efficient Learning of Sparse Representations from Interactions</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/cove_compressed_vocabulary_expansion_makes_better_llm_based_recommender_sys/">    <span class="related-paper-title">CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../2026/cold_start_rec/learning_sparse_representations_of_multimodal_content_for_enhanced_cold_ite/">    <span class="related-paper-title">Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cross_domain_multi_scenario/benefit_from_rich_tackling_search_interaction_sparsity_in_search_enhanced_r/">    <span class="related-paper-title">Benefit from Rich: Tackling Search Interaction Sparsity in Search Enhanced Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../2026/generative_rec/tokens_are_all_you_need_dual_purpose_semantic_ids_for_achieving_llm_level_i/">    <span class="related-paper-title">Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in Recommendation Systems</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -136,3 +136,17 @@ Recall@10（VI-MMRec-O 为叠加策略结果，Improv. 为相对最强变体的�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （6 数据集 × 7 模型 × 双指标覆盖充分，含稀疏/冷启动/噪声分析，但划分协议偏单一）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号统一，统计调查部分逻辑闭环，复杂度分析略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （即插即用、训练零开销极具部署价值，但代码未开源且相似度矩阵存储成本需评估）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/multimodal_rec/well_begun_is_half_done_training_free_and_model_agnostic_semantically_guara/">    <span class="related-paper-title">Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/efficient_multimodal_streaming_recommendation_via_expandable_side_mixture_o/">    <span class="related-paper-title">Efficient Multimodal Streaming Recommendation via Expandable Side Mixture-of-Experts</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/multimodal_rec/personalized_parameter_efficient_fine_tuning_of_foundation_models_for_multi/">    <span class="related-paper-title">Personalized Parameter-Efficient Fine-Tuning of Foundation Models for Multimodal Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2026/multimodal_rec/one_graph_multiple_gains_single_high_quality_item_item_graph_for_multimodal/">    <span class="related-paper-title">One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation</span>    <span class="related-paper-meta">ACM MM · 2026 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2025/multimodal_rec/i_3_mrec_invariant_learning_with_information_bottleneck_for_incomplete_moda/">    <span class="related-paper-title">I$^3$-MRec: Invariant Learning with Information Bottleneck for Incomplete Modality Recommendation</span>    <span class="related-paper-meta">ACM MM · 2025 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -128,3 +128,16 @@ $$\gamma^l_d=DN_l(e_d),\ \gamma^l_w=DN_l(e_w),\ h_l=\sqrt{\gamma^l_d*\gamma^l_w}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与模块职责清晰、图示完整，但部分符号如 $X_p$与$X_d$ 关系、EMA 更新细节略欠严谨）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （美团真实场景验证、plug-and-play、推理仅增一次分类器前向，但未开源、依赖主导域假设）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/cross_domain_multi_scenario/cdc_causal_domain_clustering_for_multi_domain_recommendation/">    <span class="related-paper-title">CDC: Causal Domain Clustering for Multi-Domain Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/cross_domain_multi_scenario/measure_domain_s_gap_a_similar_domain_selection_principle_for_multi_domain_/">    <span class="related-paper-title">Measure Domain&#x27;s Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · Cross / RL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/fedecider_an_llm_based_framework_for_federated_cross_domain_recommendation/">    <span class="related-paper-title">FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/ctr_feature_interaction/a_unified_framework_for_multi_domain_ctr_prediction_via_large_language_mode/">    <span class="related-paper-title">A Unified Framework for Multi-Domain CTR Prediction via Large Language Models</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CTR / Cross</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/abxi_invariant_interest_adaptation_for_task_guided_cross_domain_sequential_/">    <span class="related-paper-title">ABXI: Invariant Interest Adaptation for Task-Guided Cross-Domain Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

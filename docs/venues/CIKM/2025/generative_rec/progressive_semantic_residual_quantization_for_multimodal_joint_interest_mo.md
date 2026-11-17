@@ -141,3 +141,16 @@ $$h^z_u = \sum_{j=1}^{n} \text{Attention}(e^z_j \oplus e^o_t)\cdot e^z_j,\quad z
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两阶段流程与公式 (2)(4) 表述清晰，RQ 与 PSRQ 检索差异配图直观；式 (1) 中 $X^t_2$ 疑似笔误、部分符号下标不统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已上线网易云服务千万级用户，ID 长度不变、在线开销与 DIN 同量级，新歌 collect +5.98% 的收益对内容平台极具吸引力；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/generative_rec/multi_aspect_cross_modal_quantization_for_generative_recommendation/">    <span class="related-paper-title">Multi-Aspect Cross-modal Quantization for Generative Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/hi_sam_a_hierarchical_structure_aware_multi_modal_framework_for_large_scale/">    <span class="related-paper-title">Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/just_ask_for_music_jam_multimodal_and_personalized_natural_language_music_r/">    <span class="related-paper-title">Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../multimodal_rec/distribution_guided_auto_encoder_for_user_multimodal_interest_cross_fusion/">    <span class="related-paper-title">Distribution-Guided Auto-Encoder for User Multimodal Interest Cross Fusion</span>    <span class="related-paper-meta">CIKM · 2025 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/multimodal_rec/spectrum_based_modality_representation_fusion_graph_convolutional_network_f/">    <span class="related-paper-title">Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -144,3 +144,16 @@ $$\mathcal{L}_p=\frac{1}{KN(N-1)}\sum_{m=1}^{K}\sum_{i<j}(R_i^m-R_j^m)^2,\qquad 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与算法伪代码清晰，Theorem 1/2 证明完整，但部分符号（如 $R_i$ 同时表簇与嵌入）略有歧义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （可插拔设计降低改造成本，但测试期逐批微调延迟、$K$ 敏感与未开源代码制约直接复用）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/data_augmentation_as_free_lunch_exploring_the_test_time_augmentation_for_se/">    <span class="related-paper-title">Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/exploring_test_time_scaling_via_prediction_merging_on_large_scale_recommend/">    <span class="related-paper-title">Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/temporal_linear_item_item_model_for_sequential_recommendation/">    <span class="related-paper-title">Temporal Linear Item-Item Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/cross_domain_multi_scenario/cross_domain_causal_preference_learning_for_out_of_distribution_recommendat/">    <span class="related-paper-title">Cross-Domain Causal Preference Learning for Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">DASFAA · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

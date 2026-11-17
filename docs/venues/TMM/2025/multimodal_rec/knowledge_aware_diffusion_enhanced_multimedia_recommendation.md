@@ -132,3 +132,16 @@ $$p_\theta(x_{t-1}\mid x_t,\tilde{z}_i)=\mathcal{N}\big(x_{t-1};\,u_\theta(x_t,t
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （公式链条完整、符号基本自洽，但存在 $\delta$/$\xi$ 符号混用、复杂度分析中模型名笔误等瑕疵）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，注意力矩阵离线预计算、扩散仅 10 步，训练开销可控，具备中等规模部署可行性）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/cold_start_rec/sparse_contrastive_learning_for_content_based_cold_item_recommendation/">    <span class="related-paper-title">Sparse Contrastive Learning for Content-Based Cold Item Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/cold_start_rec/learning_sparse_representations_of_multimodal_content_for_enhanced_cold_ite/">    <span class="related-paper-title">Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/rl_bandit_rec/contrastive_representation_for_interactive_recommendation/">    <span class="related-paper-title">Contrastive Representation for Interactive Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · RL / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/self_supervised_denoising/nlgcl_naturally_existing_neighbor_layers_graph_contrastive_learning_for_rec/">    <span class="related-paper-title">NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/a_content_driven_micro_video_recommendation_dataset_at_scale/">    <span class="related-paper-title">A Content-Driven Micro-Video Recommendation Dataset at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

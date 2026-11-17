@@ -127,3 +127,16 @@ $\mathcal{L}_{\text{DPO}}=-\mathbb{E}\left[\log\sigma\left(\beta\log\frac{\pi_\p
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两阶段流程与 DPO 公式定义清晰，偏好对构造的动机交代充分，符号略冗但可读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与数据许可齐全、超参完整公开，但 8B 生成器 + 逐候选生成带来较高线上延迟）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ECIR/2026/agent_conversational_rec/interplay_training_independent_simulators_for_reference_free_conversational/">    <span class="related-paper-title">Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.81</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/agent_conversational_rec/ask_to_be_sure_informative_interactions_for_confident_multi_turn_llm_recomm/">    <span class="related-paper-title">Ask to Be Sure: Informative Interactions for Confident Multi-Turn LLM Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_retrieval_generating_narratives_in_conversational_recommender_system/">    <span class="related-paper-title">Beyond Retrieval: Generating Narratives in Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/collaborative_retrieval_for_large_language_model_based_conversational_recom/">    <span class="related-paper-title">Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/when_and_how_to_ask_dynamic_preference_elicitation_strategies_for_conversat/">    <span class="related-paper-title">When and How to Ask: Dynamic Preference Elicitation Strategies for Conversational Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+</div>
+<!-- related-papers:end -->

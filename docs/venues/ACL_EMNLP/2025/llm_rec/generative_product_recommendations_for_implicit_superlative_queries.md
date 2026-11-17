@@ -127,3 +127,16 @@ $$q \to M \to a_q,\quad (q,a_q,p_1)\to M \to b_1 + c_1 + E$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题定义与四级标签阐述清晰，公式简洁，提示模板完整附录可复现）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与数据集开源，管线基于 PyTerrier 易复现；但列表级长上下文推理成本与初始序敏感性是上线前必须解决的工程问题）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDE/2026/llm_rec/relevance_matters_a_multi_task_and_multi_stage_large_language_model_approac/">    <span class="related-paper-title">Relevance Matters: A Multi-Task and Multi-Stage Large Language Model Approach for E-commerce Query Rewriting</span>    <span class="related-paper-meta">ICDE · 2026 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../2026/llm_rec/bridging_language_and_items_for_retrieval_and_recommendation_benchmarking_l/">    <span class="related-paper-title">Bridging Language and Items for Retrieval and Recommendation: Benchmarking LLMs as Semantic Encoders</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/debias_fairness_industrial/llm_based_user_product_relevance_evaluation_for_dynamic_product_advertising/">    <span class="related-paper-title">LLM-based User-Product Relevance Evaluation for Dynamic Product Advertising</span>    <span class="related-paper-meta">CIKM · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/smart_llm_augmented_hybrid_retrieval_for_dynamic_product_ads/">    <span class="related-paper-title">SMART: LLM-Augmented Hybrid Retrieval for Dynamic Product Ads</span>    <span class="related-paper-meta">RecSys · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_retrieval_generating_narratives_in_conversational_recommender_system/">    <span class="related-paper-title">Beyond Retrieval: Generating Narratives in Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

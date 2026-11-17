@@ -131,3 +131,16 @@ $$\boldsymbol{e}_u^\top=\frac{1}{\beta_u}\left(\boldsymbol{a}_u^\top B_I^{-1}\ri
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （推导简洁、复杂度分析清晰，但部分表格数值排版有误、伪逆符号定义可更严谨）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （30× 加速、线性扩展、代码开源，直接契合流式召回的热更新需求，落地价值突出）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/rankformer_a_graph_transformer_for_recommendation_based_on_ranking_objectiv/">    <span class="related-paper-title">Rankformer: A Graph Transformer for Recommendation based on Ranking Objective</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multi_task_reranking/non_parametric_graph_convolution_for_re_ranking_in_recommendation_systems/">    <span class="related-paper-title">Non-parametric Graph Convolution for Re-ranking in Recommendation Systems</span>    <span class="related-paper-meta">RecSys · 2025 · MTL / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/criteria_aware_graph_filtering_extremely_fast_yet_accurate_multi_criteria_r/">    <span class="related-paper-title">Criteria-Aware Graph Filtering: Extremely Fast Yet Accurate Multi-Criteria Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/frequency_aware_graph_signal_processing_for_collaborative_filtering/">    <span class="related-paper-title">Frequency-aware Graph Signal Processing for Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/graph_rec/graph_sequential_alignment_and_uniformity_toward_enhanced_recommendation_sy/">    <span class="related-paper-title">Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Graph / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

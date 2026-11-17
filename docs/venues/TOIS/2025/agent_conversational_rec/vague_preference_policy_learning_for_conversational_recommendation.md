@@ -132,3 +132,16 @@ MIMCR 场景（清晰偏好）下 VPPL 同样领先：Yelp SR@15 0.636 vs MCMIPL
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号表清晰，软分布归一化与衰减推导完整；部分公式排版在原文中有轻微错位）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （思路可直接用于电商导购对话，但未开源、图重建开销与模拟器依赖降低复现与上线确定性）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../multi_task_reranking/user_invariant_preference_learning_for_multi_behavior_recommendation/">    <span class="related-paper-title">User Invariant Preference Learning for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · MTL / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/multimodal_rec/formalizing_multimedia_recommendation_through_multimodal_deep_learning/">    <span class="related-paper-title">Formalizing Multimedia Recommendation through Multimodal Deep Learning</span>    <span class="related-paper-meta">ACM TORS · 2025 · MM</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../llm_rec/how_can_recommender_systems_benefit_from_large_language_models_a_survey/">    <span class="related-paper-title">How Can Recommender Systems Benefit from Large Language Models: A Survey</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../TKDD/2026/generative_rec/eval4direc_a_unified_and_systematic_evaluation_framework_for_diffusion_base/">    <span class="related-paper-title">Eval4DiRec: A Unified and Systematic Evaluation Framework for Diffusion-based Recommender Systems</span>    <span class="related-paper-meta">ACM TKDD · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

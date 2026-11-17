@@ -130,3 +130,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （DDPM 与 SVQ 公式推导清晰、附录给出方差分析，但码本与序列同尺寸 $\mathbb{R}^{(L-1)\times D}$ 的存储开销未讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、训练开销与 DiffuRec 持平，但 32 步迭代推理延迟是线上落地的主要障碍）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/unlocking_the_power_of_diffusion_models_in_sequential_recommendation_a_simp/">    <span class="related-paper-title">Unlocking the Power of Diffusion Models in Sequential Recommendation: A Simple and Effective Approach</span>    <span class="related-paper-meta">KDD · 2025 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/generative_rec/continuous_time_discrete_space_diffusion_model_for_recommendation/">    <span class="related-paper-title">Continuous-time Discrete-space Diffusion Model for Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · GenRec / SSL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/intent_aware_diffusion_with_contrastive_learning_for_sequential_recommendat/">    <span class="related-paper-title">Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/addressing_missing_data_issue_for_diffusion_based_recommendation/">    <span class="related-paper-title">Addressing Missing Data Issue for Diffusion-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/on_efficiency_effectiveness_trade_off_of_diffusion_based_recommenders/">    <span class="related-paper-title">On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

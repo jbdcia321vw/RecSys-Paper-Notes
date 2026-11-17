@@ -126,3 +126,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （POMDP 形式化与 PBRS 定理衔接清晰，奖励变体对照表设计精巧，工程细节交代到位）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （奖励改造即插即用、推理开销低，但四模型训练管线重、无开源代码，落地需自建高质量用户模型）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/agent_conversational_rec/propersim_developing_proactive_and_personalized_ai_assistants_through_user_/">    <span class="related-paper-title">ProPerSim: Developing Proactive and Personalized AI Assistants through User-Assistant Simulation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/agent_conversational_rec/ask_to_be_sure_informative_interactions_for_confident_multi_turn_llm_recomm/">    <span class="related-paper-title">Ask to Be Sure: Informative Interactions for Confident Multi-Turn LLM Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/agent_conversational_rec/simulating_before_planning_constructing_intrinsic_user_world_model_for_user/">    <span class="related-paper-title">Simulating Before Planning: Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning</span>    <span class="related-paper-meta">SIGIR · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/agent_conversational_rec/search_based_interaction_for_conversation_recommendation_via_generative_rew/">    <span class="related-paper-title">Search-Based Interaction For Conversation Recommendation via Generative Reward Model Based Simulated User</span>    <span class="related-paper-meta">SIGIR · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/agent_conversational_rec/interplay_training_independent_simulators_for_reference_free_conversational/">    <span class="related-paper-title">Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

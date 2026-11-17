@@ -130,3 +130,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三产品四场景 + 离线 NE/Recall + 线上 A/B 与显著性阈值齐全，但缺公开数据集与开源复现）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （复杂度对比 $m(n^2d+nd^2)$vs$(n+m)^2d+(n+m)d^2$ 推导干净，LCE 公式明确；部分系统细节下放附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在十亿用户产品全量部署，吞吐 2–6 倍、样本量 +43%~150%，是罕见的端到端生产级验证）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/d2k_turning_historical_data_into_retrievable_knowledge_for_recommender_syst/">    <span class="related-paper-title">D2K: Turning Historical Data into Retrievable Knowledge for Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/cold_start_rec/online_item_cold_start_recommendation_with_popularity_aware_meta_learning/">    <span class="related-paper-title">Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning</span>    <span class="related-paper-meta">KDD · 2025 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/can_recommender_systems_teach_themselves_a_recursive_self_improving_framewo/">    <span class="related-paper-title">Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/mosaic_a_fleet_of_user_embedding_specialists_for_recommendation_at_meta/">    <span class="related-paper-title">Mosaic: A Fleet of User Embedding Specialists for Recommendation at Meta</span>    <span class="related-paper-meta">RecSys · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/large_memory_network_for_recommendation/">    <span class="related-paper-title">Large Memory Network for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

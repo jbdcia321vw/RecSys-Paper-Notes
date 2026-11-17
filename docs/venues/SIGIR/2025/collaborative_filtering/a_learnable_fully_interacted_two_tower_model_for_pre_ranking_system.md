@@ -129,3 +129,16 @@ $$\mathbf{S}'_{i,:}=\text{ReLU}(\mathbf{W}_1\mathbf{S}_{i,:}+\mathbf{b}_1),\quad
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （MQM/LSS 公式与训推流程交代清晰，LSS 通用逼近性引用 LITE 理论支撑，复杂度分析到位）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （延迟 26.9ms、存储 1×、仅多存 1 bit 索引，来自蚂蚁真实粗排场景，落地价值高；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/interactrank_personalized_web_scale_search_pre_ranking_with_cross_interacti/">    <span class="related-paper-title">InteractRank: Personalized Web-Scale Search Pre-Ranking with Cross Interaction Features</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / CTR</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/cold_start_rec/online_item_cold_start_recommendation_with_popularity_aware_meta_learning/">    <span class="related-paper-title">Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning</span>    <span class="related-paper-meta">KDD · 2025 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/breaker_removing_shortcut_cues_with_user_clustering_for_single_slot_recomme/">    <span class="related-paper-title">Breaker: Removing Shortcut Cues with User Clustering for Single-slot Recommendation System</span>    <span class="related-paper-meta">KDD · 2025 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/llm_rec/empowering_compact_llms_with_fusion_of_layer_wise_exits_for_recommendation/">    <span class="related-paper-title">Empowering Compact LLMs with Fusion of Layer-wise Exits for Recommendation</span>    <span class="related-paper-meta">ICDM · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/rethinking_llm_based_recommendations_a_personalized_query_driven_parallel_i/">    <span class="related-paper-title">Rethinking LLM-Based Recommendations: A Personalized Query-Driven Parallel Integration</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

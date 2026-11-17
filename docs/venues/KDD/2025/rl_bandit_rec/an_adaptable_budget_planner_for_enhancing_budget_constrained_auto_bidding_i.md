@@ -124,3 +124,16 @@ $$\max_{\rho}\ \sum_{i=1}^{m} R_{c,i}(\rho),\quad \text{s.t.}\ \sum_{i=1}^{m}\rh
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （MDP 五元组、投影算子、PPO 训练流程定义清晰，复杂度分析到位；budget-return 函数性质缺少理论刻画）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已开源、推理仅 $O(mH)$、不限制底层 bidder 可直接插拔，且有真实电商平台 A/B 背书，工程价值高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/rl_bandit_rec/dara_few_shot_budget_allocation_in_online_advertising_via_in_context_decisi/">    <span class="related-paper-title">DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/rl_bandit_rec/ahbid_an_adaptable_hierarchical_bidding_framework_for_cross_channel_adverti/">    <span class="related-paper-title">AHBid: An Adaptable Hierarchical Bidding Framework for Cross-Channel Advertising</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/bat_benchmark_for_auto_bidding_task/">    <span class="related-paper-title">BAT: Benchmark for Auto-bidding Task</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/rl_bandit_rec/expert_guided_diffusion_planner_for_auto_bidding/">    <span class="related-paper-title">Expert-Guided Diffusion Planner for Auto-bidding</span>    <span class="related-paper-meta">CIKM · 2025 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/ctr_feature_interaction/bidding_aware_retrieval_for_multi_stage_consistency_in_online_advertising/">    <span class="related-paper-title">Bidding-Aware Retrieval for Multi-Stage Consistency in Online Advertising</span>    <span class="related-paper-meta">CIKM · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

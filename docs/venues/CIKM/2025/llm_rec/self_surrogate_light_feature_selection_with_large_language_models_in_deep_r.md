@@ -128,3 +128,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三阶段流程与公式定义清楚，掩码矩阵与桥接向量推导完整，但消融仅以柱状图呈现、缺精确数值表）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （线上延迟反降 13.6% 极具说服力，但闭源 LLM 依赖与代码未实际公开削弱了复现性）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/the_mental_world_of_large_language_models_in_recommendation_a_benchmark_on_/">    <span class="related-paper-title">The Mental World of Large Language Models in Recommendation: A Benchmark on Association, Personalization, and Knowledgeability</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../2026/llm_rec/selfdr_self_distillation_from_reasoning_for_llm_based_recommendation/">    <span class="related-paper-title">SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/tayfcs_towards_light_feature_combination_selection_for_deep_recommender_sys/">    <span class="related-paper-title">TayFCS: Towards Light Feature Combination Selection for Deep Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · CTR</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

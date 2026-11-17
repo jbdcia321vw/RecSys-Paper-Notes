@@ -132,3 +132,16 @@ $\mathcal{L}_{total}=\lambda_h\mathcal{L}_h+\lambda_{per}\mathcal{L}_{per}+\lamb
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、模块边界清晰，元令牌训练与适配器冻结策略交代明确；奖励权重统一取 0.25 略显经验化，缺少敏感性分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （即插即用适配器可跨 checkpoint 复用、无需真值标签，落地路径清晰；但 1.5s/图推理延迟与数据集仓库而非模型代码开源削弱了直接复现性）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/personalized_image_generation_for_recommendations_beyond_catalogs/">    <span class="related-paper-title">Personalized Image Generation for Recommendations Beyond Catalogs</span>    <span class="related-paper-meta">RecSys · 2025 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/personalized_image_generation_with_large_multimodal_models/">    <span class="related-paper-title">Personalized Image Generation with Large Multimodal Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/multimodal_large_language_models_with_adaptive_preference_optimization_for_/">    <span class="related-paper-title">Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/dual_diffusional_generative_fashion_recommendation/">    <span class="related-paper-title">Dual-Diffusional Generative Fashion Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multimodal_rec/notellm_2_multimodal_large_representation_models_for_recommendation/">    <span class="related-paper-title">NoteLLM-2: Multimodal Large Representation Models for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

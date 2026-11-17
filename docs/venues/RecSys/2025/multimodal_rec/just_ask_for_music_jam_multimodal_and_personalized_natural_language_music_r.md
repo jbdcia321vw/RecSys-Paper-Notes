@@ -133,3 +133,16 @@ CrossMixing 相对最强基线 TalkRec：NDCG@10 提升 **+104.6%**，Recall@100
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式极简清晰、三种聚合策略定义完整、平移性质有定性图示佐证，但缺少复杂度与超参敏感性分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （冻结表征 + 轻量投影的即插即用设计、开源代码与 11 万三元组数据集、离线预计算 + ANN 检索的低延迟路径，工业迁移价值突出）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/efficient_multimodal_streaming_recommendation_via_expandable_side_mixture_o/">    <span class="related-paper-title">Efficient Multimodal Streaming Recommendation via Expandable Side Mixture-of-Experts</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../yambda_5b_a_large_scale_multi_modal_dataset_for_ranking_and_retrieval/">    <span class="related-paper-title">Yambda-5B — A Large-Scale Multi-modal Dataset for Ranking And Retrieval</span>    <span class="related-paper-meta">RecSys · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/generative_rec/progressive_semantic_residual_quantization_for_multimodal_joint_interest_mo/">    <span class="related-paper-title">Progressive Semantic Residual Quantization for Multimodal-Joint Interest Modeling in Music Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2025/cross_domain_multi_scenario/leveraging_multimodal_data_and_side_users_for_diffusion_cross_domain_recomm/">    <span class="related-paper-title">Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation</span>    <span class="related-paper-meta">ACM MM · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/bridging_conversational_and_collaborative_signals_for_conversational_recomm/">    <span class="related-paper-title">Bridging Conversational and Collaborative Signals for Conversational Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

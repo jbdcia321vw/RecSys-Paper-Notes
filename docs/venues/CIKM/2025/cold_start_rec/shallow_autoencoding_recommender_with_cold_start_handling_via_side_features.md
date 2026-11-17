@@ -130,3 +130,16 @@ MovieLens 上 FEASE-U 的 HR@20 达 **0.4965**（EASE 0.4569，相对提升 8.7%
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （闭式解推导完整、附 NumPy 代码，符号清晰；部分表格数值排版有缺失，公式编号与正文偶有错位）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （无梯度训练、单次求逆、$\delta$ 可作冷启动扶持旋钮，工程落地门槛极低；未开源完整仓库略减分）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/recommendation_is_a_dish_better_served_warm/">    <span class="related-paper-title">Recommendation Is a Dish Better Served Warm</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/cold_start_rec/denoising_implicit_feedback_for_cold_start_recommendation/">    <span class="related-paper-title">Denoising Implicit Feedback for Cold-start Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/personalized_diffusion_model_reshapes_cold_start_bundle_recommendation/">    <span class="related-paper-title">Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/cold_start_rec/learning_sparse_representations_of_multimodal_content_for_enhanced_cold_ite/">    <span class="related-paper-title">Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

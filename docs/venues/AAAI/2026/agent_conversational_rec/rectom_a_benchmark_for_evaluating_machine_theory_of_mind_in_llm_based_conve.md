@@ -120,3 +120,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （人工精标 K=0.79、10 类 QA 覆盖全面、混淆矩阵偏差分析到位；扣分在单域小规模与缺方差报告）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （BDI 框架与四类"Multi-"特性阐述清晰，QA 示例完整；但无形式化定义与统计显著性检验）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （数据与代码已开源，可直接作为对话推荐 Agent 的心智推理回归测试集；全量 2 万条 QA 的 LLM 调用成本需权衡）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/r4ec_a_reasoning_reflection_and_refinement_framework_for_recommendation_sys/">    <span class="related-paper-title">R4ec: A Reasoning, Reflection, and Refinement Framework for Recommendation Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/agent_conversational_rec/inverse_theory_of_mind_modeling_for_content_recommendation_from_web_browsin/">    <span class="related-paper-title">Inverse Theory of Mind Modeling for Content Recommendation: From Web Browsing to Dynamic Intelligent Interfaces</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/thinkrec_thinking_based_recommendation_via_llm/">    <span class="related-paper-title">ThinkRec: Thinking-based Recommendation via LLM</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/recusersim_a_realistic_and_diverse_user_simulator_for_evaluating_conversati/">    <span class="related-paper-title">RecUserSim: A Realistic and Diverse User Simulator for Evaluating Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/think_before_recommendation_autonomous_reasoning_enhanced_recommender/">    <span class="related-paper-title">Think before Recommendation: Autonomous Reasoning-enhanced Recommender</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

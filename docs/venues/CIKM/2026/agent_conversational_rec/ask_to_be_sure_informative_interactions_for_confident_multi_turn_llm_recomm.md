@@ -129,3 +129,17 @@ $$H_w(C)=-\sum_{r\in R} p_w(r)\log_2 p_w(r).$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/refining_text_generation_for_realistic_conversational_recommendation_via_di/">    <span class="related-paper-title">Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/agent_conversational_rec/interplay_training_independent_simulators_for_reference_free_conversational/">    <span class="related-paper-title">Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/agent_conversational_rec/usb_rec_an_effective_framework_for_improving_conversational_recommendation_/">    <span class="related-paper-title">USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model</span>    <span class="related-paper-meta">RecSys · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/agent_conversational_rec/enhancing_personalized_multi_turn_dialogue_with_curiosity_reward/">    <span class="related-paper-title">Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/harpo_hierarchical_agentic_reasoning_for_user_aligned_conversational_recomm/">    <span class="related-paper-title">HARPO: Hierarchical Agentic Reasoning for User-Aligned Conversational Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -142,3 +142,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （分阶段评估设计精巧、统计校正到位，但缺人评校验、对齐对比非配对、线上仅描述性池内比较）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四阶段职责/失败模式/评估钩子表格化清晰，公式极简；代价是核心机制缺少定量建模细节）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （真实生产部署、零在线延迟、蒸馏保 parity，工程价值高；但未开源且强依赖 Spotify 目录与 SemID 基建）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/generative_rec/prompt_to_slate_diffusion_models_for_prompt_conditioned_slate_generation/">    <span class="related-paper-title">Prompt-to-Slate: Diffusion Models for Prompt-Conditioned Slate Generation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/a_cascaded_generative_approach_for_e_commerce_recommendations/">    <span class="related-paper-title">A Cascaded Generative Approach for e-Commerce Recommendations</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/llm_rec/contextualizing_spotify_s_audiobook_list_recommendations_with_descriptive_s/">    <span class="related-paper-title">Contextualizing Spotify&#x27;s Audiobook List Recommendations with Descriptive Shelves</span>    <span class="related-paper-meta">ECIR · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/genfacet_end_to_end_generative_faceted_search_via_multi_task_preference_ali/">    <span class="related-paper-title">GenFacet: End-to-End Generative Faceted Search via Multi-Task Preference Alignment in E-Commerce</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/itemrag_item_based_retrieval_augmented_generation_for_llm_based_recommendat/">    <span class="related-paper-title">ItemRAG: Item-Based Retrieval-Augmented Generation for LLM-Based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

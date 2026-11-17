@@ -156,3 +156,16 @@ $\phi^{q}_{\text{Enc}}(x)=\text{round}\big(\tfrac{127}{\max(\phi_{\text{Enc}}(x)
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化与量化公式定义清晰，对复现偏差的归因坦诚，帕累托前沿分析直观）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码与实验配置全开源，量化防御零训练零超参，可直接插入现有向量库写入链路，对推荐系统隐私合规有直接指导意义）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../privacy_risks_of_llm_empowered_recommender_systems_an_inversion_attack_pers/">    <span class="related-paper-title">Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/user_embeddings_are_superpositions_of_interpretable_behavioral_modes/">    <span class="related-paper-title">User Embeddings are Superpositions of Interpretable Behavioral Modes</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/fedecider_an_llm_based_framework_for_federated_cross_domain_recommendation/">    <span class="related-paper-title">FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/tlow_flow_based_item_tokenizer_for_recommendation/">    <span class="related-paper-title">Tlow: Flow-based Item Tokenizer for Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/uqabench_evaluating_user_embedding_for_prompting_llms_in_personalized_quest/">    <span class="related-paper-title">UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

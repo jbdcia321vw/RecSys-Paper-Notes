@@ -129,3 +129,16 @@ $$\mathrm{Atk} = \mathrm{Atk}_{b\text{-}group} + \mathrm{Atk}_{w\text{-}group},\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RQ 驱动、图表与度量定义清晰，Atkinson 分解交代严谨；部分度量公式置于附录，正文自洽性略打折）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与预处理全开源，结论可直接指导工业界在损失函数中同时加入组间与组内公平项；但推理侧依赖 LLM 生成，线上部署成本高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ECIR/2026/debias_fairness_industrial/measuring_individual_user_fairness_with_user_similarity_and_effectiveness_d/">    <span class="related-paper-title">Measuring Individual User Fairness with User Similarity and Effectiveness Disparity</span>    <span class="related-paper-meta">ECIR · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../a_reproducibility_study_of_product_side_fairness_in_bundle_recommendation/">    <span class="related-paper-title">A Reproducibility Study of Product-side Fairness in Bundle Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/joint_evaluation_of_fairness_and_relevance_in_recommender_systems_with_pare/">    <span class="related-paper-title">Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/debias_fairness_industrial/rethinking_fairness_in_llm_based_recommender_systems_a_survey/">    <span class="related-paper-title">Rethinking Fairness in LLM-Based Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/bridging_jensen_gap_for_max_min_group_fairness_optimization_in_recommendati/">    <span class="related-paper-title">Bridging Jensen Gap for Max-Min Group Fairness Optimization in Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -132,3 +132,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （4 类 archetype × 10 实例 × 50 轮 + 双消融 + 粒度分析 + 真实日志对齐 + 专家问卷相当完整，但核心指标全部建立在 LLM 仿真学员上，缺真人对照与显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化清晰区分显式/隐式目标，公式紧凑；但相似度传播的 `mean` 更新缺乏收敛性论证，Bandit 的线性假设与动作空间规模之间的矛盾未讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已开源，与真实 9-1-1 中心共建，复盘周转从 11.58 分钟降至 34 秒、对齐率 95.45%，美国 6000+ 呼叫中心具备直接迁移路径，工程价值显著）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/rl_bandit_rec/evol_simulator_guided_evolutionary_expert_synthesis_for_deployment_free_lea/">    <span class="related-paper-title">EVOL: Simulator-Guided Evolutionary Expert Synthesis for Deployment-Free Learning Path Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · RL / Seq</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multi_task_reranking/pcl_prompt_based_continual_learning_for_user_modeling_in_recommender_system/">    <span class="related-paper-title">PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/rl_bandit_rec/stratified_expert_cloning_for_retention_aware_recommendation_at_scale/">    <span class="related-paper-title">Stratified Expert Cloning for Retention-Aware Recommendation at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · RL / MTL</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multi_task_reranking/direct_routing_gradient_drgrad_a_personalized_information_surgery_for_multi/">    <span class="related-paper-title">Direct Routing Gradient (DRGrad): A Personalized Information Surgery for Multi-Task Learning (MTL) Recommendations</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MTL</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/cold_start_rec/soft_curriculum_learning_for_optimizing_fresh_and_generalized_recommendatio/">    <span class="related-paper-title">Soft Curriculum Learning for Optimizing Fresh and Generalized Recommendations</span>    <span class="related-paper-meta">RecSys · 2026 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
+</div>
+<!-- related-papers:end -->

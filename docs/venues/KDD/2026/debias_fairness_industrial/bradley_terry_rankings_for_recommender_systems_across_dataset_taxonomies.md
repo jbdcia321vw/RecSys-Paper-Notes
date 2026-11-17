@@ -128,3 +128,17 @@ $$\text{Triplet ratio}=\frac{1}{\binom{n}{3}\cdot D-\text{missing}}\sum_{d=1}^{D
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （14 算法×89 数据集、GTS 切分、10 seed 平均、Optuna 统一调参、缺失率与时间戳打乱双重压力测试，规模与严谨度在评测类工作中属上乘）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （BT/PL/协变量 BT 的公式与优化流程交代清楚，但部分符号（如 $N_{ij}$与$W_{ij}$ 的关系）散落多处，附录依赖较重）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （开源 14 算法实现 + 89 数据集预处理 + 完整聚合分析框架，且"缺失数据下排名稳定"直接对应工业界算力受限的选型场景，落地价值高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2025/collaborative_filtering/from_pairwise_to_ranking_climbing_the_ladder_to_ideal_collaborative_filteri/">    <span class="related-paper-title">From Pairwise to Ranking: Climbing the Ladder to Ideal Collaborative Filtering with Pseudo-Ranking</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multi_task_reranking/towards_principled_learning_for_re_ranking_in_recommender_systems/">    <span class="related-paper-title">Towards Principled Learning for Re-ranking in Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multi_task_reranking/comprehensive_list_generation_for_multi_generator_reranking/">    <span class="related-paper-title">Comprehensive List Generation for Multi-Generator Reranking</span>    <span class="related-paper-meta">SIGIR · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/rankformer_a_graph_transformer_for_recommendation_based_on_ranking_objectiv/">    <span class="related-paper-title">Rankformer: A Graph Transformer for Recommendation based on Ranking Objective</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/can_recommender_systems_teach_themselves_a_recursive_self_improving_framewo/">    <span class="related-paper-title">Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -123,3 +123,17 @@ $\mathcal{L}(\theta;\mathcal{P})=-\frac{1}{|\mathcal{P}|}\sum_{\tilde{p}\in\math
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （双域数据集 + 配对 bootstrap 显著性到位，但生成式束搜索与全库排序协议不一致，消融仅以文字叙述、缺独立表格与超参敏感性）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （5 页短文公式紧凑、词表规模分析清晰，贯穿电影示例便于理解；复杂度与解码开销仅给 FLOPs 未给延迟）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、词表与目录解耦对大目录工业场景友好、算力近减半，但离线量化管线与束搜索在线延迟仍需实测）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/s_2_gr_stepwise_semantic_guided_reasoning_in_latent_space_for_generative_re/">    <span class="related-paper-title">S$^2$GR: Stepwise Semantic-Guided Reasoning in Latent Space for Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/reasoning_over_semantic_ids_enhances_generative_recommendation/">    <span class="related-paper-title">Reasoning over Semantic IDs Enhances Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/understanding_generative_recommendation_with_semantic_ids_from_a_model_scal/">    <span class="related-paper-title">Understanding Generative Recommendation with Semantic IDs from a Model-scaling View</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/order_agnostic_identifier_for_large_language_model_based_generative_recomme/">    <span class="related-paper-title">Order-agnostic Identifier for Large Language Model-based Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/semantic_ids_for_joint_generative_search_and_recommendation/">    <span class="related-paper-title">Semantic IDs for Joint Generative Search and Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

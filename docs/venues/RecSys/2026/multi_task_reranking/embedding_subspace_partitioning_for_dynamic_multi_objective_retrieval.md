@@ -125,3 +125,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/collaborative_filtering/synergizing_implicit_and_explicit_user_interests_a_multi_embedding_retrieva/">    <span class="related-paper-title">Synergizing Implicit and Explicit User Interests: A Multi-Embedding Retrieval Framework at Pinterest</span>    <span class="related-paper-meta">KDD · 2025 · CF / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/generative_rec/dualgr_generative_retrieval_with_long_and_short_term_interests_modeling/">    <span class="related-paper-title">DualGR: Generative Retrieval with Long and Short-Term Interests Modeling</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/unifying_search_and_recommendation_in_llms_via_gradient_multi_subspace_tuni/">    <span class="related-paper-title">Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/sequential_rec/mida_multi_interest_decoding_with_adaptive_aggregation_for_session_based_re/">    <span class="related-paper-title">MIDA: Multi-Interest Decoding with Adaptive Aggregation for Session-based Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/retrieval_with_learned_similarities/">    <span class="related-paper-title">Retrieval with Learned Similarities</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / CF</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

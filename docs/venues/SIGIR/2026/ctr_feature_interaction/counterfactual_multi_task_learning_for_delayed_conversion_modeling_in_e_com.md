@@ -132,3 +132,17 @@ $\hat{\tau}_{DR}(\mathbf{x})=[\mu(\mathbf{x},1)-\mu(\mathbf{x},0)]+\frac{A(Y-\mu
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （三数据集 + 线上 A/B + 显著性检验较完整，但公开集划分靠目视推断、单次 80/20 划分、缺超参敏感性）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号简洁清晰，DR 估计与损失衔接自然；但消融表 w/o CCRA 处 0.8468 存在排版笔误，因果假设未展开讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （阿里真实广告平台全量 A/B 验证，收入 +7.87%、P99 仅 +2ms，双塔并行架构可直接复用；可惜未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/delayed_feedback_modeling_for_post_click_gross_merchandise_volume_predictio/">    <span class="related-paper-title">Delayed Feedback Modeling for Post-Click Gross Merchandise Volume Prediction: Benchmark, Insights and Approaches</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../cheaper_is_better_a_discount_aware_network_for_conversion_rate_prediction_i/">    <span class="related-paper-title">Cheaper is Better: A Discount-Aware Network for Conversion Rate Prediction in E-commerce Recommendation System</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/modeling_cascaded_delay_feedback_for_online_net_conversion_rate_prediction_/">    <span class="related-paper-title">Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/ctr_feature_interaction/on_predicting_post_click_conversion_rate_via_counterfactual_inference/">    <span class="related-paper-title">On Predicting Post-Click Conversion Rate via Counterfactual Inference</span>    <span class="related-paper-meta">ICDM · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/deep_learning_causal_retrieval_optimization_for_efficient_e_commerce_distri/">    <span class="related-paper-title">Deep-learning Causal Retrieval Optimization for Efficient e-commerce Distribution in Pinterest</span>    <span class="related-paper-meta">KDD · 2026 · Debias / RL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

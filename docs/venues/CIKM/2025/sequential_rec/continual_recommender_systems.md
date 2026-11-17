@@ -120,3 +120,16 @@ $$\mathcal{L}=\mathcal{L}_{\text{rec}}+\lambda_u\cdot\Omega(\boldsymbol{\theta}_
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （五部分结构清晰、分类维度明确，问题设定与开放挑战的表述准确，适合作为入门地图）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （资源受限与序列场景的讨论贴近部署，但无开源代码与可复现实验，落地需回溯其引用的具体方法论文）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2026/sequential_rec/capturing_user_interests_from_data_streams_for_continual_sequential_recomme/">    <span class="related-paper-title">Capturing User Interests from Data Streams for Continual Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multi_task_reranking/pcl_prompt_based_continual_learning_for_user_modeling_in_recommender_system/">    <span class="related-paper-title">PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../2026/llm_rec/tracer_balancing_stability_plasticity_cognitivity_trilemma_for_llm_enhanced/">    <span class="related-paper-title">TRACER: Balancing Stability-Plasticity-Cognitivity Trilemma for LLM Enhanced Continual Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/learning_evolving_preferences_a_federated_continual_framework_for_user_cent/">    <span class="related-paper-title">Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

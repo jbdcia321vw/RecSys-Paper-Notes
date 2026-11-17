@@ -142,3 +142,16 @@ $\mathcal{L}_{CL}=-\sum_{(i,j)\in Pos}\log\frac{\exp(-\|\boldsymbol{e}_i-\boldsy
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号清晰、复杂度与效率分析到位，部分消融依赖 Table 1 递推而非独立表格）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （十亿级线上部署、仅增 5ms 延迟、代码开源，工业参考价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/generative_archetype_grounded_item_representations_for_sequential_recommend/">    <span class="related-paper-title">Generative Archetype-Grounded Item Representations for Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/collaborative_memory_augmentation_for_generative_recommendation/">    <span class="related-paper-title">Collaborative Memory Augmentation for Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/learning_decomposed_contextual_token_representations_from_pretrained_and_co/">    <span class="related-paper-title">Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/unleashing_the_potential_of_sparse_attention_on_long_term_behaviors_for_ctr/">    <span class="related-paper-title">Unleashing the Potential of Sparse Attention on Long-term Behaviors for CTR Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/generative_rec/recbase_generative_foundation_model_pretraining_for_zero_shot_recommendatio/">    <span class="related-paper-title">RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

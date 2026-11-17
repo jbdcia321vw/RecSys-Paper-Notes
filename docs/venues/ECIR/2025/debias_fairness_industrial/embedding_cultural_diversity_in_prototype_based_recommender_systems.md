@@ -127,3 +127,16 @@ $$\mathcal{L}=\mathcal{L}_{\text{total}}+\lambda_u\|\hat{P}^{L_u}\hat{P}^{L_u\to
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （公式与符号清晰，但 Eq.8 中 $\hat{P}$维度记号与$I$ 的表述存在笔误，理论论证薄弱）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （改动即插即用、推理开销低，但未开源、依赖外部国别元数据匹配，落地需额外数据治理）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/rethinking_popularity_bias_in_collaborative_filtering_via_analytical_vector/">    <span class="related-paper-title">Rethinking Popularity Bias in Collaborative Filtering via Analytical Vector Decomposition</span>    <span class="related-paper-meta">KDD · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/parameter_efficient_single_collaborative_branch_for_recommendation/">    <span class="related-paper-title">Parameter-Efficient Single Collaborative Branch for Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · CF</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/does_weighting_improve_matrix_factorization_for_recommender_systems/">    <span class="related-paper-title">Does Weighting Improve Matrix Factorization for Recommender Systems?</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/llm_rec/biases_in_llm_generated_musical_taste_profiles_for_recommendation/">    <span class="related-paper-title">Biases in LLM-Generated Musical Taste Profiles for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

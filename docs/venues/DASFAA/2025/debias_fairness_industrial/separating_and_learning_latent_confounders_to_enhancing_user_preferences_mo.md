@@ -143,3 +143,16 @@ $$\text{Score}_{bias}=\text{Score}\oplus\text{Score}^{I=i}_{bias}\oplus\text{Sco
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （因果图与 KL 分解推导清晰，但部分公式排版与符号（如 $\oplus$ 定义、表 2 SLFR 行）略欠严谨）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （模型无关、可挂载主流骨干是亮点，但双 VAE 预训练与 $\gamma$ 调参增加工程成本，且暂未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/addressing_correlated_latent_exogenous_variables_in_debiased_recommender_sy/">    <span class="related-paper-title">Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/fidelity_aware_recommendation_explanations_via_stochastic_path_integration/">    <span class="related-paper-title">Fidelity-Aware Recommendation Explanations via Stochastic Path Integration</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/probabilistic_residual_learning_for_online_recommendations/">    <span class="related-paper-title">Probabilistic Residual Learning for Online Recommendations</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/unbiased_collaborative_filtering_with_fair_sampling/">    <span class="related-paper-title">Unbiased Collaborative Filtering with Fair Sampling</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/debias_fairness_industrial/customized_retrieval_augmented_generation_with_llm_for_debiasing_recommenda/">    <span class="related-paper-title">Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation Unlearning</span>    <span class="related-paper-meta">ICDM · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

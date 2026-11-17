@@ -7,6 +7,8 @@ hide:
 
 4 篇 IJCAI (RecSys Track) 2026 论文解读，覆盖 4 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
+🔥 **高频主题：** IJCAI 2026 ×2
+
 <div class="conf-index">
 <hr />
 <h2 id="sequential_rec">⏱️ 序列与会话推荐 (1)</h2>

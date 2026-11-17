@@ -126,3 +126,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （Full-Ranking 无偏评测、11 个基线、消融与码本可视化完整，但数据集仅限 Amazon 三子集，缺工业规模验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （双层公式、混合表示与投影公式推导清晰，复杂度分析到位；元梯度近似的误差界未讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码已开源，训练开销仅 +12%、推理零增量，可直接替换 TIGER 训练流程，落地门槛极低）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/generative_rec/generative_recommender_with_end_to_end_learnable_item_tokenization/">    <span class="related-paper-title">Generative Recommender with End-to-End Learnable Item Tokenization</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.81</span>  </a>
+  <a class="related-paper" href="../../../2025/generative_rec/order_agnostic_identifier_for_large_language_model_based_generative_recomme/">    <span class="related-paper-title">Order-agnostic Identifier for Large Language Model-based Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../learning_decomposed_contextual_token_representations_from_pretrained_and_co/">    <span class="related-paper-title">Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/generative_rec/tokenrec_learning_to_tokenize_id_for_llm_based_generative_recommendation/">    <span class="related-paper-title">TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/cross_domain_multi_scenario/from_ids_to_semantics_a_generative_framework_for_cross_domain_recommendatio/">    <span class="related-paper-title">From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Cross / GenRec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+</div>
+<!-- related-papers:end -->

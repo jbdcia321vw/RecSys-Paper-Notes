@@ -129,3 +129,16 @@ Task 1（Movie→Music）与 Task 3（Book→Music）代表性结果（MAE/RMSE 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （前向/反向/损失公式推导清晰，向量化 U-Net 适配说明到位，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码已匿名开源、扩散训练 <30 分钟且 32 维极轻量，但 MLLM 离线抽取成本与图文依赖是落地门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/cross_domain_multi_scenario/exploring_preference_guided_diffusion_model_for_cross_domain_recommendation/">    <span class="related-paper-title">Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/just_ask_for_music_jam_multimodal_and_personalized_natural_language_music_r/">    <span class="related-paper-title">Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/distribution_guided_auto_encoder_for_user_multimodal_interest_cross_fusion/">    <span class="related-paper-title">Distribution-Guided Auto-Encoder for User Multimodal Interest Cross Fusion</span>    <span class="related-paper-meta">CIKM · 2025 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/uncovering_cross_domain_recommendation_ability_of_large_language_models/">    <span class="related-paper-title">Uncovering Cross-Domain Recommendation Ability of Large Language Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/harnessing_multimodal_large_language_models_for_multimodal_sequential_recom/">    <span class="related-paper-title">Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

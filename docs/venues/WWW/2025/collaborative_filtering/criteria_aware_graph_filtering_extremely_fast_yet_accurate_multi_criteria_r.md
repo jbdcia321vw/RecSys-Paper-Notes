@@ -140,3 +140,16 @@ Recall@10 对比（TA / YM / BA）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （引理与三条推论把三种滤波器的频响讲得干净利落，复杂度分析置于附录，符号统一；偏好矩阵推导略紧凑）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （免训练免分解、0.2 秒全库打分、代码开源，对需要频繁重训的电商/本地生活场景落地价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2026/collaborative_filtering/memory_is_no_longer_a_bottleneck_memory_efficient_graph_filtering_for_scala/">    <span class="related-paper-title">Memory Is No Longer a Bottleneck: Memory-Efficient Graph Filtering for Scalable Collaborative Filtering</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../frequency_aware_graph_signal_processing_for_collaborative_filtering/">    <span class="related-paper-title">Frequency-aware Graph Signal Processing for Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/collaborative_filtering/graph_spectral_filtering_with_chebyshev_interpolation_for_recommendation/">    <span class="related-paper-title">Graph Spectral Filtering with Chebyshev Interpolation for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/collaborative_filtering/a_reproducible_and_fair_evaluation_of_partition_aware_collaborative_filteri/">    <span class="related-paper-title">A Reproducible and Fair Evaluation of Partition-aware Collaborative Filtering</span>    <span class="related-paper-meta">ECIR · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../social_group_rec/leveraging_member_group_relations_via_multi_view_graph_filtering_for_effect/">    <span class="related-paper-title">Leveraging Member-Group Relations via Multi-View Graph Filtering for Effective Group Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Social / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -132,3 +132,16 @@ BIGRec 后端上 FELLRec 亦全面领先（Games R@10 0.0158 vs FedAvg 0.0145；
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与算法伪代码完整、成本复杂度有闭式对比，个别符号如 $n$/$N$ 混用略欠统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （层級卸载直接对应端侧算力约束，通信量有量化估算，代码开源，但依赖服务器协同推理的工程改造）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/federated_continual_recommendation/">    <span class="related-paper-title">Federated Continual Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/personalized_recommendation_models_in_federated_settings_a_survey/">    <span class="related-paper-title">Personalized Recommendation Models in Federated Settings: A Survey</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/learning_evolving_preferences_a_federated_continual_framework_for_user_cent/">    <span class="related-paper-title">Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/fedecider_an_llm_based_framework_for_federated_cross_domain_recommendation/">    <span class="related-paper-title">FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/gradients_as_an_action_towards_communication_efficient_federated_recommende/">    <span class="related-paper-title">Gradients as an Action: Towards Communication-Efficient Federated Recommender Systems via Adaptive Action Sharing</span>    <span class="related-paper-meta">KDD · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -144,3 +144,17 @@ KuaiRand1K（AUC，20 种子均值）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2025/multi_task_reranking/direct_routing_gradient_drgrad_a_personalized_information_surgery_for_multi/">    <span class="related-paper-title">Direct Routing Gradient (DRGrad): A Personalized Information Surgery for Multi-Task Learning (MTL) Recommendations</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../task_blind_no_more_multi_task_information_flow_in_unified_ranking_backbones/">    <span class="related-paper-title">Task-Blind No MORE: Multi-Task Information Flow in Unified Ranking Backbones</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/multi_task_reranking/efficient_multi_task_prompt_tuning_for_recommendation/">    <span class="related-paper-title">Efficient Multi-task Prompt Tuning for Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/cross_domain_multi_scenario/automated_information_flow_selection_for_multi_scenario_multi_task_recommen/">    <span class="related-paper-title">Automated Information Flow Selection for Multi-scenario Multi-task Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · Cross / MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../2025/sequential_rec/cpmr_context_aware_incremental_sequential_recommendation_with_pseudo_multi_/">    <span class="related-paper-title">CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

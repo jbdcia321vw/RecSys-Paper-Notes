@@ -125,3 +125,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （离线三轴指标 + 四档变体 + 课程增量消融 + 9 天线上 A/B 且带显著性，链条完整；扣分在数据统计与划分细节缺失、Soft HR 阈值偏定制）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两阶段动机与公式交代干净、消融归因清晰；但 8 条规则奖励与 PARM 训练细节外置附录，主文公式偏少、缺复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在大规模电商生产部署并有正向 A/B，1.7B 小模型即可超越闭源大模型，工程性价比极高；唯代码未开源、复现需自建 PARM 与规则集）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/generative_rec/towards_context_aware_reasoning_enhanced_generative_searching_in_e_commerce/">    <span class="related-paper-title">Towards Context-aware Reasoning-enhanced Generative Searching in E-commerce</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/improving_item_discoverability_in_e_commerce_search_via_related_intent_gene/">    <span class="related-paper-title">Improving Item Discoverability in e-Commerce Search via Related Intent Generation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/ai_guided_accelerator_for_search_experience/">    <span class="related-paper-title">AI Guided Accelerator For Search Experience</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/genfacet_end_to_end_generative_faceted_search_via_multi_task_preference_ali/">    <span class="related-paper-title">GenFacet: End-to-End Generative Faceted Search via Multi-Task Preference Alignment in E-Commerce</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/intsr_an_integrated_generative_framework_for_search_and_recommendation/">    <span class="related-paper-title">IntSR: An Integrated Generative Framework for Search and Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

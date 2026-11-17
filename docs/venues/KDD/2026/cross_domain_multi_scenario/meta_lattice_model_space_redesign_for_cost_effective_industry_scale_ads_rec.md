@@ -125,3 +125,17 @@ KuaiVideo 三任务（AUC / Loss，节选核心列）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （公开集 + 两套百亿级工业集 + 逐日增量评估 + 线上归因消融，扎实但缺排序类指标与开源复现）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （系统论文条理清晰、公式克制，但部分组件仅给直觉描述、缺复杂度与收敛性分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （线上 Topline +10%、容量省 20% 的完整落地证据链，对工业界模型治理极具参考价值，唯代码未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/multi_task_reranking/recsoup_efficient_model_merging_approach_for_controllable_multi_objective_r/">    <span class="related-paper-title">RecSoup: Efficient Model Merging Approach for Controllable Multi-Objective Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/cs3_efficient_online_capability_synergy_for_two_tower_recommendation/">    <span class="related-paper-title">CS3: Efficient Online Capability Synergy for Two-Tower Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/generative_rec/unlocking_scaling_law_in_industrial_recommendation_systems_with_a_three_ste/">    <span class="related-paper-title">Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model</span>    <span class="related-paper-meta">WSDM · 2026 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/can_recommender_systems_teach_themselves_a_recursive_self_improving_framewo/">    <span class="related-paper-title">Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/llm_rec/balancing_fine_tuning_and_rag_a_hybrid_strategy_for_dynamic_llm_recommendat/">    <span class="related-paper-title">Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

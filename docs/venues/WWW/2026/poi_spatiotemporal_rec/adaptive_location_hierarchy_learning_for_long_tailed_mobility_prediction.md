@@ -143,3 +143,17 @@ STHGCN 骨干，JKT / KLP 的 M@1：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/poi_spatiotemporal_rec/think2go_generative_next_poi_recommendation_with_llm_reasoning/">    <span class="related-paper-title">Think2Go: Generative Next POI Recommendation with LLM Reasoning</span>    <span class="related-paper-meta">KDD · 2026 · POI / GenRec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/poi_spatiotemporal_rec/spot_trip_dual_preference_driven_out_of_town_trip_recommendation/">    <span class="related-paper-title">SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · POI / Graph</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/poi_spatiotemporal_rec/triptailor_a_real_world_benchmark_for_personalized_travel_planning/">    <span class="related-paper-title">TripTailor: A Real-World Benchmark for Personalized Travel Planning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · POI / CRS</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/predicting_user_behavior_in_smart_spaces_with_llm_enhanced_logs_and_persona/">    <span class="related-paper-title">Predicting User Behavior in Smart Spaces with LLM-Enhanced Logs and Personalized Prompts</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/poi_spatiotemporal_rec/comapoi_a_collaborative_multi_agent_framework_for_next_poi_prediction_bridg/">    <span class="related-paper-title">CoMaPOI: A Collaborative Multi-Agent Framework for Next POI Prediction Bridging the Gap Between Trajectory and Language</span>    <span class="related-paper-meta">SIGIR · 2025 · POI / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

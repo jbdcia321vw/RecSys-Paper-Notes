@@ -125,3 +125,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与算法伪码清晰、任务形式化简洁，但公式多为智能体调用示意而非可推导数学，理论深度有限）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （作为即插即用后处理模块易集成，但多轮 LLM 调用成本高、代码未开源、方面库构建依赖人工设计）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/coherency_improved_explainable_recommendation_via_large_language_model/">    <span class="related-paper-title">Coherency Improved Explainable Recommendation via Large Language Model</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/agent_conversational_rec/bi_nas_towards_effective_and_personalized_explanation_for_recommender_syste/">    <span class="related-paper-title">Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search</span>    <span class="related-paper-meta">ICDM · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/r4ec_a_reasoning_reflection_and_refinement_framework_for_recommendation_sys/">    <span class="related-paper-title">R4ec: A Reasoning, Reflection, and Refinement Framework for Recommendation Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/agent_conversational_rec/agentrecbench_benchmarking_llm_agent_based_personalized_recommender_systems/">    <span class="related-paper-title">AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../a_survey_on_llm_powered_agents_for_recommender_systems/">    <span class="related-paper-title">A Survey on LLM-powered Agents for Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

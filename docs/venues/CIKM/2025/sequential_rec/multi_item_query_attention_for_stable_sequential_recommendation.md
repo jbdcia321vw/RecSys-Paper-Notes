@@ -143,3 +143,16 @@ MIQ-Attn$_{SASRec_F}$相对 SASRec$_F$：HR@5 +24.09%、NDCG@5 +20.50%、HR@10 +
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义清晰，复杂度分析完整，动机图直观）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （drop-in 替换、代码开源、额外开销可控，但需按序列长度调 $m$ 增加调参成本）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/a_contextual_aware_position_encoding_for_sequential_recommendation/">    <span class="related-paper-title">A Contextual-Aware Position Encoding for Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/blossomrec_block_level_fused_sparse_attention_mechanism_for_sequential_reco/">    <span class="related-paper-title">BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/sequential_rec/massive_memorization_with_hundreds_of_trillions_of_parameters_for_sequentia/">    <span class="related-paper-title">Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/sequential_rec/long_sequence_recommendation_models_need_decoupled_embeddings/">    <span class="related-paper-title">Long-Sequence Recommendation Models Need Decoupled Embeddings</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/temporal_linear_item_item_model_for_sequential_recommendation/">    <span class="related-paper-title">Temporal Linear Item-Item Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

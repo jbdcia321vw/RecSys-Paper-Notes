@@ -128,3 +128,17 @@ $$\hat F_{\text{BLADE}}(r)=\frac{N^{<r}_{\text{ref}}+\tau\cdot N^{<r}_{\text{bat
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/token_level_collaborative_alignment_for_llm_based_generative_recommendation/">    <span class="related-paper-title">Token-level Collaborative Alignment for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../2025/llm_rec/pre_train_align_and_disentangle_empowering_sequential_recommendation_with_l/">    <span class="related-paper-title">Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/towards_fair_large_language_model_based_recommender_systems_without_costly_/">    <span class="related-paper-title">Towards Fair Large Language Model-based Recommender Systems without Costly Retraining</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/efficient_inference_for_large_language_model_based_generative_recommendatio/">    <span class="related-paper-title">Efficient Inference for Large Language Model-based Generative Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/llm_rec/reason4rec_deliberative_user_preference_alignment_of_large_language_models_/">    <span class="related-paper-title">Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

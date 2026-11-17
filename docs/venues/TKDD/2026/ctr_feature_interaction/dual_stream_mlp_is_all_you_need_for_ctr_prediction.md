@@ -132,3 +132,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三基准 17 基线 + 五教师兼容性 + scaling + 保真度拟合 + 完整消融，唯缺线上验证与时间切分）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与算法流程清晰，Sobolev 空间论证略偏形式化、平滑性假设较强）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （纯 MLP 推理、代码开源、基于 FuxiCTR/BARS 可复现，延迟与主流模型同级，部署友好）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TORS/2025/collaborative_filtering/balancing_embedding_spectrum_for_recommendation/">    <span class="related-paper-title">Balancing Embedding Spectrum for Recommendation</span>    <span class="related-paper-meta">ACM TORS · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/extending_movielens_32m_to_provide_new_evaluation_objectives/">    <span class="related-paper-title">Extending MovieLens-32M to Provide New Evaluation Objectives</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2026/cross_domain_multi_scenario/causal_invariant_cross_domain_out_of_distribution_recommendation/">    <span class="related-paper-title">Causal-Invariant Cross-Domain Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2026 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/recranker_instruction_tuning_large_language_model_as_ranker_for_top_k_recom/">    <span class="related-paper-title">RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/cross_domain_multi_scenario/coherence_guided_preference_disentanglement_for_cross_domain_recommendation/">    <span class="related-paper-title">Coherence-guided Preference Disentanglement for Cross-domain Recommendations</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / SSL</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
+</div>
+<!-- related-papers:end -->

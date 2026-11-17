@@ -124,3 +124,16 @@ SASRec$^V$相对 SASRec 的 HR@10 提升约 **+4.3%**，相对 SASRec$^{ID+V}$ �
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三类范式分类清晰、Q1–Q3 递进式论证严谨，公式较简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （十亿级真实数据 + 完整开源代码与下载工具，对内容驱动推荐与视频理解社区价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/vk_lsvd_a_large_scale_industrial_dataset_for_short_video_recommendation/">    <span class="related-paper-title">VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/short_video_segment_level_user_dynamic_interests_modeling_in_personalized_r/">    <span class="related-paper-title">Short Video Segment-level User Dynamic Interests Modeling in Personalized Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/multimodal_rec/binge_watch_reproducible_multimodal_benchmarks_datasets_for_large_scale_mov/">    <span class="related-paper-title">Binge Watch: Reproducible Multimodal Benchmark Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M</span>    <span class="related-paper-meta">RecSys · 2026 · MM</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/agent_conversational_rec/when_top_ranked_recommendations_fail_modeling_multi_granular_negative_feedb/">    <span class="related-paper-title">When Top-ranked Recommendations Fail: Modeling Multi-Granular Negative Feedback for Explainable and Robust Video Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/comment_staytime_prediction_with_llm_enhanced_comment_understanding/">    <span class="related-paper-title">Comment Staytime Prediction with LLM-enhanced Comment Understanding</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

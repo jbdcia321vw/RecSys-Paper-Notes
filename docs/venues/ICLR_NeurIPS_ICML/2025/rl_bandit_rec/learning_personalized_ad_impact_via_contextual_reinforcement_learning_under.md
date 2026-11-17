@@ -126,3 +126,16 @@ $$\hat{d}_l^t=\frac{\sum_{s=1}^t\sum_{h\in D^{s,l}}y_h^s}{\sum_{s=1}^t\sum_{h\in
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （CMDP 建模与遗憾分解推导完整，定理证明详尽，符号略密集）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （无开源代码，缺预算约束与真实数据验证，但出价决策框架与两阶段估计思路对广告平台有参考价值）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/rl_bandit_rec/expert_guided_diffusion_planner_for_auto_bidding/">    <span class="related-paper-title">Expert-Guided Diffusion Planner for Auto-bidding</span>    <span class="related-paper-meta">CIKM · 2025 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/rl_bandit_rec/ahbid_an_adaptable_hierarchical_bidding_framework_for_cross_channel_adverti/">    <span class="related-paper-title">AHBid: An Adaptable Hierarchical Bidding Framework for Cross-Channel Advertising</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/contextual_generative_auction_with_permutation_level_externalities_for_onli/">    <span class="related-paper-title">Contextual Generative Auction with Permutation-level Externalities for Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/rl_bandit_rec/hoba_hierarchical_on_policy_bidding_agents_for_adaptive_online_advertising/">    <span class="related-paper-title">HOBA: Hierarchical On-Policy Bidding Agents for Adaptive Online Advertising</span>    <span class="related-paper-meta">KDD · 2026 · RL / CRS</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/lightweight_auto_bidding_based_on_traffic_prediction_in_live_advertising/">    <span class="related-paper-title">Lightweight Auto-bidding based on Traffic Prediction in Live Advertising</span>    <span class="related-paper-meta">KDD · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

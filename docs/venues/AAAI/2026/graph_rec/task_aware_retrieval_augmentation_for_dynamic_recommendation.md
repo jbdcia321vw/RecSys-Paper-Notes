@@ -122,3 +122,17 @@ BiSCL 消融（Koubei/Amazon）：去掉 BiSCL 预训练降至 35.62/25.98 与 1
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 + 四类 11 个基线 + NF/FT 双设定 + 逐时间步对比较完整，但缺少 Full-Ranking 协议明示与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与算法伪代码清晰，附录含互信息推导与复杂度分析，但部分符号在正文与附录间略有重复定义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （离线标注与 FAISS 检索链路工程可行，但代码未开源、离线标注开销与多超参调优增加落地门槛）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/modeling_stage_wise_evolution_of_user_interests_for_news_recommendation/">    <span class="related-paper-title">Modeling Stage-wise Evolution of User Interests for News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/corona_a_coarse_to_fine_framework_for_graph_based_recommendation_with_large/">    <span class="related-paper-title">CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/cpmr_context_aware_incremental_sequential_recommendation_with_pseudo_multi_/">    <span class="related-paper-title">CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../2025/cross_domain_multi_scenario/behavior_importance_aware_graph_neural_architecture_search_for_cross_domain/">    <span class="related-paper-title">Behavior Importance-Aware Graph Neural Architecture Search for Cross-Domain Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

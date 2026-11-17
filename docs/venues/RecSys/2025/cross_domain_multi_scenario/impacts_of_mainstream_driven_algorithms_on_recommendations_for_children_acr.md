@@ -128,3 +128,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （UGP/AGP/IGD/APD/PL 定义清晰、统计检验选择有据，但部分表格符号密集、可读性略受影响）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与 MLHD 采样子集均开源，审计框架可直接用于平台侧少数群体公平性体检，但结论依赖人口统计学元数据，工业数据常缺失）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/identifying_and_upweighting_power_niche_users_to_mitigate_popularity_bias_i/">    <span class="related-paper-title">Identifying and Upweighting Power-Niche Users to Mitigate Popularity Bias in Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/recommendation_and_temptation/">    <span class="related-paper-title">Recommendation and Temptation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../llm_rec/biases_in_llm_generated_musical_taste_profiles_for_recommendation/">    <span class="related-paper-title">Biases in LLM-Generated Musical Taste Profiles for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/quantifying_user_coherence_a_unified_framework_for_analyzing_recommender_sy/">    <span class="related-paper-title">Quantifying User Coherence: A Unified Framework for Analyzing Recommender Systems Across Domains</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

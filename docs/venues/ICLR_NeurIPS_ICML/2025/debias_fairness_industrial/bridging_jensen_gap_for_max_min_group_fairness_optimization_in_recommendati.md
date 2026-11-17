@@ -132,3 +132,16 @@ FairDual 为算法级插件，原文以组件替换/关闭形式给出消融（M
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （四个定理层层递进，从等价改写、间隙存在到间隙上界闭环完整，附录证明详尽）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、收敛快 28.5%、插件式即插即用，但凸投影与采样近似的工程调参仍需实践打磨）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/improving_minimax_group_fairness_in_sequential_recommendation/">    <span class="related-paper-title">Improving Minimax Group Fairness in Sequential Recommendation</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/post_hoc_provider_fairness_adaptation_via_hierarchical_exposure_alignment/">    <span class="related-paper-title">Post-hoc Provider Fairness Adaptation via Hierarchical Exposure Alignment</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/stairway_to_fairness_connecting_group_and_individual_fairness/">    <span class="related-paper-title">Stairway to Fairness: Connecting Group and Individual Fairness</span>    <span class="related-paper-meta">RecSys · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/repeat_bias_aware_optimization_of_beyond_accuracy_metrics_for_next_basket_r/">    <span class="related-paper-title">Repeat-bias-aware Optimization of Beyond-accuracy Metrics for Next Basket Recommendation</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/fairsort_learning_to_fair_rank_for_personalized_recommendations_in_two_side/">    <span class="related-paper-title">FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

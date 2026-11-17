@@ -140,3 +140,16 @@ CTR 任务上，DIN+GCR 在 Amazon-Book 取得 AUC 0.8681（相对最强基线 G
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （PGR/CCA 公式与自由度推导清晰，HCC 与 ECC 的维度对比交代到位，个别符号在不同章节复用略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （PGR 无参可预计算、在线仅一次 MLP，已在微信工业数据验证；但代码未开源、ECC 维度膨胀需工程裁剪）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/graph_rec/contextgnn_beyond_two_tower_recommendation_systems/">    <span class="related-paper-title">ContextGNN: Beyond Two-Tower Recommendation Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.81</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/social_group_rec/pulse_socially_aware_user_representation_modeling_toward_parameter_efficien/">    <span class="related-paper-title">PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/social_group_rec/leveraging_member_group_relations_via_multi_view_graph_filtering_for_effect/">    <span class="related-paper-title">Leveraging Member-Group Relations via Multi-View Graph Filtering for Effective Group Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Social / Graph</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../dual_channel_multiplex_graph_neural_networks_for_recommendation/">    <span class="related-paper-title">Dual-Channel Multiplex Graph Neural Networks for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cross_domain_multi_scenario/rankgraph_unified_heterogeneous_graph_learning_for_cross_domain_recommendat/">    <span class="related-paper-title">RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+</div>
+<!-- related-papers:end -->

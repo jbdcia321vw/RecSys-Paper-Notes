@@ -127,3 +127,17 @@ $\hat{W}^l=W^l\odot(1+\Delta s^l),\quad \hat{b}^l=b^l+\Delta b^l,\quad \tilde{F}
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （四数据集 + Full-Ranking 无偏协议 + 9 个强基线 + 长序列与效率分析齐全，但缺显著性检验与方差报告，消融仅以柱状图呈现未给数值表）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （DFT/DWT 预备知识与复杂度推导完整，公式符号统一；但 DFF 中 $k$与子空间索引、$M=\lceil N/2\rceil+1$ 的维度对齐说明略简，部分符号上下标混用）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，attention-free + 无对比学习使长序列训练成本低，适合长行为序列召回；但参数量增加与频域变换的工程实现细节对线上部署仍有适配成本）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/wpgrec_wavelet_packet_guided_graph_enhanced_sequential_recommendation/">    <span class="related-paper-title">WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/muffin_mixture_of_user_adaptive_frequency_filtering_for_sequential_recommen/">    <span class="related-paper-title">MUFFIN: Mixture of User-Adaptive Frequency Filtering for Sequential Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2026/multimodal_rec/beyond_noisy_signals_dual_level_denoising_for_multi_modal_sequential_recomm/">    <span class="related-paper-title">Beyond Noisy Signals: Dual-Level Denoising for Multi-modal Sequential Recommendation</span>    <span class="related-paper-meta">ACM MM · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../exploiting_inter_session_information_with_frequency_enhanced_dual_path_netw/">    <span class="related-paper-title">Exploiting Inter-Session Information with Frequency-enhanced Dual-Path Networks for Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/diff_dual_side_information_filtering_and_fusion_for_sequential_recommendati/">    <span class="related-paper-title">DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

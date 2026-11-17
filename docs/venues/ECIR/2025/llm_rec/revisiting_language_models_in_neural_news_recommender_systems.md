@@ -137,3 +137,16 @@ MIND-small 上不同 LM 作为新闻编码器（微调后最优配置）的表�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三类 LM 编码接口与微调模式定义清晰，图表组织有条理，公式简洁无冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、Llama 预计算嵌入方案可直接落地，为"是否值得上大模型"提供了明确的成本-收益决策依据）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/enhancing_news_recommendation_with_hierarchical_llm_prompting/">    <span class="related-paper-title">Enhancing News Recommendation with Hierarchical LLM Prompting</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/the_mental_world_of_large_language_models_in_recommendation_a_benchmark_on_/">    <span class="related-paper-title">The Mental World of Large Language Models in Recommendation: A Benchmark on Association, Personalization, and Knowledgeability</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR-AP/2026/collaborative_filtering/lsnr_learned_sparse_news_recommendations_with_attentive_user_modeling/">    <span class="related-paper-title">LSNR: Learned Sparse News Recommendations with Attentive User Modeling</span>    <span class="related-paper-meta">SIGIR-AP · 2026 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/zorro_a_zero_weight_personalized_recommender_system_for_scalable_news_recom/">    <span class="related-paper-title">ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / Cold</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+</div>
+<!-- related-papers:end -->

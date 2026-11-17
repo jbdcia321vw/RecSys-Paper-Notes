@@ -117,3 +117,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三组直觉—数据分析—公式的对应链条清晰，公式与符号定义完整，但部分符号如 $W_{M_{Q,K}}$ 的维度说明略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （改动仅两次逐元素乘加一个标量门，线上延迟可忽略且已验证 +0.8% CTCVR，落地价值高；但未开源，复现需自建工业数据）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/sequential_rec/learning_to_forget_satiation_aware_long_sequence_transducers_for_mitigating/">    <span class="related-paper-title">Learning to Forget: Satiation-Aware Long-Sequence Transducers for Mitigating Post-Purchase Redundancy</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../debias_fairness_industrial/why_is_normalization_necessary_for_linear_recommenders/">    <span class="related-paper-title">Why is Normalization Necessary for Linear Recommenders?</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/item_centric_exploration_for_cold_start_problem/">    <span class="related-paper-title">Item-centric Exploration for Cold Start Problem</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / RL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/eager_enrich_and_align_generative_query_recommendation_from_clicked_items_i/">    <span class="related-paper-title">EAGER: Enrich-and-Align Generative Query Recommendation from Clicked Items in E-commerce Search</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/improving_item_discoverability_in_e_commerce_search_via_related_intent_gene/">    <span class="related-paper-title">Improving Item Discoverability in e-Commerce Search via Related Intent Generation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -133,3 +133,16 @@ Beauty 数据集（$N_M=10$）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （编辑矩阵公式与 Lemma 推导清晰，符号略密但可读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （10.78ms 端侧推理极具部署价值，但代码未开源、超参需人工调）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../IJCAI/2025/sequential_rec/device_cloud_collaborative_correction_for_on_device_recommendation/">    <span class="related-paper-title">Device-Cloud Collaborative Correction for On-Device Recommendation</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/chord_customizing_hybrid_precision_on_device_model_for_sequential_recommend/">    <span class="related-paper-title">CHORD: Customizing Hybrid-precision On-device Model for Sequential Recommendation with Device-cloud Collaboration</span>    <span class="related-paper-meta">ACM MM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multi_task_reranking/paragon_parameter_generation_for_controllable_multi_task_recommendation/">    <span class="related-paper-title">Paragon: Parameter Generation for Controllable Multi-Task Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/collaboration_of_large_language_models_and_small_recommendation_models_for_/">    <span class="related-paper-title">Collaboration of Large Language Models and Small Recommendation Models for Device-Cloud Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/forward_once_for_all_structural_parameterized_adaptation_for_efficient_clou/">    <span class="related-paper-title">Forward Once for All: Structural Parameterized Adaptation for Efficient Cloud-coordinated On-device Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+</div>
+<!-- related-papers:end -->

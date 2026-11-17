@@ -135,3 +135,16 @@ RQ2（上下文模型 + CP，相对各自 Base 的 Δ%）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （CP 公式与分组 $\lambda$ 定义清晰、指标方向标注规范，但缺少复杂度与调参开销的定量分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与数据样本全开源、CP 为免训练后处理易插拔，但需注意基列表质量依赖与在线重排延迟）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/taming_recommendation_bias_with_causal_intervention_on_evolving_personal_po/">    <span class="related-paper-title">Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/identifying_and_upweighting_power_niche_users_to_mitigate_popularity_bias_i/">    <span class="related-paper-title">Identifying and Upweighting Power-Niche Users to Mitigate Popularity Bias in Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/unbiased_collaborative_filtering_with_fair_sampling/">    <span class="related-paper-title">Unbiased Collaborative Filtering with Fair Sampling</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/unbiased_recommender_systems_with_implicit_feedback/">    <span class="related-paper-title">Unbiased Recommender Systems with Implicit Feedback</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

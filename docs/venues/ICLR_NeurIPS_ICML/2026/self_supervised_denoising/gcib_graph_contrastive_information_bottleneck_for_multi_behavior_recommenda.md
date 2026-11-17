@@ -131,3 +131,17 @@ HR@20/NDCG@20 趋势一致：GCIB 在 Yelp 上 HR@20 达 0.1180（+31.70%）、N
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （四数据集 + 10 个基线 + 完整消融 + 噪声注入鲁棒性 + 层级/超参分析，但仅 Leave-One-Out 单一协议、缺冷启动分桶）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （IB 目标、Concrete 松弛、HSIC 估计链条完整，复杂度分析到位；但 $\beta$ 跨数据集差两个数量级未给解释性分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，训练比 BCIPM 快约 15 倍、显存可控，边掩码模块为稀疏矩阵线性开销，工程友好）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/hierarchical_graph_information_bottleneck_for_multi_behavior_recommendation/">    <span class="related-paper-title">Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/mixrec_heterogeneous_graph_collaborative_filtering/">    <span class="related-paper-title">MixRec: Heterogeneous Graph Collaborative Filtering</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/self_supervised_denoising/sgcl_unifying_self_supervised_and_supervised_learning_for_graph_recommendat/">    <span class="related-paper-title">SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/self_supervised_denoising/radar_relation_aware_diffusion_asymmetric_graph_contrastive_learning_for_re/">    <span class="related-paper-title">RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/self_supervised_denoising/squeeze_and_excitation_a_weighted_graph_contrastive_learning_for_collaborat/">    <span class="related-paper-title">Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering</span>    <span class="related-paper-meta">SIGIR · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

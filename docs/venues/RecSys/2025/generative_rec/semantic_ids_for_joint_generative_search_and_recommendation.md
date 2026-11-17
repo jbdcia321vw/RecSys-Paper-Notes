@@ -121,3 +121,16 @@ $$\mathcal{L}_{mt}=\mathcal{L}_{search}+\mathcal{L}_{rec},\quad \mathcal{L}_{sea
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （策略分类清晰、图表直观，公式简洁，权衡分析逻辑严密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （Spotify 工业背景、统一ID显著降低词表与工程开销，量化器基于开源 FAISS 易复现）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/order_agnostic_identifier_for_large_language_model_based_generative_recomme/">    <span class="related-paper-title">Order-agnostic Identifier for Large Language Model-based Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/generative_rec/generating_long_semantic_ids_in_parallel_for_recommendation/">    <span class="related-paper-title">Generating Long Semantic IDs in Parallel for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/generative_rec/tokenrec_learning_to_tokenize_id_for_llm_based_generative_recommendation/">    <span class="related-paper-title">TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/cross_domain_multi_scenario/from_ids_to_semantics_a_generative_framework_for_cross_domain_recommendatio/">    <span class="related-paper-title">From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Cross / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/bi_level_optimization_for_generative_recommendation_bridging_tokenization_a/">    <span class="related-paper-title">Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+</div>
+<!-- related-papers:end -->

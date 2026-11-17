@@ -138,3 +138,16 @@ $\boldsymbol{h}^{i+1}_{Y,U}=\text{TA}_i\!\left(\boldsymbol{h}^{i}_{Y,U},\,[\bold
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （复杂度推导与缓存梯度分析清晰，公式简洁；但部分符号（如 $Iid^i_U$）排版略乱，缩放律仅给经验曲线无拟合公式）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已服务数千万 DAU 超一年、线上时长累计 +5%，15ms 延迟与 1/10 算力成本极具说服力；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/exploring_test_time_scaling_via_prediction_merging_on_large_scale_recommend/">    <span class="related-paper-title">Exploring Test-time Scaling via Prediction Merging on Large-Scale Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/do_llms_memorize_recommendation_datasets_a_preliminary_study_on_movielens_1/">    <span class="related-paper-title">Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/generative_rec/unlocking_scaling_law_in_industrial_recommendation_systems_with_a_three_ste/">    <span class="related-paper-title">Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model</span>    <span class="related-paper-meta">WSDM · 2026 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/cold_start_rec/large_language_model_simulator_for_cold_start_recommendation/">    <span class="related-paper-title">Large Language Model Simulator for Cold-Start Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

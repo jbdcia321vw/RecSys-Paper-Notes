@@ -125,3 +125,16 @@ CTR 预测精度对比（表2）：无外部性 LogLoss 0.2311 / AUC 0.7366；�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （DSIC/IR 定义、Myerson 引理到 Corollary 1 的推导链条清晰，奖励分解公式直观；附录证明未在正文展开稍显紧凑）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （线上仅增 3ms RT 即换 3.2% RPM，工程价值明确；但代码未开源、三阶段训练管线复现门槛较高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/ctr_feature_interaction/model_monotonicity_in_autobidding_auctions_when_do_better_predictions_lead_/">    <span class="related-paper-title">Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/truthful_aggregation_of_llms_with_an_application_to_online_advertising/">    <span class="related-paper-title">Truthful Aggregation of LLMs with an Application to Online Advertising</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/hybrid_advertising_in_the_sponsored_search/">    <span class="related-paper-title">Hybrid Advertising in the Sponsored Search</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../rl_bandit_rec/an_adaptable_budget_planner_for_enhancing_budget_constrained_auto_bidding_i/">    <span class="related-paper-title">An Adaptable Budget Planner for Enhancing Budget-Constrained Auto-Bidding in Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · RL / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/ctr_feature_interaction/optimal_auction_design_in_the_joint_advertising/">    <span class="related-paper-title">Optimal Auction Design in the Joint Advertising</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

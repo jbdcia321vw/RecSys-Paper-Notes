@@ -130,3 +130,16 @@ FPEM 即插即用验证（Table 3）：DIN/SIM/ETA/QIN/TWIN 接入 FPEM 后 AUC 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与频带定义清晰、复杂度分析完整，但部分符号如 $X_{band}$ 的构造与梯度隔离描述略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在快手本地生活全量部署、GMV +8.46%，FPEM 即插即用且不增时延，但代码未开源、频带超参需逐场景调优）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/sequential_rec/time_interval_aware_disentangled_expert_modeling_for_next_basket_recommenda/">    <span class="related-paper-title">Time-Interval-Aware Disentangled Expert Modeling for Next-Basket Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/long_term_interest_clock_fine_grained_time_perception_in_streaming_recommen/">    <span class="related-paper-title">Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/modeling_stage_wise_evolution_of_user_interests_for_news_recommendation/">    <span class="related-paper-title">Modeling Stage-wise Evolution of User Interests for News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../ctr_feature_interaction/interest_changes_considering_user_interest_life_cycle_in_recommendation_sys/">    <span class="related-paper-title">Interest Changes: Considering User Interest Life Cycle in Recommendation System</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/poi_spatiotemporal_rec/spot_trip_dual_preference_driven_out_of_town_trip_recommendation/">    <span class="related-paper-title">SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · POI / Graph</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

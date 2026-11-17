@@ -135,3 +135,16 @@ $$\mathcal{L}=\sum_{(q^{+},q^{-})} l\big(f(p,q^{+},c;\theta),\,f(p,q^{-},c;\thet
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （工业论文写作清晰、算法伪代码完整，但公式较简、缺少复杂度与配比敏感度的定量分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （真实生产部署、2 万 QPM/pod、两位数毫秒 p99，方法论可直接复用，落地价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/hyformer_revisiting_the_roles_of_sequence_modeling_and_feature_interaction_/">    <span class="related-paper-title">HyFormer: Revisiting the Roles of Sequence Modeling and Feature Interaction in CTR Prediction</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/eager_enrich_and_align_generative_query_recommendation_from_clicked_items_i/">    <span class="related-paper-title">EAGER: Enrich-and-Align Generative Query Recommendation from Clicked Items in E-commerce Search</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/intsr_an_integrated_generative_framework_for_search_and_recommendation/">    <span class="related-paper-title">IntSR: An Integrated Generative Framework for Search and Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multi_task_reranking/sort_a_systematically_optimized_ranking_transformer_for_industrial_scale_re/">    <span class="related-paper-title">SORT: A Systematically Optimized Ranking Transformer for Industrial-scale Recommenders</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

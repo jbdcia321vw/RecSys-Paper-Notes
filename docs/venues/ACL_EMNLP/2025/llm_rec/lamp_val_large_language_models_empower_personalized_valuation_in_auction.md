@@ -132,3 +132,16 @@ $$\text{PU}=\sum_{m=1}^{M}\mathbb{I}\{f_m=1\cap z_m=1\}\cdot(v_m-p_m),\quad \tex
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （符号体系与算法 1 清晰，定理与证明置于附录；部分表格下标与正文表述存在轻微不一致）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、7B 模型可本地部署契合隐私诉求；但 LLM 逐商品推理的延迟在万级商品拍卖中仍是工程瓶颈）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/ctr_feature_interaction/bidding_aware_retrieval_for_multi_stage_consistency_in_online_advertising/">    <span class="related-paper-title">Bidding-Aware Retrieval for Multi-Stage Consistency in Online Advertising</span>    <span class="related-paper-meta">CIKM · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/rtbagent_a_llm_based_agent_system_for_real_time_bidding/">    <span class="related-paper-title">RTBAgent: A LLM-based Agent System for Real-Time Bidding</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/bid2x_revealing_dynamics_of_bidding_environment_in_online_advertising_from_/">    <span class="related-paper-title">Bid2X: Revealing Dynamics of Bidding Environment in Online Advertising from A Foundation Model Lens</span>    <span class="related-paper-meta">KDD · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/truthful_aggregation_of_llms_with_an_application_to_online_advertising/">    <span class="related-paper-title">Truthful Aggregation of LLMs with an Application to Online Advertising</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/rl_bandit_rec/dara_few_shot_budget_allocation_in_online_advertising_via_in_context_decisi/">    <span class="related-paper-title">DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

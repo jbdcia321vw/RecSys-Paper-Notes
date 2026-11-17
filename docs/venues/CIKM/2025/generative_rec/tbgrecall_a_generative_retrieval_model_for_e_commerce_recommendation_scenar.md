@@ -124,3 +124,16 @@ $$\mathcal{L}_{NSP}=\sum_{s\in\mathcal{S}}\frac{1}{N_s}\left(\mathcal{L}^{(s)}_{
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （损失与掩码定义清晰，工程细节详实，部分公式排版略粗糙）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （十亿级参数分布式训练 + 近线服务 + PIT 日更全链路落地，线上成交额 +2.16%，工程参考价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/genrec_a_preference_oriented_generative_framework_for_large_scale_recommend/">    <span class="related-paper-title">GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/apao_bridging_the_training_inference_gap_in_generative_recommendation_via_a/">    <span class="related-paper-title">APAO: Bridging the Training-Inference Gap in Generative Recommendation via Adaptive Prefix-Aware Optimization</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/eager_enrich_and_align_generative_query_recommendation_from_clicked_items_i/">    <span class="related-paper-title">EAGER: Enrich-and-Align Generative Query Recommendation from Clicked Items in E-commerce Search</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/one_sequential_recommendation_model_pretrained_from_synthetic_priors_predic/">    <span class="related-paper-title">One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets</span>    <span class="related-paper-meta">KDD · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/mixture_of_sequence_theme_aware_mixture_of_experts_for_long_sequence_recomm/">    <span class="related-paper-title">Mixture of Sequence: Theme-Aware Mixture-of-Experts for Long-Sequence Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

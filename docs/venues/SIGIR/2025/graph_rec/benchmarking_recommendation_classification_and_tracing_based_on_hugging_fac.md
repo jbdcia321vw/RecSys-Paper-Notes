@@ -153,3 +153,16 @@ KGCL 相对最强协同过滤基线 LightGCL 的 Recall@5 提升 `+2.03%`，相�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （任务形式化清晰、统计图表充分，公式较浅、无复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （图谱与基准全开源、20 小时可日更重建，对模型托管平台的检索与推荐改造有直接价值）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/llm_rec/filling_the_gaps_selective_knowledge_augmentation_for_llm_recommenders/">    <span class="related-paper-title">Filling the Gaps: Selective Knowledge Augmentation for LLM Recommenders</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/vk_lsvd_a_large_scale_industrial_dataset_for_short_video_recommendation/">    <span class="related-paper-title">VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/orbit_open_recommendation_benchmark_for_reproducible_research_with_hidden_t/">    <span class="related-paper-title">ORBIT: Open Recommendation Benchmark for Reproducible Research with Hidden Tests</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/llm_powered_nuanced_video_attribute_annotation_for_enhanced_recommendations/">    <span class="related-paper-title">LLM-Powered Nuanced Video Attribute Annotation for Enhanced Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/knowledge_graph_retrieval_augmented_generation_for_llm_based_recommendation/">    <span class="related-paper-title">Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

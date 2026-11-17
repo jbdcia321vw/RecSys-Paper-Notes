@@ -132,3 +132,17 @@ $$\mathcal{L}_{pop}=[r_u^h-T^h]_+ + [T^\ell-r_u^\ell]_+ + [H(T)-H(\bar{r})]_+,$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/how_fair_is_your_diffusion_recommender_model/">    <span class="related-paper-title">How Fair is Your Diffusion Recommender Model?</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/opening_the_black_box_interpretable_remedies_for_popularity_bias_in_recomme/">    <span class="related-paper-title">Opening the Black Box: Interpretable Remedies for Popularity Bias in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/unbiased_collaborative_filtering_with_fair_sampling/">    <span class="related-paper-title">Unbiased Collaborative Filtering with Fair Sampling</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../2025/rl_bandit_rec/enhancing_new_item_fairness_in_dynamic_recommender_systems/">    <span class="related-paper-title">Enhancing New-item Fairness in Dynamic Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/why_is_normalization_necessary_for_linear_recommenders/">    <span class="related-paper-title">Why is Normalization Necessary for Linear Recommenders?</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

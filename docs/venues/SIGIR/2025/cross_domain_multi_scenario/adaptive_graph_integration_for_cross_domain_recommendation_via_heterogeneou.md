@@ -138,3 +138,16 @@ $$\mathcal{L}=-\frac{1}{|\mathcal{B}|}\sum_{(u,i,j)\in\mathcal{B}}\ln\sigma(\hat
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、复杂度分析完整、可视化与案例研究支撑充分，但部分符号如 $\boldsymbol{J}$、$R_C$ 的维度标注略拥挤）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码已开源，下游推理复杂度与 LightGCN 同阶，协调器不进入线上图，腾讯微信场景背书，迁移成本极低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/cross_domain_multi_scenario/rankgraph_unified_heterogeneous_graph_learning_for_cross_domain_recommendat/">    <span class="related-paper-title">RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/cross_domain_multi_scenario/a_unified_framework_for_adaptive_representation_enhancement_and_inversed_le/">    <span class="related-paper-title">A Unified Framework for Adaptive Representation Enhancement and Inversed Learning in Cross-Domain Recommendation</span>    <span class="related-paper-meta">DASFAA · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/mixrec_heterogeneous_graph_collaborative_filtering/">    <span class="related-paper-title">MixRec: Heterogeneous Graph Collaborative Filtering</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/hierarchical_graph_information_bottleneck_for_multi_behavior_recommendation/">    <span class="related-paper-title">Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/self_supervised_denoising/omnisage_large_scale_multi_entity_heterogeneous_graph_representation_learni/">    <span class="related-paper-title">OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning</span>    <span class="related-paper-meta">KDD · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -131,3 +131,16 @@ MovieLens 上相对 BIGRec：DivRatio **+44.7%**、ORRatio **−41.0%**、HR **+
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理与重加权推导清晰，SFT/DPO/SPRec 三者对比图直观；部分符号在正文与附录间略有跳跃）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、推理零额外开销、与现有 LLM 推荐框架解耦；但多轮训练成本与生成式全库排序的线上延迟仍是落地门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../DASFAA/2026/llm_rec/dynamicpo_dynamic_preference_optimization_for_recommendation/">    <span class="related-paper-title">DynamicPO: Dynamic Preference Optimization for Recommendation</span>    <span class="related-paper-meta">DASFAA · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/towards_fair_large_language_model_based_recommender_systems_without_costly_/">    <span class="related-paper-title">Towards Fair Large Language Model-based Recommender Systems without Costly Retraining</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/agent_conversational_rec/usb_rec_an_effective_framework_for_improving_conversational_recommendation_/">    <span class="related-paper-title">USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model</span>    <span class="related-paper-meta">RecSys · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/what_makes_llms_effective_sequential_recommenders_a_study_on_preference_int/">    <span class="related-paper-title">What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

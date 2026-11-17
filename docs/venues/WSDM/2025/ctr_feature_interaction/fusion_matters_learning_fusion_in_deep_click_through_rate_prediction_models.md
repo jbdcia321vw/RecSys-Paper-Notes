@@ -136,3 +136,16 @@ re-train 时若保留软加权即 OptFusion-Soft（$\beta^*=\beta$），若取$\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （搜索空间规模推导清晰、公式与符号定义完整，案例研究可视化直观；部分符号如 $\alpha$与$\boldsymbol{\alpha}$ 混用略欠统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、训练时间优于同类 NAS、Hard 变体推理开销可控，但 Soft 变体的多算子前向成本与搜索阶段额外开销需在工业场景中权衡）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/dlf_enhancing_explicit_implicit_interaction_via_dynamic_low_order_aware_fus/">    <span class="related-paper-title">DLF: Enhancing Explicit-Implicit Interaction via Dynamic Low-Order-Aware Fusion for CTR Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/beyond_dense_connectivity_explicit_sparsity_for_scalable_recommendation/">    <span class="related-paper-title">Beyond Dense Connectivity: Explicit Sparsity for Scalable Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/tayfcs_towards_light_feature_combination_selection_for_deep_recommender_sys/">    <span class="related-paper-title">TayFCS: Towards Light Feature Combination Selection for Deep Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · CTR</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multi_task_reranking/task_blind_no_more_multi_task_information_flow_in_unified_ranking_backbones/">    <span class="related-paper-title">Task-Blind No MORE: Multi-Task Information Flow in Unified Ranking Backbones</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multimodal_rec/native_multimodal_representation_learning_for_click_through_rate_prediction/">    <span class="related-paper-title">Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios</span>    <span class="related-paper-meta">CIKM · 2026 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+</div>
+<!-- related-papers:end -->

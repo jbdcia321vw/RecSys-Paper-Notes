@@ -135,3 +135,17 @@ $$\mathcal{L}_{\text{KL}}=\frac{1}{2nK}\sum_{i=1}^{n}\sum_{k=1}^{K}\left[\frac{\
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （时间切分防穿越、固定骨干换头、三种子、消融+坍缩率+阈值事件+线上 A/B 闭环完整，唯工业集不可复现）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （失败模式图示直观、公式简洁，但坍缩的理论条件仅停留在经验观察，缺形式化分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码与切分全开源，+1.22ms 中位延迟、+0.2M 参数，线上会话深度 +9.26% 且经前后向互换验证，落地价值极高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/flowtime_towards_continuous_generative_watch_time_prediction_via_flow_based/">    <span class="related-paper-title">FlowTime: Towards Continuous Generative Watch Time Prediction via Flow-based Personalized Priors</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cold_start_rec/multi_modal_adaptive_mixture_of_experts_for_cold_start_recommendation/">    <span class="related-paper-title">Multi-modal Adaptive Mixture of Experts for Cold-start Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/swat_statistical_modeling_of_video_watch_time_through_user_behavior_analysi/">    <span class="related-paper-title">SWaT: Statistical Modeling of Video Watch Time through User Behavior Analysis</span>    <span class="related-paper-meta">KDD · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/efficient_multimodal_streaming_recommendation_via_expandable_side_mixture_o/">    <span class="related-paper-title">Efficient Multimodal Streaming Recommendation via Expandable Side Mixture-of-Experts</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/personalized_diffusion_model_reshapes_cold_start_bundle_recommendation/">    <span class="related-paper-title">Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / GenRec</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -123,3 +123,16 @@ $$R(Q_{rew})=\begin{cases}1.0+\alpha\cdot\text{clip}(\log(qv+1),N_{low},N_{up}) 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化、奖励函数与 GRPO 目标推导清晰，公式紧凑；部分符号如 $N_{low}/N_{up}$ 取值未交代）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （十亿级 MAU 平台全量部署，零额外服务成本、零感知延迟，架构可复用性极强；扣分项为未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/recap_feedback_driven_streaming_semantic_user_profiles_for_short_video_reco/">    <span class="related-paper-title">RECAP: Feedback-Driven Streaming Semantic User Profiles for Short-Video Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/collaborative_filtering/crops_improving_dense_retrieval_with_cross_perspective_positive_samples_in_/">    <span class="related-paper-title">CroPS: Improving Dense Retrieval with Cross-Perspective Positive Samples in Short-Video Search</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/generative_rec/great_guiding_query_generation_with_a_trie_for_recommending_related_search_/">    <span class="related-paper-title">GREAT: Guiding Query Generation with a Trie for Recommending Related Search about Video at Kuaishou</span>    <span class="related-paper-meta">KDD · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/make_it_long_keep_it_fast_end_to_end_10k_long_user_behavior_sequence_modeli/">    <span class="related-paper-title">Make It Long, Keep It Fast: End-to-End 10K Long User Behavior Sequence Modeling for Billion-Scale Douyin Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/beyond_item_ids_scaling_short_form_video_recommendation_via_semantic_native/">    <span class="related-paper-title">Beyond Item IDs: Scaling Short-Form-Video Recommendation via Semantic-Native Long Sequence Modeling</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

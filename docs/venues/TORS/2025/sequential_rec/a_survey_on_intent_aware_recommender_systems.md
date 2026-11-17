@@ -125,3 +125,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （术语辨析与四类路线边界清晰，几乎无公式，符号负担极低）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （线上 A/B 实证汇总与 28% 复现率警示对工业与研究社区均有直接指导意义）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../TKDD/2026/generative_rec/eval4direc_a_unified_and_systematic_evaluation_framework_for_diffusion_base/">    <span class="related-paper-title">Eval4DiRec: A Unified and Systematic Evaluation Framework for Diffusion-based Recommender Systems</span>    <span class="related-paper-meta">ACM TKDD · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../llm_rec/a_bi_step_grounding_paradigm_for_large_language_models_in_recommendation_sy/">    <span class="related-paper-title">A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/mitigating_propensity_bias_of_large_language_models_for_recommender_systems/">    <span class="related-paper-title">Mitigating Propensity Bias of Large Language Models for Recommender Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

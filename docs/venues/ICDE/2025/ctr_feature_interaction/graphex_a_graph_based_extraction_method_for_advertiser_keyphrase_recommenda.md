@@ -121,3 +121,16 @@ $$\mathrm{LTA}(l,c)=\frac{c}{|l|-c+1}$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （LTA 设计与复杂度分析交代清楚，动机—挑战—方案的叙事链完整；部分指标定义与表格口径需交叉阅读才能对齐）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （CPU 毫秒级、无 GPU、构建 <1 分钟、支持每日刷新，已在 eBay 上线并带来 8.3% 收入增量，落地价值极高；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/middleman_bias_in_advertising_aligning_relevance_of_keyphrase_recommendatio/">    <span class="related-paper-title">Middleman Bias in Advertising: Aligning Relevance of Keyphrase Recommendations with Search</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/smart_llm_augmented_hybrid_retrieval_for_dynamic_product_ads/">    <span class="related-paper-title">SMART: LLM-Augmented Hybrid Retrieval for Dynamic Product Ads</span>    <span class="related-paper-meta">RecSys · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/training_large_recommendation_models_via_graph_language_token_alignment/">    <span class="related-paper-title">Training Large Recommendation Models via Graph-Language Token Alignment</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/generative_product_recommendations_for_implicit_superlative_queries/">    <span class="related-paper-title">Generative Product Recommendations for Implicit Superlative Queries</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/collaborative_filtering/scaling_multilingual_semantic_search_in_uber_eats_delivery/">    <span class="related-paper-title">Scaling Multilingual Semantic Search in Uber Eats Delivery</span>    <span class="related-paper-meta">KDD · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

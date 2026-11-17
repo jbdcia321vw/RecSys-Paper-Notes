@@ -131,3 +131,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （合成+两个真实数据集、10 次重复+Wilcoxon 检验、$\alpha$/Sinkhorn/鲁棒性多组消融齐全，但真实数据规模与线上 A/B 缺失）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定义-命题-定理链条清晰，Example 3.2/3.4 反例直观，符号略密集但附录有汇总）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、Sinkhorn 版可 GPU 批处理支撑上百规模，但偏好概率估计与在线低延迟部署仍需额外工程）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/evaluation_measures_of_individual_item_fairness_for_recommender_systems_a_c/">    <span class="related-paper-title">Evaluation Measures of Individual Item Fairness for Recommender Systems: A Critical Study</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../robustness_analysis_of_pareto_based_joint_evaluation_of_fairness_and_releva/">    <span class="related-paper-title">Robustness Analysis of Pareto-based Joint Evaluation of Fairness and Relevance in Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/dynamic_fairness_aware_recommendation_through_multi_agent_social_choice/">    <span class="related-paper-title">Dynamic Fairness-aware Recommendation through Multi-agent Social Choice</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/the_efficiency_vs_accuracy_trade_off_optimizing_rag_enhanced_llm_recommende/">    <span class="related-paper-title">The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2026/debias_fairness_industrial/mitigating_popularity_bias_in_recommendation_with_global_listwise_learning_/">    <span class="related-paper-title">Mitigating Popularity Bias in Recommendation with Global Listwise Learning and Progressive Bi-Weighting</span>    <span class="related-paper-meta">ACM TOIS · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

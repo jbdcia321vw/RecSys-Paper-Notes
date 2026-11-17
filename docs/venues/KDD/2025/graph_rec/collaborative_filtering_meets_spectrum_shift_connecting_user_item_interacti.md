@@ -148,3 +148,16 @@ $\mu$敏感性（Baby，$\mu^*=0.1203$）：$\mu=0$时 R@20 为 0.1033，$\mu=0.
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Rayleigh 商诊断与定理 3.1 推导清晰，仿射等价性证明简洁；超参估计部分坦承近似性，严谨）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （零额外推理开销、几行代码即插即用、已开源，训练时间与骨干持平，工程落地门槛极低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/graph_rec/how_do_graph_signals_affect_recommendation_unveiling_the_mystery_of_low_and/">    <span class="related-paper-title">How Do Graph Signals Affect Recommendation: Unveiling the Mystery of Low and High-Frequency Graph Signals</span>    <span class="related-paper-meta">KDD · 2026 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/collaborative_filtering/graph_spectral_filtering_with_chebyshev_interpolation_for_recommendation/">    <span class="related-paper-title">Graph Spectral Filtering with Chebyshev Interpolation for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/self_supervised_denoising/radar_relation_aware_diffusion_asymmetric_graph_contrastive_learning_for_re/">    <span class="related-paper-title">RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/collaborative_filtering/memory_is_no_longer_a_bottleneck_memory_efficient_graph_filtering_for_scala/">    <span class="related-paper-title">Memory Is No Longer a Bottleneck: Memory-Efficient Graph Filtering for Scalable Collaborative Filtering</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/self_supervised_denoising/sgcl_unifying_self_supervised_and_supervised_learning_for_graph_recommendat/">    <span class="related-paper-title">SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

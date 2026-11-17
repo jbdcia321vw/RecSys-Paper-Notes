@@ -132,3 +132,17 @@ $$\mathcal{L}_{\mathrm{red}}=\frac{1}{K}\sum_{k=1}^{K}\frac{\boldsymbol{e}^{(\ma
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （6 个 Surface 的离线 NE + 线上 A/B 覆盖充分且方向一致，但无公开数据集、无开源、无与外部 SOTA 的同协议对比，消融以专家族聚合为主）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （系统三阶段与四类专家职责划分清晰，MRM/CRL 公式简洁可落地；但部分关键设计如随机长度训练的采样分布、$\lambda$取值与$\tau$ 阈值均未给出具体数值）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （混合 CPU/GPU 服务栈、79% GPU 降本、3–5× 评估提速对大规模工业团队极具参考价值；但闭源与强内部依赖使外部复现门槛极高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/unifying_search_and_recommendation_in_llms_via_gradient_multi_subspace_tuni/">    <span class="related-paper-title">Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../generative_rec/towards_generalizable_and_efficient_large_scale_generative_recommenders/">    <span class="related-paper-title">Towards Generalizable and Efficient Large-Scale Generative Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/grank_towards_target_aware_and_streamlined_industrial_retrieval_with_a_gene/">    <span class="related-paper-title">GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / MTL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multi_task_reranking/direct_routing_gradient_drgrad_a_personalized_information_surgery_for_multi/">    <span class="related-paper-title">Direct Routing Gradient (DRGrad): A Personalized Information Surgery for Multi-Task Learning (MTL) Recommendations</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MTL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../llm_rec/llm_based_user_personas_for_recommendations_at_scale/">    <span class="related-paper-title">LLM-Based User Personas for Recommendations at Scale</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

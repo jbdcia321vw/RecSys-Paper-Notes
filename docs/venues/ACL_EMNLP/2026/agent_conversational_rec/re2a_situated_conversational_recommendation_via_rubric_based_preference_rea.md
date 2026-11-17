@@ -125,3 +125,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （双数据集双骨干、三层回复评估协议、独立裁判与替代模拟器鲁棒性验证齐全，扣分在于场景内候选排序非全库、未完全隔离监督贡献）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义清晰、GRPO/DPO 目标完整，但部分关键细节如解析器排序提示、评分标准示例置于附录，正文自洽性略依赖附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、训练期组件零推理开销、蒸馏 4B 变体给出可行部署路径，但 2.3s 级时延与级联误差传播对实时线上系统仍是门槛）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../where_and_what_reasoning_dynamic_and_implicit_preferences_in_situated_conve/">    <span class="related-paper-title">Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/when_and_how_to_ask_dynamic_preference_elicitation_strategies_for_conversat/">    <span class="related-paper-title">When and How to Ask: Dynamic Preference Elicitation Strategies for Conversational Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/llm_rec/reason4rec_deliberative_user_preference_alignment_of_large_language_models_/">    <span class="related-paper-title">Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../harpo_hierarchical_agentic_reasoning_for_user_aligned_conversational_recomm/">    <span class="related-paper-title">HARPO: Hierarchical Agentic Reasoning for User-Aligned Conversational Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../towards_effective_structured_context_modeling_for_conversational_recommende/">    <span class="related-paper-title">Towards Effective Structured Context Modeling for Conversational Recommender Systems via Dual-node Monte Carlo Tree Search</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

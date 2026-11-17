@@ -124,3 +124,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （使用无偏测试集与半合成偏差扫描是加分项，但愿景短文未给出统一主表、消融数值与显著性检验，证据链需回查子工作）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三条工作线的问题—局限—切入逻辑清晰、动机图到位，但公式与符号在短文中高度压缩，缺复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （PPD 免重训可直接作用于已部署模型、CFC 模型无关可插拔，落地友好；但暂无开源代码，复现需自行补齐细节）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/taming_recommendation_bias_with_causal_intervention_on_evolving_personal_po/">    <span class="related-paper-title">Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/causality_aware_graph_aggregation_weight_estimator_for_popularity_debiasing/">    <span class="related-paper-title">Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../2025/poi_spatiotemporal_rec/exploring_the_effect_of_context_awareness_and_popularity_calibration_on_pop/">    <span class="related-paper-title">Exploring the Effect of Context-Awareness and Popularity Calibration on Popularity Bias in POI Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · POI / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/unbiased_collaborative_filtering_with_fair_sampling/">    <span class="related-paper-title">Unbiased Collaborative Filtering with Fair Sampling</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../2025/cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

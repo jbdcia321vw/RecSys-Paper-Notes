@@ -145,3 +145,16 @@ $\alpha=20\%$，指标为 MAE（括号内为相对完整模型的退化幅度）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （ELBO 经 NF 修正的推导完整，复杂度分析到位；但符号表与正文部分记号略冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （全 MLP 架构、参数量与显存均低于基线，易部署；但未开源、训练耗时偏高、超参需分场景调）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/cross_domain_multi_scenario/exploring_preference_guided_diffusion_model_for_cross_domain_recommendation/">    <span class="related-paper-title">Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/cross_domain_multi_scenario/cross_domain_sequential_recommendation_with_representation_level_user_trans/">    <span class="related-paper-title">Cross-Domain Sequential Recommendation with Representation-Level User Transfer</span>    <span class="related-paper-meta">CIKM · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/cross_domain_multi_scenario/automated_prompting_for_non_overlapping_cross_domain_sequential_recommendat/">    <span class="related-paper-title">Automated Prompting for Non-overlapping Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/uncovering_cross_domain_recommendation_ability_of_large_language_models/">    <span class="related-paper-title">Uncovering Cross-Domain Recommendation Ability of Large Language Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/collm_integrating_collaborative_embeddings_into_large_language_models_for_r/">    <span class="related-paper-title">CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

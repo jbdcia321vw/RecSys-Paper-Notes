@@ -125,3 +125,16 @@ CD&Vinyl→Movies&TV 上 MAP@1 相对提升 **64.28%**、MAP@5 **44.62%**、MAP@
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题定义清晰、RQ 驱动结构工整、提示模板与解析规则交代完整，但全文无形式化公式与复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐ （免训练流水线易落地，但闭源 API 成本、无开源代码、标题级特征与 20 项候选规模距工业全库召回差距较大）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/cross_domain_multi_scenario/automated_prompting_for_non_overlapping_cross_domain_sequential_recommendat/">    <span class="related-paper-title">Automated Prompting for Non-overlapping Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/cross_domain_multi_scenario/x_cross_dynamic_integration_of_language_models_for_cross_domain_sequential_/">    <span class="related-paper-title">X-Cross: Dynamic Integration of Language Models for Cross-Domain Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/cross_domain_multi_scenario/cross_domain_sequential_recommendation_with_representation_level_user_trans/">    <span class="related-paper-title">Cross-Domain Sequential Recommendation with Representation-Level User Transfer</span>    <span class="related-paper-meta">CIKM · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/cross_domain_multi_scenario/llm_edt_large_language_model_enhanced_cross_domain_sequential_recommendatio/">    <span class="related-paper-title">LLM-EDT: Large Language Model Enhanced Cross-domain Sequential Recommendation with Dual-phase Training</span>    <span class="related-paper-meta">SIGIR · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+</div>
+<!-- related-papers:end -->

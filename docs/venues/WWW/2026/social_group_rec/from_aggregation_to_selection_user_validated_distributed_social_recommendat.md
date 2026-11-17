@@ -136,3 +136,17 @@ $$\text{Vote}(\phi,p,q,t)=\mathbb{I}\Big[P(p,q)>\max_{q'\in\text{Neg}(\phi,p,q,t
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/social_group_rec/community_aware_social_community_recommendation/">    <span class="related-paper-title">Community-Aware Social Community Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Social / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/social_group_rec/score_based_generative_diffusion_models_for_social_recommendations/">    <span class="related-paper-title">Score-based Generative Diffusion Models for Social Recommendations</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../2025/multi_task_reranking/llm4rerank_llm_based_auto_reranking_framework_for_recommendations/">    <span class="related-paper-title">LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../debias_fairness_industrial/quantifying_user_coherence_a_unified_framework_for_analyzing_recommender_sy/">    <span class="related-paper-title">Quantifying User Coherence: A Unified Framework for Analyzing Recommender Systems Across Domains</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/creator_side_recommender_system_challenges_designs_and_applications/">    <span class="related-paper-title">Creator-Side Recommender System: Challenges, Designs, and Applications</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

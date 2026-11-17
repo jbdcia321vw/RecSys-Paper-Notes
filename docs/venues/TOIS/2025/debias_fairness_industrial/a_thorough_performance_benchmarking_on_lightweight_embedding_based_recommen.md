@@ -136,3 +136,16 @@ CF 任务（Yelp2018，LightGCN 骨干，节选）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号统一，OptEmbed 分布改造推导完整；但部分表格排版拥挤、跨任务结论散落多处）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （全代码开源、含 CUDA/Numba 实现与树莓派部署脚本，直接回答"该选哪个 LERS"的工程问题）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/the_efficiency_vs_accuracy_trade_off_optimizing_rag_enhanced_llm_recommende/">    <span class="related-paper-title">The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../TKDD/2026/generative_rec/eval4direc_a_unified_and_systematic_evaluation_framework_for_diffusion_base/">    <span class="related-paper-title">Eval4DiRec: A Unified and Systematic Evaluation Framework for Diffusion-based Recommender Systems</span>    <span class="related-paper-meta">ACM TKDD · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/debias_fairness_industrial/a_survey_on_trustworthy_recommender_systems/">    <span class="related-paper-title">A Survey on Trustworthy Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/ctr_feature_interaction/towards_automated_model_design_on_recommender_systems/">    <span class="related-paper-title">Towards Automated Model Design on Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

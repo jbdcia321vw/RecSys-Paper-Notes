@@ -148,3 +148,16 @@ IAR 消融：Skip-SASRec 相对 SASRec 的 nDCG@5 从 0.152 升至 **0.209**、R
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （数据统计与特征说明详尽透明，公式简洁；Mercatran 训练细节与损失推导略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （数据与代码全开源，含线上 A/B 与部署延迟数据，是少见的学术界-工业界闭环范本）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/self_supervised_denoising/a_self_supervised_mixture_of_experts_framework_for_multi_behavior_recommend/">    <span class="related-paper-title">A Self-Supervised Mixture-of-Experts Framework for Multi-behavior Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · SSL / CF</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/you_are_what_you_bought_generating_customer_personas_for_e_commerce_applica/">    <span class="related-paper-title">You Are What You Bought: Generating Customer Personas for E-commerce Applications</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/reference_recommendation_based_membership_inference_attack_against_hybrid_b/">    <span class="related-paper-title">Reference Recommendation based Membership Inference Attack against Hybrid-based Recommender Systems</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/suggest_complement_inspire_story_of_two_tower_recommendations_at_allegro_co/">    <span class="related-paper-title">Suggest, Complement, Inspire: Story of Two Tower Recommendations at Allegro.com</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/generative_product_recommendations_for_implicit_superlative_queries/">    <span class="related-paper-title">Generative Product Recommendations for Implicit Superlative Queries</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

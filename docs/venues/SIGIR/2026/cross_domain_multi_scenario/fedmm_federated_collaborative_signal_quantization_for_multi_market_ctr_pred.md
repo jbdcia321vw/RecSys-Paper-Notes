@@ -134,3 +134,17 @@ Overall AUC（各市场按交互量加权/平均后的总体值）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/plug_and_play_parameter_efficient_tuning_of_embeddings_for_federated_recomm/">    <span class="related-paper-title">Plug-and-Play Parameter-Efficient Tuning of Embeddings for Federated Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/fedecider_an_llm_based_framework_for_federated_cross_domain_recommendation/">    <span class="related-paper-title">FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/debias_fairness_industrial/personalized_federated_collaborative_filtering_a_variational_autoencoder_ap/">    <span class="related-paper-title">Personalized Federated Collaborative Filtering: A Variational AutoEncoder Approach</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/cross_domain_multi_scenario/towards_personalized_federated_multi_scenario_multi_task_recommendation/">    <span class="related-paper-title">Towards Personalized Federated Multi-Scenario Multi-Task Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cross / MTL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../TMM/2025/cross_domain_multi_scenario/federated_user_preference_modeling_for_privacy_preserving_cross_domain_reco/">    <span class="related-paper-title">Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation</span>    <span class="related-paper-meta">IEEE TMM · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

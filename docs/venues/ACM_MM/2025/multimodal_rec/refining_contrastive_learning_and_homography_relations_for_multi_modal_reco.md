@@ -129,3 +129,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （多视图冗余假设与正交约束的理论铺垫到位，公式与符号统一；部分注意力公式的下标书写略紧凑）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，同构图离线构建、低秩元网络开销可控，推理为标准内积全库排序，工程落地门槛低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/cohesion_composite_graph_convolutional_network_with_dual_stage_fusion_for_m/">    <span class="related-paper-title">COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/multimodal_rec/training_free_graph_based_imputation_of_missing_modalities_in_multimodal_re/">    <span class="related-paper-title">Training-free Graph-based Imputation of Missing Modalities in Multimodal Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/multimodal_rec/robust_multimodal_recommendation_via_graph_retrieval_enhanced_modality_comp/">    <span class="related-paper-title">Robust Multimodal Recommendation via Graph Retrieval-Enhanced Modality Completion</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/mentor_multi_level_self_supervised_learning_for_multimodal_recommendation/">    <span class="related-paper-title">MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/beyond_graph_convolution_multimodal_recommendation_with_topology_aware_mlps/">    <span class="related-paper-title">Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

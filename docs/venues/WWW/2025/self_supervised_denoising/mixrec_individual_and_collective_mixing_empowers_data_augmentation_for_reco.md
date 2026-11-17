@@ -130,3 +130,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式紧凑、三类视图角色定义清晰，复杂度分析完整；部分符号如 $\mathcal{O}^-_u$与$\mathbf{e}^{dis}$ 的构造细节略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源，增强仅需一次加法、推理零额外开销，MixRec-1 训练 18 分钟即可超越多层基线，工程部署门槛极低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/can_recommender_systems_teach_themselves_a_recursive_self_improving_framewo/">    <span class="related-paper-title">Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/cross_domain_multi_scenario/mergerec_model_merging_for_data_isolated_cross_domain_sequential_recommenda/">    <span class="related-paper-title">MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/multimodal_rec/vi_mmrec_similarity_aware_training_cost_free_virtual_user_item_interactions/">    <span class="related-paper-title">VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/augmenting_sequential_recommendation_with_balanced_relevance_and_diversity/">    <span class="related-paper-title">Augmenting Sequential Recommendation with Balanced Relevance and Diversity</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/self_supervised_denoising/generative_data_augmentation_in_graph_contrastive_learning_for_recommendati/">    <span class="related-paper-title">Generative Data Augmentation in Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -125,3 +125,16 @@ $$\mathcal{L}=-\log\frac{\exp(s^{+})}{\exp(s^{+})+\sum_{k=1}^{N}\exp(s^{-}_{k})}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （模块划分清晰、公式精简，LiGR 实现细节需回引原文稍显不足）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码/数据/切分全开源，改动极小、无需额外特征，可直接嵌入现有召回管线）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/sequential_rec/do_sequential_recommendation_benchmarks_really_require_higher_order_sequenc/">    <span class="related-paper-title">Do Sequential Recommendation Benchmarks Really Require Higher-Order Sequence Modelling?</span>    <span class="related-paper-meta">RecSys · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multi_task_reranking/sort_a_systematically_optimized_ranking_transformer_for_industrial_scale_re/">    <span class="related-paper-title">SORT: A Systematically Optimized Ranking Transformer for Industrial-scale Recommenders</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/collaborative_filtering/transretrieval_scaling_up_transformer_based_retrieval_for_industrial_recomm/">    <span class="related-paper-title">TransRetrieval: Scaling Up Transformer-Based Retrieval for Industrial Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · CF / Cross</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/multi_task_reranking/onerank_unified_transformer_native_ranking_architecture_for_multi_task_reco/">    <span class="related-paper-title">OneRank: Unified Transformer-Native Ranking Architecture for Multi-Task Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -131,3 +131,17 @@ $$\mathcal{L}_{dist}=\mathrm{MSE}\big(f_\phi^{(t)}(\mathcal{R}^{(t)}),\; f_\phi^
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/federated_continual_recommendation/">    <span class="related-paper-title">Federated Continual Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.87</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/personalized_recommendation_models_in_federated_settings_a_survey/">    <span class="related-paper-title">Personalized Recommendation Models in Federated Settings: A Survey</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/continual_recommender_systems/">    <span class="related-paper-title">Continual Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/debias_fairness_industrial/a_federated_framework_for_llm_based_recommendation/">    <span class="related-paper-title">A Federated Framework for LLM-based Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2026/debias_fairness_industrial/a_survey_of_personalized_federated_foundation_models_for_privacy_preserving/">    <span class="related-paper-title">A Survey of Personalized Federated Foundation Models for Privacy-Preserving Recommendation</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -147,3 +147,17 @@ UQ 方法选择（MIMIC-III PRAUC）：Auxiliary Error 0.752 > NC Dropout 0.748 
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （双数据集五折 + 95% CI + 分位冷启动分析 + UQ/β 消融较完整，但缺少全库排序协议与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号表清晰、算法伪代码完整，但部分符号如 $\hat{S}$与$S$ 的上下标略冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、仅更新预测层使自适应开销极低，但 DDI 安全性与在线延迟是落地前必须补齐的短板）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/improving_rare_medication_recommendation_with_counterfactual_data_augmentat/">    <span class="related-paper-title">Improving Rare Medication Recommendation with Counterfactual Data Augmentation and Large Language Models</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/fine_grained_list_wise_alignment_for_generative_medication_recommendation/">    <span class="related-paper-title">Fine-grained List-wise Alignment for Generative Medication Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../2025/cross_domain_multi_scenario/personalized_multi_interest_modeling_for_cross_domain_recommendation_to_col/">    <span class="related-paper-title">Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users</span>    <span class="related-paper-meta">ICDE · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/cold_start_rec/online_item_cold_start_recommendation_with_popularity_aware_meta_learning/">    <span class="related-paper-title">Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning</span>    <span class="related-paper-meta">KDD · 2025 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cold_start_rec/harnessing_light_for_cold_start_recommendations_leveraging_epistemic_uncert/">    <span class="related-paper-title">Harnessing Light for Cold-Start Recommendations: Leveraging Epistemic Uncertainty to Enhance Performance in User-Item Interactions</span>    <span class="related-paper-meta">CIKM · 2025 · Cold / CTR</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

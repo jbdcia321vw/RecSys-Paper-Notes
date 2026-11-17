@@ -122,3 +122,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与三块结构定义清楚，阶数增长分析直观；部分符号如 $\mathbf{W}_{LI}$维度与$R$ 的含义交代略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、基于 FuxiCTR 易复现、模块可插拔，但深层注意力的延迟开销需工业侧再评估）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/ctr_feature_interaction/beyond_dense_connectivity_explicit_sparsity_for_scalable_recommendation/">    <span class="related-paper-title">Beyond Dense Connectivity: Explicit Sparsity for Scalable Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../elec_efficient_large_language_model_empowered_click_through_rate_prediction/">    <span class="related-paper-title">ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/ctr_feature_interaction/fusion_matters_learning_fusion_in_deep_click_through_rate_prediction_models/">    <span class="related-paper-title">Fusion Matters: Learning Fusion in Deep Click-through Rate Prediction Models</span>    <span class="related-paper-meta">WSDM · 2025 · CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/sequential_rec/time_aware_adaptive_side_information_fusion_for_sequential_recommendation/">    <span class="related-paper-title">Time-Aware Adaptive Side Information Fusion for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/multimodal_rec/prism_personalized_recommendation_via_information_synergy_module/">    <span class="related-paper-title">PRISM: Personalized Recommendation via Information Synergy Module</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

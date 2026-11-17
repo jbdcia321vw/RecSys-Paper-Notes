@@ -137,3 +137,16 @@ Poison 攻击（目标：SocialLGN，LastFM）：N@5 由 0.2946 降至 **0.2851*
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （DEC-POMDP 建模与策略梯度公式清晰，复杂度分析到位；部分符号在正文与算法间略有冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （攻击视角对鲁棒推荐系统建设有直接价值，但未开源、训练开销与真实检测器对抗性待补）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TORS/2025/debias_fairness_industrial/evaluating_impact_of_user_cluster_targeted_attacks_in_matrix_factorisation_/">    <span class="related-paper-title">Evaluating Impact of User-Cluster Targeted Attacks in Matrix Factorisation Recommenders</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/multimodal_rec/reasonrec_a_reasoning_augmented_multimodal_agent_for_unified_recommendation/">    <span class="related-paper-title">ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/debias_fairness_industrial/dynamic_fairness_aware_recommendation_through_multi_agent_social_choice/">    <span class="related-paper-title">Dynamic Fairness-aware Recommendation through Multi-agent Social Choice</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/agent_conversational_rec/collab_rec_an_llm_based_agentic_framework_for_balancing_recommendations_in_/">    <span class="related-paper-title">Collab-Rec: An LLM-based Agentic Framework for Balancing Recommendations in Tourism</span>    <span class="related-paper-meta">ACM TORS · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../cross_domain_multi_scenario/causal_deconfounding_via_confounder_disentanglement_for_dual_target_cross_d/">    <span class="related-paper-title">Causal Deconfounding via Confounder Disentanglement for Dual-Target Cross-Domain Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -129,3 +129,16 @@ $$i_j^{*}=\arg\max_{i'\in H_u^{(j-1)}}\left(1-\cos\left(e_u^{(j-1)},\,e_u^{(j-1)
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题动机图 1 极具说服力，公式与算法流程清晰，局限自陈诚实；但缺复杂度与成本分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码开源、即插即用、模型无关，但 LLM 调用成本高且会抬高无解率，需工程优化后才适合线上解释服务）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/agent_conversational_rec/from_counterfactual_edits_to_human_narratives_llm_driven_interpretations_fo/">    <span class="related-paper-title">From Counterfactual Edits to Human Narratives: LLM-Driven Interpretations for Recommender System Explanations</span>    <span class="related-paper-meta">CIKM · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/bridging_semantic_understanding_and_popularity_bias_with_llms/">    <span class="related-paper-title">Bridging Semantic Understanding and Popularity Bias with LLMs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../opening_the_black_box_interpretable_remedies_for_popularity_bias_in_recomme/">    <span class="related-paper-title">Opening the Black Box: Interpretable Remedies for Popularity Bias in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/exploring_the_escalation_of_source_bias_in_user_data_and_recommender_system/">    <span class="related-paper-title">Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

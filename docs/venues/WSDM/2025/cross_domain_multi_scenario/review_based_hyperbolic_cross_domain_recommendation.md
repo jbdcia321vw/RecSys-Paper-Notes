@@ -139,3 +139,16 @@ HEAD-P 相对 SER 在 Luxury Beauty 上 NDCG@10 提升约 16.1%（0.149→0.173�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三个 Proposition 均附梯度尺度证明，双曲映射与损失定义清晰，复杂度分析完整）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，整体复杂度线性于目标域规模，判别器与归一化开销极低，适合冷启动场景快速落地）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/large_language_models_enhanced_hyperbolic_space_recommender_systems/">    <span class="related-paper-title">Large Language Models Enhanced Hyperbolic Space Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/collaborative_filtering/breaking_information_cocoons_a_hyperbolic_framework_for_balancing_explorati/">    <span class="related-paper-title">Breaking Information Cocoons: A Hyperbolic Framework for Balancing Exploration and Exploitation in Recommender Systems</span>    <span class="related-paper-meta">KDD · 2026 · CF / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../self_supervised_denoising/a_contrastive_framework_with_user_item_and_review_alignment_for_recommendat/">    <span class="related-paper-title">A Contrastive Framework with User, Item and Review Alignment for Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/cross_domain_multi_scenario/automated_prompting_for_non_overlapping_cross_domain_sequential_recommendat/">    <span class="related-paper-title">Automated Prompting for Non-overlapping Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/leveraging_geometric_insights_in_hyperbolic_triplet_loss_for_improved_recom/">    <span class="related-paper-title">Leveraging Geometric Insights in Hyperbolic Triplet Loss for Improved Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

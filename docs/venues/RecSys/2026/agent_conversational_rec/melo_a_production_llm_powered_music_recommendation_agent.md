@@ -135,3 +135,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （百万用户级线上 A/B 难得，但缺显著性检验；离线集仅 298 条且定向过采样，重试因触发率过低无法独立 A/B）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （失效模式—机制—指标的叙事链条清晰，生产 trace 与延迟分解详实；但全文无形式化公式与复杂度分析，偏经验报告体）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （真实亿级平台部署、Muse Mix 累计超百万用户，延迟/成本纪律可直接借鉴；但未开源，接地阈值与重试预算强平台相关，复现需重调）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/llm_rec/harp_training_free_dual_profile_agentic_communication_for_llm_based_recomme/">    <span class="related-paper-title">HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../2025/multimodal_rec/beyond_the_past_leveraging_audio_and_human_memory_for_sequential_music_reco/">    <span class="related-paper-title">Beyond the past: Leveraging Audio and Human Memory for Sequential Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/debias_fairness_industrial/echotrace_diagnosing_recursive_risks_in_llm_powered_recommender_systems/">    <span class="related-paper-title">EchoTrace: Diagnosing Recursive Risks in LLM-Powered Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../shape_your_feed_an_llm_based_agentic_system_for_conversational_recommendati/">    <span class="related-paper-title">Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / MTL</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/rectoolbench_benchmarking_recommendation_specific_tool_orchestration_under_/">    <span class="related-paper-title">RecToolBench: Benchmarking Recommendation-Specific Tool Orchestration under Fuzzy User Intent</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -118,3 +118,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （覆盖生成式检索+精排+线上 A/B 三场景且含缩放律分析，但无公开数据集、无显著性检验、划分细节缺失）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （SE 定义、梯度推导与奇异值保持命题简洁自洽，5 页短文信息密度高，部分符号与实验细节略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （线上 GMV +8.95% 的实打实收益与零推理延迟极具吸引力，但闭源与 QR 开销分析不足削弱复现价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/orthogonal_low_rank_embedding_stabilization/">    <span class="related-paper-title">Orthogonal Low Rank Embedding Stabilization</span>    <span class="related-paper-meta">RecSys · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/cold_start_rec/learning_sparse_representations_of_multimodal_content_for_enhanced_cold_ite/">    <span class="related-paper-title">Learning Sparse Representations of Multimodal Content for Enhanced Cold Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/efficient_learning_of_sparse_representations_from_interactions/">    <span class="related-paper-title">Efficient Learning of Sparse Representations from Interactions</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/the_future_is_sparse_embedding_compression_for_scalable_retrieval_in_recomm/">    <span class="related-paper-title">The Future is Sparse: Embedding Compression for Scalable Retrieval in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../ctr_feature_interaction/beyond_dense_connectivity_explicit_sparsity_for_scalable_recommendation/">    <span class="related-paper-title">Beyond Dense Connectivity: Explicit Sparsity for Scalable Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -126,3 +126,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （公式与符号基本清晰，但 Lyapunov 式排版错误较多、MMD 核带宽选择未给依据、部分符号前后不一致）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、基于 MMRec 框架易复现，降维因子提供了明确的显存-性能调节旋钮，工程可部署性强）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/multimodal_rec/structural_and_disentangled_adaptation_of_large_vision_language_models_for_/">    <span class="related-paper-title">Structural and Disentangled Adaptation of Large Vision Language Models for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../2026/multimodal_rec/information_guided_selective_modality_interest_alignment_for_multimodal_rec/">    <span class="related-paper-title">Information-Guided Selective Modality-Interest Alignment for Multimodal Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/mentor_multi_level_self_supervised_learning_for_multimodal_recommendation/">    <span class="related-paper-title">MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../hypercomplex_prompt_aware_multimodal_recommendation/">    <span class="related-paper-title">Hypercomplex Prompt-aware Multimodal Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/cohesion_composite_graph_convolutional_network_with_dual_stage_fusion_for_m/">    <span class="related-paper-title">COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

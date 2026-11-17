@@ -131,3 +131,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与公式清晰，NTTP 与 Logits Filter 定义明确，理论分析偏薄）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （真实快手场景落地、开源 KuaiRS 数据集与代码，1.5B 小模型即可上线，工程价值高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/llm_based_user_personas_for_recommendations_at_scale/">    <span class="related-paper-title">LLM-Based User Personas for Recommendations at Scale</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/collaborative_filtering/crops_improving_dense_retrieval_with_cross_perspective_positive_samples_in_/">    <span class="related-paper-title">CroPS: Improving Dense Retrieval with Cross-Perspective Positive Samples in Short-Video Search</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/a_content_driven_micro_video_recommendation_dataset_at_scale/">    <span class="related-paper-title">A Content-Driven Micro-Video Recommendation Dataset at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/personalizing_incremental_video_search_with_hybrid_text_and_id_embeddings/">    <span class="related-paper-title">Personalizing Incremental Video Search with Hybrid Text and ID Embeddings</span>    <span class="related-paper-meta">RecSys · 2026 · CF / CTR</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/beyond_item_ids_scaling_short_form_video_recommendation_via_semantic_native/">    <span class="related-paper-title">Beyond Item IDs: Scaling Short-Form-Video Recommendation via Semantic-Native Long Sequence Modeling</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

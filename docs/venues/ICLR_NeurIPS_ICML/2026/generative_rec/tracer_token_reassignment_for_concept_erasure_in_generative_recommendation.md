@@ -129,3 +129,17 @@ Forget HR@5 相对 PISCES 提升：MOR-Industrial **20.8%**、LETTER-Industrial 
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （5 骨干 × 3 数据集 × 6 基线，含探针、微调攻击、效率与 item 级泛化；但缺流行度/公平性分桶与显著性检验细节）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Proposition 4 与 Lemma 6 推导完整、假设明确；主表指标列较多、部分附录表格排版略拥挤）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （仅更新概念物品的 $\phi$、无需重训练、比基线快 2–3.5 倍，契合 GDPR 删除请求；但代码未开源、依赖品牌等显式概念元数据）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/llm_rec/improving_llms_for_recommendation_with_out_of_vocabulary_tokens/">    <span class="related-paper-title">Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/debias_fairness_industrial/customized_retrieval_augmented_generation_with_llm_for_debiasing_recommenda/">    <span class="related-paper-title">Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation Unlearning</span>    <span class="related-paper-meta">ICDM · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/erase_a_real_world_aligned_benchmark_for_unlearning_in_recommender_systems/">    <span class="related-paper-title">ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/reasoning_over_semantic_ids_enhances_generative_recommendation/">    <span class="related-paper-title">Reasoning over Semantic IDs Enhances Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/cross_domain_multi_scenario/from_ids_to_semantics_a_generative_framework_for_cross_domain_recommendatio/">    <span class="related-paper-title">From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Cross / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

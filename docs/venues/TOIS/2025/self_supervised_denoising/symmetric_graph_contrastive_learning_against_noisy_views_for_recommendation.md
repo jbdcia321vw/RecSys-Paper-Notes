@@ -134,3 +134,16 @@ $$\mathcal{L}_{SCL}=-\frac{e^{p s^+}}{p}+\frac{\lambda\left(-e^{s^+}+\sum_{j=1}^
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （噪声视图定义、对称条件推导与证明链条完整，但部分符号前后不统一、公式排版有笔误）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （仅替换损失、推理零额外开销、代码开源，工程接入成本极低，适合作为 GCL 召回模块的默认损失升级）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TMM/2026/multimodal_rec/cross_modal_attention_network_with_dual_graph_learning_in_multimodal_recomm/">    <span class="related-paper-title">Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation</span>    <span class="related-paper-meta">IEEE TMM · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/lightweight_embeddings_with_graph_rewiring_for_collaborative_filtering/">    <span class="related-paper-title">Lightweight Embeddings with Graph Rewiring for Collaborative Filtering</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../graph_rec/kg4receval_does_knowledge_graph_really_matter_for_recommender_systems/">    <span class="related-paper-title">KG4RecEval: Does Knowledge Graph Really Matter for Recommender Systems?</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Graph / Debias</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/self_supervised_denoising/radar_relation_aware_diffusion_asymmetric_graph_contrastive_learning_for_re/">    <span class="related-paper-title">RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/self_supervised_denoising/nlgcl_naturally_existing_neighbor_layers_graph_contrastive_learning_for_rec/">    <span class="related-paper-title">NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+</div>
+<!-- related-papers:end -->

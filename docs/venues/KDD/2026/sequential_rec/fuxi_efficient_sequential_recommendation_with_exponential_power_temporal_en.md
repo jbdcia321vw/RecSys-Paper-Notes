@@ -136,3 +136,17 @@ $$A^{i,j}_{ts}=\alpha\cdot\gamma^{|t_i-t_j|^{\beta}},\quad \gamma\in(0,1)$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （4 数据集含亿级工业集、2/8 层双配置、跨架构兼容性与效率曲线齐全，但划分协议与 Full-Ranking 细节交代偏简）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （核心公式简洁、算法伪代码完整、复杂度与访存分析清晰，部分符号在正文与公式间略有重复定义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、纯矩阵算子硬件友好、线上同构 4 层模型已验证，长序列加速比显著，落地价值突出）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/blossomrec_block_level_fused_sparse_attention_mechanism_for_sequential_reco/">    <span class="related-paper-title">BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/sequential_rec/capturing_user_interests_from_data_streams_for_continual_sequential_recomme/">    <span class="related-paper-title">Capturing User Interests from Data Streams for Continual Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/sigma_selective_gated_mamba_for_sequential_recommendation/">    <span class="related-paper-title">SIGMA: Selective Gated Mamba for Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

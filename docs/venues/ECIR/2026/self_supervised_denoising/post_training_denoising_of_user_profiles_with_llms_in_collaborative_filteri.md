@@ -132,3 +132,17 @@ $$k=\mathrm{LLM}(I_u,\,j,\,r_j,\,e),\quad k\in I_u,\quad r'_j=\mathcal{M}(I_u\se
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 × 四 LLM × 多提示 × 全库排序 + 配对 t 检验 + 上界基线，唯缺线上 A/B 与更大规模验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式极简、提示模板完整披露、错误率统计透明，但理论分析偏薄）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、模型无关、可离线预计算，但 LLM 调用成本与幻觉治理是落地门槛）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/self_supervised_denoising/unleashing_the_power_of_large_language_model_for_denoising_recommendation/">    <span class="related-paper-title">Unleashing the Power of Large Language Model for Denoising Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · SSL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/cold_start_rec/denoising_implicit_feedback_for_cold_start_recommendation/">    <span class="related-paper-title">Denoising Implicit Feedback for Cold-start Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/self_supervised_denoising/empowering_denoising_sequential_recommendation_with_large_language_model_em/">    <span class="related-paper-title">Empowering Denoising Sequential Recommendation with Large Language Model Embeddings</span>    <span class="related-paper-meta">CIKM · 2025 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/generative_rec/generative_large_recommendation_models_emerging_trends_in_llms_for_recommen/">    <span class="related-paper-title">Generative Large Recommendation Models: Emerging Trends in LLMs for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/on_efficiency_effectiveness_trade_off_of_diffusion_based_recommenders/">    <span class="related-paper-title">On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

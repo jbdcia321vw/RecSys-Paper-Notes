@@ -132,3 +132,16 @@ MIMIC-III 正确性对比（#Med 为预测平均药数，真值 23.43）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （MDP 形式化与定理证明清晰，公式符号统一；部分超参（$\lambda,\beta$）敏感性未系统分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码已开源、安全旋钮具临床部署吸引力，但 8B 模型两阶段推理成本高，落地需蒸馏或候选剪枝）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/improving_rare_medication_recommendation_with_counterfactual_data_augmentat/">    <span class="related-paper-title">Improving Rare Medication Recommendation with Counterfactual Data Augmentation and Large Language Models</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/cold_start_rec/user_adaptive_meta_learning_for_cold_start_medication_recommendation_with_u/">    <span class="related-paper-title">User-Adaptive Meta-Learning for Cold-Start Medication Recommendation with Uncertainty Filtering</span>    <span class="related-paper-meta">ICDE · 2026 · Cold / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/beyond_static_best_of_n_bayesian_list_wise_alignment_for_llm_based_recommen/">    <span class="related-paper-title">Beyond Static Best-of-N: Bayesian List-wise Alignment for LLM-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/token_level_collaborative_alignment_for_llm_based_generative_recommendation/">    <span class="related-paper-title">Token-level Collaborative Alignment for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/generative_data_transformation_from_mixed_to_unified_data/">    <span class="related-paper-title">Generative Data Transformation: From Mixed to Unified Data</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

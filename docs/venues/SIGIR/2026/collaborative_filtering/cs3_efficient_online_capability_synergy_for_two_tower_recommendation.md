@@ -142,3 +142,17 @@ $$\mathbf{c}_u^t=\alpha\mathbf{c}_u^{t-1}+(1-\alpha)\mathbf{v}^t,\quad \mathbf{c
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/can_recommender_systems_teach_themselves_a_recursive_self_improving_framewo/">    <span class="related-paper-title">Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/mosaic_a_fleet_of_user_embedding_specialists_for_recommendation_at_meta/">    <span class="related-paper-title">Mosaic: A Fleet of User Embedding Specialists for Recommendation at Meta</span>    <span class="related-paper-meta">RecSys · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/decoupled_entity_representation_learning_for_pinterest_ads_ranking/">    <span class="related-paper-title">Decoupled Entity Representation Learning for Pinterest Ads Ranking</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/d2k_turning_historical_data_into_retrievable_knowledge_for_recommender_syst/">    <span class="related-paper-title">D2K: Turning Historical Data into Retrievable Knowledge for Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/grank_towards_target_aware_and_streamlined_industrial_retrieval_with_a_gene/">    <span class="related-paper-title">GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

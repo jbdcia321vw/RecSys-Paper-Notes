@@ -134,3 +134,16 @@ $$\mathcal{L}_{PA}=-\mathbb{E}_{(q,b_w,b_l)}\Big[\log\sigma\Big(\tfrac{\beta_w}{
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三目标公式与损失推导清晰，符号统一；判别器各头的训练细节与数据构造描述充分，略欠权重敏感性分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在京东全流量部署、日请求亿级，蒸馏+缓存+实时三级方案可直接复用；扣分项为未开源代码与数据）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDE/2026/llm_rec/relevance_matters_a_multi_task_and_multi_stage_large_language_model_approac/">    <span class="related-paper-title">Relevance Matters: A Multi-Task and Multi-Stage Large Language Model Approach for E-commerce Query Rewriting</span>    <span class="related-paper-meta">ICDE · 2026 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/smart_llm_augmented_hybrid_retrieval_for_dynamic_product_ads/">    <span class="related-paper-title">SMART: LLM-Augmented Hybrid Retrieval for Dynamic Product Ads</span>    <span class="related-paper-meta">RecSys · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/ctr_feature_interaction/bidding_aware_retrieval_for_multi_stage_consistency_in_online_advertising/">    <span class="related-paper-title">Bidding-Aware Retrieval for Multi-Stage Consistency in Online Advertising</span>    <span class="related-paper-meta">CIKM · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/spear_selection_aware_personalized_end_to_end_adaptive_rewriting_and_retrie/">    <span class="related-paper-title">SPEAR: Selection-aware Personalized End-to-end Adaptive Rewriting and Retrieval for Community Search</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/ai_guided_accelerator_for_search_experience/">    <span class="related-paper-title">AI Guided Accelerator For Search Experience</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

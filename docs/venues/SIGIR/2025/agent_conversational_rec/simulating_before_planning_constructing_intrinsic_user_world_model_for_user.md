@@ -123,3 +123,16 @@ $$p(z_t)\sim\mathcal{N}\Big(\underbrace{\tfrac{(T-t)(z_{t-1}+z_a)}{T-t+1}+\tfrac
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三阶段公式与损失定义清晰，布朗桥条件分布的推导交代完整，符号一致性良好）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （画像与预判模块轻量、推理不需额外 LLM 调用，但依赖自博弈数据构造与多 LLM 训练管线，且未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/agent_conversational_rec/enhancing_personalized_multi_turn_dialogue_with_curiosity_reward/">    <span class="related-paper-title">Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/towards_personalized_conversational_sales_agents_contextual_user_profiling_/">    <span class="related-paper-title">Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../2026/agent_conversational_rec/when_and_how_to_ask_dynamic_preference_elicitation_strategies_for_conversat/">    <span class="related-paper-title">When and How to Ask: Dynamic Preference Elicitation Strategies for Conversational Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/agent_conversational_rec/persopilot_an_adaptive_ai_copilot_for_transparent_contextualized_persona_cl/">    <span class="related-paper-title">PersoPilot: An Adaptive AI-Copilot for Transparent Contextualized Persona Classification and Personalized Response Generation</span>    <span class="related-paper-meta">ICDM · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/agent_conversational_rec/ask_to_be_sure_informative_interactions_for_confident_multi_turn_llm_recomm/">    <span class="related-paper-title">Ask to Be Sure: Informative Interactions for Confident Multi-Turn LLM Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

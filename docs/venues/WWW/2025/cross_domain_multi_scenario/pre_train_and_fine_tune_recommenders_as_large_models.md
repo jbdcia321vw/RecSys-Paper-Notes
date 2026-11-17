@@ -134,3 +134,16 @@ CTCVR-AUC 上 OLR+IAK 在全部 11 个数据集均取得最优，组均值分别
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （两阶段定理与上界推导完整，但部分近似（如假设 1）缺严格论证，关键推导大量外放附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已全量上线十亿级平台并带来 GMV 增益，工程经验（并行推理、动态批学习率）极具参考价值；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/enriching_semantic_profiles_into_knowledge_graph_for_recommender_systems_us/">    <span class="related-paper-title">Enriching Semantic Profiles into Knowledge Graph for Recommender Systems Using Large Language Models</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/filling_the_gaps_selective_knowledge_augmentation_for_llm_recommenders/">    <span class="related-paper-title">Filling the Gaps: Selective Knowledge Augmentation for LLM Recommenders</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/cross_domain_multi_scenario/one_for_dozens_adaptive_recommendation_for_all_domains_with_counterfactual_/">    <span class="related-paper-title">One for Dozens: Adaptive REcommendation for All Domains with Counterfactual Augmentation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Cross / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/can_recommender_systems_teach_themselves_a_recursive_self_improving_framewo/">    <span class="related-paper-title">Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/generative_rec/tokenize_once_recommend_anywhere_unified_item_tokenization_for_multi_domain/">    <span class="related-paper-title">Tokenize Once, Recommend Anywhere: Unified Item Tokenization for Multi-domain LLM-based Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · GenRec / Cross</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -134,3 +134,16 @@ $$\mathcal{L} = W_{\text{soft}}\cdot\mathcal{L}_{\text{soft}} + W_{\text{hard}}\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （4 页短文结构紧凑、公式简洁，但超参选择依据与稳定性机制细节披露偏少）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已全量替换生产基线，推理零额外开销，CPA 降 2%–5% 的收益可直接量化，工程参考价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/ctr_feature_interaction/see_beyond_a_single_view_multi_attribution_learning_leads_to_better_convers/">    <span class="related-paper-title">See Beyond a Single View: Multi-Attribution Learning Leads to Better Conversion Rate Prediction</span>    <span class="related-paper-meta">CIKM · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/ctr_feature_interaction/on_predicting_post_click_conversion_rate_via_counterfactual_inference/">    <span class="related-paper-title">On Predicting Post-Click Conversion Rate via Counterfactual Inference</span>    <span class="related-paper-meta">ICDM · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/multi_task_reranking/cold_starting_podcast_ads_and_promotions_with_multi_task_learning_on_spotif/">    <span class="related-paper-title">Cold-Starting Podcast Ads and Promotions with Multi-Task Learning on Spotify</span>    <span class="related-paper-meta">WSDM · 2026 · MTL / Cold</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/counterfactual_multi_task_learning_for_delayed_conversion_modeling_in_e_com/">    <span class="related-paper-title">Counterfactual Multi-task Learning for Delayed Conversion Modeling in E-commerce Sales Pre-Promotion</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cross_domain_multi_scenario/scenario_wise_rec_a_multi_scenario_recommendation_benchmark/">    <span class="related-paper-title">Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark</span>    <span class="related-paper-meta">CIKM · 2025 · Cross / CTR</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+</div>
+<!-- related-papers:end -->

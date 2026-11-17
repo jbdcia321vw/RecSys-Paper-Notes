@@ -125,3 +125,16 @@ $$\mathcal{L}_{ce\text{-}UCL}=-\sum_{1\le j\le d(l_k)}\frac{\log p(\hat{y}_i\in 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （式 (6)(11)(17) 推导清晰、IPS 无偏性证明完整，符号表规范；划分协议与部分实现细节略欠）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （参数量/FLOPs 与 TPM 几乎持平、延迟 +0.006%，已全量上线核心流量，工程价值极高；可惜模型代码未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/swat_statistical_modeling_of_video_watch_time_through_user_behavior_analysi/">    <span class="related-paper-title">SWaT: Statistical Modeling of Video Watch Time through User Behavior Analysis</span>    <span class="related-paper-meta">KDD · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/long_term_interest_clock_fine_grained_time_perception_in_streaming_recommen/">    <span class="related-paper-title">Long-Term Interest Clock: Fine-Grained Time Perception in Streaming Recommendation System</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../debias_fairness_industrial/leveraging_watch_time_feedback_for_short_video_recommendations_a_causal_lab/">    <span class="related-paper-title">Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/comment_staytime_prediction_with_llm_enhanced_comment_understanding/">    <span class="related-paper-title">Comment Staytime Prediction with LLM-enhanced Comment Understanding</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/sequential_rec/hierarchical_exponential_gaussian_mixtures_for_watch_time_distribution_pred/">    <span class="related-paper-title">Hierarchical Exponential-Gaussian Mixtures for Watch-Time Distribution Prediction</span>    <span class="related-paper-meta">ICDM · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
+</div>
+<!-- related-papers:end -->

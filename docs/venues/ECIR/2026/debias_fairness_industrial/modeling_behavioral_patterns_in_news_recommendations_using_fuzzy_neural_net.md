@@ -122,3 +122,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （双数据集 + 5 次运行 + 显著性检验与完整消融，但仅 small 版本、impression 内排序，缺全库与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （t-范数与层间算子定义完整、算法伪代码清晰，规则示例可读性强；复杂度分析略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （2064 参数、推理近零开销、匿名代码开源，规则可直接供编辑审计，契合 AI Act 合规诉求）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/zorro_a_zero_weight_personalized_recommender_system_for_scalable_news_recom/">    <span class="related-paper-title">ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / Cold</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multi_task_reranking/d_rdw_diversity_driven_random_walks_for_news_recommender_systems/">    <span class="related-paper-title">D-RDW: Diversity-Driven Random Walks for News Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · MTL / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/opening_the_black_box_interpretable_remedies_for_popularity_bias_in_recomme/">    <span class="related-paper-title">Opening the Black Box: Interpretable Remedies for Popularity Bias in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/crown_a_novel_approach_to_comprehending_users_preferences_for_accurate_pers/">    <span class="related-paper-title">CROWN: A Novel Approach to Comprehending Users&#x27; Preferences for Accurate Personalized News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../2025/llm_rec/revisiting_language_models_in_neural_news_recommender_systems/">    <span class="related-paper-title">Revisiting Language Models in Neural News Recommender Systems</span>    <span class="related-paper-meta">ECIR · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

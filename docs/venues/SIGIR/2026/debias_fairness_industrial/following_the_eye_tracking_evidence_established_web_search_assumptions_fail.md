@@ -118,3 +118,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （2375 屏、全位置频率 + Z 检验 + 平滑保真度校验严谨，但单数据集、单任务、部分列不显著削弱外推）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （四条假设先形式化再逐条检验的结构极清晰，条件概率定义与检验推论推导干净，局限自陈诚实）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与数据均开源，结论可直接指导轮播场景的折扣设计与位置去偏，但需自建眼动或大规模日志验证后才能上线）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/recgaze_the_first_eye_tracking_and_user_interaction_dataset_for_carousel_in/">    <span class="related-paper-title">RecGaze: The First Eye Tracking and User Interaction Dataset for Carousel Interfaces</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/debias_fairness_industrial/revisiting_n2dcg_an_empirically_grounded_reformulation_of_carousel_recommen/">    <span class="related-paper-title">Revisiting N2DCG: An Empirically Grounded Reformulation of Carousel Recommendation Evaluation</span>    <span class="related-paper-meta">CIKM · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/from_click_modeling_to_offline_and_off_policy_evaluation_in_carousel_recomm/">    <span class="related-paper-title">From Click Modeling to Offline and Off-Policy Evaluation in Carousel Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/watchlens_a_configurable_platform_for_online_video_recommendation_experimen/">    <span class="related-paper-title">WatchLens: A Configurable Platform for Online Video Recommendation Experiments</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/unified_supervision_for_walmart_s_sponsored_search_retrieval_via_joint_sema/">    <span class="related-paper-title">Unified Supervision for Walmart&#x27;s Sponsored Search Retrieval via Joint Semantic Relevance and Behavioral Engagement Modeling</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.50</span>  </a>
+</div>
+<!-- related-papers:end -->

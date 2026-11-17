@@ -127,3 +127,16 @@ $$s^{ui}=(k_d+k_o+k_r)\mathbf{e}_{\theta_d}^\top\mathbf{v}_{\theta_d}+(k_o+k_r)\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （融合分数的解析展开推导清晰，AML 分段定义严谨；部分符号如 $\theta_p/\theta_r$ 的划分边界描述略绕）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （零在线开销、零存储增量、权重可热调，已在阿里广告系统上线验证，工程价值极高；可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/llm_rec/unifying_search_and_recommendation_in_llms_via_gradient_multi_subspace_tuni/">    <span class="related-paper-title">Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/multi_task_reranking/goal_conditioned_supervised_learning_for_multi_objective_recommendation/">    <span class="related-paper-title">Goal-Conditioned Supervised Learning for Multi-Objective Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · MTL / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multi_task_reranking/recsoup_efficient_model_merging_approach_for_controllable_multi_objective_r/">    <span class="related-paper-title">RecSoup: Efficient Model Merging Approach for Controllable Multi-Objective Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multi_task_reranking/a_hybrid_cross_stage_coordination_pre_ranking_model_for_online_recommendati/">    <span class="related-paper-title">A Hybrid Cross-Stage Coordination Pre-ranking Model for Online Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/debias_fairness_industrial/customized_retrieval_augmented_generation_with_llm_for_debiasing_recommenda/">    <span class="related-paper-title">Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation Unlearning</span>    <span class="related-paper-meta">ICDM · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -125,3 +125,16 @@ Oracle-CB + 用户偏好更新设定下（表 3），CTR 与 JSD 的权衡：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理陈述与两条可行路径的推导清晰，指标定义完备，仿真参数交代充分）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （纯后处理、比 KC 快百倍、无需内容特征，工程接入成本极低；但代码未开源、真实场景有效性待验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/social_group_rec/you_don_t_bring_me_flowers_mitigating_unwanted_recommendations_through_conf/">    <span class="related-paper-title">You Don&#x27;t Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control</span>    <span class="related-paper-meta">RecSys · 2025 · Social / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/llm_rec/dlcrec_a_novel_approach_for_managing_diversity_in_llm_based_recommender_sys/">    <span class="related-paper-title">DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems</span>    <span class="related-paper-meta">WSDM · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/debias_fairness_industrial/content_fuzzing_for_escaping_information_cocoons_on_digital_social_media/">    <span class="related-paper-title">Content Fuzzing for Escaping Information Cocoons on Digital Social Media</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/datasets_for_navigating_sensitive_topics_in_recommendation_systems/">    <span class="related-paper-title">Datasets for Navigating Sensitive Topics in Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/debias_fairness_industrial/rethinking_fairness_in_llm_based_recommender_systems_a_survey/">    <span class="related-paper-title">Rethinking Fairness in LLM-Based Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

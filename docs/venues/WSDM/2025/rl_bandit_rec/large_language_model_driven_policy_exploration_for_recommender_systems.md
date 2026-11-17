@@ -124,3 +124,16 @@ $$a_t \sim \tilde{\pi}(\cdot|s_t) = (1-\alpha)\pi_\theta(\cdot|s_t) + \alpha\pi_
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （MDP 符号与 A2C 损失定义清晰，算法伪代码完整；但正文存在 iALP/A-iALP 拼写不一致等笔误）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （在线阶段零 LLM 调用、成本与传统 RL 持平，预训练可离线批量完成，落地路径清晰；可惜未开源代码）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDM/2025/rl_bandit_rec/beyond_static_llm_policies_imitation_enhanced_reinforcement_learning_for_re/">    <span class="related-paper-title">Beyond Static LLM Policies: Imitation-Enhanced Reinforcement Learning for Recommendation</span>    <span class="related-paper-meta">ICDM · 2025 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/rl_bandit_rec/energy_guided_diffusion_sampling_for_long_term_user_behavior_prediction_in_/">    <span class="related-paper-title">Energy-Guided Diffusion Sampling for Long-Term User Behavior Prediction in Reinforcement Learning-based Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/rl_bandit_rec/darlr_dual_agent_offline_reinforcement_learning_for_recommender_systems_wit/">    <span class="related-paper-title">DARLR: Dual-Agent Offline Reinforcement Learning for Recommender Systems with Dynamic Reward</span>    <span class="related-paper-meta">SIGIR · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/rl_bandit_rec/reward_balancing_revisited_enhancing_offline_reinforcement_learning_for_rec/">    <span class="related-paper-title">Reward Balancing Revisited: Enhancing Offline Reinforcement Learning for Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/think_before_recommendation_autonomous_reasoning_enhanced_recommender/">    <span class="related-paper-title">Think before Recommendation: Autonomous Reasoning-enhanced Recommender</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

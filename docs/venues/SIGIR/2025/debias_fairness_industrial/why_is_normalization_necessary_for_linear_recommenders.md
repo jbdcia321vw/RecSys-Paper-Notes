@@ -133,3 +133,16 @@ LAE 骨干、NDCG@20（表 5）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理-引理-实验三段式论证清晰，闭式解推导简洁；$H_w$的定义稍显 ad-hoc，$\delta=1.5$ 缺乏敏感性分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、零额外推理开销、仅 3 个超参、训练仅增 5%，对大规模召回场景极具吸引力）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/adaptive_autoguidance_for_item_side_fairness_in_diffusion_recommender_syste/">    <span class="related-paper-title">Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/temporal_linear_item_item_model_for_sequential_recommendation/">    <span class="related-paper-title">Temporal Linear Item-Item Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/opening_the_black_box_interpretable_remedies_for_popularity_bias_in_recomme/">    <span class="related-paper-title">Opening the Black Box: Interpretable Remedies for Popularity Bias in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/unbiased_recommender_systems_with_implicit_feedback/">    <span class="related-paper-title">Unbiased Recommender Systems with Implicit Feedback</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../ctr_feature_interaction/nam_a_normalization_attention_model_for_personalized_product_search_in_flig/">    <span class="related-paper-title">NAM: A Normalization Attention Model for Personalized Product Search In Fliggy</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

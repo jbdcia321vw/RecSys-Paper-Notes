@@ -136,3 +136,17 @@ $$\mathcal{L}=\mathcal{L}_{\text{item}}+\mathcal{L}_{\text{action}},\quad \mathc
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （离线 + 双 surface 线上 A/B + 服务基准 + 掩码/缩放消融齐全，扣分在单数据集与曝光集内排序）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （损失与掩码无泄漏条件表述清晰，注意力复杂度分析到位，部分实现细节如槽位管理偏工程叙述）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （真实生产部署、延迟降 11.1% 且 QPS 升 63.6%，drop-in 设计与增量上线路径极具借鉴价值，可惜未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/multi_task_reranking/task_blind_no_more_multi_task_information_flow_in_unified_ranking_backbones/">    <span class="related-paper-title">Task-Blind No MORE: Multi-Task Information Flow in Unified Ranking Backbones</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/onetrans_unified_feature_interaction_and_sequence_modeling_with_one_transfo/">    <span class="related-paper-title">OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/transact_v2_lifelong_user_action_sequence_modeling_on_pinterest_recommendat/">    <span class="related-paper-title">TransAct V2: Lifelong User Action Sequence Modeling on Pinterest Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../generative_rec/towards_generalizable_and_efficient_large_scale_generative_recommenders/">    <span class="related-paper-title">Towards Generalizable and Efficient Large-Scale Generative Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/killing_two_birds_with_one_stone_unifying_retrieval_and_ranking_with_a_sing/">    <span class="related-paper-title">Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -110,3 +110,16 @@ $\mathbf{z} = \mathbf{E}_{\text{vocab}}[\mathbf{x}],\quad \mathbf{E}_{\text{voca
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （4 页短文结构清晰、代码清单直观、与 MLeap/sklearn 的差异对比到位，公式极少但表述准确）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （Apache 2.0 开源、pip 可装、已在 Expedia 生产验证，直接解决训练-服务偏斜这一普遍痛点，复现与落地门槛极低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/datarec_a_python_library_for_standardized_and_reproducible_data_management_/">    <span class="related-paper-title">DataRec: A Python Library for Standardized and Reproducible Data Management in Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/silvertorch_a_unified_model_based_system_to_democratize_large_scale_recomme/">    <span class="related-paper-title">SilverTorch: A Unified Model-based System to Democratize Large-Scale Recommendation on GPUs</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/grank_towards_target_aware_and_streamlined_industrial_retrieval_with_a_gene/">    <span class="related-paper-title">GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / MTL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/recflow_an_industrial_full_flow_recommendation_dataset/">    <span class="related-paper-title">RecFlow: An Industrial Full Flow Recommendation Dataset</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/recnexteval_a_reference_implementation_for_temporal_next_batch_recommendati/">    <span class="related-paper-title">RecNextEval: A Reference Implementation for Temporal Next-Batch Recommendation Evaluation</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+</div>
+<!-- related-papers:end -->

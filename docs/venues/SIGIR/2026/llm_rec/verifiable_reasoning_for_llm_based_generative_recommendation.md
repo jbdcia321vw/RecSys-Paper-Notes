@@ -132,3 +132,17 @@ CDs 数据集（图 5，数值为近似读数）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （四数据集+九基线+完整消融与效率分析，但排序协议未披露、部分数据集增益偏小）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （范式对比图与公式链条清晰，退化分布与复杂度分析到位，Router 与验证器符号略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （0.59% 时延开销、代码开源、Meta 工业背景，验证器可插拔于任意隐推理推荐器）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TORS/2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/fellas_enhancing_federated_sequential_recommendation_with_llm_as_external_s/">    <span class="related-paper-title">FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/the_efficiency_vs_accuracy_trade_off_optimizing_rag_enhanced_llm_recommende/">    <span class="related-paper-title">The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/sequential_rec/a_survey_on_intent_aware_recommender_systems/">    <span class="related-paper-title">A Survey on Intent-aware Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · Seq / CRS</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

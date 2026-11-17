@@ -7,6 +7,8 @@ hide:
 
 30 篇 ACL / EMNLP (RecSys & CRS) 2026 论文解读，覆盖 10 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
+🔥 **高频主题：** 重排 ×12 · ACL 2026 ×11 · 大语言模型推荐 ×9 · 端到端生成式 ×7 · ACL 2026 Findings ×5 · EMNLP 2026 Findings ×5 · EMNLP ×3 · 去偏公平与可信推荐 ×3
+
 <div class="conf-index">
 <hr />
 <h2 id="collaborative_filtering">🤝 协同过滤与双塔召回 (1)</h2>

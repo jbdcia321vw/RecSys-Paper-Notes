@@ -135,3 +135,17 @@ $$R_U=\frac{1-(1-\alpha_I)^k}{(1-\alpha_I)\cdot k\cdot\gamma+r},\quad R_I=\frac{
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （6 攻 4 防 + 3 原生攻击 + 跨 4 个 LLM 骨干 + 攻击者比例网格，覆盖扎实；扣分在单数据集、无重复种子显著性检验、Judge 未人工校准）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （F1/F2/F3 三条跨方法规律提炼清晰，Table 1 方向性汇总高效；SIS 一阶近似推导简洁但作者自承过度简化，符号略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与 conda 环境全开源，$R_U/R_I$ 预测器可做上线前拓扑风险预筛；但 LLM 推理成本高、仅 MovieLens 小规模，直接部署需扩规模验证）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDM/2026/debias_fairness_industrial/an_efficient_and_effective_agentic_group_shilling_attack_on_recommender_sys/">    <span class="related-paper-title">An Efficient and Effective Agentic Group Shilling Attack on Recommender Systems</span>    <span class="related-paper-meta">ICDM · 2026 · Debias / CRS</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/prompt_unknown_promotion_attacks_against_llm_based_sequential_recommender_s/">    <span class="related-paper-title">Prompt-Unknown Promotion Attacks against LLM-based Sequential Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/id_free_not_risk_free_llm_powered_agents_unveil_risks_in_id_free_recommende/">    <span class="related-paper-title">ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in ID-Free Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/diversity_aware_dual_promotion_poisoning_attack_on_sequential_recommendatio/">    <span class="related-paper-title">Diversity-aware Dual-promotion Poisoning Attack on Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/privacy_risks_of_llm_empowered_recommender_systems_an_inversion_attack_pers/">    <span class="related-paper-title">Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

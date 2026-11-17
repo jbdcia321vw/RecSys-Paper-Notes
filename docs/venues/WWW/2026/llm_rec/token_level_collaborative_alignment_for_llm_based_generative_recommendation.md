@@ -129,3 +129,17 @@ $\alpha=0$退化为标准 NTP，$\alpha=1$ 完全跟随协同分布，从而提�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/learning_decomposed_contextual_token_representations_from_pretrained_and_co/">    <span class="related-paper-title">Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/generative_recommender_with_end_to_end_learnable_item_tokenization/">    <span class="related-paper-title">Generative Recommender with End-to-End Learnable Item Tokenization</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/distribution_level_contrastive_supervision_for_generative_recommendation/">    <span class="related-paper-title">Distribution-Level Contrastive Supervision for Generative Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / SSL</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/process_supervised_llm_recommenders_via_flow_guided_tuning/">    <span class="related-paper-title">Process-Supervised LLM Recommenders via Flow-guided Tuning</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../2025/llm_rec/training_large_recommendation_models_via_graph_language_token_alignment/">    <span class="related-paper-title">Training Large Recommendation Models via Graph-Language Token Alignment</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+</div>
+<!-- related-papers:end -->

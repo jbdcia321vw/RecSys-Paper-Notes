@@ -120,3 +120,17 @@ $$\pi_{\text{OPLS}}(a_t|x_t,s_t)=\arg\max_{a\in\mathcal{A}_{s_t}}\Big(\hat q(x_t
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/rl_bandit_rec/incentivized_exploration_with_stochastic_covariates_a_two_stage_mechanism_d/">    <span class="related-paper-title">Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/rl_bandit_rec/exploitation_over_exploration_unmasking_the_bias_in_linear_bandit_recommend/">    <span class="related-paper-title">Exploitation Over Exploration: Unmasking the Bias in Linear Bandit Recommender Offline Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/rl_bandit_rec/optimal_and_efficient_contextual_combinatorial_semi_bandits_with_general_fu/">    <span class="related-paper-title">Optimal and Efficient Contextual Combinatorial Semi-bandits with General Function Approximation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · RL / MTL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/contextual_generative_auction_with_permutation_level_externalities_for_onli/">    <span class="related-paper-title">Contextual Generative Auction with Permutation-level Externalities for Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/rl_bandit_rec/neural_combinatorial_clustered_bandits_for_recommendation_systems/">    <span class="related-paper-title">Neural Combinatorial Clustered Bandits for Recommendation Systems</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · RL / Cold</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

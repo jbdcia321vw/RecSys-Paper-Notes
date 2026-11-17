@@ -124,3 +124,16 @@ shot 预算对执行次数的影响（Avazu, 规模 13, Ankaa-3 模拟器）：5
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （GEV 与反解公式推导清晰，Algorithm 1 完整，短论文篇幅内信息密度高）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码开源，但当前量子硬件规模与成本离工业推荐特征选择仍有距离）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/multi_task_reranking/equip_pre_ranking_with_target_attention_by_residual_quantization/">    <span class="related-paper-title">Equip Pre-ranking with Target Attention by Residual Quantization</span>    <span class="related-paper-meta">SIGIR · 2026 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.45</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/ctr_feature_interaction/rankmixer_scaling_up_ranking_models_in_industrial_recommenders/">    <span class="related-paper-title">RankMixer: Scaling Up Ranking Models in Industrial Recommenders</span>    <span class="related-paper-meta">CIKM · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.44</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multi_task_reranking/breaking_the_top_k_barrier_advancing_top_k_ranking_metrics_optimization_in_/">    <span class="related-paper-title">Breaking the Top-$K$Barrier: Advancing Top-$K$ Ranking Metrics Optimization in Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · MTL / CF</span>    <span class="related-paper-score">语义相似度 0.43</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/collaborative_filtering/real_time_indexing_for_large_scale_recommendation_by_streaming_vector_quant/">    <span class="related-paper-title">Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever</span>    <span class="related-paper-meta">KDD · 2025 · CF / GenRec</span>    <span class="related-paper-score">语义相似度 0.42</span>  </a>
+  <a class="related-paper" href="../../../2026/ctr_feature_interaction/lo_far_a_cost_aware_local_filter_for_sparse_feature_ranking_in_industrial_a/">    <span class="related-paper-title">LO-FAR: A Cost-Aware Local Filter for Sparse Feature Ranking in Industrial Ad Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.42</span>  </a>
+</div>
+<!-- related-papers:end -->

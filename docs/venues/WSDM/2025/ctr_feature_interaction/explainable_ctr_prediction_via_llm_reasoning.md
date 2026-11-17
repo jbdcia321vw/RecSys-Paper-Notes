@@ -130,3 +130,16 @@ $$R_{IC}(Z_{u,i})=1-|y_{u,i}-s^r_{u,i}|+|s^r_{u,i}-\tilde{s}^r_{u,i}|$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与三阶段流程交代清楚，奖励归一化细节完整；但部分符号如 $s^u$/$s^r$与 Eq.6 的$f$ 复用略含混）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （LoRA 共享底座降低显存，但 PPO 三阶段训练与在线解释生成开销大，且未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../DASFAA/2026/agent_conversational_rec/curr_rlcer_curriculum_reinforcement_learning_for_coherence_explainable_reco/">    <span class="related-paper-title">Curr-RLCER: Curriculum Reinforcement Learning For Coherence Explainable Recommendation</span>    <span class="related-paper-meta">DASFAA · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/llm_rec/reason4rec_deliberative_user_preference_alignment_of_large_language_models_/">    <span class="related-paper-title">Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/coherency_improved_explainable_recommendation_via_large_language_model/">    <span class="related-paper-title">Coherency Improved Explainable Recommendation via Large Language Model</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/agent_conversational_rec/the_utility_of_llms_in_recommender_systems_explanation_evaluation/">    <span class="related-paper-title">The Utility of LLMs in Recommender Systems Explanation Evaluation</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/agent_conversational_rec/bi_nas_towards_effective_and_personalized_explanation_for_recommender_syste/">    <span class="related-paper-title">Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search</span>    <span class="related-paper-meta">ICDM · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

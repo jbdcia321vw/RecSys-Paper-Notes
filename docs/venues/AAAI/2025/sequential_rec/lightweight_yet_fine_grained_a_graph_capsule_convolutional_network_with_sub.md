@@ -130,3 +130,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号体系完整、附录给出算法伪码与理论动机，复杂度分析明确；部分符号如 $b_p$与$s_{ij}$ 的下标含义需结合附录才能完全对齐）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码已开源，参数量 8.75MB、线性复杂度、无需负采样，直接契合端侧与家庭共享账户场景的部署约束）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/graph_rec/graph_sequential_alignment_and_uniformity_toward_enhanced_recommendation_sy/">    <span class="related-paper-title">Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Graph / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2026/sequential_rec/rethinking_convolutional_networks_for_attribute_aware_sequential_recommenda/">    <span class="related-paper-title">Rethinking Convolutional Networks for Attribute-Aware Sequential Recommendation</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2026 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/sequential_rec/tv_rec_time_variant_convolutional_filter_for_sequential_recommendation/">    <span class="related-paper-title">TV-Rec: Time-Variant Convolutional Filter for Sequential Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/self_supervised_denoising/sgcl_unifying_self_supervised_and_supervised_learning_for_graph_recommendat/">    <span class="related-paper-title">SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/alphafree_recommendation_free_from_users_ids_and_gnns/">    <span class="related-paper-title">AlphaFree: Recommendation Free from Users, IDs, and GNNs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

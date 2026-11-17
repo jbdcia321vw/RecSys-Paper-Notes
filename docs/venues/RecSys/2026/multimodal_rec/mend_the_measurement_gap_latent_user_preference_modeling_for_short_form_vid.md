@@ -124,3 +124,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （十亿级平台 14 天线上 A/B + 冷启动切片 + 路径分解消融颇具说服力，但缺公开数据集与全库排序指标，划分细节未披露）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （测量视角的叙事线清晰，公式简洁且对可辨识性有专门论证，但部分符号如 $f_k$与$o_k$ 的具体形式着墨偏少）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （直接替换生产预打分阶段、开销同量级、线上收益确证，但未开源且强依赖平台内部特征与标签体系，外部复现门槛高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/short_video_segment_level_user_dynamic_interests_modeling_in_personalized_r/">    <span class="related-paper-title">Short Video Segment-level User Dynamic Interests Modeling in Personalized Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/agent_conversational_rec/when_top_ranked_recommendations_fail_modeling_multi_granular_negative_feedb/">    <span class="related-paper-title">When Top-ranked Recommendations Fail: Modeling Multi-Granular Negative Feedback for Explainable and Robust Video Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/flowtime_towards_continuous_generative_watch_time_prediction_via_flow_based/">    <span class="related-paper-title">FlowTime: Towards Continuous Generative Watch Time Prediction via Flow-based Personalized Priors</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/a_content_driven_micro_video_recommendation_dataset_at_scale/">    <span class="related-paper-title">A Content-Driven Micro-Video Recommendation Dataset at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/exploiting_fine_grained_skip_behaviors_for_micro_video_recommendation/">    <span class="related-paper-title">Exploiting Fine-Grained Skip Behaviors for Micro-Video Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -152,3 +152,17 @@ $$\mathcal{L}_{\text{total}}=\mathcal{L}_{\text{conv}}+\alpha\mathcal{L}_{\text{
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../jointly_optimizing_debiased_ctr_and_uplift_for_coupons_marketing_a_unified_/">    <span class="related-paper-title">Jointly Optimizing Debiased CTR and Uplift for Coupons Marketing: A Unified Causal Framework</span>    <span class="related-paper-meta">CIKM · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/canniuplift_a_holistic_framework_for_mitigating_seller_and_incentive_cannib/">    <span class="related-paper-title">CanniUplift: A Holistic Framework for Mitigating Seller and Incentive Cannibalization in E-commerce Uplift Modeling</span>    <span class="related-paper-meta">KDD · 2026 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/r_f_inventory_a_large_scale_dataset_for_monotonic_inventory_estimation_in_r/">    <span class="related-paper-title">R&amp;F-Inventory: A Large-Scale Dataset for Monotonic Inventory Estimation in Reach and Frequency Advertising</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.50</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/ctr_feature_interaction/model_monotonicity_in_autobidding_auctions_when_do_better_predictions_lead_/">    <span class="related-paper-title">Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.50</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/contextual_generative_auction_with_permutation_level_externalities_for_onli/">    <span class="related-paper-title">Contextual Generative Auction with Permutation-level Externalities for Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.49</span>  </a>
+</div>
+<!-- related-papers:end -->

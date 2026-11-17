@@ -139,3 +139,16 @@ $$\mathcal{L}=\sum_{i,j}S_{ij}\left(\|\mathbf{z}^*_i-\mathbf{z}^*_j\|_2\right)^2
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三引擎公式与流程清晰、超参与实现细节完整，Salieri 的相似度定义与距离记号略有混用）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码数据模型全开源，推理仅需查表、部署成本极低，可对接 Spotify 等音乐流媒体历史做冷启动迁移）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/befa_a_general_behavior_driven_feature_adapter_for_multimedia_recommendatio/">    <span class="related-paper-title">BeFA: A General Behavior-driven Feature Adapter for Multimedia Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../multimodal_rec/beyond_the_past_leveraging_audio_and_human_memory_for_sequential_music_reco/">    <span class="related-paper-title">Beyond the past: Leveraging Audio and Human Memory for Sequential Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/multimodal_rec/controllable_and_content_based_recommendations/">    <span class="related-paper-title">Controllable and Content-Based Recommendations</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/facet_aware_multi_head_mixture_of_experts_model_for_sequential_recommendati/">    <span class="related-paper-title">Facet-Aware Multi-Head Mixture-of-Experts Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+</div>
+<!-- related-papers:end -->

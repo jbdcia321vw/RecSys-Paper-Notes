@@ -144,3 +144,16 @@ Prompt 语义消融（同主干）：Full Prompt 在 Fashion/Musical/Gift 为 0.
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （掩码损失的梯度推导逐项展开、符号清晰，公式 21–23 完整给出各参数梯度）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、ONNX+TensorRT FP16 量化给出实测延迟，但依赖文本特征与 1.3B 主干抬高门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/uncovering_cross_domain_recommendation_ability_of_large_language_models/">    <span class="related-paper-title">Uncovering Cross-Domain Recommendation Ability of Large Language Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/cross_domain_multi_scenario/from_ids_to_semantics_a_generative_framework_for_cross_domain_recommendatio/">    <span class="related-paper-title">From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Cross / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/fedecider_an_llm_based_framework_for_federated_cross_domain_recommendation/">    <span class="related-paper-title">FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/elec_efficient_large_language_model_empowered_click_through_rate_prediction/">    <span class="related-paper-title">ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

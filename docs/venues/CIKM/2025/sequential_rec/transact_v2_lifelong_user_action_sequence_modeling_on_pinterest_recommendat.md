@@ -131,3 +131,16 @@ $$\mathcal{L}(u(t),p(t{+}1))=-\log\frac{e^{\langle u(t),p_u(t+1)\rangle}}{e^{\la
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、系统章节工程细节充分，量化压缩与检索公式定义清楚，仅符号表略显冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已服务 5 亿月活，延迟/存储优化逐项量化到 p99 与 PCIe 字节级，是长序列上线的极佳工程参考）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/interactrank_personalized_web_scale_search_pre_ranking_with_cross_interacti/">    <span class="related-paper-title">InteractRank: Personalized Web-Scale Search Pre-Ranking with Cross Interaction Features</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / CTR</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/cross_domain_multi_scenario/horizon_a_benchmark_for_in_the_wild_user_behaviour_modeling/">    <span class="related-paper-title">HORIZON: A Benchmark for In-the-wild User Behaviour Modeling</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/decoupled_entity_representation_learning_for_pinterest_ads_ranking/">    <span class="related-paper-title">Decoupled Entity Representation Learning for Pinterest Ads Ranking</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/sequential_rec/user_long_term_multi_interest_retrieval_model_for_recommendation/">    <span class="related-paper-title">User Long-Term Multi-Interest Retrieval Model for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Seq / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/unipinrec_unifying_generative_retrieval_and_ranking_at_pinterest_scale/">    <span class="related-paper-title">UniPinRec: Unifying Generative Retrieval and Ranking at Pinterest Scale</span>    <span class="related-paper-meta">RecSys · 2026 · CF / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

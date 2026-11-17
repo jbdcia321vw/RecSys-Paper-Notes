@@ -125,3 +125,16 @@ KAR 用户任务（ML-10M / Amazon-Books）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三阶段流程与公式定义清晰，动机实验（图 2、表 1）直接支撑设计，复杂度分析略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （免训练、模型无关、仅改解码策略不动在线服务，线上省 67% 算力且代码开源，落地价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/generative_rec/tokenrec_learning_to_tokenize_id_for_llm_based_generative_recommendation/">    <span class="related-paper-title">TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/solaris_speculative_offloading_of_latent_based_representation_for_inference/">    <span class="related-paper-title">SOLARIS: Speculative Offloading of Latent-bAsed Representation for Inference Scaling</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/improving_llms_for_recommendation_with_out_of_vocabulary_tokens/">    <span class="related-paper-title">Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/efficient_inference_for_large_language_model_based_generative_recommendatio/">    <span class="related-paper-title">Efficient Inference for Large Language Model-based Generative Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

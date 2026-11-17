@@ -131,3 +131,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四级对齐公式层次分明、符号统一，但部分变体定义与图表编号在正文中略显松散）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、推理仅需 VT 融合内积、可直接嵌入现有多模态召回链路，训练期双视图开销是主要落地成本）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/cohesion_composite_graph_convolutional_network_with_dual_stage_fusion_for_m/">    <span class="related-paper-title">COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.82</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multimodal_rec/information_guided_selective_modality_interest_alignment_for_multimodal_rec/">    <span class="related-paper-title">Information-Guided Selective Modality-Interest Alignment for Multimodal Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/hypercomplex_prompt_aware_multimodal_recommendation/">    <span class="related-paper-title">Hypercomplex Prompt-aware Multimodal Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../beyond_graph_convolution_multimodal_recommendation_with_topology_aware_mlps/">    <span class="related-paper-title">Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/modality_alignment_with_multi_scale_bilateral_attention_for_multimodal_reco/">    <span class="related-paper-title">Modality Alignment with Multi-scale Bilateral Attention for Multimodal Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

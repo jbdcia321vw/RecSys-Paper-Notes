@@ -129,3 +129,16 @@ $$\mathcal{L}_{\text{Triplet}}(u,v^+,v^-)=\log\sigma\big(S(u,v^+)-S(u,v^-)-f(S(v
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （洛伦兹距离近似与损失推导简洁，5 页短文信息密度高；但 $f$ 的可训练参数范围与正则的相互作用缺少理论分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源，推理较 Poincaré 快约 3 倍且数值更稳，低维高效特性直接契合高流量召回场景）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/collaborative_filtering/breaking_information_cocoons_a_hyperbolic_framework_for_balancing_explorati/">    <span class="related-paper-title">Breaking Information Cocoons: A Hyperbolic Framework for Balancing Exploration and Exploitation in Recommender Systems</span>    <span class="related-paper-meta">KDD · 2026 · CF / Cold</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/large_language_models_enhanced_hyperbolic_space_recommender_systems/">    <span class="related-paper-title">Large Language Models Enhanced Hyperbolic Space Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/cross_domain_multi_scenario/review_based_hyperbolic_cross_domain_recommendation/">    <span class="related-paper-title">Review-Based Hyperbolic Cross-Domain Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/generative_rec/hyprq_vae_hyperbolic_item_indexing_for_long_tail_aware_generative_recommend/">    <span class="related-paper-title">HypRQ-VAE: Hyperbolic Item Indexing for Long-Tail-Aware Generative Recommender Systems</span>    <span class="related-paper-meta">ICDM · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/diaurec_dual_intent_space_representation_optimization_for_recommendation/">    <span class="related-paper-title">DIAURec: Dual-Intent Space Representation Optimization for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -7,6 +7,8 @@ hide:
 
 2 篇 ACM TKDD 2025 论文解读，覆盖 2 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
+🔥 **高频主题：** TKDD ×2
+
 <div class="conf-index">
 <hr />
 <h2 id="ctr_feature_interaction">🎯 CTR/CVR 预估与特征交叉 (1)</h2>

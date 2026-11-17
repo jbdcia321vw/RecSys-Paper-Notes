@@ -131,3 +131,16 @@ $\mathcal{L} = \alpha \cdot \mathrm{KL}\!\left(Y'_x/\tau \,\|\, \hat{Y}_x/\tau\r
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两阶段流程与公式定义清晰、符号统一，复杂度分析略欠，未给蒸馏阶段理论加速比）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码已开源，推理仅保留轻量 Transformer、教师完全离线，天然契合外卖平台低延迟召回部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/poi_spatiotemporal_rec/sep_gcn_leveraging_similar_edge_pairs_with_temporal_and_spatial_contexts_fo/">    <span class="related-paper-title">SEP-GCN: Leveraging Similar Edge Pairs with Temporal and Spatial Contexts for Location-Based Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · POI / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/from_time_and_place_to_preference_llm_driven_geo_temporal_context_in_recomm/">    <span class="related-paper-title">From Time and Place to Preference: LLM-Driven Geo-Temporal Context in Recommendations</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/decoupled_temporal_encoding_for_generative_recommendation/">    <span class="related-paper-title">Decoupled Temporal Encoding for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/poi_spatiotemporal_rec/spot_trip_dual_preference_driven_out_of_town_trip_recommendation/">    <span class="related-paper-title">SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · POI / Graph</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/time_matters_enhancing_sequential_recommendations_with_time_guided_graph_ne/">    <span class="related-paper-title">Time Matters: Enhancing Sequential Recommendations with Time-Guided Graph Neural ODEs</span>    <span class="related-paper-meta">KDD · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -145,3 +145,16 @@ $$y_b^u=w_3 f\big(W_2 f(W_1[lp_t^u;sp_t^u;s_b;ac])\big)$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （符号表清晰、公式简洁、数据构建流程交代详尽，情感轮本体设计有理论依据）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码与 prompt 已开源，推理为全库向量打分可工程化；但依赖 GPT-4o 构建语句库、冷启动未验证，落地需额外投入）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/disentangling_likes_and_dislikes_in_personalized_generative_explainable_rec/">    <span class="related-paper-title">Disentangling Likes and Dislikes in Personalized Generative Explainable Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/recommendation_and_temptation/">    <span class="related-paper-title">Recommendation and Temptation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/review_driven_personalized_preference_reasoning_with_large_language_models_/">    <span class="related-paper-title">Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/why_not_together_a_multiple_round_recommender_system_for_queries_and_items/">    <span class="related-paper-title">Why Not Together? A Multiple-Round Recommender System for Queries and Items</span>    <span class="related-paper-meta">KDD · 2025 · Seq / CRS</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../agent_conversational_rec/empowering_retrieval_based_conversational_recommendation_with_contrasting_u/">    <span class="related-paper-title">Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

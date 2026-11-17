@@ -124,3 +124,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RQ 与实验一一对应，$\Delta$NDCG@10 与双阈值分层定义清晰，表格信息密度高；公式层面本身较浅）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与 prompt 全开源、Ollama 本地可跑、成本极低；对任何想把 LLM 塞进群组决策链路的团队都是一份"先做审计再上线"的警示清单）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/agent_conversational_rec/the_utility_of_llms_in_recommender_systems_explanation_evaluation/">    <span class="related-paper-title">The Utility of LLMs in Recommender Systems Explanation Evaluation</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/llm_rec/contextualizing_recommendation_explanations_with_llms_a_user_study/">    <span class="related-paper-title">Contextualizing Recommendation Explanations with LLMs: A User Study</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/agent_conversational_rec/from_counterfactual_edits_to_human_narratives_llm_driven_interpretations_fo/">    <span class="related-paper-title">From Counterfactual Edits to Human Narratives: LLM-Driven Interpretations for Recommender System Explanations</span>    <span class="related-paper-meta">CIKM · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../2026/social_group_rec/consensus_vs_dissent_dynamic_llm_modeling_of_subjective_preferences_in_grou/">    <span class="related-paper-title">Consensus vs. Dissent: Dynamic LLM Modeling of Subjective Preferences in Group Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · Social / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

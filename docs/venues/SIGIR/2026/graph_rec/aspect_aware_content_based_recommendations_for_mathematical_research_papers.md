@@ -125,3 +125,17 @@ SilverRiM（General）：GraphCL MRR 0.396 → **AchGNN 0.410**；Qwen3-7B-FT 0.
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （Full-Ranking 全库检索 + 5 折交叉验证 + 防引用泄漏处理严谨，但 GoldRiM 规模小、单标注者削弱结论稳健性）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式编号完整、符号统一，aspect 本体构建流程交代清楚；部分消融仅给相对下降百分比未给绝对值）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已部署 MaRDI 平台、数据集与代码全开源、模型 <8B 参数贴合真实数字图书馆部署约束）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/enhancing_recommendation_explanations_through_user_centric_refinement/">    <span class="related-paper-title">Enhancing Recommendation Explanations through User-Centric Refinement</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/llm_rec/scinup_natural_language_user_interest_profiles_for_scientific_literature_re/">    <span class="related-paper-title">SciNUP: Natural Language User Interest Profiles for Scientific Literature Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../generative_rec/bi_level_optimization_for_generative_recommendation_bridging_tokenization_a/">    <span class="related-paper-title">Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/collm_integrating_collaborative_embeddings_into_large_language_models_for_r/">    <span class="related-paper-title">CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/llm_rec/hadsf_aspect_aware_semantic_control_for_explainable_recommendation/">    <span class="related-paper-title">HADSF: Aspect Aware Semantic Control for Explainable Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+</div>
+<!-- related-papers:end -->

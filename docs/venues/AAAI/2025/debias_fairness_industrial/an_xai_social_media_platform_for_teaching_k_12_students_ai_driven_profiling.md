@@ -115,3 +115,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （概念分层清晰、ILO 与 AI 五大理念对齐明确，工具描述详尽；无复杂数学推导）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （浏览器即用、GDPR 合规、隐私本地化设计利于校园部署；但未开源、规模受限，工业推荐系统直接复用价值有限）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/datasets_for_navigating_sensitive_topics_in_recommendation_systems/">    <span class="related-paper-title">Datasets for Navigating Sensitive Topics in Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/agent_conversational_rec/recommender_ai_agent_integrating_large_language_models_for_interactive_reco/">    <span class="related-paper-title">Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/agent_conversational_rec/recoworld_building_simulated_environments_for_agentic_recommender_systems/">    <span class="related-paper-title">RecoWorld: Building Simulated Environments for Agentic Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/a_survey_on_llm_powered_agents_for_recommender_systems/">    <span class="related-paper-title">A Survey on LLM-powered Agents for Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/agent_conversational_rec/persopilot_an_adaptive_ai_copilot_for_transparent_contextualized_persona_cl/">    <span class="related-paper-title">PersoPilot: An Adaptive AI-Copilot for Transparent Contextualized Persona Classification and Personalized Response Generation</span>    <span class="related-paper-meta">ICDM · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.50</span>  </a>
+</div>
+<!-- related-papers:end -->

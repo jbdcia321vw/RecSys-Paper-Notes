@@ -118,3 +118,16 @@ $$\text{Amp}_{u,w}@k=\frac{\sum_{i\in \text{Rec}_k(u)}\mathbb{I}(w\in i)/k}{\sum
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （数据统计、阈值定义与指标公式交代清晰，附录给出完整警告类目）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （数据与代码均已开源，可直接作为多目标推荐中"伤害代理"的离线评测集）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/agent_conversational_rec/safecrs_personalized_safety_alignment_for_llm_based_conversational_recommen/">    <span class="related-paper-title">SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems</span>    <span class="related-paper-meta">KDD · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/a_text_based_recommender_system_that_leverages_explicit_affective_state_pre/">    <span class="related-paper-title">A Text-Based Recommender System that Leverages Explicit Affective State Preferences</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/content_agnostic_moderation_for_stance_neutral_recommendation/">    <span class="related-paper-title">Content-Agnostic Moderation for Stance-Neutral Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/social_group_rec/you_don_t_bring_me_flowers_mitigating_unwanted_recommendations_through_conf/">    <span class="related-paper-title">You Don&#x27;t Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control</span>    <span class="related-paper-meta">RecSys · 2025 · Social / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/recommendation_and_temptation/">    <span class="related-paper-title">Recommendation and Temptation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

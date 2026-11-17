@@ -130,3 +130,17 @@ $$\boldsymbol{s}_{ui}=\text{MultiHeadAttention}(\boldsymbol{e}_{p_u},\boldsymbol
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 + Full-Ranking + 11 基线 + 冷启动分桶 + 效率与 GSB 评测较完整，扣分在于缺少显著性检验与人工评估）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三阶段与公式对应清楚、提示词模板完整披露，但 GRPO 目标与奖励设计的推导较简，部分符号如 $f$与$W_\Theta$ 混用）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，在线延迟与 SASRec 同量级、特征可预存，落地路径明确；但离线 79.6+27.7 GPU-hours 的 LLM 训练成本与理由列表存储膨胀是主要工程门槛）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2026/llm_rec/reason4rec_deliberative_user_preference_alignment_of_large_language_models_/">    <span class="related-paper-title">Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/bridging_the_user_side_knowledge_gap_in_knowledge_aware_recommendations_wit/">    <span class="related-paper-title">Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/review_driven_personalized_preference_reasoning_with_large_language_models_/">    <span class="related-paper-title">Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

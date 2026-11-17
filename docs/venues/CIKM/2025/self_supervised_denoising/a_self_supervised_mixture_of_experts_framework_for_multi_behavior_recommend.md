@@ -141,3 +141,16 @@ $$\mathcal{L}_{n\to m}=-\frac{1}{|\mathcal{U}|}\sum_{u\in\mathcal{U}}\Big(\sum_{
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题定义与符号清晰、复杂度分析完整，但公式 6 中 item 侧对比损失分母误写为 $u'$ 求和，属笔误级瑕疵）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码数据全开源、复杂度与基线同阶、硬门控推理仅激活单专家，落地门槛低；双专家参数与显存开销需工程权衡）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/collaborative_filtering/latent_factor_modeling_with_expert_network_for_multi_behavior_recommendatio/">    <span class="related-paper-title">Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/breaker_removing_shortcut_cues_with_user_clustering_for_single_slot_recomme/">    <span class="related-paper-title">Breaker: Removing Shortcut Cues with User Clustering for Single-slot Recommendation System</span>    <span class="related-paper-meta">KDD · 2025 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multi_task_reranking/beyond_item_dissimilarities_diversifying_by_intent_in_recommender_systems/">    <span class="related-paper-title">Beyond Item Dissimilarities: Diversifying by Intent in Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · MTL / RL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/multi_grained_preference_enhanced_transformer_for_multi_behavior_sequential/">    <span class="related-paper-title">Multi-Grained Preference Enhanced Transformer for Multi-Behavior Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/mixrec_heterogeneous_graph_collaborative_filtering/">    <span class="related-paper-title">MixRec: Heterogeneous Graph Collaborative Filtering</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

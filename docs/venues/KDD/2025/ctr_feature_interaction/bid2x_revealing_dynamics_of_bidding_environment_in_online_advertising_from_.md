@@ -132,3 +132,16 @@ BCB 数据集 MAE（Cost / Reward / Count）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题定义清晰、定理证明完整、符号规范；部分附录细节依赖原文）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在淘宝部署，GMV/ROI 双升，延迟仅 +0.05 秒；但暂未开源，复现需自建数据管线）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/ctr_feature_interaction/bidding_aware_retrieval_for_multi_stage_consistency_in_online_advertising/">    <span class="related-paper-title">Bidding-Aware Retrieval for Multi-Stage Consistency in Online Advertising</span>    <span class="related-paper-meta">CIKM · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/rl_bandit_rec/dara_few_shot_budget_allocation_in_online_advertising_via_in_context_decisi/">    <span class="related-paper-title">DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../rl_bandit_rec/an_adaptable_budget_planner_for_enhancing_budget_constrained_auto_bidding_i/">    <span class="related-paper-title">An Adaptable Budget Planner for Enhancing Budget-Constrained Auto-Bidding in Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · RL / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/rtbagent_a_llm_based_agent_system_for_real_time_bidding/">    <span class="related-paper-title">RTBAgent: A LLM-based Agent System for Real-Time Bidding</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/generative_bid_shading_in_real_time_bidding_advertising/">    <span class="related-paper-title">Generative Bid Shading in Real-Time Bidding Advertising</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -130,3 +130,16 @@ Claude-3.5-Sonnet 裁判趋势一致（Restaurants vs. Base：Contrast 0.87、Us
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （流水线与提示模板交代完整、图示清晰，但全文无形式化建模，方法章节偏工程描述）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码与数据全开源、提示可即插即用，但每对实体多轮 LLM 调用带来的成本与延迟是线上部署的主要障碍）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/cold_start_rec/castle_contrastive_and_seed_guided_training_for_cold_start_natural_language/">    <span class="related-paper-title">CASTLE: Contrastive and Seed-Guided Training for Cold-Start Natural Language Search</span>    <span class="related-paper-meta">CIKM · 2026 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/sequential_rec/semantic_retrieval_augmented_contrastive_learning_for_sequential_recommenda/">    <span class="related-paper-title">Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/mviger_multi_view_variational_integration_of_complementary_knowledge_for_ge/">    <span class="related-paper-title">MVIGER: Multi-View Variational Integration of Complementary Knowledge for Generative Recommender</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/uqabench_evaluating_user_embedding_for_prompting_llms_in_personalized_quest/">    <span class="related-paper-title">UQABench: Evaluating User Embedding for Prompting LLMs in Personalized Question Answering</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../agent_conversational_rec/refining_text_generation_for_realistic_conversational_recommendation_via_di/">    <span class="related-paper-title">Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+</div>
+<!-- related-papers:end -->

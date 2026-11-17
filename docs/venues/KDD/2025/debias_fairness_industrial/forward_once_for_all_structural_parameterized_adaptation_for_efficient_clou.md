@@ -131,3 +131,16 @@ NextItNet 骨干上提升更显著：Amazon-Game NDCG 相对 DeviceRec 提升 **
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Gumbel 直通与冲突分析推导完整、图示直观，部分符号如 $\beta$与$v$ 的对应关系需对照公式细读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （端侧仅增 0.005–0.012× 参数、一次前向免反传，工程友好；但代码未开源、超参 $\lambda/\tau$ 逐数据集敏感，复现需调参成本）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACM_MM/2025/sequential_rec/chord_customizing_hybrid_precision_on_device_model_for_sequential_recommend/">    <span class="related-paper-title">CHORD: Customizing Hybrid-precision On-device Model for Sequential Recommendation with Device-cloud Collaboration</span>    <span class="related-paper-meta">ACM MM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../llm_rec/collaboration_of_large_language_models_and_small_recommendation_models_for_/">    <span class="related-paper-title">Collaboration of Large Language Models and Small Recommendation Models for Device-Cloud Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2025/sequential_rec/device_cloud_collaborative_correction_for_on_device_recommendation/">    <span class="related-paper-title">Device-Cloud Collaborative Correction for On-Device Recommendation</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../gradients_as_an_action_towards_communication_efficient_federated_recommende/">    <span class="related-paper-title">Gradients as an Action: Towards Communication-Efficient Federated Recommender Systems via Adaptive Action Sharing</span>    <span class="related-paper-meta">KDD · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/pricorec_a_privacy_aware_cloud_device_collaborative_framework_for_ad_recomm/">    <span class="related-paper-title">PriCoRec: A Privacy-Aware Cloud-Device Collaborative Framework for Ad Recommendation under Feature Constraints</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

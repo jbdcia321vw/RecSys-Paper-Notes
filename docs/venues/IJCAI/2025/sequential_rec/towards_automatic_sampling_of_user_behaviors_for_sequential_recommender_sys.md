@@ -136,3 +136,16 @@ Alipay 数据集，$\lambda=0.5$、$k=2\times10^{-3}$：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （策略梯度推导从 Eq.6 到 Eq.8 链条完整，复杂度分析到位；部分符号如 $L_t$与$L^b_t$ 的下标定义略紧凑）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，采样率可调直接对应线上算力预算，序列缩短带来推理降本，但训练期额外开销需工程权衡）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/cpmr_context_aware_incremental_sequential_recommendation_with_pseudo_multi_/">    <span class="related-paper-title">CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/rl_bandit_rec/supervised_advantage_actor_critic_for_recommender_systems/">    <span class="related-paper-title">Supervised Advantage Actor-Critic for Recommender Systems</span>    <span class="related-paper-meta">WSDM · 2025 · RL / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/one_sequential_recommendation_model_pretrained_from_synthetic_priors_predic/">    <span class="related-paper-title">One Sequential Recommendation Model Pretrained from Synthetic Priors Predicts Multiple Datasets</span>    <span class="related-paper-meta">KDD · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/empowering_sequential_recommendation_from_collaborative_signals_and_semanti/">    <span class="related-paper-title">Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/sigma_selective_gated_mamba_for_sequential_recommendation/">    <span class="related-paper-title">SIGMA: Selective Gated Mamba for Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -139,3 +139,16 @@ $$\mathcal{L}_\rho(w;\lambda)=-\frac{1}{L}\sum_{\ell}\Big[\sum_i p^w_{i\cdot}+\s
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （机制定义、DSIC/IR 与可行性约束表述清晰，Lemma 1 引用得当；支付网络与分配网络的耦合细节略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （推理 1–3 ms 满足在线要求、$C$ 可调契合业务，且有美团真实数据背书；但代码未开源、训练成本与召回改造是落地门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/ctr_feature_interaction/optimal_auction_design_in_the_joint_advertising/">    <span class="related-paper-title">Optimal Auction Design in the Joint Advertising</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/contextual_generative_auction_with_permutation_level_externalities_for_onli/">    <span class="related-paper-title">Contextual Generative Auction with Permutation-level Externalities for Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/truthful_aggregation_of_llms_with_an_application_to_online_advertising/">    <span class="related-paper-title">Truthful Aggregation of LLMs with an Application to Online Advertising</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/rl_bandit_rec/learning_personalized_ad_impact_via_contextual_reinforcement_learning_under/">    <span class="related-paper-title">Learning Personalized Ad Impact via Contextual Reinforcement Learning under Delayed Rewards</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · RL / CTR</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/ctr_feature_interaction/on_the_coordination_of_value_maximizing_bidders/">    <span class="related-paper-title">On the Coordination of Value-Maximizing Bidders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

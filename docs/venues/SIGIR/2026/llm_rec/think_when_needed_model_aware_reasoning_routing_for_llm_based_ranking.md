@@ -129,3 +129,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 × 五主干 × 五随机种子，含 Pareto 前沿、SHAP、prompt 敏感性与消融，但推荐侧为 50 候选采样排序，未覆盖全库排序）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （路由规则、单调约束与四类策略公式定义清晰，动机实验图表有力；部分特征细节下放代码仓库略影响可复现阅读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （即插即用、不改主干、单次前向完成路由，代码已开源；但需按主干模型重训路由器，跨模型迁移需重新标定）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/selfdr_self_distillation_from_reasoning_for_llm_based_recommendation/">    <span class="related-paper-title">SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/thinkrec_thinking_based_recommendation_via_llm/">    <span class="related-paper-title">ThinkRec: Thinking-based Recommendation via LLM</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/llm_rec/reason4rec_deliberative_user_preference_alignment_of_large_language_models_/">    <span class="related-paper-title">Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/do_recommenders_need_to_think_in_words_latent_reasoning_for_efficient_llm_b/">    <span class="related-paper-title">Do Recommenders Need to Think in Words? Latent Reasoning for Efficient LLM-Based Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/rerec_reasoning_augmented_llm_based_recommendation_assistant_via_reinforcem/">    <span class="related-paper-title">ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

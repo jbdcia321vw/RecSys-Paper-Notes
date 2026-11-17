@@ -128,3 +128,16 @@ $$\ell^{vec}_u=\sum_{m=1}^{M}\left[\|\mathrm{sg}[\theta_m]-v^k_m\|_2^2+\beta\|\t
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与因果图清晰，EM 视角表述略松散，量化损失推导规范）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已上线 200 万 DAU，推理仅增 0.28s，代码开源，模型无关可插拔）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lettingo_explore_user_profile_generation_for_recommendation_system/">    <span class="related-paper-title">LettinGo: Explore User Profile Generation for Recommendation System</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/llm_rec/towards_next_generation_recommender_systems_a_benchmark_for_personalized_re/">    <span class="related-paper-title">Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/task_aware_automated_user_profile_generation_for_recommendation_simulation_/">    <span class="related-paper-title">Task-Aware Automated User Profile Generation for Recommendation Simulation Using Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/llm_rec/pre_trained_llms_meet_sequential_recommenders_efficient_user_centric_knowle/">    <span class="related-paper-title">Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation</span>    <span class="related-paper-meta">ECIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/personalized_recommendation_tool_learning_via_autonomous_language_agents/">    <span class="related-paper-title">Personalized Recommendation Tool Learning via Autonomous Language Agents</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

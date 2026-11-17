@@ -136,3 +136,16 @@ $$\mathcal{L}_{ELBO}=\lambda\|\boldsymbol{e}_x-\hat{\boldsymbol{e}}_x\|_2^2+\bet
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （从 Eq.6 到 Eq.9 的期望形式推导链条清晰，符号统一；ELBO 到权重的转换略依赖启发式缩放）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （推理零额外开销、代码已开源，但训练期双模块与多超参调优对工程落地构成门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/taming_recommendation_bias_with_causal_intervention_on_evolving_personal_po/">    <span class="related-paper-title">Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/unbiased_recommender_systems_with_implicit_feedback/">    <span class="related-paper-title">Unbiased Recommender Systems with Implicit Feedback</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/graph_representation_learning_via_causal_diffusion_for_out_of_distribution_/">    <span class="related-paper-title">Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/breaking_the_likelihood_trap_consistent_generative_recommendation_with_grap/">    <span class="related-paper-title">Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/rethinking_popularity_bias_in_collaborative_filtering_via_analytical_vector/">    <span class="related-paper-title">Rethinking Popularity Bias in Collaborative Filtering via Analytical Vector Decomposition</span>    <span class="related-paper-meta">KDD · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

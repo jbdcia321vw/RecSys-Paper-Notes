@@ -124,3 +124,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （任务定义与两场景区分清晰，公式简洁；部分符号如 $\gamma$ 的多实例化略松散）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （推理仅一次分类前向、代码已开源，可直接作为对话系统"劝退/换目标"触发器）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../multimodal_rec/image_seeking_intent_prediction_for_cross_device_product_search/">    <span class="related-paper-title">Image-Seeking Intent Prediction for Cross-Device Product Search</span>    <span class="related-paper-meta">RecSys · 2025 · MM / CRS</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/agent_conversational_rec/lavic_adapting_large_vision_language_models_to_visually_aware_conversationa/">    <span class="related-paper-title">LaViC: Adapting Large Vision-Language Models to Visually-Aware Conversational Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/multimodal_rec/intentlens_grounding_underspecified_multimodal_queries_for_recommendation_v/">    <span class="related-paper-title">IntentLens: Grounding Underspecified Multimodal Queries for Recommendation via Tool-Augmented Reasoning</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/llm_rec/token_efficient_item_representation_via_images_for_llm_recommender_systems/">    <span class="related-paper-title">Token-Efficient Item Representation via Images for LLM Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/agent_conversational_rec/interplay_training_independent_simulators_for_reference_free_conversational/">    <span class="related-paper-title">Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

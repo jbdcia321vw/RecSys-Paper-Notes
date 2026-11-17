@@ -140,3 +140,17 @@ $$\mathcal{L}_{\text{MRL}}=\sum_{m\in\mathcal{M}}c^{(m)}\mathcal{L}_{\star}\left
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （六市场三垂类 + 离线 kNN + 线上 A/B 双层验证，消融覆盖骨干/输入/池化/损失/维度/打分头，但缺公开数据与显著性细节）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、工程细节丰富，但部分表格为"illustrative"、线上数字缺置信区间）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （完整覆盖数据管线、分布式训练、ANN 索引、量化与蓝绿发布，MRL+INT8 的成本收益数据对工业界极具参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../llm_rec/improving_item_discoverability_in_e_commerce_search_via_related_intent_gene/">    <span class="related-paper-title">Improving Item Discoverability in e-Commerce Search via Related Intent Generation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/think_to_personalize_unifying_reasoning_and_retrieval_for_user_centric_pers/">    <span class="related-paper-title">Think-to-Personalize: Unifying Reasoning and Retrieval for User-Centric Personalized Dense Retrieval</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/smart_llm_augmented_hybrid_retrieval_for_dynamic_product_ads/">    <span class="related-paper-title">SMART: LLM-Augmented Hybrid Retrieval for Dynamic Product Ads</span>    <span class="related-paper-meta">RecSys · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/agentic_multi_source_grounding_for_enhanced_query_intent_understanding_a_do/">    <span class="related-paper-title">Agentic Multi-Source Grounding for Enhanced Query Intent Understanding: A DoorDash Case Study</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/itemrag_item_based_retrieval_augmented_generation_for_llm_based_recommendat/">    <span class="related-paper-title">ItemRAG: Item-Based Retrieval-Augmented Generation for LLM-Based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

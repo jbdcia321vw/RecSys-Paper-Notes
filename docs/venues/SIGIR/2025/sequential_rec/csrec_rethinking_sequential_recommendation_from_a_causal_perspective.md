@@ -142,3 +142,16 @@ $$\mathcal{L}_t=-\big(D_t\log f_t+(1-D_t)\log(1-f_t)\big)+\lambda\Big\|f_t-\sum_
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理与拉格朗日推导完整，符号统一，附录补充 do-calculus 与数据生成细节）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （框架可插拔、推理开销低，但需干预日志与额外预训练模型，且暂未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../improving_sequential_recommenders_through_counterfactual_augmentation_of_sy/">    <span class="related-paper-title">Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/a_contextual_aware_position_encoding_for_sequential_recommendation/">    <span class="related-paper-title">A Contextual-Aware Position Encoding for Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2025/sequential_rec/towards_automatic_sampling_of_user_behaviors_for_sequential_recommender_sys/">    <span class="related-paper-title">Towards Automatic Sampling of User Behaviors for Sequential Recommender Systems</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/sigma_selective_gated_mamba_for_sequential_recommendation/">    <span class="related-paper-title">SIGMA: Selective Gated Mamba for Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/time_matters_enhancing_sequential_recommendations_with_time_guided_graph_ne/">    <span class="related-paper-title">Time Matters: Enhancing Sequential Recommendations with Time-Guided Graph Neural ODEs</span>    <span class="related-paper-meta">KDD · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

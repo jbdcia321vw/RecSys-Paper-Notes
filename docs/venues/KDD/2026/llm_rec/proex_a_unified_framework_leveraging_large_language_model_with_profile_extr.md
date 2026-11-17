@@ -139,3 +139,17 @@ Amazon-Book 上相对完整 ProEx 的性能变化（图 6，数值为相对比�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （6 个基模型 × 3 数据集 × Full-Ranking × 10 种子 + $p$ 值 + 完整消融与超参分析，但缺少冷启动/长尾分桶与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式推导与算法伪代码完整，判别式/生成式两条分支交代清楚；但 Eq. 11 的对齐损失符号略显紧凑，环境方差项的理论解释停留在直觉层面）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、模型无关可直接插拔、推理仅需均值池化无额外延迟；扣分在于画像离线生成的 LLM 调用成本未量化）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/llm_rec/lettingo_explore_user_profile_generation_for_recommendation_system/">    <span class="related-paper-title">LettinGo: Explore User Profile Generation for Recommendation System</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/promax_exploring_the_potential_of_llm_derived_profiles_with_distribution_sh/">    <span class="related-paper-title">ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/thinkrec_thinking_based_recommendation_via_llm/">    <span class="related-paper-title">ThinkRec: Thinking-based Recommendation via LLM</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/review_driven_personalized_preference_reasoning_with_large_language_models_/">    <span class="related-paper-title">Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../enriching_semantic_profiles_into_knowledge_graph_for_recommender_systems_us/">    <span class="related-paper-title">Enriching Semantic Profiles into Knowledge Graph for Recommender Systems Using Large Language Models</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

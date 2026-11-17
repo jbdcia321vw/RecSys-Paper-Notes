@@ -136,3 +136,16 @@ NDCG@10 上 APH 在六数据集全面最优（如 Yelp 0.965 vs. RGNN 0.963）�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式推导链条清晰、复杂度分析明确，但部分符号如 $q_i$与$p_i(a)$ 的对应关系表述略松散）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与数据已开源，规则抽取无需标注成本，但依存句法预处理与超图构建的工程链路较重，大规模在线部署需预计算优化）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../DASFAA/2025/graph_rec/genet_unleashing_the_power_of_side_information_for_recommendation_via_hyper/">    <span class="related-paper-title">GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training</span>    <span class="related-paper-meta">DASFAA · 2025 · Graph / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/graph_rec/contextgnn_beyond_two_tower_recommendation_systems/">    <span class="related-paper-title">ContextGNN: Beyond Two-Tower Recommendation Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../2026/llm_rec/hadsf_aspect_aware_semantic_control_for_explainable_recommendation/">    <span class="related-paper-title">HADSF: Aspect Aware Semantic Control for Explainable Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/disentangling_likes_and_dislikes_in_personalized_generative_explainable_rec/">    <span class="related-paper-title">Disentangling Likes and Dislikes in Personalized Generative Explainable Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/graph_rec/dual_channel_multiplex_graph_neural_networks_for_recommendation/">    <span class="related-paper-title">Dual-Channel Multiplex Graph Neural Networks for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

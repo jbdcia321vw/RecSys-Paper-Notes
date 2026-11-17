@@ -132,3 +132,17 @@ $$a_\tau=\arg\max_{a}\Big[Q(x_\tau,a)+\hat{\mu}(a)+\theta^{explore}_t\cdot\beta\
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/rl_bandit_rec/ahbid_an_adaptable_hierarchical_bidding_framework_for_cross_channel_adverti/">    <span class="related-paper-title">AHBid: An Adaptable Hierarchical Bidding Framework for Cross-Channel Advertising</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/rtbagent_a_llm_based_agent_system_for_real_time_bidding/">    <span class="related-paper-title">RTBAgent: A LLM-based Agent System for Real-Time Bidding</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/rl_bandit_rec/dara_few_shot_budget_allocation_in_online_advertising_via_in_context_decisi/">    <span class="related-paper-title">DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/rl_bandit_rec/expert_guided_diffusion_planner_for_auto_bidding/">    <span class="related-paper-title">Expert-Guided Diffusion Planner for Auto-bidding</span>    <span class="related-paper-meta">CIKM · 2025 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../2025/rl_bandit_rec/an_adaptable_budget_planner_for_enhancing_budget_constrained_auto_bidding_i/">    <span class="related-paper-title">An Adaptable Budget Planner for Enhancing Budget-Constrained Auto-Bidding in Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · RL / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

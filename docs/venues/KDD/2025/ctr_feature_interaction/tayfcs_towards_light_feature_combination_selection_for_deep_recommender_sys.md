@@ -129,3 +129,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式推导与伪代码清晰，IME 近似缺少误差分析，高阶项符号略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、分析开销与原始训练同量级、推理仅增约 10%、已有线上 CVR +13.9% 实证，落地价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/ctr_feature_interaction/aefs_adaptive_early_feature_selection_for_deep_recommender_systems/">    <span class="related-paper-title">AEFS: Adaptive Early Feature Selection for Deep Recommender Systems</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/llm_rec/self_surrogate_light_feature_selection_with_large_language_models_in_deep_r/">    <span class="related-paper-title">SELF: Surrogate-light Feature Selection with Large Language Models in Deep Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/fairfs_addressing_deep_feature_selection_biases_for_recommender_system/">    <span class="related-paper-title">FairFS: Addressing Deep Feature Selection Biases for Recommender System</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/data_augmentation_as_free_lunch_exploring_the_test_time_augmentation_for_se/">    <span class="related-paper-title">Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../2026/sequential_rec/mixformer_co_scaling_up_dense_and_sequence_in_industrial_recommenders/">    <span class="related-paper-title">MixFormer: Co-Scaling Up Dense and Sequence in Industrial Recommenders</span>    <span class="related-paper-meta">KDD · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

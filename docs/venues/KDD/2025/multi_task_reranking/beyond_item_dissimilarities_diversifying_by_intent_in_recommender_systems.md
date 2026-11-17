@@ -127,3 +127,16 @@ $$\Pr(v\mid i,R_m)=\frac{\Pr(v\mid i,R_{m-1})\,(1-Q(j_m\mid i,v))}{1-Q(j_m\mid i
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （贝叶斯推导简洁自洽，算法伪代码完整，意图独立假设等简化有明确交代）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在大规模生产系统上线并带来显著业务收益，意图模型轻量、工程成本低，但闭源限制了复现）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/sequential_rec/bid_farewell_to_seesaw_towards_accurate_long_tail_session_based_recommendat/">    <span class="related-paper-title">Bid Farewell to Seesaw: Towards Accurate Long-tail Session-based Recommendation via Dual Constraints of Hybrid Intents</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/how_to_diversify_any_personalized_recommender/">    <span class="related-paper-title">How to Diversify any Personalized Recommender?</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/mixture_of_sequence_theme_aware_mixture_of_experts_for_long_sequence_recomm/">    <span class="related-paper-title">Mixture of Sequence: Theme-Aware Mixture-of-Experts for Long-Sequence Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/self_supervised_denoising/a_self_supervised_mixture_of_experts_framework_for_multi_behavior_recommend/">    <span class="related-paper-title">A Self-Supervised Mixture-of-Experts Framework for Multi-behavior Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · SSL / CF</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/crown_a_novel_approach_to_comprehending_users_preferences_for_accurate_pers/">    <span class="related-paper-title">CROWN: A Novel Approach to Comprehending Users&#x27; Preferences for Accurate Personalized News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

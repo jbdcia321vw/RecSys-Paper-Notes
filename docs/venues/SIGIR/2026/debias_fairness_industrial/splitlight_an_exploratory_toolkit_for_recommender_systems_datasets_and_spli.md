@@ -130,3 +130,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （6 个异构数据集 + 单因素扰动设计清晰有力，但仅单模型单指标、缺显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （划分结构与统计定义表述严谨、图表自解释性强，公式化程度较低属工具论文常态）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （MIT 开源、Python + 无代码双形态、可直接嵌入现有数据管线做上线前健康检查，落地门槛极低）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/datarec_a_python_library_for_standardized_and_reproducible_data_management_/">    <span class="related-paper-title">DataRec: A Python Library for Standardized and Reproducible Data Management in Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/sequential_rec/time_to_split_exploring_data_splitting_strategies_for_offline_evaluation_of/">    <span class="related-paper-title">Time to Split: Exploring Data Splitting Strategies for Offline Evaluation of Sequential Recommenders</span>    <span class="related-paper-meta">RecSys · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../recnexteval_a_reference_implementation_for_temporal_next_batch_recommendati/">    <span class="related-paper-title">RecNextEval: A Reference Implementation for Temporal Next-Batch Recommendation Evaluation</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/recommendation_is_a_dish_better_served_warm/">    <span class="related-paper-title">Recommendation Is a Dish Better Served Warm</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/orbit_open_recommendation_benchmark_for_reproducible_research_with_hidden_t/">    <span class="related-paper-title">ORBIT: Open Recommendation Benchmark for Reproducible Research with Hidden Tests</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -124,3 +124,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （形式化符号表完备、框架抽象清晰，但部分设计留白较多、缺少复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （后处理黑盒式设计易叠加现有系统、代码开源，但多智能体调度与投票的在线开销需进一步评估）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/debias_fairness_industrial/causality_inspired_fair_representation_learning_for_multimodal_recommendati/">    <span class="related-paper-title">Causality-Inspired Fair Representation Learning for Multimodal Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Debias / MM</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/robustness_analysis_of_pareto_based_joint_evaluation_of_fairness_and_releva/">    <span class="related-paper-title">Robustness Analysis of Pareto-based Joint Evaluation of Fairness and Relevance in Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/balancing_fairness_and_high_match_rates_in_reciprocal_recommender_systems_a/">    <span class="related-paper-title">Balancing Fairness and High Match Rates in Reciprocal Recommender Systems: A Nash Social Welfare Approach</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias / Social</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../evaluation_measures_of_individual_item_fairness_for_recommender_systems_a_c/">    <span class="related-paper-title">Evaluation Measures of Individual Item Fairness for Recommender Systems: A Critical Study</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../a_privacy_preserving_system_for_movie_recommendations_using_federated_learn/">    <span class="related-paper-title">A Privacy Preserving System for Movie Recommendations Using Federated Learning</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

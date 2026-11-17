@@ -126,3 +126,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （5 数据集 + 全库排序 + 严格防穿越 + 时间戳扰动/跨度分桶/算子有序性多维诊断，唯缺在线实验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （算子、门控、正则公式链条清晰，谱解释推导完整；时间状态特征定义偏工程化，理论部分自陈为解释性而非新定理）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （线性复杂度、共享稀疏拓扑、代码开源且有工业数据验证，落地门槛低；$K$ 倍传播开销需按规模权衡）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/hierarchical_time_aware_mixture_of_experts_for_multi_modal_sequential_recom/">    <span class="related-paper-title">Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/multimodal_rec/structured_spectral_reasoning_for_frequency_adaptive_multimodal_recommendat/">    <span class="related-paper-title">Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../mllmrec_a_preference_reasoning_paradigm_with_graph_refinement_for_multimoda/">    <span class="related-paper-title">MLLMRec: A Preference Reasoning Paradigm with Graph Refinement for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/wpgrec_wavelet_packet_guided_graph_enhanced_sequential_recommendation/">    <span class="related-paper-title">WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/efficient_multimodal_streaming_recommendation_via_expandable_side_mixture_o/">    <span class="related-paper-title">Efficient Multimodal Streaming Recommendation via Expandable Side Mixture-of-Experts</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

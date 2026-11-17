@@ -121,3 +121,17 @@ $$\mathcal{L}=\psi_1\cdot\big(-\textstyle\sum_{i,j}Y_{ij}\log\hat p_{ij}\big)-\p
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/bat_benchmark_for_auto_bidding_task/">    <span class="related-paper-title">BAT: Benchmark for Auto-bidding Task</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/ctr_feature_interaction/optimal_auction_design_in_the_joint_advertising/">    <span class="related-paper-title">Optimal Auction Design in the Joint Advertising</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../2025/ctr_feature_interaction/beyond_advertising_mechanism_design_for_platform_wide_marketing_service_qua/">    <span class="related-paper-title">Beyond Advertising: Mechanism Design for Platform-Wide Marketing Service &#x27;QuanZhanTui&#x27;</span>    <span class="related-paper-meta">KDD · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/ctr_feature_interaction/on_the_coordination_of_value_maximizing_bidders/">    <span class="related-paper-title">On the Coordination of Value-Maximizing Bidders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../2025/rl_bandit_rec/an_adaptable_budget_planner_for_enhancing_budget_constrained_auto_bidding_i/">    <span class="related-paper-title">An Adaptable Budget Planner for Enhancing Budget-Constrained Auto-Bidding in Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · RL / CTR</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

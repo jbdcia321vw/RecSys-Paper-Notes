@@ -143,3 +143,16 @@ $\mathbf{h}_i = \mathrm{FFN}\big(\mathrm{Concat}(\mathrm{Feature}(x_i),\, \mathb
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （工业 track 短文，公式极简、符号定义够用，但关键超参与模型细节大量省略，推导深度有限）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已全量上线并覆盖召回与精排多链路，工程折中（滑窗、截断、离线查表）极具参考价值，可惜未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/beyond_retrieval_learning_compact_user_representations_for_scalable_llm_per/">    <span class="related-paper-title">Beyond Retrieval: Learning Compact User Representations for Scalable LLM Personalization</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/multifaceted_user_modeling_in_recommendation_a_federated_foundation_models_/">    <span class="related-paper-title">Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/cross_domain_multi_scenario/cross_domain_sequential_recommendation_with_representation_level_user_trans/">    <span class="related-paper-title">Cross-Domain Sequential Recommendation with Representation-Level User Transfer</span>    <span class="related-paper-meta">CIKM · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/sequential_rec/user_representation_via_cross_multi_source_behavior_pre_training_for_mobile/">    <span class="related-paper-title">User Representation via Cross Multi-source Behavior Pre-training for Mobile Games</span>    <span class="related-paper-meta">ICDM · 2026 · Seq / Cross</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/cross_domain_multi_scenario/personalized_multi_interest_modeling_for_cross_domain_recommendation_to_col/">    <span class="related-paper-title">Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users</span>    <span class="related-paper-meta">ICDE · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

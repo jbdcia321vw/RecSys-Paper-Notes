@@ -122,3 +122,17 @@ $$\Delta=\mathrm{AVar}(\hat V_{\text{SNIPS}})-\mathrm{Var}(\hat V_{\beta^\star\t
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/meta_off_policy_estimation/">    <span class="related-paper-title">Meta Off-Policy Estimation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/rl_bandit_rec/off_policy_evaluation_and_learning_for_matching_markets/">    <span class="related-paper-title">Off-Policy Evaluation and Learning for Matching Markets</span>    <span class="related-paper-meta">RecSys · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR-AP/2025/debias_fairness_industrial/accurate_and_diverse_recommendations_via_propensity_weighted_linear_autoenc/">    <span class="related-paper-title">Accurate and Diverse Recommendations via Propensity-Weighted Linear Autoencoders</span>    <span class="related-paper-meta">SIGIR-AP · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/ctr_feature_interaction/uncertainty_calibration_for_counterfactual_propensity_estimation_in_recomme/">    <span class="related-paper-title">Uncertainty Calibration for Counterfactual Propensity Estimation in Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/rl_bandit_rec/preference_is_more_than_comparisons_rethinking_dueling_bandits_with_augment/">    <span class="related-paper-title">Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · RL / Cold</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

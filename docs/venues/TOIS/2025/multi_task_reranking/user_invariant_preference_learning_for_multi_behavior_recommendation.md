@@ -125,3 +125,16 @@ $\min\sum_{m,n\in\mathcal{E},n\neq m}R_m(f(\phi^m_u,\psi_i|r^m_{ui}))+\lambda R_
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （从 Eq.2 到 Eq.7 的 IRM 落地推导链条完整，$\lambda=1$的化简有论证；部分符号如$\breve{\boldsymbol{p}}$与$\tilde{\boldsymbol{p}}$ 易混）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，模块均为 LightGCN+MLP 易部署；但环境指数膨胀需工程裁剪，线上需评估训练成本）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/the_efficiency_vs_accuracy_trade_off_optimizing_rag_enhanced_llm_recommende/">    <span class="related-paper-title">The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../agent_conversational_rec/vague_preference_policy_learning_for_conversational_recommendation/">    <span class="related-paper-title">Vague Preference Policy Learning for Conversational Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../llm_rec/recranker_instruction_tuning_large_language_model_as_ranker_for_top_k_recom/">    <span class="related-paper-title">RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../TKDD/2026/generative_rec/eval4direc_a_unified_and_systematic_evaluation_framework_for_diffusion_base/">    <span class="related-paper-title">Eval4DiRec: A Unified and Systematic Evaluation Framework for Diffusion-based Recommender Systems</span>    <span class="related-paper-meta">ACM TKDD · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

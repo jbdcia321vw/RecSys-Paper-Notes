@@ -132,3 +132,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （统一划分、20 轮 TPE、显著性检验、$\tau$ 扫描与 Head/Tail 分解齐备，划分与超参全开源）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RQ 驱动结构清晰、复现偏差量化到 $10^{-4}$ 量级，但公式与复杂度分析偏简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与划分完全公开、Elliot 可一键复跑；但缺时延/显存实测，工业规模验证待补）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/criteria_aware_graph_filtering_extremely_fast_yet_accurate_multi_criteria_r/">    <span class="related-paper-title">Criteria-Aware Graph Filtering: Extremely Fast Yet Accurate Multi-Criteria Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/collaborative_filtering/memory_is_no_longer_a_bottleneck_memory_efficient_graph_filtering_for_scala/">    <span class="related-paper-title">Memory Is No Longer a Bottleneck: Memory-Efficient Graph Filtering for Scalable Collaborative Filtering</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/flare_fusing_language_models_and_collaborative_architectures_for_recommende/">    <span class="related-paper-title">FLARE: Fusing Language Models and Collaborative Architectures for Recommender Enhancement</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/collaborative_filtering/recommendations_with_sparse_comparison_data_provably_fast_convergence_for_n/">    <span class="related-paper-title">Recommendations with Sparse Comparison Data: Provably Fast Convergence for Nonconvex Matrix Factorization</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

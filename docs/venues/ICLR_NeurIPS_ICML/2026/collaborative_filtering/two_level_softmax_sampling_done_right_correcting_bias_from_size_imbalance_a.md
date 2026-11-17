@@ -123,3 +123,17 @@ $\tau=0.2$时 SD-2LS 在三个真实语料上 KL 降至$10^{-6}$量级（如 VK-
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （5 数据集含 2 个受控合成、3 档温度、95% CI 与 $p<0.01$ 显著性、延迟实测齐全；扣分在缺少下游召回指标与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （Prop.1–6 层层递进，偏差分解干净，附录证明完整，复杂度分析明确到 $O(d^2\sqrt{N})$）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （S-2LS 零开销即插即用、代码开源、作者来自 Spotify 且数据即工业语料，可直接替换现有 2LS 采样器）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/correcting_the_logq_correction_revisiting_sampled_softmax_for_large_scale_r/">    <span class="related-paper-title">Correcting the LogQ Correction: Revisiting Sampled Softmax for Large-Scale Retrieval</span>    <span class="related-paper-meta">RecSys · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../self_supervised_denoising/rethinking_contrastive_learning_for_graph_collaborative_filtering_limitatio/">    <span class="related-paper-title">Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/collaborative_filtering/learning_recommender_systems_with_soft_target_a_decoupled_perspective/">    <span class="related-paper-title">Learning Recommender Systems with Soft Target: A Decoupled Perspective</span>    <span class="related-paper-meta">DASFAA · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/cold_start_rec/sparse_contrastive_learning_for_content_based_cold_item_recommendation/">    <span class="related-paper-title">Sparse Contrastive Learning for Content-Based Cold Item Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/self_supervised_denoising/scone_a_novel_stochastic_sampling_to_generate_contrastive_views_and_hard_ne/">    <span class="related-paper-title">SCONE: A Novel Stochastic Sampling to Generate Contrastive Views and Hard Negative Samples for Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.49</span>  </a>
+</div>
+<!-- related-papers:end -->

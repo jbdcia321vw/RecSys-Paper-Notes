@@ -127,3 +127,17 @@ $$\mathcal{L}_{\text{RQ-VAE}}=\|x-\hat{x}\|_2^2+\gamma\sum_{i=1}^{L}\left(\|sg[r
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （Leave-One-Out + Full-Ranking 协议规范，头部/尾部拆分与 AQE 诊断有说服力，但缺显著性检验与大规模验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （双曲算子定义完整、图示清晰，但曲率敏感性与数值稳定性分析缺失）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、与 TIGER 架构对齐易替换，推理开销同量级，但双曲运算的工程稳定性待验证）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/generative_rec/diffusion_generative_recommendation_with_continuous_tokens/">    <span class="related-paper-title">Diffusion Generative Recommendation with Continuous Tokens</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/generative_rec/distinguished_quantized_guidance_for_diffusion_based_sequence_recommendatio/">    <span class="related-paper-title">Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/understanding_generative_recommendation_with_semantic_ids_from_a_model_scal/">    <span class="related-paper-title">Understanding Generative Recommendation with Semantic IDs from a Model-scaling View</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/reformulating_sequential_recommendation_learning_dynamic_user_interest_with/">    <span class="related-paper-title">Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/rethinking_item_tokenization_in_generative_recommenders_from_fixed_atoms_to/">    <span class="related-paper-title">Rethinking Item Tokenization in Generative Recommenders: From Fixed Atoms to Semantic Subwords</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

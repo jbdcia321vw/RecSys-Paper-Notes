@@ -127,3 +127,16 @@ Home 域，NDCG@10，覆盖三类任务（Target / Behavior-Specific / Behavior-
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四路注意力公式与门控聚合定义清晰、图示完整，但部分符号（如 $M_g/M_s$ 的层级选择规则）描述偏简，缺复杂度推导细节）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （源自 Walmart 真实场景、长序列注意力降 48% 具直接工程价值，但代码未开源、超参较多，复现门槛中等）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/sequential_rec/longer_scaling_up_long_sequence_modeling_in_industrial_recommenders/">    <span class="related-paper-title">LONGER: Scaling Up Long Sequence Modeling in Industrial Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/generative_rec/tokenrec_learning_to_tokenize_id_for_llm_based_generative_recommendation/">    <span class="related-paper-title">TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/generative_rec/generative_large_recommendation_models_emerging_trends_in_llms_for_recommen/">    <span class="related-paper-title">Generative Large Recommendation Models: Emerging Trends in LLMs for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

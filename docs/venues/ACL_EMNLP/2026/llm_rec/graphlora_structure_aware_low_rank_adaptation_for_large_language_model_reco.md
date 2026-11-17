@@ -127,3 +127,17 @@ $$\Delta x_t=\mathbf{B}\big(\lambda_{lora}h_{sem}+\lambda_{gnn}z_n\big),\quad h=
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主实验+消融+匹配预算+冷启动+少样本+效率分析齐全，但数据集规模与基线覆盖略窄）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三种对齐范式对比图清晰，公式与复杂度分析完整，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （仅 1.67% 参数增量、~1% 延迟，代码开源，工程部署友好）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/enhancing_collaborative_semantics_of_language_model_driven_recommendations_/">    <span class="related-paper-title">Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/graph_rec/an_automatic_graph_construction_framework_based_on_large_language_models_fo/">    <span class="related-paper-title">An Automatic Graph Construction Framework based on Large Language Models for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · Graph / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/training_large_recommendation_models_via_graph_language_token_alignment/">    <span class="related-paper-title">Training Large Recommendation Models via Graph-Language Token Alignment</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/g_refer_graph_retrieval_augmented_large_language_model_for_explainable_reco/">    <span class="related-paper-title">G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/corona_a_coarse_to_fine_framework_for_graph_based_recommendation_with_large/">    <span class="related-paper-title">CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

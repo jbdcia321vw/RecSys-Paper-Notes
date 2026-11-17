@@ -136,3 +136,16 @@ SASRec 骨干，N@10 / H@10：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、复杂度分析到位，但两阶段切换时机与 $Q$ 的取值缺乏敏感性讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （零新增参数、模型无关插件、代码开源，推理阶段完全关闭增强，落地成本极低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/cold_start_rec/tail_aware_data_augmentation_for_long_tail_sequential_recommendation/">    <span class="related-paper-title">Tail-Aware Data Augmentation for Long-Tail Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cold / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/empowering_sequential_recommendation_from_collaborative_signals_and_semanti/">    <span class="related-paper-title">Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/sequential_rec/semantic_retrieval_augmented_contrastive_learning_for_sequential_recommenda/">    <span class="related-paper-title">Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/self_supervised_denoising/mixrec_individual_and_collective_mixing_empowers_data_augmentation_for_reco/">    <span class="related-paper-title">MixRec: Individual and Collective Mixing Empowers Data Augmentation for Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/cross_domain_multi_scenario/bridge_the_domains_large_language_models_enhanced_cross_domain_sequential_r/">    <span class="related-paper-title">Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -133,3 +133,17 @@ $$\hat{\tau}(X,c)=\hat{\tau}(X,c_1)\cdot\frac{c-c_0}{c_1-c_0}$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../debias_fairness_industrial/canniuplift_a_holistic_framework_for_mitigating_seller_and_incentive_cannib/">    <span class="related-paper-title">CanniUplift: A Holistic Framework for Mitigating Seller and Incentive Cannibalization in E-commerce Uplift Modeling</span>    <span class="related-paper-meta">KDD · 2026 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/rl_bandit_rec/off_policy_evaluation_and_learning_for_matching_markets/">    <span class="related-paper-title">Off-Policy Evaluation and Learning for Matching Markets</span>    <span class="related-paper-meta">RecSys · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/agentic_personalisation_of_cross_channel_marketing_experiences/">    <span class="related-paper-title">Agentic Personalisation of Cross-Channel Marketing Experiences</span>    <span class="related-paper-meta">RecSys · 2025 · CF / RL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/unmasking_gender_bias_in_recommendation_systems_and_enhancing_category_awar/">    <span class="related-paper-title">Unmasking Gender Bias in Recommendation Systems and Enhancing Category-Aware Fairness</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../rl_bandit_rec/heterogeneous_multi_treatment_uplift_modeling_for_trade_off_optimization_in/">    <span class="related-paper-title">Heterogeneous Multi-treatment Uplift Modeling for Trade-off Optimization in Short-Video Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · RL / MTL</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

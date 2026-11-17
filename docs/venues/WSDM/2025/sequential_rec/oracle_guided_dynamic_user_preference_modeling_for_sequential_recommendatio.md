@@ -140,3 +140,16 @@ $$\mathcal{L}_g=\sum_{i=1}^{P+2}\alpha_i\cdot f(\mathbf{Q}_L,\mathbf{R}_{L-P-2+i
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （模块公式与损失定义完整、与 DualRec 的五点差异对比清晰，部分推导置于附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、推理零额外开销、可作插件插入现有序列模型，训练期成本翻倍是主要代价）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDE/2025/llm_rec/delrec_distilling_sequential_pattern_to_enhance_llms_based_sequential_recom/">    <span class="related-paper-title">DELRec: Distilling Sequential Pattern to Enhance LLMs-based Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/llm_rec/pre_trained_llms_meet_sequential_recommenders_efficient_user_centric_knowle/">    <span class="related-paper-title">Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation</span>    <span class="related-paper-meta">ECIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/rl_bandit_rec/maximum_in_support_return_modeling_for_dynamic_recommendation_with_language/">    <span class="related-paper-title">Maximum In-Support Return Modeling for Dynamic Recommendation with Language Model Prior</span>    <span class="related-paper-meta">CIKM · 2025 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

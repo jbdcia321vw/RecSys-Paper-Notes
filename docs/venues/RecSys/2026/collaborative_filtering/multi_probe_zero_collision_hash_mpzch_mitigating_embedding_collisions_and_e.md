@@ -136,3 +136,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （线上 3B MAU A/B 与 150M ID 碰撞率扫描有说服力，但缺公开数据集、缺显著性检验与容量不足场景的系统实验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （算法伪代码与 kernel 执行示例清晰，公式克制；但部分机制仅文字描述、缺复杂度与显存开销的定量分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已随 TorchRec 开源、与 EmbeddingBagCollection 无缝集成、延迟不随探测深度退化，是可直接落地的系统级贡献）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/generative_rec/grace_generative_recommendation_via_journey_aware_sparse_attention_on_chain/">    <span class="related-paper-title">GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/longer_scaling_up_long_sequence_modeling_in_industrial_recommenders/">    <span class="related-paper-title">LONGER: Scaling Up Long Sequence Modeling in Industrial Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/on_device_content_based_recommendation_with_single_shot_embedding_pruning_a/">    <span class="related-paper-title">On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/graphhash_graph_clustering_enables_parameter_efficiency_in_recommender_syst/">    <span class="related-paper-title">GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/social_group_rec/scaling_graph_neural_networks_for_friend_recommendation_multi_hash_user_emb/">    <span class="related-paper-title">Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling</span>    <span class="related-paper-meta">CIKM · 2026 · Social / Graph</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+</div>
+<!-- related-papers:end -->

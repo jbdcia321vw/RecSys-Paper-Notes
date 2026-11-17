@@ -126,3 +126,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （8 种组合刻画完整、反例数值可逐项复核，但无真实数据、无仿真规模实验、MAX-CPA FPA 行非严格均衡，经验支撑偏薄）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理-证明-反例结构清晰，附录给出完整推导与 additive regret 上界，仅均衡选择约定略显繁琐）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （结论对平台"模型上线必须 A/B 验证而非假设指标提升"有直接指导意义，但无开源代码、假设强于工业现实，落地需大量放宽）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/contextual_generative_auction_with_permutation_level_externalities_for_onli/">    <span class="related-paper-title">Contextual Generative Auction with Permutation-level Externalities for Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/bat_benchmark_for_auto_bidding_task/">    <span class="related-paper-title">BAT: Benchmark for Auto-bidding Task</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../on_the_coordination_of_value_maximizing_bidders/">    <span class="related-paper-title">On the Coordination of Value-Maximizing Bidders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/truthful_aggregation_of_llms_with_an_application_to_online_advertising/">    <span class="related-paper-title">Truthful Aggregation of LLMs with an Application to Online Advertising</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/beyond_advertising_mechanism_design_for_platform_wide_marketing_service_qua/">    <span class="related-paper-title">Beyond Advertising: Mechanism Design for Platform-Wide Marketing Service &#x27;QuanZhanTui&#x27;</span>    <span class="related-paper-meta">KDD · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -143,3 +143,16 @@ $$\mathcal{L}_{R_1} = -\log \prod_{i=1}^{n} \frac{\exp(\hat{y}^{(1)}_i)}{\sum_{j
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两阶段流程与损失定义清晰、动机分析有千万级数据支撑，但 ListMLE 公式中分母下标写作 $j=i$存在笔误，应为$j=i}^{n}$ 的排序语义需读者自行修正）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （数据集与代码全开源，离线嵌入表方案在线零 LLM 开销，已在快手全量 A/B 验证，是 LLM4Rec 工业落地的优质范本）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/a_content_driven_micro_video_recommendation_dataset_at_scale/">    <span class="related-paper-title">A Content-Driven Micro-Video Recommendation Dataset at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/llm_based_user_personas_for_recommendations_at_scale/">    <span class="related-paper-title">LLM-Based User Personas for Recommendations at Scale</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../2026/sequential_rec/vk_lsvd_a_large_scale_industrial_dataset_for_short_video_recommendation/">    <span class="related-paper-title">VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/llm_rec/effectiveness_of_llms_in_temporal_user_profiling_for_recommendation/">    <span class="related-paper-title">Effectiveness of LLMs in Temporal User Profiling for Recommendation</span>    <span class="related-paper-meta">ICDM · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/llm_powered_nuanced_video_attribute_annotation_for_enhanced_recommendations/">    <span class="related-paper-title">LLM-Powered Nuanced Video Attribute Annotation for Enhanced Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

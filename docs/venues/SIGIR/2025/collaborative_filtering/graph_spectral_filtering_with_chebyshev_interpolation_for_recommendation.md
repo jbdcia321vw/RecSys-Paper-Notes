@@ -122,3 +122,16 @@ $$\hat{r}_u=D_I^{\beta}\big(H_{\text{Cheby}}(L^*;\phi)+\alpha H_{\text{Ideal}}(L
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （定理 3.1 及附录证明严谨，谱域直觉配图清晰，符号与复杂度分析规范）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、免训练、推理比 BSPM 快 8.1 倍，但超参搜索与部分 SVD 在超大规模下仍需工程优化）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2026/collaborative_filtering/memory_is_no_longer_a_bottleneck_memory_efficient_graph_filtering_for_scala/">    <span class="related-paper-title">Memory Is No Longer a Bottleneck: Memory-Efficient Graph Filtering for Scalable Collaborative Filtering</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/graph_rec/how_do_graph_signals_affect_recommendation_unveiling_the_mystery_of_low_and/">    <span class="related-paper-title">How Do Graph Signals Affect Recommendation: Unveiling the Mystery of Low and High-Frequency Graph Signals</span>    <span class="related-paper-meta">KDD · 2026 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/graph_rec/enhancing_graph_collaborative_filtering_with_fourierkan_feature_transformat/">    <span class="related-paper-title">Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation</span>    <span class="related-paper-meta">CIKM · 2025 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/collaborative_filtering/s_diff_an_anisotropic_diffusion_model_for_collaborative_filtering_in_spectr/">    <span class="related-paper-title">S-Diff: An Anisotropic Diffusion Model for Collaborative Filtering in Spectral Domain</span>    <span class="related-paper-meta">WSDM · 2025 · CF / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/frequency_aware_graph_signal_processing_for_collaborative_filtering/">    <span class="related-paper-title">Frequency-aware Graph Signal Processing for Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -134,3 +134,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （系统流程与数据构造描述清楚、示例充分；但公式极少，约束满足的形式化定义偏弱，营养约束生成依赖 $\mu\pm2\sigma$ 的启发式）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与基准全开源，LoRA 单卡可部署、适配器热切换成本低；但分块推理的延迟与 KG 维护成本需在线上场景额外评估）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/multi_task_reranking/mopi_hfrs_a_multi_objective_personalized_health_aware_food_recommendation_s/">    <span class="related-paper-title">MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation</span>    <span class="related-paper-meta">KDD · 2025 · MTL / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/multimodal_rec/from_raw_features_to_effective_embeddings_a_three_stage_approach_for_multim/">    <span class="related-paper-title">From Raw Features to Effective Embeddings: A Three-Stage Approach for Multimodal Recipe Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_retrieval_generating_narratives_in_conversational_recommender_system/">    <span class="related-paper-title">Beyond Retrieval: Generating Narratives in Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/enriching_semantic_profiles_into_knowledge_graph_for_recommender_systems_us/">    <span class="related-paper-title">Enriching Semantic Profiles into Knowledge Graph for Recommender Systems Using Large Language Models</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/graph_rec/comprehending_knowledge_graphs_with_large_language_models_for_recommender_s/">    <span class="related-paper-title">Comprehending Knowledge Graphs with Large Language Models for Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · Graph / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

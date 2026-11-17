@@ -138,3 +138,17 @@ $$w_{p,q}=\frac{\exp(-\text{sim}_{p,q})}{\sum_{\{p',q'\}\subset\mathcal{P}}\exp(
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/sequential_rec/star_rec_making_peace_with_length_variance_and_pattern_diversity_in_sequent/">    <span class="related-paper-title">STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/lightgnn_simple_graph_neural_network_for_recommendation/">    <span class="related-paper-title">LightGNN: Simple Graph Neural Network for Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/kuairecv2_benchmarking_large_scale_continual_learning_for_diversified_and_m/">    <span class="related-paper-title">KuaiRecV2: Benchmarking Large-Scale Continual Learning for Diversified and Multi-task Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/diversity_augmented_negative_sampling_for_implicit_collaborative_filtering/">    <span class="related-paper-title">Diversity-Augmented Negative Sampling for Implicit Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/graph_rec/graph_sequential_alignment_and_uniformity_toward_enhanced_recommendation_sy/">    <span class="related-paper-title">Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Graph / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

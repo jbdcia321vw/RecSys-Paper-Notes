@@ -130,3 +130,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式推导与复杂度分析完整，符号表规范；模式贡献与打分的关系阐释到位，个别记号如 $\eta$ 上下标略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （复杂度与注意力同量级、无需额外特征，解释可直接面向用户；但未开源、滑窗模式数随 $L$ 增长，长序列工程化需额外裁剪）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/csrec_rethinking_sequential_recommendation_from_a_causal_perspective/">    <span class="related-paper-title">CSRec: Rethinking Sequential Recommendation from A Causal Perspective</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/llm_rec/delrec_distilling_sequential_pattern_to_enhance_llms_based_sequential_recom/">    <span class="related-paper-title">DELRec: Distilling Sequential Pattern to Enhance LLMs-based Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/multimodal_rec/truthsr_trustworthy_sequential_recommender_systems_via_user_generated_multi/">    <span class="related-paper-title">TruthSR: Trustworthy Sequential Recommender Systems via User-generated Multimodal Content</span>    <span class="related-paper-meta">DASFAA · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/improving_sequential_recommenders_through_counterfactual_augmentation_of_sy/">    <span class="related-paper-title">Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR-AP/2025/debias_fairness_industrial/accurate_and_diverse_recommendations_via_propensity_weighted_linear_autoenc/">    <span class="related-paper-title">Accurate and Diverse Recommendations via Propensity-Weighted Linear Autoencoders</span>    <span class="related-paper-meta">SIGIR-AP · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -124,3 +124,16 @@ $$\arg\max_{i\in A_j}\left\{r_{ij}-qf_j(M)-\tau_i(1-q)^{\sigma(i)-j}\right\}$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （分解式与引理链条清晰，复杂度分析完整，证明置于附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，G-bpx 近线性扩展，可直接作为信息流广告后处理模块）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/truthful_aggregation_of_llms_with_an_application_to_online_advertising/">    <span class="related-paper-title">Truthful Aggregation of LLMs with an Application to Online Advertising</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/nam_a_normalization_attention_model_for_personalized_product_search_in_flig/">    <span class="related-paper-title">NAM: A Normalization Attention Model for Personalized Product Search In Fliggy</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/lightweight_auto_bidding_based_on_traffic_prediction_in_live_advertising/">    <span class="related-paper-title">Lightweight Auto-bidding based on Traffic Prediction in Live Advertising</span>    <span class="related-paper-meta">KDD · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/unified_supervision_for_walmart_s_sponsored_search_retrieval_via_joint_sema/">    <span class="related-paper-title">Unified Supervision for Walmart&#x27;s Sponsored Search Retrieval via Joint Semantic Relevance and Behavioral Engagement Modeling</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/cold_start_rec/pinequalizer_full_funnel_content_exploration_and_debiasing_system_at_pinter/">    <span class="related-paper-title">PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest</span>    <span class="related-paper-meta">KDD · 2026 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+</div>
+<!-- related-papers:end -->

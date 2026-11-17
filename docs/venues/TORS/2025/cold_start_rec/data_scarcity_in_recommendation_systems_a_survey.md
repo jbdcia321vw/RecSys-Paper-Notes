@@ -101,3 +101,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （结构清晰、分类图示完整、术语定义明确，但公式层面仅作抽象归纳）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （可作为冷启动方案选型与 related work 参考，但无开源代码、无工程开销分析，直接落地需回溯原始工作）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2026/debias_fairness_industrial/mitigating_popularity_bias_in_recommendation_with_global_listwise_learning_/">    <span class="related-paper-title">Mitigating Popularity Bias in Recommendation with Global Listwise Learning and Progressive Bi-Weighting</span>    <span class="related-paper-meta">ACM TOIS · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/sequential_rec/privacy_preserving_sequential_recommendation_with_collaborative_confusion/">    <span class="related-paper-title">Privacy-Preserving Sequential Recommendation with Collaborative Confusion</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/mitigating_propensity_bias_of_large_language_models_for_recommender_systems/">    <span class="related-paper-title">Mitigating Propensity Bias of Large Language Models for Recommender Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../2026/generative_rec/diffusion_recommender_models_and_the_illusion_of_progress_a_concerning_stud/">    <span class="related-paper-title">Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch</span>    <span class="related-paper-meta">ACM TORS · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

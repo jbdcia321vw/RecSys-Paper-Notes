@@ -122,3 +122,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （5 CRS × 3 模拟器 × 3 数据集的交叉设计有说服力，但每格仅 100 条对话、单领域、无显著性检验与人类一致性验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （架构图与模块职责划分清晰，信息需求示例直观；但作为工具包论文公式极少，指标定义偏描述性）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （开源、模块化、统一接口，直接填补 CRS 模拟评测的资源空白，是社区可直接复用的基础设施）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/a_llm_based_controllable_scalable_human_involved_user_simulator_framework_f/">    <span class="related-paper-title">A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.82</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR-AP/2025/agent_conversational_rec/limitations_of_current_evaluation_practices_for_conversational_recommender_/">    <span class="related-paper-title">Limitations of Current Evaluation Practices for Conversational Recommender Systems and the Potential of User Simulation</span>    <span class="related-paper-meta">SIGIR-AP · 2025 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/recusersim_a_realistic_and_diverse_user_simulator_for_evaluating_conversati/">    <span class="related-paper-title">RecUserSim: A Realistic and Diverse User Simulator for Evaluating Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../interplay_training_independent_simulators_for_reference_free_conversational/">    <span class="related-paper-title">Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/towards_personalized_conversational_sales_agents_contextual_user_profiling_/">    <span class="related-paper-title">Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

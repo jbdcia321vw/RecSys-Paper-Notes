@@ -143,3 +143,16 @@ GTE-Qwen2 相对 BL!IR-L 在 ESCI 上 nDCG@100 提升 **+15.94 点（+131.5%）*
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （有效维度定义与解释方差公式清晰，任务形式化简洁；部分表格排版与符号在原文中有噪声）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、即插即用零微调、PCA 压缩直接降本；大模型编码开销与线上延迟未评估是主要落地障碍）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TORS/2025/llm_rec/a_bi_step_grounding_paradigm_for_large_language_models_in_recommendation_sy/">    <span class="related-paper-title">A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/multimodal_rec/formalizing_multimedia_recommendation_through_multimodal_deep_learning/">    <span class="related-paper-title">Formalizing Multimedia Recommendation through Multimodal Deep Learning</span>    <span class="related-paper-meta">ACM TORS · 2025 · MM</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/tf_dcon_leveraging_large_language_models_llms_to_empower_training_free_data/">    <span class="related-paper-title">TF-DCon: Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../generative_rec/enhancing_embedding_representation_stability_in_recommendation_systems_with/">    <span class="related-paper-title">Enhancing Embedding Representation Stability in Recommendation Systems with Semantic ID</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/how_can_recommender_systems_benefit_from_large_language_models_a_survey/">    <span class="related-paper-title">How Can Recommender Systems Benefit from Large Language Models: A Survey</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+</div>
+<!-- related-papers:end -->

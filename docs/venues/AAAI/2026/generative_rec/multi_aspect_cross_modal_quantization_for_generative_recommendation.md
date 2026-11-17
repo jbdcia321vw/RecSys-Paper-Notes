@@ -121,3 +121,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （Leave-One-Out + Full-Ranking 无偏协议、9 个基线、5 种子与显著性检验齐全，消融与冲突率分析完整；缺线上实验与冷启动分桶）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号定义规范、模块边界清楚，但部分损失权重与层选择缺乏理论解释，仅靠超参曲线佐证）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、基于 T5 与标准 RQ-VAE 易复现，主要代价是双模态推理延迟与多阶段训练管线复杂度）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/universal_item_tokenization_for_transferable_generative_recommendation/">    <span class="related-paper-title">Universal Item Tokenization for Transferable Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Cross</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/generative_rec/progressive_semantic_residual_quantization_for_multimodal_joint_interest_mo/">    <span class="related-paper-title">Progressive Semantic Residual Quantization for Multimodal-Joint Interest Modeling in Music Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/card_non_uniform_quantization_of_visual_semantic_unit_for_generative_recomm/">    <span class="related-paper-title">CARD: Non-Uniform Quantization of Visual Semantic Unit for Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/hi_sam_a_hierarchical_structure_aware_multi_modal_framework_for_large_scale/">    <span class="related-paper-title">Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/generative_rec/syngr_unleashing_the_potential_of_cross_modal_synergy_for_generative_recomm/">    <span class="related-paper-title">SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+</div>
+<!-- related-papers:end -->

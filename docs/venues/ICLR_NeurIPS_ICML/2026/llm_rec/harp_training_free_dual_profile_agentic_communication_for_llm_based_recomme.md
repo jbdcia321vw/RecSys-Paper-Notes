@@ -135,3 +135,17 @@ Yelp 1,000 用户子划分（CH = 检索侧同质性门控，RI = 重排 prompt 
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （四基准全指标 SOTA + Wilson CI + Holm 校正 + 配对 McNemar + 修复来源分解，统计严谨度高于同类；扣分在逐通道归因仅单数据集观测性拆分）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Remark 1 可加分解与 Lemma 1 通道消融恒等式证明完整，检索-提示设计论证明确标注为"设计理由而非定理"，边界诚实）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （完全免训练、主干冻结、物品侧零 LLM 调用，代码已开源，可叠加于任意 LLM 推荐主干；扣分在规则抽取器的跨域词表维护成本与反思调用的规模化开销）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/memrec_collaborative_memory_augmented_agentic_recommender_system/">    <span class="related-paper-title">MemRec: Collaborative Memory-Augmented Agentic Recommender System</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/agent_conversational_rec/agentcf_memory_enhanced_llm_based_agents_for_popularity_aware_cross_domain_/">    <span class="related-paper-title">AgentCF++: Memory-enhanced LLM-based Agents for Popularity-aware Cross-domain Recommendations</span>    <span class="related-paper-meta">SIGIR · 2025 · CRS / Cross</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/a_survey_on_llm_powered_agents_for_recommender_systems/">    <span class="related-paper-title">A Survey on LLM-powered Agents for Recommender Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/agent_conversational_rec/recoworld_building_simulated_environments_for_agentic_recommender_systems/">    <span class="related-paper-title">RecoWorld: Building Simulated Environments for Agentic Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/agent_conversational_rec/shape_your_feed_an_llm_based_agentic_system_for_conversational_recommendati/">    <span class="related-paper-title">Shape Your Feed: An LLM-based Agentic System for Conversational Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

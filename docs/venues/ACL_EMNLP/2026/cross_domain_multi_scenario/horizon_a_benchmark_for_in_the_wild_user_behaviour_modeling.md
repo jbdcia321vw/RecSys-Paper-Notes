@@ -143,3 +143,17 @@ LLM 任务（Recall@10/50/100，%）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （四象限设计严谨、基线覆盖 ID 与 LLM 两族，但训练规模被大幅裁剪、缺显著性检验、LLM 指标绝对值过低）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （任务定义与切分逻辑清晰，附录统计详实；但正文与附录的用户数表述存在 53.5M/54.5M 不一致）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （全开源、RecBole 兼容、含预计算预测子集，可直接作为跨域长程用户建模的离线评测沙盒；但 LLM 全量推理 5 天成本偏高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/cross_domain_multi_scenario/cross_domain_sequential_recommendation_with_representation_level_user_trans/">    <span class="related-paper-title">Cross-Domain Sequential Recommendation with Representation-Level User Transfer</span>    <span class="related-paper-meta">CIKM · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/generative_archetype_grounded_item_representations_for_sequential_recommend/">    <span class="related-paper-title">Generative Archetype-Grounded Item Representations for Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/mixture_of_sequence_theme_aware_mixture_of_experts_for_long_sequence_recomm/">    <span class="related-paper-title">Mixture of Sequence: Theme-Aware Mixture-of-Experts for Long-Sequence Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/unleashing_the_potential_of_sparse_attention_on_long_term_behaviors_for_ctr/">    <span class="related-paper-title">Unleashing the Potential of Sparse Attention on Long-term Behaviors for CTR Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -139,3 +139,16 @@ $$H_B\leftarrow H_B-\alpha\cdot\mathrm{softmax}(H_BH_B^\top\odot\Gamma)H_B$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （Proposition 1–6 层层递进，SVD 推导与复杂度分析清晰，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、即插即用、训练加速 2.2–9.8×，但超参调优成本与大规模验证仍是落地门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/debias_fairness_industrial/a_thorough_performance_benchmarking_on_lightweight_embedding_based_recommen/">    <span class="related-paper-title">A Thorough Performance Benchmarking on Lightweight Embedding-based Recommender Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/cross_domain_multi_scenario/coherence_guided_preference_disentanglement_for_cross_domain_recommendation/">    <span class="related-paper-title">Coherence-guided Preference Disentanglement for Cross-domain Recommendations</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / SSL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../TKDD/2026/ctr_feature_interaction/dual_stream_mlp_is_all_you_need_for_ctr_prediction/">    <span class="related-paper-title">Dual-Stream MLP is All You Need for CTR Prediction</span>    <span class="related-paper-meta">ACM TKDD · 2026 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/the_efficiency_vs_accuracy_trade_off_optimizing_rag_enhanced_llm_recommende/">    <span class="related-paper-title">The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+</div>
+<!-- related-papers:end -->

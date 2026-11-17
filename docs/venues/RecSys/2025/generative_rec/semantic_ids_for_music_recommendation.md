@@ -126,3 +126,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （4 页短文结构清晰、结论直给，但公式与 RQ-VAE 训练细节几乎省略，码本利用率等关键量缺失）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （参数降 75%–99%、训练成本降 20%，可直接嵌入现有 SASRec 管线；但代码未开源、Pandora 数据私有，复现受限）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../multimodal_rec/yambda_5b_a_large_scale_multi_modal_dataset_for_ranking_and_retrieval/">    <span class="related-paper-title">Yambda-5B — A Large-Scale Multi-modal Dataset for Ranking And Retrieval</span>    <span class="related-paper-meta">RecSys · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../multimodal_rec/just_ask_for_music_jam_multimodal_and_personalized_natural_language_music_r/">    <span class="related-paper-title">Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/balancing_accuracy_and_novelty_with_sub_item_popularity/">    <span class="related-paper-title">Balancing Accuracy and Novelty with Sub-Item Popularity</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../multimodal_rec/beyond_the_past_leveraging_audio_and_human_memory_for_sequential_music_reco/">    <span class="related-paper-title">Beyond the past: Leveraging Audio and Human Memory for Sequential Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

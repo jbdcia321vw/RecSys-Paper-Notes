@@ -123,3 +123,17 @@ MF-BPR 上 Obliviate 在 Amazon 达 R@10 +9.84%、N@10 +7.78%，为全表最大�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集双主干、20% 高删除率、Demotion Rate 完整性指标与耗时对比齐全，但删除协议为合成注入，缺真实撤回场景）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理-命题-附录误差界链条完整，trust-region 视角解释清晰，符号略多但组织有序）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （秒级遗忘、适配器可插拔可逆、架构无关，工程价值高；但代码未开源且依赖 Adam 统计量存储）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/erase_a_real_world_aligned_benchmark_for_unlearning_in_recommender_systems/">    <span class="related-paper-title">ERASE -- A Real-World Aligned Benchmark for Unlearning in Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/pre_training_for_recommendation_unlearning/">    <span class="related-paper-title">Pre-training for Recommendation Unlearning</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/debias_fairness_industrial/explain_then_forget_recommendation_unlearning_under_asymmetric_access_const/">    <span class="related-paper-title">Explain, Then Forget: Recommendation Unlearning under Asymmetric Access Constraint</span>    <span class="related-paper-meta">ICDM · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/debias_fairness_industrial/multi_modal_recommendation_unlearning_for_legal_licensing_and_modality_cons/">    <span class="related-paper-title">Multi-Modal Recommendation Unlearning for Legal, Licensing, and Modality Constraints</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Debias / MM</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/debias_fairness_industrial/customized_retrieval_augmented_generation_with_llm_for_debiasing_recommenda/">    <span class="related-paper-title">Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation Unlearning</span>    <span class="related-paper-meta">ICDM · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

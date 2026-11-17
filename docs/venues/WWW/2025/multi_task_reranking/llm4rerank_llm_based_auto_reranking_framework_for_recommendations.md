@@ -126,3 +126,16 @@ $$C_N, C_R = \mathrm{Function}(C_N)(\boldsymbol{u}, I_r, Goal, Pool) = \mathrm{L
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （节点公式与算法流程清晰，但数学增量有限，部分符号与图表编号在版本间存在不一致）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （零训练、易扩展准则极具工程吸引力，但多次 LLM 调用的成本与未开源代码削弱了直接复现价值）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/profiling_what_matters_context_aware_item_profiles_from_large_scale_metadat/">    <span class="related-paper-title">Profiling What Matters: Context-Aware Item Profiles from Large-Scale Metadata for LLM Recommenders</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/rankformer_a_graph_transformer_for_recommendation_based_on_ranking_objectiv/">    <span class="related-paper-title">Rankformer: A Graph Transformer for Recommendation based on Ranking Objective</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/rethinking_llm_based_recommendations_a_personalized_query_driven_parallel_i/">    <span class="related-paper-title">Rethinking LLM-Based Recommendations: A Personalized Query-Driven Parallel Integration</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multi_task_reranking/comprehensive_list_generation_for_multi_generator_reranking/">    <span class="related-paper-title">Comprehensive List Generation for Multi-Generator Reranking</span>    <span class="related-paper-meta">SIGIR · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/breaking_the_likelihood_trap_consistent_generative_recommendation_with_grap/">    <span class="related-paper-title">Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -134,3 +134,16 @@ $$\mathcal{L}_{ortho}=\big\|\mathbf{B}_{real}\mathbf{B}_{real}^{\top}-\mathbf{I}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （频域响应推导与 DCG 等价性证明完整，但正文将关键证明全部下放附录，主文公式密度偏高、符号 $\mathbf{H}/\bar{\mathbf{B}}/\mathbf{C}$ 的维度直觉需对照附录才清晰）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，推理时延与参数量均优于混合基线且滤波器可预计算，但训练期谱变换开销与"内容无关滤波器"的泛化边界需在真实业务中验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../IJCAI/2026/sequential_rec/rethinking_convolutional_networks_for_attribute_aware_sequential_recommenda/">    <span class="related-paper-title">Rethinking Convolutional Networks for Attribute-Aware Sequential Recommendation</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2026 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/hyena_operator_for_fast_sequential_recommendation/">    <span class="related-paper-title">Hyena Operator for Fast Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/star_rec_making_peace_with_length_variance_and_pattern_diversity_in_sequent/">    <span class="related-paper-title">STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/a_contextual_aware_position_encoding_for_sequential_recommendation/">    <span class="related-paper-title">A Contextual-Aware Position Encoding for Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/fedin_frequency_enhanced_deep_interest_network_for_click_through_rate_predi/">    <span class="related-paper-title">FEDIN: Frequency-Enhanced Deep Interest Network for Click-Through Rate Prediction</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

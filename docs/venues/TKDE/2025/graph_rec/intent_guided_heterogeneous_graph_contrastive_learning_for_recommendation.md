@@ -130,3 +130,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （IB 上下界推导完整、复杂度分析到位；但 Eq. 9–15 符号较密，$S_u$与$H_u$ 的定义分散在正文与附录间，阅读成本偏高）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、基于 LightGCN 易复现；但元路径需人工设计与 2–3 倍训练开销使其更适合离线召回而非实时链路）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/mixrec_heterogeneous_graph_collaborative_filtering/">    <span class="related-paper-title">MixRec: Heterogeneous Graph Collaborative Filtering</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/intent_propagation_contrastive_collaborative_filtering/">    <span class="related-paper-title">Intent Propagation Contrastive Collaborative Filtering</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/rl_bandit_rec/contrastive_representation_for_interactive_recommendation/">    <span class="related-paper-title">Contrastive Representation for Interactive Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · RL / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/intent_aware_diffusion_with_contrastive_learning_for_sequential_recommendat/">    <span class="related-paper-title">Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2025/multimodal_rec/refining_contrastive_learning_and_homography_relations_for_multi_modal_reco/">    <span class="related-paper-title">Refining Contrastive Learning and Homography Relations for Multi-Modal Recommendation</span>    <span class="related-paper-meta">ACM MM · 2025 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

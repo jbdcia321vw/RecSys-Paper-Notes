@@ -105,3 +105,17 @@ $$\hat{r}_t=\int h_\theta(q_t,x_t,z)\,p(z\mid q_t,x_t,\Gamma)\,\mathrm{d}z$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐ （愿景论文无任何定量实验，仅给出协议与三条可证伪假设，说服力依赖后续工作兑现）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （度量场、指数映射、重建积分定义清晰，且诚实区分曲率与漂移速率，但缺复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （模块化设计与低秩适配、缓存坐标图具备工程可行性，但无开源代码且实时服务延迟未验证）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/large_memory_network_for_recommendation/">    <span class="related-paper-title">Large Memory Network for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/memrec_collaborative_memory_augmented_agentic_recommender_system/">    <span class="related-paper-title">MemRec: Collaborative Memory-Augmented Agentic Recommender System</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/sequential_rec/closing_the_long_short_view_gap_in_sequential_recommendation_without_cached/">    <span class="related-paper-title">Closing the Long-Short View Gap in Sequential Recommendation without Cached History</span>    <span class="related-paper-meta">CIKM · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/from_recall_to_forgetting_benchmarking_long_term_memory_for_personalized_ag/">    <span class="related-paper-title">From Recall to Forgetting: Benchmarking Long-Term Memory for Personalized Agents</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

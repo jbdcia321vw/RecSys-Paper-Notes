@@ -134,3 +134,16 @@ VLM-as-Judge 评测（Precision@1）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （流程与 prompt 交代清楚，但公式较浅、符号表冗余，缺少复杂度与成本分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （千万级商品全量部署、HNSW 分组索引与 pHash 去重的工程细节可直接借鉴，可惜 VL-CLIP 本体未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/multimodal_rec/notellm_2_multimodal_large_representation_models_for_recommendation/">    <span class="related-paper-title">NoteLLM-2: Multimodal Large Representation Models for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/multimodal_rec/text_guided_visual_representation_learning_for_robust_multimodal_e_commerce/">    <span class="related-paper-title">Text-Guided Visual Representation Learning for Robust Multimodal E-Commerce Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/do_recommender_systems_really_leverage_multimodal_content_a_comprehensive_a/">    <span class="related-paper-title">Do Recommender Systems Really Leverage Multimodal Content? A Comprehensive Analysis on Multimodal Representations for Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/agent_conversational_rec/lavic_adapting_large_vision_language_models_to_visually_aware_conversationa/">    <span class="related-paper-title">LaViC: Adapting Large Vision-Language Models to Visually-Aware Conversational Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/llm_rec/token_efficient_item_representation_via_images_for_llm_recommender_systems/">    <span class="related-paper-title">Token-Efficient Item Representation via Images for LLM Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -121,3 +121,16 @@ $$\mathbb{E}_{S_{N'}}[\widehat{\text{Recall}}@K]=\mathbb{E}_{n}\left[\frac{M}{N}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理陈述与超几何分布推导严谨，URE 流程图示清晰，个别符号如 $N$与$N'$ 在正文中偶有混用需留意）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （纯评估方案零训练成本、代码已开源，可直接用于去偏模型选型；但全库打分要求限制了在超大规模召回链路的直接部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/do_llms_memorize_recommendation_datasets_a_preliminary_study_on_movielens_1/">    <span class="related-paper-title">Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/debias_fairness_industrial/customized_retrieval_augmented_generation_with_llm_for_debiasing_recommenda/">    <span class="related-paper-title">Customized Retrieval-Augmented Generation with LLM for Debiasing Recommendation Unlearning</span>    <span class="related-paper-meta">ICDM · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../reducing_symbiosis_bias_through_better_a_b_tests_of_recommendation_algorith/">    <span class="related-paper-title">Reducing Symbiosis Bias Through Better A/B Tests of Recommendation Algorithms</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/on_the_reliability_of_sampling_strategies_in_offline_recommender_evaluation/">    <span class="related-paper-title">On the Reliability of Sampling Strategies in Offline Recommender Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/towards_fair_large_language_model_based_recommender_systems_without_costly_/">    <span class="related-paper-title">Towards Fair Large Language Model-based Recommender Systems without Costly Retraining</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

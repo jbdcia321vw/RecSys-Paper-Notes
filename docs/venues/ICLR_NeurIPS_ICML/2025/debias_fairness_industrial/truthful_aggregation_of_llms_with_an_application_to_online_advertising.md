@@ -116,3 +116,16 @@ $$U_i=\tau\log\Big(\sum_{j}\exp\big(\tfrac{r_i(x,y_j)}{\tau}\big)\pi_{\hat r_{-i
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （收敛性、方差、TV 距离、IR 不可能性与 almost-IR 均有完整证明，符号体系清晰）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （仅需 API 前向、可并行、5 倍查询开销，工程友好；但无开源代码，且依赖广告主诚实提供 LLM 接口）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/beyond_advertising_mechanism_design_for_platform_wide_marketing_service_qua/">    <span class="related-paper-title">Beyond Advertising: Mechanism Design for Platform-Wide Marketing Service &#x27;QuanZhanTui&#x27;</span>    <span class="related-paper-meta">KDD · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/contextual_generative_auction_with_permutation_level_externalities_for_onli/">    <span class="related-paper-title">Contextual Generative Auction with Permutation-level Externalities for Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../2026/ctr_feature_interaction/on_the_coordination_of_value_maximizing_bidders/">    <span class="related-paper-title">On the Coordination of Value-Maximizing Bidders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../2026/ctr_feature_interaction/model_monotonicity_in_autobidding_auctions_when_do_better_predictions_lead_/">    <span class="related-paper-title">Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../ctr_feature_interaction/optimal_auction_design_in_the_joint_advertising/">    <span class="related-paper-title">Optimal Auction Design in the Joint Advertising</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

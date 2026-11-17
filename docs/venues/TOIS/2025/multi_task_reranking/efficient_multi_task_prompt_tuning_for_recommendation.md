@@ -136,3 +136,16 @@ $$\gamma_k=\frac{\exp(\mathbf{h}_o\mathbf{E}_k^{\top}/T)}{\sum_{j=1}^{N}\exp(\ma
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号统一，效率分析清晰；GAN 收敛性与 EM 伪标签质量缺乏理论讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （10% 参数完成新任务适配，直击业务频繁上新任务的痛点，工程价值极高；可惜代码暂未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/multi_task_reranking/paragon_parameter_generation_for_controllable_multi_task_recommendation/">    <span class="related-paper-title">Paragon: Parameter Generation for Controllable Multi-Task Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multi_task_reranking/direct_routing_gradient_drgrad_a_personalized_information_surgery_for_multi/">    <span class="related-paper-title">Direct Routing Gradient (DRGrad): A Personalized Information Surgery for Multi-Task Learning (MTL) Recommendations</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MTL</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/multi_task_reranking/lightweight_ranking_heads_accelerating_multi_task_experimentation_in_produc/">    <span class="related-paper-title">Lightweight Ranking Heads: Accelerating Multi-Task Experimentation in Production Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · MTL / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multi_task_reranking/pcl_prompt_based_continual_learning_for_user_modeling_in_recommender_system/">    <span class="related-paper-title">PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/cross_domain_multi_scenario/towards_personalized_federated_multi_scenario_multi_task_recommendation/">    <span class="related-paper-title">Towards Personalized Federated Multi-Scenario Multi-Task Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cross / MTL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

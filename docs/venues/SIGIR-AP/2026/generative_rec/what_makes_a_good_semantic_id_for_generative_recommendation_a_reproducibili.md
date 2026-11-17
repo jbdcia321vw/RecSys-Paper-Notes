@@ -129,3 +129,17 @@ RPG 综合最强（VG 第一、ML 与 Yelp 第二），但三个数据集的最�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （统一全局时间切分、warm-only 全库排序、11 系统 + 6 设计 + 4 数据集 + 3 邻域尺度，并显式声明证据边界）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RQ 分解清晰、诊断量定义完整，但部分结论以"非单调"概括，缺少对退化机制的定量建模）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码与数据全开源，直接给出"先比完整系统、再用利用率排障、最后按 Jaccard/RBO 选型"的工程决策链）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/forge_forming_semantic_identifiers_for_generative_retrieval_in_industrial_d/">    <span class="related-paper-title">FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/differentiable_semantic_id_for_generative_recommendation/">    <span class="related-paper-title">Differentiable Semantic ID for Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / SSL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/faithful_evaluation_of_semantic_id_tokenizers_for_generative_recommendation/">    <span class="related-paper-title">Faithful Evaluation of Semantic-ID Tokenizers for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/semantic_ids_for_joint_generative_search_and_recommendation/">    <span class="related-paper-title">Semantic IDs for Joint Generative Search and Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/empowering_cross_domain_sequential_recommendation_with_hybrid_tokenization_/">    <span class="related-paper-title">Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cross</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

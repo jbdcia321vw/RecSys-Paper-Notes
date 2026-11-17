@@ -128,3 +128,17 @@ Qwen-7B 骨干上趋势一致（RecPO 0.3446 / 0.5307 / 0.4320 / 0.4143 / 0.5973
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （五数据集双骨干+行为级探针实验丰富，但 20 候选采样排序偏弱、缺 NDCG 等指标、无全库排序与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （从 BT 到 PL 的推导链条完整，$\phi$ 的通用族与边际函数对比消融到位，符号略密但可读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、推理开销与 S-DPO 同阶、可直接插到现有 LLM 推荐对齐管线，但依赖评分等结构化信号，隐式场景需设计代理分数）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/every_preference_has_its_strength_injecting_ordinal_semantics_into_llm_base/">    <span class="related-paper-title">Every Preference Has Its Strength: Injecting Ordinal Semantics into LLM-Based Recommenders</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/sequential_rec/more_a_mixture_of_reflectors_framework_for_large_language_model_based_seque/">    <span class="related-paper-title">MoRE: A Mixture of Reflectors Framework for Large Language Model-Based Sequential Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/reformulating_sequential_recommendation_learning_dynamic_user_interest_with/">    <span class="related-paper-title">Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

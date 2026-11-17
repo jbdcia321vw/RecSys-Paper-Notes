@@ -134,3 +134,16 @@ $\mathrm{Transformer}\big([H_1,\dots,H_n,C]\big),\quad Q=W_q[H_1,\dots,H_n,C],\ 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （融合方式、复杂度推导与 reshape 描述简洁准确，5 页短文信息密度高）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （LinkedIn 双场景真实部署，延迟降 30%、CPU 降近 8 倍，工程可复制性极强）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/sequential_rec/massive_memorization_with_hundreds_of_trillions_of_parameters_for_sequentia/">    <span class="related-paper-title">Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/sequential_rec/closing_the_long_short_view_gap_in_sequential_recommendation_without_cached/">    <span class="related-paper-title">Closing the Long-Short View Gap in Sequential Recommendation without Cached History</span>    <span class="related-paper-meta">CIKM · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/glint_ru_gated_lightweight_intelligent_recurrent_units_for_sequential_recom/">    <span class="related-paper-title">GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

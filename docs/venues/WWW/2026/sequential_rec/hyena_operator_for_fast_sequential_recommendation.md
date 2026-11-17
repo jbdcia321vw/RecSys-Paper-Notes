@@ -129,3 +129,17 @@ $$\mathbf{V}^{(o)}=\mathrm{Conv}_{dw}\big(\mathbf{V}^{(o-1)}\odot\mathbf{X}^{(o)
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （四数据集覆盖短/中/超长序列，Full-Ranking 无偏评测规范，消融含 Fourier/Chebyshev 强对照；扣分在缺长度分桶分析与 Mamba4Rec 主表对比）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （核构造、$\ell_1$归一化与三项递推公式完整，复杂度推导清晰；部分符号如$O$阶数与$O(\cdot)$ 复杂度记号混用略易混淆）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （线性复杂度 + $O(D)$ 增量推理 + 最高 6× 训练加速，工程价值明确；但代码未开源、FFT 长卷积的线上延迟实测缺失，复现门槛偏高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/sequential_rec/long_sequence_recommendation_models_need_decoupled_embeddings/">    <span class="related-paper-title">Long-Sequence Recommendation Models Need Decoupled Embeddings</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../generative_rec/beyond_the_flat_sequence_hierarchical_and_preference_aware_generative_recom/">    <span class="related-paper-title">Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../ctr_feature_interaction/unleashing_the_potential_of_sparse_attention_on_long_term_behaviors_for_ctr/">    <span class="related-paper-title">Unleashing the Potential of Sparse Attention on Long-term Behaviors for CTR Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/glint_ru_gated_lightweight_intelligent_recurrent_units_for_sequential_recom/">    <span class="related-paper-title">GLINT-RU: Gated Lightweight Intelligent Recurrent Units for Sequential Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

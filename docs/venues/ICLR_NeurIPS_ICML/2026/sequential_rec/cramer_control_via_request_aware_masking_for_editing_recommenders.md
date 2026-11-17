@@ -133,3 +133,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （四数据集双骨干 + BH 校正 48 组检验较规范，但 100 负例采样排序与数据集下采样削弱了结论强度，缺少全库排序与真实请求验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （ELBO 推导完整、明确声明代理目标非严格 ELBO，符号一致；但主表指标列过密、部分最优值未加粗，可读性略打折）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码已开源，单请求仅 +0.018s、显存增量可控，骨干加深时相对开销反降，是少数可直接嵌入现有精排服务的请求感知方案）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2026/llm_rec/towards_next_generation_recommender_systems_a_benchmark_for_personalized_re/">    <span class="related-paper-title">Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/cold_start_rec/genrecedit_adapting_model_editing_for_generative_recommendation_with_cold_s/">    <span class="related-paper-title">GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items</span>    <span class="related-paper-meta">SIGIR · 2026 · Cold / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cold_start_rec/llm_reasoning_for_cold_start_item_recommendation/">    <span class="related-paper-title">LLM Reasoning for Cold-Start Item Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/sequential_rec/more_a_mixture_of_reflectors_framework_for_large_language_model_based_seque/">    <span class="related-paper-title">MoRE: A Mixture of Reflectors Framework for Large Language Model-Based Sequential Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/reformulating_sequential_recommendation_learning_dynamic_user_interest_with/">    <span class="related-paper-title">Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

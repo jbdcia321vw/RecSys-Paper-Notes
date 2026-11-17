@@ -123,3 +123,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （580 模型/10,282 次训练/1.87 年算力，18 基线贝叶斯调优，10 次重跑方差估计，审计维度完整）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （DDPM 背景推导清晰、四象限判定严谨；概念批判部分偏论述性，量化支撑略弱）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码与全部实验开源，直接警示工业界勿盲信扩散推荐 SOTA，对评测规范建设有立竿见影的实践价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDD/2026/generative_rec/eval4direc_a_unified_and_systematic_evaluation_framework_for_diffusion_base/">    <span class="related-paper-title">Eval4DiRec: A Unified and Systematic Evaluation Framework for Diffusion-based Recommender Systems</span>    <span class="related-paper-meta">ACM TKDD · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/impression_aware_recommender_systems/">    <span class="related-paper-title">Impression-Aware Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/the_efficiency_vs_accuracy_trade_off_optimizing_rag_enhanced_llm_recommende/">    <span class="related-paper-title">The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../2025/cold_start_rec/data_scarcity_in_recommendation_systems_a_survey/">    <span class="related-paper-title">Data Scarcity in Recommendation Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2025 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

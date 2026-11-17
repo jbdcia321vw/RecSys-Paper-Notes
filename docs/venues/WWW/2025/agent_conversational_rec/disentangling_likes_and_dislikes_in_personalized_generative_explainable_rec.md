@@ -130,3 +130,16 @@ $\text{sentiment} = \frac{1}{|\mathcal{D}|}\sum_{(u,i)\in\mathcal{D}}\mathbb{I}\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （指标定义清晰、案例对照直观，公式较简洁，缺少对情感标签映射合理性的理论论证）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与数据开源，评分注入仅增一次 MLP 开销，可直接用于提升解释可信度）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/a_text_based_recommender_system_that_leverages_explicit_affective_state_pre/">    <span class="related-paper-title">A Text-Based Recommender System that Leverages Explicit Affective State Preferences</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/coherency_improved_explainable_recommendation_via_large_language_model/">    <span class="related-paper-title">Coherency Improved Explainable Recommendation via Large Language Model</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../llm_rec/beyond_retrieval_generating_narratives_in_conversational_recommender_system/">    <span class="related-paper-title">Beyond Retrieval: Generating Narratives in Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/agent_conversational_rec/the_utility_of_llms_in_recommender_systems_explanation_evaluation/">    <span class="related-paper-title">The Utility of LLMs in Recommender Systems Explanation Evaluation</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/review_driven_personalized_preference_reasoning_with_large_language_models_/">    <span class="related-paper-title">Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

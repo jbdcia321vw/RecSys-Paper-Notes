@@ -136,3 +136,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （构建流程、清洗阈值与统计口径交代清晰，表格完备，几乎无公式推导需求）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （数据与代码全开源、含时间戳与匿名用户 ID，可直接支撑贴纸推荐、对话推荐与生成式贴纸研究）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/persrv_personalized_sticker_retrieval_with_vision_language_model/">    <span class="related-paper-title">PerSRV: Personalized Sticker Retrieval with Vision-Language Model</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/generative_rec/a_generative_framework_for_personalized_sticker_retrieval/">    <span class="related-paper-title">A Generative Framework for Personalized Sticker Retrieval</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/dv365_extremely_long_user_history_modeling_at_instagram/">    <span class="related-paper-title">DV365: Extremely Long User History Modeling at Instagram</span>    <span class="related-paper-meta">KDD · 2025 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/datasets_for_navigating_sensitive_topics_in_recommendation_systems/">    <span class="related-paper-title">Datasets for Navigating Sensitive Topics in Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/personalized_image_generation_with_large_multimodal_models/">    <span class="related-paper-title">Personalized Image Generation with Large Multimodal Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

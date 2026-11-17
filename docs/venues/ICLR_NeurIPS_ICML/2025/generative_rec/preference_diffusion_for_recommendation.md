@@ -131,3 +131,16 @@ $$\mathcal{L}_{\text{PreferDiff}}=\lambda\mathcal{L}_{\text{Simple}}+(1-\lambda)
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （从 BPR 到上界的推导链条清晰，梯度与 DPO 分析有说服力，符号略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码开源、收敛快是加分项，但维度敏感与多步去噪推理延迟制约大规模部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../listwise_preference_diffusion_optimization_for_user_behavior_trajectories_p/">    <span class="related-paper-title">Listwise Preference Diffusion Optimization for User Behavior Trajectories Prediction</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/personalized_image_generation_for_recommendations_beyond_catalogs/">    <span class="related-paper-title">Personalized Image Generation for Recommendations Beyond Catalogs</span>    <span class="related-paper-meta">RecSys · 2025 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2025/generative_rec/flow_matching_based_sequential_recommender_model/">    <span class="related-paper-title">Flow Matching based Sequential Recommender Model</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/personalized_diffusion_model_reshapes_cold_start_bundle_recommendation/">    <span class="related-paper-title">Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/genci_generative_modeling_of_user_interest_shift_via_cohort_based_intent_le/">    <span class="related-paper-title">GenCI: Generative Modeling of User Interest Shift via Cohort-based Intent Learning for CTR Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

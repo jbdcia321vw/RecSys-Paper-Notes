@@ -129,3 +129,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 + 8 基线 + 完整消融 + 规模/超参分析 + 线上 A/B 显著性检验，链条完整；公共集规模偏小略扣分）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （pilot 实验→两大局限→两轴设计的论证闭环清晰，约束优化推导规范；部分符号在正文与附录间略有重复定义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （近线预计算 + 在线单层注意力的部署方案务实，延迟仅 +1.5%、收入 +1.35% 有说服力；但代码未开源、参考模型与知识库运维成本未披露）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/llm_based_user_personas_for_recommendations_at_scale/">    <span class="related-paper-title">LLM-Based User Personas for Recommendations at Scale</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/generative_rec/generative_large_recommendation_models_emerging_trends_in_llms_for_recommen/">    <span class="related-paper-title">Generative Large Recommendation Models: Emerging Trends in LLMs for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/llm_rec/empowering_compact_llms_with_fusion_of_layer_wise_exits_for_recommendation/">    <span class="related-paper-title">Empowering Compact LLMs with Fusion of Layer-wise Exits for Recommendation</span>    <span class="related-paper-meta">ICDM · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../unifying_search_and_recommendation_in_llms_via_gradient_multi_subspace_tuni/">    <span class="related-paper-title">Unifying Search and Recommendation in LLMs via Gradient Multi-Subspace Tuning</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

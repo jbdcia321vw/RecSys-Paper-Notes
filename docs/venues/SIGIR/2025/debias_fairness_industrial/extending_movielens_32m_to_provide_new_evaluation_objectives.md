@@ -118,3 +118,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （qrels 体系用两张表清晰罗列，公式需求低；部分实现细节外推到作者博士论文，正文自洽性略打折）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （数据集与 compatibility 工具均开源，可直接替换现有离线评测；但人工判断成本高，工业界更可能借鉴其"兴趣优先 + 去流行度"的指标设计而非全量池化）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TORS/2026/poi_spatiotemporal_rec/point_of_interest_recommendation_pitfalls_and_viable_solutions/">    <span class="related-paper-title">Point of Interest Recommendation: Pitfalls and Viable Solutions</span>    <span class="related-paper-meta">ACM TORS · 2026 · POI / Debias</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../TKDD/2026/ctr_feature_interaction/dual_stream_mlp_is_all_you_need_for_ctr_prediction/">    <span class="related-paper-title">Dual-Stream MLP is All You Need for CTR Prediction</span>    <span class="related-paper-meta">ACM TKDD · 2026 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/debias_fairness_industrial/post_training_attribute_unlearning_in_recommender_systems/">    <span class="related-paper-title">Post-Training Attribute Unlearning in Recommender Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2026/cross_domain_multi_scenario/causal_invariant_cross_domain_out_of_distribution_recommendation/">    <span class="related-paper-title">Causal-Invariant Cross-Domain Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2026 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/sequential_rec/recommending_target_actions_outside_sessions_in_the_data_poor_insurance_dom/">    <span class="related-paper-title">Recommending Target Actions Outside Sessions in the Data-poor Insurance Domain</span>    <span class="related-paper-meta">ACM TORS · 2025 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
+</div>
+<!-- related-papers:end -->

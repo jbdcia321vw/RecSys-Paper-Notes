@@ -129,3 +129,16 @@ Last.fm 上趋势一致：PopSteer 在 $N$=4096 时 LT Cov. 达 0.9150、Gini �
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （SAE 与 Cohen's $d$ 公式定义清晰、动机链条完整，但主结果以散点图呈现、缺精确数值表，复现需读图估数）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、推理仅增一次 SAE 前向、无需重训底座，作为线上公平性后处理插件落地成本低）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/bridging_semantic_understanding_and_popularity_bias_with_llms/">    <span class="related-paper-title">Bridging Semantic Understanding and Popularity Bias with LLMs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/extracting_interaction_aware_monosemantic_concepts_in_recommender_systems/">    <span class="related-paper-title">Extracting Interaction-Aware Monosemantic Concepts in Recommender Systems</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/adaptive_autoguidance_for_item_side_fairness_in_diffusion_recommender_syste/">    <span class="related-paper-title">Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/unbiased_recommender_systems_with_implicit_feedback/">    <span class="related-paper-title">Unbiased Recommender Systems with Implicit Feedback</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

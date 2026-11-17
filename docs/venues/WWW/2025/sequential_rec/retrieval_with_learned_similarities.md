@@ -130,3 +130,16 @@ $$\mathcal{L}_{MI}=-H(p)+H(p|(q,x)),\qquad \mathcal{L}=-\log\frac{\exp\phi(q,x)}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （定理-引理-紧界证明链条完整，符号表清晰，算法伪代码与数值示例（Table 6）极大降低理解成本）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与 checkpoint 开源，仅需向量库 top-K API 即可部署，但训练算力与 $P^2$ 复杂度对中小规模团队不友好）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/semantic_ids_for_joint_generative_search_and_recommendation/">    <span class="related-paper-title">Semantic IDs for Joint Generative Search and Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/generative_rec/tokenrec_learning_to_tokenize_id_for_llm_based_generative_recommendation/">    <span class="related-paper-title">TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/cold_start_rec/sparse_contrastive_learning_for_content_based_cold_item_recommendation/">    <span class="related-paper-title">Sparse Contrastive Learning for Content-Based Cold Item Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/multi_task_reranking/embedding_subspace_partitioning_for_dynamic_multi_objective_retrieval/">    <span class="related-paper-title">Embedding Subspace Partitioning for Dynamic Multi-Objective Retrieval</span>    <span class="related-paper-meta">RecSys · 2026 · MTL / CF</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/bridging_language_and_items_for_retrieval_and_recommendation_benchmarking_l/">    <span class="related-paper-title">Bridging Language and Items for Retrieval and Recommendation: Benchmarking LLMs as Semantic Encoders</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

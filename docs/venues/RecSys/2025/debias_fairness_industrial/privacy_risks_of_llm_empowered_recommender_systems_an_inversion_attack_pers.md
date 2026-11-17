@@ -134,3 +134,16 @@ Movie 域、TallRec 场景下的组件与因素消融：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （五步流程与公式清晰，残差信息理论引用到位，但部分归因停留在相关性层面）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与 300 万条合成语料全开源，直接可作为 LLM 推荐服务的隐私红队工具）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/membership_inference_attacks_on_in_context_examples_in_llm_based_recommende/">    <span class="related-paper-title">Membership Inference Attacks on In-Context Examples in LLM-based Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/reference_recommendation_based_membership_inference_attack_against_hybrid_b/">    <span class="related-paper-title">Reference Recommendation based Membership Inference Attack against Hybrid-based Recommender Systems</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/prompt_unknown_promotion_attacks_against_llm_based_sequential_recommender_s/">    <span class="related-paper-title">Prompt-Unknown Promotion Attacks against LLM-based Sequential Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/id_free_not_risk_free_llm_powered_agents_unveil_risks_in_id_free_recommende/">    <span class="related-paper-title">ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in ID-Free Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../recps_privacy_risk_scoring_for_recommender_systems/">    <span class="related-paper-title">RecPS: Privacy Risk Scoring for Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

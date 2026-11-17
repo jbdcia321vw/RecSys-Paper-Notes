@@ -136,3 +136,16 @@ IID 场景（表 2）：DRGO 在 Food/KuaiRec/Yelp2018 上四项指标全面最�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Sinkhorn DRO 与泛化界推导完整，符号统一；部分关键推导置于附录，正文公式密度偏高）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码已开源、可插拔主干友好，但扩散 + 聚类带来的训练开销与超参敏感性对大规模线上部署构成实际门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../graph_representation_learning_via_causal_diffusion_for_out_of_distribution_/">    <span class="related-paper-title">Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/improving_minimax_group_fairness_in_sequential_recommendation/">    <span class="related-paper-title">Improving Minimax Group Fairness in Sequential Recommendation</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/self_supervised_denoising/squeeze_and_excitation_a_weighted_graph_contrastive_learning_for_collaborat/">    <span class="related-paper-title">Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering</span>    <span class="related-paper-meta">SIGIR · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/cross_domain_multi_scenario/cross_domain_causal_preference_learning_for_out_of_distribution_recommendat/">    <span class="related-paper-title">Cross-Domain Causal Preference Learning for Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">DASFAA · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/social_group_rec/score_based_generative_diffusion_models_for_social_recommendations/">    <span class="related-paper-title">Score-based Generative Diffusion Models for Social Recommendations</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

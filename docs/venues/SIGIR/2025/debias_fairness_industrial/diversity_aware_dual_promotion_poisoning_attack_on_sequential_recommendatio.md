@@ -128,3 +128,16 @@ SASRec 受害模型，攻击 HR@10（Rec 列为对应推荐 HR@10）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （梯度推导与损失曲线互证，符号统一；多样性度量的理论依据略薄）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （免查询黑盒、单层联合训练降低攻击成本，对防御方有直接警示价值；代码未开源，生成开销未量化）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/llm_rec/prompt_unknown_promotion_attacks_against_llm_based_sequential_recommender_s/">    <span class="related-paper-title">Prompt-Unknown Promotion Attacks against LLM-based Sequential Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/spattack_subgroup_poisoning_attacks_on_federated_recommender_systems/">    <span class="related-paper-title">Spattack: Subgroup Poisoning Attacks on Federated Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2025/debias_fairness_industrial/single_node_trigger_backdoor_attacks_in_graph_based_recommendation_systems/">    <span class="related-paper-title">Single-Node Trigger Backdoor Attacks in Graph-Based Recommendation Systems</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../id_free_not_risk_free_llm_powered_agents_unveil_risks_in_id_free_recommende/">    <span class="related-paper-title">ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in ID-Free Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/reference_recommendation_based_membership_inference_attack_against_hybrid_b/">    <span class="related-paper-title">Reference Recommendation based Membership Inference Attack against Hybrid-based Recommender Systems</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

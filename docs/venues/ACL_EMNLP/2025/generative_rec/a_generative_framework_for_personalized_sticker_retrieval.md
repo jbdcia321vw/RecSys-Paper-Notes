@@ -133,3 +133,16 @@ $$\mathcal{L}_{R}=-\sum_{\tau\in\mathcal{T}}\sum_{p\in R} d_p \log P_\theta(id_p
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与公式清晰，三任务与两阶段训练划分明确；但用户兴趣预测公式与点击预测几乎重复罗列，符号冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在微信线上验证 CTR +7.12%，内存从 3.6G 降至 1.6G；但代码未开源、依赖 LLM 意图预计算，复现与低成本部署存在门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/persrv_personalized_sticker_retrieval_with_vision_language_model/">    <span class="related-paper-title">PerSRV: Personalized Sticker Retrieval with Vision-Language Model</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/genci_generative_modeling_of_user_interest_shift_via_cohort_based_intent_le/">    <span class="related-paper-title">GenCI: Generative Modeling of User Interest Shift via Cohort-based Intent Learning for CTR Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/think_to_personalize_unifying_reasoning_and_retrieval_for_user_centric_pers/">    <span class="related-paper-title">Think-to-Personalize: Unifying Reasoning and Retrieval for User-Centric Personalized Dense Retrieval</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/mviger_multi_view_variational_integration_of_complementary_knowledge_for_ge/">    <span class="related-paper-title">MVIGER: Multi-View Variational Integration of Complementary Knowledge for Generative Recommender</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../2026/llm_rec/beyond_retrieval_learning_compact_user_representations_for_scalable_llm_per/">    <span class="related-paper-title">Beyond Retrieval: Learning Compact User Representations for Scalable LLM Personalization</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

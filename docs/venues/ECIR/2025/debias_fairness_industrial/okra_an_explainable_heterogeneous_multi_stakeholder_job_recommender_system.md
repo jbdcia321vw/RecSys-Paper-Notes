@@ -123,3 +123,16 @@ $$\hat{y}=\frac{2\cdot\hat{y}_{c}\cdot\hat{y}_{p}}{\hat{y}_{c}+\hat{y}_{p}}$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四层架构与张量维度交代清楚，公式简洁，公平指标定义明确）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、推理可级联至秒级，但训练成本与专有数据不可得限制了直接复现）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDE/2025/graph_rec/path_based_summary_explanations_for_graph_recommenders_extended_version/">    <span class="related-paper-title">Path-based summary explanations for graph recommenders (extended version)</span>    <span class="related-paper-meta">ICDE · 2025 · Graph / Debias</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../TKDD/2025/ctr_feature_interaction/jobformer_skill_aware_job_recommendation_with_semantic_enhanced_transformer/">    <span class="related-paper-title">JobFormer: Skill-Aware Job Recommendation with Semantic-Enhanced Transformer</span>    <span class="related-paper-meta">ACM TKDD · 2025 · CTR / Cold</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/from_top_1_to_top_k_a_reproducibility_study_and_benchmarking_of_counterfact/">    <span class="related-paper-title">From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/g_refer_graph_retrieval_augmented_large_language_model_for_explainable_reco/">    <span class="related-paper-title">G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/enriching_semantic_profiles_into_knowledge_graph_for_recommender_systems_us/">    <span class="related-paper-title">Enriching Semantic Profiles into Knowledge Graph for Recommender Systems Using Large Language Models</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+</div>
+<!-- related-papers:end -->

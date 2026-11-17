@@ -138,3 +138,16 @@ MovieLens-1M CTR 任务（AUC 越高越好，LogLoss 越低越好）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （挑战-方法对应关系明确，公式简洁，超参敏感性分析到位；但部分符号如 $\alpha$ 取值与 SWING 复杂度未交代）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （LLM 调用全离线、编码器冻结、适配器轻量，已在微信 800 万用户规模验证，落地路径清晰；框架代码未开源略降复现便利度）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/eager_llm_enhancing_large_language_models_as_recommenders_through_exogenous/">    <span class="related-paper-title">EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/bridging_the_user_side_knowledge_gap_in_knowledge_aware_recommendations_wit/">    <span class="related-paper-title">Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/knowledge_graph_retrieval_augmented_generation_for_llm_based_recommendation/">    <span class="related-paper-title">Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/self_supervised_denoising/unleashing_the_power_of_large_language_model_for_denoising_recommendation/">    <span class="related-paper-title">Unleashing the Power of Large Language Model for Denoising Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · SSL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/the_mental_world_of_large_language_models_in_recommendation_a_benchmark_on_/">    <span class="related-paper-title">The Mental World of Large Language Models in Recommendation: A Benchmark on Association, Personalization, and Knowledgeability</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

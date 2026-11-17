@@ -133,3 +133,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Cayley-Dickson 递归构造与运算定义完整，算法伪代码清晰；但部分符号（如 $\bar{\mathbf{H}}$与$\hat{\mathbf{H}}$ 的层级）在正文中略跳跃，过平滑的理论论证停留在直觉层面）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，物品图冻结使训练开销可控，显存优于 LATTICE/DiffMM；但嵌入维度膨胀带来的存储成本与超参逐数据集调优是上线前需解决的问题）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/cohesion_composite_graph_convolutional_network_with_dual_stage_fusion_for_m/">    <span class="related-paper-title">COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.82</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/beyond_graph_convolution_multimodal_recommendation_with_topology_aware_mlps/">    <span class="related-paper-title">Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/mentor_multi_level_self_supervised_learning_for_multimodal_recommendation/">    <span class="related-paper-title">MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/multimodal_rec/spectrum_based_modality_representation_fusion_graph_convolutional_network_f/">    <span class="related-paper-title">Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../modality_alignment_with_multi_scale_bilateral_attention_for_multimodal_reco/">    <span class="related-paper-title">Modality Alignment with Multi-scale Bilateral Attention for Multimodal Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

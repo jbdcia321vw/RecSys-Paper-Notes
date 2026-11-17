@@ -131,3 +131,16 @@ $$\mathrm{HR}^{*}@K(i)=\frac{1}{|U|}\sum_{u\in U}\mathbb{I}\left[i\in R_K^u\righ
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （HR\*/NDCG\* 定义清晰、实验隔离设计交代到位，但阈值定位算子仅有文字描述、缺形式化）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、模型无关、零额外训练成本即可复用，可直接改写工业数据管线的过滤策略与评估基线）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cold_start_rec/shallow_autoencoding_recommender_with_cold_start_handling_via_side_features/">    <span class="related-paper-title">Shallow AutoEncoding Recommender with Cold Start Handling via Side Features</span>    <span class="related-paper-meta">CIKM · 2025 · Cold / CF</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/not_just_what_but_when_integrating_irregular_intervals_to_llm_for_sequentia/">    <span class="related-paper-title">Not Just What, But When: Integrating Irregular Intervals to LLM for Sequential Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/cold_start_rec/all_in_one_heterogeneous_interaction_modeling_for_cold_start_rating_predict/">    <span class="related-paper-title">All-in-One: Heterogeneous Interaction Modeling for Cold-Start Rating Prediction</span>    <span class="related-paper-meta">ICDE · 2025 · Cold / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/cold_start_rec/large_language_model_simulator_for_cold_start_recommendation/">    <span class="related-paper-title">Large Language Model Simulator for Cold-Start Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

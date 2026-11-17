@@ -129,3 +129,16 @@ $$\mathcal{L}^k_{rec}=-\frac{1}{|\mathcal{D}|}\sum_{(a,i)\in\mathcal{D}}\frac{\e
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （密度比推导与 ERM 改写链条完整，复杂度分析到位；部分符号如 $\epsilon$ 兼作偏置与噪声略有歧义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、即插即用于 LightGCN-S 骨干，但 $K$ 倍训练开销与超参搜索成本限制大规模直接上线）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/social_group_rec/score_based_generative_diffusion_models_for_social_recommendations/">    <span class="related-paper-title">Score-based Generative Diffusion Models for Social Recommendations</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/social_group_rec/disentangled_modeling_of_preferences_and_social_influence_for_group_recomme/">    <span class="related-paper-title">Disentangled Modeling of Preferences and Social Influence for Group Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/unbiased_recommender_systems_with_implicit_feedback/">    <span class="related-paper-title">Unbiased Recommender Systems with Implicit Feedback</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/social_group_rec/community_aware_social_community_recommendation/">    <span class="related-paper-title">Community-Aware Social Community Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Social / Graph</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/low_pass_personalized_subgraph_federated_recommendation/">    <span class="related-paper-title">Low-pass Personalized Subgraph Federated Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

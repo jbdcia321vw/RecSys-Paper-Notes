@@ -136,3 +136,16 @@ $\mathbf{H}$的更新化为对堆叠矩阵$[\mathbf{M}\circ\mathbf{P}_d;\sqrt{\a
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （目标函数、掩码子问题与逐行列更新规则推导完整，符号统一，5 页短文信息密度高）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （离线一次分解、在线查表，部署成本极低；但无开源代码、无大规模收敛性报告，复现需自备同等门户数据）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/efficient_learning_of_sparse_representations_from_interactions/">    <span class="related-paper-title">Efficient Learning of Sparse Representations from Interactions</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/quantifying_user_coherence_a_unified_framework_for_analyzing_recommender_sy/">    <span class="related-paper-title">Quantifying User Coherence: A Unified Framework for Analyzing Recommender Systems Across Domains</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/orthogonal_low_rank_embedding_stabilization/">    <span class="related-paper-title">Orthogonal Low Rank Embedding Stabilization</span>    <span class="related-paper-meta">RecSys · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/cold_start_rec/user_adaptive_meta_learning_for_cold_start_medication_recommendation_with_u/">    <span class="related-paper-title">User-Adaptive Meta-Learning for Cold-Start Medication Recommendation with Uncertainty Filtering</span>    <span class="related-paper-meta">ICDE · 2026 · Cold / Seq</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cross_domain_multi_scenario/rankgraph_unified_heterogeneous_graph_learning_for_cross_domain_recommendat/">    <span class="related-paper-title">RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+</div>
+<!-- related-papers:end -->

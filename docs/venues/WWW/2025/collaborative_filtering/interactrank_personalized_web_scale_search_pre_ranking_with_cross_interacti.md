@@ -140,3 +140,16 @@ Remove-one 消融（HITS@3 相对变化）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、系统链路描述清晰，IQP 平滑与增量更新细节略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在 Pinterest 全量部署服务十亿级请求，代码开源，1.1× FLOPs 的增量成本极具落地参考价值）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/collaborative_filtering/a_learnable_fully_interacted_two_tower_model_for_pre_ranking_system/">    <span class="related-paper-title">A Learnable Fully Interacted Two-Tower Model for Pre-Ranking System</span>    <span class="related-paper-meta">SIGIR · 2025 · CF / CTR</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/cold_start_rec/bayescns_a_unified_bayesian_approach_to_address_cold_start_and_non_stationa/">    <span class="related-paper-title">BayesCNS: A Unified Bayesian Approach to Address Cold Start and Non-Stationarity in Search Systems at Scale</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Cold / RL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/transact_v2_lifelong_user_action_sequence_modeling_on_pinterest_recommendat/">    <span class="related-paper-title">TransAct V2: Lifelong User Action Sequence Modeling on Pinterest Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../2026/collaborative_filtering/pi2i_a_personalized_item_based_collaborative_filtering_retrieval_framework/">    <span class="related-paper-title">PI2I: A Personalized Item-Based Collaborative Filtering Retrieval Framework</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/decoupled_entity_representation_learning_for_pinterest_ads_ranking/">    <span class="related-paper-title">Decoupled Entity Representation Learning for Pinterest Ads Ranking</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

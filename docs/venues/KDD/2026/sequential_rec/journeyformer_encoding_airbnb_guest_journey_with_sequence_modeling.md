@@ -134,3 +134,17 @@ $$\mathcal{L}_{\text{Ranking}} = -\sum_{i=1}^{n}\frac{y_i}{\sum_{j=1}^{n}y_j}\lo
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/harnessing_the_power_of_interleaving_and_counterfactual_evaluation_for_airb/">    <span class="related-paper-title">Harnessing the Power of Interleaving and Counterfactual Evaluation for Airbnb Search Ranking</span>    <span class="related-paper-meta">KDD · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/cross_domain_multi_scenario/adaptive_domain_scaling_for_personalized_sequential_modeling_in_recommender/">    <span class="related-paper-title">Adaptive Domain Scaling for Personalized Sequential Modeling in Recommenders</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/transact_v2_lifelong_user_action_sequence_modeling_on_pinterest_recommendat/">    <span class="related-paper-title">TransAct V2: Lifelong User Action Sequence Modeling on Pinterest Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../2025/collaborative_filtering/high_precision_audience_expansion_via_extreme_classification_in_a_two_sided/">    <span class="related-paper-title">High Precision Audience Expansion via Extreme Classification in a Two-Sided Marketplace</span>    <span class="related-paper-meta">KDD · 2025 · CF / POI</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/large_memory_network_for_recommendation/">    <span class="related-paper-title">Large Memory Network for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

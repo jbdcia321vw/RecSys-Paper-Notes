@@ -133,3 +133,17 @@ $\mathcal{L}_{\text{distill}} = -\sum_{i \in \mathcal{D}_{\text{valid}}} \log p_
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （离线+调研+30 天 A/B 三层验证完整，但缺传统排序指标与成本量化）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （工程叙述清晰，但几乎无形式化定义与复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （十亿级真实部署与完整架构描述，工业参考价值极高，可惜未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/multimodal_rec/llm_powered_nuanced_video_attribute_annotation_for_enhanced_recommendations/">    <span class="related-paper-title">LLM-Powered Nuanced Video Attribute Annotation for Enhanced Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../recap_feedback_driven_streaming_semantic_user_profiles_for_short_video_reco/">    <span class="related-paper-title">RECAP: Feedback-Driven Streaming Semantic User Profiles for Short-Video Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../2025/llm_rec/balancing_fine_tuning_and_rag_a_hybrid_strategy_for_dynamic_llm_recommendat/">    <span class="related-paper-title">Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/lwgr_lagrangian_constrained_personalized_world_knowledge_for_generative_rec/">    <span class="related-paper-title">LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/iterative_semantic_reasoning_from_individual_to_group_interests_for_generat/">    <span class="related-paper-title">Iterative Semantic Reasoning from Individual to Group Interests for Generative Recommendation with LLMs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

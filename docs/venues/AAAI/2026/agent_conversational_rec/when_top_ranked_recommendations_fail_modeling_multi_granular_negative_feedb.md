@@ -149,3 +149,17 @@ Reason Agent（Profile / Video / S-GRPO 三组件）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （显式/隐式双粒度评估 + 消融 + 跨域泛化 + 线上 A/B 四重验证完整，但隐式任务缺乏全库排序协议与显著性检验细节）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （S-GRPO 公式与奖励定义清晰，但部分符号如 $R_i^S$与$r_{\text{judge}}$ 的对应关系在正文中略跳跃）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （线上三项指标全面提升且给出量化部署方案，但代码未开源、1 QPS 吞吐限制了大规模落地）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/a_content_driven_micro_video_recommendation_dataset_at_scale/">    <span class="related-paper-title">A Content-Driven Micro-Video Recommendation Dataset at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/short_video_segment_level_user_dynamic_interests_modeling_in_personalized_r/">    <span class="related-paper-title">Short Video Segment-level User Dynamic Interests Modeling in Personalized Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/multimodal_rec/controllable_and_content_based_recommendations/">    <span class="related-paper-title">Controllable and Content-Based Recommendations</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/multimodal_rec/mend_the_measurement_gap_latent_user_preference_modeling_for_short_form_vid/">    <span class="related-paper-title">Mend the Measurement Gap: Latent User Preference Modeling for Short-Form Video Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/leveraging_watch_time_feedback_for_short_video_recommendations_a_causal_lab/">    <span class="related-paper-title">Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

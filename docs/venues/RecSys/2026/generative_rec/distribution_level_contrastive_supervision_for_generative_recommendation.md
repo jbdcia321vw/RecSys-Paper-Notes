@@ -131,3 +131,17 @@ $$\mathcal{L}_{\text{SODA}}=-\log\sigma\big(\beta\cdot(s(h^+,h_y)-s(h^-,h_y))\bi
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （Full-Ranking + Leave-One-Out 协议规范、三骨干一致增益可信，但仅 3 数据集、消融单数据集、无显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （5 页短文公式紧凑、软量化与 KL 匹配定义清晰，但 $\beta$ 的作用与负样本构造动机仅一句话带过）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （即插即用、推理零开销、训练 <5% 增量、代码已开源，工程友好；但超参调优成本与大规模验证缺失扣分）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/token_level_collaborative_alignment_for_llm_based_generative_recommendation/">    <span class="related-paper-title">Token-level Collaborative Alignment for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/differentiable_semantic_id_for_generative_recommendation/">    <span class="related-paper-title">Differentiable Semantic ID for Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / SSL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/generative_recommender_with_end_to_end_learnable_item_tokenization/">    <span class="related-paper-title">Generative Recommender with End-to-End Learnable Item Tokenization</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/process_supervised_llm_recommenders_via_flow_guided_tuning/">    <span class="related-paper-title">Process-Supervised LLM Recommenders via Flow-guided Tuning</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../addressing_cross_stage_decoupling_of_semantic_and_collaborative_signals_in_/">    <span class="related-paper-title">Addressing Cross-Stage Decoupling of Semantic and Collaborative Signals in Generative Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

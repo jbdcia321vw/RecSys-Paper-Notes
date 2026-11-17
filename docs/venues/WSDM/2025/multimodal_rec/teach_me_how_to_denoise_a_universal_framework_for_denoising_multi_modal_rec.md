@@ -138,3 +138,16 @@ GUIDER 在全部 5 个基座 × 4 个数据集上均取得最优，且全部带 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （动机—证伪—方法的叙事链条清晰，OT/Sinkhorn 公式完整；但表 2 中 R-CE 在 Clothing 出现 0.579 的疑似笔误，部分符号上下标不统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （即插即用、推理零额外开销、代码已开源；但 AMSC 的平方级相似度计算在千万级交互上需近似检索加速）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACM_MM/2026/multimodal_rec/beyond_noisy_signals_dual_level_denoising_for_multi_modal_sequential_recomm/">    <span class="related-paper-title">Beyond Noisy Signals: Dual-Level Denoising for Multi-modal Sequential Recommendation</span>    <span class="related-paper-meta">ACM MM · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/multi_modal_multi_behavior_sequential_recommendation_with_conditional_diffu/">    <span class="related-paper-title">Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../spectrum_based_modality_representation_fusion_graph_convolutional_network_f/">    <span class="related-paper-title">Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/self_supervised_denoising/post_training_denoising_of_user_profiles_with_llms_in_collaborative_filteri/">    <span class="related-paper-title">Post-Training Denoising of User Profiles with LLMs in Collaborative Filtering Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · SSL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/self_supervised_denoising/unleashing_the_power_of_large_language_model_for_denoising_recommendation/">    <span class="related-paper-title">Unleashing the Power of Large Language Model for Denoising Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · SSL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

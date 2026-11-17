@@ -143,3 +143,17 @@ Amazon Beauty & Clothing（H@5 / N@5）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （5 组域对、10 个基线、消融/秩/分桶/收敛分析齐全，但缺 $K$ 规模与超参敏感性）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、DoRA 分解与命题推导清晰，通信成本表明确）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，本地训练 746s/轮、12 轮收敛，蒸馏减半主干适配端侧资源，工程可落地性强）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/cross_domain_multi_scenario/from_ids_to_semantics_a_generative_framework_for_cross_domain_recommendatio/">    <span class="related-paper-title">From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Cross / GenRec</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../TMM/2025/cross_domain_multi_scenario/federated_user_preference_modeling_for_privacy_preserving_cross_domain_reco/">    <span class="related-paper-title">Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation</span>    <span class="related-paper-meta">IEEE TMM · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/cross_domain_multi_scenario/llm_edt_large_language_model_enhanced_cross_domain_sequential_recommendatio/">    <span class="related-paper-title">LLM-EDT: Large Language Model Enhanced Cross-domain Sequential Recommendation with Dual-phase Training</span>    <span class="related-paper-meta">SIGIR · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/cross_domain_multi_scenario/fedcgr_federated_cross_domain_generative_recommendation/">    <span class="related-paper-title">FedCGR: Federated Cross-Domain Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · Cross / GenRec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/llm_rec/heterogeneous_user_modeling_for_llm_based_recommendation/">    <span class="related-paper-title">Heterogeneous User Modeling for LLM-based Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / Cross</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+</div>
+<!-- related-papers:end -->

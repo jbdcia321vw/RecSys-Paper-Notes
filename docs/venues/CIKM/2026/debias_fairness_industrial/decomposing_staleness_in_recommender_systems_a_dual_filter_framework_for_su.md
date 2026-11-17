@@ -126,3 +126,17 @@ PTR 一致度扫描：F1 从 Majority(3/5) 的 78.07% 升至 Unanimous(5/5) 的 
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （离线消融 + 互动中性约束的 A/B + 两月 holdback + 两年部署监控四层证据链完整，但人工评级样本量与单平台局限削弱统计强度）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化与式 (7) 的离散化推导干净利落，工业细节交代充分；PTR 的阈值 $\theta$ 与 horizon 集选择缺少敏感性分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （十亿级月活产品两年全量部署、举报降 54.9%、省近 9% 算力且零在线推理开销，是罕见的端到端工业验证；但未开源、依赖内部多模态骨干，复现门槛高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/sequential_rec/continual_recommender_systems/">    <span class="related-paper-title">Continual Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../llm_rec/tracer_balancing_stability_plasticity_cognitivity_trilemma_for_llm_enhanced/">    <span class="related-paper-title">TRACER: Balancing Stability-Plasticity-Cognitivity Trilemma for LLM Enhanced Continual Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/sequential_rec/capturing_user_interests_from_data_streams_for_continual_sequential_recomme/">    <span class="related-paper-title">Capturing User Interests from Data Streams for Continual Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/cold_start_rec/online_item_cold_start_recommendation_with_popularity_aware_meta_learning/">    <span class="related-paper-title">Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning</span>    <span class="related-paper-meta">KDD · 2025 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/collaborative_filtering/on_the_role_of_weight_decay_in_collaborative_filtering_a_popularity_perspec/">    <span class="related-paper-title">On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective</span>    <span class="related-paper-meta">KDD · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -133,3 +133,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （构图判据与 GCN/MLP 公式清晰，$\lambda$与提示数的敏感性分析完整；但部分符号如$y^i_m$ 定义略简，复杂度分析缺失）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （LLM 仅离线调用一次、推理 <0.1s/序列，工程友好度极高；但代码未开源、数据为私有工业集，复现门槛偏高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/agent_conversational_rec/simulating_before_planning_constructing_intrinsic_user_world_model_for_user/">    <span class="related-paper-title">Simulating Before Planning: Constructing Intrinsic User World Model for User-Tailored Dialogue Policy Planning</span>    <span class="related-paper-meta">SIGIR · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/cross_domain_multi_scenario/horizon_a_benchmark_for_in_the_wild_user_behaviour_modeling/">    <span class="related-paper-title">HORIZON: A Benchmark for In-the-wild User Behaviour Modeling</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/poi_spatiotemporal_rec/generative_spatiotemporal_intent_sequence_recommendation_via_implicit_reaso/">    <span class="related-paper-title">Generative Spatiotemporal Intent Sequence Recommendation via Implicit Reasoning in Amap</span>    <span class="related-paper-meta">RecSys · 2026 · POI / GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/is_more_context_always_better_examining_llm_reasoning_capability_for_time_i/">    <span class="related-paper-title">Is More Context Always Better? Examining LLM Reasoning Capability for Time Interval Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/cross_domain_multi_scenario/perscen_learning_personalized_interaction_pattern_and_scenario_preference_f/">    <span class="related-paper-title">PERSCEN: Learning Personalized Interaction Pattern and Scenario Preference for Multi-Scenario Matching</span>    <span class="related-paper-meta">KDD · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

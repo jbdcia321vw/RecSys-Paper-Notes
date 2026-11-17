@@ -138,3 +138,16 @@ $$G=\arg\min_{\lambda}\mathcal{L}_{val}(\hat{w}(\lambda),\lambda)\ \ \text{s.t.}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （搜索空间规模推导清晰、双层目标与松弛公式定义完整，但部分符号如 $\mathbf{M}_a$与$\mathbf{w}_k$ 的维度关系交代略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与数据已开源，推理阶段仅保留单一离散架构、线上开销可控，但一次性搜索成本与 LLM 调用成本需在工程侧权衡）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/enhancing_recommendation_explanations_through_user_centric_refinement/">    <span class="related-paper-title">Enhancing Recommendation Explanations through User-Centric Refinement</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/flare_fusing_language_models_and_collaborative_architectures_for_recommende/">    <span class="related-paper-title">FLARE: Fusing Language Models and Collaborative Architectures for Recommender Enhancement</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/ctr_feature_interaction/explainable_ctr_prediction_via_llm_reasoning/">    <span class="related-paper-title">Explainable CTR Prediction via LLM Reasoning</span>    <span class="related-paper-meta">WSDM · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/coherency_improved_explainable_recommendation_via_large_language_model/">    <span class="related-paper-title">Coherency Improved Explainable Recommendation via Large Language Model</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/agent_conversational_rec/the_utility_of_llms_in_recommender_systems_explanation_evaluation/">    <span class="related-paper-title">The Utility of LLMs in Recommender Systems Explanation Evaluation</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

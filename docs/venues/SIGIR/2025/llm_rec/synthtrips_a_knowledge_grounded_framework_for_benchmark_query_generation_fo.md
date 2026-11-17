@@ -144,3 +144,16 @@ $$MAE=\frac{1}{N}\sum_{i=1}^{N}\left|sim_{sust,q_i}-\frac{1}{M}\sum_{j=1}^{M}sim
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （key function 形式化清晰、指标定义完整可复现，但部分符号如 $\mathcal{D}$与$\mathcal{D}$ 值域混用，公式编号与正文对应略松散）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （全 pipeline 与评估工具开源、Colab 可一键复现、KB 可增量更新，作为基准资源的长期价值高于其方法本身）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/poi_spatiotemporal_rec/triptailor_a_real_world_benchmark_for_personalized_travel_planning/">    <span class="related-paper-title">TripTailor: A Real-World Benchmark for Personalized Travel Planning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · POI / CRS</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/poi_spatiotemporal_rec/spot_trip_dual_preference_driven_out_of_town_trip_recommendation/">    <span class="related-paper-title">SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · POI / Graph</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../2026/llm_rec/lwgr_lagrangian_constrained_personalized_world_knowledge_for_generative_rec/">    <span class="related-paper-title">LWGR: Lagrangian-Constrained Personalized World Knowledge for Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/llm_based_user_personas_for_recommendations_at_scale/">    <span class="related-paper-title">LLM-Based User Personas for Recommendations at Scale</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/llm_rec/towards_next_generation_recommender_systems_a_benchmark_for_personalized_re/">    <span class="related-paper-title">Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

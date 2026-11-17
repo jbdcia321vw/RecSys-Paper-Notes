@@ -129,3 +129,16 @@ $\text{Difficulty Score} = \frac{\text{norm}(C_1) + \text{norm}(C_2)}{2}$其中$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （3 页短文结构清晰、动机数据有力，难度分公式定义简洁，但评测协议细节缺失）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与网站均开源、零门槛可用，对实验设计与论文写作有直接实用价值，是本文最强项）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/on_the_convergent_validity_of_offline_evaluation_designs_for_recommender_sy/">    <span class="related-paper-title">On the Convergent Validity of Offline Evaluation Designs for Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/rl_bandit_rec/interactive_visualization_recommendation_with_hier_sucb/">    <span class="related-paper-title">Interactive Visualization Recommendation with Hier-SUCB</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · RL / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/splitlight_an_exploratory_toolkit_for_recommender_systems_datasets_and_spli/">    <span class="related-paper-title">SplitLight: An Exploratory Toolkit for Recommender Systems Datasets and Splits</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/datarec_a_python_library_for_standardized_and_reproducible_data_management_/">    <span class="related-paper-title">DataRec: A Python Library for Standardized and Reproducible Data Management in Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../cold_start_rec/recommendation_is_a_dish_better_served_warm/">    <span class="related-paper-title">Recommendation Is a Dish Better Served Warm</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -129,3 +129,17 @@ $$z_k=z_{k-1}+\mathbf{u}_k(\mathbf{h}_{\text{prior}})\cdot\tanh\!\big(\mathbf{w}
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （三数据集+线上 A/B+新 PDF 指标+开源 TimeRec 库，11 基线全范式覆盖，5 次重复）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三大范式缺陷均有命题与证明，但部分符号在正文与附录间略有跳转）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （4亿 DAU 线上验证、单步推理、首个开源 WTP 基准库，工程价值极高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/generative_rec/multi_aspect_cross_modal_quantization_for_generative_recommendation/">    <span class="related-paper-title">Multi-Aspect Cross-modal Quantization for Generative Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/llm_rec/effectiveness_of_llms_in_temporal_user_profiling_for_recommendation/">    <span class="related-paper-title">Effectiveness of LLMs in Temporal User Profiling for Recommendation</span>    <span class="related-paper-meta">ICDM · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/decoupled_temporal_encoding_for_generative_recommendation/">    <span class="related-paper-title">Decoupled Temporal Encoding for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/multimodal_rec/mend_the_measurement_gap_latent_user_preference_modeling_for_short_form_vid/">    <span class="related-paper-title">Mend the Measurement Gap: Latent User Preference Modeling for Short-Form Video Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2026/multimodal_rec/cammsr_category_guided_attentive_mixture_of_experts_for_multimodal_sequenti/">    <span class="related-paper-title">CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">ICDE · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

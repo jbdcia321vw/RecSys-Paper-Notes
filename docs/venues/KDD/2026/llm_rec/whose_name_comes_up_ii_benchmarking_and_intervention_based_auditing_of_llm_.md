@@ -129,3 +129,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （22 模型 × 5 任务 × 31 天重复采样、逐模型温度标定、95% CI 与 Wilson 区间，审计规模与严谨度在同类工作中突出）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （九指标公式定义清晰、方向性标注明确，但主文以聚合图为主、缺少逐模型数值表，定量细节下沉至附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码、数据与交互式可视化工具全部开源，模块化架构易换领域；但审计成本高、结论偏诊断性，直接落地需配合知识图谱等模型侧改造）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/beyond_utility_evaluating_llm_as_recommender/">    <span class="related-paper-title">Beyond Utility: Evaluating LLM as Recommender</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/agent_conversational_rec/llm_as_a_judge_for_evaluating_system_responses_in_conversational_music_reco/">    <span class="related-paper-title">LLM-as-a-Judge for Evaluating System Responses in Conversational Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/llm_rec/towards_next_generation_recommender_systems_a_benchmark_for_personalized_re/">    <span class="related-paper-title">Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/llm_rec/balancing_fine_tuning_and_rag_a_hybrid_strategy_for_dynamic_llm_recommendat/">    <span class="related-paper-title">Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/llm_rec/scinup_natural_language_user_interest_profiles_for_scientific_literature_re/">    <span class="related-paper-title">SciNUP: Natural Language User Interest Profiles for Scientific Literature Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

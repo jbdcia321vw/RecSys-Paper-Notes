@@ -137,3 +137,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与算法伪代码清晰、信息泄漏等细节交代到位，但部分符号如 $S_i$ 的来源需回查 ALBEF，缺少复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （上线一年多、无关率降 6.1%、收入增 1.4%，零结构改造成本，是工业相关性建模的高性价比范式）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/collaborative_filtering/crops_improving_dense_retrieval_with_cross_perspective_positive_samples_in_/">    <span class="related-paper-title">CroPS: Improving Dense Retrieval with Cross-Perspective Positive Samples in Short-Video Search</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/generative_rec/great_guiding_query_generation_with_a_trie_for_recommending_related_search_/">    <span class="related-paper-title">GREAT: Guiding Query Generation with a Trie for Recommending Related Search about Video at Kuaishou</span>    <span class="related-paper-meta">KDD · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/when_how_to_write_for_personalized_demand_aware_query_rewriting_in_video_se/">    <span class="related-paper-title">When &amp; How to Write for Personalized Demand-aware Query Rewriting in Video Search</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../multimodal_semantic_retrieval_for_product_search/">    <span class="related-paper-title">Multimodal semantic retrieval for product search</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / CF</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/personalizing_incremental_video_search_with_hybrid_text_and_id_embeddings/">    <span class="related-paper-title">Personalizing Incremental Video Search with Hybrid Text and ID Embeddings</span>    <span class="related-paper-meta">RecSys · 2026 · CF / CTR</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

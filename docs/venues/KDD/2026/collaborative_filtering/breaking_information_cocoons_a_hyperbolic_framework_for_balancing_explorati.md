@@ -130,3 +130,17 @@ Google-Reviews 上 HERec 同样取得 R@20=0.1598、N@20=0.0992、Div@20=0.3543�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 Full-Ranking + 头尾分桶 + 大规模扩展 + 10 次运行方差报告齐全，唯缺线上验证与显著性检验细节）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Proposition 1 证明含误差界分析，洛伦兹公式规范；但部分符号（如 $\delta$ 中范数比）解释略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、LLM 仅离线调用、单 epoch <5 秒，层次树可解释可调；$O(N^2)$ 构图是规模化主要瓶颈）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/large_language_models_enhanced_hyperbolic_space_recommender_systems/">    <span class="related-paper-title">Large Language Models Enhanced Hyperbolic Space Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/leveraging_geometric_insights_in_hyperbolic_triplet_loss_for_improved_recom/">    <span class="related-paper-title">Leveraging Geometric Insights in Hyperbolic Triplet Loss for Improved Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/cross_domain_multi_scenario/review_based_hyperbolic_cross_domain_recommendation/">    <span class="related-paper-title">Review-Based Hyperbolic Cross-Domain Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/generative_rec/hyprq_vae_hyperbolic_item_indexing_for_long_tail_aware_generative_recommend/">    <span class="related-paper-title">HypRQ-VAE: Hyperbolic Item Indexing for Long-Tail-Aware Generative Recommender Systems</span>    <span class="related-paper-meta">ICDM · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/rl_bandit_rec/interactive_visualization_recommendation_with_hier_sucb/">    <span class="related-paper-title">Interactive Visualization Recommendation with Hier-SUCB</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · RL / Cold</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

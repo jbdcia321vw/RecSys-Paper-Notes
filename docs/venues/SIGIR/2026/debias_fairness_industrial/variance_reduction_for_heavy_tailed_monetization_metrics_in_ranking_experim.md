@@ -119,3 +119,17 @@ $$\text{GMV}^{\text{CUPED}}=\text{GMV}-\frac{\text{Cov}(\text{GMV},\widetilde{\t
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （40+ 生产实验、A/A 模拟覆盖 1%–50% 流量、阈值敏感性与分层方案消融齐全，唯缺离线公开基准）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （无偏性证明简洁、$w^2$ 方差压制直觉清晰，并诚实区分模拟 0% 与生产 6.1% 两类 Type-I 误差的来源）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已作为 ShareChat 默认变现指标，节省约 45% 流量、决策时间减半，护栏设计完整，落地价值极高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/multi_task_reranking/comprehensive_list_generation_for_multi_generator_reranking/">    <span class="related-paper-title">Comprehensive List Generation for Multi-Generator Reranking</span>    <span class="related-paper-meta">SIGIR · 2025 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/identifying_offline_metrics_that_predict_online_impact_a_pragmatic_strategy/">    <span class="related-paper-title">Identifying Offline Metrics that Predict Online Impact: A Pragmatic Strategy for Real-World Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/fairsort_learning_to_fair_rank_for_personalized_recommendations_in_two_side/">    <span class="related-paper-title">FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../the_attention_market_interpreting_online_fair_re_ranking_as_manifold_optimi/">    <span class="related-paper-title">The Attention Market: Interpreting Online Fair Re-ranking as Manifold Optimization under Walrasian Equilibrium</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/whose_posts_get_ranked_identical_text_exposure_gaps_in_bluesky_custom_feeds/">    <span class="related-paper-title">Whose Posts Get Ranked: Identical-Text Exposure Gaps in Bluesky Custom Feeds</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Social</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+</div>
+<!-- related-papers:end -->

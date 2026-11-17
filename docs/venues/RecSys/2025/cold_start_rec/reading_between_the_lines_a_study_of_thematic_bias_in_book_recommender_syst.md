@@ -124,3 +124,16 @@ $$\text{Exposure Ratio}(t)=\frac{\%\ \text{Theme } t\ \text{in Recommendation}}{
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题定义清晰、RQ 与结论一一对应、指标定义简洁，但公式极少、缺复杂度与统计细节）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码数据全开源、管线可直接复用为内容平台的主题公平性审计工具，但无干预方案，落地需自行补足去偏模块）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../cross_domain_multi_scenario/impacts_of_mainstream_driven_algorithms_on_recommendations_for_children_acr/">    <span class="related-paper-title">Impacts of Mainstream-Driven Algorithms on Recommendations for Children Across Domains: A Reproducibility Study</span>    <span class="related-paper-meta">RecSys · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/how_to_diversify_any_personalized_recommender/">    <span class="related-paper-title">How to Diversify any Personalized Recommender?</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/recommendation_and_temptation/">    <span class="related-paper-title">Recommendation and Temptation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../item_centric_exploration_for_cold_start_problem/">    <span class="related-paper-title">Item-centric Exploration for Cold Start Problem</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / RL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/tree_of_preferences_for_diversified_recommendation/">    <span class="related-paper-title">Tree of Preferences for Diversified Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

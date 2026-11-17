@@ -137,3 +137,16 @@ Amazon Movies & TV（Iteration 3）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公平定义、非一致性分数、保形覆盖引理与收敛定理链条完整，附录给出嵌入扰动鲁棒性与 Type II 误差界，符号清晰）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （完全黑盒、免重训、在线单查询常数开销，对 API 化 LLM 推荐部署友好；但未开源、离线 $O(n^2)$ 与嵌入器偏见依赖是落地障碍）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/debias_fairness_industrial/rethinking_fairness_in_llm_based_recommender_systems_a_survey/">    <span class="related-paper-title">Rethinking Fairness in LLM-Based Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/towards_fair_large_language_model_based_recommender_systems_without_costly_/">    <span class="related-paper-title">Towards Fair Large Language Model-based Recommender Systems without Costly Retraining</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/unmasking_gender_bias_in_recommendation_systems_and_enhancing_category_awar/">    <span class="related-paper-title">Unmasking Gender Bias in Recommendation Systems and Enhancing Category-Aware Fairness</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/bridging_semantic_understanding_and_popularity_bias_with_llms/">    <span class="related-paper-title">Bridging Semantic Understanding and Popularity Bias with LLMs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/opening_the_black_box_interpretable_remedies_for_popularity_bias_in_recomme/">    <span class="related-paper-title">Opening the Black Box: Interpretable Remedies for Popularity Bias in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

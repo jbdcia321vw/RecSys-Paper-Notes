@@ -141,3 +141,17 @@ $$\mathcal{L}=-\sum_{t}\sum_{n=1}^{N}\alpha_n w_{t,n}\log\frac{e^{s_{y_{t,n}}}}{
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/ctr_feature_interaction/building_a_user_foundation_model_for_the_open_web/">    <span class="related-paper-title">Building a User Foundation Model for the Open Web</span>    <span class="related-paper-meta">RecSys · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/genci_generative_modeling_of_user_interest_shift_via_cohort_based_intent_le/">    <span class="related-paper-title">GenCI: Generative Modeling of User Interest Shift via Cohort-based Intent Learning for CTR Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/egr_embedding_native_generative_retrieval_with_a_shared_llm/">    <span class="related-paper-title">EGR: Embedding-Native Generative Retrieval with a Shared LLM</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/you_are_what_you_bought_generating_customer_personas_for_e_commerce_applica/">    <span class="related-paper-title">You Are What You Bought: Generating Customer Personas for E-commerce Applications</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/generative_archetype_grounded_item_representations_for_sequential_recommend/">    <span class="related-paper-title">Generative Archetype-Grounded Item Representations for Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

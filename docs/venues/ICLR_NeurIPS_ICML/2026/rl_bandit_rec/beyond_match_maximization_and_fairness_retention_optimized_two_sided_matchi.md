@@ -120,3 +120,17 @@ $\mathrm{Score}(y)=\frac{1}{A}f\big(x,m_{1:\tau}(x)+A\,r(x,y)\big)+\frac{1}{\alp
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （合成 + 真实平台双验证、含 oracle 上界与 $\kappa/\lambda/\delta$/规模/漂移多维敏感性分析，但缺线上 A/B 与大规模验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Lemma 1/2 证明完整、Toy example 直观，但留存函数估计与凹性假设的张力讨论略薄）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （$O(N\log N)$ 推理、代码开源、直接对接订阅制平台留存 KPI，落地路径清晰）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/fairsort_learning_to_fair_rank_for_personalized_recommendations_in_two_side/">    <span class="related-paper-title">FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/rl_bandit_rec/off_policy_evaluation_and_learning_for_matching_markets/">    <span class="related-paper-title">Off-Policy Evaluation and Learning for Matching Markets</span>    <span class="related-paper-meta">RecSys · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/equity_vs_equality_optimizing_ranking_fairness_for_tailored_provider_needs/">    <span class="related-paper-title">Equity vs. Equality: Optimizing Ranking Fairness for Tailored Provider Needs</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/debias_fairness_industrial/measuring_individual_user_fairness_with_user_similarity_and_effectiveness_d/">    <span class="related-paper-title">Measuring Individual User Fairness with User Similarity and Effectiveness Disparity</span>    <span class="related-paper-meta">ECIR · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/rl_bandit_rec/stratified_expert_cloning_for_retention_aware_recommendation_at_scale/">    <span class="related-paper-title">Stratified Expert Cloning for Retention-Aware Recommendation at Scale</span>    <span class="related-paper-meta">CIKM · 2025 · RL / MTL</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -113,3 +113,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （被试内配对设计、1728 条观测、Holm 校正与完整回归附表规范；扣分在样本量与单平台单时段）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三分组阈值有分布依据、附录给出 Kappa 验证与全部回归表；但主文未给效应量置信区间的统一呈现）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （审计协议可直接复用于平台公平性年审与内容质量护栏设计；但依赖平台双流可访问性，复现门槛高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/revisiting_algorithmic_audits_of_tiktok_poor_reproducibility_and_short_term/">    <span class="related-paper-title">Revisiting Algorithmic Audits of TikTok: Poor Reproducibility and Short-term Validity of Findings</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / RL</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/taming_recommendation_bias_with_causal_intervention_on_evolving_personal_po/">    <span class="related-paper-title">Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/whose_posts_get_ranked_identical_text_exposure_gaps_in_bluesky_custom_feeds/">    <span class="related-paper-title">Whose Posts Get Ranked: Identical-Text Exposure Gaps in Bluesky Custom Feeds</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Social</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/exploring_the_escalation_of_source_bias_in_user_data_and_recommender_system/">    <span class="related-paper-title">Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/debias_fairness_industrial/content_fuzzing_for_escaping_information_cocoons_on_digital_social_media/">    <span class="related-paper-title">Content Fuzzing for Escaping Information Cocoons on Digital Social Media</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+</div>
+<!-- related-papers:end -->

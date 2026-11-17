@@ -132,3 +132,16 @@ Top-40 上趋势一致：NetEase R@40 0.1359（+7.5%）、iFashion N@40 0.1238�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号表完整、复杂度分析到位，部分符号如 $\mathcal{N}_b^U$ 在正文与表中定义略有出入）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、空间复杂度不增、预训练一次性开销，唯训练时间增幅与 $K$ 调参需在线上权衡）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/verifiable_reasoning_for_llm_based_generative_recommendation/">    <span class="related-paper-title">Verifiable Reasoning for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/multi_task_reranking/user_invariant_preference_learning_for_multi_behavior_recommendation/">    <span class="related-paper-title">User Invariant Preference Learning for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · MTL / SSL</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/llm_rec/principled_synthetic_data_enables_the_first_scaling_laws_for_llms_in_recomm/">    <span class="related-paper-title">Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/cofirec_coarse_to_fine_tokenization_for_generative_recommendation/">    <span class="related-paper-title">CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

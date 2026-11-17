@@ -138,3 +138,16 @@ $$\phi(\mathbf{E}^{*A}_u,\mathbf{E}^A_v,\mathbf{c})=\frac{\exp(\mathbf{W}^A_u\ma
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （因果图、公式与复杂度分析清晰，三阶段流程交代完整，符号略多）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （思路可插拔、贴近电商促销场景，但多阶段训练与聚类开销大且暂未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../coherence_guided_preference_disentanglement_for_cross_domain_recommendation/">    <span class="related-paper-title">Coherence-guided Preference Disentanglement for Cross-domain Recommendations</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / SSL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../2026/cross_domain_multi_scenario/causal_invariant_cross_domain_out_of_distribution_recommendation/">    <span class="related-paper-title">Causal-Invariant Cross-Domain Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2026 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../debias_fairness_industrial/causality_inspired_fair_representation_learning_for_multimodal_recommendati/">    <span class="related-paper-title">Causality-Inspired Fair Representation Learning for Multimodal Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Debias / MM</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/multimodal_rec/reasonrec_a_reasoning_augmented_multimodal_agent_for_unified_recommendation/">    <span class="related-paper-title">ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/sequential_rec/recommending_target_actions_outside_sessions_in_the_data_poor_insurance_dom/">    <span class="related-paper-title">Recommending Target Actions Outside Sessions in the Data-poor Insurance Domain</span>    <span class="related-paper-meta">ACM TORS · 2025 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

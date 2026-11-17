@@ -125,3 +125,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （线上 A/B 显著且规模大，但离线仅 LLM 自评、无公开数据与标准排名协议，消融较薄）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （工业系统叙述流畅、公式简洁，问题形式化到位，但缺复杂度与误差传播的定量分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （真实生产部署、缓存摊薄延迟、蒸馏降本与 99% 过滤成本节省，落地价值极高；扣分项为未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/hypothesis_driven_shelf_generation_for_personalised_recommendation/">    <span class="related-paper-title">Hypothesis-Driven Shelf Generation for Personalised Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/suggest_complement_inspire_story_of_two_tower_recommendations_at_allegro_co/">    <span class="related-paper-title">Suggest, Complement, Inspire: Story of Two Tower Recommendations at Allegro.com</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/prompt_to_slate_diffusion_models_for_prompt_conditioned_slate_generation/">    <span class="related-paper-title">Prompt-to-Slate: Diffusion Models for Prompt-Conditioned Slate Generation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../llm_rec/genfacet_end_to_end_generative_faceted_search_via_multi_task_preference_ali/">    <span class="related-paper-title">GenFacet: End-to-End Generative Faceted Search via Multi-Task Preference Alignment in E-Commerce</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/agent_conversational_rec/agenticshop_benchmarking_agentic_product_curation_for_personalized_web_shop/">    <span class="related-paper-title">AgenticShop: Benchmarking Agentic Product Curation for Personalized Web Shopping</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

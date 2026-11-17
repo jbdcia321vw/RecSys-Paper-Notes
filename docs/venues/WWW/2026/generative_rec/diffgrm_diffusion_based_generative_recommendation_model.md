@@ -128,3 +128,17 @@ DiffGRM 在 12 项指标中 11 项第一；唯一落后项为 Toys 的 Recall@10
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 Full-Ranking + 12 项指标 + 配对 t 检验 + 完整消融与 OCN 策略/束宽分析，缺工业级与长尾分桶验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （SID 两大结构性矛盾的动机刻画清晰，公式与复杂度分析完整，但部分符号如视图矩阵 $\mathbf{M}_{\text{ocn}}$与掩码集$\mathcal{M}^{(r)}$ 略显冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，训练复杂度与 ARM 同阶、推理靠缓存并行控制延迟，快手工业背景支撑落地可信度，缺线上 A/B 数据）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/understanding_generative_recommendation_with_semantic_ids_from_a_model_scal/">    <span class="related-paper-title">Understanding Generative Recommendation with Semantic IDs from a Model-scaling View</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/cross_domain_multi_scenario/from_ids_to_semantics_a_generative_framework_for_cross_domain_recommendatio/">    <span class="related-paper-title">From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Cross / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/reasoning_over_semantic_ids_enhances_generative_recommendation/">    <span class="related-paper-title">Reasoning over Semantic IDs Enhances Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/learning_from_unreachable_rewards_hint_conditioned_reinforcement_learning_f/">    <span class="related-paper-title">Learning from Unreachable Rewards: Hint-Conditioned Reinforcement Learning for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / RL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/rethinking_item_tokenization_in_generative_recommenders_from_fixed_atoms_to/">    <span class="related-paper-title">Rethinking Item Tokenization in Generative Recommenders: From Fixed Atoms to Semantic Subwords</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

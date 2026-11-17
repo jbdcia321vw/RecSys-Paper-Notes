@@ -135,3 +135,16 @@ LoRA rank=8、lr=2e-5、2 epoch。训练中故意保留可能不准确的检索�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （挑战 C1/C2 与模块一一对应，公式简洁；检索粒度讨论有理论依据，但部分符号如 $\mathcal{L}_{path}$ 的推导细节略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、LoRA 微调成本可控、剪枝提速明显；但多阶段离线管线与 GNN 预训练增加工程复杂度）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/enhancing_collaborative_semantics_of_language_model_driven_recommendations_/">    <span class="related-paper-title">Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/graph_rec/comprehending_knowledge_graphs_with_large_language_models_for_recommender_s/">    <span class="related-paper-title">Comprehending Knowledge Graphs with Large Language Models for Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · Graph / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/graph_rec/an_automatic_graph_construction_framework_based_on_large_language_models_fo/">    <span class="related-paper-title">An Automatic Graph Construction Framework based on Large Language Models for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · Graph / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/graph_rec/path_based_summary_explanations_for_graph_recommenders_extended_version/">    <span class="related-paper-title">Path-based summary explanations for graph recommenders (extended version)</span>    <span class="related-paper-meta">ICDE · 2025 · Graph / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/corona_a_coarse_to_fine_framework_for_graph_based_recommendation_with_large/">    <span class="related-paper-title">CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

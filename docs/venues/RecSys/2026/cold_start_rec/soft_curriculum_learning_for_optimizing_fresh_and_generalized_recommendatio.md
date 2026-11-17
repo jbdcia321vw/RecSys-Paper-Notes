@@ -136,3 +136,17 @@ SASRec 召回线上：独特互动 **+7.7%**，冷启动 B1/B2/B3 分别 +0.27%/
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （三条链路 + 7 天/2 周线上 A/B 与全局课程对照很有价值，但无公开数据集、无超参敏感性、离线指标设计存在自认的偏斜问题）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两个权重公式与难度定义交代清晰、动机—工程约束—方案的逻辑链完整，但缺少复杂度与方差的理论刻画）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （零吞吐损失、零推理开销、可直接插入现有连续训练管线，是少见的"能立刻上线"的课程学习方案，唯缺开源代码）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/continual_recommender_systems/">    <span class="related-paper-title">Continual Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../multi_task_reranking/lightweight_ranking_heads_accelerating_multi_task_experimentation_in_produc/">    <span class="related-paper-title">Lightweight Ranking Heads: Accelerating Multi-Task Experimentation in Production Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · MTL / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/can_recommender_systems_teach_themselves_a_recursive_self_improving_framewo/">    <span class="related-paper-title">Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/grank_towards_target_aware_and_streamlined_industrial_retrieval_with_a_gene/">    <span class="related-paper-title">GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / MTL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/cold_start_rec/online_item_cold_start_recommendation_with_popularity_aware_meta_learning/">    <span class="related-paper-title">Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning</span>    <span class="related-paper-meta">KDD · 2025 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

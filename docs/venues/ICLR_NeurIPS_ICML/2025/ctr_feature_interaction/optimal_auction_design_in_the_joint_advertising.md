@@ -131,3 +131,16 @@ $$\mathcal{L}_\rho(w;\mu)=-\frac{1}{L}\sum_{\ell}\sum_{e}p_e(v^{(\ell)})+\sum_{e
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Theorem 4.3 与 Lemma 5.1 证明完整、符号体系清晰，附录含算法伪代码与可视化）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （机制设计对广告平台直接相关，但未开源、依赖分布假设与合成验证，线上部署前需真实数据校准）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/hybrid_advertising_in_the_sponsored_search/">    <span class="related-paper-title">Hybrid Advertising in the Sponsored Search</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/contextual_generative_auction_with_permutation_level_externalities_for_onli/">    <span class="related-paper-title">Contextual Generative Auction with Permutation-level Externalities for Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/ctr_feature_interaction/hmaf_a_hierarchical_multi_slot_gd_rtb_allocation_framework/">    <span class="related-paper-title">HMAF: A Hierarchical Multi-Slot GD-RTB Allocation Framework</span>    <span class="related-paper-meta">KDD · 2026 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../2026/ctr_feature_interaction/on_the_coordination_of_value_maximizing_bidders/">    <span class="related-paper-title">On the Coordination of Value-Maximizing Bidders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../debias_fairness_industrial/truthful_aggregation_of_llms_with_an_application_to_online_advertising/">    <span class="related-paper-title">Truthful Aggregation of LLMs with an Application to Online Advertising</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

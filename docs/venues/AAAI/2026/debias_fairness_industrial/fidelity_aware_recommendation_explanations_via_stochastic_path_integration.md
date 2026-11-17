@@ -128,3 +128,17 @@ ML1M 上 NCF 与 VAE 的代表性结果（POS/DEL/CDCG 越低越好，INS 越高
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三模型三数据集、双套反事实指标族、$p\le0.01$ 显著性检验齐全，但缺时间切分与正文 Pinterest 结果）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （完备性分解与复杂度推导清晰，算法伪代码完整；保真度择优的目标函数与评测指标耦合关系未充分讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与评测工具全开源、模型无关易插拔、线性复杂度可 GPU 并行；但逐用户 $\kappa\times N$ 扰动评估的在线时延需工程优化）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/from_top_1_to_top_k_a_reproducibility_study_and_benchmarking_of_counterfact/">    <span class="related-paper-title">From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/agent_conversational_rec/bi_nas_towards_effective_and_personalized_explanation_for_recommender_syste/">    <span class="related-paper-title">Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search</span>    <span class="related-paper-meta">ICDM · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/ctr_feature_interaction/explainable_ctr_prediction_via_llm_reasoning/">    <span class="related-paper-title">Explainable CTR Prediction via LLM Reasoning</span>    <span class="related-paper-meta">WSDM · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

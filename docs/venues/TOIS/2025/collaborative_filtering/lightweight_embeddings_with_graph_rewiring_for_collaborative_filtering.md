@@ -127,3 +127,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四阶段流程与算法伪代码清晰，复杂度分析完整，符号表规范）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （存储降 97.7%、峰值内存减半、支持边缘端微调，工程价值明确，但代码未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TMM/2026/multimodal_rec/cross_modal_attention_network_with_dual_graph_learning_in_multimodal_recomm/">    <span class="related-paper-title">Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation</span>    <span class="related-paper-meta">IEEE TMM · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../graph_rec/position_aware_graph_transformer_for_recommendation/">    <span class="related-paper-title">Position-aware Graph Transformer for Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../self_supervised_denoising/symmetric_graph_contrastive_learning_against_noisy_views_for_recommendation/">    <span class="related-paper-title">Symmetric Graph Contrastive Learning against Noisy Views for Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../debias_fairness_industrial/a_thorough_performance_benchmarking_on_lightweight_embedding_based_recommen/">    <span class="related-paper-title">A Thorough Performance Benchmarking on Lightweight Embedding-based Recommender Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/collaborative_filtering/balancing_embedding_spectrum_for_recommendation/">    <span class="related-paper-title">Balancing Embedding Spectrum for Recommendation</span>    <span class="related-paper-meta">ACM TORS · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+</div>
+<!-- related-papers:end -->

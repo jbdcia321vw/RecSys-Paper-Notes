@@ -124,3 +124,17 @@ $$\Delta:=\mathbb{E}_{F,D}\big[(v_{(N-1)}-d^O)^+-(d^O-v_{(N)})^+\big],$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （100 次仿真 + 95% CI 规范，但真实数据仅靠经验 i.i.d. 重采样，缺乏真实协调标签与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （定理-引理-证明链条完整，充要性双向证明与高概率界（Azuma）齐备，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （机制实现仅需一次 argmax 与零出价，开销可忽略，对多 campaign 广告主直接可用；但无开源代码，且依赖价值可观测）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/bat_benchmark_for_auto_bidding_task/">    <span class="related-paper-title">BAT: Benchmark for Auto-bidding Task</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/truthful_aggregation_of_llms_with_an_application_to_online_advertising/">    <span class="related-paper-title">Truthful Aggregation of LLMs with an Application to Online Advertising</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/rl_bandit_rec/an_adaptable_budget_planner_for_enhancing_budget_constrained_auto_bidding_i/">    <span class="related-paper-title">An Adaptable Budget Planner for Enhancing Budget-Constrained Auto-Bidding in Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · RL / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../model_monotonicity_in_autobidding_auctions_when_do_better_predictions_lead_/">    <span class="related-paper-title">Model Monotonicity in Autobidding Auctions: When Do Better Predictions Lead to Better Outcomes?</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/ctr_feature_interaction/hmaf_a_hierarchical_multi_slot_gd_rtb_allocation_framework/">    <span class="related-paper-title">HMAF: A Hierarchical Multi-Slot GD-RTB Allocation Framework</span>    <span class="related-paper-meta">KDD · 2026 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

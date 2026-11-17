@@ -142,3 +142,16 @@ TCF 与 IDCF 的正面交锋（HR@10，FR=冻结、FT=微调）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四问四答结构清晰、结论与证据一一对应，但公式层面较浅，缺少复杂度与理论分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码数据全开源，"冻结大模型 + 序列骨干"路线可直接落地，但 175B 级实验的算力门槛限制了中小团队复现）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/flare_fusing_language_models_and_collaborative_architectures_for_recommende/">    <span class="related-paper-title">FLARE: Fusing Language Models and Collaborative Architectures for Recommender Enhancement</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/language_representations_can_be_what_recommenders_need_findings_and_potenti/">    <span class="related-paper-title">Language Representations Can be What Recommenders Need: Findings and Potentials</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/can_llms_outshine_conventional_recommenders_a_comparative_evaluation/">    <span class="related-paper-title">Can LLMs Outshine Conventional Recommenders? A Comparative Evaluation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/the_mental_world_of_large_language_models_in_recommendation_a_benchmark_on_/">    <span class="related-paper-title">The Mental World of Large Language Models in Recommendation: A Benchmark on Association, Personalization, and Knowledgeability</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/bridging_language_and_items_for_retrieval_and_recommendation_benchmarking_l/">    <span class="related-paper-title">Bridging Language and Items for Retrieval and Recommendation: Benchmarking LLMs as Semantic Encoders</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

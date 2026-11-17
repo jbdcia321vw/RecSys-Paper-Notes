@@ -133,3 +133,16 @@ $$\boldsymbol{g}^{mask}_d=\text{softmax}(\boldsymbol{g}_d+\boldsymbol{M}_d),\qua
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （距离定义与复杂度分析清晰，定理 3 给出信息论解释；部分符号如 $E=\cup E_d$ 表述略松）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （即插即用、推理仅增 0.4ms 量级、代码已开源，对多业务线共享架构的负迁移治理直接可用）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/cross_domain_multi_scenario/cdc_causal_domain_clustering_for_multi_domain_recommendation/">    <span class="related-paper-title">CDC: Causal Domain Clustering for Multi-Domain Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/cross_domain_multi_scenario/automated_prompting_for_non_overlapping_cross_domain_sequential_recommendat/">    <span class="related-paper-title">Automated Prompting for Non-overlapping Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/uncovering_cross_domain_recommendation_ability_of_large_language_models/">    <span class="related-paper-title">Uncovering Cross-Domain Recommendation Ability of Large Language Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/cross_domain_multi_scenario/a_soft_partitioned_semi_supervised_collaborative_transfer_learning_approach/">    <span class="related-paper-title">A Soft-partitioned Semi-supervised Collaborative Transfer Learning Approach for Multi-Domain Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Cross / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/cross_domain_multi_scenario/personalized_multi_interest_modeling_for_cross_domain_recommendation_to_col/">    <span class="related-paper-title">Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users</span>    <span class="related-paper-meta">ICDE · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

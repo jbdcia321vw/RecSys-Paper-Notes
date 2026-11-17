@@ -126,3 +126,16 @@ $\mathcal{L}_D=-\sum_u\big(\underbrace{\mathbb{E}_q[\ln p(\tilde{v}_n|t_n,\tilde
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （ELBO 推导与算法伪代码完整，符号统一；部分公式排版与附录依赖略重）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （基线代码开源但本文代码未明示，ODE 求解与全区域打分带来部署成本，落地需蒸馏或近似检索）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/poi_spatiotemporal_rec/triptailor_a_real_world_benchmark_for_personalized_travel_planning/">    <span class="related-paper-title">TripTailor: A Real-World Benchmark for Personalized Travel Planning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · POI / CRS</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/poi_spatiotemporal_rec/generative_next_poi_recommendation_with_semantic_id/">    <span class="related-paper-title">Generative Next POI Recommendation with Semantic ID</span>    <span class="related-paper-meta">KDD · 2025 · POI / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/synthtrips_a_knowledge_grounded_framework_for_benchmark_query_generation_fo/">    <span class="related-paper-title">SynthTRIPs: A Knowledge-Grounded Framework for Benchmark Query Generation for Personalized Tourism Recommenders</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/poi_spatiotemporal_rec/sep_gcn_leveraging_similar_edge_pairs_with_temporal_and_spatial_contexts_fo/">    <span class="related-paper-title">SEP-GCN: Leveraging Similar Edge Pairs with Temporal and Spatial Contexts for Location-Based Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · POI / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/iterative_semantic_reasoning_from_individual_to_group_interests_for_generat/">    <span class="related-paper-title">Iterative Semantic Reasoning from Individual to Group Interests for Generative Recommendation with LLMs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

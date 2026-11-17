@@ -125,3 +125,17 @@ top-10 推荐下的 KL@10（↓）与 COV@10（%，↑），取各方法最优 $
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （时间切分与隐藏测试集规范，但仅一个数据集/一个基座/一个属性，缺显著性检验与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （推导链条清晰、$Z(u)$归一化交代到位，但对$p(u)$ 固定假设的近似误差未给界）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （免重训、$O(|\mathcal{I}||\mathcal{C}|)$、与列表长度无关，代码开源，新闻/内容平台可直接插拔上线）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../DASFAA/2025/collaborative_filtering/learning_recommender_systems_with_soft_target_a_decoupled_perspective/">    <span class="related-paper-title">Learning Recommender Systems with Soft Target: A Decoupled Perspective</span>    <span class="related-paper-meta">DASFAA · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/llm_rec/dlcrec_a_novel_approach_for_managing_diversity_in_llm_based_recommender_sys/">    <span class="related-paper-title">DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems</span>    <span class="related-paper-meta">WSDM · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/how_to_diversify_any_personalized_recommender/">    <span class="related-paper-title">How to Diversify any Personalized Recommender?</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/leveraging_watch_time_feedback_for_short_video_recommendations_a_causal_lab/">    <span class="related-paper-title">Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/promax_exploring_the_potential_of_llm_derived_profiles_with_distribution_sh/">    <span class="related-paper-title">ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

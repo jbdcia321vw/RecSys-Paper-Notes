@@ -149,3 +149,16 @@ $$\mathcal{L}_{SSM}=-\log\frac{\exp(o^{j^*\top}_u o_{y_i}-\log p_{y_i})}{\exp(o^
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （条件构造/关联的统一视角叙述清晰，公式紧凑；部分实现细节如标签加权、PFS 附录被省略）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在 Pinterest 首页全量部署并有全站级增益，延迟可控；但未开源，复现依赖内部特征与日志管线）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/parameter_efficient_single_collaborative_branch_for_recommendation/">    <span class="related-paper-title">Parameter-Efficient Single Collaborative Branch for Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · CF</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/sequential_rec/user_long_term_multi_interest_retrieval_model_for_recommendation/">    <span class="related-paper-title">User Long-Term Multi-Interest Retrieval Model for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Seq / CF</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/egr_embedding_native_generative_retrieval_with_a_shared_llm/">    <span class="related-paper-title">EGR: Embedding-Native Generative Retrieval with a Shared LLM</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/iterative_semantic_reasoning_from_individual_to_group_interests_for_generat/">    <span class="related-paper-title">Iterative Semantic Reasoning from Individual to Group Interests for Generative Recommendation with LLMs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/mviger_multi_view_variational_integration_of_complementary_knowledge_for_ge/">    <span class="related-paper-title">MVIGER: Multi-View Variational Integration of Complementary Knowledge for Generative Recommender</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

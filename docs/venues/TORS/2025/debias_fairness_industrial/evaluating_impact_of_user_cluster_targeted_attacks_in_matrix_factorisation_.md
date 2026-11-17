@@ -128,3 +128,16 @@ $$\hat{V}_{j^*}-V_{j^*}=m\cdot K\cdot\left(A^{-1}\tilde{U}_t\right)$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Theorem 1/2 与 case 1/2a/2b/2c 分类清晰，表 2 逐特征数值与理论预测一一对应；部分引理置于附录，正文符号略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （防御建议"降低 $V$ 更新频率 + 距离漂移检测"工程成本低、易落地，但无开源代码，且合成实验与工业簇级系统的差距需额外验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/debias_fairness_industrial/multi_agent_attacks_for_black_box_social_recommendations/">    <span class="related-paper-title">Multi-agent Attacks for Black-box Social Recommendations</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Debias / Social</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../dynamic_fairness_aware_recommendation_through_multi_agent_social_choice/">    <span class="related-paper-title">Dynamic Fairness-aware Recommendation through Multi-agent Social Choice</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2026/debias_fairness_industrial/mitigating_popularity_bias_in_recommendation_with_global_listwise_learning_/">    <span class="related-paper-title">Mitigating Popularity Bias in Recommendation with Global Listwise Learning and Progressive Bi-Weighting</span>    <span class="related-paper-meta">ACM TOIS · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/mitigating_propensity_bias_of_large_language_models_for_recommender_systems/">    <span class="related-paper-title">Mitigating Propensity Bias of Large Language Models for Recommender Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+</div>
+<!-- related-papers:end -->

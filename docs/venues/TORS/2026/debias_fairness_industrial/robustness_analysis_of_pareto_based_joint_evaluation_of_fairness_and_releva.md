@@ -130,3 +130,17 @@ $$t^\*=\arg\min_{j\in[1,|P|-1]}\left|\mathrm{lenPF}(T_j)-\alpha\cdot \mathrm{len
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/evaluation_measures_of_individual_item_fairness_for_recommender_systems_a_c/">    <span class="related-paper-title">Evaluation Measures of Individual Item Fairness for Recommender Systems: A Critical Study</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../balancing_fairness_and_high_match_rates_in_reciprocal_recommender_systems_a/">    <span class="related-paper-title">Balancing Fairness and High Match Rates in Reciprocal Recommender Systems: A Nash Social Welfare Approach</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias / Social</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/dynamic_fairness_aware_recommendation_through_multi_agent_social_choice/">    <span class="related-paper-title">Dynamic Fairness-aware Recommendation through Multi-agent Social Choice</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/agent_conversational_rec/vague_preference_policy_learning_for_conversational_recommendation/">    <span class="related-paper-title">Vague Preference Policy Learning for Conversational Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../TKDD/2026/generative_rec/eval4direc_a_unified_and_systematic_evaluation_framework_for_diffusion_base/">    <span class="related-paper-title">Eval4DiRec: A Unified and Systematic Evaluation Framework for Diffusion-based Recommender Systems</span>    <span class="related-paper-meta">ACM TKDD · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

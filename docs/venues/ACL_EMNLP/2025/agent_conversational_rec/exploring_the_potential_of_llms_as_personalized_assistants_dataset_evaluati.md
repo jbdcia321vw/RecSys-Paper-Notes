@@ -136,3 +136,16 @@ Test Set 2（Unseen User）趋势一致：Llama-3.1-8B SFT+DPO 达 44.4，Qwen-2
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （总分加权公式与 $S$ 指标定义清晰，数据统计表完整；但部分超参搜索细节下沉附录，正文公式偏少）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （数据、代码、评估器全部开源，蒸馏评估器可直接用于线上个性化助手 A/B 前置筛选，17k token 长上下文结论对 RAG 架构选型有直接指导）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/agent_conversational_rec/propersim_developing_proactive_and_personalized_ai_assistants_through_user_/">    <span class="related-paper-title">ProPerSim: Developing Proactive and Personalized AI Assistants through User-Assistant Simulation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/agent_conversational_rec/interplay_training_independent_simulators_for_reference_free_conversational/">    <span class="related-paper-title">Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../muse_a_multimodal_conversational_recommendation_dataset_with_scenario_groun/">    <span class="related-paper-title">Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/agent_conversational_rec/usb_rec_an_effective_framework_for_improving_conversational_recommendation_/">    <span class="related-paper-title">USB-Rec: An Effective Framework for Improving Conversational Recommendation Capability of Large Language Model</span>    <span class="related-paper-meta">RecSys · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/agent_conversational_rec/enhancing_personalized_multi_turn_dialogue_with_curiosity_reward/">    <span class="related-paper-title">Enhancing Personalized Multi-Turn Dialogue with Curiosity Reward</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

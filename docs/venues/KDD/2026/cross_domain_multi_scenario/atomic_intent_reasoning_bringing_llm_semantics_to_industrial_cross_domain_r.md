@@ -124,3 +124,17 @@ $$w_u=\log\!\big(1+N(u)\big)\sum_{k=1}^{n_u}\exp(-\lambda\Delta t_k),\quad N(u)=
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 + 十一个基线 + 消融 + 延迟 + HHI + 分活跃度分析完整，但采样排序协议与部分域微弱提升削弱说服力）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四阶段流水线叙述清晰、公式简洁，但意图链打分函数 $g(\cdot)$ 与去噪规则偏启发式，缺乏理论分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （快手 4 亿用户真实 A/B 验证 GMV +3.446%、延迟 20ms，工业价值极高；可惜核心代码未开源，复现需自建意图知识库）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/uncovering_cross_domain_recommendation_ability_of_large_language_models/">    <span class="related-paper-title">Uncovering Cross-Domain Recommendation Ability of Large Language Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/ctr_feature_interaction/a_unified_framework_for_multi_domain_ctr_prediction_via_large_language_mode/">    <span class="related-paper-title">A Unified Framework for Multi-Domain CTR Prediction via Large Language Models</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CTR / Cross</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/cross_domain_multi_scenario/bridge_the_domains_large_language_models_enhanced_cross_domain_sequential_r/">    <span class="related-paper-title">Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/empowering_cross_domain_sequential_recommendation_with_hybrid_tokenization_/">    <span class="related-paper-title">Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cross</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/cross_domain_multi_scenario/adaptive_domain_scaling_for_personalized_sequential_modeling_in_recommender/">    <span class="related-paper-title">Adaptive Domain Scaling for Personalized Sequential Modeling in Recommenders</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -131,3 +131,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、三级敏感度定义清晰，但 Eq.1 目标函数与后续实现之间的推导衔接略跳跃，部分符号复用易混淆）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （2-bit 策略传输与免重训适配极具工程价值，但代码未开源、云端超网络开销未量化，复现门槛中等）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/pricorec_a_privacy_aware_cloud_device_collaborative_framework_for_ad_recomm/">    <span class="related-paper-title">PriCoRec: A Privacy-Aware Cloud-Device Collaborative Framework for Ad Recommendation under Feature Constraints</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/collaboration_of_large_language_models_and_small_recommendation_models_for_/">    <span class="related-paper-title">Collaboration of Large Language Models and Small Recommendation Models for Device-Cloud Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/forward_once_for_all_structural_parameterized_adaptation_for_efficient_clou/">    <span class="related-paper-title">Forward Once for All: Structural Parameterized Adaptation for Efficient Cloud-coordinated On-device Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2025/sequential_rec/device_cloud_collaborative_correction_for_on_device_recommendation/">    <span class="related-paper-title">Device-Cloud Collaborative Correction for On-Device Recommendation</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/llm_rec/on_device_large_language_models_for_sequential_recommendation/">    <span class="related-paper-title">On-Device Large Language Models for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

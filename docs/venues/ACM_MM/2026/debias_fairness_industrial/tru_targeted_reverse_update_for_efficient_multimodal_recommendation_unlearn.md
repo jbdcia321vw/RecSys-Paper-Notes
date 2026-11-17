@@ -140,3 +140,17 @@ Baby 数据集、用户级删除、聚焦遗忘侧：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （2 骨干×3 数据集×3 删除粒度 + 双侧指标 + MIA/ASR 安全审计 + 挂钟轨迹，覆盖全面；数据集统计缺失略扣分）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三瓶颈到三干预的映射一目了然，公式简洁；部分符号如 $\mathcal{G}_m$与$\mathcal{K}$ 的层级关系需对照附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （plug-and-play、推理零改动、收敛快于全量重训练 50 倍以上，工程价值高；暂未开源降低复现便利性）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../multimodal_rec/one_graph_multiple_gains_single_high_quality_item_item_graph_for_multimodal/">    <span class="related-paper-title">One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation</span>    <span class="related-paper-meta">ACM MM · 2026 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/multimodal_rec/vi_mmrec_similarity_aware_training_cost_free_virtual_user_item_interactions/">    <span class="related-paper-title">VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/stair_manipulating_collaborative_and_multimodal_information_for_e_commerce_/">    <span class="related-paper-title">STAIR: Manipulating Collaborative and Multimodal Information for E-Commerce Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/beyond_graph_convolution_multimodal_recommendation_with_topology_aware_mlps/">    <span class="related-paper-title">Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/multimodal_rec/efficient_and_effective_adaptation_of_multimodal_foundation_models_in_seque/">    <span class="related-paper-title">Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

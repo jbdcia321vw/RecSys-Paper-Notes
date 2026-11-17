@@ -130,3 +130,16 @@ $$\mathcal{L}_{FM}=\mathbb{E}_{t,p_t(z|x_c),p(x_c)}\|f_\Theta(z_t,t)-x_c\|_2^2$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （式 (11)–(13) 的推导链条清晰，符号统一；附录承载理论分析略影响正文自洽性）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，无负采样训练简洁，但 30 步 ODE 推理的时延需进一步优化）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/on_efficiency_effectiveness_trade_off_of_diffusion_based_recommenders/">    <span class="related-paper-title">On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/unlocking_the_power_of_diffusion_models_in_sequential_recommendation_a_simp/">    <span class="related-paper-title">Unlocking the Power of Diffusion Models in Sequential Recommendation: A Simple and Effective Approach</span>    <span class="related-paper-meta">KDD · 2025 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/generative_rec/flow_matching_for_collaborative_filtering/">    <span class="related-paper-title">Flow Matching for Collaborative Filtering</span>    <span class="related-paper-meta">KDD · 2025 · GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/fave_flow_based_average_velocity_establishment_for_sequential_recommendatio/">    <span class="related-paper-title">FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/addressing_missing_data_issue_for_diffusion_based_recommendation/">    <span class="related-paper-title">Addressing Missing Data Issue for Diffusion-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

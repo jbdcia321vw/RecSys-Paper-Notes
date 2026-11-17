@@ -136,3 +136,16 @@ $$\hat{\epsilon}^{m}_{t}=\sum_{n\neq m}\alpha_{m,n}\cdot \mathrm{Attention}(h^{m
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （模块图清晰、公式完整，但符号 $E^{id}_a$未定义、式 (9) 与式 (11) 的$\alpha$ 语义混用、部分记号前后不一致）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、可作为 DIN/ETA/TWIN/DPN 插件即插即用，推理开销与 MAKE 同量级，工程可落地性强）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2026/multimodal_rec/native_multimodal_representation_learning_for_click_through_rate_prediction/">    <span class="related-paper-title">Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios</span>    <span class="related-paper-meta">CIKM · 2026 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/distribution_guided_auto_encoder_for_user_multimodal_interest_cross_fusion/">    <span class="related-paper-title">Distribution-Guided Auto-Encoder for User Multimodal Interest Cross Fusion</span>    <span class="related-paper-meta">CIKM · 2025 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/multimodal_rec/prism_personalized_recommendation_via_information_synergy_module/">    <span class="related-paper-title">PRISM: Personalized Recommendation via Information Synergy Module</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/modeling_long_term_user_behaviors_with_diffusion_driven_multi_interest_netw/">    <span class="related-paper-title">Modeling Long-term User Behaviors with Diffusion-driven Multi-interest Network for CTR Prediction</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../multi_modal_multi_behavior_sequential_recommendation_with_conditional_diffu/">    <span class="related-paper-title">Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

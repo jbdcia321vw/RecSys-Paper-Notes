@@ -147,3 +147,17 @@ $$\text{MMR}(b)=\lambda\cdot q(b)+(1-\lambda)\left(1-\max_{b'\in S}\cos(b,b')\ri
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （70/30 会话留出防穿越、四任务互补、含 oracle 与 bootstrap CI 值得肯定；但 N=46、单域、无显著性检验、XR 案例无受控实验，统计功效偏弱）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （式 1–5 目标与近似策略交代清楚，明确区分"概念目标"与"摊销近似"，并主动披露 persona bias 与格式混淆；但核心算子多为提示流程，公式更多是形式化包装）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （人格一次构建跨任务复用、自然语言产物可直接驱动生成式 UI/XR，工程思路可落地；但 $79/用户成本、无开源代码、Stage 2 token 开销未优化，短期难规模化）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/agent_conversational_rec/rectom_a_benchmark_for_evaluating_machine_theory_of_mind_in_llm_based_conve/">    <span class="related-paper-title">RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/thinkrec_thinking_based_recommendation_via_llm/">    <span class="related-paper-title">ThinkRec: Thinking-based Recommendation via LLM</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/where_and_what_reasoning_dynamic_and_implicit_preferences_in_situated_conve/">    <span class="related-paper-title">Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/agent_conversational_rec/from_counterfactual_edits_to_human_narratives_llm_driven_interpretations_fo/">    <span class="related-paper-title">From Counterfactual Edits to Human Narratives: LLM-Driven Interpretations for Recommender System Explanations</span>    <span class="related-paper-meta">CIKM · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/agent_conversational_rec/recoworld_building_simulated_environments_for_agentic_recommender_systems/">    <span class="related-paper-title">RecoWorld: Building Simulated Environments for Agentic Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

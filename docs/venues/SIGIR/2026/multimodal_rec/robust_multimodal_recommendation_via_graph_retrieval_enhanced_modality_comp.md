@@ -135,3 +135,17 @@ $$\mathcal{L}=\sum_{m}\sum_{i}\big\|\hat{\mathbf{x}}_i^{(m)}-\mathbf{x}_i^{(m)}\
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 + 11 个基线 + 5 次随机种子 + 显著性检验 + 缺失率扫描较完整，扣分在随机掩码假设与缺少补全保真度指标）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （MAGE 与 ACS 均给出完整伪代码与复杂度上界，公式定义紧凑；但部分符号如 $\tilde{\mathbf{x}}$、$\bar{\hat{g}}_e$ 的维度说明略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （作为即插即用前置模块无需改下游架构，实测比 MoDiCF 快一个数量级；但未开源，且码本与锚点数需逐数据集调参）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2026/multimodal_rec/training_free_graph_based_imputation_of_missing_modalities_in_multimodal_re/">    <span class="related-paper-title">Training-free Graph-based Imputation of Missing Modalities in Multimodal Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.81</span>  </a>
+  <a class="related-paper" href="../../../2025/multimodal_rec/cohesion_composite_graph_convolutional_network_with_dual_stage_fusion_for_m/">    <span class="related-paper-title">COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multimodal_rec/beyond_graph_convolution_multimodal_recommendation_with_topology_aware_mlps/">    <span class="related-paper-title">Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/generating_with_fairness_a_modality_diffused_counterfactual_framework_for_i/">    <span class="related-paper-title">Generating with Fairness: A Modality-Diffused Counterfactual Framework for Incomplete Multimodal Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multimodal_rec/hypercomplex_prompt_aware_multimodal_recommendation/">    <span class="related-paper-title">Hypercomplex Prompt-aware Multimodal Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

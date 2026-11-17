@@ -131,3 +131,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三人独立标注、Fleiss $\kappa>0.70$、8 模型 × 2 协议矩阵完整，但数据规模小、无线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化与指标定义清晰，6 页短文信息密度高；公式较少，缺少对隐式判别难度的理论分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （+0.35pp GAUC 来自真实生产模型，落地路径明确；但 SILVA 与标注工具未开源，复现门槛较高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDM/2025/ctr_feature_interaction/on_predicting_post_click_conversion_rate_via_counterfactual_inference/">    <span class="related-paper-title">On Predicting Post-Click Conversion Rate via Counterfactual Inference</span>    <span class="related-paper-meta">ICDM · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../2025/ctr_feature_interaction/see_beyond_a_single_view_multi_attribution_learning_leads_to_better_convers/">    <span class="related-paper-title">See Beyond a Single View: Multi-Attribution Learning Leads to Better Conversion Rate Prediction</span>    <span class="related-paper-meta">CIKM · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/exploring_the_potential_of_llms_for_serendipity_evaluation_in_recommender_s/">    <span class="related-paper-title">Exploring the Potential of LLMs for Serendipity Evaluation in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../debias_fairness_industrial/llm_based_user_product_relevance_evaluation_for_dynamic_product_advertising/">    <span class="related-paper-title">LLM-based User-Product Relevance Evaluation for Dynamic Product Advertising</span>    <span class="related-paper-meta">CIKM · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/cross_domain_multi_scenario/atomic_intent_reasoning_bringing_llm_semantics_to_industrial_cross_domain_r/">    <span class="related-paper-title">Atomic Intent Reasoning: Bringing LLM Semantics to Industrial Cross-Domain Recommendations</span>    <span class="related-paper-meta">KDD · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

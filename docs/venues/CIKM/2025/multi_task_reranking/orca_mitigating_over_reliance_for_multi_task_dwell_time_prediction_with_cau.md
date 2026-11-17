@@ -134,3 +134,16 @@ DS651K 上以 MMoE 为骨干（图 3 数值趋势）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （因果分解 $TE=NIE+TDE$ 到 NDE 减法的推导链条清晰，公式紧凑；短论文对掩码概率与权重超参的理论分析略浅）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （模型无关、仅加一个轻量辅助塔、推理开销极小，代码已开源，直接可挂载现有精排 MTL 骨干）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/cross_domain_multi_scenario/bridging_behavior_and_semantics_for_time_aware_cross_domain_sequential_reco/">    <span class="related-paper-title">Bridging Behavior and Semantics for Time-aware Cross-Domain Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/ctr_feature_interaction/on_predicting_post_click_conversion_rate_via_counterfactual_inference/">    <span class="related-paper-title">On Predicting Post-Click Conversion Rate via Counterfactual Inference</span>    <span class="related-paper-meta">ICDM · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/mclmr_a_model_agnostic_causal_learning_framework_for_multi_behavior_recomme/">    <span class="related-paper-title">MCLMR: A Model-Agnostic Causal Learning Framework for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/cpmr_context_aware_incremental_sequential_recommendation_with_pseudo_multi_/">    <span class="related-paper-title">CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/ctr_feature_interaction/ctr_sink_attention_sink_for_language_models_in_click_through_rate_predictio/">    <span class="related-paper-title">CTR-Sink: Attention Sink for Language Models in Click-Through Rate Prediction</span>    <span class="related-paper-meta">KDD · 2026 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

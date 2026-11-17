@@ -121,3 +121,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、模块边界清晰、图 1 与图 4 的动机论证有力，但 VQ 损失与主损失的权重、码本更新细节交代不足）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在 Lofter 全量部署并有明确线上收益与分发结构分析，工程开销低；但未开源，复现需自行补齐 GSU 与特征管线细节）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../sequential_rec/pyramid_mixer_multi_dimensional_multi_period_interest_modeling_for_sequenti/">    <span class="related-paper-title">Pyramid Mixer: Multi-dimensional Multi-period Interest Modeling for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/large_memory_network_for_recommendation/">    <span class="related-paper-title">Large Memory Network for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/modeling_stage_wise_evolution_of_user_interests_for_news_recommendation/">    <span class="related-paper-title">Modeling Stage-wise Evolution of User Interests for News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/parameter_efficient_single_collaborative_branch_for_recommendation/">    <span class="related-paper-title">Parameter-Efficient Single Collaborative Branch for Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · CF</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

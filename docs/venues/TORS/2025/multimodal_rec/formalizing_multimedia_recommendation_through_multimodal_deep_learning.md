@@ -139,3 +139,16 @@ FREEDOM 相对最强经典基线 SGL 在 Toys/Beauty 的 Recall@20 上分别提�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （每步均有公式与四例逐项代入验证，符号体系自洽，Algorithm 1 给出完整流程）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与配置全开源并集成 Elliot，可直接作为多模态推荐选型与评测基线，唯缺线上/规模性开销分析）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/debias_fairness_industrial/causality_inspired_fair_representation_learning_for_multimodal_recommendati/">    <span class="related-paper-title">Causality-Inspired Fair Representation Learning for Multimodal Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Debias / MM</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/agent_conversational_rec/vague_preference_policy_learning_for_conversational_recommendation/">    <span class="related-paper-title">Vague Preference Policy Learning for Conversational Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/how_can_recommender_systems_benefit_from_large_language_models_a_survey/">    <span class="related-paper-title">How Can Recommender Systems Benefit from Large Language Models: A Survey</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/sequential_rec/learning_robust_sequential_recommenders_through_confident_soft_labels/">    <span class="related-paper-title">Learning Robust Sequential Recommenders through Confident Soft Labels</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

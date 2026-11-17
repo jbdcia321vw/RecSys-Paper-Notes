@@ -125,3 +125,17 @@ $$\tilde{\boldsymbol{E}}=[\mathbb{E}_k[\boldsymbol{h}_k],\dots,\mathbb{E}_k[\bol
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 × 四骨干 × 五基线 + 显著性检验 + 一周线上 A/B，覆盖充分；扣分在于部分骨干上未取胜且缺少方差报告）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （偏差分类—原则—公式—验证的叙事链条完整，附录给出收敛率证明；但平滑基线的假设简化与真实骨干间的 gap 未做误差分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （推理零额外开销、代码开源、已在华为广告平台作为基线方法上线，A/B 延迟 −20% 是硬指标）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/ctr_feature_interaction/aefs_adaptive_early_feature_selection_for_deep_recommender_systems/">    <span class="related-paper-title">AEFS: Adaptive Early Feature Selection for Deep Recommender Systems</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/ctr_feature_interaction/lo_far_a_cost_aware_local_filter_for_sparse_feature_ranking_in_industrial_a/">    <span class="related-paper-title">LO-FAR: A Cost-Aware Local Filter for Sparse Feature Ranking in Industrial Ad Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/industry_insights_from_comparing_deep_learning_and_gbdt_models_for_e_commer/">    <span class="related-paper-title">Industry Insights from Comparing Deep Learning and GBDT Models for E-Commerce Learning-to-Rank</span>    <span class="related-paper-meta">RecSys · 2025 · CF / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/tayfcs_towards_light_feature_combination_selection_for_deep_recommender_sys/">    <span class="related-paper-title">TayFCS: Towards Light Feature Combination Selection for Deep Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · CTR</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/zorro_a_zero_weight_personalized_recommender_system_for_scalable_news_recom/">    <span class="related-paper-title">ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

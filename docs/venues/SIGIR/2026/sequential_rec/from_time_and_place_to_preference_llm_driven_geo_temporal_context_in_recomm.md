@@ -138,3 +138,17 @@ MovieLens explorer 用户（相对 SASRec 提升 %，绝对基线 NDCG@5=0.0395�
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （覆盖 MovieLens/LastFM/生产三域并区分 general/explorer，但仅 Sampled Ranking、单骨干、无显著性检验与线上 A/B）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （prompt 模板、四种集成架构与公式定义清晰，诊断测试逻辑自洽，附录给出绝对指标）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （离线预生成嵌入、模型无关辅助损失、参数高效 M+GT 变体均利于工程部署，且释放增强版 MovieLens 数据集）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../2025/llm_rec/multi_grained_patch_training_for_efficient_llm_based_recommendation/">    <span class="related-paper-title">Multi-Grained Patch Training for Efficient LLM-based Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/llm_rec/effectiveness_of_llms_in_temporal_user_profiling_for_recommendation/">    <span class="related-paper-title">Effectiveness of LLMs in Temporal User Profiling for Recommendation</span>    <span class="related-paper-meta">ICDM · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/decoupled_temporal_encoding_for_generative_recommendation/">    <span class="related-paper-title">Decoupled Temporal Encoding for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

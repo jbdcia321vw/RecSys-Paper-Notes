@@ -133,3 +133,16 @@ Nutrition-macro only 基准（√ 表示启用该模块）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三目标损失与 Pareto 更新公式定义清晰、图示直观；部分符号如 $\mathcal{J}$、$\hat{\nabla}_\theta$ 未在正文统一列表，Frank-Wolfe 收敛性未给证明）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （Pareto 插件易落地、基准有公共价值；但代码链接缺失、LLM 调用成本与图规模扩展性未评估，复现门槛偏高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/kerl_knowledge_enhanced_personalized_recipe_recommendation_using_large_lang/">    <span class="related-paper-title">KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/cold_start_rec/eating_for_a_sustainable_planet_personalized_sustainable_diet_recommendatio/">    <span class="related-paper-title">Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Cold / MTL</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/debias_fairness_industrial/bites_of_tomorrow_personalized_recommendations_for_a_healthier_and_greener_/">    <span class="related-paper-title">Bites of Tomorrow: Personalized Recommendations for a Healthier and Greener Plate</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/review_driven_personalized_preference_reasoning_with_large_language_models_/">    <span class="related-paper-title">Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/harpo_hierarchical_agentic_reasoning_for_user_aligned_conversational_recomm/">    <span class="related-paper-title">HARPO: Hierarchical Agentic Reasoning for User-Aligned Conversational Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

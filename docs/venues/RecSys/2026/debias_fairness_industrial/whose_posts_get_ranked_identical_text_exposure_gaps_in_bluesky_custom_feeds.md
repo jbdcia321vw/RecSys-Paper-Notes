@@ -126,3 +126,17 @@ $$y_{c} = \alpha_{m(c)} + \beta^{\top} x_{c} + \varepsilon_{c}, \qquad y_c = \be
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../cold_start_rec/predicting_custom_feed_returns_for_new_bluesky_posts_a_prospective_study/">    <span class="related-paper-title">Predicting Custom-Feed Returns for New Bluesky Posts: A Prospective Study</span>    <span class="related-paper-meta">RecSys · 2026 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/variance_reduction_for_heavy_tailed_monetization_metrics_in_ranking_experim/">    <span class="related-paper-title">Variance Reduction for Heavy-Tailed Monetization Metrics in Ranking Experiments via Post-Stratification</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/taming_recommendation_bias_with_causal_intervention_on_evolving_personal_po/">    <span class="related-paper-title">Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/revisiting_algorithmic_audits_of_tiktok_poor_reproducibility_and_short_term/">    <span class="related-paper-title">Revisiting Algorithmic Audits of TikTok: Poor Reproducibility and Short-term Validity of Findings</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / RL</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/the_role_of_follow_networks_and_twitter_s_content_recommender_on_partisan_s/">    <span class="related-paper-title">The Role of Follow Networks and Twitter&#x27;s Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / Social</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+</div>
+<!-- related-papers:end -->

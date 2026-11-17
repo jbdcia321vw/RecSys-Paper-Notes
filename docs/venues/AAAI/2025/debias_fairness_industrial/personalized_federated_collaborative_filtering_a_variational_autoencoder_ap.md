@@ -130,3 +130,16 @@ $\mathcal{L}_\beta(\mathbf{r}_u;\Phi_u,\theta)=\mathbb{E}_{q_{\Phi_u}(\mathbf{z}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （ELBO 推导与 Lemma 1 交代清楚，算法伪代码完整，复杂度分析到位）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，仅传全局梯度、天然兼容 DP，但客户端存储随用户数线性增长限制大规模部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/plug_and_play_parameter_efficient_tuning_of_embeddings_for_federated_recomm/">    <span class="related-paper-title">Plug-and-Play Parameter-Efficient Tuning of Embeddings for Federated Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/fedecider_an_llm_based_framework_for_federated_cross_domain_recommendation/">    <span class="related-paper-title">FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../TMM/2025/cross_domain_multi_scenario/federated_user_preference_modeling_for_privacy_preserving_cross_domain_reco/">    <span class="related-paper-title">Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation</span>    <span class="related-paper-meta">IEEE TMM · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/learning_evolving_preferences_a_federated_continual_framework_for_user_cent/">    <span class="related-paper-title">Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/multifaceted_user_modeling_in_recommendation_a_federated_foundation_models_/">    <span class="related-paper-title">Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

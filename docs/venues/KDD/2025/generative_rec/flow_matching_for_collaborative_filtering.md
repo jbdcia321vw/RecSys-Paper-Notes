@@ -124,3 +124,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （从期望向量场推导到简化损失的链条清晰，符号一致，复杂度分析略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，2步推理速度优势明显，但全物品重建的扩展性待验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../IJCAI/2025/generative_rec/flow_matching_based_sequential_recommender_model/">    <span class="related-paper-title">Flow Matching based Sequential Recommender Model</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/process_supervised_llm_recommenders_via_flow_guided_tuning/">    <span class="related-paper-title">Process-Supervised LLM Recommenders via Flow-guided Tuning</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/sequential_rec/efficient_sequential_recommendation_for_long_term_user_interest_via_persona/">    <span class="related-paper-title">Efficient Sequential Recommendation for Long Term User Interest Via Personalization</span>    <span class="related-paper-meta">ICDM · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/collaborative_filtering/recommendations_with_sparse_comparison_data_provably_fast_convergence_for_n/">    <span class="related-paper-title">Recommendations with Sparse Comparison Data: Provably Fast Convergence for Nonconvex Matrix Factorization</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/reclm_recommendation_instruction_tuning/">    <span class="related-paper-title">RecLM: Recommendation Instruction Tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

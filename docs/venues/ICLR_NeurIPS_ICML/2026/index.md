@@ -7,6 +7,8 @@ hide:
 
 41 篇 ICLR / NeurIPS / ICML (RecSys) 2026 论文解读，覆盖 12 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
+🔥 **高频主题：** NeurIPS ×16 · ICML ×15 · 召回 ×14 · 精排 ×10 · ICLR ×7 · 端到端生成式 ×6 · 大语言模型推荐 ×5 · 重排 ×5
+
 <div class="conf-index">
 <hr />
 <h2 id="collaborative_filtering">🤝 协同过滤与双塔召回 (2)</h2>

@@ -133,3 +133,17 @@ Review + TGN 上间隙本已很小（Post $g_{\text{TE gap}}$ 0.0030→0.0029，
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （OPP 三阶段协议与最坏情形统计设计严谨、3 种子重复，但真实敏感属性缺失、合成流占比偏高）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理-引理-推论链条完整、假设可检验化处理到位；符号密度高，附录依赖较重）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （决策层黑盒包装、摊还开销低、代码开源，适合作为线上公平监控中间件；倾向日志与审计基础设施是落地门槛）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/post_hoc_provider_fairness_adaptation_via_hierarchical_exposure_alignment/">    <span class="related-paper-title">Post-hoc Provider Fairness Adaptation via Hierarchical Exposure Alignment</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/on_the_reliability_of_sampling_strategies_in_offline_recommender_evaluation/">    <span class="related-paper-title">On the Reliability of Sampling Strategies in Offline Recommender Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/counterfactual_inference_under_thompson_sampling/">    <span class="related-paper-title">Counterfactual Inference under Thompson Sampling</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/fairdgcl_fairness_aware_recommendation_with_dynamic_graph_contrastive_learn/">    <span class="related-paper-title">FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / SSL</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/meta_off_policy_estimation/">    <span class="related-paper-title">Meta Off-Policy Estimation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+</div>
+<!-- related-papers:end -->

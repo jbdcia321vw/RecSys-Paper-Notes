@@ -138,3 +138,16 @@ $$C(S)=\sum_{e\in E_S}w'(e)-\sum_{v\in V_S}p(v)$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （四类摘要场景定义清晰、两算法伪代码与复杂度/近似比交代完整；但主实验以图呈现、缺紧凑数值表，跨方法比较需读者自行读图）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （纯推理期后处理、无需训练、代码开源、PCST 与 $|T|$ 无关易扩展；扣分在于 ST 隐私短板与对上游路径质量的强依赖）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/from_top_1_to_top_k_a_reproducibility_study_and_benchmarking_of_counterfact/">    <span class="related-paper-title">From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/g_refer_graph_retrieval_augmented_large_language_model_for_explainable_reco/">    <span class="related-paper-title">G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/graph_rec/comprehending_knowledge_graphs_with_large_language_models_for_recommender_s/">    <span class="related-paper-title">Comprehending Knowledge Graphs with Large Language Models for Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · Graph / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/agent_conversational_rec/reasoning_over_user_preferences_knowledge_graph_augmented_llms_for_explaina/">    <span class="related-paper-title">Reasoning over User Preferences: Knowledge Graph-Augmented LLMs for Explainable Conversational Recommendations</span>    <span class="related-paper-meta">ICDM · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/agent_conversational_rec/enhancing_recommendation_explanations_through_user_centric_refinement/">    <span class="related-paper-title">Enhancing Recommendation Explanations through User-Centric Refinement</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

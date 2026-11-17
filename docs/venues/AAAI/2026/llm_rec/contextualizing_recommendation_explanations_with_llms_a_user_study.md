@@ -122,3 +122,17 @@ CE 在四个维度上均显著优于 NE 与 GE（Holm 校正 $p<0.05$）；**GE 
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （N=759 预注册、功效分析、双重注意力检查、Holm 校正、混合效应模型、跨模型复现与 30 人访谈三角验证，堪称用户研究范本）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （回归式与变量定义清晰、VIF 与随机效应交代完整；但部分访谈引文与定量结论的对应略显松散）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （匿名代码与语料可复现，结论对解释生成策略有直接指导；但 API 成本估算与单会话设计限制了直接线上部署的说服力）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TORS/2025/agent_conversational_rec/impact_of_tone_aware_explanations_in_recommender_systems/">    <span class="related-paper-title">Impact of Tone-Aware Explanations in Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · CRS</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/agent_conversational_rec/from_counterfactual_edits_to_human_narratives_llm_driven_interpretations_fo/">    <span class="related-paper-title">From Counterfactual Edits to Human Narratives: LLM-Driven Interpretations for Recommender System Explanations</span>    <span class="related-paper-meta">CIKM · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/agent_conversational_rec/the_utility_of_llms_in_recommender_systems_explanation_evaluation/">    <span class="related-paper-title">The Utility of LLMs in Recommender Systems Explanation Evaluation</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/large_language_models_as_narrative_driven_recommenders/">    <span class="related-paper-title">Large Language Models as Narrative-Driven Recommenders</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/llm_rec/effectiveness_of_llms_in_temporal_user_profiling_for_recommendation/">    <span class="related-paper-title">Effectiveness of LLMs in Temporal User Profiling for Recommendation</span>    <span class="related-paper-meta">ICDM · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

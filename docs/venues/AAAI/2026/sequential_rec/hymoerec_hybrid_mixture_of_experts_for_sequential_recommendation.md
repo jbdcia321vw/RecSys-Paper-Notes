@@ -119,3 +119,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐ （仅两数据集、四基线，划分方式与候选集协议均未声明，完全缺失消融实验与显著性检验，Student Abstract 篇幅不能完全免责）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （HyMoE/AEF/损失三处公式定义干净、符号自洽，但数据集统计、嵌入维度、复杂度分析均缺位，实验章节近乎只有一张表）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （即插即用替换 PFFN、超参极少、无需额外负采样，落地门槛低；但无开源代码、无延迟与显存实测，实际部署收益需自行验证）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/facet_aware_multi_head_mixture_of_experts_model_for_sequential_recommendati/">    <span class="related-paper-title">Facet-Aware Multi-Head Mixture-of-Experts Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/hierarchical_time_aware_mixture_of_experts_for_multi_modal_sequential_recom/">    <span class="related-paper-title">Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/star_rec_making_peace_with_length_variance_and_pattern_diversity_in_sequent/">    <span class="related-paper-title">STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/thinkrec_thinking_based_recommendation_via_llm/">    <span class="related-paper-title">ThinkRec: Thinking-based Recommendation via LLM</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

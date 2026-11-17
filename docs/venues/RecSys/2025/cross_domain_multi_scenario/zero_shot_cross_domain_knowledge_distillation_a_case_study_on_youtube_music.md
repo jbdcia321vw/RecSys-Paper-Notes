@@ -129,3 +129,16 @@ $\mathcal{L}=\sum_{t\in\mathcal{T}_{\text{main}}}\mathcal{L}_{t}^{\text{main}}+\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （工业叙事清晰、发现总结到位，但全文几乎无公式与复杂度分析，仅 4 页）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （推理零开销、免源域数据依赖、GPU 成本大降，对低流量场景落地价值高；但无开源代码，复现受限于内部生态）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACM_MM/2025/cross_domain_multi_scenario/leveraging_multimodal_data_and_side_users_for_diffusion_cross_domain_recomm/">    <span class="related-paper-title">Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation</span>    <span class="related-paper-meta">ACM MM · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cross_domain_multi_scenario/uncovering_cross_domain_recommendation_ability_of_large_language_models/">    <span class="related-paper-title">Uncovering Cross-Domain Recommendation Ability of Large Language Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cross / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/active_large_language_model_based_knowledge_distillation_for_session_based_/">    <span class="related-paper-title">Active Large Language Model-based Knowledge Distillation for Session-based Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/llm_rec/rejuvenating_cross_entropy_loss_in_knowledge_distillation_for_recommender_s/">    <span class="related-paper-title">Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../2026/multi_task_reranking/heterogeneous_ranking_in_industrial_scale_recommender_systems_a_case_study/">    <span class="related-paper-title">Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study</span>    <span class="related-paper-meta">RecSys · 2026 · MTL / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

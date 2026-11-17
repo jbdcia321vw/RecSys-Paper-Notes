@@ -122,3 +122,17 @@ $$\mathcal{L}=\mathcal{L}_{PG}+\lambda_{len}\Big(\tfrac{1}{|\Omega|}\sum_{i\in\O
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （四任务八指标 + 消融 + 预算/标记/规模/长度敏感性 + 跨 5 个 Solver 与 API 迁移，覆盖全面；扣分在推荐侧仅 40 候选重排、样本量偏小）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化、预算投影与损失各项定义清晰，算法伪代码完整；投影前后 log-prob 的处理交代到位，但缺策略梯度方差与收敛性的理论分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （Solver token 开销 $<1.01\times$、Actor 延迟占比 1.3%–2.9%、查询预算省 5–10×，天然兼容 API 黑盒；扣分在模型代码未开源、多轮 cache 场景未验证）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/multimodal_rec/reasonrec_a_reasoning_augmented_multimodal_agent_for_unified_recommendation/">    <span class="related-paper-title">ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/generative_rec/diffusion_recommender_models_and_the_illusion_of_progress_a_concerning_stud/">    <span class="related-paper-title">Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch</span>    <span class="related-paper-meta">ACM TORS · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/debias_fairness_industrial/impression_aware_recommender_systems/">    <span class="related-paper-title">Impression-Aware Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/one_model_for_all_large_language_models_are_domain_agnostic_recommendation_/">    <span class="related-paper-title">One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Cross</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/poi_spatiotemporal_rec/point_of_interest_recommendation_pitfalls_and_viable_solutions/">    <span class="related-paper-title">Point of Interest Recommendation: Pitfalls and Viable Solutions</span>    <span class="related-paper-meta">ACM TORS · 2026 · POI / Debias</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+</div>
+<!-- related-papers:end -->

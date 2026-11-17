@@ -137,3 +137,16 @@ MF 模型下逐级移除优化（上传通信 MB / 计算 ms）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （复杂度表与 Theorem 4.1 的模拟器归约严谨，FSS 算法伪代码完整；正文与附录符号略有重复，$m'$ 截断的效用分析偏薄）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，通信降 90×、内存降最多 214× 对端侧极友好；但需部署双服务器基础设施，且与现有单服务器 FedRec 架构不兼容）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/gradients_as_an_action_towards_communication_efficient_federated_recommende/">    <span class="related-paper-title">Gradients as an Action: Towards Communication-Efficient Federated Recommender Systems via Adaptive Action Sharing</span>    <span class="related-paper-meta">KDD · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/federated_continual_recommendation/">    <span class="related-paper-title">Federated Continual Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/plug_and_play_parameter_efficient_tuning_of_embeddings_for_federated_recomm/">    <span class="related-paper-title">Plug-and-Play Parameter-Efficient Tuning of Embeddings for Federated Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/debias_fairness_industrial/a_federated_framework_for_llm_based_recommendation/">    <span class="related-paper-title">A Federated Framework for LLM-based Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../TMM/2025/cross_domain_multi_scenario/federated_user_preference_modeling_for_privacy_preserving_cross_domain_reco/">    <span class="related-paper-title">Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation</span>    <span class="related-paper-meta">IEEE TMM · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

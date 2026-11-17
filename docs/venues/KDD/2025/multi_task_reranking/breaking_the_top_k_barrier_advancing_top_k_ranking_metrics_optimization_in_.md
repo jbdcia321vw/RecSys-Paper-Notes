@@ -134,3 +134,16 @@ NDCG@20（Recall@20 趋势一致，此处取最具代表性的指标；完整表
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （上界推导逐步标注松弛依据，定理 3.1/3.2 与复杂度分析齐备，SL@$K$ 与 SL 的关系一句话讲透）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （仅加一个权重项即可替换现有 SL，推理零改动、训练开销可忽略，代码已开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/talos_optimizing_top_k_accuracy_in_recommender_systems/">    <span class="related-paper-title">Talos: Optimizing Top-$K$ Accuracy in Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/collaborative_filtering/from_pairwise_to_ranking_climbing_the_ladder_to_ideal_collaborative_filteri/">    <span class="related-paper-title">From Pairwise to Ranking: Climbing the Ladder to Ideal Collaborative Filtering with Pseudo-Ranking</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/collaborative_filtering/learning_recommender_systems_with_soft_target_a_decoupled_perspective/">    <span class="related-paper-title">Learning Recommender Systems with Soft Target: A Decoupled Perspective</span>    <span class="related-paper-meta">DASFAA · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/the_recall_ceiling_of_llm_recommendation_reranking/">    <span class="related-paper-title">The Recall Ceiling of LLM Recommendation Reranking</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/improving_minimax_group_fairness_in_sequential_recommendation/">    <span class="related-paper-title">Improving Minimax Group Fairness in Sequential Recommendation</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -126,3 +126,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （自建 933K 交互多模态基准 + 公开集交叉验证 + 完整消融与超参分析，但过滤式评估协议存在选择性偏差隐忧）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （双智能体流程与奖励公式清晰，但部分符号如 $W_T/W_G/W_S$ 的最优取值仅靠实验给出、缺乏理论解释）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （来自腾讯视频真实场景、有部署效率数据，但代码与 IF-VR 数据集尚未开源，复现门槛高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/agent_conversational_rec/llm_powered_user_simulator_for_recommender_system/">    <span class="related-paper-title">LLM-Powered User Simulator for Recommender System</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/task_aware_automated_user_profile_generation_for_recommendation_simulation_/">    <span class="related-paper-title">Task-Aware Automated User Profile Generation for Recommendation Simulation Using Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/agent_conversational_rec/temporal_aware_user_behaviour_simulation_with_large_language_models_for_rec/">    <span class="related-paper-title">Temporal-Aware User Behaviour Simulation with Large Language Models for Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · CRS / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../agent_conversational_rec/when_top_ranked_recommendations_fail_modeling_multi_granular_negative_feedb/">    <span class="related-paper-title">When Top-ranked Recommendations Fail: Modeling Multi-Granular Negative Feedback for Explainable and Robust Video Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/agent_conversational_rec/recoworld_building_simulated_environments_for_agentic_recommender_systems/">    <span class="related-paper-title">RecoWorld: Building Simulated Environments for Agentic Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

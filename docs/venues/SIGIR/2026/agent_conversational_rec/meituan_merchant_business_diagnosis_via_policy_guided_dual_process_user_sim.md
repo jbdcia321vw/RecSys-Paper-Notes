@@ -132,3 +132,17 @@ $$\hat{Y}_{hybrid}(S,a)=\lambda\cdot\frac{1}{N}\sum_{i=1}^{N}\hat{y}^{(i)}_{reas
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/mirroring_users_towards_building_preference_aligned_user_simulator_with_use/">    <span class="related-paper-title">Mirroring Users: Towards Building Preference-aligned User Simulator with User Feedback in Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/llm_reasoning_for_subjective_tasks_failure_modes_mitigation_and_dynamic_rea/">    <span class="related-paper-title">LLM Reasoning for Subjective Tasks: Failure Modes, Mitigation, and Dynamic Reasoning Routing</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../2025/cross_domain_multi_scenario/adaptive_domain_scaling_for_personalized_sequential_modeling_in_recommender/">    <span class="related-paper-title">Adaptive Domain Scaling for Personalized Sequential Modeling in Recommenders</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/self_supervised_denoising/g_ubs_towards_robust_understanding_of_implicit_feedback_via_group_aware_use/">    <span class="related-paper-title">G-UBS: Towards Robust Understanding of Implicit Feedback via Group-Aware User Behavior Simulation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · SSL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/canniuplift_a_holistic_framework_for_mitigating_seller_and_incentive_cannib/">    <span class="related-paper-title">CanniUplift: A Holistic Framework for Mitigating Seller and Incentive Cannibalization in E-commerce Uplift Modeling</span>    <span class="related-paper-meta">KDD · 2026 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+</div>
+<!-- related-papers:end -->

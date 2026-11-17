@@ -131,3 +131,17 @@ $\text{Recall}@k = R_0 - \frac{A}{(N_{\text{RS}}+\gamma_1 N_{\text{LLM}}+\gamma_
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 × 三扩展轴 × 44M–14B 全谱扫描 + 三次重复误差棒 + $R^2$ 拟合，控制变量严谨；缺工业数据与多模态验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （扩展律方程推导清晰、反证法逻辑严密，符号统一；部分拟合参数细节下放附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （结论对架构选型极具指导价值，但 Text-based GR 推理开销大、且未开源代码，直接复现成本较高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/order_agnostic_identifier_for_large_language_model_based_generative_recomme/">    <span class="related-paper-title">Order-agnostic Identifier for Large Language Model-based Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/card_non_uniform_quantization_of_visual_semantic_unit_for_generative_recomm/">    <span class="related-paper-title">CARD: Non-Uniform Quantization of Visual Semantic Unit for Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/generative_rec/multi_aspect_cross_modal_quantization_for_generative_recommendation/">    <span class="related-paper-title">Multi-Aspect Cross-modal Quantization for Generative Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/sprig_semantic_id_enhanced_paths_for_knowledge_graph_based_generative_recom/">    <span class="related-paper-title">SPRIG: Semantic-ID-enhanced Paths for Knowledge Graph-based Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/semantic_ids_for_joint_generative_search_and_recommendation/">    <span class="related-paper-title">Semantic IDs for Joint Generative Search and Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -122,3 +122,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （任务动机与工业流程映射清晰，标注指南与提示模板完整公开；数学部分较浅，属基准论文常态）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （数据集公开且直接源自真实运营，可即插即用于广告创意准入流水线；但仅日文、无开源模型代码，跨行业迁移需重新标注）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../agent_conversational_rec/exploring_the_potential_of_llms_as_personalized_assistants_dataset_evaluati/">    <span class="related-paper-title">Exploring the Potential of LLMs as Personalized Assistants: Dataset, Evaluation, and Analysis</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/ctr_driven_advertising_image_generation_with_multimodal_large_language_mode/">    <span class="related-paper-title">CTR-Driven Advertising Image Generation with Multimodal Large Language Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / MM</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/ctr_feature_interaction/can_large_language_models_identify_meaningful_touchpoints_in_conversion_att/">    <span class="related-paper-title">Can Large Language Models Identify Meaningful Touchpoints in Conversion Attribution?</span>    <span class="related-paper-meta">CIKM · 2026 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/rl_bandit_rec/kp_agent_keyword_pruning_in_sponsored_search_advertising_via_llm_powered_co/">    <span class="related-paper-title">KP-Agent: Keyword Pruning in Sponsored Search Advertising via LLM-Powered Contextual Bandits</span>    <span class="related-paper-meta">CIKM · 2025 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/llm_rec/revisiting_language_models_in_neural_news_recommender_systems/">    <span class="related-paper-title">Revisiting Language Models in Neural News Recommender Systems</span>    <span class="related-paper-meta">ECIR · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+</div>
+<!-- related-papers:end -->

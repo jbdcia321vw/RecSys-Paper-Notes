@@ -127,3 +127,16 @@ $\mathcal{L}_u(t)=-\frac{1}{\sqrt{R_u(h_k)}}\log\frac{\exp(h_k^\top h^*)}{\sum_{
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （从全动作集目标到行为级近似的推导链条清晰，公式与图示对应良好，复杂度分析略欠）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （思路易工程化且与 DDPG/PER 解耦，但未开源、额外对比开销与线上收益待验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/sequential_rec/semantic_retrieval_augmented_contrastive_learning_for_sequential_recommenda/">    <span class="related-paper-title">Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/sequential_rec/recrec_latent_interests_recursive_reasoning_for_sequential_recommendation/">    <span class="related-paper-title">RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/reclm_recommendation_instruction_tuning/">    <span class="related-paper-title">RecLM: Recommendation Instruction Tuning</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/rl_bandit_rec/maximum_in_support_return_modeling_for_dynamic_recommendation_with_language/">    <span class="related-paper-title">Maximum In-Support Return Modeling for Dynamic Recommendation with Language Model Prior</span>    <span class="related-paper-meta">CIKM · 2025 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/graph_rec/intent_guided_heterogeneous_graph_contrastive_learning_for_recommendation/">    <span class="related-paper-title">Intent-guided Heterogeneous Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -122,3 +122,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （框架图清晰、公式完整，但 Eq.10/13 符号重复、5.4.1 与 5.4.2 段落文字几乎完全重复，编辑疏漏明显）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （推理开销仅增 23% 且模块可并行，但未开源、数据集自建，复现与线上验证门槛较高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../DASFAA/2025/multimodal_rec/truthsr_trustworthy_sequential_recommender_systems_via_user_generated_multi/">    <span class="related-paper-title">TruthSR: Trustworthy Sequential Recommender Systems via User-generated Multimodal Content</span>    <span class="related-paper-meta">DASFAA · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2026/multimodal_rec/beyond_noisy_signals_dual_level_denoising_for_multi_modal_sequential_recomm/">    <span class="related-paper-title">Beyond Noisy Signals: Dual-Level Denoising for Multi-modal Sequential Recommendation</span>    <span class="related-paper-meta">ACM MM · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/hierarchical_time_aware_mixture_of_experts_for_multi_modal_sequential_recom/">    <span class="related-paper-title">Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/harnessing_multimodal_large_language_models_for_multimodal_sequential_recom/">    <span class="related-paper-title">Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/intent_aware_diffusion_with_contrastive_learning_for_sequential_recommendat/">    <span class="related-paper-title">Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

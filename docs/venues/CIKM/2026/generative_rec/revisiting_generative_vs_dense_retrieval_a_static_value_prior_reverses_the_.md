@@ -118,3 +118,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （受控同骨干对比、231 点权重单纯形扫描、冷目标/共购/随机对照/工业判官四重稳健性检验，且诚实报告负结果）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （$q$与$v$ 的符号分离干净，BV/vNDCG 定义与配对统计口径明确，共享 IDCG 的不可跨池比较警示到位）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （免训练、无解码、单次重排即可反超，代码已开源，对正在评估 GR 替换 DR 的团队具有直接的决策价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/forge_forming_semantic_identifiers_for_generative_retrieval_in_industrial_d/">    <span class="related-paper-title">FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../llm_rec/the_recall_ceiling_of_llm_recommendation_reranking/">    <span class="related-paper-title">The Recall Ceiling of LLM Recommendation Reranking</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/bridging_language_and_items_for_retrieval_and_recommendation_benchmarking_l/">    <span class="related-paper-title">Bridging Language and Items for Retrieval and Recommendation: Benchmarking LLMs as Semantic Encoders</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/egr_embedding_native_generative_retrieval_with_a_shared_llm/">    <span class="related-paper-title">EGR: Embedding-Native Generative Retrieval with a Shared LLM</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/llm_rec/improving_item_discoverability_in_e_commerce_search_via_related_intent_gene/">    <span class="related-paper-title">Improving Item Discoverability in e-Commerce Search via Related Intent Generation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

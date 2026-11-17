@@ -273,6 +273,24 @@ def render_paper_tags(item: dict) -> str:
     return f'<span class="paper-tags">{"".join(tags)}</span>' if tags else ""
 
 
+def render_hot_tags(items: list, excluded: set, limit: int = 8) -> str:
+    """根据论文 frontmatter tags 生成高频主题摘要。"""
+    excluded_norm = {re.sub(r"\s+", "", value).lower() for value in excluded if value}
+    counts = defaultdict(int)
+    for item in items:
+        for tag in item.get("tags", []):
+            tag = (tag or "").strip()
+            if tag and re.sub(r"\s+", "", tag).lower() not in excluded_norm:
+                counts[tag] += 1
+    hot = sorted(
+        ((tag, count) for tag, count in counts.items() if count >= 2),
+        key=lambda pair: (-pair[1], pair[0]),
+    )[:limit]
+    if not hot:
+        return ""
+    return "🔥 **高频主题：** " + " · ".join(f"{tag} ×{count}" for tag, count in hot)
+
+
 def render_paper_dl(items: list, href_for) -> str:
     """按原版 Paper-Notes 的 <dl><dt><dd> 结构渲染论文列表。"""
     lines = ["<dl>"]
@@ -578,6 +596,20 @@ def build_venue_pages(docs_dir: Path, notes: list, years: list):
                 if venue_map[venue_code][year].get(cat_slug, [])
             ]
 
+            year_items = [
+                item
+                for items in venue_map[venue_code][year].values()
+                for item in items
+            ]
+            hot = render_hot_tags(
+                year_items,
+                {
+                    vinfo["name"],
+                    f"{vinfo['name']} {year}",
+                    year,
+                    *(cinfo["title"] for cinfo in CATEGORIES.values()),
+                },
+            )
             year_lines = [
                 "---",
                 "hide:",
@@ -589,8 +621,10 @@ def build_venue_pages(docs_dir: Path, notes: list, years: list):
                 f"{total_y} 篇 {vinfo['name']} {year} 论文解读，覆盖 {len(active_cats)} 个推荐系统细分方向。"
                 "每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。",
                 "",
-                '<div class="conf-index">',
             ]
+            if hot:
+                year_lines.extend([hot, ""])
+            year_lines.append('<div class="conf-index">')
             for cat_slug, cinfo, c_items in active_cats:
                 c_icon = CAT_ICONS.get(cat_slug, "📌")
                 sorted_items = sorted(c_items, key=lambda x: x["title"].lower())
@@ -647,18 +681,12 @@ def build_venue_pages(docs_dir: Path, notes: list, years: list):
                         c_lines.append("📌 **同领域跨会议浏览：** " + " · ".join(cross_links))
                         c_lines.append("")
 
-                    tag_counts = defaultdict(int)
-                    excluded = {vinfo["name"], f"{vinfo['name']} {year}", year, cinfo["title"]}
-                    for item in c_items:
-                        for tag in item.get("tags", []):
-                            if tag and tag not in excluded:
-                                tag_counts[tag] += 1
-                    hot = sorted(
-                        [(tag, n) for tag, n in tag_counts.items() if n >= 2],
-                        key=lambda x: (-x[1], x[0]),
-                    )[:8]
+                    hot = render_hot_tags(
+                        c_items,
+                        {vinfo["name"], f"{vinfo['name']} {year}", year, cinfo["title"]},
+                    )
                     if hot:
-                        c_lines.append("🔥 **高频主题：** " + " · ".join(f"{tag} ×{n}" for tag, n in hot))
+                        c_lines.append(hot)
                         c_lines.append("")
 
                     sorted_items = sorted(c_items, key=lambda x: x["title"].lower())
@@ -810,18 +838,18 @@ theme:
     - search.highlight
     - content.code.copy
   palette:
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: 切换至浅色模式
     - scheme: default
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/brightness-4
+        icon: material/brightness-7
         name: 切换至深色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换至浅色模式
 
 plugins:
   - search:

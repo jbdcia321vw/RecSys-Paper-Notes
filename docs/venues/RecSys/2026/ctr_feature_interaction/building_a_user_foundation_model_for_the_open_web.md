@@ -144,3 +144,17 @@ $$e^{\text{time}}_{i,d}=\alpha_d\cdot\log(\Delta t_i/60+1)+\beta_d$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （离线 RIG/AUC + 跨架构 + 跨任务 + 7 天线上 A/B 四层验证完整，扣分于单种子与缺搜索对照）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RIG 定义、损失与时间嵌入公式交代清晰，局限章节坦诚；数据集统计与延迟实测缺失）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （真实生产部署 + 亚毫秒约束下的 DMP/DSP 拓扑 + 线上显著增益，工业参考价值极高，可惜未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../generative_rec/genpage_towards_end_to_end_generative_homepage_construction_at_netflix/">    <span class="related-paper-title">GenPage: Towards End-to-End Generative Homepage Construction at Netflix</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/cross_domain_multi_scenario/horizon_a_benchmark_for_in_the_wild_user_behaviour_modeling/">    <span class="related-paper-title">HORIZON: A Benchmark for In-the-wild User Behaviour Modeling</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Cross / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/palate_pretrained_autoregressive_latent_embeddings/">    <span class="related-paper-title">PALATE: Pretrained Autoregressive LATent Embeddings</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/multifaceted_user_modeling_in_recommendation_a_federated_foundation_models_/">    <span class="related-paper-title">Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

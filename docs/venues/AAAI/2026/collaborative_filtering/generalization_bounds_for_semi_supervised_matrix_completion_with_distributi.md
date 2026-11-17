@@ -130,3 +130,17 @@ RMSE（越低越好），$p$ 为标签抹除比例：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （合成实验验证解耦、真实数据覆盖三数据集与 8 档标签稀疏度较充分，但基线偏旧、缺 SOTA 对比与显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （假设体系完整、定理证明链条清晰，附录给出 Wedin 定理与 Bernstein 不等式的自包含推导；但假设 7 的必要性讨论略显冗长）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （两阶段流程简单可落地、SVD 步骤开销低，但真实数据需自编码器调参、无开源代码，且理论保证依赖较强假设）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/collaborative_filtering/recommendations_with_sparse_comparison_data_provably_fast_convergence_for_n/">    <span class="related-paper-title">Recommendations with Sparse Comparison Data: Provably Fast Convergence for Nonconvex Matrix Factorization</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/does_weighting_improve_matrix_factorization_for_recommender_systems/">    <span class="related-paper-title">Does Weighting Improve Matrix Factorization for Recommender Systems?</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/self_supervised_denoising/personalized_denoising_implicit_feedback_for_robust_recommender_system/">    <span class="related-paper-title">Personalized Denoising Implicit Feedback for Robust Recommender System</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · SSL / CF</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/collaborative_filtering/generalizing_linear_autoencoder_recommenders_with_decoupled_expected_quadra/">    <span class="related-paper-title">Generalizing Linear Autoencoder Recommenders with Decoupled Expected Quadratic Loss</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CF</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/rl_bandit_rec/incentivized_exploration_with_stochastic_covariates_a_two_stage_mechanism_d/">    <span class="related-paper-title">Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+</div>
+<!-- related-papers:end -->

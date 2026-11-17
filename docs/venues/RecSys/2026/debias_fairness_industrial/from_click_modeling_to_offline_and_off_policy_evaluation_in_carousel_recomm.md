@@ -121,3 +121,17 @@ $$P(\text{click}_i \mid x)=\sum_{k:\,i\in C_k}P(C_k\mid x)\cdot\frac{\exp(u_i)}{
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （RecGaze 数据采集规范、假设检验清晰，但缺乏统一基准上的主实验表、消融与显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RQ 与论文依赖关系图组织清晰，MNL 公式简洁到位；但部分模块仅有定性描述，缺复杂度与可识别性分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （轮播是工业主流界面，问题定义极具落地价值；但暂无开源代码，OPE 方案未验证，短期难以直接部署）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/recgaze_the_first_eye_tracking_and_user_interaction_dataset_for_carousel_in/">    <span class="related-paper-title">RecGaze: The First Eye Tracking and User Interaction Dataset for Carousel Interfaces</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/debias_fairness_industrial/revisiting_n2dcg_an_empirically_grounded_reformulation_of_carousel_recommen/">    <span class="related-paper-title">Revisiting N2DCG: An Empirically Grounded Reformulation of Carousel Recommendation Evaluation</span>    <span class="related-paper-meta">CIKM · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../on_the_convergent_validity_of_offline_evaluation_designs_for_recommender_sy/">    <span class="related-paper-title">On the Convergent Validity of Offline Evaluation Designs for Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/llm_as_a_judge_for_reliable_and_explainable_offline_evaluation_in_top_k_rec/">    <span class="related-paper-title">LLM-as-a-Judge for Reliable and Explainable Offline Evaluation in Top-K Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/following_the_eye_tracking_evidence_established_web_search_assumptions_fail/">    <span class="related-paper-title">Following the Eye-Tracking Evidence: Established Web-Search Assumptions Fail in Carousel Interfaces</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

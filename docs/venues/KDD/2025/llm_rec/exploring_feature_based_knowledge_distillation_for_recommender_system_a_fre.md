@@ -135,3 +135,16 @@ SimpleX 骨干上 FreqD 同样全面最优（Gowalla R@20 0.1739，+7.28%），�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两个定理与等价性证明链条完整，FitNet 特例关系阐述清晰，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源，仅增一次稀疏滤波，10% 参数逼近教师精度，压缩收益直接可落地）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/llm_rec/preference_consistent_knowledge_distillation_for_recommender_system/">    <span class="related-paper-title">Preference-Consistent Knowledge Distillation for Recommender System</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/llm_rec/rejuvenating_cross_entropy_loss_in_knowledge_distillation_for_recommender_s/">    <span class="related-paper-title">Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/d2k_turning_historical_data_into_retrievable_knowledge_for_recommender_syst/">    <span class="related-paper-title">D2K: Turning Historical Data into Retrievable Knowledge for Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/continual_recommender_systems/">    <span class="related-paper-title">Continual Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/llm_rec/balancing_fine_tuning_and_rag_a_hybrid_strategy_for_dynamic_llm_recommendat/">    <span class="related-paper-title">Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates</span>    <span class="related-paper-meta">RecSys · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

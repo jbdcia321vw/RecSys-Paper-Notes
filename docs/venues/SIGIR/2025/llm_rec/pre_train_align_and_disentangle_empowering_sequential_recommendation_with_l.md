@@ -139,3 +139,16 @@ $$o_{\text{id}}=f_{\text{id}}(\{h_i^c\}),\quad o_{\text{align}}=f_{\text{align}}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （MK-MMD 与三专家公式定义清晰、核参数交代明确，Phase 2/3 中嵌入冻结策略的表述略分散需对照图 1 阅读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （推理完全脱离 LLM、代码开源、模型无关可插拔，但三阶段训练管线与双嵌入表带来额外工程成本）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/generative_rec/empowering_large_language_model_for_sequential_recommendation_via_multimoda/">    <span class="related-paper-title">Empowering Large Language Model for Sequential Recommendation via Multimodal Embeddings and Semantic IDs</span>    <span class="related-paper-meta">CIKM · 2025 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/llm_rec/empowering_compact_llms_with_fusion_of_layer_wise_exits_for_recommendation/">    <span class="related-paper-title">Empowering Compact LLMs with Fusion of Layer-wise Exits for Recommendation</span>    <span class="related-paper-meta">ICDM · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/llm_rec/hsuga_llm_enhanced_recommendation_with_hierarchical_semantic_understanding_/">    <span class="related-paper-title">HSUGA: LLM-Enhanced Recommendation with Hierarchical Semantic Understanding and Group-Aware Alignment</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+</div>
+<!-- related-papers:end -->

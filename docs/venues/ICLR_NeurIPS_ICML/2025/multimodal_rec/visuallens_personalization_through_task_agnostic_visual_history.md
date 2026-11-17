@@ -128,3 +128,16 @@ VisualLens(8B) 较 UniMP 在 Hit@3 上提升 **+4.8% (GR-V) / +10.6% (Yelp-V)**�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （流程与公式清晰，损失定义简洁；理论分析较少，主要靠消融支撑设计合理性）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （8B 模型+64 图网格推理开销可观，未开源，但模块化设计与检索降噪思路对工业多图画像有直接借鉴）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TORS/2025/debias_fairness_industrial/impression_aware_recommender_systems/">    <span class="related-paper-title">Impression-Aware Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/multimodal_rec/formalizing_multimedia_recommendation_through_multimodal_deep_learning/">    <span class="related-paper-title">Formalizing Multimedia Recommendation through Multimodal Deep Learning</span>    <span class="related-paper-meta">ACM TORS · 2025 · MM</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/do_we_really_need_specialization_evaluating_generalist_text_embeddings_for_/">    <span class="related-paper-title">Do We Really Need Specialization? Evaluating Generalist Text Embeddings for Zero-Shot Recommendation and Search</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/poi_spatiotemporal_rec/point_of_interest_recommendation_pitfalls_and_viable_solutions/">    <span class="related-paper-title">Point of Interest Recommendation: Pitfalls and Viable Solutions</span>    <span class="related-paper-meta">ACM TORS · 2026 · POI / Debias</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2026/graph_rec/cpgrec_a_balance_oriented_framework_for_personalized_video_game_recommendat/">    <span class="related-paper-title">CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations</span>    <span class="related-paper-meta">ACM TOIS · 2026 · Graph / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.50</span>  </a>
+</div>
+<!-- related-papers:end -->

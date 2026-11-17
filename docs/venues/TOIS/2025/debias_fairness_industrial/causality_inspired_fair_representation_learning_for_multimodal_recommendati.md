@@ -128,3 +128,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （因果图与公式定义清晰、复杂度分析完整；部分符号在正文与算法间略有冗余）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、基于 MMRec 框架、复杂度与基础对抗方法同阶；两阶段训练与攻击者评估的工程成本需权衡）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TORS/2025/debias_fairness_industrial/dynamic_fairness_aware_recommendation_through_multi_agent_social_choice/">    <span class="related-paper-title">Dynamic Fairness-aware Recommendation through Multi-agent Social Choice</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/multimodal_rec/formalizing_multimedia_recommendation_through_multimodal_deep_learning/">    <span class="related-paper-title">Formalizing Multimedia Recommendation through Multimodal Deep Learning</span>    <span class="related-paper-meta">ACM TORS · 2025 · MM</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../TMM/2026/multimodal_rec/cross_modal_attention_network_with_dual_graph_learning_in_multimodal_recomm/">    <span class="related-paper-title">Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation</span>    <span class="related-paper-meta">IEEE TMM · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../cross_domain_multi_scenario/causal_deconfounding_via_confounder_disentanglement_for_dual_target_cross_d/">    <span class="related-paper-title">Causal Deconfounding via Confounder Disentanglement for Dual-Target Cross-Domain Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

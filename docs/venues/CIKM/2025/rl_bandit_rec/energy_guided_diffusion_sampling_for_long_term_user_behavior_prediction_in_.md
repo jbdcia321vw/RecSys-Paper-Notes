@@ -149,3 +149,16 @@ VirtualTB 上 100,000 步平均 CTR（图 3c）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （扩散步与轨迹步的符号区分交代清楚，能量函数推导完整，部分公式排版略密）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （可插拔性强、思路易复现，但 100 步扩散推理延迟与未开源是落地短板）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/rl_bandit_rec/large_language_model_driven_policy_exploration_for_recommender_systems/">    <span class="related-paper-title">Large Language Model driven Policy Exploration for Recommender Systems</span>    <span class="related-paper-meta">WSDM · 2025 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/rl_bandit_rec/beyond_static_llm_policies_imitation_enhanced_reinforcement_learning_for_re/">    <span class="related-paper-title">Beyond Static LLM Policies: Imitation-Enhanced Reinforcement Learning for Recommendation</span>    <span class="related-paper-meta">ICDM · 2025 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/on_efficiency_effectiveness_trade_off_of_diffusion_based_recommenders/">    <span class="related-paper-title">On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/rl_bandit_rec/reward_balancing_revisited_enhancing_offline_reinforcement_learning_for_rec/">    <span class="related-paper-title">Reward Balancing Revisited: Enhancing Offline Reinforcement Learning for Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/rl_bandit_rec/darlr_dual_agent_offline_reinforcement_learning_for_recommender_systems_wit/">    <span class="related-paper-title">DARLR: Dual-Agent Offline Reinforcement Learning for Recommender Systems with Dynamic Reward</span>    <span class="related-paper-meta">SIGIR · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

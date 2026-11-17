@@ -142,3 +142,16 @@ OpenDialKG 上 ChatGPT 达 R@1/R@10/R@50 = 0.403/0.690/0.900，剔除泄漏后�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （框架叙述清楚、案例丰富，但公式多为插件接口的符号化描述，缺少形式化定义与复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与 Web demo 已开源、免训练即插即用，可直接用于 CRS 离线评估与对话数据合成，但 LLM 调用成本需工程优化）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../recusersim_a_realistic_and_diverse_user_simulator_for_evaluating_conversati/">    <span class="related-paper-title">RecUserSim: A Realistic and Diverse User Simulator for Evaluating Conversational Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.83</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/agent_conversational_rec/usersimcrs_v2_simulation_based_evaluation_for_conversational_recommender_sy/">    <span class="related-paper-title">UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.82</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/agent_conversational_rec/interplay_training_independent_simulators_for_reference_free_conversational/">    <span class="related-paper-title">Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.80</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/agent_conversational_rec/llm_powered_user_simulator_for_recommender_system/">    <span class="related-paper-title">LLM-Powered User Simulator for Recommender System</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR-AP/2025/agent_conversational_rec/limitations_of_current_evaluation_practices_for_conversational_recommender_/">    <span class="related-paper-title">Limitations of Current Evaluation Practices for Conversational Recommender Systems and the Potential of User Simulation</span>    <span class="related-paper-meta">SIGIR-AP · 2025 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+</div>
+<!-- related-papers:end -->

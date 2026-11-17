@@ -129,3 +129,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （四数据集 + 5 随机种子 + 配对 t 检验 + 六变体消融 + 融合策略/聚合策略/超参三组专项分析，较完整；扣分在缺时间切分与部分基线缺失）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （符号表、算法伪代码、复杂度推导齐备，公式编号规范；RCA 中 $C^m$ 的语义解释略偏启发式，缺理论收敛性讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、基于 MMRec 框架易复现，Electronics 单 epoch 17.54s 可接受；但 $O(N^2)$ 项限制超大规模部署，需工程侧稀疏化改造）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/collaborative_filtering/lightweight_embeddings_with_graph_rewiring_for_collaborative_filtering/">    <span class="related-paper-title">Lightweight Embeddings with Graph Rewiring for Collaborative Filtering</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/multimodal_rec/formalizing_multimedia_recommendation_through_multimodal_deep_learning/">    <span class="related-paper-title">Formalizing Multimedia Recommendation through Multimodal Deep Learning</span>    <span class="related-paper-meta">ACM TORS · 2025 · MM</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/debias_fairness_industrial/causality_inspired_fair_representation_learning_for_multimodal_recommendati/">    <span class="related-paper-title">Causality-Inspired Fair Representation Learning for Multimodal Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Debias / MM</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/sequential_rec/learning_robust_sequential_recommenders_through_confident_soft_labels/">    <span class="related-paper-title">Learning Robust Sequential Recommenders through Confident Soft Labels</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -124,3 +124,17 @@ $$\min_{\mathbf{P}\geq 0}\ \langle \mathbf{P},\text{Cost}\rangle+\text{KL}(\math
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 × 五骨干 × 五类公平指标 + 消融 + 效率分析齐全，但缺线上验证与冷启动划分）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （定理证明简洁有力，三阶段模块边界清晰；部分符号如 $\lambda_{\text{virtual}}$与$\lambda_{\text{rec}}$ 在正文与图中命名略有不一致）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （模型无关插件、推理零开销、训练仅增约 3%、代码已开源，可直接挂载到现有 POI 推荐管线）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/cross_domain_multi_scenario/leave_no_one_behind_fairness_aware_cross_domain_recommender_systems_for_non/">    <span class="related-paper-title">Leave No One Behind: Fairness-Aware Cross-Domain Recommender Systems for Non-Overlapping Users</span>    <span class="related-paper-meta">RecSys · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/poi_spatiotemporal_rec/spot_trip_dual_preference_driven_out_of_town_trip_recommendation/">    <span class="related-paper-title">SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · POI / Graph</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/fairsort_learning_to_fair_rank_for_personalized_recommendations_in_two_side/">    <span class="related-paper-title">FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/debias_fairness_industrial/post_hoc_provider_fairness_adaptation_via_hierarchical_exposure_alignment/">    <span class="related-paper-title">Post-hoc Provider Fairness Adaptation via Hierarchical Exposure Alignment</span>    <span class="related-paper-meta">SIGIR · 2026 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/poi_spatiotemporal_rec/adaptive_location_hierarchy_learning_for_long_tailed_mobility_prediction/">    <span class="related-paper-title">Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · POI / Cold</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+</div>
+<!-- related-papers:end -->

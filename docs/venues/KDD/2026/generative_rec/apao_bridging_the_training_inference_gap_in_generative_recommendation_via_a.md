@@ -129,3 +129,17 @@ Beauty + Llama 骨干（NDCG@10）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （4 数据集 × 2 骨干 × 5 基线 + 消融/分词器鲁棒性/beam 可扩展性/效率/线上 A/B 齐全，但缺 Full-Ranking 对照与 hard negative 探索）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （全库 vs. Beam 的成功条件对比推导清晰，KKT 闭式解与复杂度分析完整，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （pointwise 变体训练开销与 CE 持平、推理零改动，已在微信公众平台上线 +0.9% pCTR，代码与配置全开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/bear_towards_beam_search_aware_optimization_for_recommendation_with_large_l/">    <span class="related-paper-title">BEAR: Towards Beam-Search-Aware Optimization for Recommendation with Large Language Models</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/bi_level_optimization_for_generative_recommendation_bridging_tokenization_a/">    <span class="related-paper-title">Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/learning_from_unreachable_rewards_hint_conditioned_reinforcement_learning_f/">    <span class="related-paper-title">Learning from Unreachable Rewards: Hint-Conditioned Reinforcement Learning for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / RL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/genrec_a_preference_oriented_generative_framework_for_large_scale_recommend/">    <span class="related-paper-title">GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../collaborative_memory_augmentation_for_generative_recommendation/">    <span class="related-paper-title">Collaborative Memory Augmentation for Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

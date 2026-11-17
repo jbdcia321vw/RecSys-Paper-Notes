@@ -134,3 +134,17 @@ $$\mathbf{S}_{b}=\tanh\big(\mathbf{E}^{clean}_{global}\mathbf{W}^{(b)}_{g}+\math
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三数据集 + 全库排序 + 11 个基线 + $p<0.05$ 显著性 + 噪声鲁棒性与谱策略消融齐全，扣分在于缺少线上 A/B 与更大规模工业图验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两阶段动机-算子-直觉对应工整，复杂度分析与运行时对比到位；但 $d_f$ 与对角假设的合理性论证偏简，频域语义解释依赖附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源，FFT 为 $O(d\log d)$且无需特征分解，27 轮即收敛、单轮训练远快于对比的对比学习基线，工程友好；短板是$\alpha$ 需逐场景调参）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/hierarchical_graph_information_bottleneck_for_multi_behavior_recommendation/">    <span class="related-paper-title">Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/graph_rec/beyond_observed_auxiliary_relations_environment_conditioned_modeling_for_mu/">    <span class="related-paper-title">Beyond Observed Auxiliary Relations: Environment-Conditioned Modeling for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · Graph / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/mixrec_heterogeneous_graph_collaborative_filtering/">    <span class="related-paper-title">MixRec: Heterogeneous Graph Collaborative Filtering</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/multi_modal_multi_behavior_sequential_recommendation_with_conditional_diffu/">    <span class="related-paper-title">Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/gcib_graph_contrastive_information_bottleneck_for_multi_behavior_recommenda/">    <span class="related-paper-title">GCIB: Graph Contrastive Information Bottleneck for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

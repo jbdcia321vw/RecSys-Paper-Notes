@@ -131,3 +131,17 @@ $$\mathcal{L}_{total}=\lambda_1\mathcal{L}_{ret}+\lambda_2\mathcal{L}_{gen}+\lam
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （Full-Ranking + 工业级 100M 物品集 + 线上 A/B 三重验证较扎实，公开集缺显著性检验与采样协议对比）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三大设计问题驱动叙事、公式与损失定义完整，融合网络 $f_{fusion}$ 的具体结构未展开）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （70ms 延迟、确定性列表长度控制与线上正向收益，工程价值突出；可惜暂未开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/efficient_inference_for_large_language_model_based_generative_recommendatio/">    <span class="related-paper-title">Efficient Inference for Large Language Model-based Generative Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/killing_two_birds_with_one_stone_unifying_retrieval_and_ranking_with_a_sing/">    <span class="related-paper-title">Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/generative_rec/inductive_generative_recommendation_via_retrieval_based_speculation/">    <span class="related-paper-title">Inductive Generative Recommendation via Retrieval-based Speculation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/efficiency_unleashed_inference_acceleration_for_llm_based_recommender_syste/">    <span class="related-paper-title">Efficiency Unleashed: Inference Acceleration for LLM-based Recommender Systems with Speculative Decoding</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/genrec_a_preference_oriented_generative_framework_for_large_scale_recommend/">    <span class="related-paper-title">GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

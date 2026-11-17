@@ -128,3 +128,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （架构与公式表述清晰，但 4eMM/4tMM、3eMM/3tMM 记号混用，表格 Tune/MLP 列语义未明确定义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （Cosine + FAISS 百万级索引可直接落地，3-tower 降本结论明确；但模型代码未开源，仅索引库可参考）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../hcmrm_a_high_consistency_multimodal_relevance_model_for_search_ads/">    <span class="related-paper-title">HCMRM: A High-Consistency Multimodal Relevance Model for Search Ads</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/vl_clip_enhancing_multimodal_recommendations_via_visual_grounding_and_llm_a/">    <span class="related-paper-title">VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/multimodal_rec/native_multimodal_representation_learning_for_click_through_rate_prediction/">    <span class="related-paper-title">Native Multimodal Representation Learning for Click-Through Rate Prediction in E-Commerce Scenarios</span>    <span class="related-paper-meta">CIKM · 2026 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/image_seeking_intent_prediction_for_cross_device_product_search/">    <span class="related-paper-title">Image-Seeking Intent Prediction for Cross-Device Product Search</span>    <span class="related-paper-meta">RecSys · 2025 · MM / CRS</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/multimodal_rec/text_guided_visual_representation_learning_for_robust_multimodal_e_commerce/">    <span class="related-paper-title">Text-Guided Visual Representation Learning for Robust Multimodal E-Commerce Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

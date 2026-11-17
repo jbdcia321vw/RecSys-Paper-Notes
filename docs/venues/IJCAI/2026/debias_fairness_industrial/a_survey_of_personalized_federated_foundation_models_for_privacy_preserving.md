@@ -113,3 +113,17 @@ $$\phi_g^{t+1}\leftarrow\phi_g^{t}-\eta\cdot\mathcal{G}_{\perp}\big(\{\Delta\phi
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐ （无任何自建实验与数值验证，仅提出双指标评测倡议，实证支撑薄弱）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （符号体系统一、五类开放问题均给出形式化表述，分类学清晰；部分算子停留于记号层面未展开）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （无开源代码，FM 全量载入与通信开销被作者自认为硬约束，但语义过滤聚合对合规场景具直接参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/personalized_recommendation_models_in_federated_settings_a_survey/">    <span class="related-paper-title">Personalized Recommendation Models in Federated Settings: A Survey</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.87</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/learning_evolving_preferences_a_federated_continual_framework_for_user_cent/">    <span class="related-paper-title">Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/debias_fairness_industrial/a_federated_framework_for_llm_based_recommendation/">    <span class="related-paper-title">A Federated Framework for LLM-based Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/multifaceted_user_modeling_in_recommendation_a_federated_foundation_models_/">    <span class="related-paper-title">Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../TMM/2025/cross_domain_multi_scenario/federated_user_preference_modeling_for_privacy_preserving_cross_domain_reco/">    <span class="related-paper-title">Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation</span>    <span class="related-paper-meta">IEEE TMM · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

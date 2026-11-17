@@ -122,3 +122,17 @@ $$p_t(i)=\frac{1}{K+\gamma_m(\hat{\mu}_t(x_t,\hat{b}_t)-\hat{\mu}_t(x_t,i))},\qu
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （真实临床数据有说服力，但仅单数据集、$K=3$，缺大规模仿真与显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （DBIC 定义清晰、定理证明完整，附录含完整遗憾分解与 Ridge 预测误差界）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （模块化设计易接入现有 oracle，但 $K^3$ 复杂度与未开源限制大规模部署）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/rl_bandit_rec/preference_is_more_than_comparisons_rethinking_dueling_bandits_with_augment/">    <span class="related-paper-title">Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · RL / Cold</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/rl_bandit_rec/exploitation_over_exploration_unmasking_the_bias_in_linear_bandit_recommend/">    <span class="related-paper-title">Exploitation Over Exploration: Unmasking the Bias in Linear Bandit Recommender Offline Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/rl_bandit_rec/off_policy_learning_with_limited_supply/">    <span class="related-paper-title">Off-Policy Learning with Limited Supply</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/rl_bandit_rec/learning_peer_influence_probabilities_with_linear_contextual_bandits/">    <span class="related-paper-title">Learning Peer Influence Probabilities with Linear Contextual Bandits</span>    <span class="related-paper-meta">KDD · 2026 · RL / Social</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/rl_bandit_rec/reward_balancing_revisited_enhancing_offline_reinforcement_learning_for_rec/">    <span class="related-paper-title">Reward Balancing Revisited: Enhancing Offline Reinforcement Learning for Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

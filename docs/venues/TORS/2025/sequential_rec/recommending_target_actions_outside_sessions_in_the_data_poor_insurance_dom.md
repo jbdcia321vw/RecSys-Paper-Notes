@@ -128,3 +128,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三种编码 × 三种损失的组合表述清晰，Weibull 删失似然推导完整，超参与阈值估计过程透明）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与数据全开源，单层 GRU 推理开销极低，10 天会话阈值用 EM 拟合 GMM 自动估计，工程可复制性强）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/mitigating_propensity_bias_of_large_language_models_for_recommender_systems/">    <span class="related-paper-title">Mitigating Propensity Bias of Large Language Models for Recommender Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/cross_domain_multi_scenario/causal_deconfounding_via_confounder_disentanglement_for_dual_target_cross_d/">    <span class="related-paper-title">Causal Deconfounding via Confounder Disentanglement for Dual-Target Cross-Domain Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/multi_task_reranking/user_invariant_preference_learning_for_multi_behavior_recommendation/">    <span class="related-paper-title">User Invariant Preference Learning for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · MTL / SSL</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../a_survey_on_intent_aware_recommender_systems/">    <span class="related-paper-title">A Survey on Intent-aware Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · Seq / CRS</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/agent_conversational_rec/vague_preference_policy_learning_for_conversational_recommendation/">    <span class="related-paper-title">Vague Preference Policy Learning for Conversational Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

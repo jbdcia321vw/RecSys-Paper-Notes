@@ -129,3 +129,16 @@ $$s(u,i)=(1-\lambda)\cdot s_{rel}(u,i)+\lambda\cdot s_{div}(u,i),\quad s_{div}(u
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （框架图与公式清晰，影响力定义有推导支撑，符号表完备；部分实现细节下放附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、骨干可插拔、推理延迟接近传统方法，但离线 LLM 批处理成本与树维护需工程权衡）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/llm_rec/dlcrec_a_novel_approach_for_managing_diversity_in_llm_based_recommender_sys/">    <span class="related-paper-title">DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems</span>    <span class="related-paper-meta">WSDM · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/bridging_semantic_understanding_and_popularity_bias_with_llms/">    <span class="related-paper-title">Bridging Semantic Understanding and Popularity Bias with LLMs</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/user_feedback_alignment_for_llm_powered_exploration_in_large_scale_recommen/">    <span class="related-paper-title">User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/how_to_diversify_any_personalized_recommender/">    <span class="related-paper-title">How to Diversify any Personalized Recommender?</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/augmenting_sequential_recommendation_with_balanced_relevance_and_diversity/">    <span class="related-paper-title">Augmenting Sequential Recommendation with Balanced Relevance and Diversity</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

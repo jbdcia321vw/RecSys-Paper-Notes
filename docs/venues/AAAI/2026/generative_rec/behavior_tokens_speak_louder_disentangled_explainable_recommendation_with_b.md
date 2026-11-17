@@ -120,3 +120,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （三数据集 + 跨骨干 + 消融较完整，但缺排序指标、无显著性检验、零样本定义偏窄）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与符号清晰、动机图直观，部分符号如 $q$与$c$ 的维度记号略混）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、LLM 冻结 + 6 token 推理开销低，但依赖外部 LLM 抽取意图增加流水线复杂度）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/generative_rec/recgpt_a_foundation_model_for_sequential_recommendation/">    <span class="related-paper-title">RecGPT: A Foundation Model for Sequential Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/learning_decomposed_contextual_token_representations_from_pretrained_and_co/">    <span class="related-paper-title">Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../cold_start_rec/motorec_sparse_regularized_multimodal_tokenization_for_cold_start_recommend/">    <span class="related-paper-title">MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/generative_archetype_grounded_item_representations_for_sequential_recommend/">    <span class="related-paper-title">Generative Archetype-Grounded Item Representations for Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

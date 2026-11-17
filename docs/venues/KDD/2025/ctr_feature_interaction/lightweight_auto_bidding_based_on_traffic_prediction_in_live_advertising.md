@@ -141,3 +141,16 @@ $$bid_i^*=\frac{C_u\cdot obj_i + C_u q_u^* - C_l q_l^*}{p^*+q_u^*-q_l^*}$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （对偶推导、定理 1 误差界、投影梯度收敛性证明完整，附录严谨；部分符号在正文与附录间略有跳转）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在阿里直播广告全量部署，80k QPS 轻量推理，线上 GMV +4.28%，工程实现细节与灾备/预扣费机制描述详实，落地价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/bat_benchmark_for_auto_bidding_task/">    <span class="related-paper-title">BAT: Benchmark for Auto-bidding Task</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/rl_bandit_rec/ahbid_an_adaptable_hierarchical_bidding_framework_for_cross_channel_adverti/">    <span class="related-paper-title">AHBid: An Adaptable Hierarchical Bidding Framework for Cross-Channel Advertising</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/rl_bandit_rec/expert_guided_diffusion_planner_for_auto_bidding/">    <span class="related-paper-title">Expert-Guided Diffusion Planner for Auto-bidding</span>    <span class="related-paper-meta">CIKM · 2025 · RL / GenRec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../rl_bandit_rec/an_adaptable_budget_planner_for_enhancing_budget_constrained_auto_bidding_i/">    <span class="related-paper-title">An Adaptable Budget Planner for Enhancing Budget-Constrained Auto-Bidding in Online Advertising</span>    <span class="related-paper-meta">KDD · 2025 · RL / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/rl_bandit_rec/learning_personalized_ad_impact_via_contextual_reinforcement_learning_under/">    <span class="related-paper-title">Learning Personalized Ad Impact via Contextual Reinforcement Learning under Delayed Rewards</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · RL / CTR</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -128,3 +128,16 @@ Phase 1（生成新闻进入候选池）下 RRA 相对基线的变化（Ratio@5 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RRA 定义简洁、阶段划分清晰，机制解释以相关性为主、缺因果验证）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （数据集与仿真流程对平台可信治理有直接警示价值，但代码未开源、结论需线上验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/mitigating_propensity_bias_of_large_language_models_for_recommender_systems/">    <span class="related-paper-title">Mitigating Propensity Bias of Large Language Models for Recommender Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/enhancing_embedding_representation_stability_in_recommendation_systems_with/">    <span class="related-paper-title">Enhancing Embedding Representation Stability in Recommendation Systems with Semantic ID</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/cold_start_rec/data_scarcity_in_recommendation_systems_a_survey/">    <span class="related-paper-title">Data Scarcity in Recommendation Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2025 · Cold / SSL</span>    <span class="related-paper-score">语义相似度 0.50</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/one_model_for_all_large_language_models_are_domain_agnostic_recommendation_/">    <span class="related-paper-title">One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Cross</span>    <span class="related-paper-score">语义相似度 0.49</span>  </a>
+</div>
+<!-- related-papers:end -->

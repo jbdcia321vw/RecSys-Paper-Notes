@@ -135,3 +135,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三类任务损失与采样校正公式定义清晰、符号统一，工程算法伪代码完整，理论分析偏薄）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码已开源，Grogu 引擎与 chunked softmax 直接可用，线上 2.5% 全站 Repin 提升是硬证据）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/cross_domain_multi_scenario/rankgraph_unified_heterogeneous_graph_learning_for_cross_domain_recommendat/">    <span class="related-paper-title">RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/cross_domain_multi_scenario/adaptive_graph_integration_for_cross_domain_recommendation_via_heterogeneou/">    <span class="related-paper-title">Adaptive Graph Integration for Cross-Domain Recommendation via Heterogeneous Graph Coordinators</span>    <span class="related-paper-meta">SIGIR · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/graph_rec/contextgnn_beyond_two_tower_recommendation_systems/">    <span class="related-paper-title">ContextGNN: Beyond Two-Tower Recommendation Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Graph / CF</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/decoupled_entity_representation_learning_for_pinterest_ads_ranking/">    <span class="related-paper-title">Decoupled Entity Representation Learning for Pinterest Ads Ranking</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../2026/generative_rec/breaking_the_likelihood_trap_consistent_generative_recommendation_with_grap/">    <span class="related-paper-title">Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

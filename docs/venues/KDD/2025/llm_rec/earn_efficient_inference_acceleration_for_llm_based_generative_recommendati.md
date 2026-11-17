@@ -131,3 +131,16 @@ LC-Rec + Qwen2.5-7B 上 EARN 同样取得 2.71–3.11× 加速、66.7–75.2% ca
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （FLOPs 与 KV Cache 复杂度推导清晰，$\Gamma_{\text{attn}}\approx k/N$、$\Omega\approx N/k$ 结论直观，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、无需改模型结构、默认超参启发式明确，3.79× 加速与 80% cache 缩减对毫秒级推荐场景直接可用）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/sequential_rec/massive_memorization_with_hundreds_of_trillions_of_parameters_for_sequentia/">    <span class="related-paper-title">Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/modular_representation_compression_adapting_llms_for_efficient_and_effectiv/">    <span class="related-paper-title">Modular Representation Compression: Adapting LLMs for Efficient and Effective Recommendations</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / CTR</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../lost_in_sequence_do_large_language_models_understand_sequential_recommendat/">    <span class="related-paper-title">Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../2026/generative_rec/collaborative_memory_augmentation_for_generative_recommendation/">    <span class="related-paper-title">Collaborative Memory Augmentation for Generative Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/decoding_in_latent_spaces_for_efficient_inference_in_llm_based_recommendati/">    <span class="related-paper-title">Decoding in Latent Spaces for Efficient Inference in LLM-based Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

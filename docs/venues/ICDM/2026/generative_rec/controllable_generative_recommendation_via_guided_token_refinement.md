@@ -135,3 +135,17 @@ $$x_{t+1}\leftarrow\arg\max_{x\in\mathcal{V}^L}p_\theta\big(x\mid x_t\odot(1-m_t
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （三数据集 + 消融 + Pareto 前沿 + 参数敏感性较完整，但候选池内排序与品类覆盖率代理削弱了结论强度）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式推导清晰、控制分数与 Trie 约束定义严谨，问题形式化 Eq.(1) 的"效用+可控性"分解很干净）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （免训练实时控制、$T=4$ 收敛、代码开源，对线上动态调权场景价值高，但 beam=50 的推理开销需进一步压测）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/generative_rec/generating_long_semantic_ids_in_parallel_for_recommendation/">    <span class="related-paper-title">Generating Long Semantic IDs in Parallel for Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/empowering_cross_domain_sequential_recommendation_with_hybrid_tokenization_/">    <span class="related-paper-title">Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cross</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/genrec_a_preference_oriented_generative_framework_for_large_scale_recommend/">    <span class="related-paper-title">GenRec: A Preference-Oriented Generative Framework for Large-Scale Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/learning_from_unreachable_rewards_hint_conditioned_reinforcement_learning_f/">    <span class="related-paper-title">Learning from Unreachable Rewards: Hint-Conditioned Reinforcement Learning for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / RL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/generative_rec/recgpt_a_foundation_model_for_sequential_recommendation/">    <span class="related-paper-title">RecGPT: A Foundation Model for Sequential Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

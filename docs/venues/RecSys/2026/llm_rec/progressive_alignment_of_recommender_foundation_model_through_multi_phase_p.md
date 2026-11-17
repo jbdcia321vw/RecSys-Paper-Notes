@@ -131,3 +131,17 @@ $$\mathcal{L}(\theta)=-\mathbb{E}_k\Big[\min\big(\rho_k(\theta)A_k,\ \text{clip}
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （Full-Ranking 与 Funnel 双指标互补、离线消融覆盖全部设计选择、线上一个月 A/B 带显著性检验，但仅单平台且数据统计披露不足）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与算法伪代码完整、三阶段梯度流图示清晰，奖励模型与策略的符号区分严谨，缺少复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （来自 NAVER WEBTOON 真实生产系统，开源参考实现，线上指标全面正向，对工业界部署 FM 排序有直接参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../rl_bandit_rec/long_term_user_engagement_optimization_through_model_agnostic_downstream_re/">    <span class="related-paper-title">Long-term User Engagement Optimization through Model-agnostic Downstream Rewards Learning</span>    <span class="related-paper-meta">RecSys · 2026 · RL / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/multi_task_reranking/efficient_multi_task_prompt_tuning_for_recommendation/">    <span class="related-paper-title">Efficient Multi-task Prompt Tuning for Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/token_level_collaborative_alignment_for_llm_based_generative_recommendation/">    <span class="related-paper-title">Token-level Collaborative Alignment for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../generative_rec/towards_generalizable_and_efficient_large_scale_generative_recommenders/">    <span class="related-paper-title">Towards Generalizable and Efficient Large-Scale Generative Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/hierarchical_residual_policy_optimization_for_generative_recommendations/">    <span class="related-paper-title">Hierarchical Residual Policy Optimization for Generative Recommendations</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / RL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

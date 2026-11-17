@@ -131,3 +131,17 @@ $$Q_j=\{x_i\mid x_i\in D(X),\ (c^i_1,\dots,c^i_j)\in B_j\}$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （时间戳切分 + In-Sample/Unseen 子集拆解非常到位，消融覆盖推理与训练两层面，唯数据集限于 Amazon 单源）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （验证分数分段定义与复杂度分析清晰，$T\leq l$ 的迭代上界论证严谨，部分符号在正文与附录间略有重复）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （即插即用、代码开源、4 位语义 ID 下 1.7× 加速且最坏不慢于基线，可控归纳强度对上新运营极具吸引力）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/cold_start_rec/genrecedit_adapting_model_editing_for_generative_recommendation_with_cold_s/">    <span class="related-paper-title">GenRecEdit: Adapting Model Editing for Generative Recommendation with Cold-Start Items</span>    <span class="related-paper-meta">SIGIR · 2026 · Cold / GenRec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/bi_level_optimization_for_generative_recommendation_bridging_tokenization_a/">    <span class="related-paper-title">Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/sigma_a_semantic_grounded_instruction_driven_generative_multi_task_recommen/">    <span class="related-paper-title">SIGMA: A Semantic-Grounded Instruction-Driven Generative Multi-Task Recommender at AliExpress</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/generative_rec/killing_two_birds_with_one_stone_unifying_retrieval_and_ranking_with_a_sing/">    <span class="related-paper-title">Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model</span>    <span class="related-paper-meta">SIGIR · 2025 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/latent_residual_reasoning_for_ranking_in_generative_recommendation/">    <span class="related-paper-title">Latent Residual Reasoning for Ranking in Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

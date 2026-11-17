@@ -127,3 +127,17 @@ CTR（AUC，节选）：DCNv2 为 0.8024/0.8825/0.7297/0.7513/0.5323，ReasonRec
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （覆盖 5 数据集 4 任务 + 冷启动/时间漂移/多域三类挑战场景，消融与效率分析完整，但部分任务采用采样排序而非全库排序）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三阶段流水线叙述清晰、图示直观，EH 定义简洁；但核心公式偏少，委派阈值的理论依据与置信度校准细节略显单薄）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已计划部署于 Meta 生成式推理重排系统，38% VFLOPs 节省具现实意义；但未开源、依赖 7B VLM 与手工模板，复现门槛较高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/verifiable_reasoning_for_llm_based_generative_recommendation/">    <span class="related-paper-title">Verifiable Reasoning for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/cross_domain_multi_scenario/causal_deconfounding_via_confounder_disentanglement_for_dual_target_cross_d/">    <span class="related-paper-title">Causal Deconfounding via Confounder Disentanglement for Dual-Target Cross-Domain Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/reinforced_prompt_personalization_for_recommendation_with_large_language_mo/">    <span class="related-paper-title">Reinforced Prompt Personalization for Recommendation with Large Language Models</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/agent_conversational_rec/collab_rec_an_llm_based_agentic_framework_for_balancing_recommendations_in_/">    <span class="related-paper-title">Collab-Rec: An LLM-based Agentic Framework for Balancing Recommendations in Tourism</span>    <span class="related-paper-meta">ACM TORS · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/cofirec_coarse_to_fine_tokenization_for_generative_recommendation/">    <span class="related-paper-title">CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+</div>
+<!-- related-papers:end -->

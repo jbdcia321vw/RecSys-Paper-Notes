@@ -123,3 +123,16 @@ $\mathcal{L}_r=\sum_{i}\sum_{j}D_{KL}(Q_{i,j}\|P_{i,j})$，其中$q^{+}_{i,j}=\f
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （损失推导与符号定义清晰，权衡分析有预实验支撑，复杂度分析略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在十亿级平台全量部署、推理仅增双头 ANN，但无开源代码、私有数据难复现）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../synergizing_implicit_and_explicit_user_interests_a_multi_embedding_retrieva/">    <span class="related-paper-title">Synergizing Implicit and Explicit User Interests: A Multi-Embedding Retrieval Framework at Pinterest</span>    <span class="related-paper-meta">KDD · 2025 · CF / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/sequential_rec/user_long_term_multi_interest_retrieval_model_for_recommendation/">    <span class="related-paper-title">User Long-Term Multi-Interest Retrieval Model for Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Seq / CF</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/pi2i_a_personalized_item_based_collaborative_filtering_retrieval_framework/">    <span class="related-paper-title">PI2I: A Personalized Item-Based Collaborative Filtering Retrieval Framework</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../2026/llm_rec/improving_item_discoverability_in_e_commerce_search_via_related_intent_gene/">    <span class="related-paper-title">Improving Item Discoverability in e-Commerce Search via Related Intent Generation</span>    <span class="related-paper-meta">KDD · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/debias_fairness_industrial/llm_based_user_product_relevance_evaluation_for_dynamic_product_advertising/">    <span class="related-paper-title">LLM-based User-Product Relevance Evaluation for Dynamic Product Advertising</span>    <span class="related-paper-meta">CIKM · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -132,3 +132,16 @@ $$\mathcal{L}=\text{re-weight}(\mathcal{L}_{recon})+\mathcal{L}_{cate}+\lambda(\
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （扩散推导与损失定义规范，符号统一，但部分超参搜索空间在正文与附录间略有出入）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （推理期可调控对业务策略极友好，但多步去噪延迟与匿名代码仓库的可复现性打了折扣）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/llm_rec/dlcrec_a_novel_approach_for_managing_diversity_in_llm_based_recommender_sys/">    <span class="related-paper-title">DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems</span>    <span class="related-paper-meta">WSDM · 2025 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/tree_of_preferences_for_diversified_recommendation/">    <span class="related-paper-title">Tree of Preferences for Diversified Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2025/debias_fairness_industrial/how_to_diversify_any_personalized_recommender/">    <span class="related-paper-title">How to Diversify any Personalized Recommender?</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/personalized_image_generation_for_recommendations_beyond_catalogs/">    <span class="related-paper-title">Personalized Image Generation for Recommendations Beyond Catalogs</span>    <span class="related-paper-meta">RecSys · 2025 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/how_fair_is_your_diffusion_recommender_model/">    <span class="related-paper-title">How Fair is Your Diffusion Recommender Model?</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

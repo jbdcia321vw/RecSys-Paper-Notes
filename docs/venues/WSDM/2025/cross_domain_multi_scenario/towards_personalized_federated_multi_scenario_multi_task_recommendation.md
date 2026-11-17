@@ -137,3 +137,16 @@ AliExpress 消融（A1: 专家+塔全用 FedAvg；A2: 专家全参数 FedAvg；A
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式推导清晰，FedBN 仅与 $\beta_g$ 相关的结论有附录证明，但部分符号上下标混用、表格标题存在笔误）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与数据开源，架构可直接嵌入现有 MMoE 精排链路，但多客户端通信成本与服务器侧优化开销需进一步工程验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/cross_domain_multi_scenario/automated_information_flow_selection_for_multi_scenario_multi_task_recommen/">    <span class="related-paper-title">Automated Information Flow Selection for Multi-scenario Multi-task Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · Cross / MTL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/multi_task_reranking/efficient_multi_task_prompt_tuning_for_recommendation/">    <span class="related-paper-title">Efficient Multi-task Prompt Tuning for Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/multi_task_reranking/direct_routing_gradient_drgrad_a_personalized_information_surgery_for_multi/">    <span class="related-paper-title">Direct Routing Gradient (DRGrad): A Personalized Information Surgery for Multi-Task Learning (MTL) Recommendations</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/multi_task_reranking/mpformer_adaptive_framework_for_industrial_multi_task_personalized_sequenti/">    <span class="related-paper-title">MPFormer: Adaptive Framework for Industrial Multi-Task Personalized Sequential Retriever</span>    <span class="related-paper-meta">CIKM · 2025 · MTL / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multi_task_reranking/combinatorial_optimization_perspective_based_framework_for_multi_behavior_r/">    <span class="related-paper-title">Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · MTL / Graph</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

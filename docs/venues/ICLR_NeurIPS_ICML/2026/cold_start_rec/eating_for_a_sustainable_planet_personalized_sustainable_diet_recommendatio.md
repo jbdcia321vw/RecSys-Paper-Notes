@@ -124,3 +124,17 @@ Top-20 设置下逐模块移除：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （数据集构建扎实、消融完整，但划分策略与显著性检验未明确，NDCG 绝对值过低削弱结论稳健性）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （任务形式化与三模块推导清晰，约束-惩罚-损失的链条完整，附录补充充分）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （约束感知打分框架易迁移，但依赖 LLM 预处理构建指标、未开源、离线验证，落地需在线行为实验支撑）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2025/debias_fairness_industrial/bites_of_tomorrow_personalized_recommendations_for_a_healthier_and_greener_/">    <span class="related-paper-title">Bites of Tomorrow: Personalized Recommendations for a Healthier and Greener Plate</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multi_task_reranking/mopi_hfrs_a_multi_objective_personalized_health_aware_food_recommendation_s/">    <span class="related-paper-title">MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation</span>    <span class="related-paper-meta">KDD · 2025 · MTL / Graph</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/llm_rec/kerl_knowledge_enhanced_personalized_recipe_recommendation_using_large_lang/">    <span class="related-paper-title">KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/synthtrips_a_knowledge_grounded_framework_for_benchmark_query_generation_fo/">    <span class="related-paper-title">SynthTRIPs: A Knowledge-Grounded Framework for Benchmark Query Generation for Personalized Tourism Recommenders</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/a_non_parametric_choice_model_that_learns_how_users_choose_between_recommen/">    <span class="related-paper-title">A Non-Parametric Choice Model That Learns How Users Choose Between Recommended Options</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -137,3 +137,16 @@ $\hat{\boldsymbol{e}}_i=[\hat{\boldsymbol{e}}_{i1}^{beh},\dots,\hat{\boldsymbol{
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （双层优化与三个损失的符号体系清晰、算法伪代码完整，但部分符号如 $\Phi_t^n$与$\Phi_t$ 的关系表述略含混）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （模型无关、零在线微调、参数可预缓存，已在亿级用户系统上线并有 A/B 数据，代码开源，落地价值突出）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/on_inherited_popularity_bias_in_cold_start_item_recommendation/">    <span class="related-paper-title">On Inherited Popularity Bias in Cold-Start Item Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cold_start_rec/llm_reasoning_for_cold_start_item_recommendation/">    <span class="related-paper-title">LLM Reasoning for Cold-Start Item Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/continual_recommender_systems/">    <span class="related-paper-title">Continual Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/cold_start_rec/socripple_a_two_stage_framework_for_cold_start_video_recommendations/">    <span class="related-paper-title">SocRipple: A Two-Stage Framework for Cold-Start Video Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · Cold / Social</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/collaborative_filtering/a_learnable_fully_interacted_two_tower_model_for_pre_ranking_system/">    <span class="related-paper-title">A Learnable Fully Interacted Two-Tower Model for Pre-Ranking System</span>    <span class="related-paper-meta">SIGIR · 2025 · CF / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -126,3 +126,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Lemma/Proposition 推导简洁自洽，SCM 与 $do$-算子表述清晰，提示模板全文给出便于复现）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （在线开销与 LightGCN 同级、负样本可离线缓存，但 11B MLLM 预处理成本高且代码未开源，复现门槛偏高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/diversity_augmented_negative_sampling_for_implicit_collaborative_filtering/">    <span class="related-paper-title">Diversity-Augmented Negative Sampling for Implicit Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/multimodal_large_language_models_with_adaptive_preference_optimization_for_/">    <span class="related-paper-title">Multimodal Large Language Models with Adaptive Preference Optimization for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/multimodal_rec/vi_mmrec_similarity_aware_training_cost_free_virtual_user_item_interactions/">    <span class="related-paper-title">VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/intent_representation_learning_with_large_language_model_for_recommendation/">    <span class="related-paper-title">Intent Representation Learning with Large Language Model for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / SSL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/harnessing_multimodal_large_language_models_for_multimodal_sequential_recom/">    <span class="related-paper-title">Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

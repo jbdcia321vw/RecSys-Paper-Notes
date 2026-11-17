@@ -118,3 +118,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （5 周期 × 5 活跃度分组的持续演化协议设计细致，含梯度余弦与收敛曲线实证；扣分在于缺少显著性检验与方差报告）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （冲突比 $\rho$、收敛加速比、参数比三条定理推导干净，且明确将 Corollary 4.1 标注为“经验趋势而非保证”，学术诚实度高）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （参数不随用户增长、Top-K 检索开销极小、代码已开源，且记忆规模缩 16× 性能仅波动 ±0.4%，工程友好度突出）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/cofirec_coarse_to_fine_tokenization_for_generative_recommendation/">    <span class="related-paper-title">CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/llm_rec/principled_synthetic_data_enables_the_first_scaling_laws_for_llms_in_recomm/">    <span class="related-paper-title">Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/collaborative_filtering/enhancing_item_level_bundle_representation_for_bundle_recommendation/">    <span class="related-paper-title">Enhancing Item-level Bundle Representation for Bundle Recommendation</span>    <span class="related-paper-meta">ACM TORS · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/one_model_for_all_large_language_models_are_domain_agnostic_recommendation_/">    <span class="related-paper-title">One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Cross</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/enhancing_embedding_representation_stability_in_recommendation_systems_with/">    <span class="related-paper-title">Enhancing Embedding Representation Stability in Recommendation Systems with Semantic ID</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.51</span>  </a>
+</div>
+<!-- related-papers:end -->

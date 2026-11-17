@@ -123,3 +123,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （OMIE/DMIG/CMIC 公式链条完整、复杂度分析到位，扩散部分基本沿用 DDPM 标准记号，增量说明清楚）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、线上替换 SIM 即得 CTR +1.52%/CPM +1.10%、推理仅 +2ms，落地证据充分）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/ctr_feature_interaction/genci_generative_modeling_of_user_interest_shift_via_cohort_based_intent_le/">    <span class="related-paper-title">GenCI: Generative Modeling of User Interest Shift via Cohort-based Intent Learning for CTR Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / GenRec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/generative_rec/continuous_time_discrete_space_diffusion_model_for_recommendation/">    <span class="related-paper-title">Continuous-time Discrete-space Diffusion Model for Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · GenRec / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/multi_modal_multi_behavior_sequential_recommendation_with_conditional_diffu/">    <span class="related-paper-title">Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/diffusion_based_multi_modal_synergy_interest_network_for_click_through_rate/">    <span class="related-paper-title">Diffusion-based Multi-modal Synergy Interest Network for Click-through Rate Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/interest_changes_considering_user_interest_life_cycle_in_recommendation_sys/">    <span class="related-paper-title">Interest Changes: Considering User Interest Life Cycle in Recommendation System</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

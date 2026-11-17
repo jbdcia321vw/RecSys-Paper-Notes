@@ -125,3 +125,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （9 数据集、GTS + Full-Catalog 协议严谨，诊断指标设计合理；但缺在线 A/B 与训练期对照）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （混合比定义与分解推导清晰，明确声明非因果识别，边界界定诚实）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码开源、干预零训练成本，但直接部署收益有限，主要价值在诊断与调优启发）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/your_causal_self_attentive_recommender_hosts_a_lonely_neighborhood/">    <span class="related-paper-title">Your Causal Self-Attentive Recommender Hosts a Lonely Neighborhood</span>    <span class="related-paper-meta">WSDM · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2026/sequential_rec/revisiting_self_attentive_sequential_recommendation_beyond_the_llm_paradigm/">    <span class="related-paper-title">Revisiting Self-Attentive Sequential Recommendation Beyond the LLM Paradigm</span>    <span class="related-paper-meta">ICDM · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/sequential_rec/from_overlooked_to_explored_recovering_item_relations_via_mixture_of_perspe/">    <span class="related-paper-title">From Overlooked to Explored: Recovering Item Relations via Mixture of Perspectives for Sequential Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/the_pitfall_of_scaling_up_uncovering_and_mitigating_popularity_bias_amplifi/">    <span class="related-paper-title">The Pitfall of Scaling Up: Uncovering and Mitigating Popularity Bias Amplification in Scaling Transformer-based Recommenders</span>    <span class="related-paper-meta">KDD · 2026 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/temporal_linear_item_item_model_for_sequential_recommendation/">    <span class="related-paper-title">Temporal Linear Item-Item Model for Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2025 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

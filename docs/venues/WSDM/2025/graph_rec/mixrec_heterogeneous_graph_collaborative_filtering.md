@@ -124,3 +124,16 @@ Top-$N$ 细粒度（Tmall，HR）：MixRec 在 Top-1 达 0.1967，对比 EHCF �
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （式 (10)–(12) 的 GNN vs. 超图分解推导有说服力，符号统一；部分消融仅以柱状图呈现，缺精确数值）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源，训练/推理均快于同类 SOTA，超图构造为 $O((I+J)Ed)$ 可线性扩展，多行为电商场景可直接落地）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/hierarchical_graph_information_bottleneck_for_multi_behavior_recommendation/">    <span class="related-paper-title">Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/graph_rec/graph_cross_correlated_network_for_recommendation/">    <span class="related-paper-title">Graph Cross-Correlated Network for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Graph / CTR</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/graph_rec/intent_guided_heterogeneous_graph_contrastive_learning_for_recommendation/">    <span class="related-paper-title">Intent-guided Heterogeneous Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/graph_rec/dual_channel_multiplex_graph_neural_networks_for_recommendation/">    <span class="related-paper-title">Dual-Channel Multiplex Graph Neural Networks for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/collaborative_filtering/latent_factor_modeling_with_expert_network_for_multi_behavior_recommendatio/">    <span class="related-paper-title">Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -129,3 +129,16 @@ KDD 数据集，DCN-Mix 骨干，AUC：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （价值函数、定理与闭式解推导完整，附录含合成数据验证与收敛分析；部分符号 $v/u$ 混用需对照阅读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源，Raspberry Pi/Android 实测推理 0.02–0.04s、内存随稀疏率线性下降，一次归因覆盖全预算，端侧部署价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/plug_and_play_parameter_efficient_tuning_of_embeddings_for_federated_recomm/">    <span class="related-paper-title">Plug-and-Play Parameter-Efficient Tuning of Embeddings for Federated Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/secemb_sparsity_aware_secure_federated_learning_of_on_device_recommender_sy/">    <span class="related-paper-title">SecEmb: Sparsity-Aware Secure Federated Learning of On-Device Recommender System with Large Embedding</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/request_only_optimization_for_recommendation_systems/">    <span class="related-paper-title">Request-Only Optimization for Recommendation Systems</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/the_future_is_sparse_embedding_compression_for_scalable_retrieval_in_recomm/">    <span class="related-paper-title">The Future is Sparse: Embedding Compression for Scalable Retrieval in Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/tokens_are_all_you_need_dual_purpose_semantic_ids_for_achieving_llm_level_i/">    <span class="related-paper-title">Tokens are All You Need: Dual-purpose Semantic IDs for Achieving LLM-Level I/O Efficiency in Recommendation Systems</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

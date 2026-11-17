@@ -136,3 +136,17 @@ $k=100$ 贪心加边后的 PGI 降幅与副作用（表 3，节选）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （7 真实 + 3 合成网络、10/20 次重复、配对 $t$ 检验与 MPC 精确解对照完备，但缺少动态意见演化与大规模网络验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （从度量、谱界、SBM 到不可近似性的推导链条完整，Lemma 1 增量公式与复杂度分析清晰）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （贪心 + 批贪心可直接用于好友/关注推荐干预，$b=5$ 提供 2.5× 加速的实用折中；但未开源，且副作用中分歧度上升需产品侧权衡）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/graph_rec/collaborative_filtering_meets_spectrum_shift_connecting_user_item_interacti/">    <span class="related-paper-title">Collaborative Filtering Meets Spectrum Shift: Connecting User-Item Interaction with Graph-Structured Side Information</span>    <span class="related-paper-meta">KDD · 2025 · Graph / MM</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/social_group_rec/community_aware_social_community_recommendation/">    <span class="related-paper-title">Community-Aware Social Community Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Social / Graph</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/self_supervised_denoising/squeeze_and_excitation_a_weighted_graph_contrastive_learning_for_collaborat/">    <span class="related-paper-title">Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering</span>    <span class="related-paper-meta">SIGIR · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/social_group_rec/invariance_matters_empowering_social_recommendation_via_graph_invariant_lea/">    <span class="related-paper-title">Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning</span>    <span class="related-paper-meta">SIGIR · 2025 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/self_supervised_denoising/radar_relation_aware_diffusion_asymmetric_graph_contrastive_learning_for_re/">    <span class="related-paper-title">RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+</div>
+<!-- related-papers:end -->

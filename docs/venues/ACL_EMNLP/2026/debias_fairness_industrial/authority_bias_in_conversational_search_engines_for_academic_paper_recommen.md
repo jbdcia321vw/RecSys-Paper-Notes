@@ -126,3 +126,17 @@ $$\alpha(p_i)=\sum_{d=1}^{5}w_d\cdot\hat{x}_{i,d}$$
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （17,898 次观测、8 模型跨 7 家厂商、Wilson/McNemar/$\chi^2$ 多重检验与权重敏感性分析齐备，但限于单轮 Top-1 与单一学科）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （RQ 与指标一一对应、公式简洁、附录诊断详尽；复合权威分仅用于方向分析，边界交代清楚）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码与 20,148 条响应全量开源，"说做差距"与"反向失效"对生产环境去偏提示的设计有直接警示价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/exploring_the_escalation_of_source_bias_in_user_data_and_recommender_system/">    <span class="related-paper-title">Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/stereotype_or_personalization_user_identity_biases_chatbot_recommendations/">    <span class="related-paper-title">Stereotype or Personalization? User Identity Biases Chatbot Recommendations</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · Debias / CRS</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../ECIR/2026/llm_rec/scinup_natural_language_user_interest_profiles_for_scientific_literature_re/">    <span class="related-paper-title">SciNUP: Natural Language User Interest Profiles for Scientific Literature Recommendation</span>    <span class="related-paper-meta">ECIR · 2026 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/mitigating_popularity_bias_in_counterfactual_explanations_using_large_langu/">    <span class="related-paper-title">Mitigating Popularity Bias in Counterfactual Explanations using Large Language Models</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/bridging_passive_and_active_enhancing_conversation_starter_recommendation_v/">    <span class="related-paper-title">Bridging Passive and Active: Enhancing Conversation Starter Recommendation via Active Expression Modeling</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

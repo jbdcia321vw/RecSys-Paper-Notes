@@ -127,3 +127,16 @@ $\mathcal{L}_{Deso}=\lambda_2 D_{KL}(q_b\|p_b)+(1-\lambda_2)D_{KL}(\hat{q}\|\hat
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （Eq.3 的逐步拆解推导清晰，$q_b/\hat{q}$符号定义完整，个别记号如$F(q)$ 常数项说明略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （模型无关、零在线延迟、代码已开源，但离线标签传播在亿级用户上的工程成本需评估）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/multi_task_reranking/breaking_the_top_k_barrier_advancing_top_k_ranking_metrics_optimization_in_/">    <span class="related-paper-title">Breaking the Top-$K$Barrier: Advancing Top-$K$ Ranking Metrics Optimization in Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · MTL / CF</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/diversity_augmented_negative_sampling_for_implicit_collaborative_filtering/">    <span class="related-paper-title">Diversity-Augmented Negative Sampling for Implicit Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/rethinking_contrastive_learning_for_graph_collaborative_filtering_limitatio/">    <span class="related-paper-title">Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/self_supervised_denoising/hard_vs_noise_resolving_hard_noisy_sample_confusion_in_recommender_systems_/">    <span class="related-paper-title">Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · SSL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/msl_not_all_tokens_are_what_you_need_for_tuning_llm_as_a_recommender/">    <span class="related-paper-title">MSL: Not All Tokens Are What You Need for Tuning LLM as a Recommender</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

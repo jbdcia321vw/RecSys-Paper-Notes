@@ -112,3 +112,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （逻辑回归+稳健性检验+嵌入聚类复现较严谨，但样本量与截断问题削弱统计效力）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （统计报告规范、置信区间与 p 值齐全，局限讨论坦诚）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （公开可检索广告库与完整提示集，为后续监测提供可复现模板；但代理成本数百美元/月构成门槛）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/debias_fairness_industrial/stereotype_or_personalization_user_identity_biases_chatbot_recommendations/">    <span class="related-paper-title">Stereotype or Personalization? User Identity Biases Chatbot Recommendations</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · Debias / CRS</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/truthful_aggregation_of_llms_with_an_application_to_online_advertising/">    <span class="related-paper-title">Truthful Aggregation of LLMs with an Application to Online Advertising</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias / GenRec</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/palate_pretrained_autoregressive_latent_embeddings/">    <span class="related-paper-title">PALATE: Pretrained Autoregressive LATent Embeddings</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.49</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/u_sticker_a_large_scale_multi_domain_user_sticker_dataset_for_retrieval_and/">    <span class="related-paper-title">U-Sticker: A Large-Scale Multi-Domain User Sticker Dataset for Retrieval and Personalization</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.49</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/debias_fairness_industrial/adtec_a_unified_benchmark_for_evaluating_text_quality_in_search_engine_adve/">    <span class="related-paper-title">AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.49</span>  </a>
+</div>
+<!-- related-papers:end -->

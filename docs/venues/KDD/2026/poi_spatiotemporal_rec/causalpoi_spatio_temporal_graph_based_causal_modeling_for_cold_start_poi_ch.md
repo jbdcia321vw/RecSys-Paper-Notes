@@ -128,3 +128,17 @@ $$\mathcal{L}_{TC}=\frac{1}{n}\sum_i\left[\frac{1}{W}\sum_w(\hat{y}^{(i)}_{t,w}-
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/poi_spatiotemporal_rec/comapoi_a_collaborative_multi_agent_framework_for_next_poi_prediction_bridg/">    <span class="related-paper-title">CoMaPOI: A Collaborative Multi-Agent Framework for Next POI Prediction Bridging the Gap Between Trajectory and Language</span>    <span class="related-paper-meta">SIGIR · 2025 · POI / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/graph_representation_learning_via_causal_diffusion_for_out_of_distribution_/">    <span class="related-paper-title">Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/poi_spatiotemporal_rec/generative_spatiotemporal_intent_sequence_recommendation_via_implicit_reaso/">    <span class="related-paper-title">Generative Spatiotemporal Intent Sequence Recommendation via Implicit Reasoning in Amap</span>    <span class="related-paper-meta">RecSys · 2026 · POI / GenRec</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/llm_rec/predicting_user_behavior_in_smart_spaces_with_llm_enhanced_logs_and_persona/">    <span class="related-paper-title">Predicting User Behavior in Smart Spaces with LLM-Enhanced Logs and Personalized Prompts</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/sequential_rec/from_time_and_place_to_preference_llm_driven_geo_temporal_context_in_recomm/">    <span class="related-paper-title">From Time and Place to Preference: LLM-Driven Geo-Temporal Context in Recommendations</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.50</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -132,3 +132,17 @@ $\mathcal{L}=-\mathbb{E}_{(x,y_w,\mathcal{Y}_l)\sim\mathcal{D}_i}\Big[\log\sigma
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三公开集 + 13 基线 + 逐级消融 + 工业 A/B 全量部署，证据链完整；扣分在缺少 Full-Ranking 无偏协议与训练开销报告）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三级对齐叙事清晰、公式紧凑，Softmax-DPO 目标与两段式调度交代明确；部分符号如 $\mathcal{N}_u$ 与课程阈值定义略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （快手全量部署 +1.432% 收入验证真实价值，分词模块可离线预计算；但代码未开源、三级串行训练成本高，复现门槛偏高）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/token_level_collaborative_alignment_for_llm_based_generative_recommendation/">    <span class="related-paper-title">Token-level Collaborative Alignment for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2026/llm_rec/reason4rec_deliberative_user_preference_alignment_of_large_language_models_/">    <span class="related-paper-title">Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2026 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/every_preference_has_its_strength_injecting_ordinal_semantics_into_llm_base/">    <span class="related-paper-title">Every Preference Has Its Strength: Injecting Ordinal Semantics into LLM-Based Recommenders</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/l2rec_towards_dual_view_understanding_of_llms_for_personalized_recommendati/">    <span class="related-paper-title">L2Rec: Towards Dual-View Understanding of LLMs for Personalized Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/training_large_recommendation_models_via_graph_language_token_alignment/">    <span class="related-paper-title">Training Large Recommendation Models via Graph-Language Token Alignment</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

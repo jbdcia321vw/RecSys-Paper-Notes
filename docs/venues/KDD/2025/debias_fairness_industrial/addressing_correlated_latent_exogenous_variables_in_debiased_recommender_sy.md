@@ -129,3 +129,16 @@ $f(z_{u,i}>0,y_{u,i}|x_{u,i})=\frac{1}{\sqrt{2\pi}}e^{-\frac{(y_{u,i}-g_r)^2}{2}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （连续/二值两种情形的推导完整、附录详尽，但符号在正文与附录间略有重复）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、推理零额外开销、训练耗时与 DR 持平，但采样超参与 $\alpha$ 调优增加落地成本）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../DASFAA/2025/debias_fairness_industrial/separating_and_learning_latent_confounders_to_enhancing_user_preferences_mo/">    <span class="related-paper-title">Separating and Learning Latent Confounders to Enhancing User Preferences Modeling</span>    <span class="related-paper-meta">DASFAA · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/probabilistic_residual_learning_for_online_recommendations/">    <span class="related-paper-title">Probabilistic Residual Learning for Online Recommendations</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/cross_domain_multi_scenario/cross_domain_causal_preference_learning_for_out_of_distribution_recommendat/">    <span class="related-paper-title">Cross-Domain Causal Preference Learning for Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">DASFAA · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/causal_representation_learning_for_generalisable_recommendation/">    <span class="related-paper-title">Causal Representation Learning for Generalisable Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · Debias / CTR</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/unbiased_collaborative_filtering_with_fair_sampling/">    <span class="related-paper-title">Unbiased Collaborative Filtering with Fair Sampling</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -128,3 +128,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （多样性感知退出机制设计巧妙，但仅两个仿真数据集、无真实线上 A/B、无显著性检验与超参敏感性分析）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （两级 MDP 形式化清晰、提示词模板完整给出、PPO 目标规范；但高层 LLM 决策缺乏可微/可学习的理论刻画）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码已开源、基于 KuaiSim 易复现；但每步 8B 模型推理的时延与算力开销是线上部署的主要障碍）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICDM/2025/rl_bandit_rec/beyond_static_llm_policies_imitation_enhanced_reinforcement_learning_for_re/">    <span class="related-paper-title">Beyond Static LLM Policies: Imitation-Enhanced Reinforcement Learning for Recommendation</span>    <span class="related-paper-meta">ICDM · 2025 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/agent_conversational_rec/llm_powered_user_simulator_for_recommender_system/">    <span class="related-paper-title">LLM-Powered User Simulator for Recommender System</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · CRS / RL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/generative_rec/beyond_the_flat_sequence_hierarchical_and_preference_aware_generative_recom/">    <span class="related-paper-title">Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/rl_bandit_rec/large_language_model_driven_policy_exploration_for_recommender_systems/">    <span class="related-paper-title">Large Language Model driven Policy Exploration for Recommender Systems</span>    <span class="related-paper-meta">WSDM · 2025 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/think_before_recommendation_autonomous_reasoning_enhanced_recommender/">    <span class="related-paper-title">Think before Recommendation: Autonomous Reasoning-enhanced Recommender</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

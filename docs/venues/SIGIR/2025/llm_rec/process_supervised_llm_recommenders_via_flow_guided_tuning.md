@@ -134,3 +134,16 @@ Flower 相对 BIGRec：CDs NDCG +22.2%、DGU 降低 65.4%；Video Games NDCG +66
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （流/过程奖励推导清晰、图示直观，SubTB 与 SFT 的量级差异有专门讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码开源、奖励免学习易落地，但 on-policy 子轨迹训练开销与 $\lambda$ 敏感性制约大规模部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/llm_rec/token_level_collaborative_alignment_for_llm_based_generative_recommendation/">    <span class="related-paper-title">Token-level Collaborative Alignment for LLM-based Generative Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · LLM4Rec / GenRec</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../2026/generative_rec/gflowgr_fine_tuning_generative_recommendation_frameworks_with_generative_fl/">    <span class="related-paper-title">GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / RL</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../2026/generative_rec/bi_level_optimization_for_generative_recommendation_bridging_tokenization_a/">    <span class="related-paper-title">Bi-Level Optimization for Generative Recommendation: Bridging Tokenization and Generation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/towards_fair_large_language_model_based_recommender_systems_without_costly_/">    <span class="related-paper-title">Towards Fair Large Language Model-based Recommender Systems without Costly Retraining</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/hierarchical_residual_policy_optimization_for_generative_recommendations/">    <span class="related-paper-title">Hierarchical Residual Policy Optimization for Generative Recommendations</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / RL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

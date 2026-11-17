@@ -137,3 +137,17 @@ $$\text{FAMA}=\max\left(0,\ \text{MPA}-\lambda\cdot(1-\text{FAA})\right),\quad \
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （三档时间跨度 + 4 LLM × 2 档推理 + 6 智能体覆盖全面，判据原子化且有人工一致性验证；扣分在于纯仿真与裁判同源风险）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （FAMA 公式与 $\lambda$ 定义简洁自洽，表 1 的整合/突变对比极具说服力；但任务级归一化到 [0,100] 的细节略简，跨表分数不可直接相加易误读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与数据已开源，记忆轨迹构造范式对个性化助手/陪伴类产品可直接复用；但季度档近 2000 会话的检索开销与缺乏时延报告限制了线上部署参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../llm_rec/memrec_collaborative_memory_augmented_agentic_recommender_system/">    <span class="related-paper-title">MemRec: Collaborative Memory-Augmented Agentic Recommender System</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · LLM4Rec / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multi_task_reranking/pcl_prompt_based_continual_learning_for_user_modeling_in_recommender_system/">    <span class="related-paper-title">PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../graph_rec/continual_graph_memory_for_adaptive_recommendation_under_intent_drift/">    <span class="related-paper-title">Continual Graph Memory for Adaptive Recommendation under Intent Drift</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · Graph / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/personalized_recommendation_tool_learning_via_autonomous_language_agents/">    <span class="related-paper-title">Personalized Recommendation Tool Learning via Autonomous Language Agents</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / MTL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/agent_conversational_rec/hierarchical_long_term_semantic_memory_for_linkedin_s_hiring_agent/">    <span class="related-paper-title">Hierarchical Long-Term Semantic Memory for LinkedIn&#x27;s Hiring Agent</span>    <span class="related-paper-meta">KDD · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

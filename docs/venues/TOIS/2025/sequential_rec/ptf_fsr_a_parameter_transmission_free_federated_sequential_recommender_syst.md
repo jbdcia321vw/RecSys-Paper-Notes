@@ -133,3 +133,16 @@ $$\mathcal{L}_{is}=-\log\frac{\sum_{u_k\in\mathcal{U}_{u_i}}\exp(sim(\mathbf{e}^
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （协议与公式清晰，DP 组合定理引用规范；$\epsilon$ 负相关现象的解释偏经验性）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （KB 级通信与模型 IP 保护直击工业痛点，但代码未开源、服务器侧集中存储带来额外工程与合规成本）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../llm_rec/fellas_enhancing_federated_sequential_recommendation_with_llm_as_external_s/">    <span class="related-paper-title">FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../privacy_preserving_sequential_recommendation_with_collaborative_confusion/">    <span class="related-paper-title">Privacy-Preserving Sequential Recommendation with Collaborative Confusion</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../TKDD/2026/generative_rec/eval4direc_a_unified_and_systematic_evaluation_framework_for_diffusion_base/">    <span class="related-paper-title">Eval4DiRec: A Unified and Systematic Evaluation Framework for Diffusion-based Recommender Systems</span>    <span class="related-paper-meta">ACM TKDD · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

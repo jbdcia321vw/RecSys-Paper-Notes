@@ -119,3 +119,17 @@ $$sign_{Pre}(u,i)=\begin{cases}+1 & F>Q_\alpha,\ t_{u,i}>0\\ -1 & F>Q_\alpha,\ t
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TORS/2026/agent_conversational_rec/collab_rec_an_llm_based_agentic_framework_for_balancing_recommendations_in_/">    <span class="related-paper-title">Collab-Rec: An LLM-based Agentic Framework for Balancing Recommendations in Tourism</span>    <span class="related-paper-meta">ACM TORS · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/poi_spatiotemporal_rec/point_of_interest_recommendation_pitfalls_and_viable_solutions/">    <span class="related-paper-title">Point of Interest Recommendation: Pitfalls and Viable Solutions</span>    <span class="related-paper-meta">ACM TORS · 2026 · POI / Debias</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/collaborative_filtering/enhancing_item_level_bundle_representation_for_bundle_recommendation/">    <span class="related-paper-title">Enhancing Item-level Bundle Representation for Bundle Recommendation</span>    <span class="related-paper-meta">ACM TORS · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/cofirec_coarse_to_fine_tokenization_for_generative_recommendation/">    <span class="related-paper-title">CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/debias_fairness_industrial/a_survey_on_trustworthy_recommender_systems/">    <span class="related-paper-title">A Survey on Trustworthy Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+</div>
+<!-- related-papers:end -->

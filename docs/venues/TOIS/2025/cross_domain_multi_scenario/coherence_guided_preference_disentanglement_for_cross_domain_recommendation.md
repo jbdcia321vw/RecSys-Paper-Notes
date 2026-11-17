@@ -139,3 +139,16 @@ $$\mathcal{L}^A_{conf}=-\!\!\sum_{(u,i)\in\mathcal{D}^A_{train}}\!\! p^A_i\log\f
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （三组件结构清晰、公式与算法伪代码完整，但符号表中 $z^{A,S}_i$与$z^S_i$ 的切分关系表述略绕）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、仅需 LightGCN 级骨干易落地，但全局图双倍传播开销与 $\lambda_1$ 任务相关调参增加工程成本）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../causal_deconfounding_via_confounder_disentanglement_for_dual_target_cross_d/">    <span class="related-paper-title">Causal Deconfounding via Confounder Disentanglement for Dual-Target Cross-Domain Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../2026/cross_domain_multi_scenario/causal_invariant_cross_domain_out_of_distribution_recommendation/">    <span class="related-paper-title">Causal-Invariant Cross-Domain Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2026 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/cofirec_coarse_to_fine_tokenization_for_generative_recommendation/">    <span class="related-paper-title">CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../multi_task_reranking/user_invariant_preference_learning_for_multi_behavior_recommendation/">    <span class="related-paper-title">User Invariant Preference Learning for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · MTL / SSL</span>    <span class="related-paper-score">语义相似度 0.59</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2025/collaborative_filtering/balancing_embedding_spectrum_for_recommendation/">    <span class="related-paper-title">Balancing Embedding Spectrum for Recommendation</span>    <span class="related-paper-meta">ACM TORS · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+</div>
+<!-- related-papers:end -->

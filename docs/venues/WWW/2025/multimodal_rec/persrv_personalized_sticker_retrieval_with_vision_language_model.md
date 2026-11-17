@@ -130,3 +130,16 @@ $$\text{Score}_{u;q}(s)=\text{RecallScore}_q(s)\big(1+\alpha\,\text{PreferenceSc
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号表清晰、案例研究直观，但效用分权重 $\mathbf{w}$与$\alpha$ 的取值未在正文给出）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与微调模型全开源，在线 0.054 s/query 满足实时性，离线预计算架构可直接嵌入现有 IM 检索链路）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/generative_rec/a_generative_framework_for_personalized_sticker_retrieval/">    <span class="related-paper-title">A Generative Framework for Personalized Sticker Retrieval</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/u_sticker_a_large_scale_multi_domain_user_sticker_dataset_for_retrieval_and/">    <span class="related-paper-title">U-Sticker: A Large-Scale Multi-Domain User Sticker Dataset for Retrieval and Personalization</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Cold</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/llm_powered_nuanced_video_attribute_annotation_for_enhanced_recommendations/">    <span class="related-paper-title">LLM-Powered Nuanced Video Attribute Annotation for Enhanced Recommendations</span>    <span class="related-paper-meta">RecSys · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/llm_rec/token_efficient_item_representation_via_images_for_llm_recommender_systems/">    <span class="related-paper-title">Token-Efficient Item Representation via Images for LLM Recommender Systems</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · LLM4Rec / MM</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multimodal_rec/improving_visual_recommendation_on_e_commerce_platforms_using_vision_langua/">    <span class="related-paper-title">Improving Visual Recommendation on E-commerce Platforms Using Vision-Language Models</span>    <span class="related-paper-meta">RecSys · 2025 · MM / CF</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

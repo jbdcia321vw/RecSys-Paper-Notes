@@ -131,3 +131,16 @@ $$w_{u,u'}=\mathrm{LeakyReLU}\big(\mathbf{a}^{\top}[W\tilde{h}_u\,\|\,W\tilde{h}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （动机—方法—消融逻辑闭环，公式简洁；但式 (9)(11) 存在括号不配对等排版瑕疵，物品侧设计取舍仅置于附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （即插即用、推理零额外延迟、代码已开源，LLM 仅离线一次性调用，工程落地路径明确）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2025/rl_bandit_rec/contrastive_representation_for_interactive_recommendation/">    <span class="related-paper-title">Contrastive Representation for Interactive Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · RL / SSL</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/llm2rec_large_language_models_are_powerful_embedding_models_for_sequential_/">    <span class="related-paper-title">LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/sequential_rec/future_sight_and_tough_fights_revolutionizing_sequential_recommendation_wit/">    <span class="related-paper-title">Future Sight and Tough Fights: Revolutionizing Sequential Recommendation with FENRec</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2026/self_supervised_denoising/simdiffrec_semantic_similarity_guided_diffusion_for_contrastive_sequential_/">    <span class="related-paper-title">SimDiffRec: Semantic Similarity-Guided Diffusion for Contrastive Sequential Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · SSL / Seq</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2025/sequential_rec/empowering_sequential_recommendation_from_collaborative_signals_and_semanti/">    <span class="related-paper-title">Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness</span>    <span class="related-paper-meta">DASFAA · 2025 · Seq / MM</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->

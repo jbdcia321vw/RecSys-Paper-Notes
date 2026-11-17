@@ -137,3 +137,17 @@ SASRec(BCE) + Mamba4Rec(Peer) 配置下（节选 Beauty / Toys / Sports / LastFM
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （6 数据集 × 5 骨干 × 2 损失 + Full-Ranking + 配对 t 检验 + 弱到强设定 + 完整消融，覆盖度在负采样论文中属上乘）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与算法伪代码清晰、复杂度分析到位，但 ZPD 理论映射偏修辞，缺少对分歧分有效性的理论刻画）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、推理零额外开销、即插即用；扣分在于训练期双模型前向的工程成本与超参调优负担）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2026/collaborative_filtering/diversity_augmented_negative_sampling_for_implicit_collaborative_filtering/">    <span class="related-paper-title">Diversity-Augmented Negative Sampling for Implicit Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2025/sequential_rec/towards_automatic_sampling_of_user_behaviors_for_sequential_recommender_sys/">    <span class="related-paper-title">Towards Automatic Sampling of User Behaviors for Sequential Recommender Systems</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/evaluating_and_addressing_fairness_across_user_groups_in_negative_sampling_/">    <span class="related-paper-title">Evaluating and Addressing Fairness Across User Groups in Negative Sampling for Recommender Systems</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/rl_bandit_rec/supervised_advantage_actor_critic_for_recommender_systems/">    <span class="related-paper-title">Supervised Advantage Actor-Critic for Recommender Systems</span>    <span class="related-paper-meta">WSDM · 2025 · RL / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2025/multimodal_rec/generating_negative_samples_for_multi_modal_recommendation/">    <span class="related-paper-title">Generating Negative Samples for Multi-Modal Recommendation</span>    <span class="related-paper-meta">ACM MM · 2025 · MM / SSL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+</div>
+<!-- related-papers:end -->

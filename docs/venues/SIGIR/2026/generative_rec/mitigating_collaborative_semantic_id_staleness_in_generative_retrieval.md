@@ -125,3 +125,17 @@ FT-ours 相对 FT-old 的 Recall@500 提升：Beauty +6.7%、Yambda +5.2%、VK-L
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （严格时序切分、10 种子、显著性检验齐全，但仅 3 数据集且限制旧词表子集）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与复杂度分析清晰，问题定义严谨，篇幅精炼）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （模型无关、CPU 级对齐、8-9 倍算力节省，代码开源，直接契合工业频繁更新管线）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/forge_forming_semantic_identifiers_for_generative_retrieval_in_industrial_d/">    <span class="related-paper-title">FORGE: Forming Semantic Identifiers for Generative Retrieval in Industrial Datasets</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../semantic_ids_for_recommender_systems_at_snapchat_use_cases_technical_challe/">    <span class="related-paper-title">Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/faithful_evaluation_of_semantic_id_tokenizers_for_generative_recommendation/">    <span class="related-paper-title">Faithful Evaluation of Semantic-ID Tokenizers for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/semantic_ids_for_joint_generative_search_and_recommendation/">    <span class="related-paper-title">Semantic IDs for Joint Generative Search and Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/cross_domain_multi_scenario/fedcgr_federated_cross_domain_generative_recommendation/">    <span class="related-paper-title">FedCGR: Federated Cross-Domain Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · Cross / GenRec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

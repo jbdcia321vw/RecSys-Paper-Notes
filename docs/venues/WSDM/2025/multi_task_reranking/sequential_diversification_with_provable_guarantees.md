@@ -133,3 +133,16 @@ $S^+(O)$，续看概率$[0.4,0.6]$（Table 3，节选）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （定义—归约—近似比链条完整，Lemma/Corollary 层层递进，图 1 直观对比两算法近似比区域）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、无需训练、启发式可扩展；但组合优化开销与 $p_i$ 估计质量是上线前必须解决的门槛）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/llm_rec/fellas_enhancing_federated_sequential_recommendation_with_llm_as_external_s/">    <span class="related-paper-title">FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.45</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2026/cross_domain_multi_scenario/causal_invariant_cross_domain_out_of_distribution_recommendation/">    <span class="related-paper-title">Causal-Invariant Cross-Domain Out-of-Distribution Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2026 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.42</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/sequential_rec/privacy_preserving_sequential_recommendation_with_collaborative_confusion/">    <span class="related-paper-title">Privacy-Preserving Sequential Recommendation with Collaborative Confusion</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.40</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/sequential_rec/learning_robust_sequential_recommenders_through_confident_soft_labels/">    <span class="related-paper-title">Learning Robust Sequential Recommenders through Confident Soft Labels</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.40</span>  </a>
+  <a class="related-paper" href="../../../../TKDD/2026/ctr_feature_interaction/dual_stream_mlp_is_all_you_need_for_ctr_prediction/">    <span class="related-paper-title">Dual-Stream MLP is All You Need for CTR Prediction</span>    <span class="related-paper-meta">ACM TKDD · 2026 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.40</span>  </a>
+</div>
+<!-- related-papers:end -->

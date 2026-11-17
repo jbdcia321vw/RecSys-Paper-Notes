@@ -137,3 +137,16 @@ Retailrocket 交叉群组场景（每用户同时属于一个流行度组与一�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （CVaR 的单纯形约束形式与闭式直觉交代清楚，各损失统一记号；但部分表格排版拥挤、附录与正文结论重复度较高）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （仅替换损失、推理零开销、无需群组标注即可上线，代码已开源，对受 GDPR 约束的真实业务场景极具吸引力）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/bridging_jensen_gap_for_max_min_group_fairness_optimization_in_recommendati/">    <span class="related-paper-title">Bridging Jensen Gap for Max-Min Group Fairness Optimization in Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/towards_fair_large_language_model_based_recommender_systems_without_costly_/">    <span class="related-paper-title">Towards Fair Large Language Model-based Recommender Systems without Costly Retraining</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/llm_rec/goracs_group_level_optimal_transport_guided_coreset_selection_for_llm_based/">    <span class="related-paper-title">GORACS: Group-level Optimal Transport-guided Coreset Selection for LLM-based Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../how_to_diversify_any_personalized_recommender/">    <span class="related-paper-title">How to Diversify any Personalized Recommender?</span>    <span class="related-paper-meta">ECIR · 2025 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/debias_fairness_industrial/fairdgcl_fairness_aware_recommendation_with_dynamic_graph_contrastive_learn/">    <span class="related-paper-title">FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / SSL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

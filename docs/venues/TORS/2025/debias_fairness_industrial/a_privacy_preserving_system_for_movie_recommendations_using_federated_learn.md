@@ -120,3 +120,16 @@ $$\boldsymbol{\theta}_t = \sum_{k=1}^{N/L}\frac{s_k}{\sum_{c_i\in C_t}|\mathcal{
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （架构、算法伪码与复杂度推导清晰完整，隐私论证部分明确区分"已证"与"猜想"，态度严谨）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （端到端三阶段系统 + 标准压缩 + 大规模验证，工程参考价值高；但未开源、FedQ 时延代价需线上权衡）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../TOIS/2025/sequential_rec/privacy_preserving_sequential_recommendation_with_collaborative_confusion/">    <span class="related-paper-title">Privacy-Preserving Sequential Recommendation with Collaborative Confusion</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/cross_domain_multi_scenario/federated_semantic_learning_for_privacy_preserving_cross_domain_recommendat/">    <span class="related-paper-title">Federated Semantic Learning for Privacy-preserving Cross-domain Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../dynamic_fairness_aware_recommendation_through_multi_agent_social_choice/">    <span class="related-paper-title">Dynamic Fairness-aware Recommendation through Multi-agent Social Choice</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../a_survey_on_trustworthy_recommender_systems/">    <span class="related-paper-title">A Survey on Trustworthy Recommender Systems</span>    <span class="related-paper-meta">ACM TORS · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

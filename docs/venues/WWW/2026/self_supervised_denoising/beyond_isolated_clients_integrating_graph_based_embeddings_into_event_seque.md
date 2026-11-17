@@ -134,3 +134,17 @@ Gender 数据集上 CoLES 的图注入策略消融：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （4 数据集跨两个数量级规模、消融完整，但缺显著性检验与图增强基线对比）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、策略边界清晰，密度区间结论有数据支撑但缺理论推导）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （模型无关、推理零开销、代码开源，金融风控场景可直接落地）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/sequential_rec/time_matters_enhancing_sequential_recommendations_with_time_guided_graph_ne/">    <span class="related-paper-title">Time Matters: Enhancing Sequential Recommendations with Time-Guided Graph Neural ODEs</span>    <span class="related-paper-meta">KDD · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/mixrec_heterogeneous_graph_collaborative_filtering/">    <span class="related-paper-title">MixRec: Heterogeneous Graph Collaborative Filtering</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/self_supervised_denoising/omnisage_large_scale_multi_entity_heterogeneous_graph_representation_learni/">    <span class="related-paper-title">OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning</span>    <span class="related-paper-meta">KDD · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/palate_pretrained_autoregressive_latent_embeddings/">    <span class="related-paper-title">PALATE: Pretrained Autoregressive LATent Embeddings</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/ctr_feature_interaction/building_a_user_foundation_model_for_the_open_web/">    <span class="related-paper-title">Building a User Foundation Model for the Open Web</span>    <span class="related-paper-meta">RecSys · 2026 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

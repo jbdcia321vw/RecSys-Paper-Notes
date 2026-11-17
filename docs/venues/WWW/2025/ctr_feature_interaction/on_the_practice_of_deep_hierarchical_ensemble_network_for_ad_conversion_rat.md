@@ -141,3 +141,16 @@ DHEN 层数与模块配置消融（基线为 4 层 Transformer，表 1）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题定义与损失公式清晰，配置结论可直接照搬；但部分实验仅以图呈现缺具体数值，符号体系较简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在 Pinterest 生产部署并带来 CPA -2.15%、转化 +1.62% 的实测收益，配置结论与 ParetoNet 流程对工业界可直接复用；扣分项为未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/diffusion_based_multi_modal_synergy_interest_network_for_click_through_rate/">    <span class="related-paper-title">Diffusion-based Multi-modal Synergy Interest Network for Click-through Rate Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/elec_efficient_large_language_model_empowered_click_through_rate_prediction/">    <span class="related-paper-title">ELEC: Efficient Large Language Model-Empowered Click-Through Rate Prediction</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/cross_domain_multi_scenario/lfm4ads_large_foundation_model_for_ads_recommendation/">    <span class="related-paper-title">LFM4Ads: Large Foundation Model for Ads Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · Cross / CTR</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../TOIS/2025/ctr_feature_interaction/a_unified_framework_for_multi_domain_ctr_prediction_via_large_language_mode/">    <span class="related-paper-title">A Unified Framework for Multi-Domain CTR Prediction via Large Language Models</span>    <span class="related-paper-meta">ACM TOIS · 2025 · CTR / Cross</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/ctr_feature_interaction/scaling_transformers_for_discriminative_recommendation_via_generative_pretr/">    <span class="related-paper-title">Scaling Transformers for Discriminative Recommendation via Generative Pretraining</span>    <span class="related-paper-meta">KDD · 2025 · CTR / GenRec</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+</div>
+<!-- related-papers:end -->

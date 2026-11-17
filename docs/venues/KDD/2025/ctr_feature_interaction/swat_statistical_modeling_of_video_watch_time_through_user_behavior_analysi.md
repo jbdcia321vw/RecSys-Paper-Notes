@@ -130,3 +130,16 @@ $$\Pr(T=t)=p_n^{t-x_{n-1}}(1-p_n)\prod_{i=1}^{n-1}p_i^{\Delta_i}$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （假设—似然—期望推导链条清晰，附录给出完整闭式证明；桶端点与软标签的工程妥协交代充分）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （仅替换输出层与损失、同架构同推理开销，已在亿级 DAU 平台上线并获稳定正收益，落地价值极高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/generative_rec/flowtime_towards_continuous_generative_watch_time_prediction_via_flow_based/">    <span class="related-paper-title">FlowTime: Towards Continuous Generative Watch Time Prediction via Flow-based Personalized Priors</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/comment_staytime_prediction_with_llm_enhanced_comment_understanding/">    <span class="related-paper-title">Comment Staytime Prediction with LLM-enhanced Comment Understanding</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/leveraging_watch_time_feedback_for_short_video_recommendations_a_causal_lab/">    <span class="related-paper-title">Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/multimodal_rec/short_video_segment_level_user_dynamic_interests_modeling_in_personalized_r/">    <span class="related-paper-title">Short Video Segment-level User Dynamic Interests Modeling in Personalized Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/ctr_feature_interaction/personalized_tree_based_progressive_regression_model_for_watch_time_predict/">    <span class="related-paper-title">Personalized Tree-Based Progressive Regression Model for Watch-Time Prediction in Short Video Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

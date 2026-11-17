@@ -142,3 +142,17 @@ $$\mathcal{L}=-\sum_{(u,i_u^+)\in\mathcal{B}}\log\frac{\exp(\langle z'_u,z'_{i^+
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../AAAI/2026/sequential_rec/wavelet_enhanced_adaptive_frequency_filter_for_sequential_recommendation/">    <span class="related-paper-title">Wavelet Enhanced Adaptive Frequency Filter for Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Seq</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../ACM_MM/2026/multimodal_rec/beyond_noisy_signals_dual_level_denoising_for_multi_modal_sequential_recomm/">    <span class="related-paper-title">Beyond Noisy Signals: Dual-Level Denoising for Multi-modal Sequential Recommendation</span>    <span class="related-paper-meta">ACM MM · 2026 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../multimodal_rec/timemm_time_as_operator_spectral_filtering_for_dynamic_multimodal_recommend/">    <span class="related-paper-title">TimeMM: Time-as-Operator Spectral Filtering for Dynamic Multimodal Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · MM / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/sequential_rec/exploiting_inter_session_information_with_frequency_enhanced_dual_path_netw/">    <span class="related-paper-title">Exploiting Inter-Session Information with Frequency-enhanced Dual-Path Networks for Sequential Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../rote_coarse_to_fine_multi_level_rotary_time_embedding_for_sequential_recomm/">    <span class="related-paper-title">RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

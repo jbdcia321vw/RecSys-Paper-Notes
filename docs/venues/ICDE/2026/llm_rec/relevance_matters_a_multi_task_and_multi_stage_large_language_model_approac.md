@@ -148,3 +148,17 @@ RL 算法综合对比（均基于 Qwen3-8B 领域预训练 + SFT）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （离线四指标 + 线上 7 天 A/B + 分流量桶分析完整，但召回协议为集合级而非全库排序，缺显著性检验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式与奖励设计交代清楚，但部分符号如 $r_{Feedback}$与$r_{Rewrite}$ 关系表述略绕，缺少复杂度分析）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （京东全量上线、近线部署 + 14 天缓存方案可直接复用，TRL 框架训练细节完整）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/smart_llm_augmented_hybrid_retrieval_for_dynamic_product_ads/">    <span class="related-paper-title">SMART: LLM-Augmented Hybrid Retrieval for Dynamic Product Ads</span>    <span class="related-paper-meta">RecSys · 2026 · CF / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/multi_objective_aligned_bidword_generation_model_for_e_commerce_search_adve/">    <span class="related-paper-title">Multi-objective Aligned Bidword Generation Model for E-commerce Search Advertising</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/sequential_rec/ai_guided_accelerator_for_search_experience/">    <span class="related-paper-title">AI Guided Accelerator For Search Experience</span>    <span class="related-paper-meta">SIGIR · 2025 · Seq / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/spear_selection_aware_personalized_end_to_end_adaptive_rewriting_and_retrie/">    <span class="related-paper-title">SPEAR: Selection-aware Personalized End-to-end Adaptive Rewriting and Retrieval for Community Search</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/debias_fairness_industrial/llm_based_user_product_relevance_evaluation_for_dynamic_product_advertising/">    <span class="related-paper-title">LLM-based User-Product Relevance Evaluation for Dynamic Product Advertising</span>    <span class="related-paper-meta">CIKM · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+</div>
+<!-- related-papers:end -->

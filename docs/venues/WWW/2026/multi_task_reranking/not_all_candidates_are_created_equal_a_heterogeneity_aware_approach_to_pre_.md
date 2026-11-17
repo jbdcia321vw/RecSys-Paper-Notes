@@ -128,3 +128,17 @@ $$\mathcal{L}_{\text{GHCL}}=\underbrace{\mathcal{L}_{\text{RN}}+\mathcal{L}_{\te
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （自建全链路工业数据集并开源，分难度测试集设计细致，离线+线上 9 个月 A/B 双重验证，唯缺多业务数据集泛化实验）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （梯度比推导链条清晰，公式与表格组织紧凑；部分符号如 $\lambda_t$ 取值未在正文给出，需查附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （真实生产部署 9 个月、成本降 6% 且效果正向，代码与数据集双开源，是粗排方向少有的高复现价值工作）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/multi_task_reranking/a_hybrid_cross_stage_coordination_pre_ranking_model_for_online_recommendati/">    <span class="related-paper-title">A Hybrid Cross-Stage Coordination Pre-ranking Model for Online Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / Debias</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/multi_task_reranking/goalrank_group_relative_optimization_for_a_large_ranking_model/">    <span class="related-paper-title">GoalRank: Group-Relative Optimization for a Large Ranking Model</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · MTL / GenRec</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../collaborative_filtering/grank_towards_target_aware_and_streamlined_industrial_retrieval_with_a_gene/">    <span class="related-paper-title">GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CF / MTL</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/towards_generalizable_and_efficient_large_scale_generative_recommenders/">    <span class="related-paper-title">Towards Generalizable and Efficient Large-Scale Generative Recommenders</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multi_task_reranking/radar_recall_augmentation_through_deferred_asynchronous_retrieval/">    <span class="related-paper-title">RADAR: Recall Augmentation through Deferred Asynchronous Retrieval</span>    <span class="related-paper-meta">RecSys · 2025 · MTL / CF</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

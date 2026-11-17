@@ -121,3 +121,16 @@ NeUClust 相对 CN-UCB 遗憾降低 **9.5% (ML) / 13.7% (Yelp)**；相对 K-LinU
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （假设、引理、定理链条完整，聚类误差项 $E_t$ 分解清晰，附录证明详尽）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （无需 oracle 利于落地、运行时间可控，但每轮 k-means + 双网络训练开销与强聚类假设限制大规模部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/rl_bandit_rec/revisiting_clustering_of_neural_bandits_selective_reinitialization_for_miti/">    <span class="related-paper-title">Revisiting Clustering of Neural Bandits: Selective Reinitialization for Mitigating Loss of Plasticity</span>    <span class="related-paper-meta">KDD · 2025 · RL / Seq</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/rl_bandit_rec/optimal_and_efficient_contextual_combinatorial_semi_bandits_with_general_fu/">    <span class="related-paper-title">Optimal and Efficient Contextual Combinatorial Semi-bandits with General Function Approximation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · RL / MTL</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/rl_bandit_rec/exploitation_over_exploration_unmasking_the_bias_in_linear_bandit_recommend/">    <span class="related-paper-title">Exploitation Over Exploration: Unmasking the Bias in Linear Bandit Recommender Offline Evaluation</span>    <span class="related-paper-meta">RecSys · 2025 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/rl_bandit_rec/incentivized_exploration_with_stochastic_covariates_a_two_stage_mechanism_d/">    <span class="related-paper-title">Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../2026/rl_bandit_rec/preference_is_more_than_comparisons_rethinking_dueling_bandits_with_augment/">    <span class="related-paper-title">Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · RL / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+</div>
+<!-- related-papers:end -->

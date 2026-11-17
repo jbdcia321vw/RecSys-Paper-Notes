@@ -124,3 +124,16 @@ $$\mathcal{L}_{CL}=\frac{1}{|\mathcal{R}|}\sum_{R\in\mathcal{R}}\frac{1}{|\mathc
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号一致，四类表征与代理向量的对应关系交代清楚，复杂度分析略缺）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （在线仅 FlanT5-base 前向 + 查表，成本可控；但离线 LLM 建表与未开源代码削弱了直接复现性）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../enhancing_news_recommendation_with_hierarchical_llm_prompting/">    <span class="related-paper-title">Enhancing News Recommendation with Hierarchical LLM Prompting</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec / Cold</span>    <span class="related-paper-score">语义相似度 0.64</span>  </a>
+  <a class="related-paper" href="../../cold_start_rec/crown_a_novel_approach_to_comprehending_users_preferences_for_accurate_pers/">    <span class="related-paper-title">CROWN: A Novel Approach to Comprehending Users&#x27; Preferences for Accurate Personalized News Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / MM</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR-AP/2026/collaborative_filtering/lsnr_learned_sparse_news_recommendations_with_attentive_user_modeling/">    <span class="related-paper-title">LSNR: Learned Sparse News Recommendations with Attentive User Modeling</span>    <span class="related-paper-meta">SIGIR-AP · 2026 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/mitigating_popularity_bias_in_counterfactual_explanations_using_large_langu/">    <span class="related-paper-title">Mitigating Popularity Bias in Counterfactual Explanations using Large Language Models</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../large_language_models_as_narrative_driven_recommenders/">    <span class="related-paper-title">Large Language Models as Narrative-Driven Recommenders</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+</div>
+<!-- related-papers:end -->

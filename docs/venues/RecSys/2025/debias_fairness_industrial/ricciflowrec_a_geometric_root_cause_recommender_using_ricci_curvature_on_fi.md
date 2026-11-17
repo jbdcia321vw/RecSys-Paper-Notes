@@ -121,3 +121,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、符号统一，曲率与流的定义与直觉解释到位；但 Ollivier 与 Forman 曲率在正文与实现中超参描述不一致，$\alpha$与$\lambda$ 两种打分写法并存略显混乱）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （推理 <200 ms、管线 5 分钟具备原型可用性，但未开源、依赖 GraphRicciCurvature 与 FinBERT 外部组件，全市场扩展性与真实交易验证尚缺）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/agent_conversational_rec/conv_finre_a_conversational_and_longitudinal_benchmark_for_utility_grounded/">    <span class="related-paper-title">Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CRS / Debias</span>    <span class="related-paper-score">语义相似度 0.52</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/causality_aware_graph_aggregation_weight_estimator_for_popularity_debiasing/">    <span class="related-paper-title">Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / Graph</span>    <span class="related-paper-score">语义相似度 0.48</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/graph_rec/neural_tree_collaborative_filtering_rethinking_graph_collaborative_filterin/">    <span class="related-paper-title">Neural Tree Collaborative Filtering: Rethinking Graph Collaborative Filtering as Tree Collaborative Filtering with Curvature-Aware Propagation Depth</span>    <span class="related-paper-meta">CIKM · 2026 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.48</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/graph_rec/spark_adaptive_low_rank_knowledge_graph_modeling_in_hybrid_geometric_spaces/">    <span class="related-paper-title">SPARK: Adaptive Low-Rank Knowledge Graph Modeling in Hybrid Geometric Spaces for Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Graph / Cold</span>    <span class="related-paper-score">语义相似度 0.48</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/rankformer_a_graph_transformer_for_recommendation_based_on_ranking_objectiv/">    <span class="related-paper-title">Rankformer: A Graph Transformer for Recommendation based on Ranking Objective</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.47</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -129,3 +129,17 @@ $$\mathcal{L}_{overall}=\mathcal{L}_{online}+\lambda_1(\mathcal{L}_{GRA}-\lambda
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （首个公开基准 + 在线流式评估贴近工业，消融完整含架构与路由两维，但缺跨平台与线上验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题定义与符号表清晰，公式推导简洁；式 (17) 中 $\mathcal{L}_{GRA}$ 重复书写为笔误，路由阈值缺敏感性讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （数据与代码全开源，来自淘天真实广告系统，双塔 + 轻量路由的在线部署成本低，直接可落地）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../modeling_cascaded_delay_feedback_for_online_net_conversion_rate_prediction_/">    <span class="related-paper-title">Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/ctr_feature_interaction/counterfactual_multi_task_learning_for_delayed_conversion_modeling_in_e_com/">    <span class="related-paper-title">Counterfactual Multi-task Learning for Delayed Conversion Modeling in E-commerce Sales Pre-Promotion</span>    <span class="related-paper-meta">SIGIR · 2026 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/multi_task_reranking/multi_objective_ranking_for_live_streaming_balancing_fresh_and_delayed_sign/">    <span class="related-paper-title">Multi-Objective Ranking for Live-Streaming: Balancing Fresh and Delayed Signals with Segment-Aware Targeting</span>    <span class="related-paper-meta">RecSys · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/ctr_feature_interaction/hierarchical_gtv_estimation_bridging_the_gap_between_container_level_rankin/">    <span class="related-paper-title">Hierarchical GTV Estimation: Bridging the Gap between Container-Level Ranking and Item-Level Conversion</span>    <span class="related-paper-meta">RecSys · 2026 · CTR / MTL</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/debias_fairness_industrial/deep_learning_causal_retrieval_optimization_for_efficient_e_commerce_distri/">    <span class="related-paper-title">Deep-learning Causal Retrieval Optimization for Efficient e-commerce Distribution in Pinterest</span>    <span class="related-paper-meta">KDD · 2026 · Debias / RL</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+</div>
+<!-- related-papers:end -->

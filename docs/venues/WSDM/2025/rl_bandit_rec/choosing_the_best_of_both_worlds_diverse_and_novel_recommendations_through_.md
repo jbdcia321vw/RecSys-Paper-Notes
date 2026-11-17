@@ -131,3 +131,16 @@ RetailRocket 上 SASRec-SMORL 将 HR@10 从 0.3085 提至 **0.3521**（+14.1%）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （MOMDP 形式化清晰、算法伪代码完整，但奖励设计的理论依据多为经验论证，缺收敛性讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （推理零额外开销、可插拔到任意序列主干，工程价值高；但代码仅 Drive 链接、$\alpha$ 需逐场景调参）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/harpo_hierarchical_agentic_reasoning_for_user_aligned_conversational_recomm/">    <span class="related-paper-title">HARPO: Hierarchical Agentic Reasoning for User-Aligned Conversational Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../IJCAI/2025/sequential_rec/towards_automatic_sampling_of_user_behaviors_for_sequential_recommender_sys/">    <span class="related-paper-title">Towards Automatic Sampling of User Behaviors for Sequential Recommender Systems</span>    <span class="related-paper-meta">IJCAI (RecSys Track) · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../DASFAA/2026/rl_bandit_rec/llm_enhanced_reinforcement_learning_for_long_term_user_satisfaction_in_inte/">    <span class="related-paper-title">LLM-Enhanced Reinforcement Learning for Long-Term User Satisfaction in Interactive Recommendation</span>    <span class="related-paper-meta">DASFAA · 2026 · RL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/multi_task_reranking/goal_conditioned_supervised_learning_for_multi_objective_recommendation/">    <span class="related-paper-title">Goal-Conditioned Supervised Learning for Multi-Objective Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · MTL / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR-AP/2025/cross_domain_multi_scenario/marco_a_cooperative_knowledge_transfer_framework_for_personalized_cross_dom/">    <span class="related-paper-title">MARCO: A Cooperative Knowledge Transfer Framework for Personalized Cross-domain Recommendations</span>    <span class="related-paper-meta">SIGIR-AP · 2025 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

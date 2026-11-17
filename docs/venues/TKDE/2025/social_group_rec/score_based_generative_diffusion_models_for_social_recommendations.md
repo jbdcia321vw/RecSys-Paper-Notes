@@ -133,3 +133,16 @@ $$\min_\theta\ \mathbb{E}_t\Big[\lambda(t)\mathbb{E}_{x_0}\mathbb{E}_{x_t|x_0,c}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （SDE 前向/反向、Tweedie 化简与复杂度分析推导完整，符号体系清晰；部分实验图仅给曲线未给数值表）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （代码基于 QRec 生态易复现，扩散作用于用户隐表征使开销不随图规模增长，但多步采样延迟与显存开销限制线上直接部署）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/preference_diffusion_for_recommendation/">    <span class="related-paper-title">Preference Diffusion for Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/social_group_rec/community_aware_social_community_recommendation/">    <span class="related-paper-title">Community-Aware Social Community Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Social / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/social_group_rec/pulse_socially_aware_user_representation_modeling_toward_parameter_efficien/">    <span class="related-paper-title">PULSE: Socially-Aware User Representation Modeling Toward Parameter-Efficient Graph Collaborative Filtering</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Social / SSL</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/cold_start_rec/personalized_diffusion_model_reshapes_cold_start_bundle_recommendation/">    <span class="related-paper-title">Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Cold / GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/generative_rec/asymmetric_diffusion_recommendation_model/">    <span class="related-paper-title">Asymmetric Diffusion Recommendation Model</span>    <span class="related-paper-meta">CIKM · 2025 · GenRec / CTR</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

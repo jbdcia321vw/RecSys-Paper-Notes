@@ -128,3 +128,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （下界推导链条清晰、复杂度分析到位，但 HSIC 近似互信息的理论误差未讨论）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码开源、模块可插拔、十亿级工业验证与线上显著收益，落地说服力强）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/self_supervised_denoising/gcib_graph_contrastive_information_bottleneck_for_multi_behavior_recommenda/">    <span class="related-paper-title">GCIB: Graph Contrastive Information Bottleneck for Multi-Behavior Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.78</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/graph_rec/mixrec_heterogeneous_graph_collaborative_filtering/">    <span class="related-paper-title">MixRec: Heterogeneous Graph Collaborative Filtering</span>    <span class="related-paper-meta">WSDM · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.77</span>  </a>
+  <a class="related-paper" href="../../../../TKDE/2025/graph_rec/dual_channel_multiplex_graph_neural_networks_for_recommendation/">    <span class="related-paper-title">Dual-Channel Multiplex Graph Neural Networks for Recommendation</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Graph / SSL</span>    <span class="related-paper-score">语义相似度 0.75</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/multi_task_reranking/combinatorial_optimization_perspective_based_framework_for_multi_behavior_r/">    <span class="related-paper-title">Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · MTL / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/cross_domain_multi_scenario/behavior_importance_aware_graph_neural_architecture_search_for_cross_domain/">    <span class="related-paper-title">Behavior Importance-Aware Graph Neural Architecture Search for Cross-Domain Recommendation</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · Cross / Graph</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+</div>
+<!-- related-papers:end -->

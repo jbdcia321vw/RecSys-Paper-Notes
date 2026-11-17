@@ -128,3 +128,16 @@ ShillingREC 对基础攻击模型与推荐模型的组合评测显示，不同�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （分类清晰、公式（双层优化、GAN 目标）定义规范，攻击统计表 I 归纳到位）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （ShillingREC 开源、攻防模型可插拔，对平台安全红队测试与鲁棒模型选型有直接工程价值）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../fairdgcl_fairness_aware_recommendation_with_dynamic_graph_contrastive_learn/">    <span class="related-paper-title">FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning</span>    <span class="related-paper-meta">IEEE TKDE · 2025 · Debias / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/privacy_risks_of_llm_empowered_recommender_systems_an_inversion_attack_pers/">    <span class="related-paper-title">Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2026/debias_fairness_industrial/reference_recommendation_based_membership_inference_attack_against_hybrid_b/">    <span class="related-paper-title">Reference Recommendation based Membership Inference Attack against Hybrid-based Recommender Systems</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2026 · Debias / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/spattack_subgroup_poisoning_attacks_on_federated_recommender_systems/">    <span class="related-paper-title">Spattack: Subgroup Poisoning Attacks on Federated Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/debias_fairness_industrial/data_watermarking_for_sequential_recommender_systems/">    <span class="related-paper-title">Data Watermarking for Sequential Recommender Systems</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

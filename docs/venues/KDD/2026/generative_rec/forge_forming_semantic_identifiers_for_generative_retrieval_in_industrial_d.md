@@ -121,3 +121,17 @@ AL-GR Stage S1 上 SID 配置消融（base = 有限 i2i + KNN-25）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （140 亿交互工业数据 + 三阶段时间切分 + 跨模型/跨任务/跨结构泛化 + 7 天线上 A/B，扎实度罕见）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （流水线拆解清晰、公式简洁，但部分消融缺少方差与显著性检验）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码与 AL-GR 数据集全开源，策略已在淘宝全量部署，复现与迁移门槛极低）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR-AP/2026/generative_rec/what_makes_a_good_semantic_id_for_generative_recommendation_a_reproducibili/">    <span class="related-paper-title">What Makes a Good Semantic ID for Generative Recommendation? A Reproducibility Study</span>    <span class="related-paper-meta">SIGIR-AP · 2026 · GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/revisiting_generative_vs_dense_retrieval_a_static_value_prior_reverses_the_/">    <span class="related-paper-title">Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/sidinspector_a_mapping_first_diagnostic_resource_for_semantic_id_tokenizers/">    <span class="related-paper-title">SIDInspector: A Mapping-First Diagnostic Resource for Semantic-ID Tokenizers</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/mitigating_collaborative_semantic_id_staleness_in_generative_retrieval/">    <span class="related-paper-title">Mitigating Collaborative Semantic ID Staleness in Generative Retrieval</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/generative_rec/faithful_evaluation_of_semantic_id_tokenizers_for_generative_recommendation/">    <span class="related-paper-title">Faithful Evaluation of Semantic-ID Tokenizers for Generative Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · GenRec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

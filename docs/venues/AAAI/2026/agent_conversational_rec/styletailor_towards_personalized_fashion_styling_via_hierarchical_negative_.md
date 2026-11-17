@@ -122,3 +122,17 @@ flowchart TD
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （四维评测体系设计合理且含 VLM Artist 细粒度打分，但仅 64 样本、单基线、无显著性检验，说服力有限）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （公式简洁、流程与阈值定义清晰，附录含完整 prompt 与效率/成本推导，但核心算子多为工程组合而非理论推导）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （流程可复现且成本已量化，但 13 分钟级延迟与多 API 依赖限制实时电商场景，代码未开源降低复现便利性）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/dual_diffusional_generative_fashion_recommendation/">    <span class="related-paper-title">Dual-Diffusional Generative Fashion Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/agent_conversational_rec/lavic_adapting_large_vision_language_models_to_visually_aware_conversationa/">    <span class="related-paper-title">LaViC: Adapting Large Vision-Language Models to Visually-Aware Conversational Recommendation</span>    <span class="related-paper-meta">KDD · 2025 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WSDM/2025/sequential_rec/personalised_outfit_recommendation_via_history_aware_transformers/">    <span class="related-paper-title">Personalised Outfit Recommendation via History-aware Transformers</span>    <span class="related-paper-meta">WSDM · 2025 · Seq / SSL</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/agent_conversational_rec/bootstrapping_conversational_recommendation_agents_at_spotify_synthetic_dat/">    <span class="related-paper-title">Bootstrapping Conversational Recommendation Agents At Spotify: Synthetic Data Generation and Self-Improvement Loops</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../ICDM/2025/multimodal_rec/fuse_failure_aware_usage_of_subagent_evidence_for_multimodal_search_and_rec/">    <span class="related-paper-title">FUSE: Failure-aware Usage of Subagent Evidence for MultiModal Search and Recommendation</span>    <span class="related-paper-meta">ICDM · 2025 · MM / CRS</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

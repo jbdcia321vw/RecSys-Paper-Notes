@@ -126,3 +126,16 @@ $$\Omega_{ui}^+=\frac{1}{d_u}\big(\mathbf{z}_u^\top\mathbf{z}_i-b_u^-+\alpha\big
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （推导链条清晰、表 1 特例对照精炼，但部分推导置于附录、二次激活近似的合理性论证偏薄）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源，线性复杂度实现使其可扩展至 Yelp 级数据，但全局统计量维护与多层堆叠的工程成本需线上验证）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../graph_rec/graph_sequential_alignment_and_uniformity_toward_enhanced_recommendation_sy/">    <span class="related-paper-title">Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Graph / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2025/graph_rec/ultra_fast_warm_start_solution_for_graph_recommendations/">    <span class="related-paper-title">Ultra Fast Warm Start Solution for Graph Recommendations</span>    <span class="related-paper-meta">CIKM · 2025 · Graph / Cold</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../AAAI/2025/collaborative_filtering/from_pairwise_to_ranking_climbing_the_ladder_to_ideal_collaborative_filteri/">    <span class="related-paper-title">From Pairwise to Ranking: Climbing the Ladder to Ideal Collaborative Filtering with Pseudo-Ranking</span>    <span class="related-paper-meta">AAAI (RecSys Track) · 2025 · CF / SSL</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/multi_task_reranking/non_parametric_graph_convolution_for_re_ranking_in_recommendation_systems/">    <span class="related-paper-title">Non-parametric Graph Convolution for Re-ranking in Recommendation Systems</span>    <span class="related-paper-meta">RecSys · 2025 · MTL / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../multi_task_reranking/llm4rerank_llm_based_auto_reranking_framework_for_recommendations/">    <span class="related-paper-title">LLM4Rerank: LLM-based Auto-Reranking Framework for Recommendations</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MTL / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+</div>
+<!-- related-papers:end -->

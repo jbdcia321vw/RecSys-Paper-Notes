@@ -127,3 +127,16 @@ $$E_{i,t}=\arg\text{TopK}\max_{o\in\mathcal{M}} \text{sim}(o_{i,t},o)$$
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （形式化清晰、算法伪代码完整，但奖励设计与策略优化的理论衔接较松，$\pi_\theta$ 与 LLM 参数的关系未严格定义）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （工具集 + 代码执行的设计极具工程落地价值，但未开源、LLM 调用成本与延迟未评估，复现门槛较高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/rtbagent_a_llm_based_agent_system_for_real_time_bidding/">    <span class="related-paper-title">RTBAgent: A LLM-based Agent System for Real-Time Bidding</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / RL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/ctr_feature_interaction/multi_objective_aligned_bidword_generation_model_for_e_commerce_search_adve/">    <span class="related-paper-title">Multi-objective Aligned Bidword Generation Model for E-commerce Search Advertising</span>    <span class="related-paper-meta">SIGIR · 2025 · CTR / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/debias_fairness_industrial/adtec_a_unified_benchmark_for_evaluating_text_quality_in_search_engine_adve/">    <span class="related-paper-title">AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/agentsociety_challenge_designing_llm_agents_for_user_modeling_and_recommend/">    <span class="related-paper-title">AgentSociety Challenge: Designing LLM Agents for User Modeling and Recommendation on Web Platforms</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/ctr_feature_interaction/middleman_bias_in_advertising_aligning_relevance_of_keyphrase_recommendatio/">    <span class="related-paper-title">Middleman Bias in Advertising: Aligning Relevance of Keyphrase Recommendations with Search</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+</div>
+<!-- related-papers:end -->

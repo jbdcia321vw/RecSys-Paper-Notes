@@ -131,3 +131,17 @@ GPT-5.6 Sol 作模拟用户，每环境 100 任务：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （四维指标 + 7 个前沿模型 + 双模拟用户 + 人工验证 + 消融，覆盖完整；扣分在人工样本量小、模拟器与裁判同源）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （POMDP 形式化清晰，指标定义含完整计数与聚合规则、分母约定明确；部分符号在正文与附录间略有重复）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与场景开源、ChatArena/UnrealCV 链路成熟，可直接作为智能眼镜导购助手的离线评测沙盒；但 UE5 部署重、单轮静态视图与真实低延迟需求仍有距离）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/where_and_what_reasoning_dynamic_and_implicit_preferences_in_situated_conve/">    <span class="related-paper-title">Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/agent_conversational_rec/re2a_situated_conversational_recommendation_via_rubric_based_preference_rea/">    <span class="related-paper-title">Re2A: Situated Conversational Recommendation via Rubric-based Preference Reasoning and Alignment</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · CRS / MM</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../propersim_developing_proactive_and_personalized_ai_assistants_through_user_/">    <span class="related-paper-title">ProPerSim: Developing Proactive and Personalized AI Assistants through User-Assistant Simulation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/poi_spatiotemporal_rec/rest_a_plug_and_play_spatially_constrained_representation_enhancement_frame/">    <span class="related-paper-title">ReST: A Plug-and-Play Spatially-Constrained Representation Enhancement Framework for Local-Life Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · POI / SSL</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/location_matters_leveraging_multi_resolution_geo_embeddings_for_housing_sea/">    <span class="related-paper-title">Location Matters: Leveraging Multi-Resolution Geo-Embeddings for Housing Search</span>    <span class="related-paper-meta">RecSys · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

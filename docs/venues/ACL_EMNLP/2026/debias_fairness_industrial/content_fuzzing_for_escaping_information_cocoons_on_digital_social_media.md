@@ -137,3 +137,17 @@ Sem16 + RoBERTa，200 任务，最大 300 轮（表 3、表 4）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （3 数据集 2 语言 4 类分析器 + 对抗基线 + NLI 交叉验证较完整，但缺端到端推荐曝光与大规模人工评估）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （置信度公式与算法伪代码清晰，温度/种子调度定义严谨，复杂度分析略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、无训练成本、中位 2 轮即成功，但依赖 LLM API 调用成本与 logprobs 可得性）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/debias_fairness_industrial/content_agnostic_moderation_for_stance_neutral_recommendation/">    <span class="related-paper-title">Content-Agnostic Moderation for Stance-Neutral Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Debias / MTL</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/llm_rec/large_language_models_as_narrative_driven_recommenders/">    <span class="related-paper-title">Large Language Models as Narrative-Driven Recommenders</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/debias_fairness_industrial/datasets_for_navigating_sensitive_topics_in_recommendation_systems/">    <span class="related-paper-title">Datasets for Navigating Sensitive Topics in Recommendation Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/agent_conversational_rec/disentangling_likes_and_dislikes_in_personalized_generative_explainable_rec/">    <span class="related-paper-title">Disentangling Likes and Dislikes in Personalized Generative Explainable Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CRS / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.55</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/llm_rec/tree_of_preferences_for_diversified_recommendation/">    <span class="related-paper-title">Tree of Preferences for Diversified Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+</div>
+<!-- related-papers:end -->

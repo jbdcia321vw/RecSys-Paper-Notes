@@ -132,3 +132,17 @@ $$\rho(u)=\frac{\|v_t-v_h\|_2}{\|v_t-v_r\|_2},\qquad \hat{y}(u)=\mathbb{I}\left[
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐ （ASR 与 TPR@1%FPR 双指标规范、含效率与 DP 防御分析，但数据集与目标模型覆盖偏窄，缺少大规模与深度混合模型验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （度量等价函数与一二阶导数推导清晰，特例归约关系交代明确，符号统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （10 秒级、零训练、仅黑盒查询，非常适合作为推荐平台上线前的隐私红队工具；但依赖全物品爬取数据，代码未正式开源）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/recps_privacy_risk_scoring_for_recommender_systems/">    <span class="related-paper-title">RecPS: Privacy Risk Scoring for Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · Debias</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/debias_fairness_industrial/privacy_risks_of_llm_empowered_recommender_systems_an_inversion_attack_pers/">    <span class="related-paper-title">Privacy Risks of LLM-Empowered Recommender Systems: An Inversion Attack Perspective</span>    <span class="related-paper-meta">RecSys · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/debias_fairness_industrial/membership_inference_attacks_on_in_context_examples_in_llm_based_recommende/">    <span class="related-paper-title">Membership Inference Attacks on In-Context Examples in LLM-based Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/debias_fairness_industrial/spattack_subgroup_poisoning_attacks_on_federated_recommender_systems/">    <span class="related-paper-title">Spattack: Subgroup Poisoning Attacks on Federated Recommender Systems</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/diversity_aware_dual_promotion_poisoning_attack_on_sequential_recommendatio/">    <span class="related-paper-title">Diversity-aware Dual-promotion Poisoning Attack on Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

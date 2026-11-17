@@ -121,3 +121,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （谱域推导从 ODE 到 VP 调度链条完整，符号统一；部分公式排版与 $T{=}5$ 弱噪声设定下的 ELBO 近似说明略简）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐ （思路可直接嵌入现有图召回管线，但需维护特征分解与多步采样，未开源、推理延迟对物品维度敏感，工程化仍需优化）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/collaborative_filtering/graph_spectral_filtering_with_chebyshev_interpolation_for_recommendation/">    <span class="related-paper-title">Graph Spectral Filtering with Chebyshev Interpolation for Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · CF / Graph</span>    <span class="related-paper-score">语义相似度 0.74</span>  </a>
+  <a class="related-paper" href="../../../2026/generative_rec/continuous_time_discrete_space_diffusion_model_for_recommendation/">    <span class="related-paper-title">Continuous-time Discrete-space Diffusion Model for Recommendation</span>    <span class="related-paper-meta">WSDM · 2026 · GenRec / SSL</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/generative_rec/collaborative_diffusion_model_for_recommender_system/">    <span class="related-paper-title">Collaborative Diffusion Model for Recommender System</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · GenRec / CF</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/generative_rec/on_efficiency_effectiveness_trade_off_of_diffusion_based_recommenders/">    <span class="related-paper-title">On Efficiency-Effectiveness Trade-off of Diffusion-based Recommenders</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/cross_domain_multi_scenario/s2cdr_smoothing_sharpening_process_model_for_cross_domain_recommendation/">    <span class="related-paper-title">S2CDR: Smoothing-Sharpening Process Model for Cross-Domain Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Cross / Cold</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+</div>
+<!-- related-papers:end -->

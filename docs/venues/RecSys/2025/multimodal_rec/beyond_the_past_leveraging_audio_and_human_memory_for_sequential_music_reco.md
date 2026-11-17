@@ -131,3 +131,16 @@ $\mathcal{L}_{ACTR}=\sum\sum\left\|g([f(\mathbf{a}_v);\mathbf{m}_{u,l}])-[BL^{(u
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （ACT-R 三组件与损失函数定义清晰、符号一致，短论文篇幅下推导完整，复杂度分析略欠）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码与近 9 亿条工业级数据集全部开源，仅有机交互的设计对学界极友好；但全库激活计算开销是落地瓶颈）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../collaborative_filtering/balancing_accuracy_and_novelty_with_sub_item_popularity/">    <span class="related-paper-title">Balancing Accuracy and Novelty with Sub-Item Popularity</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Seq</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../generative_rec/semantic_ids_for_music_recommendation/">    <span class="related-paper-title">Semantic IDs for Music Recommendation</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / Seq</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/sequential_rec/a_contextual_aware_position_encoding_for_sequential_recommendation/">    <span class="related-paper-title">A Contextual-Aware Position Encoding for Sequential Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+  <a class="related-paper" href="../yambda_5b_a_large_scale_multi_modal_dataset_for_ranking_and_retrieval/">    <span class="related-paper-title">Yambda-5B — A Large-Scale Multi-modal Dataset for Ranking And Retrieval</span>    <span class="related-paper-meta">RecSys · 2025 · MM / Seq</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/mixture_of_sequence_theme_aware_mixture_of_experts_for_long_sequence_recomm/">    <span class="related-paper-title">Mixture of Sequence: Theme-Aware Mixture-of-Experts for Long-Sequence Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / CTR</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+</div>
+<!-- related-papers:end -->

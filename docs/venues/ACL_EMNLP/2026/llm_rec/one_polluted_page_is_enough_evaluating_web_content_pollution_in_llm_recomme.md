@@ -133,3 +133,17 @@ top-3 实体替换下各模型平均被骗率（%，n=225）：
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （225 商品 × 15 品类 × 12 模型全量评测，三重假阳性审计、背书 vs 提及审计、中英复现与提示词/解码鲁棒性检验齐备，McNemar/Friedman 显著性完整）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （形式化简洁、图表信息密度高；但核心贡献是基准而非新算法，公式层面增量有限）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （基准与评测代码开源，直接对应 3·15 曝光的真实黑产；但仅诊断不治疗，可信度重排仅净剔除 17% 假推荐，距可上线防御仍有距离）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2025/debias_fairness_industrial/bias_beware_the_impact_of_cognitive_biases_on_llm_driven_product_recommenda/">    <span class="related-paper-title">Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/social_group_rec/you_don_t_bring_me_flowers_mitigating_unwanted_recommendations_through_conf/">    <span class="related-paper-title">You Don&#x27;t Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control</span>    <span class="related-paper-meta">RecSys · 2025 · Social / Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/id_free_not_risk_free_llm_powered_agents_unveil_risks_in_id_free_recommende/">    <span class="related-paper-title">ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in ID-Free Recommender Systems</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/llm_rec/do_llm_recommenders_know_when_they_re_hallucinating_auditing_confidence_cal/">    <span class="related-paper-title">Do LLM Recommenders Know When They&#x27;re Hallucinating? Auditing Confidence Calibration in Catalog Faithfulness</span>    <span class="related-paper-meta">CIKM · 2026 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/debias_fairness_industrial/diversity_aware_dual_promotion_poisoning_attack_on_sequential_recommendatio/">    <span class="related-paper-title">Diversity-aware Dual-promotion Poisoning Attack on Sequential Recommendation</span>    <span class="related-paper-meta">SIGIR · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.61</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -134,3 +134,16 @@ $\mathrm{TargetAttention}(Q,K,V)=\mathrm{softmax}\left(\frac{QK^{\top}}{\sqrt{d}
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （工程叙述清晰、图表完整，但公式偏基础、GSID 细节外推至另一篇未发表工作，理论分析缺失）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在闲鱼全量部署、百万级用户受益，落地价值极高；但闭源与内部码本依赖削弱了复现性）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/self_supervised_denoising/a_self_supervised_mixture_of_experts_framework_for_multi_behavior_recommend/">    <span class="related-paper-title">A Self-Supervised Mixture-of-Experts Framework for Multi-behavior Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · SSL / CF</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/suggest_complement_inspire_story_of_two_tower_recommendations_at_allegro_co/">    <span class="related-paper-title">Suggest, Complement, Inspire: Story of Two Tower Recommendations at Allegro.com</span>    <span class="related-paper-meta">RecSys · 2025 · CF / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../debias_fairness_industrial/merrec_a_large_scale_multipurpose_mercari_dataset_for_consumer_to_consumer_/">    <span class="related-paper-title">MerRec: A Large-scale Multipurpose Mercari Dataset for Consumer-to-Consumer Recommendation Systems</span>    <span class="related-paper-meta">KDD · 2025 · Debias / Seq</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/why_not_together_a_multiple_round_recommender_system_for_queries_and_items/">    <span class="related-paper-title">Why Not Together? A Multiple-Round Recommender System for Queries and Items</span>    <span class="related-paper-meta">KDD · 2025 · Seq / CRS</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/agent_conversational_rec/conversational_recommendation_over_live_e_commerce_catalogues_with_self_ref/">    <span class="related-paper-title">Conversational Recommendation over Live E-Commerce Catalogues with Self-Refreshing Retrieval</span>    <span class="related-paper-meta">RecSys · 2026 · CRS / Cold</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -145,3 +145,16 @@ GPE 中运营约束 $K$ 的开销-收益权衡（Diet 数据集）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （子模性引理与 regret 界推导完整、复杂度分析清晰，算法伪代码规范；部分符号如 $\mathcal{A}'$与$\tau$ 重定义需对照附录才完全理解）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码已开源、$K=3$ 时单次优化不足 1 秒、框架可直接嵌入品牌营销决策系统，但依赖高质量历史联名数据与市场价值标注）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2026/rl_bandit_rec/incentivized_exploration_with_stochastic_covariates_a_two_stage_mechanism_d/">    <span class="related-paper-title">Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2026 · RL / Debias</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/ctr_feature_interaction/identifying_offline_metrics_that_predict_online_impact_a_pragmatic_strategy/">    <span class="related-paper-title">Identifying Offline Metrics that Predict Online Impact: A Pragmatic Strategy for Real-World Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2025 · CTR / Seq</span>    <span class="related-paper-score">语义相似度 0.60</span>  </a>
+  <a class="related-paper" href="../../../2026/rl_bandit_rec/uncertainty_calibrated_recommendations_for_low_active_users/">    <span class="related-paper-title">Uncertainty-Aware Adaptive Recommendation across User Lifecycle</span>    <span class="related-paper-meta">KDD · 2026 · RL / Cold</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../2026/rl_bandit_rec/heterogeneous_multi_treatment_uplift_modeling_for_trade_off_optimization_in/">    <span class="related-paper-title">Heterogeneous Multi-treatment Uplift Modeling for Trade-off Optimization in Short-Video Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · RL / MTL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../../../ICDE/2025/ctr_feature_interaction/graphex_a_graph_based_extraction_method_for_advertiser_keyphrase_recommenda/">    <span class="related-paper-title">GraphEx: A Graph-based Extraction Method for Advertiser Keyphrase Recommendation</span>    <span class="related-paper-meta">ICDE · 2025 · CTR / Debias</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -129,3 +129,17 @@ $$\hat{\mathbf{g}}_i=\tilde{\mathbf{g}}_i\odot(m_i\odot \mathbf{M}_{i,:}),\quad 
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐ （主流公开数据集评测完整，包含多基线对比与消融实验验证）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐⭐ （问题形式化定义清晰，核心模块数学推导与架构阐述严谨易读）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （兼顾推荐效果增益与训练/推理效率，具备实际场景迁移参考价值）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2026/multi_task_reranking/onerank_unified_transformer_native_ranking_architecture_for_multi_task_reco/">    <span class="related-paper-title">OneRank: Unified Transformer-Native Ranking Architecture for Multi-Task Recommendation</span>    <span class="related-paper-meta">KDD · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/multi_task_reranking/lightweight_ranking_heads_accelerating_multi_task_experimentation_in_produc/">    <span class="related-paper-title">Lightweight Ranking Heads: Accelerating Multi-Task Experimentation in Production Recommender Systems</span>    <span class="related-paper-meta">RecSys · 2026 · MTL / Debias</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../2025/sequential_rec/cpmr_context_aware_incremental_sequential_recommendation_with_pseudo_multi_/">    <span class="related-paper-title">CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../personalized_task_dependency_graphs_for_mitigating_signal_erosion_in_multi_/">    <span class="related-paper-title">Personalized Task Dependency Graphs for Mitigating Signal Erosion in Multi-Task Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · MTL / CTR</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/collaborative_filtering/unipinrec_unifying_generative_retrieval_and_ranking_at_pinterest_scale/">    <span class="related-paper-title">UniPinRec: Unifying Generative Retrieval and Ranking at Pinterest Scale</span>    <span class="related-paper-meta">RecSys · 2026 · CF / GenRec</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+</div>
+<!-- related-papers:end -->

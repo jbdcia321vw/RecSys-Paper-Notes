@@ -135,3 +135,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （模块划分清晰、公式完整，但 Eq.25/27 存在重复项笔误，部分符号如 $\boldsymbol{I}^A$ 定义略突兀）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （代码开源、仅上传无语义-用户关联的编码满足合规、训练开销接近 UniSRec，但依赖 PLM 推理与聚类通信，冷启动物品文本缺失时需额外兜底）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../llm_rec/thoroughly_modeling_multi_domain_pre_trained_recommendation_as_language/">    <span class="related-paper-title">Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../llm_rec/fellas_enhancing_federated_sequential_recommendation_with_llm_as_external_s/">    <span class="related-paper-title">FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../sequential_rec/privacy_preserving_sequential_recommendation_with_collaborative_confusion/">    <span class="related-paper-title">Privacy-Preserving Sequential Recommendation with Collaborative Confusion</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/generative_rec/enhancing_embedding_representation_stability_in_recommendation_systems_with/">    <span class="related-paper-title">Enhancing Embedding Representation Stability in Recommendation Systems with Semantic ID</span>    <span class="related-paper-meta">RecSys · 2025 · GenRec / Cold</span>    <span class="related-paper-score">语义相似度 0.66</span>  </a>
+  <a class="related-paper" href="../../../../TORS/2026/debias_fairness_industrial/reproducibility_in_recommender_systems_a_survey/">    <span class="related-paper-title">Reproducibility in Recommender Systems: A Survey</span>    <span class="related-paper-meta">ACM TORS · 2026 · Debias</span>    <span class="related-paper-score">语义相似度 0.65</span>  </a>
+</div>
+<!-- related-papers:end -->

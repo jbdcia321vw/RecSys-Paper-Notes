@@ -133,3 +133,17 @@ $$\mathcal{L}=-\sum_{d_i\in\mathcal{S}}\log\frac{\exp(\mathrm{sim}(q,d_i)/\tau)}
 - **评估协议与实验扎实度 (Protocol & Experiments)**: ⭐⭐⭐⭐⭐ （10 亿候选池 Full-Ranking、时间切分防穿越、离线+线上 A/B+双模型类型验证，工业级扎实度罕见）
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （H-InfoNCE 公式与掩码流程清晰，附录给算法示例；但部分符号与图表编号在正文中略显松散）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已全量部署服务数亿用户、零推理开销、架构无关；扣分在数据不公开与 LLM 合成成本）
+
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../KDD/2025/generative_rec/great_guiding_query_generation_with_a_trie_for_recommending_related_search_/">    <span class="related-paper-title">GREAT: Guiding Query Generation with a Trie for Recommending Related Search about Video at Kuaishou</span>    <span class="related-paper-meta">KDD · 2025 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/hcmrm_a_high_consistency_multimodal_relevance_model_for_search_ads/">    <span class="related-paper-title">HCMRM: A High-Consistency Multimodal Relevance Model for Search Ads</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / CTR</span>    <span class="related-paper-score">语义相似度 0.71</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/llm_rec/when_how_to_write_for_personalized_demand_aware_query_rewriting_in_video_se/">    <span class="related-paper-title">When &amp; How to Write for Personalized Demand-aware Query Rewriting in Video Search</span>    <span class="related-paper-meta">SIGIR · 2026 · LLM4Rec / Seq</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/llm_rec/llm_based_user_personas_for_recommendations_at_scale/">    <span class="related-paper-title">LLM-Based User Personas for Recommendations at Scale</span>    <span class="related-paper-meta">RecSys · 2026 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.68</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/sequential_rec/vk_lsvd_a_large_scale_industrial_dataset_for_short_video_recommendation/">    <span class="related-paper-title">VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · Seq / Cold</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

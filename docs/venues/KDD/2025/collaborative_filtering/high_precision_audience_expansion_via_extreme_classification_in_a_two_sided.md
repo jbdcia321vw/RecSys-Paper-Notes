@@ -117,3 +117,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （问题动机、S2 几何与检索机制交代清晰，公式精简；但部分符号（如式 11 与式 1 编号重复）与特征定义略显松散）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （已在 Airbnb 生产全量上线并带来显著业务增益，工程细节如归因、分片、阈值调优、Lucene 查询改写均可直接借鉴；扣分仅因未开源）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../2026/sequential_rec/journeyformer_encoding_airbnb_guest_journey_with_sequence_modeling/">    <span class="related-paper-title">JourneyFormer: Encoding Airbnb Guest Journey with Sequence Modeling</span>    <span class="related-paper-meta">KDD · 2026 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../2026/cold_start_rec/pinequalizer_full_funnel_content_exploration_and_debiasing_system_at_pinter/">    <span class="related-paper-title">PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest</span>    <span class="related-paper-meta">KDD · 2026 · Cold / Debias</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2025/collaborative_filtering/location_matters_leveraging_multi_resolution_geo_embeddings_for_housing_sea/">    <span class="related-paper-title">Location Matters: Leveraging Multi-Resolution Geo-Embeddings for Housing Search</span>    <span class="related-paper-meta">RecSys · 2025 · CF</span>    <span class="related-paper-score">语义相似度 0.54</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/generative_rec/hypothesis_driven_shelf_generation_for_personalised_recommendation/">    <span class="related-paper-title">Hypothesis-Driven Shelf Generation for Personalised Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · GenRec / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/cold_start_rec/castle_contrastive_and_seed_guided_training_for_cold_start_natural_language/">    <span class="related-paper-title">CASTLE: Contrastive and Seed-Guided Training for Cold-Start Natural Language Search</span>    <span class="related-paper-meta">CIKM · 2026 · Cold / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+</div>
+<!-- related-papers:end -->

@@ -147,3 +147,16 @@ $$\mathcal{L}_{u_i,p_i}=-\log\frac{e^{\mathbf{u}_i^{\top}\mathbf{p}_i/\tau-\log 
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐ （框架描述清晰、公式简洁，但数据集统计、划分方式与超参细节披露不足）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （已在 Pinterest 生产环境部署并带来显著线上收益，异步上游-下游范式对工业界极具参考价值，但无开源代码）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../CIKM/2025/sequential_rec/transact_v2_lifelong_user_action_sequence_modeling_on_pinterest_recommendat/">    <span class="related-paper-title">TransAct V2: Lifelong User Action Sequence Modeling on Pinterest Recommendation</span>    <span class="related-paper-meta">CIKM · 2025 · Seq / Debias</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../CIKM/2026/cross_domain_multi_scenario/lfm4ads_large_foundation_model_for_ads_recommendation/">    <span class="related-paper-title">LFM4Ads: Large Foundation Model for Ads Recommendation</span>    <span class="related-paper-meta">CIKM · 2026 · Cross / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2025/self_supervised_denoising/omnisage_large_scale_multi_entity_heterogeneous_graph_representation_learni/">    <span class="related-paper-title">OmniSage: Large Scale, Multi-Entity Heterogeneous Graph Representation Learning</span>    <span class="related-paper-meta">KDD · 2025 · SSL / Graph</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/collaborative_filtering/interactrank_personalized_web_scale_search_pre_ranking_with_cross_interacti/">    <span class="related-paper-title">InteractRank: Personalized Web-Scale Search Pre-Ranking with Cross Interaction Features</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · CF / CTR</span>    <span class="related-paper-score">语义相似度 0.69</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/collaborative_filtering/cs3_efficient_online_capability_synergy_for_two_tower_recommendation/">    <span class="related-paper-title">CS3: Efficient Online Capability Synergy for Two-Tower Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · CF / Debias</span>    <span class="related-paper-score">语义相似度 0.67</span>  </a>
+</div>
+<!-- related-papers:end -->

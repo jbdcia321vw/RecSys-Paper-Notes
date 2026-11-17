@@ -137,3 +137,16 @@ All（703 条）设置下核心指标（Route Ratio 越低越好，其余越高�
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （指标定义与公式清晰，表 1 用颜色区分继承/新增指标很直观；奖励模型与评判细节部分下放附录）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐⭐ （代码与 50 万 POI 沙盒全开源，可直接作为旅行 Agent 的离线评测与奖励模型训练底座）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../SIGIR/2025/llm_rec/synthtrips_a_knowledge_grounded_framework_for_benchmark_query_generation_fo/">    <span class="related-paper-title">SynthTRIPs: A Knowledge-Grounded Framework for Benchmark Query Generation for Personalized Tourism Recommenders</span>    <span class="related-paper-meta">SIGIR · 2025 · LLM4Rec / CRS</span>    <span class="related-paper-score">语义相似度 0.72</span>  </a>
+  <a class="related-paper" href="../../../../ICLR_NeurIPS_ICML/2025/poi_spatiotemporal_rec/spot_trip_dual_preference_driven_out_of_town_trip_recommendation/">    <span class="related-paper-title">SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation</span>    <span class="related-paper-meta">ICLR / NeurIPS / ICML (RecSys) · 2025 · POI / Graph</span>    <span class="related-paper-score">语义相似度 0.70</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2025/poi_spatiotemporal_rec/comapoi_a_collaborative_multi_agent_framework_for_next_poi_prediction_bridg/">    <span class="related-paper-title">CoMaPOI: A Collaborative Multi-Agent Framework for Next POI Prediction Bridging the Gap Between Trajectory and Language</span>    <span class="related-paper-meta">SIGIR · 2025 · POI / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2026/poi_spatiotemporal_rec/adaptive_location_hierarchy_learning_for_long_tailed_mobility_prediction/">    <span class="related-paper-title">Adaptive Location Hierarchy Learning for Long-Tailed Mobility Prediction</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2026 · POI / Cold</span>    <span class="related-paper-score">语义相似度 0.63</span>  </a>
+  <a class="related-paper" href="../../../../RecSys/2026/multi_task_reranking/towards_full_candidate_interaction_a_comprehensive_comparison_network_for_b/">    <span class="related-paper-title">Towards Full Candidate Interaction: A Comprehensive Comparison Network for Better Route Recommendation</span>    <span class="related-paper-meta">RecSys · 2026 · MTL / POI</span>    <span class="related-paper-score">语义相似度 0.62</span>  </a>
+</div>
+<!-- related-papers:end -->

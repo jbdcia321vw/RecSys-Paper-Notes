@@ -138,3 +138,16 @@ flowchart TD
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （输入构造与三任务损失定义清楚，投票分归一化公式完整；部分表格排版有笔误，理论分析偏弱）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （推理仅单次 BERT 前向、ID 软提示易扩展至百万级专家，但代码未开源且预训练成本较高）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2026/multimodal_rec/reasonrec_a_reasoning_augmented_multimodal_agent_for_unified_recommendation/">    <span class="related-paper-title">ReasonRec: A Reasoning-Augmented Multimodal Agent for Unified Recommendation</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2026 · MM / LLM4Rec</span>    <span class="related-paper-score">语义相似度 0.58</span>  </a>
+  <a class="related-paper" href="../reinforced_prompt_personalization_for_recommendation_with_large_language_mo/">    <span class="related-paper-title">Reinforced Prompt Personalization for Recommendation with Large Language Models</span>    <span class="related-paper-meta">ACM TOIS · 2025 · LLM4Rec / RL</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../cold_start_rec/id_centric_pre_training_for_recommendation/">    <span class="related-paper-title">ID-centric Pre-training for Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cold / Seq</span>    <span class="related-paper-score">语义相似度 0.57</span>  </a>
+  <a class="related-paper" href="../../cross_domain_multi_scenario/federated_semantic_learning_for_privacy_preserving_cross_domain_recommendat/">    <span class="related-paper-title">Federated Semantic Learning for Privacy-preserving Cross-domain Recommendation</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Cross / Debias</span>    <span class="related-paper-score">语义相似度 0.56</span>  </a>
+  <a class="related-paper" href="../../debias_fairness_industrial/post_training_attribute_unlearning_in_recommender_systems/">    <span class="related-paper-title">Post-Training Attribute Unlearning in Recommender Systems</span>    <span class="related-paper-meta">ACM TOIS · 2025 · Debias / CF</span>    <span class="related-paper-score">语义相似度 0.53</span>  </a>
+</div>
+<!-- related-papers:end -->

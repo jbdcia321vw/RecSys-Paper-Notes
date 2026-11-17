@@ -126,3 +126,16 @@ FLICKR-AES 上 210 用户 Macro 平均检索结果（加粗为最优）：
 - **写作与数学规范度 (Clarity & Rigor)**: ⭐⭐⭐⭐ （分解式与扩散损失推导清晰，超参网格与最终配置全公开，个别符号如 $f^{(s)}_\theta$与$f_\theta$ 混用略欠统一）
 - **工业落地与复现价值 (Industrial & Practical Value)**: ⭐⭐⭐⭐ （4.4M 先验、单卡 10 分钟训练、冻结解码器即插即用，工程友好；但本体代码未开源、依赖 SD 多步采样限制实时性）
 
+<!-- related-papers:start -->
+## 相关论文推荐
+
+> 基于论文标题与摘要的语义相似度，推荐 5 篇最相关论文。
+
+<div class="related-papers">
+  <a class="related-paper" href="../../../../ACL_EMNLP/2025/multimodal_rec/icg_improving_cover_image_generation_via_mllm_based_prompting_and_personali/">    <span class="related-paper-title">ICG: Improving Cover Image Generation via MLLM-based Prompting and Personalized Preference Alignment</span>    <span class="related-paper-meta">ACL / EMNLP (RecSys &amp; CRS) · 2025 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.79</span>  </a>
+  <a class="related-paper" href="../../../../WWW/2025/multimodal_rec/personalized_image_generation_with_large_multimodal_models/">    <span class="related-paper-title">Personalized Image Generation with Large Multimodal Models</span>    <span class="related-paper-meta">WWW (TheWebConf) · 2025 · MM / GenRec</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../SIGIR/2026/generative_rec/dual_diffusional_generative_fashion_recommendation/">    <span class="related-paper-title">Dual-Diffusional Generative Fashion Recommendation</span>    <span class="related-paper-meta">SIGIR · 2026 · GenRec / MM</span>    <span class="related-paper-score">语义相似度 0.76</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/sequential_rec/scaling_recommender_transformers_to_one_billion_parameters/">    <span class="related-paper-title">Scaling Recommender Transformers to One Billion Parameters</span>    <span class="related-paper-meta">KDD · 2026 · Seq / GenRec</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+  <a class="related-paper" href="../../../../KDD/2026/generative_rec/breaking_the_likelihood_trap_consistent_generative_recommendation_with_grap/">    <span class="related-paper-title">Breaking the Likelihood Trap: Consistent Generative Recommendation with Graph-structured Model</span>    <span class="related-paper-meta">KDD · 2026 · GenRec / MTL</span>    <span class="related-paper-score">语义相似度 0.73</span>  </a>
+</div>
+<!-- related-papers:end -->
