@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # ✨ 生成式推荐与离散语义 ID
 
 **ACL / EMNLP (RecSys & CRS) 2025** · **5** 篇论文解读
@@ -8,10 +13,12 @@
 
 🔥 **高频主题：** 生成式推荐 ×5 · EMNLP 2025 Findings ×2 · 零样本跨域推荐 ×2
 
+<div class="pn-filter-layout">
+  <aside class="pn-filter-rail">
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
     <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
-    <span class="paper-tag-filter__hint">仅显示出现频率最高的 10 个标签；默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文；标签较多可滚动查看</span>
     <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
       <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
       <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
@@ -29,10 +36,14 @@
 <button type="button" class="paper-tag-filter__chip" data-tag="有限标量量化(FSQ)" aria-pressed="false">有限标量量化(FSQ)<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式检索" aria-pressed="false">生成式检索<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="统一物品分词器" aria-pressed="false">统一物品分词器<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="语义到词法翻译" aria-pressed="false">语义到词法翻译<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="课程学习码本" aria-pressed="false">课程学习码本<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="趋势感知推理" aria-pressed="false">趋势感知推理<span class="paper-tag-filter__count">1</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>
-
+  </aside>
+  <div class="pn-filter-list">
 <dl data-paper-list>
 <dt data-paper-tags="[&quot;EMNLP 2025 Findings&quot;,&quot;生成式推荐&quot;,&quot;召回&quot;,&quot;生成式检索&quot;,&quot;个性化用户表征&quot;,&quot;意图感知解码&quot;]"><strong><a href="a_generative_framework_for_personalized_sticker_retrieval/">A Generative Framework for Personalized Sticker Retrieval</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
@@ -55,3 +66,5 @@
 <p>纯文本驱动+FSQ统一分词+混合双向因果注意力的序列推荐基础模型，零样本跨域显著超越10%数据微调的ID基线。</p>
 </dd>
 </dl>
+  </div>
+</div>

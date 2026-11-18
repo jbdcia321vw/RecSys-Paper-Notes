@@ -42,6 +42,7 @@ plugins:
 hooks:
   - hooks/set_build_date.py
   - hooks/tags_order.py
+  - hooks/slim_search_index.py
 extra_css:
   - stylesheets/extra.css
 extra_javascript:

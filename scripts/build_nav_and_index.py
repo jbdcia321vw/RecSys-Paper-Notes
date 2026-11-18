@@ -318,7 +318,6 @@ def render_paper_tags(item: dict) -> str:
 
 
 PIPELINE_TAG_TERMS = {"召回", "粗排", "精排", "重排", "排序"}
-TAG_FILTER_LIMIT = 10
 
 
 def is_pipeline_tag(tag: str) -> bool:
@@ -372,7 +371,7 @@ def render_tag_filter(items: list, excluded: set) -> str:
         return ""
 
     chips = []
-    for tag, count in sorted(counts.items(), key=lambda pair: (-pair[1], pair[0].lower()))[:TAG_FILTER_LIMIT]:
+    for tag, count in sorted(counts.items(), key=lambda pair: (-pair[1], pair[0].lower())):
         chips.append(
             f'<button type="button" class="paper-tag-filter__chip" '
             f'data-tag="{_esc(tag)}" aria-pressed="false">'
@@ -384,7 +383,7 @@ def render_tag_filter(items: list, excluded: set) -> str:
             '<div class="paper-tag-filter" data-paper-tag-filter>',
             '  <div class="paper-tag-filter__head">',
             '    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>',
-            '    <span class="paper-tag-filter__hint">仅显示出现频率最高的 10 个标签；默认 AND：选多个标签时只显示同时包含这些标签的论文</span>',
+            '    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文；标签较多可滚动查看</span>',
             '    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">',
             '      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>',
             '      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>',
@@ -395,6 +394,21 @@ def render_tag_filter(items: list, excluded: set) -> str:
             "\n".join(chips),
             "  </div>",
             '  <div class="paper-tag-filter__status" data-tag-status></div>',
+            "</div>",
+        ]
+    )
+
+
+def render_filter_layout(filter_html: str, content_html: str) -> str:
+    return "\n".join(
+        [
+            '<div class="pn-filter-layout">',
+            '  <aside class="pn-filter-rail">',
+            filter_html,
+            "  </aside>",
+            '  <div class="pn-filter-list">',
+            content_html,
+            "  </div>",
             "</div>",
         ]
     )
@@ -578,6 +592,11 @@ def build_topic_pages(docs_dir: Path, notes: list):
         items = cat_map.get(cat_slug, [])
         icon = CAT_ICONS.get(cat_slug, "📌")
         page_lines = [
+            "---",
+            "hide:",
+            "  - toc",
+            "---",
+            "",
             f"# {icon} {cinfo['title']} ({cinfo['en_title']})",
             "",
             f"> **研究范畴**：{cinfo['desc']}",
@@ -585,20 +604,23 @@ def build_topic_pages(docs_dir: Path, notes: list):
             f"当前方向共收录 **{len(items)}** 篇顶会/顶刊论文解读：",
             "",
         ]
+        tag_filter = ""
         if items:
             hot = render_hot_tags(items, _topic_hot_tag_terms(items, cat_slug, cinfo, notes))
             if hot:
                 page_lines.extend([hot.replace("高频主题", "高频交叉主题"), ""])
             tag_filter = render_tag_filter(items, _venue_tag_terms(notes))
-            if tag_filter:
-                page_lines.extend([tag_filter, ""])
         if not items:
             page_lines.append("*暂无论文笔记。*")
         else:
             sorted_items = sorted(items, key=lambda x: (x["venue"], x["year"], x["title"].lower()))
-            page_lines.append(
-                render_paper_dl(sorted_items, lambda item: "../../" + note_url(item["rel_from_docs"]))
+            paper_list = render_paper_dl(
+                sorted_items, lambda item: "../../" + note_url(item["rel_from_docs"])
             )
+            if tag_filter:
+                page_lines.append(render_filter_layout(tag_filter, paper_list))
+            else:
+                page_lines.append(paper_list)
 
         (topics_dir / f"{cat_slug}.md").write_text("\n".join(page_lines) + "\n", encoding="utf-8")
 
@@ -796,27 +818,30 @@ def build_venue_pages(docs_dir: Path, notes: list, years: list):
             if hot:
                 year_lines.extend([hot, ""])
             tag_filter = render_tag_filter(year_items, _venue_tag_terms(notes))
-            if tag_filter:
-                year_lines.extend([tag_filter, ""])
-            year_lines.append('<div class="conf-index">')
+            section_lines = ['<div class="conf-index">']
             for cat_slug, cinfo, c_items in active_cats:
                 c_icon = CAT_ICONS.get(cat_slug, "📌")
                 sorted_items = sorted(c_items, key=lambda x: x["title"].lower())
-                year_lines.append('<section class="paper-section" data-paper-section>')
-                year_lines.append("<hr />")
-                year_lines.append(f'<h2 id="{cat_slug}">{c_icon} {cinfo["title"]} ({len(c_items)})</h2>')
-                year_lines.append(
+                section_lines.append('<section class="paper-section" data-paper-section>')
+                section_lines.append("<hr />")
+                section_lines.append(f'<h2 id="{cat_slug}">{c_icon} {cinfo["title"]} ({len(c_items)})</h2>')
+                section_lines.append(
                     render_paper_dl(
                         sorted_items[:10],
                         lambda item, cs=cat_slug: f"{cs}/{item['path'].stem}/",
                     )
                 )
                 if len(c_items) > 10:
-                    year_lines.append(
+                    section_lines.append(
                         f'<p><a href="{cat_slug}/">查看全部{len(c_items)}篇「{cinfo["title"]}」论文 →</a></p>'
                     )
-                year_lines.append("</section>")
-            year_lines.append("</div>")
+                section_lines.append("</section>")
+            section_lines.append("</div>")
+            sections_html = "\n".join(section_lines)
+            if tag_filter:
+                year_lines.append(render_filter_layout(tag_filter, sections_html))
+            else:
+                year_lines.append(sections_html)
             (year_dir / "index.md").write_text("\n".join(year_lines) + "\n", encoding="utf-8")
 
             for cat_slug, cinfo in CATEGORIES.items():
@@ -824,6 +849,11 @@ def build_venue_pages(docs_dir: Path, notes: list, years: list):
                 c_items = venue_map[venue_code][year].get(cat_slug, [])
                 c_icon = CAT_ICONS.get(cat_slug, "📌")
                 c_lines = [
+                    "---",
+                    "hide:",
+                    "  - toc",
+                    "---",
+                    "",
                     f"# {c_icon} {cinfo['title']}",
                     "",
                     f"**{vinfo['name']} {year}** · **{len(c_items)}** 篇论文解读",
@@ -866,12 +896,12 @@ def build_venue_pages(docs_dir: Path, notes: list, years: list):
                         c_lines.append("")
 
                     tag_filter = render_tag_filter(c_items, _venue_tag_terms(notes))
-                    if tag_filter:
-                        c_lines.append(tag_filter)
-                        c_lines.append("")
-
                     sorted_items = sorted(c_items, key=lambda x: x["title"].lower())
-                    c_lines.append(render_paper_dl(sorted_items, lambda item: item["path"].stem + "/"))
+                    paper_list = render_paper_dl(sorted_items, lambda item: item["path"].stem + "/")
+                    if tag_filter:
+                        c_lines.append(render_filter_layout(tag_filter, paper_list))
+                    else:
+                        c_lines.append(paper_list)
                 (c_dir / "index.md").write_text("\n".join(c_lines) + "\n", encoding="utf-8")
 
 
@@ -885,26 +915,30 @@ hide:
 按标题、关键词与标签检索全站论文。标签筛选默认使用 **AND**（同时包含），可切换为 **OR**（任一匹配）。
 
 <div id="pn-search-root">
-  <div id="pn-search-box">
-    <input id="pn-search-input" type="search" autocomplete="off" spellcheck="false" />
-  </div>
-  <fieldset id="pn-search-conference-filter" disabled>
-    <legend>会议筛选</legend>
-    <div id="pn-search-conferences"></div>
-  </fieldset>
-  <fieldset id="pn-search-tag-filter" disabled>
-    <legend>标签筛选（默认 AND，仅显示前 10 个高频标签）</legend>
-    <div id="pn-search-tags"></div>
-    <div class="pn-tag-actions">
-      <span class="pn-tag-mode" id="pn-search-tag-mode" role="group" aria-label="标签匹配模式">
-        <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
-        <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
-      </span>
-      <button type="button" id="pn-search-tag-clear" disabled>清除标签</button>
+  <section class="pn-search-main">
+    <div id="pn-search-box">
+      <input id="pn-search-input" type="search" autocomplete="off" spellcheck="false" />
     </div>
-  </fieldset>
-  <div id="pn-search-status"></div>
-  <ol id="pn-search-results"></ol>
+    <div id="pn-search-status"></div>
+    <ol id="pn-search-results"></ol>
+  </section>
+  <aside class="pn-search-filters">
+    <fieldset id="pn-search-conference-filter" disabled>
+      <legend>会议筛选</legend>
+      <div id="pn-search-conferences"></div>
+    </fieldset>
+    <fieldset id="pn-search-tag-filter" disabled>
+      <legend>标签筛选（默认 AND）</legend>
+      <div id="pn-search-tags"></div>
+      <div class="pn-tag-actions">
+        <span class="pn-tag-mode" id="pn-search-tag-mode" role="group" aria-label="标签匹配模式">
+          <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
+          <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
+        </span>
+        <button type="button" id="pn-search-tag-clear" disabled>清除标签</button>
+      </div>
+    </fieldset>
+  </aside>
 </div>
 """
 
@@ -1022,7 +1056,11 @@ def build_home_and_mkdocs_yml(repo_root: Path, notes: list, years: list, github_
     extra_js_block = "extra_javascript:\n" + "\n".join(js_list) + "\n"
 
     hooks_list = []
-    for h_rel in ["hooks/set_build_date.py", "hooks/tags_order.py"]:
+    for h_rel in [
+        "hooks/set_build_date.py",
+        "hooks/tags_order.py",
+        "hooks/slim_search_index.py",
+    ]:
         if (repo_root / h_rel).exists():
             hooks_list.append(f"  - {h_rel}")
     hooks_block = ("hooks:\n" + "\n".join(hooks_list) + "\n") if hooks_list else ""

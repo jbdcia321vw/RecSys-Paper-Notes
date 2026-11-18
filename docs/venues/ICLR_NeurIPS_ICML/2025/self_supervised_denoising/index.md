@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # 🔄 自监督对比学习与交互去噪
 
 **ICLR / NeurIPS / ICML (RecSys) 2025** · **0** 篇论文解读

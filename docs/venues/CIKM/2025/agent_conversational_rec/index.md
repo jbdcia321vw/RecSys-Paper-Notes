@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # 🗣️ 对话推荐与智能体仿真
 
 **CIKM 2025** · **3** 篇论文解读
@@ -8,10 +13,12 @@
 
 🔥 **高频主题：** 用户模拟 ×2
 
+<div class="pn-filter-layout">
+  <aside class="pn-filter-rail">
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
     <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
-    <span class="paper-tag-filter__hint">仅显示出现频率最高的 10 个标签；默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文；标签较多可滚动查看</span>
     <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
       <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
       <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
@@ -29,10 +36,12 @@
 <button type="button" class="paper-tag-filter__chip" data-tag="时序感知提示" aria-pressed="false">时序感知提示<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="知识图谱融合" aria-pressed="false">知识图谱融合<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="离线仿真评测" aria-pressed="false">离线仿真评测<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="课程学习" aria-pressed="false">课程学习<span class="paper-tag-filter__count">1</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>
-
+  </aside>
+  <div class="pn-filter-list">
 <dl data-paper-list>
 <dt data-paper-tags="[&quot;CIKM 2025&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;重排&quot;,&quot;慢思考推理&quot;,&quot;GRPO 强化学习&quot;,&quot;用户模拟&quot;]"><strong><a href="starec_an_efficient_agent_framework_for_recommender_systems_via_autonomous_/">STARec: An Efficient Agent Framework for Recommender Systems via Autonomous Deliberate Reasoning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
@@ -47,3 +56,5 @@
 <p>用动态画像更新、时序模式抽取与自适应聚合构建 LLM 用户模拟器，在 ML-1M 上 nDCG@5 相对 RecAgent 提升约 27.8%。</p>
 </dd>
 </dl>
+  </div>
+</div>

@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # 🌐 跨域与多场景推荐
 
 **ICLR / NeurIPS / ICML (RecSys) 2025** · **0** 篇论文解读

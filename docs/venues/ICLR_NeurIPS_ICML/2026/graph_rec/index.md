@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # 🕸️ 图神经网络与知识图谱推荐
 
 **ICLR / NeurIPS / ICML (RecSys) 2026** · **0** 篇论文解读

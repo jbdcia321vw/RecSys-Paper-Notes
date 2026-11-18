@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # 🎯 CTR/CVR 预估与特征交叉
 
 **IJCAI (RecSys Track) 2026** · **0** 篇论文解读

@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # 🎯 CTR/CVR 预估与特征交叉
 
 **ACL / EMNLP (RecSys & CRS) 2025** · **0** 篇论文解读
