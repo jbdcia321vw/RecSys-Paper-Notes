@@ -60,6 +60,7 @@
   }[LANG];
 
   var PAGE_SIZE = 50;
+  var TAG_LIMIT = 10;
   var MAX_PAGE_LINKS = 7;
   var docsCache = null; // pre-tokenised docs, built once per page load
   var conferenceNames = [];
@@ -287,6 +288,7 @@
     var names = Object.keys(counts).sort(function (a, b) {
       return counts[b] - counts[a] || a.localeCompare(b);
     });
+    names = names.slice(0, TAG_LIMIT);
     var container = filter.querySelector("#pn-search-tags");
     container.innerHTML = "";
     for (var k = 0; k < names.length; k++) {
