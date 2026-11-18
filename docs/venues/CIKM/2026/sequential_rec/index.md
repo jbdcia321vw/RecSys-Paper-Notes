@@ -11,7 +11,7 @@
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
     <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
-    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__hint">仅显示出现频率最高的 10 个标签；默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
     <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
       <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
       <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
@@ -29,13 +29,6 @@
 <button type="button" class="paper-tag-filter__chip" data-tag="图谱结构信号" aria-pressed="false">图谱结构信号<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对比蒸馏" aria-pressed="false">对比蒸馏<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="归一化流" aria-pressed="false">归一化流<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="拉普拉斯位置编码" aria-pressed="false">拉普拉斯位置编码<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="条件变分自编码器" aria-pressed="false">条件变分自编码器<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="注意力校准" aria-pressed="false">注意力校准<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="组件级嫁接" aria-pressed="false">组件级嫁接<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="行为线索路由" aria-pressed="false">行为线索路由<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="角度相似度打分" aria-pressed="false">角度相似度打分<span class="paper-tag-filter__count">1</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>

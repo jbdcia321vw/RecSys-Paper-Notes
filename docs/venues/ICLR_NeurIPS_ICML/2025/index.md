@@ -12,7 +12,7 @@ hide:
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
     <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
-    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__hint">仅显示出现频率最高的 10 个标签；默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
     <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
       <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
       <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
@@ -30,126 +30,6 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="arXiv" aria-pressed="false">arXiv<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="序列推荐" aria-pressed="false">序列推荐<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="评测基准" aria-pressed="false">评测基准<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="BPE" aria-pressed="false">BPE<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="Contextual MDP" aria-pressed="false">Contextual MDP<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="GRPO" aria-pressed="false">GRPO<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="Jensen Gap" aria-pressed="false">Jensen Gap<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="Knowledge Tracing" aria-pressed="false">Knowledge Tracing<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="LLM Agent" aria-pressed="false">LLM Agent<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="LLM推荐公平性" aria-pressed="false">LLM推荐公平性<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="LLM检索式推荐" aria-pressed="false">LLM检索式推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="LLM语义检索" aria-pressed="false">LLM语义检索<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="Max-Min Fairness" aria-pressed="false">Max-Min Fairness<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="META ID" aria-pressed="false">META ID<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="Model-Based Value Estimation" aria-pressed="false">Model-Based Value Estimation<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="Neural ODE" aria-pressed="false">Neural ODE<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="OOV Token" aria-pressed="false">OOV Token<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="RQ-VAE" aria-pressed="false">RQ-VAE<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="Top-K 对齐" aria-pressed="false">Top-K 对齐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="一步生成" aria-pressed="false">一步生成<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="上下文引导解码" aria-pressed="false">上下文引导解码<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="上下文感知分词" aria-pressed="false">上下文感知分词<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="两阶段最大似然估计" aria-pressed="false">两阶段最大似然估计<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="个性化排序损失" aria-pressed="false">个性化排序损失<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="任务无关视觉历史" aria-pressed="false">任务无关视觉历史<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="保形预测" aria-pressed="false">保形预测<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="偏好对齐" aria-pressed="false">偏好对齐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="偏好树推理" aria-pressed="false">偏好树推理<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="元路径聚类" aria-pressed="false">元路径聚类<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="免训练个性化" aria-pressed="false">免训练个性化<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="全流程数据集" aria-pressed="false">全流程数据集<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="内在动机奖励" aria-pressed="false">内在动机奖励<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="冷启动鲁棒性" aria-pressed="false">冷启动鲁棒性<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="出价策略" aria-pressed="false">出价策略<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="函数秘密共享 FSS" aria-pressed="false">函数秘密共享 FSS<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="分位数回归" aria-pressed="false">分位数回归<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="分布偏移" aria-pressed="false">分布偏移<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="列表级排序" aria-pressed="false">列表级排序<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="列表级用药推荐" aria-pressed="false">列表级用药推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="势函数奖励塑形" aria-pressed="false">势函数奖励塑形<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="协变量调制先验" aria-pressed="false">协变量调制先验<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="原型交叉注意力" aria-pressed="false">原型交叉注意力<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="双头架构" aria-pressed="false">双头架构<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="变分推断" aria-pressed="false">变分推断<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="可复现评估" aria-pressed="false">可复现评估<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="可学习样本合成" aria-pressed="false">可学习样本合成<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="合成交互去偏" aria-pressed="false">合成交互去偏<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="向量量化" aria-pressed="false">向量量化<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="图信号处理" aria-pressed="false">图信号处理<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="图信号频域分解" aria-pressed="false">图信号频域分解<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络推荐" aria-pressed="false">图神经网络推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多样性推荐" aria-pressed="false">多样性推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多模态大模型个性化" aria-pressed="false">多模态大模型个性化<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多模态迁移" aria-pressed="false">多模态迁移<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多轮 RLHF" aria-pressed="false">多轮 RLHF<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对偶优化" aria-pressed="false">对偶优化<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对比学习" aria-pressed="false">对比学习<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对比对齐" aria-pressed="false">对比对齐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="嵌入解耦" aria-pressed="false">嵌入解耦<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="延迟奖励" aria-pressed="false">延迟奖励<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="强化学习联合优化" aria-pressed="false">强化学习联合优化<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="心理奖励模型" aria-pressed="false">心理奖励模型<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="成对比较学习" aria-pressed="false">成对比较学习<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="成对表征" aria-pressed="false">成对表征<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="扩散推荐" aria-pressed="false">扩散推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="扩散模型" aria-pressed="false">扩散模型<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="扩散模型推荐" aria-pressed="false">扩散模型推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="投机解码" aria-pressed="false">投机解码<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="拍卖策略防伪" aria-pressed="false">拍卖策略防伪<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="推理加速" aria-pressed="false">推理加速<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="推理增强评分预测" aria-pressed="false">推理增强评分预测<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="推理效率" aria-pressed="false">推理效率<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="推荐系统基准" aria-pressed="false">推荐系统基准<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="提示工程去偏" aria-pressed="false">提示工程去偏<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="数据增强/训练数据侧" aria-pressed="false">数据增强/训练数据侧<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="文本环境仿真" aria-pressed="false">文本环境仿真<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="时变图滤波器" aria-pressed="false">时变图滤波器<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="时序异构图" aria-pressed="false">时序异构图<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与POI推荐" aria-pressed="false">时空轨迹与POI推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="机制设计" aria-pressed="false">机制设计<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="梯度冲突" aria-pressed="false">梯度冲突<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="混合双塔架构" aria-pressed="false">混合双塔架构<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="用户建模" aria-pressed="false">用户建模<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="知识图谱偏好对齐" aria-pressed="false">知识图谱偏好对齐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="矩阵 Bernstein 不等式" aria-pressed="false">矩阵 Bernstein 不等式<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="矩阵分解" aria-pressed="false">矩阵分解<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="稀疏安全聚合" aria-pressed="false">稀疏安全聚合<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="端侧训练/联邦召回" aria-pressed="false">端侧训练/联邦召回<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="端到端推荐" aria-pressed="false">端到端推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="端到端策略优化" aria-pressed="false">端到端策略优化<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="级联一致性" aria-pressed="false">级联一致性<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="线性映射探针" aria-pressed="false">线性映射探针<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="经验贝叶斯" aria-pressed="false">经验贝叶斯<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="结构化分词" aria-pressed="false">结构化分词<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="网页推荐" aria-pressed="false">网页推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="联合广告拍卖" aria-pressed="false">联合广告拍卖<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="联邦推荐" aria-pressed="false">联邦推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="自动机制设计" aria-pressed="false">自动机制设计<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="融合奖励" aria-pressed="false">融合奖励<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="行为序列预训练" aria-pressed="false">行为序列预训练<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="规则奖励建模" aria-pressed="false">规则奖励建模<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="语义标识符" aria-pressed="false">语义标识符<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="语义表征学习" aria-pressed="false">语义表征学习<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="语言表征同构" aria-pressed="false">语言表征同构<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="谱对比正则" aria-pressed="false">谱对比正则<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="贝叶斯推断" aria-pressed="false">贝叶斯推断<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="轨迹预测" aria-pressed="false">轨迹预测<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="逆强化学习" aria-pressed="false">逆强化学习<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="逐层特征对齐" aria-pressed="false">逐层特征对齐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="逐步GRPO" aria-pressed="false">逐步GRPO<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重要性采样" aria-pressed="false">重要性采样<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="量化语言" aria-pressed="false">量化语言<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="长序列建模" aria-pressed="false">长序列建模<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="隐私保护数据构建" aria-pressed="false">隐私保护数据构建<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="集合置换正则" aria-pressed="false">集合置换正则<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="零样本推荐" aria-pressed="false">零样本推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="非凸矩阵分解收敛性" aria-pressed="false">非凸矩阵分解收敛性<span class="paper-tag-filter__count">1</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>

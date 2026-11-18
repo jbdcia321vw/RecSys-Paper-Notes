@@ -318,6 +318,7 @@ def render_paper_tags(item: dict) -> str:
 
 
 PIPELINE_TAG_TERMS = {"召回", "粗排", "精排", "重排", "排序"}
+TAG_FILTER_LIMIT = 10
 
 
 def is_pipeline_tag(tag: str) -> bool:
@@ -371,7 +372,7 @@ def render_tag_filter(items: list, excluded: set) -> str:
         return ""
 
     chips = []
-    for tag, count in sorted(counts.items(), key=lambda pair: (-pair[1], pair[0].lower())):
+    for tag, count in sorted(counts.items(), key=lambda pair: (-pair[1], pair[0].lower()))[:TAG_FILTER_LIMIT]:
         chips.append(
             f'<button type="button" class="paper-tag-filter__chip" '
             f'data-tag="{_esc(tag)}" aria-pressed="false">'
@@ -383,7 +384,7 @@ def render_tag_filter(items: list, excluded: set) -> str:
             '<div class="paper-tag-filter" data-paper-tag-filter>',
             '  <div class="paper-tag-filter__head">',
             '    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>',
-            '    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>',
+            '    <span class="paper-tag-filter__hint">仅显示出现频率最高的 10 个标签；默认 AND：选多个标签时只显示同时包含这些标签的论文</span>',
             '    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">',
             '      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>',
             '      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>',
@@ -892,7 +893,7 @@ hide:
     <div id="pn-search-conferences"></div>
   </fieldset>
   <fieldset id="pn-search-tag-filter" disabled>
-    <legend>标签筛选（默认 AND）</legend>
+    <legend>标签筛选（默认 AND，仅显示前 10 个高频标签）</legend>
     <div id="pn-search-tags"></div>
     <div class="pn-tag-actions">
       <span class="pn-tag-mode" id="pn-search-tag-mode" role="group" aria-label="标签匹配模式">
@@ -1018,7 +1019,6 @@ def build_home_and_mkdocs_yml(repo_root: Path, notes: list, years: list, github_
     ]:
         if (docs_dir / js_rel).exists():
             js_list.append(f"  - {js_rel}")
-    js_list.append("  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js")
     extra_js_block = "extra_javascript:\n" + "\n".join(js_list) + "\n"
 
     hooks_list = []

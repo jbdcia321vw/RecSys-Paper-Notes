@@ -9,7 +9,7 @@
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
     <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
-    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__hint">仅显示出现频率最高的 10 个标签；默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
     <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
       <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
       <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
@@ -27,19 +27,6 @@
 <button type="button" class="paper-tag-filter__chip" data-tag="Thompson Sampling" aria-pressed="false">Thompson Sampling<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="上游-下游范式" aria-pressed="false">上游-下游范式<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="会话推荐" aria-pressed="false">会话推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="反事实离线评估" aria-pressed="false">反事实离线评估<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="在线知识蒸馏" aria-pressed="false">在线知识蒸馏<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多兴趣解耦" aria-pressed="false">多兴趣解耦<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="实体表征解耦" aria-pressed="false">实体表征解耦<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对比自监督" aria-pressed="false">对比自监督<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="帕累托前沿近似" aria-pressed="false">帕累托前沿近似<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="异构序列建模" aria-pressed="false">异构序列建模<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="扩散生成增强" aria-pressed="false">扩散生成增强<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="离线在线一致性" aria-pressed="false">离线在线一致性<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="行为序列建模" aria-pressed="false">行为序列建模<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="逆倾向加权" aria-pressed="false">逆倾向加权<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="通用用户表征" aria-pressed="false">通用用户表征<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="长序列用户建模" aria-pressed="false">长序列用户建模<span class="paper-tag-filter__count">1</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>

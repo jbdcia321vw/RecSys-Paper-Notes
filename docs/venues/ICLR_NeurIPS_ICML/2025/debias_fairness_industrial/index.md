@@ -11,7 +11,7 @@
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
     <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
-    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__hint">仅显示出现频率最高的 10 个标签；默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
     <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
       <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
       <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
@@ -29,23 +29,6 @@
 <button type="button" class="paper-tag-filter__chip" data-tag="全流程数据集" aria-pressed="false">全流程数据集<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="函数秘密共享 FSS" aria-pressed="false">函数秘密共享 FSS<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="分布偏移" aria-pressed="false">分布偏移<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="可复现评估" aria-pressed="false">可复现评估<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对偶优化" aria-pressed="false">对偶优化<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="拍卖策略防伪" aria-pressed="false">拍卖策略防伪<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="提示工程去偏" aria-pressed="false">提示工程去偏<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="机制设计" aria-pressed="false">机制设计<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="稀疏安全聚合" aria-pressed="false">稀疏安全聚合<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="端侧训练/联邦召回" aria-pressed="false">端侧训练/联邦召回<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="级联一致性" aria-pressed="false">级联一致性<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="网页推荐" aria-pressed="false">网页推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="联邦推荐" aria-pressed="false">联邦推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="评测基准" aria-pressed="false">评测基准<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重要性采样" aria-pressed="false">重要性采样<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="隐私保护数据构建" aria-pressed="false">隐私保护数据构建<span class="paper-tag-filter__count">1</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>

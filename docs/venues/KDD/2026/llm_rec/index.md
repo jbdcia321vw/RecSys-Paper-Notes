@@ -11,7 +11,7 @@
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
     <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
-    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__hint">仅显示出现频率最高的 10 个标签；默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
     <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
       <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
       <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
@@ -29,15 +29,6 @@
 <button type="button" class="paper-tag-filter__chip" data-tag="不变性学习" aria-pressed="false">不变性学习<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="基准审计" aria-pressed="false">基准审计<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多智能体强化学习" aria-pressed="false">多智能体强化学习<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多轮 Grounding" aria-pressed="false">多轮 Grounding<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多重图消息传递" aria-pressed="false">多重图消息传递<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="推理期干预" aria-pressed="false">推理期干预<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="教师学生蒸馏" aria-pressed="false">教师学生蒸馏<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="方面解耦" aria-pressed="false">方面解耦<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="画像外推" aria-pressed="false">画像外推<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="知识图谱传播" aria-pressed="false">知识图谱传播<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="语义画像生成" aria-pressed="false">语义画像生成<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="隐式意图生成" aria-pressed="false">隐式意图生成<span class="paper-tag-filter__count">1</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>

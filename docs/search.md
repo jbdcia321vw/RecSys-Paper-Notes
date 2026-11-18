@@ -16,7 +16,7 @@ hide:
     <div id="pn-search-conferences"></div>
   </fieldset>
   <fieldset id="pn-search-tag-filter" disabled>
-    <legend>标签筛选（默认 AND）</legend>
+    <legend>标签筛选（默认 AND，仅显示前 10 个高频标签）</legend>
     <div id="pn-search-tags"></div>
     <div class="pn-tag-actions">
       <span class="pn-tag-mode" id="pn-search-tag-mode" role="group" aria-label="标签匹配模式">
