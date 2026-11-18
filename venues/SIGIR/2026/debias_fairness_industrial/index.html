@@ -790,6 +790,8 @@
   
     
     
+      
+    
     <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" data-nosnippet >
       <div class="md-sidebar__scrollwrap">
         <div class="md-sidebar__inner">
@@ -4689,7 +4691,9 @@
   
     
     
-    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" data-nosnippet >
+      
+    
+    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" data-nosnippet hidden>
       <div class="md-sidebar__scrollwrap">
         <div class="md-sidebar__inner">
           
@@ -4720,6 +4724,8 @@
 
 
                   
+  
+
 
 
   
@@ -4733,10 +4739,12 @@
 </blockquote>
 <p>📌 <strong>同领域跨会议浏览：</strong> <a href="../../2025/debias_fairness_industrial/">SIGIR 2025 (13)</a> · <a href="../../../AAAI/2025/debias_fairness_industrial/">AAAI (RecSys Track) 2025 (4)</a> · <a href="../../../AAAI/2026/debias_fairness_industrial/">AAAI (RecSys Track) 2026 (7)</a> · <a href="../../../ACL_EMNLP/2025/debias_fairness_industrial/">ACL / EMNLP (RecSys &amp; CRS) 2025 (5)</a> · <a href="../../../ACL_EMNLP/2026/debias_fairness_industrial/">ACL / EMNLP (RecSys &amp; CRS) 2026 (3)</a> · <a href="../../../ACM_MM/2025/debias_fairness_industrial/">ACM MM 2025 (1)</a> · <a href="../../../ACM_MM/2026/debias_fairness_industrial/">ACM MM 2026 (1)</a> · <a href="../../../CIKM/2025/debias_fairness_industrial/">CIKM 2025 (9)</a> · <a href="../../../CIKM/2026/debias_fairness_industrial/">CIKM 2026 (4)</a> · <a href="../../../DASFAA/2025/debias_fairness_industrial/">DASFAA 2025 (1)</a> · <a href="../../../ECIR/2025/debias_fairness_industrial/">ECIR 2025 (6)</a> · <a href="../../../ECIR/2026/debias_fairness_industrial/">ECIR 2026 (2)</a> · <a href="../../../ICDM/2025/debias_fairness_industrial/">ICDM 2025 (1)</a> · <a href="../../../ICDM/2026/debias_fairness_industrial/">ICDM 2026 (2)</a> · <a href="../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/">ICLR / NeurIPS / ICML (RecSys) 2025 (6)</a> · <a href="../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/">ICLR / NeurIPS / ICML (RecSys) 2026 (7)</a> · <a href="../../../IJCAI/2025/debias_fairness_industrial/">IJCAI (RecSys Track) 2025 (1)</a> · <a href="../../../IJCAI/2026/debias_fairness_industrial/">IJCAI (RecSys Track) 2026 (1)</a> · <a href="../../../KDD/2025/debias_fairness_industrial/">KDD 2025 (10)</a> · <a href="../../../KDD/2026/debias_fairness_industrial/">KDD 2026 (7)</a> · <a href="../../../RecSys/2025/debias_fairness_industrial/">RecSys 2025 (9)</a> · <a href="../../../RecSys/2026/debias_fairness_industrial/">RecSys 2026 (14)</a> · <a href="../../../SIGIR-AP/2025/debias_fairness_industrial/">SIGIR-AP 2025 (2)</a> · <a href="../../../TKDD/2025/debias_fairness_industrial/">ACM TKDD 2025 (1)</a> · <a href="../../../TKDE/2025/debias_fairness_industrial/">IEEE TKDE 2025 (6)</a> · <a href="../../../TOIS/2025/debias_fairness_industrial/">ACM TOIS 2025 (4)</a> · <a href="../../../TOIS/2026/debias_fairness_industrial/">ACM TOIS 2026 (1)</a> · <a href="../../../TORS/2025/debias_fairness_industrial/">ACM TORS 2025 (7)</a> · <a href="../../../TORS/2026/debias_fairness_industrial/">ACM TORS 2026 (3)</a> · <a href="../../../WSDM/2025/debias_fairness_industrial/">WSDM 2025 (1)</a> · <a href="../../../WWW/2025/debias_fairness_industrial/">WWW (TheWebConf) 2025 (9)</a> · <a href="../../../WWW/2026/debias_fairness_industrial/">WWW (TheWebConf) 2026 (10)</a></p>
 <p>🔥 <strong>高频主题：</strong> 去偏公平与可信推荐 ×13 · 生成式推荐 ×2</p>
+<div class="pn-filter-layout">
+  <aside class="pn-filter-rail">
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
     <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
-    <span class="paper-tag-filter__hint">仅显示出现频率最高的 10 个标签；默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文；标签较多可滚动查看</span>
     <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
       <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
       <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
@@ -4754,10 +4762,48 @@
 <button type="button" class="paper-tag-filter__chip" data-tag="位置偏置" aria-pressed="false">位置偏置<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="全局时间线" aria-pressed="false">全局时间线<span class="paper-tag-filter__count">1</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="公平重排" aria-pressed="false">公平重排<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动暴露" aria-pressed="false">冷启动暴露<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="分层KL分解" aria-pressed="false">分层KL分解<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="反事实解释" aria-pressed="false">反事实解释<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="可复现性基准" aria-pressed="false">可复现性基准<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="可微排序网络" aria-pressed="false">可微排序网络<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="后分层" aria-pressed="false">后分层<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="在线A/B实验评估" aria-pressed="false">在线A/B实验评估<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="增量学习" aria-pressed="false">增量学习<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多行为建模" aria-pressed="false">多行为建模<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="工业级全链路架构" aria-pressed="false">工业级全链路架构<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="异质效用建模" aria-pressed="false">异质效用建模<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="扩散推荐" aria-pressed="false">扩散推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="投机预计算" aria-pressed="false">投机预计算<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="控制变量" aria-pressed="false">控制变量<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="推理时知识蒸馏" aria-pressed="false">推理时知识蒸馏<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="提供方曝光公平" aria-pressed="false">提供方曝光公平<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="提供者公平" aria-pressed="false">提供者公平<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="数据划分" aria-pressed="false">数据划分<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="方差缩减" aria-pressed="false">方差缩减<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="时间泄漏" aria-pressed="false">时间泄漏<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="注意力经济" aria-pressed="false">注意力经济<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="流形优化" aria-pressed="false">流形优化<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="流行度去偏" aria-pressed="false">流行度去偏<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="滑动窗口评估" aria-pressed="false">滑动窗口评估<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="点击模型" aria-pressed="false">点击模型<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="直播推荐数据集" aria-pressed="false">直播推荐数据集<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="眼动追踪" aria-pressed="false">眼动追踪<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="离线评估" aria-pressed="false">离线评估<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="自引导" aria-pressed="false">自引导<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="评测协议与数据审计" aria-pressed="false">评测协议与数据审计<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="评测基准" aria-pressed="false">评测基准<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="逆倾向得分" aria-pressed="false">逆倾向得分<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重尾指标" aria-pressed="false">重尾指标<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排/评估" aria-pressed="false">重排/评估<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="长尾公平性" aria-pressed="false">长尾公平性<span class="paper-tag-filter__count">1</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>
-
+  </aside>
+  <div class="pn-filter-list">
 <dl data-paper-list>
 <dt data-paper-tags="[&quot;SIGIR 2026&quot;,&quot;去偏公平与可信推荐&quot;,&quot;生成式推荐&quot;,&quot;扩散推荐&quot;,&quot;自引导&quot;,&quot;流行度去偏&quot;]"><strong><a href="adaptive_autoguidance_for_item_side_fairness_in_diffusion_recommender_syste/">Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -4812,6 +4858,8 @@
 <p>用后分层+CUPED压制重尾GMV方差，等效置信度下节省约45%流量，已在ShareChat 40+线上实验落地。</p>
 </dd>
 </dl>
+  </div>
+</div>
 
 
 
@@ -4824,6 +4872,8 @@
 
 
 
+
+  
 
 
 

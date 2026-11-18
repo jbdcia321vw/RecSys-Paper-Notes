@@ -60,7 +60,6 @@
   }[LANG];
 
   var PAGE_SIZE = 50;
-  var TAG_LIMIT = 10;
   var MAX_PAGE_LINKS = 7;
   var docsCache = null; // pre-tokenised docs, built once per page load
   var conferenceNames = [];
@@ -288,7 +287,6 @@
     var names = Object.keys(counts).sort(function (a, b) {
       return counts[b] - counts[a] || a.localeCompare(b);
     });
-    names = names.slice(0, TAG_LIMIT);
     var container = filter.querySelector("#pn-search-tags");
     container.innerHTML = "";
     for (var k = 0; k < names.length; k++) {
@@ -762,22 +760,20 @@
     if (styleInjected) return;
     styleInjected = true;
     var css =
-      "#pn-search-root{max-width:46rem;margin:0 auto}" +
+      "#pn-search-root{max-width:72rem;margin:0 auto;display:grid;grid-template-columns:minmax(0,1fr) 18rem;gap:1.25rem;align-items:start}" +
+      ".pn-search-main{min-width:0}" +
+      ".pn-search-filters{position:sticky;top:5rem;max-height:calc(100vh - 6rem);overflow-y:auto;padding-right:.25rem}" +
       "#pn-search-box{margin:.4rem 0 1rem}" +
       "#pn-search-input{box-sizing:border-box;width:100%;min-width:0;font-size:1rem;padding:.6rem .8rem;border:1px solid var(--md-default-fg-color--lighter);border-radius:.4rem;background:var(--md-default-bg-color);color:var(--md-default-fg-color)}" +
       "#pn-search-input:focus{outline:none;border-color:var(--md-accent-fg-color)}" +
-      "#pn-search-conference-filter{min-width:0;border:0;padding:0;margin:.65rem 0 0}" +
-      "#pn-search-conference-filter legend{padding:0;color:var(--md-default-fg-color--light);font-size:.78rem;line-height:1.5}" +
-      "#pn-search-conferences{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.3rem}" +
+      "#pn-search-conference-filter,#pn-search-tag-filter{min-width:0;border:1px solid var(--md-default-fg-color--lightest);border-radius:.45rem;padding:.65rem .75rem;margin:0 0 .75rem;background:var(--md-default-bg-color)}" +
+      "#pn-search-conference-filter legend,#pn-search-tag-filter legend{padding:0 .25rem;color:var(--md-default-fg-color--light);font-size:.78rem;line-height:1.5}" +
+      "#pn-search-conferences,#pn-search-tags{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.3rem}" +
       ".pn-conference-option{display:inline-flex;align-items:center;gap:.28rem;padding:.25rem .48rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:.35rem;background:var(--md-default-bg-color);font-size:.76rem;line-height:1.45;white-space:nowrap;cursor:pointer}" +
       ".pn-conference-option:hover{border-color:var(--md-accent-fg-color)}" +
       ".pn-conference-option input{width:.85rem;height:.85rem;margin:0;accent-color:var(--md-accent-fg-color)}" +
       ".pn-conference-option input:checked+span{color:var(--md-typeset-a-color);font-weight:600}" +
-      "#pn-search-conference-filter:disabled{opacity:.6}" +
-      "#pn-search-tag-filter{min-width:0;border:0;padding:0;margin:.65rem 0 0}" +
-      "#pn-search-tag-filter legend{padding:0;color:var(--md-default-fg-color--light);font-size:.78rem;line-height:1.5}" +
-      "#pn-search-tags{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.3rem;max-height:9rem;overflow:auto;padding:.1rem 0}" +
-      "#pn-search-tag-filter:disabled{opacity:.6}" +
+      "#pn-search-conference-filter:disabled,#pn-search-tag-filter:disabled{opacity:.6}" +
       ".pn-tag-count{font-style:normal;opacity:.7;font-size:.65rem;margin-left:.2rem}" +
       ".pn-tag-actions{display:flex;align-items:center;gap:.6rem;margin-top:.4rem;flex-wrap:wrap}" +
       ".pn-tag-mode{display:inline-flex;overflow:hidden;border:1px solid var(--md-default-fg-color--lightest);border-radius:.35rem}" +
@@ -809,6 +805,11 @@
       ".md-typeset .pn-kw .pn-mark{background:none;padding:0}" +
       '[data-md-color-scheme="slate"] .md-typeset .pn-mark{color:#ffa94d;background:rgba(255,169,77,.16)}' +
       '[data-md-color-scheme="slate"] .md-typeset .pn-kw .pn-mark{background:none}' +
+      "@media screen and (max-width: 960px){" +
+      "#pn-search-root{display:block;max-width:46rem}" +
+      ".pn-search-filters{position:static;max-height:none;overflow:visible;padding-right:0;margin-bottom:1rem}" +
+      "#pn-search-tags{max-height:9rem;overflow:auto;padding:.1rem 0}" +
+      "}" +
       ".pn-deep{font-size:.8rem;white-space:nowrap}" +
       "body.pn-on-search .md-search{display:none!important}" +
       'body.pn-on-search label[for="__search"]{display:none!important}' +
