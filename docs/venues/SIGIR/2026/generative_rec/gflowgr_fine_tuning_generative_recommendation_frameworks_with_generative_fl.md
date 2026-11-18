@@ -4,7 +4,6 @@ description: "[SIGIR 2026][生成式推荐] 将生成式推荐重构为集合级
 tags:
   - SIGIR 2026
   - 生成式推荐
-  - 生成式端到端
   - GFlowNets
   - 曝光偏差
   - 奖励对齐微调

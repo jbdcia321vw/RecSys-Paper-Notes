@@ -3,7 +3,7 @@ title: "[Paper Note] Why is Normalization Necessary for Linear Recommenders?"
 description: "[SIGIR 2025][去偏公平与工业架构] 理论剖析线性自编码器归一化对流行度/邻域偏差的作用，提出数据自适应归一化 DAN，六数据集全库排序下长尾最高提升 128.57%。"
 tags:
   - SIGIR 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 线性自编码器
   - 数据自适应归一化

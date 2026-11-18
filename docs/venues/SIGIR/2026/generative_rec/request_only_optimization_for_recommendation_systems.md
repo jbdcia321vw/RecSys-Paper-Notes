@@ -3,8 +3,7 @@ title: "[Paper Note] Request-Only Optimization for Recommendation Systems"
 description: "[SIGIR 2026][生成式推荐与离散语义ID] 以用户请求为训练样本单元，在数据源头去重用户特征，实现训练吞吐 2-6 倍提升并支撑 HSTU 生成式推荐规模化落地。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
-  - 端到端生成式
+  - 生成式推荐
   - Request-Only Optimization
   - HSTU
   - 特征去重

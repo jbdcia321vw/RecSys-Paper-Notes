@@ -3,7 +3,7 @@ title: "News Without Borders: Domain Adaptation of Multilingual Sentence Embeddi
 description: "[ECIR 2025][冷启动与长尾推荐] 构建 PolyNews 多语新闻语料，以 DAE+MT 领域适配 LaBSE 得 NaSE，冻结嵌入+晚期点击融合在 ZS-XLT 冷启动新闻推荐上达 SOTA。"
 tags:
   - ECIR 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 多语种句子编码器
   - 零样本跨语言迁移

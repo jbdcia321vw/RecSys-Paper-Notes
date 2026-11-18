@@ -5,7 +5,7 @@ tags:
   - RecSys 2025
   - 协同过滤与双塔召回
   - 召回
-  - Two Tower
+  - Two-Tower
   - 内容特征召回
   - ANN 分层索引
 date: 2026-11-14

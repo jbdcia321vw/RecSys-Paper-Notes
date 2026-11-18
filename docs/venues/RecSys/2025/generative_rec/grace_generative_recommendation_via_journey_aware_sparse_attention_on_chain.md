@@ -3,8 +3,7 @@ title: "[Paper Note] GRACE: Generative Recommendation via Journey-Aware Sparse A
 description: "[RecSys 2025][生成式推荐与离散语义ID] 用 PKG 属性链式 CoT token 增强语义 ID，并以旅程感知四路稀疏注意力替代全注意力，Home 域 HR@10 相对提升 106.9%，长序列注意力计算降 48%。"
 tags:
   - RecSys 2025
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - Chain-of-Thought Tokenization
   - Journey-Aware Sparse Attention
   - 多行为序列推荐

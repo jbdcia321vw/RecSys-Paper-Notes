@@ -3,7 +3,7 @@ title: "[Paper Note] Towards Principled Learning for Re-ranking in Recommender S
 description: "[SIGIR 2025][多任务学习与列表级重排] 提出收敛一致性与对抗一致性两条重排学习原则，以自洽重排与相邻换位扰动构造额外监督，即插即用地提升多种重排基线。"
 tags:
   - SIGIR 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 列表级上下文建模
   - 一致性正则

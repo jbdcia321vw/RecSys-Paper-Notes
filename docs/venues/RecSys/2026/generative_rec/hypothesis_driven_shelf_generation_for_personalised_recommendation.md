@@ -4,7 +4,6 @@ description: "[RecSys 2026][生成式推荐] 用自然语言货架假设替代�
 tags:
   - RecSys
   - 生成式推荐
-  - 端到端生成式
   - 货架生成
   - 语义ID生成式检索
   - LLM-as-a-Judge

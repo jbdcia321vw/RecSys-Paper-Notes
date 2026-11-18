@@ -3,8 +3,7 @@ title: "[Paper Note] Differentiable Semantic ID for Generative Recommendation"
 description: "[SIGIR 2026][生成式推荐与离散语义ID] 用 Gumbel 噪声+不确定性衰减实现可微语义ID联合训练，Leave-One-Out 全库排序下 R@10 相对 TIGER 提升约 12%。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
-  - 端到端生成式
+  - 生成式推荐
   - 可微语义ID
   - Gumbel-Softmax 探索
   - 码本坍缩

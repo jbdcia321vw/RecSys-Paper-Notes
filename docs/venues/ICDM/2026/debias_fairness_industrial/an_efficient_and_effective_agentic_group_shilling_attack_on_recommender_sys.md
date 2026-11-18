@@ -3,7 +3,7 @@ title: "[Paper Note] An Efficient and Effective Agentic Group Shilling Attack on
 description: "[ICDM 2026][去偏公平、可信隐私与工业架构] 提出协调者驱动的角色切换多智能体群体托攻击框架 AGAS，黑盒免训练、动态策略，HR@10 相对提升 155%–198% 且显著削弱检测器。"
 tags:
   - ICDM 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 数据投毒/鲁棒性评测
   - LLM Agent
   - 群体托攻击

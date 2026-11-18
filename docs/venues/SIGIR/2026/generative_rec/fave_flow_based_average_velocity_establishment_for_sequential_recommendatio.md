@@ -3,8 +3,7 @@ title: "[Paper Note] FAVE: Flow-based Average Velocity Establishment for Sequent
 description: "[SIGIR 2026][生成式推荐与离散语义ID] 用语义锚先验替代高斯噪声、以平均速度场实现单步流匹配生成推荐，全库排序下 N@20 相对提升 9.9%，推理提速 20 倍以上。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - Flow Matching
   - 单步生成
   - 语义锚先验

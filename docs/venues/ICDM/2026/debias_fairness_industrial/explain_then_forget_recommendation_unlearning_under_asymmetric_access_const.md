@@ -3,9 +3,9 @@ title: "[Paper Note] Explain, Then Forget: Recommendation Unlearning under Asymm
 description: "[ICDM 2026][去偏公平与工业架构] 面向 MLaaS 非对称访问约束的免参数推荐遗忘框架，用因果解释定位最小支持集并做输出级分数干预，遗忘效果逼近全量重训且延迟降低 9–55 倍。"
 tags:
   - ICDM 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
-  - 推荐遗忘 (Unlearning)
+  - 推荐遗忘
   - 因果反事实解释
   - 输出级分数干预
 date: 2026-11-13

@@ -3,7 +3,7 @@ title: "[Paper Note] Exploring the Effect of Context-Awareness and Popularity Ca
 description: "[RecSys 2025][时空轨迹与POI本地生活推荐] 系统评测上下文感知模型与校准流行度(CP)重排在POI推荐中的去偏效果，发现二者组合可在保精度同时最贴近用户流行度画像。"
 tags:
   - RecSys 2025
-  - 时空轨迹与POI本地生活推荐
+  - 时空轨迹与POI推荐
   - 重排
   - 流行度校准
   - 上下文感知POI推荐

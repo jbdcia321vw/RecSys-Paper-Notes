@@ -3,7 +3,7 @@ title: "[Paper Note] Equip Pre-ranking with Target Attention by Residual Quantiz
 description: "[SIGIR 2026][多任务学习与列表级重排] 用残差量化码本近似 Target Attention，将交互式建模引入粗排，AUC 0.799、线上 GMV +7.57%。"
 tags:
   - SIGIR 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 粗排
   - 残差量化
   - Target Attention

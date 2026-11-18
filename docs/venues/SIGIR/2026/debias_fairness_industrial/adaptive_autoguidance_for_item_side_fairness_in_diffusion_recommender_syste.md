@@ -3,8 +3,8 @@ title: "[Paper Note] Adaptive Autoguidance for Item-Side Fairness in Diffusion R
 description: "[SIGIR 2026][去偏公平与工业架构] 用可学习逐步引导权重替代固定自引导，配合流行度正则，在扩散推荐中实现物品侧公平与精度近无损的平衡。"
 tags:
   - SIGIR 2026
-  - 去偏公平与工业架构
-  - 生成式端到端
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - 扩散推荐
   - 自引导
   - 流行度去偏

@@ -6,7 +6,7 @@ tags:
   - 序列推荐
   - 精排
   - 注意力校准
-  - 混合专家
+  - MoE
 date: 2026-11-12
 venue: CIKM
 year: 2026

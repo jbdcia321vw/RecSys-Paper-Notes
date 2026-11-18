@@ -3,7 +3,7 @@ title: "[Paper Note] JobFormer: Skill-Aware Job Recommendation with Semantic-Enh
 description: "[TKDD 2025][CTR预估与特征交叉] 用局部-全局注意力 Transformer 聚合邻居 JD 补全语义，并以技能分布引导两阶段召回+CTR排序，Recall@20 较 NRMS 提升 2.31%。"
 tags:
   - TKDD
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 召回+精排两阶段
   - 语义增强Transformer
   - 技能感知表征

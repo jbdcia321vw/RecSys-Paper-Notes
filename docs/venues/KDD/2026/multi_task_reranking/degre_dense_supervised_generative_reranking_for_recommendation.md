@@ -3,7 +3,7 @@ title: "[Paper Note] DeGRe: Dense-supervised Generative Reranking for Recommenda
 description: "[KDD 2026][多任务学习与列表级重排] 离线束搜索挖掘前瞻序列+累积回归稠密监督蒸馏至轻量生成器，单次贪心解码逼近全局最优，线上GMV+3.75%"
 tags:
   - KDD 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 生成式重排
   - 稠密监督蒸馏

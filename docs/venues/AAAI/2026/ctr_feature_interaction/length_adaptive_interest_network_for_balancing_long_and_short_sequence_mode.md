@@ -3,7 +3,7 @@ title: "[Paper Note] Length-Adaptive Interest Network for Balancing Long and Sho
 description: "[AAAI 2026][CTR预估与特征交叉] 将序列长度作为条件信号注入提示与注意力温度，缓解短序列用户注意力极化，五骨干平均AUC最高+1.15%。"
 tags:
   - AAAI 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 序列长度条件化
   - 注意力温度调制

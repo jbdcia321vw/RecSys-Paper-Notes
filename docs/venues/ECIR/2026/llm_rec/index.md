@@ -8,12 +8,33 @@
 
 🔥 **高频主题：** 大语言模型推荐 ×2
 
-<dl>
-<dt><strong><a href="pre_trained_llms_meet_sequential_recommenders_efficient_user_centric_knowle/">Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<div class="paper-tag-filter" data-paper-tag-filter>
+  <div class="paper-tag-filter__head">
+    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
+    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
+      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
+      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
+    </span>
+    <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
+  </div>
+  <div class="paper-tag-filter__chips">
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="学术文献推荐基准" aria-pressed="false">学术文献推荐基准<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列推荐" aria-pressed="false">序列推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="用户画像蒸馏" aria-pressed="false">用户画像蒸馏<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="自然语言用户画像" aria-pressed="false">自然语言用户画像<span class="paper-tag-filter__count">1</span></button>
+  </div>
+  <div class="paper-tag-filter__status" data-tag-status></div>
+</div>
+
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;ECIR 2026&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;用户画像蒸馏&quot;,&quot;序列推荐&quot;]"><strong><a href="pre_trained_llms_meet_sequential_recommenders_efficient_user_centric_knowle/">Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用预训练 LLM 生成文本用户画像并蒸馏进 SASRec/BERT4Rec 隐层，两阶段训练实现零推理开销的语义增强，Recall@10 最高提升 23.5%。</p>
 </dd>
-<dt><strong><a href="scinup_natural_language_user_interest_profiles_for_scientific_literature_re/">SciNUP: Natural Language User Interest Profiles for Scientific Literature Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dt data-paper-tags="[&quot;ECIR 2026&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;自然语言用户画像&quot;,&quot;学术文献推荐基准&quot;]"><strong><a href="scinup_natural_language_user_interest_profiles_for_scientific_literature_re/">SciNUP: Natural Language User Interest Profiles for Scientific Literature Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>构建千名作者的自然语言兴趣画像学术推荐基准，系统对比稀疏/稠密/LLM重排，RRF 融合达 NDCG@10 0.4481。</p>
 </dd>

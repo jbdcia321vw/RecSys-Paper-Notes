@@ -3,7 +3,7 @@ title: "[Paper Note] Scholar Inbox: Personalized Paper Recommendations for Scien
 description: "[ACL/EMNLP 2025 Demo][冷启动与长尾推荐] 面向科研论文的开放获取推荐平台，以显式点赞/点踩训练加权逻辑回归，结合 Scholar Maps 与主动学习破解冷启动，在 80 万评分数据集上 GTE-Large 达 AUC 86.75。"
 tags:
   - ACL/EMNLP 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 内容基推荐
   - 主动学习冷启动

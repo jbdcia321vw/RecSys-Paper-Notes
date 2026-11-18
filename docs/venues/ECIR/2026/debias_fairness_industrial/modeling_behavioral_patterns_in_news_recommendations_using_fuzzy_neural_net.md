@@ -3,7 +3,7 @@ title: "[Paper Note] Modeling Behavioral Patterns in News Recommendations Using 
 description: "[ECIR 2026][去偏公平与工业架构] 用多层模糊神经网络端到端学习可读逻辑规则预测新闻点击，阈值可调控制规则复杂度，EB-NeRD 上 nDCG@10 相对 NRMS 提升约 21.9%。"
 tags:
   - ECIR 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 模糊逻辑
   - 可解释规则学习

@@ -3,7 +3,7 @@ title: "[Paper Note] MTGR: Industrial-Scale Generative Recommendation Framework 
 description: "[CIKM 2025][生成式推荐与离散语义 ID] 以用户级样本聚合复用 HSTU 编码器并保留 DLRM 交叉特征，实现 65× FLOPs 下线上 CTCVR +1.02%、推理成本降 12%"
 tags:
   - CIKM 2025
-  - 生成式推荐与离散语义 ID
+  - 生成式推荐
   - 精排
   - HSTU
   - 用户级样本聚合

@@ -3,7 +3,7 @@ title: "[Paper Note] LEGO: A Lightweight and Efficient Multiple-Attribute Unlear
 description: "[ACM MM 2025][去偏公平、可信隐私与工业架构] 将多属性遗忘拆为并行嵌入校准与权重组合两步，以互信息最小化保证同时遗忘，动态需求下近零额外开销。"
 tags:
   - ACM MM 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 后处理/嵌入层
   - 机器遗忘 (Machine Unlearning)
   - 互信息最小化

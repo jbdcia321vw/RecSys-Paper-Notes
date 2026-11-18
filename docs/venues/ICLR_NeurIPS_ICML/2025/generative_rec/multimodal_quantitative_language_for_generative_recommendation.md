@@ -3,8 +3,7 @@ title: "[Paper Note] Multimodal Quantitative Language for Generative Recommendat
 description: "[ICLR 2025][生成式推荐与离散语义ID] 用 RQ-VAE 将多域多模态物品翻译为统一量化语言，配合多任务预训练微调实现知识迁移，全库排序下 NDCG@10 最高提升 14.82%。"
 tags:
   - ICLR
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 量化语言
   - RQ-VAE
   - 多模态迁移

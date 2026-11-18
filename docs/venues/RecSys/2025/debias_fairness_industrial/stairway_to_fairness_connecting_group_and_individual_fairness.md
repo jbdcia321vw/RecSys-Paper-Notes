@@ -3,11 +3,11 @@ title: "[Paper Note] Stairway to Fairness: Connecting Group and Individual Fairn
 description: "[RecSys 2025][去偏公平与工业架构] 首次用同一族度量（SD/Gini/Atk）在 3 数据集 8 组 LLMRec 运行上实证组公平与个体公平的错位，揭示组间公平掩盖组内与个体不公。"
 tags:
   - RecSys 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 公平性评估
   - 组公平与个体公平
-  - LLM 推荐
+  - LLM推荐
 date: 2026-11-14
 venue: RecSys
 year: 2025

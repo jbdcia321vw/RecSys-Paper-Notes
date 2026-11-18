@@ -4,9 +4,9 @@ description: "[KDD 2026][大语言模型推荐] 用 MoE 多粒度 KG 检索智�
 tags:
   - KDD 2026
   - 大语言模型推荐
-  - 端到端生成式
+  - 生成式推荐
   - KG-RAG
-  - Mixture-of-Experts
+  - MoE
   - 多智能体强化学习
 date: 2026-11-12
 venue: KDD

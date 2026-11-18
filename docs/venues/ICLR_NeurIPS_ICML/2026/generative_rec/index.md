@@ -6,18 +6,41 @@
 
 📌 **同领域跨会议浏览：** [ICLR / NeurIPS / ICML (RecSys) 2025 (6)](../../2025/generative_rec/) · [AAAI (RecSys Track) 2026 (5)](../../../AAAI/2026/generative_rec/) · [ACL / EMNLP (RecSys & CRS) 2025 (5)](../../../ACL_EMNLP/2025/generative_rec/) · [ACL / EMNLP (RecSys & CRS) 2026 (2)](../../../ACL_EMNLP/2026/generative_rec/) · [CIKM 2025 (6)](../../../CIKM/2025/generative_rec/) · [CIKM 2026 (14)](../../../CIKM/2026/generative_rec/) · [ECIR 2026 (1)](../../../ECIR/2026/generative_rec/) · [ICDM 2026 (2)](../../../ICDM/2026/generative_rec/) · [IJCAI (RecSys Track) 2025 (1)](../../../IJCAI/2025/generative_rec/) · [IJCAI (RecSys Track) 2026 (1)](../../../IJCAI/2026/generative_rec/) · [KDD 2025 (4)](../../../KDD/2025/generative_rec/) · [KDD 2026 (13)](../../../KDD/2026/generative_rec/) · [RecSys 2025 (6)](../../../RecSys/2025/generative_rec/) · [RecSys 2026 (12)](../../../RecSys/2026/generative_rec/) · [SIGIR 2025 (4)](../../../SIGIR/2025/generative_rec/) · [SIGIR 2026 (19)](../../../SIGIR/2026/generative_rec/) · [SIGIR-AP 2026 (1)](../../../SIGIR-AP/2026/generative_rec/) · [ACM TKDD 2026 (1)](../../../TKDD/2026/generative_rec/) · [IEEE TKDE 2025 (1)](../../../TKDE/2025/generative_rec/) · [ACM TORS 2026 (1)](../../../TORS/2026/generative_rec/) · [WSDM 2026 (3)](../../../WSDM/2026/generative_rec/) · [WWW (TheWebConf) 2025 (4)](../../../WWW/2025/generative_rec/) · [WWW (TheWebConf) 2026 (6)](../../../WWW/2026/generative_rec/)
 
-🔥 **高频主题：** NeurIPS ×2 · 生成式推荐 ×2 · 生成式端到端 ×2
+🔥 **高频主题：** 生成式推荐 ×3 · NeurIPS ×2
 
-<dl>
-<dt><strong><a href="rethinking_semantic_id_construction_for_generative_recommendation_simhash_w/">Rethinking Semantic ID Construction for Generative Recommendation: SimHash with Parallel Decoding and Semantic Alignment</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<div class="paper-tag-filter" data-paper-tag-filter>
+  <div class="paper-tag-filter__head">
+    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
+    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
+      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
+      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
+    </span>
+    <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
+  </div>
+  <div class="paper-tag-filter__chips">
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="SimHash语义ID" aria-pressed="false">SimHash语义ID<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="并行解码" aria-pressed="false">并行解码<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="机器遗忘" aria-pressed="false">机器遗忘<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="语义ID重分配" aria-pressed="false">语义ID重分配<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="语义对齐" aria-pressed="false">语义对齐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨模态协同" aria-pressed="false">跨模态协同<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="部分信息分解" aria-pressed="false">部分信息分解<span class="paper-tag-filter__count">1</span></button>
+  </div>
+  <div class="paper-tag-filter__status" data-tag-status></div>
+</div>
+
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;NeurIPS&quot;,&quot;生成式推荐&quot;,&quot;SimHash语义ID&quot;,&quot;并行解码&quot;,&quot;语义对齐&quot;]"><strong><a href="rethinking_semantic_id_construction_for_generative_recommendation_simhash_w/">Rethinking Semantic ID Construction for Generative Recommendation: SimHash with Parallel Decoding and Semantic Alignment</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>揭示LSH分词劣势源于与自回归解码的结构错配，提出免训练SimHash+并行解码+语义对齐的FLASH，全库排序下NDCG@5最高提升14.46%。</p>
 </dd>
-<dt><strong><a href="syngr_unleashing_the_potential_of_cross_modal_synergy_for_generative_recomm/">SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dt data-paper-tags="[&quot;ICML&quot;,&quot;生成式推荐&quot;,&quot;跨模态协同&quot;,&quot;部分信息分解&quot;]"><strong><a href="syngr_unleashing_the_potential_of_cross_modal_synergy_for_generative_recomm/">SynGR: Unleashing the Potential of Cross-Modal Synergy for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用 PID 信息分解揭示多模态生成式推荐的协同信息缺失，提出显著性感知掩码+协同对比学习，Full-Ranking 下平均提升约 10%</p>
 </dd>
-<dt><strong><a href="tracer_token_reassignment_for_concept_erasure_in_generative_recommendation/">TRACER: Token ReAssignment for Concept ERasure in Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dt data-paper-tags="[&quot;NeurIPS&quot;,&quot;生成式推荐&quot;,&quot;语义ID重分配&quot;,&quot;机器遗忘&quot;]"><strong><a href="tracer_token_reassignment_for_concept_erasure_in_generative_recommendation/">TRACER: Token ReAssignment for Concept ERasure in Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>首个面向生成式推荐的概念遗忘框架，用可微 token 重分配替代直接抑制共享 SID，在 Amazon 三域上遗忘 HR@5 较 PISCES 再降 20%+ 且保留 97% 效用。</p>
 </dd>

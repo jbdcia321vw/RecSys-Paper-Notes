@@ -4,7 +4,7 @@ description: "[SIGIR 2025][大语言模型推荐] 用 GFlowNet 将物品级奖�
 tags:
   - SIGIR 2025
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - GFlowNet
   - 过程监督
   - 流行度去偏

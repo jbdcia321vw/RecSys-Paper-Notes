@@ -7,7 +7,7 @@ tags:
   - 召回
   - 频域滤波
   - 用户自适应
-  - 混合专家
+  - MoE
 date: 2026-11-14
 venue: CIKM
 year: 2025

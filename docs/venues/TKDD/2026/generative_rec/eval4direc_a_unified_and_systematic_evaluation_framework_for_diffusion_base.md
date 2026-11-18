@@ -3,8 +3,7 @@ title: "[Paper Note] Eval4DiRec: A Unified and Systematic Evaluation Framework f
 description: "[TKDD 2026][生成式推荐与离散语义ID] 首个面向扩散推荐的开源统一评测框架，覆盖 5 场景 14 模型，标准化扩散推理配置并揭示噪声调度与步数的关键影响。"
 tags:
   - TKDD
-  - 生成式推荐与离散语义ID
-  - 端到端生成式
+  - 生成式推荐
   - 扩散推荐
   - 可复现评测基准
 date: 2026-11-13

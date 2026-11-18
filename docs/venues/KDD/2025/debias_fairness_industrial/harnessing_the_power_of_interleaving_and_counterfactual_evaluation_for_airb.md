@@ -3,7 +3,7 @@ title: "[Paper Note] Harnessing the Power of Interleaving and Counterfactual Eva
 description: "[KDD 2025][去偏公平与工业架构] 提出竞争对式 Team Draft 交错实验与在线反事实评估，用双层随机化与位置差增益估计器将 Airbnb 搜索排序实验灵敏度提升 50–100 倍。"
 tags:
   - KDD 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 交错实验
   - 反事实评估

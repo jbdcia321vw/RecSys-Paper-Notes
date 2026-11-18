@@ -4,7 +4,6 @@ description: "[CIKM 2026][生成式推荐] 以 query 模态统一搜索/推荐�
 tags:
   - CIKM
   - 生成式推荐
-  - 端到端生成式
   - Query-Driven Decoder
   - 时间对齐负采样
 date: 2026-11-13

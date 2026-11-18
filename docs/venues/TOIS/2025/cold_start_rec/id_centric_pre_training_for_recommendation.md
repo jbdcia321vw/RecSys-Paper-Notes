@@ -3,7 +3,7 @@ title: "[Paper Note] ID-centric Pre-training for Recommendation"
 description: "[TOIS 2025][冷启动与长尾推荐] 提出以 ID 嵌入为中心的多域预训练范式 IDP，用行为感知跨域 ID 匹配器 CDIM 将预训练 ID 嵌入迁移至新域物品，冷/热启动均显著超越 UniSRec 等基线。"
 tags:
   - TOIS
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - ID-centric Pre-training
   - Cross-domain ID Matcher

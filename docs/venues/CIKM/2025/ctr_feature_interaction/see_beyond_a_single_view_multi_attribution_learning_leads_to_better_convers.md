@@ -3,7 +3,7 @@ title: "[Paper Note] See Beyond a Single View: Multi-Attribution Learning Leads 
 description: "[CIKM 2025][CTR预估与特征交叉] 将多归因标签作为辅助任务联合学习，用笛卡尔积辅助训练增强监督信号，离线GAUC+0.51%、线上ROI+2.6%"
 tags:
   - CIKM 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 多归因学习
   - 多任务学习

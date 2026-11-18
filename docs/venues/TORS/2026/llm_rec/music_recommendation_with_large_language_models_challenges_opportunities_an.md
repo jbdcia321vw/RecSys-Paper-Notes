@@ -4,7 +4,7 @@ description: "[TORS 2026][LLM4Rec] 系统梳理 LLM 驱动音乐推荐在用户�
 tags:
   - TORS
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - 音乐推荐评估
   - LLM-as-Judge
   - 提示工程

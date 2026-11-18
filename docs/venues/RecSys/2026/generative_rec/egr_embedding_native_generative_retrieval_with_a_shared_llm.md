@@ -3,7 +3,7 @@ title: "[Paper Note] EGR: Embedding-Native Generative Retrieval with a Shared LL
 description: "[RecSys 2026][生成式推荐与离散语义ID] 用单一共享 LLM 同时编码物品与用户历史，以双对比损失联合训练，免量化免 grounding，线上 CVR +2.91%"
 tags:
   - RecSys
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - Embedding-Native Retrieval
   - Shared LLM Backbone

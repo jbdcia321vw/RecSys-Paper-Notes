@@ -6,12 +6,37 @@
 
 📌 **同领域跨会议浏览：** [RecSys 2025 (1)](../../2025/poi_spatiotemporal_rec/) · [AAAI (RecSys Track) 2025 (1)](../../../AAAI/2025/poi_spatiotemporal_rec/) · [ACL / EMNLP (RecSys & CRS) 2025 (1)](../../../ACL_EMNLP/2025/poi_spatiotemporal_rec/) · [CIKM 2025 (1)](../../../CIKM/2025/poi_spatiotemporal_rec/) · [ICLR / NeurIPS / ICML (RecSys) 2025 (1)](../../../ICLR_NeurIPS_ICML/2025/poi_spatiotemporal_rec/) · [KDD 2025 (1)](../../../KDD/2025/poi_spatiotemporal_rec/) · [KDD 2026 (2)](../../../KDD/2026/poi_spatiotemporal_rec/) · [SIGIR 2025 (2)](../../../SIGIR/2025/poi_spatiotemporal_rec/) · [SIGIR 2026 (1)](../../../SIGIR/2026/poi_spatiotemporal_rec/) · [IEEE TKDE 2025 (1)](../../../TKDE/2025/poi_spatiotemporal_rec/) · [ACM TORS 2026 (1)](../../../TORS/2026/poi_spatiotemporal_rec/) · [WWW (TheWebConf) 2026 (1)](../../../WWW/2026/poi_spatiotemporal_rec/)
 
-<dl>
-<dt><strong><a href="generative_spatiotemporal_intent_sequence_recommendation_via_implicit_reaso/">Generative Spatiotemporal Intent Sequence Recommendation via Implicit Reasoning in Amap</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+🔥 **高频主题：** 时空轨迹与POI推荐 ×2
+
+<div class="paper-tag-filter" data-paper-tag-filter>
+  <div class="paper-tag-filter__head">
+    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
+    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
+      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
+      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
+    </span>
+    <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
+  </div>
+  <div class="paper-tag-filter__chips">
+<button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与POI推荐" aria-pressed="false">时空轨迹与POI推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="反事实DPO" aria-pressed="false">反事实DPO<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="提供方公平性" aria-pressed="false">提供方公平性<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="潜在扩散模型" aria-pressed="false">潜在扩散模型<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="虚拟用户生成" aria-pressed="false">虚拟用户生成<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="隐式CoT蒸馏" aria-pressed="false">隐式CoT蒸馏<span class="paper-tag-filter__count">1</span></button>
+  </div>
+  <div class="paper-tag-filter__status" data-tag-status></div>
+</div>
+
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;RecSys 2026&quot;,&quot;时空轨迹与POI推荐&quot;,&quot;生成式推荐&quot;,&quot;隐式CoT蒸馏&quot;,&quot;反事实DPO&quot;]"><strong><a href="generative_spatiotemporal_intent_sequence_recommendation_via_implicit_reaso/">Generative Spatiotemporal Intent Sequence Recommendation via Implicit Reasoning in Amap</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>将LLM显式CoT压缩为隐式潜token并配合时空反事实DPO，在Amap工业数据与线上A/B中实现低延迟意图序列生成。</p>
 </dd>
-<dt><strong><a href="give_the_long_tail_more_space_promoting_provider_fairness_in_next_poi_recom/">Give the Long-tail More SPACE: Promoting Provider Fairness in Next POI Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;时空轨迹与POI推荐&quot;,&quot;召回&quot;,&quot;虚拟用户生成&quot;,&quot;提供方公平性&quot;,&quot;潜在扩散模型&quot;]"><strong><a href="give_the_long_tail_more_space_promoting_provider_fairness_in_next_poi_recom/">Give the Long-tail More SPACE: Promoting Provider Fairness in Next POI Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>以社区推断+非平衡最优传输配额+约束引导潜扩散生成虚拟用户，在物理可达与供给约束下提升长尾POI曝光，公平性最高提升94.11%且精度不降。</p>
 </dd>

@@ -3,7 +3,7 @@ title: "Evaluating Impact of User-Cluster Targeted Attacks in Matrix Factorisati
 description: "[TORS 2025][去偏公平与工业架构] 系统分析 MF 推荐中面向用户簇的投毒攻击，揭示 V 矩阵是攻击传播主通道，簇内真实评分量决定脆弱性。"
 tags:
   - TORS
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 数据投毒攻击
   - 矩阵分解

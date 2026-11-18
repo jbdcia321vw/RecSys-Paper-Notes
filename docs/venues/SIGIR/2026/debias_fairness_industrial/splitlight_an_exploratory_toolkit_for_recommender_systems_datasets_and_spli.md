@@ -3,7 +3,7 @@ title: "[Paper Note] SplitLight: An Exploratory Toolkit for Recommender Systems 
 description: "[SIGIR 2026][去偏公平、可信隐私与工业架构] 开源数据集与划分审计工具箱，量化时间泄漏、冷启动暴露、重复消费与分布漂移，揭示预处理决策可使 NDCG@10 变动 1.2%–60%。"
 tags:
   - SIGIR 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 评测协议与数据审计
   - 数据划分
   - 时间泄漏

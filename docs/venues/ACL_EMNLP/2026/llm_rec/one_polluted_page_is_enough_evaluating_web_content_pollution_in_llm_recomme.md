@@ -4,7 +4,7 @@ description: "[EMNLP 2026 Findings][LLM4Rec] 提出 FORGE 基准，在冻结检�
 tags:
   - EMNLP 2026 Findings
   - 大语言模型推荐
-  - 端到端生成式
+  - 生成式推荐
   - GEO 网页污染
   - 检索增强鲁棒性
 date: 2026-11-13

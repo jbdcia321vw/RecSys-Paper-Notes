@@ -7,164 +7,315 @@ hide:
 
 41 篇 ACL / EMNLP (RecSys & CRS) 2025 论文解读，覆盖 7 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
-🔥 **高频主题：** 大语言模型推荐 ×19 · ACL 2025 ×14 · 生成式端到端 ×10 · 端到端生成式 ×7 · ACL ×6 · EMNLP 2025 ×6 · ACL/EMNLP 2025 ×4 · ACL 2025 Findings ×3
+🔥 **高频主题：** 大语言模型推荐 ×19 · 生成式推荐 ×18 · ACL 2025 ×14 · ACL ×6 · EMNLP 2025 ×6 · 去偏公平与可信推荐 ×5 · ACL/EMNLP 2025 ×4 · ACL 2025 Findings ×3
+
+<div class="paper-tag-filter" data-paper-tag-filter>
+  <div class="paper-tag-filter__head">
+    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
+    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
+      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
+      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
+    </span>
+    <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
+  </div>
+  <div class="paper-tag-filter__chips">
+<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">19</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">18</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">8</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">8</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="LLM Agent" aria-pressed="false">LLM Agent<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="个性化奖励模型" aria-pressed="false">个性化奖励模型<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="零样本跨域推荐" aria-pressed="false">零样本跨域推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Contextual User Profiling" aria-pressed="false">Contextual User Profiling<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Contrastive Summarization" aria-pressed="false">Contrastive Summarization<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Debate Prompting" aria-pressed="false">Debate Prompting<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Direct Preference Optimization" aria-pressed="false">Direct Preference Optimization<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="GCN 检索器" aria-pressed="false">GCN 检索器<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="KG-RAG" aria-pressed="false">KG-RAG<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Knowledge Graph RAG" aria-pressed="false">Knowledge Graph RAG<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="LLM Agent 基准评测" aria-pressed="false">LLM Agent 基准评测<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="LLM 分层卸载" aria-pressed="false">LLM 分层卸载<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="LLM 商品推荐鲁棒性" aria-pressed="false">LLM 商品推荐鲁棒性<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="LLM-as-a-Judge 蒸馏" aria-pressed="false">LLM-as-a-Judge 蒸馏<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Mixture of LoRA Experts" aria-pressed="false">Mixture of LoRA Experts<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="MLLM 提示生成" aria-pressed="false">MLLM 提示生成<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Multi-LoRA" aria-pressed="false">Multi-LoRA<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Persuasive Recommendation" aria-pressed="false">Persuasive Recommendation<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Query-Driven Recommendation" aria-pressed="false">Query-Driven Recommendation<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="RAG" aria-pressed="false">RAG<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="个性化估值" aria-pressed="false">个性化估值<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="个性化偏好对齐" aria-pressed="false">个性化偏好对齐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="个性化助手基准" aria-pressed="false">个性化助手基准<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="个性化推荐" aria-pressed="false">个性化推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="个性化搜索" aria-pressed="false">个性化搜索<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="个性化查询生成" aria-pressed="false">个性化查询生成<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="个性化用户表征" aria-pressed="false">个性化用户表征<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="主动学习冷启动" aria-pressed="false">主动学习冷启动<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="人口统计对齐" aria-pressed="false">人口统计对齐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="人类对齐" aria-pressed="false">人类对齐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="公平性审计" aria-pressed="false">公平性审计<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="内容基推荐" aria-pressed="false">内容基推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="分层规划" aria-pressed="false">分层规划<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="列表级重排" aria-pressed="false">列表级重排<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="动态记忆" aria-pressed="false">动态记忆<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤用户表征" aria-pressed="false">协同过滤用户表征<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="原型-多样性均衡" aria-pressed="false">原型-多样性均衡<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="可解释推荐" aria-pressed="false">可解释推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="咨询-行为交互" aria-pressed="false">咨询-行为交互<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="咨询价值评估" aria-pressed="false">咨询价值评估<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="哈希嵌入压缩" aria-pressed="false">哈希嵌入压缩<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="售前咨询动机建模" aria-pressed="false">售前咨询动机建模<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="图软提示" aria-pressed="false">图软提示<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="地理偏见" aria-pressed="false">地理偏见<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="场景锚定用户画像" aria-pressed="false">场景锚定用户画像<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="基准数据集" aria-pressed="false">基准数据集<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多头早退" aria-pressed="false">多头早退<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多尺度聚合" aria-pressed="false">多尺度聚合<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多智能体仿真" aria-pressed="false">多智能体仿真<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多智能体协作" aria-pressed="false">多智能体协作<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多模态对话推荐" aria-pressed="false">多模态对话推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多模态指令推荐" aria-pressed="false">多模态指令推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多粒度后期融合" aria-pressed="false">多粒度后期融合<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="客户端性能均衡" aria-pressed="false">客户端性能均衡<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对比偏好扩增" aria-pressed="false">对比偏好扩增<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对比对齐" aria-pressed="false">对比对齐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对话推荐" aria-pressed="false">对话推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对话摘要生成" aria-pressed="false">对话摘要生成<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="并行架构" aria-pressed="false">并行架构<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="广告文案生成" aria-pressed="false">广告文案生成<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="广告文案质量评估" aria-pressed="false">广告文案质量评估<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="强化学习画像精炼" aria-pressed="false">强化学习画像精炼<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="情感认知状态偏好" aria-pressed="false">情感认知状态偏好<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="意图感知解码" aria-pressed="false">意图感知解码<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="扩散模型适配器" aria-pressed="false">扩散模型适配器<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="拍卖闭环评估" aria-pressed="false">拍卖闭环评估<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="指令微调" aria-pressed="false">指令微调<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="指令感知重排" aria-pressed="false">指令感知重排<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="推理加速" aria-pressed="false">推理加速<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="推理时扩展" aria-pressed="false">推理时扩展<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="推理期精炼" aria-pressed="false">推理期精炼<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="推荐透明度" aria-pressed="false">推荐透明度<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="数据合成" aria-pressed="false">数据合成<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="文本序列推荐" aria-pressed="false">文本序列推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="文本画像对齐" aria-pressed="false">文本画像对齐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="旅行行程规划" aria-pressed="false">旅行行程规划<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与POI推荐" aria-pressed="false">时空轨迹与POI推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="时间感知提示" aria-pressed="false">时间感知提示<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="智能体推荐" aria-pressed="false">智能体推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="有限标量量化(FSQ)" aria-pressed="false">有限标量量化(FSQ)<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="核心集选择" aria-pressed="false">核心集选择<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="模板增强推理" aria-pressed="false">模板增强推理<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="泛化能力评估" aria-pressed="false">泛化能力评估<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="深思式提示" aria-pressed="false">深思式提示<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="混合注意力专家池化" aria-pressed="false">混合注意力专家池化<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="潜在空间解码" aria-pressed="false">潜在空间解码<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="熵拐点分析" aria-pressed="false">熵拐点分析<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="物品推荐信息生成" aria-pressed="false">物品推荐信息生成<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式检索" aria-pressed="false">生成式检索<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="用户反馈对齐" aria-pressed="false">用户反馈对齐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="用户模拟" aria-pressed="false">用户模拟<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="用户画像/离线建模" aria-pressed="false">用户画像/离线建模<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="用户身份偏差" aria-pressed="false">用户身份偏差<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="稠密检索对话推荐" aria-pressed="false">稠密检索对话推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="稠密语义嵌入" aria-pressed="false">稠密语义嵌入<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="约束解码" aria-pressed="false">约束解码<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="统一物品分词器" aria-pressed="false">统一物品分词器<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="综述与分类体系" aria-pressed="false">综述与分类体系<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="联邦推荐" aria-pressed="false">联邦推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="自适应重排" aria-pressed="false">自适应重排<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="认知偏差攻击" aria-pressed="false">认知偏差攻击<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="评测基准" aria-pressed="false">评测基准<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="评论有用性预测" aria-pressed="false">评论有用性预测<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="词表扩展" aria-pressed="false">词表扩展<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="语义到词法翻译" aria-pressed="false">语义到词法翻译<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="语义匹配分数" aria-pressed="false">语义匹配分数<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="课程学习码本" aria-pressed="false">课程学习码本<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="趋势感知推理" aria-pressed="false">趋势感知推理<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="选择性检索" aria-pressed="false">选择性检索<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排/解释生成" aria-pressed="false">重排/解释生成<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="隐式最高级查询" aria-pressed="false">隐式最高级查询<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="隐状态聚合" aria-pressed="false">隐状态聚合<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="零样本推荐" aria-pressed="false">零样本推荐<span class="paper-tag-filter__count">1</span></button>
+  </div>
+  <div class="paper-tag-filter__status" data-tag-status></div>
+</div>
 
 <div class="conf-index">
+<section class="paper-section" data-paper-section>
 <hr />
 <h2 id="generative_rec">✨ 生成式推荐与离散语义 ID (5)</h2>
-<dl>
-<dt><strong><a href="generative_rec/a_generative_framework_for_personalized_sticker_retrieval/">A Generative Framework for Personalized Sticker Retrieval</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;EMNLP 2025 Findings&quot;,&quot;生成式推荐&quot;,&quot;召回&quot;,&quot;生成式检索&quot;,&quot;个性化用户表征&quot;,&quot;意图感知解码&quot;]"><strong><a href="generative_rec/a_generative_framework_for_personalized_sticker_retrieval/">A Generative Framework for Personalized Sticker Retrieval</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>PEARL 用用户组嵌入+LLM意图排序加权解码，实现微信表情包个性化生成式检索，离线 MRR@10 提升 15%、线上 CTR +7.12%。</p>
 </dd>
-<dt><strong><a href="generative_rec/enhancing_time_awareness_in_generative_recommendation/">Enhancing Time Awareness in Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;EMNLP 2025 Findings&quot;,&quot;生成式推荐&quot;,&quot;时间感知提示&quot;,&quot;趋势感知推理&quot;]"><strong><a href="generative_rec/enhancing_time_awareness_in_generative_recommendation/">Enhancing Time Awareness in Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>将绝对时间戳与目标相对间隔verbalize进提示，并叠加全局转移图与免训练趋势重排，Full-Ranking下R@5最高提升15.4%。</p>
 </dd>
-<dt><strong><a href="generative_rec/gram_generative_recommendation_via_semantic_aware_multi_granular_late_fusio/">GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL 2025&quot;,&quot;生成式推荐&quot;,&quot;语义到词法翻译&quot;,&quot;多粒度后期融合&quot;]"><strong><a href="generative_rec/gram_generative_recommendation_via_semantic_aware_multi_granular_late_fusio/">GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>将层次/协同语义翻译为 LLM 词表内文本 ID，并用多粒度提示+后期融合保留长文本信息，Full-Ranking 下 R@5 提升 11.5–16.0%。</p>
 </dd>
-<dt><strong><a href="generative_rec/recbase_generative_foundation_model_pretraining_for_zero_shot_recommendatio/">RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;EMNLP 2025&quot;,&quot;生成式推荐&quot;,&quot;统一物品分词器&quot;,&quot;课程学习码本&quot;,&quot;零样本跨域推荐&quot;]"><strong><a href="generative_rec/recbase_generative_foundation_model_pretraining_for_zero_shot_recommendatio/">RecBase: Generative Foundation Model Pretraining for Zero-Shot Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用课程学习增强的 RQ-VAE 将跨域物品统一离散为层级概念 ID，从零预训练 1.5B 自回归推荐基座，在 8 个未见数据集零样本 AUC 全面超越 7B LLM。</p>
 </dd>
-<dt><strong><a href="generative_rec/recgpt_a_foundation_model_for_sequential_recommendation/">RecGPT: A Foundation Model for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL/EMNLP 2025&quot;,&quot;生成式推荐&quot;,&quot;有限标量量化(FSQ)&quot;,&quot;零样本跨域推荐&quot;]"><strong><a href="generative_rec/recgpt_a_foundation_model_for_sequential_recommendation/">RecGPT: A Foundation Model for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>纯文本驱动+FSQ统一分词+混合双向因果注意力的序列推荐基础模型，零样本跨域显著超越10%数据微调的ID基线。</p>
 </dd>
 </dl>
+</section>
+<section class="paper-section" data-paper-section>
 <hr />
 <h2 id="llm_rec">🧠 大语言模型推荐 (LLM4Rec) (19)</h2>
-<dl>
-<dt><strong><a href="llm_rec/a_text_based_recommender_system_that_leverages_explicit_affective_state_pre/">A Text-Based Recommender System that Leverages Explicit Affective State Preferences</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;EMNLP 2025&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;情感认知状态偏好&quot;,&quot;文本序列推荐&quot;]"><strong><a href="llm_rec/a_text_based_recommender_system_that_leverages_explicit_affective_state_pre/">A Text-Based Recommender System that Leverages Explicit Affective State Preferences</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>提出情感-认知状态显式偏好推荐任务，用 GPT-4o 从书评挖掘 AC 语句构建数据集，Transformer 融合长短期偏好与 AC 描述，全库排序 HR@10 达 15.6%。</p>
 </dd>
-<dt><strong><a href="llm_rec/copl_collaborative_preference_learning_for_personalizing_llms/">CoPL: Collaborative Preference Learning for Personalizing LLMs</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;协同过滤用户表征&quot;,&quot;Mixture of LoRA Experts&quot;,&quot;个性化奖励模型&quot;]"><strong><a href="llm_rec/copl_collaborative_preference_learning_for_personalizing_llms/">CoPL: Collaborative Preference Learning for Personalizing LLMs</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用用户-回复二部图协同过滤学习用户表征，结合 MoLE 路由个性化奖励模型，并支持无优化未见用户适配，在 UltraFeedback-P 等基准上显著超越个性化奖励模型基线。</p>
 </dd>
-<dt><strong><a href="llm_rec/cove_compressed_vocabulary_expansion_makes_better_llm_based_recommender_sys/">CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL 2025 Findings&quot;,&quot;大语言模型推荐&quot;,&quot;生成式推荐&quot;,&quot;词表扩展&quot;,&quot;哈希嵌入压缩&quot;]"><strong><a href="llm_rec/cove_compressed_vocabulary_expansion_makes_better_llm_based_recommender_sys/">CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>将物品映射为扩展词表唯一 token，用 logits 直接打分替代文本生成，并以哈希压缩嵌入表，实现最高 62% 精度提升与约 100× 推理加速。</p>
 </dd>
-<dt><strong><a href="llm_rec/decoding_in_latent_spaces_for_efficient_inference_in_llm_based_recommendati/">Decoding in Latent Spaces for Efficient Inference in LLM-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;EMNLP 2025&quot;,&quot;大语言模型推荐&quot;,&quot;生成式推荐&quot;,&quot;潜在空间解码&quot;,&quot;隐状态聚合&quot;,&quot;推理加速&quot;]"><strong><a href="llm_rec/decoding_in_latent_spaces_for_efficient_inference_in_llm_based_recommendati/">Decoding in Latent Spaces for Efficient Inference in LLM-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用训练样本末层隐状态聚合出物品潜在表征，以 L2 距离匹配替代自回归语言空间解码，推理提速 10 倍以上且性能不降反升。</p>
 </dd>
-<dt><strong><a href="llm_rec/easyrec_simple_yet_effective_language_models_for_recommendation/">EasyRec: Simple yet Effective Language Models for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;EMNLP 2025&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;文本画像对齐&quot;,&quot;零样本推荐&quot;]"><strong><a href="llm_rec/easyrec_simple_yet_effective_language_models_for_recommendation/">EasyRec: Simple yet Effective Language Models for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 LLM 生成用户/物品画像并以对比学习对齐协同信号，训练轻量文本编码器实现零样本推荐，Full-Ranking 下 Recall@20 最高提升 32%。</p>
 </dd>
-<dt><strong><a href="llm_rec/generative_product_recommendations_for_implicit_superlative_queries/">Generative Product Recommendations for Implicit Superlative Queries</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL 2025&quot;,&quot;大语言模型推荐&quot;,&quot;重排&quot;,&quot;隐式最高级查询&quot;,&quot;列表级重排&quot;,&quot;深思式提示&quot;]"><strong><a href="llm_rec/generative_product_recommendations_for_implicit_superlative_queries/">Generative Product Recommendations for Implicit Superlative Queries</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>提出 SUPERB 四级标注体系与深思式属性生成，用 LLM 列表级重排处理隐式最高级商品查询，nDCG@10 相对 BM25 提升约 18%。</p>
 </dd>
-<dt><strong><a href="llm_rec/kerl_knowledge_enhanced_personalized_recipe_recommendation_using_large_lang/">KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL 2025&quot;,&quot;大语言模型推荐&quot;,&quot;生成式推荐&quot;,&quot;Knowledge Graph RAG&quot;,&quot;Multi-LoRA&quot;]"><strong><a href="llm_rec/kerl_knowledge_enhanced_personalized_recipe_recommendation_using_large_lang/">KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 FoodKG 子图作上下文 + 多 LoRA 适配器，统一完成约束食谱推荐、烹饪步骤生成与微量营养素估计，KGQA 基准 F1 达 0.973。</p>
 </dd>
-<dt><strong><a href="llm_rec/knowledge_graph_retrieval_augmented_generation_for_llm_based_recommendation/">Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL 2025&quot;,&quot;大语言模型推荐&quot;,&quot;生成式推荐&quot;,&quot;KG-RAG&quot;,&quot;图软提示&quot;,&quot;选择性检索&quot;]"><strong><a href="llm_rec/knowledge_graph_retrieval_augmented_generation_for_llm_based_recommendation/">Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用跳场知识子图索引+流行度选择性检索+GNN软提示，将KG结构知识注入冻结LLM，MovieLens-1M ACC 相对提升58.6%且推理仅慢0.14s</p>
 </dd>
-<dt><strong><a href="llm_rec/lamp_val_large_language_models_empower_personalized_valuation_in_auction/">LaMP-Val: Large Language Models Empower Personalized Valuation in Auction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL/EMNLP 2025&quot;,&quot;大语言模型推荐&quot;,&quot;生成式推荐&quot;,&quot;个性化估值&quot;,&quot;拍卖闭环评估&quot;]"><strong><a href="llm_rec/lamp_val_large_language_models_empower_personalized_valuation_in_auction/">LaMP-Val: Large Language Models Empower Personalized Valuation in Auction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 LLM 从用户评论语义中做个性化估值，构建 23k 估值数据集 + 多样化指令 SFT，并提出 PU/PV 闭环拍卖指标，PU 较 GPT-4 提升约 6.5 倍。</p>
 </dd>
-<dt><strong><a href="llm_rec/maps_motivation_aware_personalized_search_via_llm_driven_consultation_align/">MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL 2025&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;售前咨询动机建模&quot;,&quot;混合注意力专家池化&quot;,&quot;对比对齐&quot;]"><strong><a href="llm_rec/maps_motivation_aware_personalized_search_via_llm_driven_consultation_align/">MAPS: Motivation-Aware Personalized Search via LLM-Driven Consultation Alignment</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 LLM+MoAE 将售前咨询动机与查询/商品/历史双向对齐，Commercial 与 Amazon 上排序 HR@10 提升约 20%/35%。</p>
 </dd>
 </dl>
 <p><a href="llm_rec/">查看全部19篇「大语言模型推荐 (LLM4Rec)」论文 →</a></p>
+</section>
+<section class="paper-section" data-paper-section>
 <hr />
 <h2 id="agent_conversational_rec">🗣️ 对话推荐与智能体仿真 (8)</h2>
-<dl>
-<dt><strong><a href="agent_conversational_rec/a_survey_on_llm_powered_agents_for_recommender_systems/">A Survey on LLM-powered Agents for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;ACL&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;生成式推荐&quot;,&quot;LLM Agent&quot;,&quot;综述与分类体系&quot;,&quot;用户模拟&quot;]"><strong><a href="agent_conversational_rec/a_survey_on_llm_powered_agents_for_recommender_systems/">A Survey on LLM-powered Agents for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>系统综述 LLM Agent 推荐的三范式（推荐/交互/仿真）与四模块架构，梳理数据集与评测协议并指出统一评测缺失。</p>
 </dd>
-<dt><strong><a href="agent_conversational_rec/empowering_retrieval_based_conversational_recommendation_with_contrasting_u/">Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;NAACL 2025&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;召回&quot;,&quot;对比偏好扩增&quot;,&quot;稠密检索对话推荐&quot;]"><strong><a href="agent_conversational_rec/empowering_retrieval_based_conversational_recommendation_with_contrasting_u/">Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 LLM 抽取并扩增 like/dislike 对比偏好，以三路相似度线性打分做稠密检索式对话推荐，INSPIRED 上 Recall@10 相对提升 99.72%。</p>
 </dd>
-<dt><strong><a href="agent_conversational_rec/enhancing_recommendation_explanations_through_user_centric_refinement/">Enhancing Recommendation Explanations through User-Centric Refinement</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL 2025&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;重排&quot;,&quot;多智能体协作&quot;,&quot;可解释推荐&quot;,&quot;推理期精炼&quot;]"><strong><a href="agent_conversational_rec/enhancing_recommendation_explanations_through_user_centric_refinement/">Enhancing Recommendation Explanations through User-Centric Refinement</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>提出 RefineX 多智能体推理期精炼框架，以 plan-then-refine 与分层反思将 PETER 解释在事实性/个性化/连贯性三维度大幅提升。</p>
 </dd>
-<dt><strong><a href="agent_conversational_rec/exploring_the_potential_of_llms_as_personalized_assistants_dataset_evaluati/">Exploring the Potential of LLMs as Personalized Assistants: Dataset, Evaluation, and Analysis</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL 2025&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;生成式推荐&quot;,&quot;个性化助手基准&quot;,&quot;LLM-as-a-Judge 蒸馏&quot;]"><strong><a href="agent_conversational_rec/exploring_the_potential_of_llms_as_personalized_assistants_dataset_evaluati/">Exploring the Potential of LLMs as Personalized Assistants: Dataset, Evaluation, and Analysis</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>提出 HiCUPID 个性化助手基准（1.5k 合成用户、17k token 长对话、单/多跳 QA），并蒸馏 Llama-3.2 评估器对齐人类偏好，揭示 SFT+DPO 最优而纯 DPO 崩溃。</p>
 </dd>
-<dt><strong><a href="agent_conversational_rec/iagent_llm_agent_as_a_shield_between_user_and_recommender_systems/">iAgent: LLM Agent as a Shield between User and Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL 2025 Findings&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;重排&quot;,&quot;LLM Agent&quot;,&quot;动态记忆&quot;,&quot;指令感知重排&quot;]"><strong><a href="agent_conversational_rec/iagent_llm_agent_as_a_shield_between_user_and_recommender_systems/">iAgent: LLM Agent as a Shield between User and Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>提出 user-agent-platform 新范式，用个体指令感知 LLM Agent 在用户与平台间做重排护盾，四数据集平均提升 16.6%。</p>
 </dd>
-<dt><strong><a href="agent_conversational_rec/muse_a_multimodal_conversational_recommendation_dataset_with_scenario_groun/">Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL 2025&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;数据合成&quot;,&quot;多模态对话推荐&quot;,&quot;多智能体仿真&quot;,&quot;场景锚定用户画像&quot;]"><strong><a href="agent_conversational_rec/muse_a_multimodal_conversational_recommendation_dataset_with_scenario_groun/">Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>首个多模态对话推荐数据集，用场景锚定用户画像的多智能体框架合成 7K 段图文对话，并验证三种 MLLM 的可学习性。</p>
 </dd>
-<dt><strong><a href="agent_conversational_rec/refining_text_generation_for_realistic_conversational_recommendation_via_di/">Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;EMNLP&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;精排&quot;,&quot;Direct Preference Optimization&quot;,&quot;对话摘要生成&quot;,&quot;物品推荐信息生成&quot;]"><strong><a href="agent_conversational_rec/refining_text_generation_for_realistic_conversational_recommendation_via_di/">Refining Text Generation for Realistic Conversational Recommendation via Direct Preference Optimization</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 DPO 对齐 LLM 生成的对话摘要与物品推荐信息，使评分器更准，Tabidachi 上 HR@1 提升 21.3%。</p>
 </dd>
-<dt><strong><a href="agent_conversational_rec/towards_personalized_conversational_sales_agents_contextual_user_profiling_/">Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL 2025&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;生成式推荐&quot;,&quot;Contextual User Profiling&quot;,&quot;Persuasive Recommendation&quot;]"><strong><a href="agent_conversational_rec/towards_personalized_conversational_sales_agents_contextual_user_profiling_/">Towards Personalized Conversational Sales Agents: Contextual User Profiling for Strategic Action</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>提出 CSALES 对话销售任务与 CSUSER 真实画像用户模拟器，CSI 智能体通过上下文画像驱动统一动作空间，SR 提升约 15-20pt、SWR 提升约 5-10pt。</p>
 </dd>
 </dl>
+</section>
+<section class="paper-section" data-paper-section>
 <hr />
 <h2 id="multimodal_rec">🧩 多模态推荐与内容理解 (2)</h2>
-<dl>
-<dt><strong><a href="multimodal_rec/icg_improving_cover_image_generation_via_mllm_based_prompting_and_personali/">ICG: Improving Cover Image Generation via MLLM-based Prompting and Personalized Preference Alignment</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;EMNLP 2025&quot;,&quot;多模态推荐&quot;,&quot;生成式推荐&quot;,&quot;MLLM 提示生成&quot;,&quot;个性化偏好对齐&quot;,&quot;扩散模型适配器&quot;]"><strong><a href="multimodal_rec/icg_improving_cover_image_generation_via_mllm_based_prompting_and_personali/">ICG: Improving Cover Image Generation via MLLM-based Prompting and Personalized Preference Alignment</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 MLLM 元令牌+双路适配器把个性化上下文注入扩散模型，并以多奖励对齐实现无标签封面生成，下游 MMGCN 推荐 NDCG@10 提升 19.1%。</p>
 </dd>
-<dt><strong><a href="multimodal_rec/premise_matching_based_prediction_for_accurate_review_recommendation/">PREMISE: Matching-based Prediction for Accurate Review Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL&quot;,&quot;多模态推荐&quot;,&quot;重排&quot;,&quot;语义匹配分数&quot;,&quot;多尺度聚合&quot;,&quot;评论有用性预测&quot;]"><strong><a href="multimodal_rec/premise_matching_based_prediction_for_accurate_review_recommendation/">PREMISE: Matching-based Prediction for Accurate Review Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>以多尺度多字段语义匹配分数替代跨模态融合表征，用于多模态评论有用性排序，MAP 较 GBDT 提升 5–17 点且训练提速 42%。</p>
 </dd>
 </dl>
+</section>
+<section class="paper-section" data-paper-section>
 <hr />
 <h2 id="cold_start_rec">❄️ 冷启动与长尾推荐 (1)</h2>
-<dl>
-<dt><strong><a href="cold_start_rec/scholar_inbox_personalized_paper_recommendations_for_scientists/">Scholar Inbox: Personalized Paper Recommendations for Scientists</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;ACL/EMNLP 2025&quot;,&quot;冷启动&quot;,&quot;召回&quot;,&quot;内容基推荐&quot;,&quot;主动学习冷启动&quot;,&quot;稠密语义嵌入&quot;]"><strong><a href="cold_start_rec/scholar_inbox_personalized_paper_recommendations_for_scientists/">Scholar Inbox: Personalized Paper Recommendations for Scientists</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>面向科研论文的开放获取推荐平台，以显式点赞/点踩训练加权逻辑回归，结合 Scholar Maps 与主动学习破解冷启动，在 80 万评分数据集上 GTE-Large 达 AUC 86.75。</p>
 </dd>
 </dl>
+</section>
+<section class="paper-section" data-paper-section>
 <hr />
 <h2 id="poi_spatiotemporal_rec">📍 时空轨迹与 POI 本地生活推荐 (1)</h2>
-<dl>
-<dt><strong><a href="poi_spatiotemporal_rec/triptailor_a_real_world_benchmark_for_personalized_travel_planning/">TripTailor: A Real-World Benchmark for Personalized Travel Planning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;ACL 2025 Findings&quot;,&quot;时空轨迹与POI推荐&quot;,&quot;生成式推荐&quot;,&quot;旅行行程规划&quot;,&quot;LLM Agent 基准评测&quot;,&quot;个性化奖励模型&quot;]"><strong><a href="poi_spatiotemporal_rec/triptailor_a_real_world_benchmark_for_personalized_travel_planning/">TripTailor: A Real-World Benchmark for Personalized Travel Planning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>构建50万真实POI与近4000条真人行程的个性化旅行规划基准，提出可行性/合理性/个性化三维评估与奖励模型对比框架，揭示SOTA LLM行程超越真人比例不足10%。</p>
 </dd>
 </dl>
+</section>
+<section class="paper-section" data-paper-section>
 <hr />
 <h2 id="debias_fairness_industrial">🛡️ 去偏公平、可信隐私与工业架构 (5)</h2>
-<dl>
-<dt><strong><a href="debias_fairness_industrial/a_federated_framework_for_llm_based_recommendation/">A Federated Framework for LLM-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;NAACL 2025 Findings&quot;,&quot;去偏公平与可信推荐&quot;,&quot;生成式推荐&quot;,&quot;联邦推荐&quot;,&quot;LLM 分层卸载&quot;,&quot;客户端性能均衡&quot;]"><strong><a href="debias_fairness_industrial/a_federated_framework_for_llm_based_recommendation/">A Federated Framework for LLM-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>FELLRec 用动态聚合+课程升温平衡客户端性能，并以分层卸载降低 LLM 联邦推荐端侧开销。</p>
 </dd>
-<dt><strong><a href="debias_fairness_industrial/adtec_a_unified_benchmark_for_evaluating_text_quality_in_search_engine_adve/">AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;NAACL 2025&quot;,&quot;去偏公平与可信推荐&quot;,&quot;广告文案质量评估&quot;,&quot;基准数据集&quot;,&quot;广告文案生成&quot;,&quot;人类对齐&quot;]"><strong><a href="debias_fairness_industrial/adtec_a_unified_benchmark_for_evaluating_text_quality_in_search_engine_adve/">AdTEC: A Unified Benchmark for Evaluating Text Quality in Search Engine Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>首个公开的搜索广告文案质量多维评测基准，定义五任务并对比 PLM/LLM/人类评估者表现。</p>
 </dd>
-<dt><strong><a href="debias_fairness_industrial/bias_beware_the_impact_of_cognitive_biases_on_llm_driven_product_recommenda/">Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;EMNLP 2025&quot;,&quot;去偏公平与可信推荐&quot;,&quot;重排&quot;,&quot;认知偏差攻击&quot;,&quot;LLM 商品推荐鲁棒性&quot;]"><strong><a href="debias_fairness_industrial/bias_beware_the_impact_of_cognitive_biases_on_llm_driven_product_recommenda/">Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>首次将人类认知偏差作为黑盒重排攻击注入商品描述，揭示 LLM 推荐器对 social proof 等偏差高度敏感且难以防御。</p>
 </dd>
-<dt><strong><a href="debias_fairness_industrial/richer_output_for_richer_countries_uncovering_geographical_disparities_in_g/">Richer Output for Richer Countries: Uncovering Geographical Disparities in Generated Stories and Travel Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;NAACL 2025 Findings&quot;,&quot;去偏公平与可信推荐&quot;,&quot;生成式推荐&quot;,&quot;地理偏见&quot;,&quot;公平性审计&quot;]"><strong><a href="debias_fairness_industrial/richer_output_for_richer_countries_uncovering_geographical_disparities_in_g/">Richer Output for Richer Countries: Uncovering Geographical Disparities in Generated Stories and Travel Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>在10万旅行请求与20万故事生成上量化5个LLM的地理不平等：穷国推荐独特性低、地理实体少、故事更多苦难与悲伤，且与人均GDP显著相关。</p>
 </dd>
-<dt><strong><a href="debias_fairness_industrial/stereotype_or_personalization_user_identity_biases_chatbot_recommendations/">Stereotype or Personalization? User Identity Biases Chatbot Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;ACL 2025&quot;,&quot;去偏公平与可信推荐&quot;,&quot;对话推荐&quot;,&quot;用户身份偏差&quot;,&quot;推荐透明度&quot;,&quot;人口统计对齐&quot;]"><strong><a href="debias_fairness_industrial/stereotype_or_personalization_user_identity_biases_chatbot_recommendations/">Stereotype or Personalization? User Identity Biases Chatbot Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>揭示 LLM 聊天机器人无论用户显式还是隐式透露种族身份都会产生刻板推荐，且在被追问时系统性掩盖种族影响，跨 7 个主流模型、4 个种族、12 万条合成请求验证。</p>
 </dd>
 </dl>
+</section>
 </div>

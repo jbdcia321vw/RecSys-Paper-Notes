@@ -3,9 +3,9 @@ title: "[Paper Note] FairDgcl: Fairness-aware Recommendation with Dynamic Graph 
 description: "[TKDE 2025][去偏公平与工业架构] 用对抗式视图生成器+判别器动态生成公平增强视图，在四个数据集上同时提升准确率与群体公平性。"
 tags:
   - TKDE
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
-  - 图对比学习
+  - 对比学习
   - 对抗数据增强
   - 群体公平性
 date: 2026-11-14

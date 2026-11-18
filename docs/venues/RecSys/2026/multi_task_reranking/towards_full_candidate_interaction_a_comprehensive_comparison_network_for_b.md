@@ -3,7 +3,7 @@ title: "[Paper Note] Towards Full Candidate Interaction: A Comprehensive Compari
 description: "[RecSys 2026][多任务学习与列表级重排] 提出比较优先范式，用非重叠路段构造显式比较张量并在成对空间直接推理，线上CR +1.2%、偏航率 -0.8%。"
 tags:
   - RecSys 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - 成对比较特征
   - 上下文感知列表重排

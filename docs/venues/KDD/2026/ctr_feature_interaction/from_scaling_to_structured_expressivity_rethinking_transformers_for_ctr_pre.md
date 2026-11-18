@@ -3,7 +3,7 @@ title: "[Paper Note] From Scaling to Structured Expressivity: Rethinking Transfo
 description: "[KDD 2026][CTR预估与特征交叉] 用域感知参数重构 Transformer 块，将复杂度从词表规模 n 转向域数 F，配合基组合超网络实现可预测幂律缩放，离线 AUC 最高 +4.38%，线上 CTR +2.33%。"
 tags:
   - KDD 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - Field-Aware Transformer
   - Basis-Composed Hypernetwork

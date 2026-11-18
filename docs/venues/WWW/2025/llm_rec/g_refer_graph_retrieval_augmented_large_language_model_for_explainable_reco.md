@@ -4,7 +4,7 @@ description: "[WWW 2025][LLM4Rec] 用路径级+节点级混合图检索把协同
 tags:
   - WWW 2025
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - GraphRAG
   - 可解释推荐
   - 知识剪枝

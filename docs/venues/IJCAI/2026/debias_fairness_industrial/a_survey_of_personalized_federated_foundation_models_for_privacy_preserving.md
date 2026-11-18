@@ -3,8 +3,8 @@ title: "[Paper Note] A Survey of Personalized Federated Foundation Models for Pr
 description: "[IJCAI-ECAI 2026][去偏公平、可信隐私与工业架构] 综述提出“主动语义保人格”范式，用几何正交约束与语义感知聚合解耦全局知识与用户人格，并给出五类开放问题与未来路线。"
 tags:
   - IJCAI-ECAI 2026
-  - 去偏公平、可信隐私与工业架构
-  - 端到端生成式
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - 联邦推荐
   - 基础模型个性化
   - 语义隐私边界

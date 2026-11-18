@@ -3,7 +3,7 @@ title: "Decomposing Staleness in Recommender Systems: A Dual-Filter Framework fo
 description: "[CIKM 2026][去偏公平与工业架构] 将推荐内容过时性拆解为“取代”与“衰减”双机制，用 LLM 蒸馏成对分类器与多模态流量比预测器做上游过滤，Google Discover 两年部署使过时举报降 54.9%。"
 tags:
   - CIKM
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回前过滤
   - 内容过时性
   - 知识蒸馏

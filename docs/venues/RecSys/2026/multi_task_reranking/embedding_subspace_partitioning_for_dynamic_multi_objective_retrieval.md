@@ -3,7 +3,7 @@ title: "[Paper Note] Embedding Subspace Partitioning for Dynamic Multi-Objective
 description: "[RecSys 2026][多任务学习与列表级重排] 将双塔嵌入切分为任务感知正交子空间，用服务时可调权重的加权内积替代单一点积，单模型即可在线遍历多目标 Pareto 前沿。"
 tags:
   - RecSys
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 召回
   - 子空间划分
   - 多目标检索

@@ -3,8 +3,7 @@ title: "[Paper Note] Controllable Generative Recommendation via Guided Token Ref
 description: "[ICDM 2026][生成式推荐与离散语义 ID] 将语义 ID 生成从自回归改为并行掩码填充，用 logit 引导+置信度精炼+前缀树约束实现免训练实时多样性控制，Diversity@10 提升约 15% 且有效率保持 99.97%。"
 tags:
   - ICDM
-  - 生成式推荐与离散语义 ID
-  - 生成式端到端
+  - 生成式推荐
   - 并行迭代精炼
   - 推理时可控生成
 date: 2026-11-13

@@ -4,7 +4,6 @@ description: "[CIKM 2026][生成式推荐] 用 SFT 检查点诊断语义 ID 前�
 tags:
   - CIKM 2026
   - 生成式推荐
-  - 端到端生成式
   - 语义ID前缀树可达性
   - GRPO信用分解
 date: 2026-11-12

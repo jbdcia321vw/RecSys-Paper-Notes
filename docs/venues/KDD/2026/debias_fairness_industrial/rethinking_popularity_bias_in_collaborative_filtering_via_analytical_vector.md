@@ -3,7 +3,7 @@ title: "[Paper Note] Rethinking Popularity Bias in Collaborative Filtering via A
 description: "[KDD 2026][去偏公平与工业架构] 揭示 BPR 优化在嵌入空间刻出“流行度方向”的几何偏差，提出非对称方向分解校正 DDC，在 5 个骨干上 MRR@10 提升 6%–29% 且 AvgPop@10 降 21%–47%。"
 tags:
   - KDD
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 流行度去偏
   - 嵌入几何校正

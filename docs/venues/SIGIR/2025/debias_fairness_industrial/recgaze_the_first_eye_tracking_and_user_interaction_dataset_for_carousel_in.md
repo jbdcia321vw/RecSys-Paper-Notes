@@ -3,7 +3,7 @@ title: "[Paper Note] RecGaze: The First Eye Tracking and User Interaction Datase
 description: "[SIGIR 2025][去偏公平与工业架构] 首个轮播界面眼动+点击+光标+选择解释数据集，87用户3477次交互，揭示F型浏览与位置偏置。"
 tags:
   - SIGIR 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 眼动追踪数据集
   - 轮播界面位置偏置

@@ -3,7 +3,7 @@ title: "[Paper Note] Paragon: Parameter Generation for Controllable Multi-Task R
 description: "[RecSys 2025][多任务学习与列表级重排] 用扩散模型按偏好权重条件生成适配器参数，免重训实现测试时可控多任务推荐，响应时间降低 94.6%+。"
 tags:
   - RecSys 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 扩散参数生成
   - 测试时自适应

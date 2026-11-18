@@ -3,7 +3,7 @@ title: "[Paper Note] A Reproducibility Study of Product-side Fairness in Bundle 
 description: "[RecSys 2025][去偏公平与工业架构] 首个捆绑推荐商品侧公平性复现研究，揭示捆绑级与物品级曝光分布不一致、指标间结论分歧，并发现用户捆绑偏好越强曝光越公平。"
 tags:
   - RecSys 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 捆绑推荐公平性
   - 曝光偏差

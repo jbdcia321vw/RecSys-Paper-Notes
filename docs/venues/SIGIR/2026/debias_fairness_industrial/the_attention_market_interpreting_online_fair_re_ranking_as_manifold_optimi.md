@@ -3,7 +3,7 @@ title: "[Paper Note] The Attention Market: Interpreting Online Fair Re-ranking a
 description: "[SIGIR 2026][去偏公平与工业架构] 将在线公平重排建模为注意力市场瓦尔拉斯均衡，用供需双侧梯度校正对齐排序流形，7 数据集 42 设置几乎全胜。"
 tags:
   - SIGIR 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 公平重排
   - 流形优化

@@ -3,7 +3,7 @@ title: "[Paper Note] CausalPOI: Spatio-Temporal Graph-Based Causal Modeling for 
 description: "[KDD 2026][时空轨迹与POI本地生活推荐] 用功能交互图+结构对齐的干预/对照图做冷启动POI签到量预测与因果提升估计，四区域RMSE最高降57.8%。"
 tags:
   - KDD
-  - 时空轨迹与POI本地生活推荐
+  - 时空轨迹与POI推荐
   - 召回
   - 冷启动POI预测
   - 因果推断

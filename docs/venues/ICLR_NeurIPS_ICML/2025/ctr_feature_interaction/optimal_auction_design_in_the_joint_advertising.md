@@ -3,7 +3,7 @@ title: "[Paper Note] Optimal Auction Design in the Joint Advertising"
 description: "[ICML 2025][CTR预估与特征交叉] 联合广告单槽位Myerson最优机制+多槽位BundleNet束级IC约束神经网络，逼近理论最优并显著提升平台收益"
 tags:
   - ICML
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 自动机制设计
   - 联合广告拍卖

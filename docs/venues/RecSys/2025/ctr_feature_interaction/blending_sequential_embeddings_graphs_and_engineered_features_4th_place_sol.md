@@ -3,7 +3,7 @@ title: "Blending Sequential Embeddings, Graphs, and Engineered Features: 4th Pla
 description: "[RecSys 2025][CTR预估与特征交叉] 异构因果Transformer序列编码+TwHIN图+300维手工特征经DCN-v2融合，构建跨6任务通用用户画像，获挑战赛第4名。"
 tags:
   - RecSys 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 召回
   - 通用用户表征
   - DCN-v2

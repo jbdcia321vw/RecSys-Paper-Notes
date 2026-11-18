@@ -3,7 +3,7 @@ title: "[Paper Note] FlowTime: Towards Continuous Generative Watch Time Predicti
 description: "[KDD 2026][生成式推荐与离散语义ID] 提出连续生成式回归新范式，用一步VAE+归一化流个性化先验建模多峰观看时长分布，KuaiRec MAE降0.676%、线上播放时长+1.044%。"
 tags:
   - KDD 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 精排
   - 观看时长预测
   - 归一化流

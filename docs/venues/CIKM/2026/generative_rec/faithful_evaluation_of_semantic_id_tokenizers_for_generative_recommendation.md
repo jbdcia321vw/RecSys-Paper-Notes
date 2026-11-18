@@ -3,8 +3,7 @@ title: "[Paper Note] Faithful Evaluation of Semantic-ID Tokenizers for Generativ
 description: "[CIKM 2026][生成式推荐与离散语义ID] 揭示SID碰撞导致SID级指标虚高至103.36%，提出碰撞校正评估CCE与零碰撞重分配ZCR，翻转多个Tokenizer排序。"
 tags:
   - CIKM 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - Semantic ID Collision
   - Collision-Corrected Evaluation
   - Zero-Collision Reassignment

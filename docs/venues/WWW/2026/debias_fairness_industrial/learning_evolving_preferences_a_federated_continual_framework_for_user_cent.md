@@ -3,7 +3,7 @@ title: "[Paper Note] Learning Evolving Preferences: A Federated Continual Framew
 description: "[WWW 2026][去偏公平、可信隐私与工业架构] 联邦持续推荐框架 FCUCR：时间感知自蒸馏抗遗忘 + 跨用户原型迁移促协同，四数据集全库排序 HR@10 最高提升 44.0%。"
 tags:
   - WWW 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 联邦持续学习
   - 原型迁移

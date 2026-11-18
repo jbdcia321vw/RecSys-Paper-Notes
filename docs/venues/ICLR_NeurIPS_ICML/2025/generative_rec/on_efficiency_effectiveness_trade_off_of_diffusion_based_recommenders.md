@@ -3,8 +3,7 @@ title: "[Paper Note] On Efficiency-Effectiveness Trade-off of Diffusion-based Re
 description: "[NeurIPS 2025][生成式推荐与离散语义ID] 用时间一致性正则平滑去噪函数实现一步生成，再用自适应偏好对齐修正轨迹偏差，兼顾扩散推荐效率与效果。"
 tags:
   - NeurIPS
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 扩散推荐
   - 一步生成
   - 偏好对齐

@@ -4,7 +4,7 @@ description: "[TKDE 2025][LLM4Rec] 首个面向 LLMRec 的精确遗忘框架 APA
 tags:
   - TKDE
   - 大语言模型推荐
-  - 端到端生成式
+  - 生成式推荐
   - Machine Unlearning
   - LoRA Adapter Aggregation
   - 隐私保护

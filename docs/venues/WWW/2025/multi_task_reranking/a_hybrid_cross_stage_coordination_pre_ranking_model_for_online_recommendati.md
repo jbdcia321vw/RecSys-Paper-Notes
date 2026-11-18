@@ -3,7 +3,7 @@ title: "A Hybrid Cross-Stage Coordination Pre-ranking Model for Online Recommend
 description: "[WWW 2025][多任务学习与列表级重排] 提出 HCCP 粗排模型，融合上游召回与下游精排多级未曝光样本，用 Margin InfoNCE 联合优化一致性与长尾精度，JD 线上 UCVR+14.9%。"
 tags:
   - WWW 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 粗排
   - 跨阶段协同
   - Margin InfoNCE

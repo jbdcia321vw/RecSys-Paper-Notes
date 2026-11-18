@@ -3,7 +3,7 @@ title: "[Paper Note] Mitigating Collaborative Semantic ID Staleness in Generativ
 description: "[SIGIR 2026][生成式推荐与离散语义ID] 提出模型无关的 SID 对齐更新，将刷新后的协同语义 ID 双部图匹配映射回旧词表，实现热启动微调，Recall@500 提升且训练算力降 8-9 倍。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - Semantic ID 对齐
   - 时序漂移

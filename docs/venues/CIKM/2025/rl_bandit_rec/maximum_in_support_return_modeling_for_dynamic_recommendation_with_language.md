@@ -4,7 +4,7 @@ description: "[CIKM 2025][强化学习与动态探索推荐] 将轨迹拼接从�
 tags:
   - CIKM 2025
   - 强化学习与动态探索推荐
-  - 端到端生成式
+  - 生成式推荐
   - Decision Transformer
   - Expectile 回归
   - LLM 先验

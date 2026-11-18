@@ -3,11 +3,10 @@ title: "[Paper Note] Heterogeneous Ranking in Industrial-Scale Recommender Syste
 description: "[RecSys 2026][多任务学习与列表级重排] 面向 Google Discover 异构信息流的 HA-MoE 多门控专家架构，配合 LENS 可观测性与 DL-AUC 双层评估，离线与线上均获稳定增益。"
 tags:
   - RecSys
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - 异构内容排序
-  - 混合专家
-  - 多任务学习
+  - MoE
 date: 2026-11-13
 venue: RecSys
 year: 2026

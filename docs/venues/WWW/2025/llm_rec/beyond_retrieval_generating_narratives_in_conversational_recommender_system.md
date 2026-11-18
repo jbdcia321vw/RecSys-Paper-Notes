@@ -4,7 +4,7 @@ description: "[WWW 2025][LLM4Rec] 构建 REGEN 叙事数据集并提出 CF+内�
 tags:
   - WWW 2025
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - CF-LLM 融合
   - Soft Prompt
   - 叙事生成

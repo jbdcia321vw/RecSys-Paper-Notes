@@ -3,7 +3,7 @@ title: "[Paper Note] Unbiased Recommender Systems with Implicit Feedback"
 description: "[RecSys 2026][去偏公平与工业架构] 博士论文愿景：以控制函数法纠偏排序位置偏差、以事后投影与消息传递加权纠偏 GNN 协同过滤的流行度偏差。"
 tags:
   - RecSys 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 位置偏差控制函数
   - 流行度去偏

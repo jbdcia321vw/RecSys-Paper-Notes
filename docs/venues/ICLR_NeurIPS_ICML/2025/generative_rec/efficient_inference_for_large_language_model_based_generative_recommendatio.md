@@ -3,8 +3,7 @@ title: "[Paper Note] Efficient Inference for Large Language Model-based Generati
 description: "[ICLR 2025][生成式推荐与离散语义 ID] 将投机解码引入 LLM 生成式推荐，提出 N-to-K 验证下的 AtSpeed-S/R 对齐目标与松弛采样验证，实现近 2×–2.5× 无损/近似无损加速。"
 tags:
   - ICLR
-  - 生成式推荐与离散语义 ID
-  - 生成式端到端
+  - 生成式推荐
   - 投机解码
   - Top-K 对齐
   - 推理加速

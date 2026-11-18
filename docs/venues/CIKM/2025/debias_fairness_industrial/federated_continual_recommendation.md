@@ -3,7 +3,7 @@ title: "[Paper Note] Federated Continual Recommendation"
 description: "[CIKM 2025][去偏公平、可信隐私与工业架构] 提出 FCRec 新任务与 F3CRec 框架，客户端自适应回放+服务端物品级时序均值，在四个数据集三个 FedRec 骨干上 N@20 平均提升 5.6%–32.1%。"
 tags:
   - CIKM 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 联邦推荐
   - 持续学习

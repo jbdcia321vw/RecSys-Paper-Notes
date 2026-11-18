@@ -3,7 +3,7 @@ title: "[Paper Note] Personalized Task Dependency Graphs for Mitigating Signal E
 description: "[CIKM 2026][多任务学习与列表级重排] 用低秩个性化任务依赖图+硬因果掩码GCN替代刚性漏斗，缓解深层稀疏任务信号侵蚀，离线AUC最高+1.45%，线上CVR+1.2%。"
 tags:
   - CIKM 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - 任务依赖图
   - 低秩图生成

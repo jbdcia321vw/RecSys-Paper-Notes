@@ -3,7 +3,7 @@ title: "The Beginning of ChatGPT Ads"
 description: "[AAAI/ACM AIES 2026][去偏公平与工业架构] 首个 ChatGPT 广告投放审计：91 个马甲账号 3×3 种族×收入设计，发现低收入账号更易被投放广告、种族无显著差异。"
 tags:
   - AAAI/ACM AIES
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 广告投放审计
   - 马甲账号审计
   - 人口统计公平性

@@ -3,7 +3,7 @@ title: "[Paper Note] A Unified Framework for Multi-Domain CTR Prediction via Lar
 description: "[TOIS 2025][CTR预估与特征交叉] 用 LLM 分层语义表征作跨域共享底座、可插拔 DSN 建模域特性，掩码损失解耦梯度，AUC 相对提升 24%–63% 并支持零样本新域。"
 tags:
   - TOIS
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 多域CTR
   - LLM语义表征

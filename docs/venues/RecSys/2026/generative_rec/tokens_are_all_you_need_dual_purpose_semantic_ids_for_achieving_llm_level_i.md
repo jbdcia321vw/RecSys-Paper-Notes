@@ -3,7 +3,7 @@ title: "[Paper Note] Tokens are All You Need: Dual-purpose Semantic IDs for Achi
 description: "[RecSys 2026][生成式推荐与离散语义ID] 用 RQ-VAE 语义ID 同时承担协同身份与内容重建双职责，以 SiDec 在线解码替代稠密向量 I/O，检索 HitRate@100 提升至 0.2910 且吞吐较原始稠密嵌入快 20.4%。"
 tags:
   - RecSys
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - 语义ID
   - 向量量化

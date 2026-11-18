@@ -3,7 +3,7 @@ title: "[Paper Note] Comprehensive List Generation for Multi-Generator Reranking
 description: "[SIGIR 2025][多任务学习与列表级重排] 提出多生成器-评估器重排框架与列表全面性指标，用 CLIG 自动学习互补生成器，离线 AUC 提升 0.9%、线上观看时长 +0.48%。"
 tags:
   - SIGIR 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 多生成器集成
   - 列表全面性

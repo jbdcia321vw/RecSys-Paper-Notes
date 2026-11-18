@@ -3,7 +3,7 @@ title: "[Paper Note] AdTEC: A Unified Benchmark for Evaluating Text Quality in S
 description: "[NAACL 2025][去偏公平、可信隐私与工业架构] 首个公开的搜索广告文案质量多维评测基准，定义五任务并对比 PLM/LLM/人类评估者表现。"
 tags:
   - NAACL 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 广告文案质量评估
   - 基准数据集
   - 广告文案生成

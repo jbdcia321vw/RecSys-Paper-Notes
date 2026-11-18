@@ -3,8 +3,7 @@ title: "[Paper Note] CARD: Non-Uniform Quantization of Visual Semantic Unit for 
 description: "[SIGIR 2026][生成式推荐与离散语义ID] 将文本/图像/协同信号渲染为统一视觉语义单元，并用可逆非均匀变换校正偏斜分布，提升码本利用率与生成式推荐精度。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 语义ID构建
   - 非均匀量化
   - 视觉语义单元

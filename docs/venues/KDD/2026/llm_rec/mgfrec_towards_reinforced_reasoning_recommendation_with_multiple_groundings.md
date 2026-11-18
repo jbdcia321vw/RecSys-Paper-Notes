@@ -4,7 +4,7 @@ description: "[KDD 2026][大语言模型推荐] 将单步 grounding 扩展为多
 tags:
   - KDD 2026
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - 多轮 Grounding
   - GRPO 强化学习
 date: 2026-11-13

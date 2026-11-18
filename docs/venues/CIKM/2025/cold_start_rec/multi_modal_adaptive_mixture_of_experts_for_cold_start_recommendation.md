@@ -3,9 +3,9 @@ title: "[Paper Note] Multi-modal Adaptive Mixture of Experts for Cold-start Reco
 description: "[CIKM 2025][冷启动与长尾推荐] 用双层 MoE（模态专属专家+动态门控融合）替代拼接/平均融合，在 Amazon 三域冷启动全库排序上 Recall@10 最高提升 16.17%。"
 tags:
   - CIKM 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
-  - Mixture of Experts
+  - MoE
   - 多模态融合
 date: 2026-11-14
 venue: CIKM

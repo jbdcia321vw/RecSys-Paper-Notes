@@ -3,7 +3,7 @@ title: "[Paper Note] Creator-Side Recommender System: Challenges, Designs, and A
 description: "[WWW 2025][去偏公平与工业架构] 提出创作者侧推荐系统 DualRec，将用户侧召回/排序镜像为物品找用户，并用用户可用性计算 UAC 解决用户可达性问题，快手线上 DAC 提升 2.9%。"
 tags:
   - WWW 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回+精排+重排
   - 创作者侧推荐
   - 用户可用性计算

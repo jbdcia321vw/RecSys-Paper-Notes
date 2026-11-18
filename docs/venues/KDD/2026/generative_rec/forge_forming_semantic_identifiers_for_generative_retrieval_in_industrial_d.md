@@ -3,7 +3,7 @@ title: "[Paper Note] FORGE: Forming Semantic Identifiers for Generative Retrieva
 description: "[KDD 2026][生成式推荐与离散语义ID] 系统化拆解 SID 构建全流程（多模态特征/量化编码/冲突后处理），提出免训练的 Embedding HitRate 与 Gini 系数代理指标，淘宝线上交易量 +0.35%。"
 tags:
   - KDD 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - 语义ID构建
   - 生成式检索

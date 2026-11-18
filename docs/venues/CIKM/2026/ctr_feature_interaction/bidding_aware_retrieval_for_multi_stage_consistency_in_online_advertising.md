@@ -3,7 +3,7 @@ title: "[Paper Note] Bidding-Aware Retrieval for Multi-Stage Consistency in Onli
 description: "[CIKM 2026][CTR预估与特征交叉] 将竞价信号注入召回打分，用单调性约束+多任务蒸馏+任务注意力精炼实现召回-精排 eCPM 一致性，线上收入 +4.32%。"
 tags:
   - CIKM
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 召回
   - 竞价感知建模
   - 多阶段一致性

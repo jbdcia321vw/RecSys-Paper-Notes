@@ -3,11 +3,11 @@ title: "[Paper Note] Tlow: Flow-based Item Tokenizer for Recommendation"
 description: "[CIKM 2026][生成式推荐与离散语义ID] 用可逆流模型将语义嵌入变换为标准正态潜空间后做PQ独立分词，配合码本引导对齐，微信线上新物品CTR提升11.64%"
 tags:
   - CIKM
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - 流模型 (Normalizing Flow)
-  - 语义ID分词 (Item Tokenization)
-  - 乘积量化 (PQ)
+  - 语义ID
+  - 乘积量化
 date: 2026-11-13
 venue: CIKM
 year: 2026

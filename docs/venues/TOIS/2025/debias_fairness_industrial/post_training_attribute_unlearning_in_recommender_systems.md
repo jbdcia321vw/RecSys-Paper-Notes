@@ -3,7 +3,7 @@ title: "[Paper Note] Post-Training Attribute Unlearning in Recommender Systems"
 description: "[TOIS 2025][去偏公平、可信隐私与工业架构] 提出锚点分布MMD与函数空间排序正则的PoT-AU双损失，多类属性遗忘复杂度降至O(T)且推荐性能近无损。"
 tags:
   - TOIS
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 后处理/模型修正
   - 属性遗忘
   - 分布距离MMD

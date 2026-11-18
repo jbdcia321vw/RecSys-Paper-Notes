@@ -3,7 +3,7 @@ title: "[Paper Note] A Cascaded Generative Approach for e-Commerce Recommendatio
 description: "[SIGIR 2026][生成式推荐与离散语义 ID] 提出级联生成式货架构建框架：LLM1 生成投放主题、LLM2 经 RAG 约束生成检索关键词，教师-学生蒸馏降本，线上购物车添加 +2.7%。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义 ID
+  - 生成式推荐
   - 召回
   - 级联生成
   - RAG 约束解码

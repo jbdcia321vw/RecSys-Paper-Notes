@@ -3,7 +3,7 @@ title: "[Paper Note] A Universal Framework for Offline Serendipity Evaluation in
 description: "[CIKM 2025][去偏公平与工业评测] 用 LLM-as-a-Judge 给推荐列表逐项打 1-5 级惊喜度分，绕开人工真值与阈值定义，实现跨数据集跨模型的离线惊喜度统一评测。"
 tags:
   - CIKM 2025
-  - 去偏公平与工业评测
+  - 去偏公平与可信推荐
   - 离线评测
   - LLM-as-a-Judge
   - Serendipity

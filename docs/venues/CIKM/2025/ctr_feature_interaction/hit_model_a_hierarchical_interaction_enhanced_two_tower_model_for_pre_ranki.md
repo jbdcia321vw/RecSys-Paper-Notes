@@ -3,7 +3,7 @@ title: "[Paper Note] HIT Model: A Hierarchical Interaction-Enhanced Two-Tower Mo
 description: "[CIKM 2025][CTR预估与特征交叉] 用双生成器预生成跨塔粗粒度向量+多头子空间细粒度匹配，在保持双塔预缓存效率下逼近全交互模型精度，腾讯线上GMV+1.66%。"
 tags:
   - CIKM 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 粗排
   - 双塔模型
   - 生成式表征对齐

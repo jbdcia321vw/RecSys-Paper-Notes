@@ -3,7 +3,7 @@ title: "[Paper Note] Decoupled Learning and Selection in Slate Recommendation fo
 description: "[RecSys 2026][去偏公平、可信隐私与工业架构] 将列表推荐拆为随机打分器+确定性选择器，给出隐私后处理契约与可审计的 margin 稳定性证书，锚点加权使 Flip@K 降 53–81%。"
 tags:
   - RecSys
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 差分隐私后处理
   - Margin 稳定性证书

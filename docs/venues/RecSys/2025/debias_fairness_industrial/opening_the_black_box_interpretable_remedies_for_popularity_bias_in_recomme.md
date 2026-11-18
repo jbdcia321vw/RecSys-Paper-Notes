@@ -3,7 +3,7 @@ title: "[Paper Note] Opening the Black Box: Interpretable Remedies for Popularit
 description: "[RecSys 2025][去偏公平与工业架构] 用稀疏自编码器定位流行度神经元并做激活转向，在 ML-1M/Last.fm 上以极小精度损失换取显著曝光公平提升。"
 tags:
   - RecSys 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 稀疏自编码器
   - 神经元转向

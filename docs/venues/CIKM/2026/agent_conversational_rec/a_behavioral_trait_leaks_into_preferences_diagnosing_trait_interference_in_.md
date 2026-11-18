@@ -4,7 +4,7 @@ description: "[CIKM 2026][对话推荐与智能体仿真] 揭示 LLM 用户模�
 tags:
   - CIKM 2026
   - 对话推荐与智能体仿真
-  - 端到端生成式
+  - 生成式推荐
   - LLM User Simulator
   - Trait Interference
   - Page-level Quality Anchor

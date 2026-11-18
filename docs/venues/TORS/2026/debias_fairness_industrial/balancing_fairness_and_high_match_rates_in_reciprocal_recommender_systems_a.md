@@ -3,7 +3,7 @@ title: "Balancing Fairness and High Match Rates in Reciprocal Recommender System
 description: "[TORS 2026][去偏公平与工业架构] 将双边匹配推荐建模为推荐机会分配，用 Nash 社会福利交替优化实现近无嫉妒的公平推荐，并以 Sinkhorn 加速至大规模场景。"
 tags:
   - TORS
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 双边匹配推荐
   - 嫉妒自由

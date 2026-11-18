@@ -3,7 +3,7 @@ title: "[Paper Note] LLM-as-a-Judge for Reliable and Explainable Offline Evaluat
 description: "[KDD 2026][去偏公平与工业评测] 用 LLM 从用户文本行为构建语义偏好代理替代 holdout ID 匹配，以 reasoning-then-scoring 生成可解释 Top-K 评测，模型排序一致性较常规测试提升 40–150%。"
 tags:
   - KDD 2026
-  - 去偏公平与工业评测
+  - 去偏公平与可信推荐
   - 离线评测
   - LLM-as-a-Judge
   - 语义代理

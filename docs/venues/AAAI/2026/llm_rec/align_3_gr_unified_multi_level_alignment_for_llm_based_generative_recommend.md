@@ -5,7 +5,7 @@ tags:
   - AAAI 2026
   - 大语言模型推荐
   - 召回
-  - 语义ID分词
+  - 语义ID
   - 渐进式DPO
 date: 2026-11-13
 venue: AAAI

@@ -6,7 +6,7 @@ tags:
   - 大语言模型推荐
   - 精排
   - 语义标识符
-  - 基准评测
+  - 评测基准
   - 推理效率
 date: 2026-11-14
 venue: ICLR_NeurIPS_ICML

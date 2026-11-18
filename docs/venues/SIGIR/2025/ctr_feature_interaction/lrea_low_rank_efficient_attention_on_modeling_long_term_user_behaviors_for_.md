@@ -3,7 +3,7 @@ title: "[Paper Note] LREA: Low-Rank Efficient Attention on Modeling Long-Term Us
 description: "[SIGIR 2025][CTR预估与特征交叉] 用低秩分解+矩阵吸收把万级长行为序列压到秩 r 维做目标注意力，配非负正则保非线性，线上仅增 3ms 延迟、CTR +5.88%。"
 tags:
   - SIGIR 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 低秩矩阵分解
   - 长序列目标注意力

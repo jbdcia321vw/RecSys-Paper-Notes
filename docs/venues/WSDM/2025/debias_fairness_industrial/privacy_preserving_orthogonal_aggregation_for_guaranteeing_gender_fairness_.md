@@ -3,7 +3,7 @@ title: "[Paper Note] Privacy-Preserving Orthogonal Aggregation for Guaranteeing 
 description: "[WSDM 2025][去偏公平与工业架构] 用正交映射+安全聚合让各性别组独立聚合，兼顾隐私与组公平，ML-100K 整体 NDCG@10 提升 7.30%。"
 tags:
   - WSDM 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 联邦推荐聚合
   - 组公平
   - 正交聚合

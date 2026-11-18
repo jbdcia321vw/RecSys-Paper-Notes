@@ -3,7 +3,7 @@ title: "[Paper Note] Reading Between the Lines: A Study of Thematic Bias in Book
 description: "[RecSys 2025][冷启动与长尾推荐] 用 BERTopic 为 Book-Crossing 打主题标签，构建数据-推荐-用户三阶段主题偏置评估框架，揭示长尾小众读者被主流主题同质化的现象。"
 tags:
   - RecSys 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 重排
   - 主题偏置
   - 公平性评估

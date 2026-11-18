@@ -3,7 +3,7 @@ title: "Lower Bias, Higher Welfare: How Creator Competition Reshapes Bias-Varian
 description: "[KDD 2026][去偏公平与工业架构] 博弈论建模创作者竞争如何重塑平台正则化选择，理论与实验一致表明策略环境下应弱正则（低偏差）以最大化用户福利。"
 tags:
   - KDD 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 创作者竞争博弈
   - 偏差-方差权衡

@@ -3,7 +3,7 @@ title: "[Paper Note] Multi-agent Attacks for Black-box Social Recommendations"
 description: "[TOIS 2025][去偏公平、可信隐私与工业架构] 用多智能体强化学习协同生成冷启动物品画像与跨社区社交画像，对黑盒社交推荐发起无目标投毒/规避攻击，全库排序下 NDCG@10 相对下降约 19%。"
 tags:
   - TOIS
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 多智能体强化学习
   - 黑盒对抗攻击

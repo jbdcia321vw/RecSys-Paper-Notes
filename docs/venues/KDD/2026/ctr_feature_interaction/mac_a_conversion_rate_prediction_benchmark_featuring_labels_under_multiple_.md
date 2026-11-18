@@ -3,11 +3,11 @@ title: "[Paper Note] MAC: A Conversion Rate Prediction Benchmark Featuring Label
 description: "[KDD 2026][CTR预估与特征交叉] 首个多归因机制CVR公开基准MAC与PyMAL库，提出MoAE模型，GAUC最高提升0.39pt。"
 tags:
   - KDD 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 多归因学习
   - 多任务学习
-  - 混合专家
+  - MoE
 date: 2026-11-12
 venue: KDD
 year: 2026

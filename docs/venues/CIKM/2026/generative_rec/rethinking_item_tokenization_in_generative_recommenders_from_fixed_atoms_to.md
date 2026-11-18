@@ -3,9 +3,8 @@ title: "[Paper Note] Rethinking Item Tokenization in Generative Recommenders: Fr
 description: "[CIKM 2026][生成式推荐与离散语义ID] 指出固定长度SID复用于历史侧引发“物品内注意力过载”，提出历史侧语义子词重分词(IST)+行为共现增强(BCA)的非对称分词，三数据集三骨干全库排序NDCG@10最高+13.8%。"
 tags:
   - CIKM
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
-  - 语义ID分词
+  - 生成式推荐
+  - 语义ID
   - 子词合并
   - 注意力负载
 date: 2026-11-12

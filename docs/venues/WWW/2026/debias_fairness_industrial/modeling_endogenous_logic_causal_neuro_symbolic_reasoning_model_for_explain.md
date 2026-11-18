@@ -3,7 +3,7 @@ title: "[Paper Note] Modeling Endogenous Logic: Causal Neuro-Symbolic Reasoning 
 description: "[WWW 2026][去偏公平与工业架构] 用前门调整把多行为链内源逻辑做成可解释因果中介，三路神经逻辑推理在三个数据集 Full-Ranking 上 HR@10 提升 20%+。"
 tags:
   - WWW 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 神经符号推理
   - 前门调整

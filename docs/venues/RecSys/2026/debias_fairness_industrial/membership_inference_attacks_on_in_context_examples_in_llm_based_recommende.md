@@ -3,8 +3,8 @@ title: "[Paper Note] Membership Inference Attacks on In-Context Examples in LLM-
 description: "[RecSys 2026][去偏公平、可信隐私与工业架构] 首次针对 ICL 式 LLM 推荐系统提出 ItemMem 与 RecInertia 两种成员推理攻击，黑盒下攻击优势最高近 1.0，现有提示抽取防御基本失效。"
 tags:
   - RecSys
-  - 去偏公平、可信隐私与工业架构
-  - 端到端生成式
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - 成员推理攻击
   - In-Context Learning
   - 隐私泄露

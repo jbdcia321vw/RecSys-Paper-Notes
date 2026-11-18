@@ -3,8 +3,7 @@ title: "[Paper Note] Empowering Cross-Domain Sequential Recommendation with Hybr
 description: "[RecSys 2026][生成式推荐与离散语义 ID] 跨域共享-专属多塔 RQ-VAE 混合分词 + 两段式串并解码，Leave-One-Out 全库排序下精度 +1.5%、时延 -85.1%。"
 tags:
   - RecSys
-  - 生成式推荐与离散语义 ID
-  - 生成式端到端
+  - 生成式推荐
   - 跨域序列推荐
   - 串并解码
 date: 2026-11-13

@@ -3,7 +3,7 @@ title: "[Paper Note] Uniboost: Global Coordination with Value Alignment for Fair
 description: "[SIGIR 2026][多任务学习与列表级重排] 用后验价值对齐把抽象混合分映射到有效完播率语义空间，再以独立线性 boosting 解耦多业务加权，线上 A/B 全指标正向。"
 tags:
   - SIGIR 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 后验价值对齐
   - 线性 Boosting 归因

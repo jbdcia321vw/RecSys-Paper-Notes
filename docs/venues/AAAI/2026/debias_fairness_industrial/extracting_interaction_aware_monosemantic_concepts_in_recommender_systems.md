@@ -3,7 +3,7 @@ title: "[Paper Note] Extracting Interaction-Aware Monosemantic Concepts in Recom
 description: "[AAAI 2026][去偏公平与可信推荐] 用预测感知 SAE 从双塔嵌入中提取单义神经元，在 ML1M/Last.FM 上实现高纯度概念发现与事后可控干预。"
 tags:
   - AAAI 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 重排/事后干预
   - 稀疏自编码器
   - 单义神经元

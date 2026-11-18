@@ -3,10 +3,10 @@ title: "[Paper Note] Diffusion Recommender Models and the Illusion of Progress: 
 description: "[TORS 2026][生成式推荐与离散语义ID] 复现 9 个 SIGIR'23-24 扩散推荐模型，仅 25% 结果可复现，调优简单基线全面反超，并揭示 DDPM 与 top-n 推荐任务的概念错配。"
 tags:
   - TORS
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - 可复现性研究
-  - 扩散推荐模型
+  - 扩散模型推荐
   - 弱基线问题
 date: 2026-11-13
 venue: TORS

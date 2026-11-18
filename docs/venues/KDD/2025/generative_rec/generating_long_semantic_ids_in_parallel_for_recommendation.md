@@ -3,8 +3,7 @@ title: "[Paper Note] Generating Long Semantic IDs in Parallel for Recommendation
 description: "[KDD 2025][生成式推荐与离散语义ID] 提出 RPG 用多 token 并行预测 + 图约束解码，将语义 ID 长度扩至 64，NDCG@10 平均超生成式基线 12.6% 且推理更省。"
 tags:
   - KDD 2025
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 语义ID
   - 并行解码
   - 图约束解码

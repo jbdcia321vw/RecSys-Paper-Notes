@@ -3,11 +3,11 @@ title: "[Paper Note] Inductive Generative Recommendation via Retrieval-based Spe
 description: "[AAAI 2026][生成式推荐与离散语义 ID] 将投机解码的草稿-验证范式迁移至生成式推荐，用归纳式检索器起草候选、GR 模型做目标感知验证，使语义 ID 生成模型具备新物品推荐能力。"
 tags:
   - AAAI 2026
-  - 生成式推荐与离散语义 ID
+  - 生成式推荐
   - 召回
   - 投机解码
   - 归纳式推荐
-  - 语义 ID
+  - 语义ID
 date: 2026-11-13
 venue: AAAI
 year: 2026

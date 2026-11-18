@@ -3,11 +3,10 @@ title: "[Paper Note] UniRec: Bridging the Expressive Gap between Generative and 
 description: "[RecSys 2026][生成式推荐与离散语义 ID] 用贝叶斯等价性证明生成式推荐差距源于特征覆盖，以属性链 CoA 前缀解码 + 容量约束 SID + 条件解码上下文补齐，Shopee 线上 GMV +5.60%。"
 tags:
   - RecSys
-  - 生成式推荐与离散语义 ID
-  - 生成式端到端
+  - 生成式推荐
   - Chain-of-Attribute
   - Capacity-constrained SID
-  - Semantic ID
+  - 语义ID
 date: 2026-11-13
 venue: RecSys
 year: 2026

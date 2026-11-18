@@ -3,7 +3,7 @@ title: "#REVAL: a semantic evaluation framework for hashtag recommendation"
 description: "[TKDE 2025][去偏公平、可信隐私与工业架构] 提出语义评估框架 #REval，用 BERTag 话题标签嵌入构建同义词库，以 #REval-hit-ratio 替代精确匹配，修正话题标签推荐评估的系统性低估。"
 tags:
   - TKDE
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 评测基准
   - 语义评估
   - 话题标签嵌入

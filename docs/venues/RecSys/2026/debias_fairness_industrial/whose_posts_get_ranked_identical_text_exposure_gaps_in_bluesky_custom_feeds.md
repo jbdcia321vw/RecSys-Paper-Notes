@@ -3,7 +3,7 @@ title: "[Paper Note] Whose Posts Get Ranked: Identical-Text Exposure Gaps in Blu
 description: "[RecSys 2026][去偏公平与工业架构] 基于自然重复帖的曝光审计：同文本跨作者在250个Bluesky自定义Feed中曝光差异达33%，作者历史主导排名"
 tags:
   - RecSys
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 曝光公平性审计
   - 固定效应回归

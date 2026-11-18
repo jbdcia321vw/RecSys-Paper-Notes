@@ -3,7 +3,7 @@ title: "[Paper Note] Causal Representation Learning for Generalisable Recommenda
 description: "[NeurIPS 2026][去偏公平与工业架构] 提出信息论解耦准则 J=I(g(T);Y|Z)−λI(g(T);Z)，用 InfoNCE+梯度反转实现，零推理开销，Spotify 千万级 A/B 提升 +0.75% 播放。"
 tags:
   - NeurIPS
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 因果表征学习
   - 互信息解耦

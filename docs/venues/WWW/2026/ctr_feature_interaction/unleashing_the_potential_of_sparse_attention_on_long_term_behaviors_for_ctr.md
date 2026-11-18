@@ -3,10 +3,10 @@ title: "[Paper Note] Unleashing the Potential of Sparse Attention on Long-term B
 description: "[WWW 2026][CTR预估与特征交叉] 面向长行为序列 CTR 的个性化时间分块 + 三分支稀疏注意力 SparseCTR，AUC 相对提升 8.49%，线上 CTR +1.72%。"
 tags:
   - WWW 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
-  - 稀疏自注意力
-  - 长序列行为建模
+  - 稀疏注意力
+  - 长期行为序列建模
 date: 2026-11-13
 venue: WWW
 year: 2026

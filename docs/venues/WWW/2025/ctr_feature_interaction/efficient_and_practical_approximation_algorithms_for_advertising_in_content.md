@@ -3,7 +3,7 @@ title: "[Paper Note] Efficient and Practical Approximation Algorithms for Advert
 description: "[WWW 2025][CTR预估与特征交叉] 针对信息流原生广告位分配，提出反向贪心 2-近似算法，突破前人 4-近似瓶颈，并在合成与真实数据上首次系统评测。"
 tags:
   - WWW 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 重排
   - 原生广告分配
   - 近似算法

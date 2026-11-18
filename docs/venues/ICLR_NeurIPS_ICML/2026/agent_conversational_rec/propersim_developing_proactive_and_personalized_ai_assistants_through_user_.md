@@ -4,10 +4,10 @@ description: "[ICLR 2026][对话推荐与智能体仿真] 提出 ProPerSim 仿�
 tags:
   - ICLR
   - 对话推荐与智能体仿真
-  - 端到端生成式
+  - 生成式推荐
   - 用户行为模拟
   - 主动推荐
-  - DPO 偏好对齐
+  - DPO偏好对齐
 date: 2026-11-13
 venue: ICLR_NeurIPS_ICML
 year: 2026

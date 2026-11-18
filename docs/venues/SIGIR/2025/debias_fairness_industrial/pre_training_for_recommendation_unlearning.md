@@ -3,7 +3,7 @@ title: "[Paper Note] Pre-training for Recommendation Unlearning"
 description: "[SIGIR 2025][去偏公平、可信隐私与工业架构] 提出预训练式影响编码器 UnlearnRec，将遗忘请求映射为嵌入漂移，免重训实现高效图推荐遗忘，10x 加速且保持精度。"
 tags:
   - SIGIR 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 机器遗忘
   - 图推荐

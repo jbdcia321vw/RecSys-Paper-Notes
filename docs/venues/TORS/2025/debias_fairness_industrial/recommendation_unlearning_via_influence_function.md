@@ -3,7 +3,7 @@ title: "[Paper Note] Recommendation Unlearning via Influence Function"
 description: "[TORS 2025][去偏公平、可信隐私与工业架构] 用影响函数一步更新模型实现推荐遗忘，联合直接损失影响与图卷积溢出影响，剪枝加速后较重训提速 250 倍以上。"
 tags:
   - TORS
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 模型更新/遗忘
   - 影响函数
   - 推荐遗忘

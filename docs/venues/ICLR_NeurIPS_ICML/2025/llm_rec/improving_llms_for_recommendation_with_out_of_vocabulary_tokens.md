@@ -4,7 +4,7 @@ description: "[arXiv 2024][LLM4Rec] 用元路径聚类生成 OOV 层级 token �
 tags:
   - arXiv
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - OOV Token
   - META ID
   - 元路径聚类

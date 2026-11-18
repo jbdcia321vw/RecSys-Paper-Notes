@@ -3,10 +3,9 @@ title: "[Paper Note] DiffGRM: Diffusion-based Generative Recommendation Model"
 description: "[WWW 2026][生成式推荐与离散语义 ID] 用掩码离散扩散替代自回归解码 SID，配合 OPQ 解耦分词、难度感知相干加噪与置信度并行去噪，NDCG@10 提升 6.9%–15.5%。"
 tags:
   - WWW
-  - 生成式推荐与离散语义 ID
-  - 生成式端到端
+  - 生成式推荐
   - 掩码离散扩散
-  - 语义 ID 并行解码
+  - 语义ID并行解码
 date: 2026-11-13
 venue: WWW
 year: 2026

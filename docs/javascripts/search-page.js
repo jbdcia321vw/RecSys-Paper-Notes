@@ -24,7 +24,7 @@
     zh: {
       placeholder: "搜索论文笔记…",
       loading: "正在加载搜索索引…",
-      empty: "输入关键词开始搜索（匹配标题 + 关键词）",
+      empty: "输入关键词或选择标签开始搜索（标题 + 关键词 + 标签）",
       none: "没有找到匹配的笔记。",
       count: function (n, from, to, page, pages) {
         return pages > 1
@@ -42,7 +42,7 @@
     en: {
       placeholder: "Search paper notes…",
       loading: "Loading search index…",
-      empty: "Type a keyword to search (matches title + keywords)",
+      empty: "Type a keyword or pick tags to search (title + keywords + tags)",
       none: "No matching notes found.",
       count: function (n, from, to, page, pages) {
         return pages > 1
@@ -198,6 +198,105 @@
     return selectedConferences(filter);
   }
 
+  function tagInputs(filter) {
+    return filter.querySelectorAll("input[data-tag]");
+  }
+
+  function selectedTags(filter) {
+    var inputs = tagInputs(filter);
+    var selected = [];
+    for (var i = 0; i < inputs.length; i++) {
+      if (inputs[i].checked) selected.push(inputs[i].getAttribute("data-tag"));
+    }
+    return selected;
+  }
+
+  function syncTagClear(filter) {
+    var clear = filter.querySelector("#pn-search-tag-clear");
+    if (clear) clear.disabled = selectedTags(filter).length === 0;
+  }
+
+  function applyTagSelection(filter, selected) {
+    var wanted = null;
+    if (selected !== null) {
+      wanted = Object.create(null);
+      for (var i = 0; i < selected.length; i++) wanted[selected[i]] = true;
+    }
+    var inputs = tagInputs(filter);
+    for (var j = 0; j < inputs.length; j++) {
+      inputs[j].checked = wanted === null || !!wanted[inputs[j].getAttribute("data-tag")];
+    }
+    syncTagClear(filter);
+    return selectedTags(filter);
+  }
+
+  function setTagMode(filter, mode) {
+    mode = mode === "or" ? "or" : "and";
+    var buttons = filter.querySelectorAll("[data-tag-mode]");
+    for (var i = 0; i < buttons.length; i++) {
+      buttons[i].setAttribute(
+        "aria-pressed",
+        buttons[i].getAttribute("data-tag-mode") === mode ? "true" : "false"
+      );
+    }
+    return mode;
+  }
+
+  function selectedTagMode(filter) {
+    var button = filter.querySelector('[data-tag-mode][aria-pressed="true"]');
+    return button && button.getAttribute("data-tag-mode") === "or" ? "or" : "and";
+  }
+
+  function isUsefulTag(tag) {
+    tag = (tag || "").trim();
+    return !!tag && !/(?:19|20)\d{2}/.test(tag);
+  }
+
+  function appendTagOption(container, tag, count) {
+    var label = document.createElement("label");
+    label.className = "pn-conference-option pn-tag-option";
+    var input = document.createElement("input");
+    input.type = "checkbox";
+    input.setAttribute("data-tag", tag);
+    var text = document.createElement("span");
+    text.textContent = tag;
+    var num = document.createElement("em");
+    num.className = "pn-tag-count";
+    num.textContent = count;
+    text.appendChild(num);
+    label.appendChild(input);
+    label.appendChild(text);
+    container.appendChild(label);
+  }
+
+  function populateTags(filter, selected, mode) {
+    var counts = Object.create(null);
+    for (var i = 0; i < docsCache.length; i++) {
+      var tags = docsCache[i].tagList || [];
+      for (var j = 0; j < tags.length; j++) {
+        var tag = tags[j];
+        if (isUsefulTag(tag)) counts[tag] = (counts[tag] || 0) + 1;
+      }
+    }
+
+    var chosen = selected || [];
+    for (var s = 0; s < chosen.length; s++) {
+      if (!(chosen[s] in counts)) counts[chosen[s]] = 0;
+    }
+
+    var names = Object.keys(counts).sort(function (a, b) {
+      return counts[b] - counts[a] || a.localeCompare(b);
+    });
+    var container = filter.querySelector("#pn-search-tags");
+    container.innerHTML = "";
+    for (var k = 0; k < names.length; k++) {
+      appendTagOption(container, names[k], counts[names[k]]);
+    }
+    filter.disabled = false;
+    setTagMode(filter, mode);
+    return applyTagSelection(filter, selected);
+  }
+
   function appendConferenceOption(container, conference, labelText, isAll) {
     var label = document.createElement("label");
     label.className = "pn-conference-option" + (isAll ? " pn-conference-all" : "");
@@ -257,7 +356,8 @@
       if (!title) continue;
       var kw = d.text || "";
       var kwList = kw ? kw.split(/[,\u3001]\s*/).filter(Boolean) : [];
-      var tags = (d.tags || []).join(" ");
+      var tagList = d.tags || [];
+      var tags = tagList.join(" ");
       var map = Object.create(null);
       addTokens(map, title, 3);
       addTokens(map, kw, 2);
@@ -269,6 +369,7 @@
         area: prettyArea(segs[1]),
         kw: kw,
         kwList: kwList,
+        tagList: tagList,
         map: map,
         titleNorm: title.toLowerCase(),
         kwNorm: kw.toLowerCase(),
@@ -305,7 +406,21 @@
     }
   }
 
-  function runSearch(q, conferences) {
+  function tagMatch(docTags, tags, tagMode) {
+    if (!tags || !tags.length) return true;
+    if (tagMode === "or") {
+      for (var i = 0; i < tags.length; i++) {
+        if (docTags.indexOf(tags[i]) >= 0) return true;
+      }
+      return false;
+    }
+    for (var j = 0; j < tags.length; j++) {
+      if (docTags.indexOf(tags[j]) < 0) return false;
+    }
+    return true;
+  }
+
+  function runSearch(q, conferences, tags, tagMode) {
     var qn = q.toLowerCase().replace(/\s+/g, " ").trim();
     var qToks = [];
     var seen = Object.create(null);
@@ -316,7 +431,7 @@
         qToks.push(raw[i]);
       }
     }
-    if (!qToks.length) return [];
+    if (!qToks.length && (!tags || !tags.length)) return [];
     var conferenceSet = null;
     if (conferences !== null) {
       conferenceSet = Object.create(null);
@@ -326,6 +441,7 @@
     for (var d = 0; d < docsCache.length; d++) {
       var doc = docsCache[d];
       if (conferenceSet && !conferenceSet[doc.venue]) continue;
+      if (!tagMatch(doc.tagList, tags, tagMode)) continue;
       var s = 0,
         matched = 0;
       for (var k = 0; k < qToks.length; k++) {
@@ -335,11 +451,13 @@
           matched++;
         }
       }
-      if (s <= 0) continue;
-      s *= 0.4 + 0.6 * (matched / qToks.length); // favour matching all terms
-      if (qn.length >= 2) {
-        if (doc.titleNorm.indexOf(qn) >= 0) s += 12; // near-exact title match
-        else if (doc.kwNorm.indexOf(qn) >= 0) s += 4;
+      if (qToks.length) {
+        if (s <= 0) continue;
+        s *= 0.4 + 0.6 * (matched / qToks.length); // favour matching all terms
+        if (qn.length >= 2) {
+          if (doc.titleNorm.indexOf(qn) >= 0) s += 12; // near-exact title match
+          else if (doc.kwNorm.indexOf(qn) >= 0) s += 4;
+        }
       }
       hits.push({ doc: doc, s: s });
     }
@@ -459,7 +577,22 @@
     }
   }
 
-  function searchUrl(q, page, conferences) {
+  function getTags() {
+    var m = /[?&]tags=([^&]*)/.exec(location.search);
+    if (!m) return [];
+    try {
+      return decodeURIComponent(m[1].replace(/\+/g, " ")).split(",").filter(Boolean);
+    } catch (e) {
+      return [];
+    }
+  }
+
+  function getTagMode() {
+    var m = /[?&]tag_mode=(and|or)/.exec(location.search);
+    return m && m[1] === "or" ? "or" : "and";
+  }
+
+  function searchUrl(q, page, conferences, tags, tagMode) {
     var nq = (q || "").trim();
     var params = [];
     if (nq) params.push("q=" + encodeURIComponent(nq));
@@ -468,13 +601,17 @@
         "conference=" + encodeURIComponent(conferences.length ? conferences.join(",") : "none")
       );
     }
-    if (nq && page && page > 1) params.push("page=" + page);
+    if (tags && tags.length) {
+      params.push("tags=" + encodeURIComponent(tags.join(",")));
+      params.push("tag_mode=" + (tagMode === "or" ? "or" : "and"));
+    }
+    if ((nq || (tags && tags.length)) && page && page > 1) params.push("page=" + page);
     return base() + "search/" + (params.length ? "?" + params.join("&") : "");
   }
 
-  function replaceSearchUrl(q, page, conferences) {
+  function replaceSearchUrl(q, page, conferences, tags, tagMode) {
     try {
-      history.replaceState(null, "", searchUrl(q, page, conferences));
+      history.replaceState(null, "", searchUrl(q, page, conferences, tags, tagMode));
     } catch (e) {}
   }
 
@@ -490,7 +627,7 @@
     return pager;
   }
 
-  function pageAnchor(q, conferences, page, label, className) {
+  function pageAnchor(q, conferences, tags, tagMode, page, label, className) {
     return (
       '<button type="button" class="pn-page ' +
       className +
@@ -500,15 +637,19 @@
       encodeURIComponent(q) +
       '" data-conferences="' +
       encodeURIComponent((conferences || []).join(",")) +
+      '" data-tags="' +
+      encodeURIComponent((tags || []).join(",")) +
+      '" data-tag-mode="' +
+      (tagMode === "or" ? "or" : "and") +
       '">' +
       esc(label) +
       "</button>"
     );
   }
 
-  function renderPager(pager, q, conferences, page, totalPages) {
+  function renderPager(pager, q, conferences, tags, tagMode, page, totalPages) {
     if (!pager) return;
-    if (!q || totalPages <= 1) {
+    if ((!q && (!tags || !tags.length)) || totalPages <= 1) {
       pager.innerHTML = "";
       return;
     }
@@ -521,11 +662,11 @@
     var html = "";
     html +=
       page > 1
-        ? pageAnchor(q, conferences, page - 1, T.prev, "pn-prev")
+        ? pageAnchor(q, conferences, tags, tagMode, page - 1, T.prev, "pn-prev")
         : '<span class="pn-page pn-prev pn-disabled">' + esc(T.prev) + "</span>";
 
     if (start > 1) {
-      html += pageAnchor(q, conferences, 1, "1", "pn-number");
+      html += pageAnchor(q, conferences, tags, tagMode, 1, "1", "pn-number");
       if (start > 2) html += '<span class="pn-page pn-ellipsis">…</span>';
     }
 
@@ -533,50 +674,53 @@
       html +=
         p === page
           ? '<span class="pn-page pn-number pn-current" aria-current="page">' + p + "</span>"
-          : pageAnchor(q, conferences, p, String(p), "pn-number");
+          : pageAnchor(q, conferences, tags, tagMode, p, String(p), "pn-number");
     }
 
     if (end < totalPages) {
       if (end < totalPages - 1) html += '<span class="pn-page pn-ellipsis">…</span>';
-      html += pageAnchor(q, conferences, totalPages, String(totalPages), "pn-number");
+      html += pageAnchor(q, conferences, tags, tagMode, totalPages, String(totalPages), "pn-number");
     }
 
     html +=
       page < totalPages
-        ? pageAnchor(q, conferences, page + 1, T.next, "pn-next")
+        ? pageAnchor(q, conferences, tags, tagMode, page + 1, T.next, "pn-next")
         : '<span class="pn-page pn-next pn-disabled">' + esc(T.next) + "</span>";
 
     pager.innerHTML = html;
   }
 
-  function render(status, list, pager, q, page, conferences) {
+  function render(status, list, pager, q, page, conferences, tags, tagMode) {
     q = (q || "").trim();
-    if (!q) {
+    tags = tags || [];
+    if (!q && !tags.length) {
       status.textContent = T.empty;
       list.innerHTML = "";
-      renderPager(pager, q, conferences, 1, 0);
+      renderPager(pager, q, conferences, tags, tagMode, 1, 0);
       return;
     }
     status.textContent = T.loading;
     list.innerHTML = "";
-    renderPager(pager, q, conferences, 1, 0);
+    renderPager(pager, q, conferences, tags, tagMode, 1, 0);
     ensureIndex(function (err) {
       if (err) {
         status.textContent = T.failed;
         return;
       }
-      var hits = runSearch(q, conferences);
+      var hits = runSearch(q, conferences, tags, tagMode);
       if (!hits.length) {
-        replaceSearchUrl(q, 1, conferences);
-        status.innerHTML = esc(T.none) + " · " + deepLink(q);
+        replaceSearchUrl(q, 1, conferences, tags, tagMode);
+        status.innerHTML = esc(T.none) + (q ? " · " + deepLink(q) : "");
         return;
       }
       var totalPages = Math.ceil(hits.length / PAGE_SIZE);
       page = Math.min(Math.max(page || 1, 1), totalPages);
-      replaceSearchUrl(q, page, conferences);
+      replaceSearchUrl(q, page, conferences, tags, tagMode);
       var start = (page - 1) * PAGE_SIZE;
       var end = Math.min(start + PAGE_SIZE, hits.length);
-      status.innerHTML = T.count(hits.length, start + 1, end, page, totalPages) + " · " + deepLink(q);
+      status.innerHTML =
+        T.count(hits.length, start + 1, end, page, totalPages) +
+        (q ? " · " + deepLink(q) : "");
       var terms = highlightTerms(q);
       var b = base();
       var html = "";
@@ -607,7 +751,7 @@
           "</li>";
       }
       list.innerHTML = html;
-      renderPager(pager, q, conferences, page, totalPages);
+      renderPager(pager, q, conferences, tags, tagMode, page, totalPages);
     });
   }
 
@@ -628,6 +772,17 @@
       ".pn-conference-option input{width:.85rem;height:.85rem;margin:0;accent-color:var(--md-accent-fg-color)}" +
       ".pn-conference-option input:checked+span{color:var(--md-typeset-a-color);font-weight:600}" +
       "#pn-search-conference-filter:disabled{opacity:.6}" +
+      "#pn-search-tag-filter{min-width:0;border:0;padding:0;margin:.65rem 0 0}" +
+      "#pn-search-tag-filter legend{padding:0;color:var(--md-default-fg-color--light);font-size:.78rem;line-height:1.5}" +
+      "#pn-search-tags{display:flex;flex-wrap:wrap;gap:.35rem;margin-top:.3rem;max-height:9rem;overflow:auto;padding:.1rem 0}" +
+      "#pn-search-tag-filter:disabled{opacity:.6}" +
+      ".pn-tag-count{font-style:normal;opacity:.7;font-size:.65rem;margin-left:.2rem}" +
+      ".pn-tag-actions{display:flex;align-items:center;gap:.6rem;margin-top:.4rem;flex-wrap:wrap}" +
+      ".pn-tag-mode{display:inline-flex;overflow:hidden;border:1px solid var(--md-default-fg-color--lightest);border-radius:.35rem}" +
+      ".pn-tag-mode button{padding:.12rem .42rem;border:0;background:transparent;color:var(--md-default-fg-color--light);font:inherit;font-size:.66rem;font-weight:700;line-height:1.5;cursor:pointer}" +
+      ".pn-tag-mode button[aria-pressed=true]{background:var(--md-accent-fg-color);color:var(--md-primary-bg-color)}" +
+      "#pn-search-tag-clear{padding:.16rem .48rem;border:1px solid var(--md-default-fg-color--lightest);border-radius:.35rem;background:transparent;color:var(--md-typeset-a-color);font:inherit;font-size:.68rem;line-height:1.5;cursor:pointer}" +
+      "#pn-search-tag-clear:disabled{color:var(--md-default-fg-color--lighter);cursor:default}" +
       "#pn-search-status{color:var(--md-default-fg-color--light);font-size:.8rem;margin-bottom:.4rem}" +
       "#pn-search-results{list-style:none;margin:0;padding:0}" +
       ".pn-hit{padding:.7rem 0;border-bottom:1px solid var(--md-default-fg-color--lightest)}" +
@@ -673,6 +828,7 @@
     injectStyle();
     var input = document.getElementById("pn-search-input");
     var conferenceFilter = document.getElementById("pn-search-conference-filter");
+    var tagFilter = document.getElementById("pn-search-tag-filter");
     var status = document.getElementById("pn-search-status");
     var list = document.getElementById("pn-search-results");
     if (!input || !conferenceFilter || !status || !list) return;
@@ -683,27 +839,40 @@
     var initialQ = getQ();
     var initialPage = getPage();
     var initialConferences = getConferences();
+    var initialTags = tagFilter ? getTags() : [];
+    var initialTagMode = tagFilter ? getTagMode() : "and";
     if (initialQ) input.value = initialQ;
 
     var timer = null;
-    function update(immediate, page, queryOverride, conferencesOverride) {
+    function update(immediate, page, queryOverride, conferencesOverride, tagsOverride, tagModeOverride) {
       var q = typeof queryOverride === "string" ? queryOverride : input.value;
       if (typeof queryOverride === "string" && input.value !== q) input.value = q;
       var conferences = Array.isArray(conferencesOverride)
         ? applyConferenceSelection(conferenceFilter, conferencesOverride)
         : selectedConferences(conferenceFilter);
+      var tags = tagFilter
+        ? Array.isArray(tagsOverride)
+          ? applyTagSelection(tagFilter, tagsOverride)
+          : selectedTags(tagFilter)
+        : [];
+      var tagMode = tagFilter
+        ? tagModeOverride
+          ? setTagMode(tagFilter, tagModeOverride)
+          : selectedTagMode(tagFilter)
+        : "and";
+      if (tagFilter) syncTagClear(tagFilter);
       var nq = q.trim();
-      page = nq ? page || 1 : 1;
-      replaceSearchUrl(nq, page, conferences);
+      page = nq || tags.length ? page || 1 : 1;
+      replaceSearchUrl(nq, page, conferences, tags, tagMode);
       if (timer) {
         clearTimeout(timer);
         timer = null;
       }
       if (immediate) {
-        render(status, list, pager, q, page, conferences);
+        render(status, list, pager, q, page, conferences, tags, tagMode);
       } else {
         timer = setTimeout(function () {
-          render(status, list, pager, q, page, conferences);
+          render(status, list, pager, q, page, conferences, tags, tagMode);
         }, 180);
       }
     }
@@ -725,6 +894,27 @@
       syncAllConferences(conferenceFilter);
       update(true, 1);
     });
+    if (tagFilter) {
+      tagFilter.addEventListener("change", function (e) {
+        if (e.target && e.target.hasAttribute("data-tag")) update(true, 1);
+      });
+      var tagClear = tagFilter.querySelector("#pn-search-tag-clear");
+      if (tagClear) {
+        tagClear.addEventListener("click", function () {
+          applyTagSelection(tagFilter, []);
+          update(true, 1);
+        });
+      }
+      var tagModeGroup = tagFilter.querySelector("#pn-search-tag-mode");
+      if (tagModeGroup) {
+        tagModeGroup.addEventListener("click", function (e) {
+          var button = e.target.closest("[data-tag-mode]");
+          if (!button) return;
+          setTagMode(tagFilter, button.getAttribute("data-tag-mode"));
+          update(true, 1);
+        });
+      }
+    }
     pager.addEventListener("click", function (e) {
       var target = e.target.closest("[data-page]");
       if (!target) return;
@@ -743,11 +933,19 @@
         var encoded = decodeURIComponent(target.getAttribute("data-conferences") || "");
         conferences = encoded ? encoded.split(",") : [];
       } catch (err) {}
+      var tags = [];
+      try {
+        var encodedTags = decodeURIComponent(target.getAttribute("data-tags") || "");
+        tags = encodedTags ? encodedTags.split(",") : [];
+      } catch (err) {}
+      var tagMode = target.getAttribute("data-tag-mode") === "or" ? "or" : "and";
       update(
         true,
         parseInt(target.getAttribute("data-page"), 10) || 1,
         query || input.value || getQ(),
-        conferences
+        conferences,
+        tags,
+        tagMode
       );
       try {
         status.scrollIntoView({ block: "start" });
@@ -761,7 +959,20 @@
         return;
       }
       initialConferences = populateConferences(conferenceFilter, initialConferences);
-      render(status, list, pager, initialQ, initialPage, initialConferences);
+      if (tagFilter) {
+        initialTags = populateTags(tagFilter, initialTags, initialTagMode);
+        initialTagMode = selectedTagMode(tagFilter);
+      }
+      render(
+        status,
+        list,
+        pager,
+        initialQ,
+        initialPage,
+        initialConferences,
+        initialTags,
+        initialTagMode
+      );
     });
     try {
       input.focus();

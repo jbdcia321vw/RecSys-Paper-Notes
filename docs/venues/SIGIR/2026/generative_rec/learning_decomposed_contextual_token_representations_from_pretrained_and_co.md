@@ -3,9 +3,8 @@ title: "[Paper Note] Learning Decomposed Contextual Token Representations from P
 description: "[SIGIR 2026][生成式推荐与离散语义ID] DECOR 用冻结码本+可学协同嵌入分解融合、上下文 token 组合与可学 BOS 查询，缓解静态分词歧义与预训练语义丢失，Full-Ranking 下 NDCG@10 最高提升 14%。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
-  - 语义ID分词
+  - 生成式推荐
+  - 语义ID
   - 上下文token组合
   - 分解嵌入融合
 date: 2026-11-13

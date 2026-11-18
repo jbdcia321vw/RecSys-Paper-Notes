@@ -3,8 +3,7 @@ title: "[Paper Note] HypRQ-VAE: Hyperbolic Item Indexing for Long-Tail-Aware Gen
 description: "[ICDM 2026][生成式推荐与离散语义ID] 将 RQ-VAE 语义 ID 量化搬进 Poincaré 双曲球，用 Möbius 加减替代欧氏残差，长尾 Hit@10 提升 52.7%，全库排序验证。"
 tags:
   - ICDM 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 双曲几何
   - 残差量化语义ID
   - 长尾推荐

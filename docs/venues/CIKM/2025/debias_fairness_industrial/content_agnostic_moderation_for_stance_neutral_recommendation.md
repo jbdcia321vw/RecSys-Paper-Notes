@@ -3,7 +3,7 @@ title: "[Paper Note] Content-Agnostic Moderation for Stance-Neutral Recommendati
 description: "[CIKM 2025][去偏公平与工业架构] 提出不依赖内容特征的立场中立化后处理审核，用双聚类离散化打散用户-物品共簇，仿真闭环中显著降低立场偏度且 CTR 仅降约 11%。"
 tags:
   - CIKM 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 内容无关审核
   - 立场中立

@@ -3,7 +3,7 @@ title: "[Paper Note] Learning Sparse Representations of Multimodal Content for E
 description: "[RecSys 2026][冷启动与长尾推荐] 将多模态内容冷启动表征改为 top-K 稀疏嵌入，并用 α-entmax 预稀疏激活诱导锐化与去噪，冷启动 NDCG@20 提升 16.6%–75.5% 且存储更低。"
 tags:
   - RecSys
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 稀疏嵌入
   - 多模态内容表征

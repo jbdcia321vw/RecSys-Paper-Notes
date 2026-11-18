@@ -4,7 +4,7 @@ description: "[ACL/EMNLP 2025][LLM4Rec] 用 LLM 从用户评论语义中做个�
 tags:
   - ACL/EMNLP 2025
   - 大语言模型推荐
-  - 端到端生成式
+  - 生成式推荐
   - 个性化估值
   - 拍卖闭环评估
 date: 2026-11-14

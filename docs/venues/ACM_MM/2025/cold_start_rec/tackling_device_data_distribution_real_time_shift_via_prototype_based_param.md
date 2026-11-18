@@ -3,7 +3,7 @@ title: "[Paper Note] Tackling Device Data Distribution Real-time Shift via Proto
 description: "[ACM MM 2025][冷启动与长尾推荐] 云端神经适配器免反传生成参数编辑矩阵，多原型聚类+跨层知识迁移实现端侧实时分布偏移适配，1s 内完成个性化且 NDCG@5 显著超越微调。"
 tags:
   - ACM MM
-  - 冷启动与长尾推荐
+  - 冷启动
   - 端侧推理
   - 参数编辑
   - 原型聚类

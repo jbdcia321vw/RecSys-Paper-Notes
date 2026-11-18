@@ -3,7 +3,7 @@ title: "FairFS: Addressing Deep Feature Selection Biases for Recommender System"
 description: "[WWW 2026][去偏公平与工业架构] 识别深度特征选择的三类偏差（层偏差/基线偏差/近似偏差），以平滑基线与聚合近似实现无偏特征重要性估计，AUC 提升最高 0.35%。"
 tags:
   - WWW 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 特征工程/离线特征选择
   - 特征重要性估计
   - 梯度归因去偏

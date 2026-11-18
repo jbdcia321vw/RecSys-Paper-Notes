@@ -3,7 +3,7 @@ title: "[Paper Note] An Audio-centric Multi-task Learning Framework for Streamin
 description: "[KDD 2025][CTR预估与特征交叉] 面向音频主导多模态广告场景的 CAMoE 框架，以模态感知任务分组、自适应损失掩码与 DCN 专家实现近帕累托最优 CTR 预估，线上音频 CTR +14.5%。"
 tags:
   - KDD 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 多任务学习
   - 混合专家网络

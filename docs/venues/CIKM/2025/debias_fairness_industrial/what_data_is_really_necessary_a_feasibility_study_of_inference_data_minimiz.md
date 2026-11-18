@@ -3,7 +3,7 @@ title: "[Paper Note] What Data is Really Necessary? A Feasibility Study of Infer
 description: "[CIKM 2025][去偏公平、可信隐私与工业架构] 提出性能约束式推理数据最小化问题与 Greedy Removal 算法，在三个隐式反馈数据集上实现最高 84.5% 数据削减且 PRR 保持 98%。"
 tags:
   - CIKM 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 推理阶段数据治理
   - 数据最小化
   - Greedy Removal

@@ -3,7 +3,7 @@ title: "[Paper Note] Semantic IDs for Recommender Systems at Snapchat: Use Cases
 description: "[SIGIR 2026][生成式推荐与离散语义ID] Snapchat 工业级 SID 落地：STE 全码本反传与多模态融合缓解码本坍缩，启发式桶内消歧解决 SID-Item 碰撞，线上短视频分享 +4.39%。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - 语义ID
   - RQ-VAE码本坍缩

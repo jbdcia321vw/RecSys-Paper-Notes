@@ -4,7 +4,7 @@ description: "[RecSys 2026][LLM4Rec] 用 Gemini 双智能体（快循环提名+�
 tags:
   - RecSys 2026
   - 大语言模型推荐
-  - 端到端生成式
+  - 生成式推荐
   - LLM Agent
   - 奖励工程
   - 自动机器学习

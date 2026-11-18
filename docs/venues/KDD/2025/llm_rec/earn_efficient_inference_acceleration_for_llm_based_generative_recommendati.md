@@ -4,7 +4,7 @@ description: "[KDD 2025][大语言模型推荐] 基于 LLMRec 注意力层间稀
 tags:
   - KDD 2025
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - KV Cache 压缩
   - 寄存器 Token
   - 推理加速

@@ -4,9 +4,9 @@ description: "[SIGIR 2026][LLM4Rec] 揭示 SFT 训练与 beam search 推理的�
 tags:
   - SIGIR 2026
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - Beam Search 对齐
-  - 训练-推理一致性
+  - 训练-推理对齐
 date: 2026-11-13
 venue: SIGIR
 year: 2026

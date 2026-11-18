@@ -3,8 +3,7 @@ title: "[Paper Note] Discrete Preference Learning for Personalized Multimodal Ge
 description: "[SIGIR 2026][生成式推荐与离散语义ID] 用模态专属LightGCN+RQ-VAE把协同偏好量化成离散token注入LLM与扩散模型，配合跨模态一致性奖励实现个性化图文生成。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 离散偏好Token
   - 跨模态一致性奖励
 date: 2026-11-13

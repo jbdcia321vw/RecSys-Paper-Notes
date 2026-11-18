@@ -3,7 +3,7 @@ title: "[Paper Note] CROWN: A Novel Approach to Comprehending Users' Preferences
 description: "[WWW 2025][冷启动与长尾推荐] 以类别引导意图解耦、标题-内容一致性加权与 GNN 混合用户表征，统一解决新闻推荐的多意图、读后偏好差异与冷启动三大难题。"
 tags:
   - WWW 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 精排
   - 意图解耦
   - 标题-内容一致性

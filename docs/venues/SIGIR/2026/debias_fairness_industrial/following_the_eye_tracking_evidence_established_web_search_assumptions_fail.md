@@ -3,11 +3,11 @@ title: "Following the Eye-Tracking Evidence: Established Web-Search Assumptions 
 description: "[SIGIR 2026][去偏公平与工业架构] 用 RecGaze 眼动数据系统证伪 F 型注意力、层级点击与标题导航等四条 Web 搜索假设，提出轮播界面特有的 L 型注视模式。"
 tags:
   - SIGIR
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排/评估
   - 眼动追踪
   - 点击模型
-  - 位置偏差
+  - 位置偏置
 date: 2026-11-13
 venue: SIGIR
 year: 2026

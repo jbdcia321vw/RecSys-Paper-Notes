@@ -3,8 +3,8 @@ title: "[Paper Note] Prototype-Aligned Federated Soft-Prompts for Continual Web 
 description: "[WWW 2026][去偏公平、可信隐私与工业架构] 冻结骨干上注入双时间尺度软提示，长期提示锚定DP联邦原型库，八基准NDCG@10平均+2.9%且降低遗忘与适应步数。"
 tags:
   - WWW 2026
-  - 去偏公平、可信隐私与工业架构
-  - 端到端生成式
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - 联邦持续个性化
   - 软提示与原型锚定
   - 差分隐私

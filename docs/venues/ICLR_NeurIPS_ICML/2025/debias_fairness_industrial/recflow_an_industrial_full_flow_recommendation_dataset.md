@@ -3,7 +3,7 @@ title: "[Paper Note] RecFlow: An Industrial Full Flow Recommendation Dataset"
 description: "[ICLR 2025][去偏公平与工业架构] 首个覆盖工业六阶段漏斗全流程的推荐数据集，含1.9B阶段样本，揭示训练-服务分布偏移并验证阶段样本作为难负例与级联蒸馏的显著收益。"
 tags:
   - ICLR 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 全流程数据集
   - 分布偏移

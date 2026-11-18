@@ -3,7 +3,7 @@ title: "On Inherited Popularity Bias in Cold-Start Item Recommendation"
 description: "[RecSys 2025][冷启动与长尾推荐] 揭示生成式冷启动模型继承热模型流行度偏置，提出基于向量模长重标定的免训练后处理去偏方法，在三个多媒体数据集上显著提升物品公平性与曝光多样性。"
 tags:
   - RecSys 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 流行度偏置
   - 向量模长重标定

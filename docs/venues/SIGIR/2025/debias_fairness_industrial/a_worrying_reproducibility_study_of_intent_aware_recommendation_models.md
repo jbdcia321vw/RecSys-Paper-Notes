@@ -3,7 +3,7 @@ title: "[Paper Note] A Worrying Reproducibility Study of Intent-Aware Recommenda
 description: "[SIGIR 2025][去偏公平、可信隐私与工业架构] 复现 5 个意图感知推荐模型，发现 2 个不可复现、全部被调优后的传统非神经基线超越，揭示方法学顽疾。"
 tags:
   - SIGIR 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 可复现性研究
   - 意图感知推荐

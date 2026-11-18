@@ -3,7 +3,7 @@ title: "[Paper Note] Sequential Multimodal Evidence Optimization for Product Med
 description: "[CIKM 2026][多任务学习与列表级重排] 将商品媒体排序建模为证据累积序列决策，两阶段解耦效用学习与生存加权自回归策略，离线 DR-CVR +5.4%、MSC −15.3%。"
 tags:
   - CIKM 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 序列列表重排
   - 离线策略优化

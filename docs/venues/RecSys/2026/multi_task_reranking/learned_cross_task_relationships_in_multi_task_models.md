@@ -3,7 +3,7 @@ title: "[Paper Note] Learned Cross-Task Relationships in Multi-Task Models"
 description: "[RecSys 2026][多任务学习与列表级重排] 用交叉标签/无条件辅助头显式逼近任务两两联合分布，在 YouTube 三大场景线上 A/B 验证迁移与 RL 状态增强双重收益。"
 tags:
   - RecSys
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - 辅助头
   - 联合分布逼近

@@ -3,7 +3,7 @@ title: "[Paper Note] Exploring Scaling Laws of CTR Model for Online Performance 
 description: "[RecSys 2025][CTR预估与特征交叉] 提出 SUAN 统一注意力块实现 CTR 模型三级量级缩放律，再经稀疏注意力+并行推理+在线蒸馏落地线上，CTR +2.81%。"
 tags:
   - RecSys 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - Scaling Law
   - 在线知识蒸馏

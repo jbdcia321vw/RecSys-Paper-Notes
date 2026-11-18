@@ -3,9 +3,8 @@ title: "[Paper Note] Cold-Starting Podcast Ads and Promotions with Multi-Task Le
 description: "[WSDM 2026][多任务学习与列表级重排] Spotify 用单一 5 任务 MTL 模型统一播客广告与推广定向，靠非对称损失掩码与源平衡采样实现跨渠道迁移，线上 eCPS 降 22%、i2s 升 18–24%。"
 tags:
   - WSDM 2026
-  - 多任务学习与列表级重排
-  - 精排
   - 多任务学习
+  - 精排
   - 冷启动迁移
   - 广告定向
 date: 2026-11-12

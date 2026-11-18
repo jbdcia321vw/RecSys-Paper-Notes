@@ -3,9 +3,8 @@ title: "[Paper Note] APAO: Bridging the Training-Inference Gap in Generative Rec
 description: "[KDD 2026][生成式推荐与离散语义ID] 揭示 Beam Search 剪枝与 teacher-forcing 训练的前缀级不一致，用自适应最差前缀损失对齐训练与推理，全库排序下 Recall@20 最高提升 13.3%。"
 tags:
   - KDD
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
-  - 训练-推理不一致
+  - 生成式推荐
+  - 训练-推理对齐
   - Beam Search
   - 前缀级排序优化
 date: 2026-11-13

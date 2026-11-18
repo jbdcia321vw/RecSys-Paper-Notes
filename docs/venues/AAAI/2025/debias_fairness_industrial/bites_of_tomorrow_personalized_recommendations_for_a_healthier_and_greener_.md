@@ -3,7 +3,7 @@ title: "[Paper Note] Bites of Tomorrow: Personalized Recommendations for a Healt
 description: "[AAAI 2025][去偏公平与工业架构] 提出绿色食品推荐任务 GRAPE，用双注意力建模用户对可持续指标的动态偏好，并以两种 Green Loss 在保精度前提下提升推荐列表绿色度。"
 tags:
   - AAAI 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 可持续推荐
   - 多目标损失

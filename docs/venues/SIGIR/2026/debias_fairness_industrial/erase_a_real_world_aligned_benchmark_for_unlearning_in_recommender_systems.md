@@ -3,8 +3,8 @@ title: "[Paper Note] ERASE -- A Real-World Aligned Benchmark for Unlearning in R
 description: "[SIGIR 2026][去偏公平、可信隐私与工业架构] 面向真实场景的推荐系统机器遗忘基准，覆盖 CF/SBR/NBR 三任务、七种遗忘算法、九数据集九模型，揭示近似遗忘的鲁棒性与效率短板。"
 tags:
   - SIGIR 2026
-  - 去偏公平、可信隐私与工业架构
-  - 端到端生成式
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - Machine Unlearning
   - Benchmark
   - Sequential Unlearning

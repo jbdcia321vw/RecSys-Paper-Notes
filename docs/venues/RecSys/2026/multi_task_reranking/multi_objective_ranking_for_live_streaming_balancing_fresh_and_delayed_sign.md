@@ -3,7 +3,7 @@ title: "[Paper Note] Multi-Objective Ranking for Live-Streaming: Balancing Fresh
 description: "[RecSys 2026][多任务学习与列表级重排] Twitch 直播精排用延迟窗口+新鲜/延迟双模型分离+分段推理加权+MMoE，DAV +0.09%、D 段 ARPU +0.56%。"
 tags:
   - RecSys 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - 延迟反馈
   - 分段加权

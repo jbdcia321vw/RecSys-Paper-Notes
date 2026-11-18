@@ -3,7 +3,7 @@ title: "[Paper Note] PCR-CA: Parallel Codebook Representations with Contrastive 
 description: "[KDD 2026][生成式推荐与离散语义ID] 用并行码本VQ-AE替代RQ-VAE层级量化建模多类别App语义，配合用户/物品双层对比对齐与双流注意力，微软商店线上CTR+10.52%。"
 tags:
   - KDD 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 精排
   - 并行码本向量量化
   - 对比对齐

@@ -3,8 +3,7 @@ title: "[Paper Note] Towards Generalizable and Efficient Large-Scale Generative 
 description: "[RecSys 2026][生成式推荐与离散语义ID] 将生成式推荐骨干从2M扩至1B，用偏移幂律缩放律诊断任务天花板，并以MTP、采样softmax与语义塔解决缓存陈旧与冷启动，1M用户影子MRR全线提升。"
 tags:
   - RecSys
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 缩放律
   - 多Token预测
   - 冷启动语义塔

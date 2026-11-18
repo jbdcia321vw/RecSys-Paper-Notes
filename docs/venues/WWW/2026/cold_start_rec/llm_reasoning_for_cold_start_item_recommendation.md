@@ -3,7 +3,7 @@ title: "[Paper Note] LLM Reasoning for Cold-Start Item Recommendation"
 description: "[WWW 2026][冷启动与长尾推荐] 在 Netflix 冷启动重排任务上系统对比结构化推理、软自洽与 SFT/GRPO 混合微调，推理微调模型在 Discovery 指标上超越线上生产排序模型最高 8%。"
 tags:
   - WWW 2026
-  - 冷启动与长尾推荐
+  - 冷启动
   - 重排
   - LLM Reasoning
   - GRPO

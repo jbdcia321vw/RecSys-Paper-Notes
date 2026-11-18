@@ -3,7 +3,7 @@ title: "[Paper Note] Modeling Cascaded Delay Feedback for Online Net Conversion 
 description: "[WWW 2026][CTR预估与特征交叉] 首个淘宝净转化率流式基准 CASCADE，提出 CVR-RFR 级联+分阶段去偏+延迟感知排序损失的 TESLA，NetCVR 的 RI-AUC 绝对提升 12.41%。"
 tags:
   - WWW
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 级联延迟反馈
   - 净转化率

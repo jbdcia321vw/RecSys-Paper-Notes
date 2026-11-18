@@ -3,9 +3,8 @@ title: "[Paper Note] RASTP: Representation-Aware Semantic Token Pruning for Gene
 description: "[WWW 2026][生成式推荐与离散语义ID] 以表征L1范数与注意力中心性乘积打分，在Transformer中间层动态剪枝SID冗余token，训练提速26.7%且性能持平略升。"
 tags:
   - WWW 2026
-  - 生成式推荐与离散语义ID
-  - 端到端生成式
-  - Semantic ID
+  - 生成式推荐
+  - 语义ID
   - Token Pruning
   - 训练加速
 date: 2026-11-13

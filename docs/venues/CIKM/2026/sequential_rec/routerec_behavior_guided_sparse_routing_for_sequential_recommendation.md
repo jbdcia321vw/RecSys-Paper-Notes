@@ -5,7 +5,7 @@ tags:
   - CIKM
   - 序列与会话推荐
   - 精排
-  - Mixture-of-Experts
+  - MoE
   - 行为线索路由
 date: 2026-11-12
 venue: CIKM

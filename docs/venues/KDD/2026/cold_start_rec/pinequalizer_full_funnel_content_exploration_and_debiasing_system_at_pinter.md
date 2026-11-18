@@ -3,7 +3,7 @@ title: "[Paper Note] PinEqualizer: Full Funnel Content Exploration and Debiasing
 description: "[KDD 2026][冷启动与长尾推荐] 面向工业级搜索/推荐全漏斗的新内容冷启动系统，以去偏替代纯探索，配合三层可扩展度量框架，线上新鲜内容曝光提升350%。"
 tags:
   - KDD 2026
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回/精排/重排全链路
   - 内容冷启动
   - 探索与去偏

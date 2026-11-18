@@ -3,7 +3,7 @@ title: "[Paper Note] Flexible Generation of Preference Data for Recommendation A
 description: "[KDD 2025][去偏公平与工业架构] HYDRA 以用户-物品匹配、物品流行度、用户活跃度三因子混合分布生成可控合成偏好数据，复现真实基准的度分布与算法排序。"
 tags:
   - KDD 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 数据生成/基准构建
   - 概率生成模型
   - 长尾分布混合

@@ -3,7 +3,7 @@ title: "FairSort: Learning to Fair Rank for Personalized Recommendations in Two-
 description: "[TKDE 2025][去偏公平与工业架构] 将重排视为“跑道”而非背包，用公平提升速度+二分搜索保证用户最低效用，实现双边公平与个性化推荐的三方权衡。"
 tags:
   - TKDE
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 双边公平
   - 最小效用保证

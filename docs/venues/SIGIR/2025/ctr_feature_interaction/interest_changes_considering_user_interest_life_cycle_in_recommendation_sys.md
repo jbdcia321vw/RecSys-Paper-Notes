@@ -3,7 +3,7 @@ title: "[Paper Note] Interest Changes: Considering User Interest Life Cycle in R
 description: "[SIGIR 2025][CTR预估与特征交叉] 用曝光/点击/交互直方图+VQ聚类刻画兴趣生命周期，经特征重校准与专家网络融合注入MMOE精排，Lofter线上CTR+0.38%、CVR+1.04%。"
 tags:
   - SIGIR 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 兴趣生命周期
   - 向量量化聚类

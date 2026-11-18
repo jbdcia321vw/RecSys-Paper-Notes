@@ -3,7 +3,7 @@ title: "[Paper Note] NLGR: Utilizing Neighbor Lists for Generative Rerank in Per
 description: "[WWW 2025][多任务学习与列表级重排] 用邻居列表相对奖励对齐评估器-生成器目标，并以采样式非自回归生成灵活跳转组合空间，美团线上 CTR +3.25%。"
 tags:
   - WWW 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 生成式重排
   - 邻居列表反事实训练

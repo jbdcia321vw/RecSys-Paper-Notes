@@ -3,7 +3,7 @@ title: "[Paper Note] Personalized Federated Collaborative Filtering: A Variation
 description: "[AAAI 2025][去偏公平、可信隐私与工业架构] 将 FedCF 重构为 VAE 任务，用门控双编码器分离共享/个性化知识，HR@20 较 FedRAP 提升约 97%。"
 tags:
   - AAAI 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 联邦协同过滤
   - 变分自编码器

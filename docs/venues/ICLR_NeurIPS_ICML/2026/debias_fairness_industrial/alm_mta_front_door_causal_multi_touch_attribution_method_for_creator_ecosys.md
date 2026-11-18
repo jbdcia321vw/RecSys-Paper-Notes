@@ -3,7 +3,7 @@ title: "ALM-MTA: Front-Door Causal Multi-Touch Attribution Method for Creator-Ec
 description: "[ICLR 2026][去偏公平与工业架构] 以前门识别+对抗代理中介实现大规模推荐系统多触点因果归因，离线 AUC 0.907、线上创作者 +0.6%。"
 tags:
   - ICLR
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 前门因果识别
   - 对抗代理中介

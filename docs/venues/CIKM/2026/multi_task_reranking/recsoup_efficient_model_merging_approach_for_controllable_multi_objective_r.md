@@ -3,7 +3,7 @@ title: "[Paper Note] RecSoup: Efficient Model Merging Approach for Controllable 
 description: "[CIKM 2026][多任务学习与列表级重排] 用剪枝+可学习门控做任务向量合并，实现推理时可控多目标推荐，HV 提升 8.5% 且延迟快 165–228 倍。"
 tags:
   - CIKM 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 模型合并
   - 可控多目标推荐

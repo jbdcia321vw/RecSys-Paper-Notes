@@ -3,7 +3,7 @@ title: "[Paper Note] Seeking Help, Facing Harm: Auditing TikTok's Mental Health 
 description: "[ICWSM 2026][去偏公平与可信审计] 30个LLM智能体7天控制审计TikTok推荐流，揭示交互行为主导心理健康内容曝光、求助意图无法形成安全边界。"
 tags:
   - ICWSM
-  - 去偏公平与可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 算法审计
   - 心理健康推荐

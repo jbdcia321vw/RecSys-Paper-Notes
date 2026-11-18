@@ -3,7 +3,7 @@ title: "[Paper Note] Beyond Advertising: Mechanism Design for Platform-Wide Mark
 description: "[KDD 2025][CTR预估与特征交叉] 提出全站推场景下的库存约束卖家模型与流式支付拍卖 LPA，在合成与真实数据上同时提升流式福利、用户体验与平台收入。"
 tags:
   - KDD 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 拍卖机制设计
   - 自动出价

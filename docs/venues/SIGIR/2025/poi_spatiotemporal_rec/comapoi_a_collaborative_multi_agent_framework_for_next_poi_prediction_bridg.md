@@ -4,7 +4,7 @@ description: "[SIGIR 2025][时空轨迹与POI推荐] 用 Profiler/Forecaster/Pre
 tags:
   - SIGIR 2025
   - 时空轨迹与POI推荐
-  - 生成式端到端
+  - 生成式推荐
   - 多智能体协作
   - 候选空间收缩
   - 反向推理微调

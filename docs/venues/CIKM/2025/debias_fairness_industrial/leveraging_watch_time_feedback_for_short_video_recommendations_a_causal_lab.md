@@ -3,7 +3,7 @@ title: "[Paper Note] Leveraging Watch-time Feedback for Short-Video Recommendati
 description: "[CIKM 2023][去偏公平与工业架构] 用分位数把观看时长转成 WPR 与二值标签，并在标注阶段按视频时长分组做因果去偏，离线全指标最优、线上观看时长 +2.23%。"
 tags:
   - CIKM
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 观看时长建模
   - 因果去偏标注

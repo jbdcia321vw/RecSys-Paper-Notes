@@ -3,7 +3,7 @@ title: "[Paper Note] Lightweight Auto-bidding based on Traffic Prediction in Liv
 description: "[KDD 2025][CTR预估与特征交叉] 直播广告场景下，用LightGBM预测全时段累计成本/点击，结合LP对偶最优出价公式与投影梯度下降求解对偶变量，实现秒级轻量自动出价，线上GMV+4.28%。"
 tags:
   - KDD 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 自动出价
   - 流量预测

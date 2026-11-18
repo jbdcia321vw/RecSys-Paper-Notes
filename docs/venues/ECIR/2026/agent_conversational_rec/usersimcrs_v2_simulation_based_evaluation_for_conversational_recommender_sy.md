@@ -5,7 +5,7 @@ tags:
   - ECIR
   - 对话推荐与智能体仿真
   - 评测基准
-  - 用户模拟器
+  - 用户模拟
   - LLM-as-a-Judge
 date: 2026-11-13
 venue: ECIR

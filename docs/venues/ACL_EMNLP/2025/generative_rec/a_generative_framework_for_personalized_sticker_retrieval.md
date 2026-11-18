@@ -3,7 +3,7 @@ title: "[Paper Note] A Generative Framework for Personalized Sticker Retrieval"
 description: "[EMNLP 2025 Findings][生成式推荐与离散语义ID] PEARL 用用户组嵌入+LLM意图排序加权解码，实现微信表情包个性化生成式检索，离线 MRR@10 提升 15%、线上 CTR +7.12%。"
 tags:
   - EMNLP 2025 Findings
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - 生成式检索
   - 个性化用户表征

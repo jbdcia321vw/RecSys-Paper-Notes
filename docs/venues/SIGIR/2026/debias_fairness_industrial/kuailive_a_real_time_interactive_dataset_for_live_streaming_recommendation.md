@@ -3,7 +3,7 @@ title: "[Paper Note] KuaiLive: A Real-time Interactive Dataset for Live Streamin
 description: "[SIGIR 2026][去偏公平、可信隐私与工业架构] 首个含直播间生命周期与多行为实时交互的快手直播推荐数据集，构建 Top-K/CTR 基准并揭示主播长尾公平性挑战。"
 tags:
   - SIGIR 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 直播推荐数据集
   - 长尾公平性

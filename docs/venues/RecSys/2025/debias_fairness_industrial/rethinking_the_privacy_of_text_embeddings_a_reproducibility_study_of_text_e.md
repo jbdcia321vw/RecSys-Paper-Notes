@@ -3,7 +3,7 @@ title: "[Paper Note] Rethinking the Privacy of Text Embeddings: A Reproducibilit
 description: "[RecSys 2025][去偏公平、可信隐私与工业架构] 复现 Vec2Text 嵌入反演攻击，揭示其长度敏感性，并提出免调参 8-bit 量化作为轻量隐私防御。"
 tags:
   - RecSys 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回/向量检索
   - 嵌入反演攻击
   - 嵌入量化防御

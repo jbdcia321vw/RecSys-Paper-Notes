@@ -3,7 +3,7 @@ title: "[Paper Note] A Privacy Preserving System for Movie Recommendations Using
 description: "[TORS 2025][去偏公平、可信隐私与工业架构] 端到端联邦电影推荐系统，提出 FedQ 队列式联邦训练缓解非独立同分布与小样本问题，结合 NNC 压缩降低通信开销，在 MovieLens 25M 上验证 16 万客户端规模。"
 tags:
   - TORS
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回+精排+重排
   - 联邦学习
   - 神经网络压缩

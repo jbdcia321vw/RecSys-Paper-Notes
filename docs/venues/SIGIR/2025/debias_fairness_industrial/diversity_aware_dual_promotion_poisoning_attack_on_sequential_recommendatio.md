@@ -3,7 +3,7 @@ title: "[Paper Note] Diversity-aware Dual-promotion Poisoning Attack on Sequenti
 description: "[SIGIR 2025][去偏公平、可信隐私与工业架构] 揭示攻击与推荐目标梯度冲突，提出双提升MSE攻击目标与多样性重排序列生成，在保推荐精度的同时显著提升目标物品曝光。"
 tags:
   - SIGIR 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 数据投毒攻击
   - 序列推荐
   - 双提升攻击目标

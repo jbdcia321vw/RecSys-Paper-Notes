@@ -4,7 +4,7 @@ description: "[ACL 2025 Findings][LLM4Rec] 将物品映射为扩展词表唯一 
 tags:
   - ACL 2025 Findings
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - 词表扩展
   - 哈希嵌入压缩
 date: 2026-11-14

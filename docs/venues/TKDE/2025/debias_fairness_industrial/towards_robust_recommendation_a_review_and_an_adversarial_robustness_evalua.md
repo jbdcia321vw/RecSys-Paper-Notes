@@ -3,7 +3,7 @@ title: "[Paper Note] Towards Robust Recommendation: A Review and an Adversarial 
 description: "[TKDE 2025][去偏公平与工业架构] 系统综述推荐系统对抗/非对抗鲁棒性，提出 ShillingREC 评测库统一攻击与防御模型评估。"
 tags:
   - TKDE
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 评测基准
   - 托攻击
   - 鲁棒推荐

@@ -3,7 +3,7 @@ title: "[Paper Note] Additive Control Variates Dominate Self-Normalisation in Of
 description: "[SIGIR 2026][去偏公平与工业架构] 证明最优加性基线 β*-IPS 在 MSE 上渐近严格优于 SNIPS，并给出精确方差差解析式与排序场景 β*⊥⊥-IPM 扩展。"
 tags:
   - SIGIR 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 离线评估
   - 逆倾向得分
   - 控制变量

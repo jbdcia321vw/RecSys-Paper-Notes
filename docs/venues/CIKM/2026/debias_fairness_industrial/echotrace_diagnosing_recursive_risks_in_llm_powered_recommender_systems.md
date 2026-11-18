@@ -3,8 +3,8 @@ title: "[Paper Note] EchoTrace: Diagnosing Recursive Risks in LLM-Powered Recomm
 description: "[CIKM 2026][去偏公平与工业架构] 提出角色感知三阶段诊断框架，用受控反馈回路仿真追踪 LLM 偏见与幻觉在 LLM4RS 中的递归放大与生态极化。"
 tags:
   - CIKM
-  - 去偏公平与工业架构
-  - 端到端生成式
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - 反馈回路仿真
   - LLM幻觉与偏见诊断
 date: 2026-11-12

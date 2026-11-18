@@ -3,7 +3,7 @@ title: "[Paper Note] From Top-1 to Top-K: A Reproducibility Study and Benchmarki
 description: "[SIGIR 2026][去偏公平与工业架构] 统一复现11种反事实解释器，首次提出列表级Top-K评估协议与PN-R位置敏感指标，揭示显式格式下有效性-稀疏性权衡与图解释器可扩展性瓶颈。"
 tags:
   - SIGIR 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 反事实解释
   - 可复现性基准

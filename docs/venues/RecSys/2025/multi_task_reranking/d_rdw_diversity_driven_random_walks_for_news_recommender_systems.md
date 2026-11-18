@@ -3,7 +3,7 @@ title: "[Paper Note] D-RDW: Diversity-Driven Random Walks for News Recommender S
 description: "[RecSys 2025][多任务学习与列表级重排] 将规范目标分布(NTD)作为线性约束嵌入随机游走采样，实现可解释、低能耗的新闻多样化重排，能耗降低一个数量级。"
 tags:
   - RecSys 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 随机游走
   - 规范目标分布

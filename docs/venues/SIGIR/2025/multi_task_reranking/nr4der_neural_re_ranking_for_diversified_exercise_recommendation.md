@@ -3,7 +3,7 @@ title: "[Paper Note] NR4DER: Neural Re-ranking for Diversified Exercise Recommen
 description: "[SIGIR 2025][多任务学习与列表级重排] 用 mLSTM 难度过滤 + 活跃学生序列增强 + 神经重排，兼顾长尾学生与个性化学习节奏的习题推荐。"
 tags:
   - SIGIR 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 神经重排
   - 长尾学生表征增强

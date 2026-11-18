@@ -3,8 +3,7 @@ title: "[Paper Note] Diffusion Generative Recommendation with Continuous Tokens"
 description: "[WWW 2026][生成式推荐与离散语义ID] 用 σ-VAE 连续分词器替代量化码本，并以条件扩散+离散散度损失生成用户偏好，四数据集 Full-Ranking 上 HR@10 平均超 TIGER 11.76%。"
 tags:
   - WWW 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 连续Token分词
   - 条件扩散生成
 date: 2026-11-12

@@ -3,7 +3,7 @@ title: "[Paper Note] Fusion Matters: Learning Fusion in Deep Click-through Rate 
 description: "[WSDM 2025][CTR预估与特征交叉] 将CTR模型的融合连接与融合算子统一建模为可微搜索空间，用one-shot联合选择替代手工stacked/parallel，三数据集AUC稳定超越EDCN与NASRec。"
 tags:
   - WSDM 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 融合学习
   - 神经架构搜索

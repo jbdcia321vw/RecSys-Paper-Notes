@@ -3,7 +3,7 @@ title: "[Paper Note] SOLARIS: Speculative Offloading of Latent-bAsed Representat
 description: "[SIGIR 2026][去偏公平、可信隐私与工业架构] 借鉴投机解码思想，异步预计算基础模型用户-物品隐表征并分层补全覆盖，实现推理时知识蒸馏，Meta 广告线上收入 +0.67%。"
 tags:
   - SIGIR 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 推理时知识蒸馏
   - 投机预计算

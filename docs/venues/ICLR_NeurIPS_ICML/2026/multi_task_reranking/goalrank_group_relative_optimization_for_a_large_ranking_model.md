@@ -3,7 +3,7 @@ title: "GoalRank: Group-Relative Optimization for a Large Ranking Model"
 description: "[ICLR 2026][多任务学习与列表级重排] 证明单生成器排序器近似误差严格优于多生成器-评估器，提出组相对优化训练大排序模型，离线 H@6 最高 +25.4%，线上全量部署。"
 tags:
   - ICLR 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 生成式列表排序
   - 组相对优化

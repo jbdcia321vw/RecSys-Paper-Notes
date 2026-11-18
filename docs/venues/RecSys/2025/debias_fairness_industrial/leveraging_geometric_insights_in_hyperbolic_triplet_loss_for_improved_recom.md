@@ -3,7 +3,7 @@ title: "[Paper Note] Leveraging Geometric Insights in Hyperbolic Triplet Loss fo
 description: "[RecSys 2025][去偏公平与工业架构] 洛伦兹双曲三元组损失 TriplH，以物品-物品项自适应间隔替代固定 margin，兼顾精度、去流行度偏差与 3 倍推理加速。"
 tags:
   - RecSys 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 双曲几何
   - 三元组损失

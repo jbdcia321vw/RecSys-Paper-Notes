@@ -3,7 +3,7 @@ title: "[Paper Note] Semantic IDs for Music Recommendation"
 description: "[RecSys 2025][生成式推荐与离散语义ID] 用 RQ-VAE 残差量化生成音乐语义 ID 替代逐曲嵌入，参数量降 75%–99% 而精度不降，线上多样性显著提升。"
 tags:
   - RecSys 2025
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - 语义ID
   - RQ-VAE

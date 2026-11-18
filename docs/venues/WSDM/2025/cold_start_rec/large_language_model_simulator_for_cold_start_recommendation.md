@@ -3,7 +3,7 @@ title: "[Paper Note] Large Language Model Simulator for Cold-Start Recommendatio
 description: "[WSDM 2025][冷启动与长尾推荐] 用 LLM 模拟冷物品的用户交互行为，并以耦合漏斗（FAISS 过滤 + LLM 精炼）把十亿级候选压到数百，离线冷召回 NDCG 提升 37%+，线上冷启 GMV +16.9%。"
 tags:
   - WSDM 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - LLM 行为模拟
   - 耦合漏斗过滤

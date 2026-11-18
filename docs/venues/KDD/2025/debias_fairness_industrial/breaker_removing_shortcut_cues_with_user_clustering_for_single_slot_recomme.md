@@ -3,7 +3,7 @@ title: "[Paper Note] Breaker: Removing Shortcut Cues with User Clustering for Si
 description: "[KDD 2025][去偏公平与工业架构] 用用户表征聚类辅助任务+多塔簇专属偏好建模，破除单槽推荐中用户固有倾向的捷径偏置，离线Recall@1提升7%并上线美团支付。"
 tags:
   - KDD 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 捷径偏置
   - 用户聚类

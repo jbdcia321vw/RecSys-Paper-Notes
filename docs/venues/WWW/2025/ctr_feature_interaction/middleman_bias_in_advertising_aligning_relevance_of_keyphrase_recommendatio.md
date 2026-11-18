@@ -3,7 +3,7 @@ title: "Middleman Bias in Advertising: Aligning Relevance of Keyphrase Recommend
 description: "[WWW 2025][CTR预估与特征交叉] 揭示广告关键词相关性过滤中的“中间人偏差”，用Search相关性判定重构训练标签，并以轻量Cross-Encoder在eBay线上取得CVR+11.6%的收益。"
 tags:
   - WWW 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 召回
   - Middleman Bias
   - Cross-Encoder

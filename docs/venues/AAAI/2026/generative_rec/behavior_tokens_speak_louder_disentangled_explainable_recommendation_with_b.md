@@ -3,8 +3,7 @@ title: "[Paper Note] Behavior Tokens Speak Louder: Disentangled Explainable Reco
 description: "[AAAI 2026][生成式推荐与离散语义ID] 用VQ-VAE将用户/物品行为离散化为宏观兴趣+微观意图的行为词表，经多级文本监督与语义对齐正则注入冻结LLM，零样本解释推荐SOTA"
 tags:
   - AAAI 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 行为词表
   - 可解释推荐
 date: 2026-11-13

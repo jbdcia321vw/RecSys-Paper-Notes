@@ -4,7 +4,7 @@ description: "[ACM MM 2025][强化学习与动态探索推荐] 用 GFlowNet 多�
 tags:
   - ACM MM
   - 强化学习与动态探索推荐
-  - 端到端生成式
+  - 生成式推荐
   - GFlowNet
   - 短视频预取
   - 多候选生成

@@ -3,7 +3,7 @@ title: "[Paper Note] Exploring Test-time Scaling via Prediction Merging on Large
 description: "[SIGIR 2026][CTR预估与特征交叉] 提出预测合并式测试时缩放，用异构架构与同构随机种子生成多样 logit 并平均融合，三数据集八骨干上稳定超越参数缩放。"
 tags:
   - SIGIR 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 测试时缩放
   - 预测合并

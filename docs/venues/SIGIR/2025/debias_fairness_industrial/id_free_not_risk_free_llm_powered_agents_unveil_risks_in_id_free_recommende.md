@@ -3,7 +3,7 @@ title: "[Paper Note] ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in I
 description: "[SIGIR 2025][去偏公平、可信隐私与工业架构] 揭示无ID推荐器可被LLM多智能体改写文本攻击，提出TextSimu攻击与RewriteDetection检测，Hit@50最高提升数倍。"
 tags:
   - SIGIR 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 无ID推荐
   - 文本投毒攻击

@@ -3,8 +3,7 @@ title: "[Paper Note] GenPage: Towards End-to-End Generative Homepage Constructio
 description: "[RecSys 2026][生成式推荐与离散语义 ID] 用单个 Transformer 将用户上下文 token 化后自回归生成整页多行首页，WBC/RL 后训练，线上 +0.24% 核心参与度且延迟降 20%。"
 tags:
   - RecSys
-  - 生成式推荐与离散语义 ID
-  - 端到端生成式
+  - 生成式推荐
   - 整页生成
   - 加权二分类后训练
   - 约束解码

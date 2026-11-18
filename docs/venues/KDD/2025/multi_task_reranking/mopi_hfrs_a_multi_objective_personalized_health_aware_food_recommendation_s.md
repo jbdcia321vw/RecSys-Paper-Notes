@@ -3,7 +3,7 @@ title: "MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendati
 description: "[KDD 2025][多任务学习与列表级重排] 构建首个融合 NHANES 医疗数据的健康感知食物推荐基准，用符号图结构学习 + Pareto 多目标优化平衡偏好/个性化健康/营养多样性，并以知识注入 LLM 生成可解释理由。"
 tags:
   - KDD 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - Pareto 多目标优化
   - 符号图结构学习

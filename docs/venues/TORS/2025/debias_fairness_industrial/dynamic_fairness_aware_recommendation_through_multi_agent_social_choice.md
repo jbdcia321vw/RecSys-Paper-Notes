@@ -3,7 +3,7 @@ title: "[Paper Note] Dynamic Fairness-aware Recommendation through Multi-agent S
 description: "[TORS 2025][去偏公平与工业架构] 将多利益相关方公平推荐建模为「分配+聚合」两阶段社会选择问题，SCRUF-D 框架动态调度多个公平性智能体，在真实与合成数据上实现多维权衡。"
 tags:
   - TORS
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 社会选择
   - 多智能体公平

@@ -3,7 +3,7 @@ title: "[Paper Note] Impression Share Prediction: An Offline Evaluation Task for
 description: "[RecSys 2026][去偏公平与工业架构] 提出曝光份额预测作为离线评估新任务，用因果DAG证明反事实可识别，PatchTST编码器在首小时恢复+22% L1。"
 tags:
   - RecSys 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 离线评估
   - 曝光份额预测
   - 反事实因果推断

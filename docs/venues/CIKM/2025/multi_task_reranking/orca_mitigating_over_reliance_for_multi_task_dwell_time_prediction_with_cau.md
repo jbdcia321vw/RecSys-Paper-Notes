@@ -3,7 +3,7 @@ title: "ORCA: Mitigating Over-Reliance for Multi-Task Dwell Time Prediction with
 description: "[CIKM 2025][多任务学习与列表级重排] 用因果解耦显式建模并减去CTR对停留时间预测的负迁移，恢复中时长分桶语义，DT指标平均提升10.6%且不损CTR。"
 tags:
   - CIKM 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - 因果解耦
   - 停留时间预测

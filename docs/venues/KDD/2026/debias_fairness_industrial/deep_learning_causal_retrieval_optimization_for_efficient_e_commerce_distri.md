@@ -3,7 +3,7 @@ title: "[Paper Note] Deep-learning Causal Retrieval Optimization for Efficient e
 description: "[KDD 2026][去偏公平与工业架构] 将购物候选生成器触发建模为因果决策，用 DR 多任务提升学习+随机 Holdout+线性回放，线上触发率降 85% 而购物会话持平。"
 tags:
   - KDD 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 因果提升建模 (Uplift Modeling)
   - 离线回放 (Offline Replay)

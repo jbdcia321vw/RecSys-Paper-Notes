@@ -3,7 +3,7 @@ title: "[Paper Note] Not All Candidates are Created Equal: A Heterogeneity-Aware
 description: "[WWW 2026][多任务学习与列表级重排] 针对粗排异构候选的梯度冲突与算力错配，提出 GHCL 分组对比损失与难度感知双模型路由，AUC 全面超越 SOTA 且线上降本 6%。"
 tags:
   - WWW
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 粗排
   - 梯度协调对比学习
   - 难度感知模型路由

@@ -4,7 +4,7 @@ description: "[SIGIR 2025][对话推荐与智能体仿真] 以双层记忆+两�
 tags:
   - SIGIR 2025
   - 对话推荐与智能体仿真
-  - 端到端生成式
+  - 生成式推荐
   - LLM User Agent
   - Cross-domain Memory
   - Popularity Modeling

@@ -3,7 +3,7 @@ title: "[Paper Note] DataRec: A Python Library for Standardized and Reproducible
 description: "[SIGIR 2025][去偏公平、可信隐私与工业架构] 基于 55 篇顶会论文调研构建的统一数据管理库，提供可复现的过滤/划分/版本校验与跨框架导出，覆盖 18 个内置数据集。"
 tags:
   - SIGIR 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 数据预处理与基准构建
   - 可复现性
   - 数据划分

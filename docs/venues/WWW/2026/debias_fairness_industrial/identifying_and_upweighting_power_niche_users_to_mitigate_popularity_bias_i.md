@@ -3,7 +3,7 @@ title: "[Paper Note] Identifying and Upweighting Power-Niche Users to Mitigate P
 description: "[WWW 2026][去偏公平与工业架构] 识别高活跃-小众偏好用户并对其在BPR损失中双重加权，在三个基准上实现性能与流行度去偏的帕累托双赢。"
 tags:
   - WWW 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 流行度去偏
   - 用户活跃度重加权

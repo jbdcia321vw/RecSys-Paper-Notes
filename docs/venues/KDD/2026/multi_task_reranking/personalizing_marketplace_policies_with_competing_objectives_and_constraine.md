@@ -3,7 +3,7 @@ title: "[Paper Note] Personalizing Marketplace Policies with Competing Objective
 description: "[KDD 2026][多任务学习与列表级重排] 双边市场免费额度阈值个性化：集成CATE+混合排序+线性外推，护栏风险降10%+，线上验证外推精度r=0.85"
 tags:
   - KDD 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 策略个性化
   - Uplift建模
   - 因果推断

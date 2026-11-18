@@ -4,7 +4,6 @@ description: "[SIGIR 2025][生成式推荐] 提出 ETEGRec 双编码器-解码�
 tags:
   - SIGIR 2025
   - 生成式推荐
-  - 生成式端到端
   - 端到端物品分词
   - RQ-VAE 语义ID
   - 交替优化

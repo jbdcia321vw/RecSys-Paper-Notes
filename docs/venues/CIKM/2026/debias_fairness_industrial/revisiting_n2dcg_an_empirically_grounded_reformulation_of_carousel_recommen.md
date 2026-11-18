@@ -3,7 +3,7 @@ title: "Revisiting N2DCG: An Empirically Grounded Reformulation of Carousel Reco
 description: "[CIKM 2026][去偏公平与工业评测] 修正 N2DCG 的理想排序类别约束与镜像 F 型折扣，提出类别感知归一化与行-页折扣，在眼动数据与 2 万次布局仿真中显著提升评估保真度。"
 tags:
   - CIKM
-  - 去偏公平与工业评测
+  - 去偏公平与可信推荐
   - 重排
   - 轮播界面评估
   - 位置折扣

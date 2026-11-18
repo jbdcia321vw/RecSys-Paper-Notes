@@ -3,7 +3,7 @@ title: "[Paper Note] Trinity: A Scenario-Aware Recommendation Framework for Larg
 description: "[WWW 2026][冷启动与长尾推荐] 面向十亿级产品迁移的“特征-架构-更新”三位一体冷启动框架，Copilot 新场景 AUC 0.564→0.726、COPC 0.13→0.95，线上时长 +5.61%。"
 tags:
   - WWW 2026
-  - 冷启动与长尾推荐
+  - 冷启动
   - 精排
   - 跨场景统计特征张量
   - 稳定性感知模型更新

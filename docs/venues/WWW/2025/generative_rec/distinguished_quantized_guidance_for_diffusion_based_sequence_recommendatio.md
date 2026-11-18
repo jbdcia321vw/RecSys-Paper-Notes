@@ -3,10 +3,9 @@ title: "[Paper Note] Distinguished Quantized Guidance for Diffusion-based Sequen
 description: "[WWW 2025][生成式推荐与离散语义ID] 用语义码本量化序列增强扩散引导，并以对比差异最大化抑制流行度偏置生成，四数据集全库排序全面领先。"
 tags:
   - WWW 2025
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 扩散模型序列推荐
-  - 语义向量量化
+  - 语义ID
   - 对比差异最大化
 date: 2026-11-14
 venue: WWW

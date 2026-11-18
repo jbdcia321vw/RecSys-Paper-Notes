@@ -3,9 +3,9 @@ title: "[Paper Note] SIDInspector: A Mapping-First Diagnostic Resource for Seman
 description: "[CIKM 2026][生成式推荐与离散语义ID] 提出映射优先的 SID 分词器诊断资源，用 D1–D5 探针在生成器训练前分离容量、可寻址性与行为前缀对齐，并给出四类分词器工件画像。"
 tags:
   - CIKM 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
-  - 语义ID分词器
+  - 语义ID
   - 工件级诊断
 date: 2026-11-12
 venue: CIKM

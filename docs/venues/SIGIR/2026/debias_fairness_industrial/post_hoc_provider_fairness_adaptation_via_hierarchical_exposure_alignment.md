@@ -3,7 +3,7 @@ title: "[Paper Note] Post-hoc Provider Fairness Adaptation via Hierarchical Expo
 description: "[SIGIR 2026][去偏公平与工业架构] 冻结基座+轻量公平适配器，用分层曝光对齐(HEFA)与可微NDCG联合优化，实现即插即用的提供方曝光公平。"
 tags:
   - SIGIR 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 提供方曝光公平
   - 分层KL分解

@@ -3,7 +3,7 @@ title: "[Paper Note] PRECTR: A Synergistic Framework for Integrating Personalize
 description: "[WWW 2025][CTR预估与特征交叉] 用条件概率融合把相关性分级与CTR统一进单模型，配两阶段训练、语义一致性正则与个性化相关性激励，线上CTR+0.4%、GMV+1.1%。"
 tags:
   - WWW 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 条件概率融合
   - 个性化相关性激励

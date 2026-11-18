@@ -3,7 +3,7 @@ title: "[Paper Note] PCL: Prompt-based Continual Learning for User Modeling in R
 description: "[WWW 2025][多任务学习与列表级重排] 用位置级+上下文提示做持续用户建模，冻结骨干仅训提示，缓解灾难性遗忘，6/8 任务超越 MTL 上界。"
 tags:
   - WWW 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - Prompt Tuning
   - Continual Learning

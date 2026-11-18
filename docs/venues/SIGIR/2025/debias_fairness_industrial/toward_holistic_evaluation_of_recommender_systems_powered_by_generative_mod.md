@@ -3,8 +3,8 @@ title: "Toward Holistic Evaluation of Recommender Systems Powered by Generative 
 description: "[SIGIR 2025][去偏公平与工业评测] 提出 Gen-RecSys 评估挑战二分法与 WH-六问 + 三维目标(D1–D5)整体评估框架，用场景化案例揭示传统 NDCG 无法覆盖的幻觉、偏见与政策合规风险。"
 tags:
   - SIGIR 2025
-  - 去偏公平、可信隐私与工业架构
-  - 生成式端到端
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - 生成式推荐评估
   - 幻觉与事实性
   - LLM-as-a-Judge

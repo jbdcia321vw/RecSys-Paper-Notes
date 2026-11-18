@@ -3,9 +3,9 @@ title: "[Paper Note] Enhancing Embedding Representation Stability in Recommendat
 description: "[RecSys 2025][生成式推荐与离散语义ID] 提出 Semantic ID prefix-ngram 分层前缀参数化，用语义聚类碰撞替代随机哈希，缓解 ID 漂移与长尾稀疏，Meta 线上 NE 提升 0.15% 且 A/A 方差降 43%"
 tags:
   - RecSys 2025
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 精排
-  - Semantic ID
+  - 语义ID
   - RQ-VAE
   - 前缀 n-gram 参数化
 date: 2026-11-14

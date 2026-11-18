@@ -3,8 +3,8 @@ title: "[Paper Note] Truthful Aggregation of LLMs with an Application to Online 
 description: "[arXiv 2025][去偏公平与工业架构] MOSAIC 用重要性采样+循环单调性支付实现 LLM 广告拍卖的真实报价与最优分布收敛，20 候选即近最优。"
 tags:
   - arXiv
-  - 去偏公平与工业架构
-  - 生成式端到端
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - 机制设计
   - 拍卖策略防伪
   - 重要性采样

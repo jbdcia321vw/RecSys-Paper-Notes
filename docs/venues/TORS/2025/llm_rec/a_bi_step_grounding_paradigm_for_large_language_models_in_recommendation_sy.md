@@ -4,7 +4,7 @@ description: "[TORS 2025][LLM4Rec] 提出 BIGRec 两步接地范式：先指令�
 tags:
   - TORS
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - 两步接地
   - 全库排序
   - 统计信息注入

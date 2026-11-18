@@ -3,7 +3,7 @@ title: "[Paper Note] RADAR: Recall Augmentation through Deferred Asynchronous Re
 description: "[RecSys 2025][多任务学习与列表级重排] 用离线异步全复杂度精排模型对 50 倍候选池预打分并缓存 Top-200，线上绕过召回与粗排直接注入精排，Recall@200 翻倍、线上 +0.8%。"
 tags:
   - RecSys 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 召回
   - 异步离线预排序
   - 级联漏斗解耦

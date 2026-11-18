@@ -3,7 +3,7 @@ title: "[Paper Note] LLM-RecG: A Semantic Bias-Aware Framework for Zero-Shot Seq
 description: "[RecSys 2025][冷启动与长尾推荐] 揭示 LLM 语义嵌入的域语义偏置，用域间紧致+域内多样双熵损失与源域序列模式注意力实现零样本跨域序列推荐，R@10 平均提升超 10%。"
 tags:
   - RecSys
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 零样本跨域迁移
   - 域语义偏置

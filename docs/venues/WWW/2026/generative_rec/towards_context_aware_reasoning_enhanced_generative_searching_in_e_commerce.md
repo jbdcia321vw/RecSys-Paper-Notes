@@ -3,8 +3,7 @@ title: "[Paper Note] Towards Context-aware Reasoning-enhanced Generative Searchi
 description: "[WWW 2026][生成式推荐与离散语义ID] 将电商搜索异构上下文统一为JSON文本与残差K-Means语义ID，用SFT-RL自演化后训练与去偏R-GRPO提升生成式搜索排序，All-100K上HR@10相对提升6.24%。"
 tags:
   - WWW
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 语义ID
   - 强化学习推理
   - 电商搜索

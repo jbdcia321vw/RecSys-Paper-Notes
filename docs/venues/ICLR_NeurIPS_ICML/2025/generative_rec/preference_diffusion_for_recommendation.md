@@ -3,8 +3,7 @@ title: "[Paper Note] Preference Diffusion for Recommendation"
 description: "[ICLR 2025][生成式推荐与离散语义ID] 将 BPR 改写为对数似然排序目标并推导变分上界，为扩散推荐器注入多负样本偏好信号，Full-Ranking 下 R@5 最高提升 19.35%。"
 tags:
   - ICLR
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 扩散模型推荐
   - 个性化排序损失
   - 变分推断

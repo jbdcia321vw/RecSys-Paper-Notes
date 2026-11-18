@@ -3,7 +3,7 @@ title: "[Paper Note] Efficient Multi-task Prompt Tuning for Recommendation"
 description: "[TOIS 2025][多任务学习与列表级重排] 提出两阶段 MPT-Rec：GAN 解耦任务共享/特有信息后冻结主干，仅用任务感知 Prompt 微调新任务，参数降至 10% 且性能保持 95%+。"
 tags:
   - TOIS
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - 多任务提示微调
   - 任务信息解耦

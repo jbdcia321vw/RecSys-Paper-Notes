@@ -3,7 +3,7 @@ title: "[Paper Note] Scaling Transformers for Discriminative Recommendation via 
 description: "[KDD 2025][CTR预估与特征交叉] 用生成式预训练初始化判别式排序模型并冻结稀疏Embedding，破解CTR/CVR过拟合，使稠密参数从13K扩到0.3B仍遵循幂律提升。"
 tags:
   - KDD 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 生成式预训练
   - 稀疏参数冻结

@@ -3,7 +3,7 @@ title: "[Paper Note] Personalized Diffusion Model Reshapes Cold-Start Bundle Rec
 description: "[WWW 2025][冷启动与长尾推荐] 用个性化条件扩散在分布空间生成捆绑包，配合解耦自注意力与KL正则，冷启动捆绑推荐全库排序Recall@20最高提升1155%。"
 tags:
   - WWW 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 扩散生成推荐
   - 捆绑推荐

@@ -3,7 +3,7 @@ title: "[Paper Note] RicciFlowRec: A Geometric Root Cause Recommender Using Ricc
 description: "[RecSys 2025][去偏公平、可信隐私与工业架构] 用 Ollivier/Forman-Ricci 曲率与 Ricci 流在动态金融图上做根因归因，以曲率风险惩罚重排资产，NDCG@10 提升 4.9%、Top-10 波动降 28%。"
 tags:
   - RecSys 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - Ricci 曲率
   - 根因归因

@@ -3,7 +3,7 @@ title: "[Paper Note] Item-centric Exploration for Cold Start Problem"
 description: "[RecSys 2025][冷启动与长尾推荐] 提出以物品为中心的 Beta 后验过滤控制，在排序后剔除“错配受众”曝光，线上探索曝光降 20% 而满意度升 50%、可推荐语料扩 10%。"
 tags:
   - RecSys 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 重排
   - 物品中心探索
   - Beta 后验过滤

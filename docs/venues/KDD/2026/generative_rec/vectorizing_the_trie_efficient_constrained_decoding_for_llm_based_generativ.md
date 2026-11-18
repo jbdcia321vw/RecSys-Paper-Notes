@@ -3,8 +3,7 @@ title: "[Paper Note] Vectorizing the Trie: Efficient Constrained Decoding for LL
 description: "[KDD 2026][生成式推荐与离散语义ID] 将前缀树约束展平为静态 CSR 稀疏转移矩阵，把不规则树遍历转为全向量化稀疏算子，实现 O(1) I/O 的严格约束解码，线上延迟仅 0.033ms/步。"
 tags:
   - KDD 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 约束解码
   - 稀疏矩阵
   - 语义ID

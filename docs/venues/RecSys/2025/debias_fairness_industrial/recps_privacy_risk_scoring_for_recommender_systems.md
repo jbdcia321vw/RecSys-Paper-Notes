@@ -3,7 +3,7 @@ title: "[Paper Note] RecPS: Privacy Risk Scoring for Recommender Systems"
 description: "[RecSys 2025][去偏公平、可信隐私与工业架构] 基于差分隐私推导交互级隐私分数，用 RecLiRA 成员推断攻击估计 TPR/FPR，指导细粒度交互移除以兼顾隐私与效用。"
 tags:
   - RecSys 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 训练数据治理/模型遗忘
   - 成员推断攻击 (MIA)
   - 差分隐私审计

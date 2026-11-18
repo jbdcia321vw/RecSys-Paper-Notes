@@ -3,7 +3,7 @@ title: "[Paper Note] Gated Bidirectional Linear Attention for Generative Retriev
 description: "[SIGIR 2026][生成式推荐与离散语义 ID] 用 Conv1D 局部混合、序列级 Key 门控软遗忘与门控 RMSNorm 将核化线性注意力扩展为双向线性时间算子，1:2 混合编码器在 Yandex Music 上追平双向自注意力，32768 长度单层提速 8.2×。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义 ID
+  - 生成式推荐
   - 召回
   - 双向线性注意力
   - 长序列编码器加速

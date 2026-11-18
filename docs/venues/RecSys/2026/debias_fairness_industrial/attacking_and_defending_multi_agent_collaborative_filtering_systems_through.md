@@ -3,8 +3,8 @@ title: "[Paper Note] Attacking and Defending Multi-Agent Collaborative Filtering
 description: "[RecSys 2026][去偏公平、可信隐私与工业架构] 在 AgentCF 上系统复现 6 类攻击与 4 类防御，揭示候选数 k 与目录集中度 ρ 对用户/物品分区的非对称、非单调调控规律。"
 tags:
   - RecSys
-  - 去偏公平、可信隐私与工业架构
-  - 端到端生成式
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - 多智能体协同过滤
   - 拓扑连通性安全
   - LLM 红队攻防

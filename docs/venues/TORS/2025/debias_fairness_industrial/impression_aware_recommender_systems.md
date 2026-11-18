@@ -3,7 +3,7 @@ title: "[Paper Note] Impression-Aware Recommender Systems"
 description: "[TORS 2025][去偏公平、可信隐私与工业架构] 首篇曝光感知推荐系统(IARS)系统性综述，提出统一理论框架与三维分类体系，厘清模型、数据集与评估协议。"
 tags:
   - TORS
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回/重排/端到端
   - 曝光感知推荐
   - 系统性文献综述

@@ -3,10 +3,10 @@ title: "[Paper Note] Accurate and Diverse Recommendations via Propensity-Weighte
 description: "[SIGIR-AP 2025][去偏公平与工业架构] 用对数 Sigmoid 重定义 IPS 倾向分，避免幂律对热门物品过度惩罚，在 EASE 类线性自编码器上以闭式解实现覆盖率大幅提升且精度不降。"
 tags:
   - SIGIR-AP 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
-  - 逆倾向加权 IPS
-  - 线性自编码器 EASE
+  - 逆倾向加权
+  - 线性自编码器
   - 流行度去偏
 date: 2026-11-14
 venue: SIGIR-AP

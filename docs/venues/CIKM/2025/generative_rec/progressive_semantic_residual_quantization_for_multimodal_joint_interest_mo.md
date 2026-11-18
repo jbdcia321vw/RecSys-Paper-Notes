@@ -3,7 +3,7 @@ title: "Progressive Semantic Residual Quantization for Multimodal-Joint Interest
 description: "[CIKM 2025][生成式推荐与离散语义ID] 提出前缀语义约束的渐进残差量化 PSRQ 与多码本交叉注意力 MCCA，缓解语义漂移与跨模态建模缺口，冷启动 AUC 显著提升并完成工业上线。"
 tags:
   - CIKM
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 精排
   - 语义ID
   - 残差量化

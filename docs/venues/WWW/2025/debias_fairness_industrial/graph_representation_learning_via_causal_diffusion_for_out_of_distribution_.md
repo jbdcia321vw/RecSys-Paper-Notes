@@ -3,7 +3,7 @@ title: "[Paper Note] Graph Representation Learning via Causal Diffusion for Out-
 description: "[WWW 2025][去偏公平与工业架构] 用结构因果模型定位环境混杂因子，以变分推断+扩散模型学习环境不变图表征，OOD 场景最高提升 36.73%。"
 tags:
   - WWW 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 因果推断
   - 扩散模型

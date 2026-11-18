@@ -5,7 +5,7 @@ tags:
   - CIKM 2025
   - 自监督对比学习与交互去噪
   - 召回
-  - Mixture-of-Experts
+  - MoE
   - 多行为推荐
   - 对比学习
 date: 2026-11-14

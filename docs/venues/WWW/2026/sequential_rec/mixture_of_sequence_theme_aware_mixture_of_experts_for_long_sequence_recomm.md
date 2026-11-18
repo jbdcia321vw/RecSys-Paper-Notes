@@ -5,7 +5,7 @@ tags:
   - WWW 2026
   - 序列与会话推荐
   - 精排
-  - 混合专家 (MoE)
+  - MoE
   - 长序列建模
 date: 2026-11-13
 venue: WWW

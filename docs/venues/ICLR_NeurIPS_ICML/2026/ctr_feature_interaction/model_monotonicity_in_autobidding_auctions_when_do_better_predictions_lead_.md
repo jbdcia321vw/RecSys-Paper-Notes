@@ -3,7 +3,7 @@ title: "Model Monotonicity in Autobidding Auctions: When Do Better Predictions L
 description: "[ICML 2026][CTR预估与特征交叉] 用划分细化刻画模型改进，系统证明自动出价拍卖中仅三种设定保证平台指标单调，其余均可反例击穿。"
 tags:
   - ICML
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 自动出价拍卖
   - 模型单调性

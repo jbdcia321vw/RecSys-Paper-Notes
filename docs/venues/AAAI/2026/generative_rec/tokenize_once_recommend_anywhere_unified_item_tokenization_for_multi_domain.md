@@ -3,8 +3,7 @@ title: "[Paper Note] Tokenize Once, Recommend Anywhere: Unified Item Tokenizatio
 description: "[AAAI 2026][生成式推荐与离散语义ID] 提出 TokenMoE+码本+互信息校准的统一物品分词框架 UniTok，单模型跨 10 域训练，NDCG@10 最高提升 51.89%，参数量降 9.63×。"
 tags:
   - AAAI 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 统一物品分词
   - MoE 码本量化
   - 互信息校准

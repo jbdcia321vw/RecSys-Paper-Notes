@@ -5,7 +5,7 @@ tags:
   - AAAI 2026
   - 序列与会话推荐
   - 精排
-  - Mixture-of-Experts
+  - MoE
   - 位置前馈网络
 date: 2026-11-13
 venue: AAAI

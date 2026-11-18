@@ -3,7 +3,7 @@ title: "[Paper Note] You Only Evaluate Once: A Tree-based Rerank Method at Meitu
 description: "[CIKM 2025][多任务学习与列表级重排] 用树状多尺度上下文提取+上下文缓存实现单阶段全排列重排，离线GAUC显著提升并落地美团外卖。"
 tags:
   - CIKM 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 列表级重排
   - 树状上下文缓存

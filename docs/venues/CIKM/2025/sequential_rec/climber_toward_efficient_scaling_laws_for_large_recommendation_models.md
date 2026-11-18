@@ -7,7 +7,7 @@ tags:
   - 精排
   - Scaling Law
   - 多尺度序列抽取
-  - KV Cache
+  - KV缓存
 date: 2026-11-14
 venue: CIKM
 year: 2025

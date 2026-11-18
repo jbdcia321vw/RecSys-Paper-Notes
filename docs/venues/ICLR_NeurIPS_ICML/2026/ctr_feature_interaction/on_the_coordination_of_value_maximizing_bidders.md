@@ -3,7 +3,7 @@ title: "On the Coordination of Value-Maximizing Bidders"
 description: "[ICML 2026][CTR预估与特征交叉] 证明价值最大化自动出价方在“最高价值者出价”协调机制下，RoS 合规与联盟总价值均优于独立出价，并给出充要条件与渐近最优性。"
 tags:
   - ICML
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 出价策略/机制设计
   - 自动出价
   - 拍卖协调

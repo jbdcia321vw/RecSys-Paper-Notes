@@ -3,7 +3,7 @@ title: "Embedding Cultural Diversity in Prototype-based Recommender Systems"
 description: "[ECIR 2025][去偏公平与工业架构] 在 ProtoMF 原型矩阵分解上引入 K-近邻原型过滤与原型正交分布正则，以物品国别为文化代理缓解流行度偏差，全库排序下长尾平均排名降 27%、HR@10 反升 2%。"
 tags:
   - ECIR 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 原型矩阵分解
   - 流行度去偏

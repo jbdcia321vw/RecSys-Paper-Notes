@@ -4,7 +4,7 @@ description: "[ACL 2025][LLM4Rec] 用 FoodKG 子图作上下文 + 多 LoRA 适�
 tags:
   - ACL 2025
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - Knowledge Graph RAG
   - Multi-LoRA
 date: 2026-11-14

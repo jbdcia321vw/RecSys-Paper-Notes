@@ -3,7 +3,7 @@ title: "[Paper Note] R4ec: A Reasoning, Reflection, and Refinement Framework for
 description: "[RecSys 2025][CTR预估与特征交叉] 用 actor/reflection 双小模型迭代反思精炼 LLM 知识，注入 CTR 主干，AUC 相对提升 2.5%+，线上收入 +2.2%。"
 tags:
   - RecSys 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - System-2 反思精炼
   - LLM 知识增强

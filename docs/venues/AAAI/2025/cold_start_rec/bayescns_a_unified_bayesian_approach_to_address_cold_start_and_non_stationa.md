@@ -3,7 +3,7 @@ title: "[Paper Note] BayesCNS: A Unified Bayesian Approach to Address Cold Start
 description: "[AAAI 2025][冷启动与长尾推荐] 用经验贝叶斯先验网络+Thompson采样在线更新，统一解决物品冷启动与非平稳漂移，线上A/B新物品曝光+10.60%。"
 tags:
   - AAAI 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 精排
   - 经验贝叶斯先验
   - Thompson采样

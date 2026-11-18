@@ -3,7 +3,7 @@ title: "[Paper Note] DLF: Enhancing Explicit-Implicit Interaction via Dynamic Lo
 description: "[SIGIR 2025][CTR预估与特征交叉] 以残差感知低阶交互网络与逐层注意力融合，动态平衡显隐式特征交叉，四数据集AUC全面SOTA。"
 tags:
   - SIGIR 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 显隐式双流融合
   - 低阶信号保持

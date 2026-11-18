@@ -4,7 +4,7 @@ description: "[DASFAA 2025][序列与会话推荐] 用知识提示+推理提示�
 tags:
   - DASFAA
   - 序列与会话推荐
-  - 生成式端到端
+  - 生成式推荐
   - 知识提示 (Knowledge Prompt)
   - 推理提示 (Reasoning Prompt)
   - 内容增强语言建模

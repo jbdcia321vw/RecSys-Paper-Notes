@@ -4,7 +4,7 @@ description: "[ACL 2025][对话推荐与智能体仿真] 提出 HiCUPID 个性�
 tags:
   - ACL 2025
   - 对话推荐与智能体仿真
-  - 端到端生成式
+  - 生成式推荐
   - 个性化助手基准
   - LLM-as-a-Judge 蒸馏
 date: 2026-11-14

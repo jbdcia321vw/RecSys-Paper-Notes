@@ -3,9 +3,8 @@ title: "[Paper Note] Addressing Cross-Stage Decoupling of Semantic and Collabora
 description: "[RecSys 2026][生成式推荐与离散语义ID] 提出 SCRec，通过协同增强分词、语义引导生成与双曲流形对齐三模块双向补全语义与协同信号，在 Amazon 三数据集 Full-Ranking 下 NDCG@10 相对提升 18.7%–26.6%。"
 tags:
   - RecSys
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
-  - 语义ID分词
+  - 生成式推荐
+  - 语义ID
   - 双曲流形对齐
   - 协同信号注入
 date: 2026-11-13

@@ -3,7 +3,7 @@ title: "[Paper Note] HMAF: A Hierarchical Multi-Slot GD-RTB Allocation Framework
 description: "[KDD 2026][CTR预估与特征交叉] 以 Plan-Calibrate-Execute 范式将 PV 约束对偶优化与在线列表级生成-评估排序耦合，美团线上 GD 交付率 +3.72%、广告总收入 +1.59%。"
 tags:
   - KDD 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 重排
   - GD-RTB 混合竞价
   - 对偶变量引导

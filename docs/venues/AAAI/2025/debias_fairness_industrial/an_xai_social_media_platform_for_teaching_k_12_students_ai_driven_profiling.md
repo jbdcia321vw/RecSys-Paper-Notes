@@ -3,9 +3,9 @@ title: "An XAI Social Media Platform for Teaching K-12 Students AI-Driven Profil
 description: "[AAAI 2025][去偏公平、可信隐私与工业架构] 面向 K-12 的 XAI 社交媒体教学平台，实时可视化数据采集、画像聚类与推荐机制，209 名学生实测揭示三类使用画像。"
 tags:
   - AAAI 2025
-  - 去偏公平、可信隐私与工业架构
-  - 端到端生成式
-  - 可解释推荐 (XAI)
+  - 去偏公平与可信推荐
+  - 生成式推荐
+  - 可解释推荐
   - 推荐透明度与数据能动性
   - K-12 AI 素养教育
 date: 2026-11-14

@@ -3,7 +3,7 @@ title: "[Paper Note] Harnessing Large Language Models for Group POI Recommendati
 description: "[CIKM 2025][时空轨迹与POI推荐] 用语义增强 POI Token + QLoRA 双适配器 + 行程目的自监督，破解群体 POI 推荐偏好多样与数据极稀疏难题，HR@10 平均提升 4.4%–9.0%。"
 tags:
   - CIKM
-  - 时空轨迹与POI本地生活推荐
+  - 时空轨迹与POI推荐
   - 召回
   - LLM4Rec
   - 群体推荐

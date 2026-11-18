@@ -3,8 +3,8 @@ title: "[Paper Note] A Federated Framework for LLM-based Recommendation"
 description: "[NAACL 2025 Findings][去偏公平与工业架构] FELLRec 用动态聚合+课程升温平衡客户端性能，并以分层卸载降低 LLM 联邦推荐端侧开销。"
 tags:
   - NAACL 2025 Findings
-  - 去偏公平、可信隐私与工业架构
-  - 端到端生成式
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - 联邦推荐
   - LLM 分层卸载
   - 客户端性能均衡

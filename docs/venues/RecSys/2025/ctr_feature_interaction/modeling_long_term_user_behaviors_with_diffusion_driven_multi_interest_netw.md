@@ -3,7 +3,7 @@ title: "[Paper Note] Modeling Long-term User Behaviors with Diffusion-driven Mul
 description: "[RecSys 2025][CTR预估与特征交叉] 用目标正交分解构造兴趣通道做多兴趣抽取，再用条件扩散生成增强兴趣，工业 A/B 上 CTR +1.52%。"
 tags:
   - RecSys 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 长序列用户建模
   - 扩散生成增强

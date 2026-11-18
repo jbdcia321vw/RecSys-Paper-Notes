@@ -4,7 +4,7 @@ description: "[NeurIPS 2025][时空轨迹与POI推荐] 首次形式化异地行�
 tags:
   - NeurIPS
   - 时空轨迹与POI推荐
-  - 生成式端到端
+  - 生成式推荐
   - Neural ODE
   - 知识图谱偏好对齐
 date: 2026-11-14

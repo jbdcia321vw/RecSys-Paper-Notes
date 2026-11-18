@@ -4,7 +4,7 @@ description: "[ACL 2025][对话推荐与智能体仿真] 提出 CSALES 对话销
 tags:
   - ACL 2025
   - 对话推荐与智能体仿真
-  - 端到端生成式
+  - 生成式推荐
   - Contextual User Profiling
   - Persuasive Recommendation
 date: 2026-11-14

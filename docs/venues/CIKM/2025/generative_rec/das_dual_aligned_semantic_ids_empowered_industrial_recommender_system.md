@@ -3,8 +3,8 @@ title: "[Paper Note] DAS: Dual-Aligned Semantic IDs Empowered Industrial Recomme
 description: "[CIKM 2025][生成式推荐与离散语义ID] 提出单阶段双对齐语义ID框架，联合优化RQ-VAE量化与CF去偏对齐，快手全场景A/B eCPM+3.48%、冷启动+8.98%。"
 tags:
   - CIKM 2025
-  - 生成式推荐与离散语义ID
-  - 召回/精排/生成式端到端
+  - 生成式推荐
+  - 端到端推荐
   - 语义ID
   - 对比对齐
   - 因果去偏

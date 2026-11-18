@@ -3,8 +3,7 @@ title: "[Paper Note] CoFiRec: Coarse-to-Fine Tokenization for Generative Recomme
 description: "[RecSys 2026][生成式推荐与离散语义ID] 将物品元数据按类目→标题→描述→CF信号分层独立量化，自回归由粗到细解码，Leave-One-Out全库排序下平均超越SOTA约6.4%。"
 tags:
   - RecSys 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 粗到细语义分层
   - 分层向量量化
 date: 2026-11-13

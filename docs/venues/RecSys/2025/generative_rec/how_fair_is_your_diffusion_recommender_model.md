@@ -3,7 +3,7 @@ title: "How Fair is Your Diffusion Recommender Model?"
 description: "[RecSys 2025][生成式推荐与离散语义ID] 首个针对 DiffRec/L-DiffRec 的公平性实证研究，在 ML1M/FTKY 上以 Full-Ranking 评估效用与消费者/提供者公平，揭示扩散模型放大偏见而 L-DiffRec 可缓解。"
 tags:
   - RecSys 2025
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - 扩散推荐公平性
   - 消费者与提供者公平

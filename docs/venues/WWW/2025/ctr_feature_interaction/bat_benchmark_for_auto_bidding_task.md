@@ -3,7 +3,7 @@ title: "[Paper Note] BAT: Benchmark for Auto-bidding Task"
 description: "[WWW 2025][CTR预估与特征交叉] 发布 Avito 双拍卖格式（VCG/FP）真实自动出价数据集，配套 ALM/TA-PID 等 5 个基线，覆盖预算平滑与 CPC 约束两类 RTB 任务。"
 tags:
   - WWW 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 自动出价
   - 预算平滑

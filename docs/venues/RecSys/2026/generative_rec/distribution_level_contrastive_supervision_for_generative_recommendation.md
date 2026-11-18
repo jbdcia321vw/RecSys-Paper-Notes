@@ -3,8 +3,7 @@ title: "[Paper Note] Distribution-Level Contrastive Supervision for Generative R
 description: "[RecSys 2026][生成式推荐与离散语义ID] 用分词器多层码本概率分布作软语义目标，以负对称KL+BPR对比监督对齐推荐器表征，即插即用提升多种生成式骨干。"
 tags:
   - RecSys
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 分布级对比监督
   - 软量化语义对齐
 date: 2026-11-13

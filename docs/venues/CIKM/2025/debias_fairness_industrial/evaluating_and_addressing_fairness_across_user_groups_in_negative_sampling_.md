@@ -3,7 +3,7 @@ title: "[Paper Note] Evaluating and Addressing Fairness Across User Groups in Ne
 description: "[CIKM 2025][去偏公平与工业架构] 实证揭示负采样比 K 增大使活跃用户增益、非活跃用户受损，提出分组特定负采样比并用带先验 Hyperband 优化，全库排序下 NDCG 提升 2–10%。"
 tags:
   - CIKM 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 负采样公平性
   - 分组超参优化

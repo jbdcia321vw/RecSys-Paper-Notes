@@ -7,7 +7,7 @@ tags:
   - 召回
   - 由粗到细检索
   - 子图检索
-  - LLM 推理
+  - LLM推理
 date: 2026-11-14
 venue: SIGIR
 year: 2025

@@ -4,7 +4,7 @@ description: "[SIGIR 2025][大语言模型推荐] 用层次化 item/session patc
 tags:
   - SIGIR 2025
   - 大语言模型推荐
-  - 端到端生成式
+  - 生成式推荐
   - 层次化压缩
   - Patch 预训练
   - 长序列建模

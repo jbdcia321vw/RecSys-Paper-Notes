@@ -6,7 +6,7 @@ tags:
   - 大语言模型推荐
   - 重排
   - 分面搜索
-  - GRPO 偏好对齐
+  - GRPO偏好对齐
 date: 2026-11-13
 venue: SIGIR
 year: 2026

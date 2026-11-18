@@ -3,7 +3,7 @@ title: "[Paper Note] Soft Curriculum Learning for Optimizing Fresh and Generaliz
 description: "[RecSys 2026][冷启动与长尾推荐] 用损失退火与图内权重替代刚性数据过滤，在连续训练中打破流行度反馈环，线上冷启动互动 +5.70%、满意度 +0.54% 且吞吐无损。"
 tags:
   - RecSys 2026
-  - 冷启动与长尾推荐
+  - 冷启动
   - 精排
   - 课程学习
   - 流行度去偏

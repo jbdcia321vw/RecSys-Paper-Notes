@@ -3,7 +3,7 @@ title: "[Paper Note] WatchLens: A Configurable Platform for Online Video Recomme
 description: "[RecSys 2026][去偏公平、可信隐私与工业架构] 开源视频推荐在线实验平台，解耦界面/内容池/双表面策略并原生记录曝光上下文，30人被试验证观看页策略对会话留存的影响。"
 tags:
   - RecSys 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 在线实验平台
   - 曝光感知日志
   - 双表面策略解耦

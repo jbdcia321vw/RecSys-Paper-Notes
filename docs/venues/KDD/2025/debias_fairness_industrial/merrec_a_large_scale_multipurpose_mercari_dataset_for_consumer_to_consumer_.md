@@ -3,7 +3,7 @@ title: "MerRec: A Large-scale Multipurpose Mercari Dataset for Consumer-to-Consu
 description: "[KDD 2025][去偏公平与工业架构] 首个大规模 C2C 推荐数据集 MerRec（5.56M 用户/83M 商品/1.27B 交互），并配套三塔 Mercatran 模型与四任务基准。"
 tags:
   - KDD 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - C2C 推荐数据集
   - 三塔 Transformer 多步召回

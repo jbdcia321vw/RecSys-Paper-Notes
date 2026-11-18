@@ -3,7 +3,7 @@ title: "[Paper Note] What Makes an Ideal Quote? Recommending 'Unexpected yet Rat
 description: "[ACL 2026][生成式推荐与离散语义ID] 提出 NovelQR，用生成式标签智能体构建深层语义知识库并做标签增强检索，再以 token 级新颖性估计器缓解自回归续写偏差进行重排，双语数据集上人类评审 78% 偏好本系统。"
 tags:
   - ACL 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 重排
   - 标签增强检索
   - Token级新颖性估计

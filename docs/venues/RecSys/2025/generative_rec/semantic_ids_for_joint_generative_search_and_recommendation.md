@@ -3,9 +3,8 @@ title: "[Paper Note] Semantic IDs for Joint Generative Search and Recommendation
 description: "[RecSys 2025][生成式推荐与离散语义ID] 系统对比任务专属与跨任务语义ID构建策略，发现多任务双塔嵌入+统一RQ-KMeans语义ID在联合搜索推荐中取得最佳权衡。"
 tags:
   - RecSys 2025
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
-  - Semantic ID
+  - 生成式推荐
+  - 语义ID
   - 联合搜索推荐
   - RQ-KMeans
 date: 2026-11-14

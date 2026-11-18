@@ -3,8 +3,7 @@ title: "[Paper Note] GREAT: Guiding Query Generation with a Trie for Recommendin
 description: "[KDD 2025][生成式推荐与离散语义 ID] 用高质量查询构建 Trie 约束 LLM 训练与解码，实现短视频到查询的 I2Q 推荐，离线 Edit@1 最优、线上 CTR 与相关性双升。"
 tags:
   - KDD 2025
-  - 生成式推荐与离散语义 ID
-  - 生成式端到端
+  - 生成式推荐
   - Trie 约束解码
   - 查询生成
 date: 2026-11-14

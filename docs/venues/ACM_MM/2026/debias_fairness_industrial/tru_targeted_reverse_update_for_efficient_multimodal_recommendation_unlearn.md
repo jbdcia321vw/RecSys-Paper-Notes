@@ -3,7 +3,7 @@ title: "[Paper Note] TRU: Targeted Reverse Update for Efficient Multimodal Recom
 description: "[ACM MM 2026][去偏公平、可信隐私与工业架构] 揭示多模态推荐遗忘中排序/模态/模块三层非均匀性，提出门控+分支缩放+参数组隔离的靶向反向更新，逼近重训练前沿且收敛更快。"
 tags:
   - ACM MM
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 模型遗忘/隐私删除
   - 多模态推荐
   - 反向更新

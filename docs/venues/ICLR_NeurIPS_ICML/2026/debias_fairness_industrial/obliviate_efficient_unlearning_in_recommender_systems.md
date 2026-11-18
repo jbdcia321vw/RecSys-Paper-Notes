@@ -3,7 +3,7 @@ title: "[Paper Note] Obliviate: Efficient Unlearning in Recommender Systems"
 description: "[ICML 2026][去偏公平、可信隐私与工业架构] 两阶段低秩适配器+局部校准的推荐系统机器遗忘框架，20%删除率下兼顾遗忘完整性与效用，比全量重训快约 3 倍。"
 tags:
   - ICML
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 模型更新/遗忘
   - Machine Unlearning
   - Low-Rank Adapter

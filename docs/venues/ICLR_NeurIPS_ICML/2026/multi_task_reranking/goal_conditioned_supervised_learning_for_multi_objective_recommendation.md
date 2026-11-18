@@ -3,7 +3,7 @@ title: "[Paper Note] Goal-Conditioned Supervised Learning for Multi-Objective Re
 description: "[NeurIPS 2026][多任务学习与列表级重排] 将 GCSL 的标量目标扩展为多维向量目标，用 Transformer 编码器 + 交叉熵直接做多目标下一物品预测，无需复杂架构与权重调参，在 RetailRocket/Challenge15 上购买 HR@10 相对提升约 4-17%。"
 tags:
   - NeurIPS
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 召回
   - 目标条件监督学习
   - 多目标推荐

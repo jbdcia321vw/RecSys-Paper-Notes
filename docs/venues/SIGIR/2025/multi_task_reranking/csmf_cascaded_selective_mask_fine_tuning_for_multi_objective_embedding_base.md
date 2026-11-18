@@ -3,7 +3,7 @@ title: "CSMF: Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-
 description: "[SIGIR 2025][多任务学习与列表级重排] 借鉴 PEFT 选择性掩码思想，按曝光→点击→转化级联顺序分阶段微调双塔召回，零参数增量实现多目标融合检索。"
 tags:
   - SIGIR 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 召回
   - 多目标 EBR
   - 参数高效微调

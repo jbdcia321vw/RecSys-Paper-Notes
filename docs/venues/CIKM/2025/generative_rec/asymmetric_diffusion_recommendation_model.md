@@ -3,7 +3,7 @@ title: "[Paper Note] Asymmetric Diffusion Recommendation Model"
 description: "[CIKM 2025][生成式推荐与离散语义ID] 用特征丢弃替代高斯噪声做离散前向、在隐空间做非对称反向去噪，抖音音乐全量A/B活跃天数+0.131%。"
 tags:
   - CIKM 2025
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 精排
   - 扩散推荐
   - 特征丢弃

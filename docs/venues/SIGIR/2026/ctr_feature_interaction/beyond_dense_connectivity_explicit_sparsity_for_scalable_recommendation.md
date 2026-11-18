@@ -3,7 +3,7 @@ title: "[Paper Note] Beyond Dense Connectivity: Explicit Sparsity for Scalable R
 description: "[SIGIR 2026][CTR预估与特征交叉] 揭示稠密MLP隐式权重稀疏现象，提出 filter-then-fuse 多视图显式稀疏框架 SSR，在十亿级工业数据与三个公开集上以更低算力超越 RankMixer。"
 tags:
   - SIGIR 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 显式稀疏
   - 多视图特征过滤

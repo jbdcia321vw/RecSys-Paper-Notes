@@ -3,7 +3,7 @@ title: "[Paper Note] GenRec: A Preference-Oriented Generative Framework for Larg
 description: "[SIGIR 2026][生成式推荐与离散语义ID] 以 Page-wise NTP 解一对多歧义、线性 Token Merger 压缩 2× 输入、GRPO-SR 混合奖励对齐偏好，京东线上点击 +9.5%、成交 +8.7%。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - Page-wise NTP
   - GRPO-SR 偏好对齐

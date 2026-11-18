@@ -3,7 +3,7 @@ title: "[Paper Note] Hybrid Advertising in the Sponsored Search"
 description: "[SIGIR 2025][CTR预估与特征交叉] 提出混合广告拍卖模型与 HRegNet 神经网络机制，在近 DSIC/IR 约束下联合优化独立店铺与店铺-品牌捆绑包的广告位分配与定价，真实数据上收益显著超越 VCG 与 JRegNet。"
 tags:
   - SIGIR 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 自动机制设计
   - 混合拍卖

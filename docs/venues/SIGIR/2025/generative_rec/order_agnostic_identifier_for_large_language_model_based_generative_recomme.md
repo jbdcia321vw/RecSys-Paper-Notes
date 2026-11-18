@@ -3,8 +3,7 @@ title: "[Paper Note] Order-agnostic Identifier for Large Language Model-based Ge
 description: "[SIGIR 2025][生成式推荐与离散语义ID] 提出无序集合标识符范式，用CF+语义多token集合表示物品并同时生成，T5上Recall@10平均提升约50%，推理提速8-18倍。"
 tags:
   - SIGIR 2025
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 无序集合标识符
   - 稀疏注意力掩码
   - 查询引导同时生成

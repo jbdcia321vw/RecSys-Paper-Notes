@@ -3,7 +3,7 @@ title: "[Paper Note] R&F-Inventory: A Large-Scale Dataset for Monotonic Inventor
 description: "[SIGIR 2026][CTR预估与特征交叉] 首个公开的 R&F 合约库存预估数据集，以「定向-排期-频控」为上下文提供完整预算-效果曲线，定义单点预测与多维单调曲线重建两大基准任务。"
 tags:
   - SIGIR 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 粗排/库存预估
   - 单调回归
   - 预算-效果曲线

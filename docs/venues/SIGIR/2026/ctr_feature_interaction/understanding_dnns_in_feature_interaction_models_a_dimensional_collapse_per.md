@@ -3,7 +3,7 @@ title: "[Paper Note] Understanding DNNs in Feature Interaction Models: A Dimensi
 description: "[SIGIR 2026][CTR预估与特征交叉] 从嵌入维度坍缩视角重新解释 DNN 在特征交叉模型中的作用：并行/堆叠 DNN 均能平坦化奇异值谱、提升 RankMe，并给出基于梯度的机理分析。"
 tags:
   - SIGIR 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 维度坍缩
   - 奇异值谱

@@ -3,9 +3,8 @@ title: "[Paper Note] Not All Branches Are Equal: Adaptive Semantic ID Constructi
 description: "[RecSys 2026][生成式推荐与离散语义 ID] 将语义 ID 重构为树路径，用轮廓系数自适应分支+概率质量约束构建 AST，五域 Amazon 全库排序平均相对提升 13.08%"
 tags:
   - RecSys
-  - 生成式推荐与离散语义 ID
-  - 生成式端到端
-  - 语义 ID 分词
+  - 生成式推荐
+  - 语义ID
   - 自适应层次聚类
 date: 2026-11-13
 venue: RecSys

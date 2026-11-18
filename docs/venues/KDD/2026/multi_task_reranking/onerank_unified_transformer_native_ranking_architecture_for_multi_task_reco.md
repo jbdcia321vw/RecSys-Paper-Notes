@@ -3,7 +3,7 @@ title: "[Paper Note] OneRank: Unified Transformer-Native Ranking Architecture fo
 description: "[KDD 2026][多任务学习与列表级重排] 将多任务推理内化进 Transformer 栈，用任务私有 token 通道 + 梯度截断 + 匹配式打分替代编码器-预测器分离，Shopee 离线与线上 A/B 全面领先。"
 tags:
   - KDD 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - Transformer-Native 架构
   - 梯度截断与任务解耦

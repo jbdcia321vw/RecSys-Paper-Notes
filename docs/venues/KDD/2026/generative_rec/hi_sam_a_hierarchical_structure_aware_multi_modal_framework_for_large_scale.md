@@ -3,7 +3,7 @@ title: "[Paper Note] Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framewor
 description: "[KDD 2026][生成式推荐与离散语义ID] 解耦语义分词器+分层记忆锚点Transformer，修复语义ID推荐中分词冗余与扁平架构失配，工业A/B响应率+6.55%"
 tags:
   - KDD 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 精排
   - 语义ID量化
   - 分层位置编码

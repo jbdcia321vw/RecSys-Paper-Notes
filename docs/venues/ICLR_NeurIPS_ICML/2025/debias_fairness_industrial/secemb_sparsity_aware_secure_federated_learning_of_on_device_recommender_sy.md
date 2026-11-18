@@ -3,11 +3,11 @@ title: "[Paper Note] SecEmb: Sparsity-Aware Secure Federated Learning of On-Devi
 description: "[ICML 2025][去偏公平、可信隐私与工业架构] 用 FSS 点函数对稀疏物品嵌入更新做无损安全聚合，通信降 90x、端侧计算降 70x 且不泄露评分物品索引。"
 tags:
   - ICML
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 端侧训练/联邦召回
   - 函数秘密共享 FSS
   - 稀疏安全聚合
-  - 联邦推荐系统
+  - 联邦推荐
 date: 2026-11-14
 venue: ICLR_NeurIPS_ICML
 year: 2025

@@ -3,7 +3,7 @@ title: "[Paper Note] One Pass, Any Order: Position-Invariant Listwise Reranking 
 description: "[SIGIR 2026][多任务学习与列表级重排] 用结构化注意力掩码+共享位置框架在架构层消除候选顺序依赖，单次前向实现近完美排列不变性，nDCG 仅微降。"
 tags:
   - SIGIR 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 排列不变性
   - 列表级重排

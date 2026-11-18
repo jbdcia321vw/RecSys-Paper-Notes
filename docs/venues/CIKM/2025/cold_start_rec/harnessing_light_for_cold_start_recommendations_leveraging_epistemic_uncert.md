@@ -3,7 +3,7 @@ title: "Harnessing Light for Cold-Start Recommendations: Leveraging Epistemic Un
 description: "[CIKM 2025][冷启动与长尾推荐] 用集成 CVAE 生成暖化嵌入，并以 Sinkhorn 散度版 PaiDE 估计认知不确定性做优化，在冷启动 CTR 上稳定超越 CVAR 等基线。"
 tags:
   - CIKM 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 精排
   - 认知不确定性
   - 集成CVAE

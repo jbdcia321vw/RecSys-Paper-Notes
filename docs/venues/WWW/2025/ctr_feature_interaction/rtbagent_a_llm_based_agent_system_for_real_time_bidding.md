@@ -3,7 +3,7 @@ title: "[Paper Note] RTBAgent: A LLM-based Agent System for Real-Time Bidding"
 description: "[WWW 2025][CTR预估与特征交叉] 首个 LLM Agent 出价系统，用两步决策+多类记忆+专家策略工具在 iPinYou 上以调整因子方式超越规则/RL/扩散基线。"
 tags:
   - WWW 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - LLM Agent
   - 实时竞价出价优化

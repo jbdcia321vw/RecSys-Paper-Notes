@@ -3,7 +3,7 @@ title: "[Paper Note] On-device Content-based Recommendation with Single-shot Emb
 description: "[WWW 2025][去偏公平与工业架构] 用 Shapley 值一次性剪枝 CTR 嵌入表，配合场感知码本替代零填充，无需重训即可适配任意端侧存储预算。"
 tags:
   - WWW 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - Shapley Value
   - Embedding Pruning

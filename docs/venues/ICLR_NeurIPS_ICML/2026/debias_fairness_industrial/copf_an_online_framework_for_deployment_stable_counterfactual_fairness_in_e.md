@@ -3,7 +3,7 @@ title: "[Paper Note] COPF: An Online Framework for Deployment-Stable Counterfact
 description: "[ICML 2026][去偏公平与工业架构] 以曝光反事实定义群体机会差，用倾向日志+GA-DR残差+Residual-OI证书在线审计并控制演化图链路推荐的部署稳定公平性。"
 tags:
   - ICML
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 反事实公平
   - 表演性预测

@@ -3,7 +3,7 @@ title: "[Paper Note] LLM-Generated Fake News Induces Truth Decay in News Ecosyst
 description: "[SIGIR 2025][去偏公平与可信推荐] 构建约 7.5 万条人机混合新闻推荐数据集，模拟 LLM 生成假新闻在候选、历史、训练集三阶段渗透，揭示真实新闻排序优势被侵蚀的 Truth Decay 现象并以困惑度给出解释。"
 tags:
   - SIGIR 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - Truth Decay
   - LLM 生成假新闻

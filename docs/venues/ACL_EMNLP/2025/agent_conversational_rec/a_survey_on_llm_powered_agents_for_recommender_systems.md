@@ -4,10 +4,10 @@ description: "[ACL 2025][对话推荐与智能体仿真] 系统综述 LLM Agent 
 tags:
   - ACL
   - 对话推荐与智能体仿真
-  - 端到端生成式
+  - 生成式推荐
   - LLM Agent
   - 综述与分类体系
-  - 用户仿真
+  - 用户模拟
 date: 2026-11-14
 venue: ACL_EMNLP
 year: 2025

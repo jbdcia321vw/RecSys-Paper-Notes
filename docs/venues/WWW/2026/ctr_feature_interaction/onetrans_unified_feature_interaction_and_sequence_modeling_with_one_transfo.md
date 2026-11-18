@@ -3,7 +3,7 @@ title: "[Paper Note] OneTrans: Unified Feature Interaction and Sequence Modeling
 description: "[WWW 2026][CTR预估与特征交叉] 用单一因果 Transformer 统一序列建模与特征交叉，配合金字塔剪枝与跨请求 KV 缓存，线上 GMV/u 提升 5.68%"
 tags:
   - WWW 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 统一Transformer骨干
   - 混合参数化

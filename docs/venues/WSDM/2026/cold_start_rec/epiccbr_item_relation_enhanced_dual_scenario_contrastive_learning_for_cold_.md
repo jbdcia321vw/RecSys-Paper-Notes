@@ -3,7 +3,7 @@ title: "[Paper Note] EpicCBR: Item-Relation-Enhanced Dual-Scenario Contrastive L
 description: "[WSDM 2026][冷启动与长尾推荐] 通过物品对关系增强与流行度感知双场景对比学习，在冷启动捆绑推荐上实现最高 387% 的 Recall@20 提升。"
 tags:
   - WSDM 2026
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 捆绑推荐
   - 对比学习

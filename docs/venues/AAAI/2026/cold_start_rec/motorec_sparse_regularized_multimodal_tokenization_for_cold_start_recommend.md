@@ -3,7 +3,7 @@ title: "[Paper Note] MoToRec: Sparse-Regularized Multimodal Tokenization for Col
 description: "[AAAI 2026][冷启动与长尾推荐] 用稀疏正则化 RQ-VAE 将多模态特征离散化为组合语义码，配合稀有度放大与多源图编码，冷启动物品 N@20 最高提升 12.58%。"
 tags:
   - AAAI 2026
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 离散语义分词
   - RQ-VAE

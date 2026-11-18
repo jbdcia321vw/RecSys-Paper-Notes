@@ -3,7 +3,7 @@ title: "[Paper Note] ReST: A Plug-and-Play Spatially-Constrained Representation 
 description: "[SIGIR 2026][时空轨迹与POI本地生活推荐] 以物品为中心，用属性语义预热+空间约束难负采样对比学习增强长尾物品ID表征，离线AUC最高+5.90%，线上GMV+2.804%。"
 tags:
   - SIGIR 2026
-  - 时空轨迹与POI本地生活推荐
+  - 时空轨迹与POI推荐
   - 精排
   - 空间约束对比学习
   - 长尾表征增强

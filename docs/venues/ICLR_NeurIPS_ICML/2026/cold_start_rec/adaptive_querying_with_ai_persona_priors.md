@@ -3,7 +3,7 @@ title: "[Paper Note] Adaptive Querying with AI Persona Priors"
 description: "[ICML 2026][冷启动与长尾推荐] 用 LLM 人物画像构建有限混合贝叶斯先验，实现闭式后验更新与自适应提问，在冷启动用户/题目场景下优于 CAT/IRT 基线。"
 tags:
   - ICML
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回/主动elicitation
   - AI Persona Prior
   - Bayesian Experimental Design

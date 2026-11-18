@@ -3,7 +3,7 @@ title: "[Paper Note] Shallow AutoEncoding Recommender with Cold Start Handling v
 description: "[CIKM 2025][冷启动与长尾推荐] 将用户/物品侧特征拼入 EASE 输入矩阵，并用内容相似度矩阵作冷物品权重先验，闭式解统一处理双冷启动。"
 tags:
   - CIKM 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - EASE 闭式解
   - 侧信息增强

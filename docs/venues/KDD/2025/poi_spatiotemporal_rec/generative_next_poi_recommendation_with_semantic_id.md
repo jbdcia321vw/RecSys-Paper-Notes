@@ -4,7 +4,7 @@ description: "[KDD 2025][时空轨迹与POI推荐] 用RQ-VAE将POI多源语义�
 tags:
   - KDD 2025
   - 时空轨迹与POI推荐
-  - 生成式端到端
+  - 生成式推荐
   - 语义ID
   - RQ-VAE量化
   - LLM微调

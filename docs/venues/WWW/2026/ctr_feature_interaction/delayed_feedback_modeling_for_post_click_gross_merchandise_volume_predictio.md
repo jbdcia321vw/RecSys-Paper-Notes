@@ -3,7 +3,7 @@ title: "[Paper Note] Delayed Feedback Modeling for Post-Click Gross Merchandise 
 description: "[WWW 2026][CTR预估与特征交叉] 首个后点击GMV延迟反馈基准TRACE，提出复购感知双分支READER，在线流式训练下ACC相对提升2.19%"
 tags:
   - WWW
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 延迟反馈建模
   - 复购感知双分支

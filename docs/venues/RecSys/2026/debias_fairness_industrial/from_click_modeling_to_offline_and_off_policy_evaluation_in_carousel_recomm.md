@@ -3,7 +3,7 @@ title: "From Click Modeling to Offline and Off-Policy Evaluation in Carousel Rec
 description: "[RecSys 2026][去偏公平与工业架构] 基于 RecGaze 眼动数据推翻轮播界面四大行为假设，提出以可观测变量为核心的点击模型设计框架、离散选择点击模型与 N2DCG 重构，并规划轮播专用 OPE 路线。"
 tags:
   - RecSys
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 轮播界面点击模型
   - 离策略评估

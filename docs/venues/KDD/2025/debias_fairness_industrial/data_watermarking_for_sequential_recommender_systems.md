@@ -3,7 +3,7 @@ title: "[Paper Note] Data Watermarking for Sequential Recommender Systems"
 description: "[KDD 2025][去偏公平、可信隐私与工业架构] 首次定义序列推荐数据集/单用户双场景数据水印，用感受野约束插入连续物品序列，5 模型 3 数据集上水印 NDCG 近 1.0 且效用无损。"
 tags:
   - KDD 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 数据版权保护
   - 序列推荐
   - 数据水印

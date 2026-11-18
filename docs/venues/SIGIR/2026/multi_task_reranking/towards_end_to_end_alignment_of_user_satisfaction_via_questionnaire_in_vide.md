@@ -3,7 +3,7 @@ title: "[Paper Note] Towards End-to-End Alignment of User Satisfaction via Quest
 description: "[SIGIR 2026][多任务学习与列表级重排] 用 LoRA+MoE 独立参数通路隔离稀疏问卷满意度信号，并以在线 DPO 对齐主排序模型，离线 NDCG@5 提升约 3%，线上 Q-Satisfied 提升 0.5–0.9%。"
 tags:
   - SIGIR 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - 稀疏监督对齐
   - 在线学习

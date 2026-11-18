@@ -3,7 +3,7 @@ title: "[Paper Note] Dual Test-time Training for Out-of-distribution Recommender
 description: "[TKDE 2025][去偏公平与工业架构] 首个将测试时训练引入 OOD 推荐，用自蒸馏+对比双任务在测试阶段适配用户/物品特征漂移，全库排序下 R@50 最高提升 11.56%。"
 tags:
   - TKDE
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 测试时训练
   - OOD 推荐

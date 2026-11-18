@@ -3,7 +3,7 @@ title: "[Paper Note] Bradley-Terry Rankings for Recommender Systems Across Datas
 description: "[KDD 2026][去偏公平与工业架构] 用 Bradley-Terry 概率排序替代指标均值聚合，在 14 算法×89 数据集上给出数据集感知的推荐算法排名与免运行预测。"
 tags:
   - KDD
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 评测基准
   - Bradley-Terry
   - 算法排名一致性

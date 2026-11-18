@@ -3,8 +3,7 @@ title: "[Paper Note] Bi-Level Optimization for Generative Recommendation: Bridgi
 description: "[SIGIR 2026][生成式推荐与离散语义ID] 将分词器与推荐器建模为双层优化，用元学习+梯度手术让推荐损失直接监督RQ-VAE码本，Full-Ranking下全面超越TIGER/LETTER/ETEGRec。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 双层优化
   - 梯度手术
 date: 2026-11-13

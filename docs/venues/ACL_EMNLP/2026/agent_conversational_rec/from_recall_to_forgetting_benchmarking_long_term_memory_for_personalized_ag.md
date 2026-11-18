@@ -4,7 +4,7 @@ description: "[ACL 2026 Findings][对话推荐与智能体仿真] 提出 Memora 
 tags:
   - ACL 2026 Findings
   - 对话推荐与智能体仿真
-  - 端到端生成式
+  - 生成式推荐
   - 长期记忆基准
   - 遗忘感知评估
 date: 2026-11-13

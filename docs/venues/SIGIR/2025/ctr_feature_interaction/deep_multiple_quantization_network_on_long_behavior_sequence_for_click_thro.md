@@ -3,9 +3,9 @@ title: "[Paper Note] Deep Multiple Quantization Network on Long Behavior Sequenc
 description: "[SIGIR 2025][CTR预估与特征交叉] 用多码本量化将超长行为序列端到端压缩为约百个兴趣簇码字，配合 HSTU 簇间交互与候选感知注意力，消除两阶段检索的相关性分布偏差，线上 CTR +3.5%、RPM +2.0%。"
 tags:
   - SIGIR 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
-  - 长行为序列建模
+  - 长期行为序列建模
   - 多码本向量量化
   - HSTU
 date: 2026-11-14

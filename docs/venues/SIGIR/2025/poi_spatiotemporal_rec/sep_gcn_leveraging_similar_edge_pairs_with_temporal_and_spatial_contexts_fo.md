@@ -3,7 +3,7 @@ title: "[Paper Note] SEP-GCN: Leveraging Similar Edge Pairs with Temporal and Sp
 description: "[SIGIR-ICTIR 2025][时空轨迹与POI推荐] 以时空相似交互边对构建边级相似图并注入LightGCN传播，在NYC/Gowalla/Brightkite全库排序上Recall@20最高提升14.89%。"
 tags:
   - SIGIR-ICTIR 2025
-  - 时空轨迹与POI本地生活推荐
+  - 时空轨迹与POI推荐
   - 召回
   - 相似边对 (SEP)
   - 边感知图卷积

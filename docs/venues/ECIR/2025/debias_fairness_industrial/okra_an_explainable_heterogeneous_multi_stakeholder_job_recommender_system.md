@@ -3,7 +3,7 @@ title: "[Paper Note] OKRA: an Explainable, Heterogeneous, Multi-Stakeholder Job 
 description: "[ECIR 2025][去偏公平与工业架构] 异构知识图谱+多头GATv2构建求职者/企业双侧嵌入，谐波均值融合打分，nDCG@10较六基线最高提升约18%，并揭示城乡地域偏差。"
 tags:
   - ECIR 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 异构知识图谱
   - 多利益相关方可解释推荐

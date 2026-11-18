@@ -3,7 +3,7 @@ title: "[Paper Note] Unbiased Collaborative Filtering with Fair Sampling"
 description: "[SIGIR 2025][去偏公平与工业架构] 通过对称补充采样使每个用户/物品等概率成为正负样本，无需估计倾向分即可消除流行度偏置，全库排序下 Recall/NDCG 与 ARP 双优。"
 tags:
   - SIGIR 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 流行度去偏
   - 公平采样

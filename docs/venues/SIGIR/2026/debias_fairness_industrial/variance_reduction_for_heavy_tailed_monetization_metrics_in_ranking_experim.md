@@ -3,7 +3,7 @@ title: "Variance Reduction for Heavy-Tailed Monetization Metrics in Ranking Expe
 description: "[SIGIR 2026][去偏公平与工业架构] 用后分层+CUPED压制重尾GMV方差，等效置信度下节省约45%流量，已在ShareChat 40+线上实验落地。"
 tags:
   - SIGIR 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 在线A/B实验评估
   - 后分层
   - CUPED

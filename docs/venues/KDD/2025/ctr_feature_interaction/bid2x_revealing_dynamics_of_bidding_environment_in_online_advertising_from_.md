@@ -3,7 +3,7 @@ title: "[Paper Note] Bid2X: Revealing Dynamics of Bidding Environment in Online 
 description: "[KDD 2025][CTR预估与特征交叉] 将自动出价环境建模重构为跨场景基础模型的下一token预测，用变量/时间双注意力+零膨胀投影，8数据集MAE全面领先，线上GMV+4.65%。"
 tags:
   - KDD 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 出价环境建模
   - 零膨胀分布

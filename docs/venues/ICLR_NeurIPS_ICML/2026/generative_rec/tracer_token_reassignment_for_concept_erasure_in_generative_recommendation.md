@@ -4,7 +4,6 @@ description: "[NeurIPS 2026][生成式推荐] 首个面向生成式推荐的概�
 tags:
   - NeurIPS
   - 生成式推荐
-  - 端到端生成式
   - 语义ID重分配
   - 机器遗忘
 date: 2026-11-13

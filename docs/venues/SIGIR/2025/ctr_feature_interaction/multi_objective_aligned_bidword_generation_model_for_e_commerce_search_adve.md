@@ -3,7 +3,7 @@ title: "[Paper Note] Multi-objective Aligned Bidword Generation Model for E-comm
 description: "[SIGIR 2025][CTR预估与特征交叉] 用判别器提供相关性/真实性/CPM三维奖励，扩展MODPO做多目标偏好对齐，驱动LLM生成高商业价值竞价词，线上广告收入+2.13%。"
 tags:
   - SIGIR 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 召回
   - 查询改写
   - 多目标偏好对齐

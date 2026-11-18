@@ -3,7 +3,7 @@ title: "[Paper Note] Do We Really Need Specialization? Evaluating Generalist Tex
 description: "[RecSys 2025][冷启动与长尾推荐] 实证通用文本嵌入(GTE)零样本即超越领域微调模型，并以PCA有效维度揭示空间利用率与压缩收益。"
 tags:
   - RecSys 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 通用文本嵌入
   - 零样本迁移

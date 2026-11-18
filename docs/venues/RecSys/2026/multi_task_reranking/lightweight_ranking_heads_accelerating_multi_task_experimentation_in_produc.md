@@ -3,10 +3,10 @@ title: "[Paper Note] Lightweight Ranking Heads: Accelerating Multi-Task Experime
 description: "[RecSys 2026][多任务学习与列表级重排] 以 stop-gradient + 无状态日训的轻量头动态注入新任务，免骨干重训，将多任务实验周期从数周压缩至数天。"
 tags:
   - RecSys
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - 轻量排序头
-  - 持续在线学习
+  - 在线持续学习
   - 任务冲突隔离
 date: 2026-11-13
 venue: RecSys

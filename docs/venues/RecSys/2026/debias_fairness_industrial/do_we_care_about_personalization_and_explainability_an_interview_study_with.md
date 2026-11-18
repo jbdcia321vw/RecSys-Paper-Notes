@@ -3,7 +3,7 @@ title: "[Paper Note] Do We Care About Personalization and Explainability? An Int
 description: "[RecSys 2026][去偏公平、可信隐私与工业架构] 对 9 家新闻机构 15 位工程师的半结构化访谈，揭示个性化采纳受编辑控制/隐私/资源约束，可解释性几乎只用于内部调试而非终端用户。"
 tags:
   - RecSys
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 工业级全链路架构与评测基准
   - 新闻推荐
   - 可解释性

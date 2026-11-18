@@ -3,7 +3,7 @@ title: "[Paper Note] Distributionally Robust Graph Out-of-Distribution Recommend
 description: "[WWW 2025][去偏公平与工业架构] 揭示 DRO 推荐对噪声分布过度加权之弊，用 VGAE+扩散去噪、Sinkhorn 距离与熵正则重构最坏情形优化，OOD 场景最高提升 75.5%。"
 tags:
   - WWW 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 分布鲁棒优化
   - 扩散去噪

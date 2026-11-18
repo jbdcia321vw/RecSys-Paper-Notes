@@ -3,7 +3,7 @@ title: "[Paper Note] GReF: A Unified Generative Framework for Efficient Rerankin
 description: "[CIKM 2025][多任务学习与列表级重排] 用双向编码器+动态匹配自回归解码器统一生成式重排，Rerank-DPO 端到端对齐用户偏好，OMTP 多token并行解码将延迟压至 12.97ms，快手线上转发+2.98%。"
 tags:
   - CIKM 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 生成式重排
   - 有序多token预测

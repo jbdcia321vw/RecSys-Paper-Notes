@@ -3,7 +3,7 @@ title: "[Paper Note] Joint Evaluation of Fairness and Relevance in Recommender S
 description: "[WWW 2025][去偏公平与工业评测] 提出 DPFR：以测试集构造相关性-公平性帕累托前沿，用模型得分到前沿的欧氏距离作为联合评测指标，揭示现有联合指标排序与帕累托最优解不一致。"
 tags:
   - WWW 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 离线评测
   - 帕累托前沿
   - 公平性-相关性联合评测

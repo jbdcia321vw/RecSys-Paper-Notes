@@ -4,9 +4,9 @@ description: "[ECIR 2025][LLM4Rec] 用 LLM 抽取显隐式标签 + CF 亲和度�
 tags:
   - ECIR 2025
   - 大语言模型推荐
-  - 端到端生成式
+  - 生成式推荐
   - LLM 标签抽取
-  - 检索增强生成
+  - RAG
   - 工业级部署
 date: 2026-11-14
 venue: ECIR

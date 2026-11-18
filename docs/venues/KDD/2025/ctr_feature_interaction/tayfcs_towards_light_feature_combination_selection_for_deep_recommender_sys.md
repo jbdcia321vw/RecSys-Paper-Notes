@@ -3,7 +3,7 @@ title: "[Paper Note] TayFCS: Towards Light Feature Combination Selection for Dee
 description: "[KDD 2025][CTR预估与特征交叉] 用泰勒展开+IME近似一次性梯度回传估计高阶组合重要性，再用LR滑窗剔除冗余，三数据集AUC显著提升且线上CVR+13.9%"
 tags:
   - KDD 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 特征组合选择
   - 泰勒展开近似

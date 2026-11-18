@@ -3,8 +3,7 @@ title: "[Paper Note] DaV-Gen: End-to-End Generative Retrieval via Draft-and-Veri
 description: "[IJCAI 2026][生成式推荐与离散语义ID] 将生成式检索重构为“起草-验证”双阶段单模型范式，以混合稀疏-稠密表征与复合损失统一召回与排序，工业搜索延迟降至70ms。"
 tags:
   - IJCAI
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - Draft-and-Verify
   - 混合稀疏-稠密表征
   - 并行验证推理

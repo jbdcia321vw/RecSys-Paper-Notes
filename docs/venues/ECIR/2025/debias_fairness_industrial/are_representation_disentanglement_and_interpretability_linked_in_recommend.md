@@ -3,7 +3,7 @@ title: "Are Representation Disentanglement and Interpretability Linked in Recomm
 description: "[ECIR 2025][去偏公平与可信评测] 复现5个推荐模型×4数据集，量化解耦度与可解释性，发现解耦与效果无关但与表示可解释性强正相关。"
 tags:
   - ECIR 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 表示解耦
   - 可解释性量化

@@ -3,7 +3,7 @@ title: "[Paper Note] Probabilistic Residual Learning for Online Recommendations"
 description: "[RecSys 2026][去偏公平与工业架构] 以即插即用的层次贝叶斯残差模型对固定基座推荐器做概率用户聚类与 do-calculus 混杂去偏，冷启动跨域 Recall@20 最高提升约 7.6 倍。"
 tags:
   - RecSys
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 因果去偏
   - 概率用户聚类

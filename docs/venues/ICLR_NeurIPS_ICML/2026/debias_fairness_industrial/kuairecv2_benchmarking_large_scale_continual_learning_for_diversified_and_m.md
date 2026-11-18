@@ -3,8 +3,8 @@ title: "[Paper Note] KuaiRecV2: Benchmarking Large-Scale Continual Learning for 
 description: "[NeurIPS 2026][去偏公平、可信隐私与工业架构] 快手 30 天 4.84 亿交互动态物品池基准，统一评测持续学习、Token 级多样性与多任务检索。"
 tags:
   - NeurIPS
-  - 去偏公平、可信隐私与工业架构
-  - 端到端生成式
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - 持续学习基准
   - 组合多样性
   - 多任务奖励

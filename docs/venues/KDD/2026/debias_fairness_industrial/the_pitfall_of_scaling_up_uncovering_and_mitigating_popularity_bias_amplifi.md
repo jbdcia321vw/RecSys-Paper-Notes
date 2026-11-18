@@ -3,7 +3,7 @@ title: "[Paper Note] The Pitfall of Scaling Up: Uncovering and Mitigating Popula
 description: "[KDD 2026][去偏公平与工业架构] 揭示 Transformer 序列推荐随深度加深发生谱坍缩并放大流行度偏差，提出逐层注意力列和与 FFN 谱范数正则 SPRINT，在 6 数据集上同时提升准确率与长尾公平性。"
 tags:
   - KDD 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 谱坍缩
   - 流行度偏差

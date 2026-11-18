@@ -3,7 +3,7 @@ title: "[Paper Note] Causality-aware Graph Aggregation Weight Estimator for Popu
 description: "[CIKM 2025][去偏公平与工业架构] 将图聚合证明为后门调整，用 VAE 式编码器-解码器估计无偏聚合权重，配合动量更新，小众物品 Recall@20 提升约 20%。"
 tags:
   - CIKM 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 流行度去偏
   - 因果推断

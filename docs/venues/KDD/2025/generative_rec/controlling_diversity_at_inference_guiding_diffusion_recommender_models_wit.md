@@ -3,8 +3,7 @@ title: "[Paper Note] Controlling Diversity at Inference: Guiding Diffusion Recom
 description: "[KDD 2025][生成式推荐与离散语义ID] 提出解耦扩散模型 D3Rec，通过类别偏好引导的反向去噪过程，在推理阶段灵活控制推荐准确率-多样性权衡。"
 tags:
   - KDD 2025
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 扩散推荐
   - 多样性控制
   - 类别偏好解耦

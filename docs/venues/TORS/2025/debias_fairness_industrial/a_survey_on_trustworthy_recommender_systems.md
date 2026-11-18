@@ -3,7 +3,7 @@ title: "[Paper Note] A Survey on Trustworthy Recommender Systems"
 description: "[TORS 2025][去偏公平、可信隐私与工业架构] 系统梳理可解释、公平、隐私、鲁棒、可控五大可信推荐维度及其交叉关系，提出跨视角关系矩阵与评估局限反思。"
 tags:
   - TORS
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 全链路（召回/排序/解释）
   - 可信推荐 TRS
   - 跨视角权衡

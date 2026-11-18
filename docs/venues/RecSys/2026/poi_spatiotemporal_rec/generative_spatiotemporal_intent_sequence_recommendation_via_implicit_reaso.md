@@ -3,8 +3,8 @@ title: "[Paper Note] Generative Spatiotemporal Intent Sequence Recommendation vi
 description: "[RecSys 2026][时空轨迹与POI本地生活推荐] 将LLM显式CoT压缩为隐式潜token并配合时空反事实DPO，在Amap工业数据与线上A/B中实现低延迟意图序列生成。"
 tags:
   - RecSys 2026
-  - 时空轨迹与POI本地生活推荐
-  - 生成式端到端
+  - 时空轨迹与POI推荐
+  - 生成式推荐
   - 隐式CoT蒸馏
   - 反事实DPO
 date: 2026-11-13

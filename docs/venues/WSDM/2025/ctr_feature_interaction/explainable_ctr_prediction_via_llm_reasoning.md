@@ -3,7 +3,7 @@ title: "[Paper Note] Explainable CTR Prediction via LLM Reasoning"
 description: "[WSDM 2025][CTR预估与特征交叉] 用 PPO 双奖励（LC 用户意图对齐 + IC 与 ID-CTR 模型对齐）把 LLM 解释生成嵌入 CTR 流程，免解释数据集，AUC 最高提升 18.2%。"
 tags:
   - WSDM 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - LLM解释生成
   - PPO双奖励对齐

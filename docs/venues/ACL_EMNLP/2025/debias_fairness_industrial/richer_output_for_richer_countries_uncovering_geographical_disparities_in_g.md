@@ -4,7 +4,7 @@ description: "[NAACL 2025 Findings][去偏公平与可信推荐] 在10万旅行�
 tags:
   - NAACL 2025 Findings
   - 去偏公平与可信推荐
-  - 生成式端到端
+  - 生成式推荐
   - 地理偏见
   - 公平性审计
 date: 2026-11-14

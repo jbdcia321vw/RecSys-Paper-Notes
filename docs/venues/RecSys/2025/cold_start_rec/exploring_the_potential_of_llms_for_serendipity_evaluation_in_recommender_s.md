@@ -3,7 +3,7 @@ title: "[Paper Note] Exploring the Potential of LLMs for Serendipity Evaluation 
 description: "[RecSys 2025][冷启动与长尾推荐] 用 LLM 模拟用户对推荐结果做惊喜度（serendipity）打分，在淘宝与 MovieLens 两个真实用户调研数据集上做元评估，最优配置 Pearson 相关达 21.5%，显著超越传统代理指标。"
 tags:
   - RecSys
-  - 冷启动与长尾推荐
+  - 冷启动
   - 评测与元评估
   - LLM-as-Evaluator
   - Serendipity

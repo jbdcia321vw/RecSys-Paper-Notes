@@ -3,7 +3,7 @@ title: "[Paper Note] A Thorough Performance Benchmarking on Lightweight Embeddin
 description: "[TOIS 2025][去偏公平、可信隐私与工业架构] 统一协议横评 7 类轻量嵌入压缩方法，提出 MagPrune 强基线，并首次量化跨任务迁移性与树莓派端侧效率瓶颈。"
 tags:
   - TOIS
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 嵌入表压缩
   - 轻量化推荐基准

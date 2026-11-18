@@ -3,7 +3,7 @@ title: "[Paper Note] NAM: A Normalization Attention Model for Personalized Produ
 description: "[SIGIR 2025][CTR预估与特征交叉] 用逆物品频率(IIF)对注意力做全局归一化并门控个性化强度，解决热门物品高估/长尾低估，离线CTCVR AUC+0.001、线上CTCVR+0.8%。"
 tags:
   - SIGIR 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 逆物品频率IIF
   - 全局归一化注意力

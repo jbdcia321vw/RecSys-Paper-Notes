@@ -3,7 +3,7 @@ title: "[Paper Note] xMTF: A Formula-Free Model for Reinforcement-Learning-Based
 description: "[WWW 2025][多任务学习与列表级重排] 用可学习单调融合单元替代预定义融合公式，配合两阶段混合训练，离线总观看时长提升约7%，线上日观看时长+0.833%"
 tags:
   - WWW 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 多任务融合
   - 强化学习

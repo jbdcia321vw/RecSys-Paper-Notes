@@ -3,7 +3,7 @@ title: "[Paper Note] CASTLE: Contrastive and Seed-Guided Training for Cold-Start
 description: "[CIKM 2026][冷启动与长尾推荐] 用预订会话对比房源对+用户调研种子查询联合生成合成查询与构造式相关性标签，KL 1.01 对齐真实用户，9.2× 优于基线。"
 tags:
   - CIKM 2026
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 合成查询生成
   - 构造式相关性标签

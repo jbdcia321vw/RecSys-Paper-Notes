@@ -3,8 +3,7 @@ title: "[Paper Note] TokenRec: Learning to Tokenize ID for LLM-based Generative 
 description: "[TKDE 2025][生成式推荐与离散语义ID] 用掩码K路向量量化把GNN协同表征压成LLM兼容离散token，并以生成式检索替代自回归解码，HR@20平均提升约19%、推理加速超10倍。"
 tags:
   - TKDE
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 向量量化ID分词
   - 生成式检索
   - 协同知识注入

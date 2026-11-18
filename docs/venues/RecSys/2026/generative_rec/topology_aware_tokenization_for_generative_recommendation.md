@@ -3,8 +3,7 @@ title: "[Paper Note] Topology-Aware Tokenization for Generative Recommendation"
 description: "[RecSys 2026][生成式推荐与离散语义ID] 揭示 RQ-VAE 语义 ID 量化中的拓扑失真问题，提出由粗到细的三级拓扑蒸馏 TopoTok，在 Amazon 三数据集 Full-Ranking 下 Recall@5 最高提升 9.42%。"
 tags:
   - RecSys
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 语义ID量化
   - 拓扑蒸馏
   - RQ-VAE

@@ -3,7 +3,7 @@ title: "[Paper Note] Equity vs. Equality: Optimizing Ranking Fairness for Tailor
 description: "[SIGIR 2026][去偏公平与工业架构] 提出以增益为基的公平框架与 EquityRank 梯度重排算法，按提供者异质偏好分配曝光与销量收益，离线/在线仿真均取得更优效果-公平权衡。"
 tags:
   - SIGIR 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 提供者公平
   - 异质效用建模

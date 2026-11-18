@@ -3,7 +3,7 @@ title: "[Paper Note] Mitigating Popularity Bias in Recommendation with Global Li
 description: "[TOIS 2026][去偏公平与工业架构] 用 IPS 加权多项似然实现列表级全局无偏学习，并以 Bi-Weighting 平滑倾向估计与渐进式去偏，六数据集 Recall@20 平均提升 9.43%。"
 tags:
   - TOIS
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 流行度去偏
   - 逆倾向加权

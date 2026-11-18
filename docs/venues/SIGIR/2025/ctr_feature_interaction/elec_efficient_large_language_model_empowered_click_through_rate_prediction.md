@@ -3,7 +3,7 @@ title: "[Paper Note] ELEC: Efficient Large Language Model-Empowered Click-Throug
 description: "[SIGIR 2025][CTR预估与特征交叉] 伪孪生增益/朴素双网络+分数级CLID与表示级MSE双蒸馏，在线仅跑表格DCNv2，AUC较FLIP提升0.0020/0.0034。"
 tags:
   - SIGIR 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 知识蒸馏
   - LLM增强CTR

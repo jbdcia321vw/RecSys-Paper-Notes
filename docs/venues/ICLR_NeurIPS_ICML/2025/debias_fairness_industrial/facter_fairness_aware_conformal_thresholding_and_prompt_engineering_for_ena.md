@@ -3,11 +3,11 @@ title: "[Paper Note] FACTER: Fairness-Aware Conformal Thresholding and Prompt En
 description: "[arXiv 2025][去偏公平与可信推荐] 用保形分位数阈值+违规触发提示工程，在黑盒 LLM 推荐器上闭环降低人口统计偏见，MovieLens 违规数降 95.5% 且精度基本不掉。"
 tags:
   - arXiv 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 保形预测
   - 提示工程去偏
-  - LLM 推荐公平性
+  - LLM推荐公平性
 date: 2026-11-14
 venue: ICLR_NeurIPS_ICML
 year: 2025

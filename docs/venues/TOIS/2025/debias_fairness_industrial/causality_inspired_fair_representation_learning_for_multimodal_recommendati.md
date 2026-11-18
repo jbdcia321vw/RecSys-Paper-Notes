@@ -3,7 +3,7 @@ title: "[Paper Note] Causality-Inspired Fair Representation Learning for Multimo
 description: "[TOIS 2025][去偏公平与工业架构] 因果启发的模态解耦与公平/不公平关系挖掘，实现多模态推荐的反事实公平，公平性显著优于 SOTA 且精度可比。"
 tags:
   - TOIS
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 因果推断
   - 多模态推荐

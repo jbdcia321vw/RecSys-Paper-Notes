@@ -3,7 +3,7 @@ title: "[Paper Note] Practical Multi-Task Learning for Rare Conversions in Ad Te
 description: "[RecSys 2025][多任务学习与列表级重排] 以历史CVR统计自动划分软/硬转化任务，共享底层+双塔MTL提升稀有转化预估，离线AUC+0.69%、线上CPA降2%。"
 tags:
   - RecSys 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - 稀有转化预估
   - 数据驱动任务划分

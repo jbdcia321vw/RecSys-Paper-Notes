@@ -3,11 +3,11 @@ title: "TripTailor: A Real-World Benchmark for Personalized Travel Planning"
 description: "[ACL 2025 Findings][时空轨迹与POI本地生活推荐] 构建50万真实POI与近4000条真人行程的个性化旅行规划基准，提出可行性/合理性/个性化三维评估与奖励模型对比框架，揭示SOTA LLM行程超越真人比例不足10%。"
 tags:
   - ACL 2025 Findings
-  - 时空轨迹与POI本地生活推荐
-  - 端到端生成式
+  - 时空轨迹与POI推荐
+  - 生成式推荐
   - 旅行行程规划
   - LLM Agent 基准评测
-  - 奖励模型个性化评估
+  - 个性化奖励模型
 date: 2026-11-14
 venue: ACL_EMNLP
 year: 2025

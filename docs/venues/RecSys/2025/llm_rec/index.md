@@ -8,20 +8,50 @@
 
 🔥 **高频主题：** 大语言模型推荐 ×4
 
-<dl>
-<dt><strong><a href="balancing_fine_tuning_and_rag_a_hybrid_strategy_for_dynamic_llm_recommendat/">Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<div class="paper-tag-filter" data-paper-tag-filter>
+  <div class="paper-tag-filter__head">
+    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
+    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
+      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
+      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
+    </span>
+    <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
+  </div>
+  <div class="paper-tag-filter__chips">
+<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="LLM-as-a-Judge" aria-pressed="false">LLM-as-a-Judge<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="RAG" aria-pressed="false">RAG<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="兴趣探索" aria-pressed="false">兴趣探索<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="因果去偏" aria-pressed="false">因果去偏<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="域跷跷板" aria-pressed="false">域跷跷板<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="异构用户建模" aria-pressed="false">异构用户建模<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="播客推荐" aria-pressed="false">播客推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="模型更新策略" aria-pressed="false">模型更新策略<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="用户画像" aria-pressed="false">用户画像<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="用户研究" aria-pressed="false">用户研究<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="画像生成" aria-pressed="false">画像生成<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="离线评测" aria-pressed="false">离线评测<span class="paper-tag-filter__count">1</span></button>
+  </div>
+  <div class="paper-tag-filter__status" data-tag-status></div>
+</div>
+
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;RecSys 2025&quot;,&quot;大语言模型推荐&quot;,&quot;生成式推荐&quot;,&quot;RAG&quot;,&quot;模型更新策略&quot;,&quot;兴趣探索&quot;]"><strong><a href="balancing_fine_tuning_and_rag_a_hybrid_strategy_for_dynamic_llm_recommendat/">Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>以十亿用户短视频兴趣探索系统为案例，量化对比微调与RAG的更新代价/敏捷性，提出月度微调+周内RAG刷新的混合更新策略，线上A/B显著提升满意度。</p>
 </dd>
-<dt><strong><a href="biases_in_llm_generated_musical_taste_profiles_for_recommendation/">Biases in LLM-Generated Musical Taste Profiles for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;大语言模型推荐&quot;,&quot;画像生成&quot;,&quot;用户研究&quot;,&quot;因果去偏&quot;]"><strong><a href="biases_in_llm_generated_musical_taste_profiles_for_recommendation/">Biases in LLM-Generated Musical Taste Profiles for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>通过 64 人用户研究揭示 LLM 生成音乐品味画像存在流派/国别系统性偏差，且用户认同度与下游推荐指标仅弱相关。</p>
 </dd>
-<dt><strong><a href="evaluating_podcast_recommendations_with_profile_aware_llm_as_a_judge/">Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;RecSys 2025&quot;,&quot;大语言模型推荐&quot;,&quot;离线评测&quot;,&quot;LLM-as-a-Judge&quot;,&quot;用户画像&quot;,&quot;播客推荐&quot;]"><strong><a href="evaluating_podcast_recommendations_with_profile_aware_llm_as_a_judge/">Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用90天收听历史蒸馏自然语言用户画像，驱动零样本LLM做剧集级与模型级离线评判，47人用户研究中与人工判断高度一致。</p>
 </dd>
-<dt><strong><a href="heterogeneous_user_modeling_for_llm_based_recommendation/">Heterogeneous User Modeling for LLM-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;RecSys 2025&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;异构用户建模&quot;,&quot;域跷跷板&quot;]"><strong><a href="heterogeneous_user_modeling_for_llm_based_recommendation/">Heterogeneous User Modeling for LLM-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用压缩提示+[USER]锚点token将跨域异构行为压成单一用户表征，并以域重要性平滑加权缓解域跷跷板，六域全库排序R@10最高提升约30%。</p>
 </dd>

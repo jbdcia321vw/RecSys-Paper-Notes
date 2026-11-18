@@ -3,7 +3,7 @@ title: "[Paper Note] Sparse Contrastive Learning for Content-Based Cold Item Rec
 description: "[SIGIR 2026][冷启动与长尾推荐] 抛弃 CF 对齐、纯内容空间 item-item 相似度建模，用 α-entmax 稀疏化 sampled softmax 并支持内容空间蒸馏，冷物品排序与曝光公平性双赢。"
 tags:
   - SIGIR 2026
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - α-entmax 稀疏对比学习
   - 内容空间知识蒸馏

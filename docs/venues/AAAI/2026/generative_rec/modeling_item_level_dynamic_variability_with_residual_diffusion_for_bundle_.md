@@ -3,10 +3,10 @@ title: "[Paper Note] Modeling Item-Level Dynamic Variability with Residual Diffu
 description: "[AAAI 2026][生成式推荐与离散语义ID] 用残差扩散在潜空间重建捆绑包item级表征，模型无关地适配B-I归属动态变化，Recall/NDCG最高提升约23%，训练开销仅增4%。"
 tags:
   - AAAI 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - 残差扩散
-  - 捆绑包推荐
+  - 捆绑推荐
 date: 2026-11-13
 venue: AAAI
 year: 2026

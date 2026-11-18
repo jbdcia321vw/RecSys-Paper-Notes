@@ -3,7 +3,7 @@ title: "[Paper Note] CanniUplift: A Holistic Framework for Mitigating Seller and
 description: "[KDD 2026][去偏公平与工业架构] 用平台级GMV一致性约束与核销路径分解，缓解多卖家电商uplift建模中的卖家级与激励级蚕食，线上ΔGMV相对提升4.08%。"
 tags:
   - KDD 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - Uplift Modeling
   - Cannibalization

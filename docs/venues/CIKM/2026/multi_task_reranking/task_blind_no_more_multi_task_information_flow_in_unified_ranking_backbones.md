@@ -3,7 +3,7 @@ title: "[Paper Note] Task-Blind No MORE: Multi-Task Information Flow in Unified 
 description: "[CIKM 2026][多任务学习与列表级重排] 将多任务信息流下沉至统一排序主干，以共享/私有 Anchor Token 逐层共演化，离线七任务全胜、线上时长+3.0%、P99 延迟降约30%。"
 tags:
   - CIKM
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - Anchor Token
   - 任务边界掩码

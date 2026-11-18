@@ -3,7 +3,7 @@ title: "[Paper Note] IDProxy: CTR Prediction with Multimodal LLMs for Cold-Start
 description: "[RecSys 2026][冷启动与长尾推荐] 用 MLLM 生成代理 ID 嵌入，经粗到细两阶段对齐工业 CTR 排序器，新笔记在线 AUC 提升约 2 倍于全局流量。"
 tags:
   - RecSys 2026
-  - 冷启动与长尾推荐
+  - 冷启动
   - 精排
   - 多模态大模型
   - 代理嵌入对齐

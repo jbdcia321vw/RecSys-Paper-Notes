@@ -3,7 +3,7 @@ title: "[Paper Note] Gradients as an Action: Towards Communication-Efficient Fed
 description: "[KDD 2025][去偏公平、可信隐私与工业架构] 将物品梯度聚类为少量“动作”共享传输，配合自适应聚类与带宽感知压缩，在 ML-100K/1M/Lastfm-2K 上以最高 96.88% 压缩率不损性能。"
 tags:
   - KDD 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 联邦训练通信
   - 梯度聚类压缩
   - 自适应动作共享

@@ -3,7 +3,7 @@ title: "[Paper Note] Unlocking Scaling Law in Industrial Recommendation Systems 
 description: "[WSDM 2026][生成式推荐与离散语义 ID] 提出 LUM 三步范式（生成预训练→条件查询→判别式 DLRM 融合），以 next-condition-item 预测打通生成与判别，7B 参数下稳定扩展，线上 CTR +2.9%。"
 tags:
   - WSDM 2026
-  - 生成式推荐与离散语义 ID
+  - 生成式推荐
   - 精排
   - 大用户模型
   - 条件 Token 生成

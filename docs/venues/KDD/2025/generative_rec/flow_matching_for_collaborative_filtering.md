@@ -3,7 +3,7 @@ title: "[Paper Note] Flow Matching for Collaborative Filtering"
 description: "[KDD 2025][生成式推荐与离散语义ID] 用行为引导先验与离散流匹配重构生成式CF，全库排序下精度SOTA且仅需2步推理。"
 tags:
   - KDD 2025
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - Flow Matching
   - 行为引导先验

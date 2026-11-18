@@ -3,9 +3,8 @@ title: "What Makes a Good Semantic ID for Generative Recommendation? A Reproduci
 description: "[SIGIR-AP 2026][生成式推荐与离散语义ID] 统一协议下复现11种SID生成式推荐系统，揭示SID设计效果的非单调性：无普适最优设计、码本利用率与排序质量近乎零相关、骨干与码长扩展均非单调。"
 tags:
   - SIGIR-AP 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
-  - Semantic ID
+  - 生成式推荐
+  - 语义ID
   - 复现研究
   - RQ-VAE/OPQ
 date: 2026-11-13

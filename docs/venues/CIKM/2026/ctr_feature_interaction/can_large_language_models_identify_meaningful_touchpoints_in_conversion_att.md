@@ -3,7 +3,7 @@ title: "[Paper Note] Can Large Language Models Identify Meaningful Touchpoints i
 description: "[CIKM 2026][CTR预估与特征交叉] 构建SILVA触点选择基准，揭示隐式触点语义鸿沟，系统评测8个LLM的成对/列表提示能力，并以LLM归因标签增强工业CVR训练获+0.35pp GAUC。"
 tags:
   - CIKM
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 转化归因
   - 触点选择

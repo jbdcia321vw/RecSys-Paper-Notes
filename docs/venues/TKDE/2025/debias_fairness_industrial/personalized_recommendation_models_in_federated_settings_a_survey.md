@@ -3,9 +3,9 @@ title: "[Paper Note] Personalized Recommendation Models in Federated Settings: A
 description: "[TKDE 2025][去偏公平、可信隐私与工业架构] 首篇以“个性化模型”为核心的 FedRecSys 综述，给出双层优化定义并系统梳理四类挑战与解法。"
 tags:
   - TKDE
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 端到端联邦训练
-  - 联邦推荐 FedRecSys
+  - 联邦推荐
   - 个性化联邦学习 PFL
   - 双层优化
 date: 2026-11-14

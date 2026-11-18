@@ -3,7 +3,7 @@ title: "[Paper Note] Breaking the Likelihood Trap: Consistent Generative Recomme
 description: "[KDD 2026][生成式推荐与离散语义ID] 用有向无环图解码器扩展非自回归生成空间，并以 Gumbel-Softmax 打通评估器梯度，破解似然陷阱，快手线上 Views +0.78%。"
 tags:
   - KDD 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 重排
   - 生成式重排
   - 图结构解码

@@ -3,7 +3,7 @@ title: "How to Diversify any Personalized Recommender?"
 description: "[ECIR 2025][去偏公平与工业架构] 提出用户画像级预处理：用逻辑回归识别用户代表类别、userKNN 生成候选，再按 λ% 增删交互，使任意推荐器在保持精度的同时提升多样性与少数类曝光公平。"
 tags:
   - ECIR 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 用户画像预处理
   - 提供方公平性

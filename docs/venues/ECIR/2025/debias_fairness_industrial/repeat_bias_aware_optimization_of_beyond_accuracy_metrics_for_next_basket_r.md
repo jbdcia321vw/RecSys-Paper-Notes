@@ -3,7 +3,7 @@ title: "[Paper Note] Repeat-bias-aware Optimization of Beyond-accuracy Metrics f
 description: "[ECIR 2025][去偏公平与工业架构] 用 MILP 重排同时优化多样性/物品公平与重复偏差，在三个零售数据集上以可接受 Recall 损失显著改善 DS、logDP 与 RepBias。"
 tags:
   - ECIR 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 重复偏差
   - 混合整数线性规划

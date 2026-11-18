@@ -4,7 +4,7 @@ description: "[WWW 2025][LLM4Rec] 将 LightGCN 用户/物品节点经投影器�
 tags:
   - WWW 2025
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - Token Alignment
   - Logits Matching
   - LightGCN

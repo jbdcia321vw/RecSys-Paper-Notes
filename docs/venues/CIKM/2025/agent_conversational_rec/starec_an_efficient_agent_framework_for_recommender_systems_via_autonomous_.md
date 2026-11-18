@@ -7,7 +7,7 @@ tags:
   - 重排
   - 慢思考推理
   - GRPO 强化学习
-  - 用户 Agent 仿真
+  - 用户模拟
 date: 2026-11-14
 venue: CIKM
 year: 2025

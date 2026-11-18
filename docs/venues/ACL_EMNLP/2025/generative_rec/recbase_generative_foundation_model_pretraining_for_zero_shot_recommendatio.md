@@ -3,8 +3,7 @@ title: "[Paper Note] RecBase: Generative Foundation Model Pretraining for Zero-S
 description: "[EMNLP 2025][生成式推荐与离散语义ID] 用课程学习增强的 RQ-VAE 将跨域物品统一离散为层级概念 ID，从零预训练 1.5B 自回归推荐基座，在 8 个未见数据集零样本 AUC 全面超越 7B LLM。"
 tags:
   - EMNLP 2025
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 统一物品分词器
   - 课程学习码本
   - 零样本跨域推荐

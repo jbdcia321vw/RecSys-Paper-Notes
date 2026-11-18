@@ -3,7 +3,7 @@ title: "[Paper Note] Single-Node Trigger Backdoor Attacks in Graph-Based Recomme
 description: "[IJCAI 2025][去偏公平、可信隐私与工业架构] 提出单节点触发器后门攻击 SNT-BA，仅注入 1 个虚假用户即可让目标物品在 99% 目标用户 Top-10 中曝光，同时 HR@20 仅降约 5%。"
 tags:
   - IJCAI 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 图后门攻击
   - 单节点触发器

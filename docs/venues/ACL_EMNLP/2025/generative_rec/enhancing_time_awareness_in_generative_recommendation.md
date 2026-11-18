@@ -4,7 +4,6 @@ description: "[EMNLP 2025 Findings][生成式推荐] 将绝对时间戳与目标
 tags:
   - EMNLP 2025 Findings
   - 生成式推荐
-  - 生成式端到端
   - 时间感知提示
   - 趋势感知推理
 date: 2026-11-14

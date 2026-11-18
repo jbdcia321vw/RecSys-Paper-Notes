@@ -3,10 +3,10 @@ title: "[Paper Note] LLM-based User-Product Relevance Evaluation for Dynamic Pro
 description: "[CIKM 2026][去偏公平、可信隐私与工业架构] 用 SID 分组意图压缩 + 智能体指南蒸馏小模型，构建无查询的 DPA 召回离线相关性指标，与线上 CP/CR/CVR 强对齐。"
 tags:
   - CIKM 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - LLM-as-Judge
-  - Semantic ID
+  - 语义ID
   - 离线评估指标
 date: 2026-11-12
 venue: CIKM

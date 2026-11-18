@@ -3,7 +3,7 @@ title: "[Paper Note] Bridging Jensen Gap for Max-Min Group Fairness Optimization
 description: "[ICLR 2025][去偏公平与工业架构] 揭示MMF约束下小批量采样引发Jensen Gap，提出对偶重加权算法FairDual，在三个数据集六种骨干上同时提升准确率与公平性。"
 tags:
   - ICLR
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - Max-Min Fairness
   - Jensen Gap

@@ -3,7 +3,7 @@ title: "[Paper Note] RecNextEval: A Reference Implementation for Temporal Next-B
 description: "[SIGIR 2026][去偏公平、可信隐私与工业架构] 提出滑动时间窗 next-batch 评估框架，强制全局时间线防泄漏并支持增量学习，含 Python 库与 Web UI。"
 tags:
   - SIGIR 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 评测基准
   - 全局时间线
   - 滑动窗口评估

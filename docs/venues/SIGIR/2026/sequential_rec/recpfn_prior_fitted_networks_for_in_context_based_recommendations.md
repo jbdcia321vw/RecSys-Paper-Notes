@@ -4,7 +4,7 @@ description: "[SIGIR 2026][序列与会话推荐] 用结构因果先验合成点
 tags:
   - SIGIR 2026
   - 序列与会话推荐
-  - 端到端生成式
+  - 生成式推荐
   - Prior-Fitted Network
   - In-Context Learning
   - 合成数据先验

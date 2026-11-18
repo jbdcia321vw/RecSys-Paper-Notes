@@ -3,7 +3,7 @@ title: "[Paper Note] Position Bias Undermines Preference Consistency in Listwise
 description: "[RecSys 2026][多任务学习与列表级重排] 将 LLM 列表重排的候选置换视为诱导偏好系统，提出 PPI/GPI/LOC 三层一致性度量，揭示有效性、曝光均衡与置换一致性三者可背离。"
 tags:
   - RecSys 2026
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 位置偏置
   - 置换一致性

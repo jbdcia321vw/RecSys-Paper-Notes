@@ -3,7 +3,7 @@ title: "[Paper Note] TBGRecall: A Generative Retrieval Model for E-commerce Reco
 description: "[CIKM 2025][生成式推荐与离散语义ID] 提出 Next Session Prediction 会话级非自回归生成召回，配合 Session Mask、MSP/MoE 与部分增量训练，淘宝线上成交额 +2.16%。"
 tags:
   - CIKM 2025
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - Next Session Prediction
   - Session Mask

@@ -3,7 +3,7 @@ title: "[Paper Note] Efficient Optimization of Hierarchical Identifiers for Gene
 description: "[ECIR 2026][生成式推荐与离散语义ID] 复现SEATER并指出其平衡k-ary树构建是训练瓶颈，提出贪心/混合聚类将建树时间降至2%/5-8%且检索质量持平甚至更优。"
 tags:
   - ECIR 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - 层次化语义ID
   - 平衡树构建

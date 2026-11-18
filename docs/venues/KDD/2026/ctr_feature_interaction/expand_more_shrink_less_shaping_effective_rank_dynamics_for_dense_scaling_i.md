@@ -3,7 +3,7 @@ title: "[Paper Note] Expand More, Shrink Less: Shaping Effective-Rank Dynamics f
 description: "[KDD 2026][CTR预估与特征交叉] 从有效秩视角诊断 RankMixer 的阻尼振荡塌缩，提出参数化全混合与 GLU-PFFN 实现“多扩张少收缩”，Criteo/Avazu 上 AUC 提升超 0.001。"
 tags:
   - KDD 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 有效秩
   - 表征塌缩

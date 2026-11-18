@@ -3,7 +3,7 @@ title: "Separating and Learning Latent Confounders to Enhancing User Preferences
 description: "[DASFAA 2024][去偏公平与工业架构] 将前序推荐系统作为未观测混杂代理，用变分推断在隐空间解耦用户偏好与混杂，实现通用去偏，五数据集 Recall@10 全面领先。"
 tags:
   - DASFAA
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 因果去偏
   - 变分推断解耦

@@ -3,7 +3,7 @@ title: "[Paper Note] ORBIT: Open Recommendation Benchmark for Reproducible Resea
 description: "[NeurIPS 2025][去偏公平、可信隐私与工业架构] 统一可复现推荐基准，含5个公开数据集标准化划分与ClueWeb-Reco隐私安全网页推荐隐藏测试集，评测12个模型并引入LLM-QueryGen基线。"
 tags:
   - NeurIPS
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 评测基准
   - 可复现评估
   - 隐私保护数据构建

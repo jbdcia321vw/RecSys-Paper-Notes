@@ -3,8 +3,7 @@ title: "[Paper Note] Universal Item Tokenization for Transferable Generative Rec
 description: "[SIGIR 2026][生成式推荐与离散语义ID] 用 MLLM+树状码本构建跨域通用物品分词器，结合内容重建与共现协同对齐，实现可迁移生成式推荐，全库排序下全面超越基线。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 通用物品分词
   - 树状码本
   - 跨域迁移

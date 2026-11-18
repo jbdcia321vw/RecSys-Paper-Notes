@@ -3,7 +3,7 @@ title: "[Paper Note] Multi-Modal Recommendation Unlearning for Legal, Licensing,
 description: "[AAAI 2025][去偏公平与工业架构] 首个多模态推荐遗忘框架 MMRecUn，用反向 BPR 衰减遗忘集、正向 BPR 保真保留集，Recall 最高提升 49.85% 且比从头重训快 1.3 倍。"
 tags:
   - AAAI 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 模型遗忘/隐私合规
   - 多模态推荐
   - 反向 BPR

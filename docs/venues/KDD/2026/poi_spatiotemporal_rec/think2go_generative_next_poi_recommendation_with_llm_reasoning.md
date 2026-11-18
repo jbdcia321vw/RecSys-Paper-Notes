@@ -4,7 +4,7 @@ description: "[KDD 2026][时空轨迹与POI推荐] 统一SFT与RL推理的生成
 tags:
   - KDD 2026
   - 时空轨迹与POI推荐
-  - 生成式端到端
+  - 生成式推荐
   - LLM推理
   - 优势校准
   - 语义ID

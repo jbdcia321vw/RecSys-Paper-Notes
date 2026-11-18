@@ -3,7 +3,7 @@ title: "[Paper Note] MCLMR: A Model-Agnostic Causal Learning Framework for Multi
 description: "[WWW 2026][去偏公平与工业架构] 用后门干预+MoE自适应聚合+偏差感知对比学习，作为即插即用框架增强多行为推荐，三数据集全库排序显著提升。"
 tags:
   - WWW 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 因果去偏
   - 多行为推荐

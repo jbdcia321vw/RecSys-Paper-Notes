@@ -3,10 +3,10 @@ title: "[Paper Note] GenRecEdit: Adapting Model Editing for Generative Recommend
 description: "[SIGIR 2026][冷启动与长尾推荐] 将 NLP 模型编辑迁移至生成式推荐，用逐位置定位-编辑+One-One 触发注入冷启动物品 SID 模式，仅需重训 9.5% 时间即大幅缓解冷启动坍缩。"
 tags:
   - SIGIR 2026
-  - 冷启动与长尾推荐
-  - 生成式端到端
+  - 冷启动
+  - 生成式推荐
   - 模型编辑
-  - 语义 ID
+  - 语义ID
 date: 2026-11-13
 venue: SIGIR
 year: 2026

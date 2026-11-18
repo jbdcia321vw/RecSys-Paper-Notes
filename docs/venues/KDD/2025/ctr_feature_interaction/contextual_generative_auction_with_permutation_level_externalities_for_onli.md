@@ -3,7 +3,7 @@ title: "[Paper Note] Contextual Generative Auction with Permutation-level Extern
 description: "[KDD 2025][CTR预估与特征交叉] 用自回归生成器直接生成广告位序列并建模排列级外部性，配合可微事后遗憾学习支付规则，淘宝线上 RPM +3.2%。"
 tags:
   - KDD 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 重排
   - 生成式拍卖
   - 排列级外部性

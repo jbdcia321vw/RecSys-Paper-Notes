@@ -3,7 +3,7 @@ title: "[Paper Note] Beyond Isolated Clients: Integrating Graph-Based Embeddings
 description: "[WWW 2026][自监督对比与交互去噪] 将二部交互图结构以三种模型无关策略注入事件序列对比 SSL，揭示图密度决定最优融合策略，AUC 最高提升 2.3%。"
 tags:
   - WWW 2026
-  - 自监督对比与交互去噪
+  - 自监督对比学习与交互去噪
   - 召回
   - 图结构注入
   - 对比学习

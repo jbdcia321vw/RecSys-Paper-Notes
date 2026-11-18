@@ -3,7 +3,7 @@ title: "[Paper Note] GenCI: Generative Modeling of User Interest Shift via Cohor
 description: "[WWW 2026][CTR预估与特征交叉] 用RQ-VAE语义ID+NTP生成兴趣群组，再以分层候选感知注意力注入精排，弥合召回-排序意图鸿沟，三数据集AUC全面SOTA。"
 tags:
   - WWW 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 生成式用户意图
   - 语义ID兴趣群组

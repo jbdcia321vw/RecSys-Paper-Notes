@@ -3,7 +3,7 @@ title: "[Paper Note] Latent Residual Reasoning for Ranking in Generative Recomme
 description: "[CIKM 2026][生成式推荐与离散语义ID] 在冻结的生成式排序骨干上叠加 LoRA 与残差推理头，用多步隐空间加性修正精化候选打分，公开集 GAUC 提升 2.7%–4.3%，线上 PV-CTR +0.75%。"
 tags:
   - CIKM 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 精排
   - 隐空间推理
   - 残差打分精化

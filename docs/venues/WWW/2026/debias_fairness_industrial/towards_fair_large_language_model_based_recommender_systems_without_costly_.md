@@ -3,8 +3,8 @@ title: "[Paper Note] Towards Fair Large Language Model-based Recommender Systems
 description: "[WWW 2026][去偏公平与工业架构] 将 LLM-RS 去偏重构为免重训机器遗忘任务：可学习掩码定位致偏样本 + 影响函数一步参数修正，公平性提升同时精度不降、耗时降 96%。"
 tags:
   - WWW 2026
-  - 去偏公平与工业架构
-  - 端到端生成式
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - Machine Unlearning
   - Influence Function
   - LLM4Rec Fairness

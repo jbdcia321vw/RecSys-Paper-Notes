@@ -3,7 +3,7 @@ title: "[Paper Note] User-Adaptive Meta-Learning for Cold-Start Medication Recom
 description: "[ICDE 2026][冷启动与长尾推荐] 提出两级元自适应（自自适应+同伴自适应）与不确定性过滤的 MetaDrug，在 MIMIC-III/AKI 冷启动患者上 PRAUC 提升约 2.5%-6.2%。"
 tags:
   - ICDE 2026
-  - 冷启动与长尾推荐
+  - 冷启动
   - 精排
   - 元学习
   - 不确定性量化

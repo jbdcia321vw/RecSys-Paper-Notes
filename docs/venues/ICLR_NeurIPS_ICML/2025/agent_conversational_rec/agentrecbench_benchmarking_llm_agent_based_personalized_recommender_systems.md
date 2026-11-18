@@ -4,7 +4,7 @@ description: "[NeurIPS 2025][对话推荐与智能体仿真] 首个 LLM 智能�
 tags:
   - NeurIPS
   - 对话推荐与智能体仿真
-  - 端到端生成式
+  - 生成式推荐
   - LLM Agent
   - 推荐系统基准
   - 文本环境仿真

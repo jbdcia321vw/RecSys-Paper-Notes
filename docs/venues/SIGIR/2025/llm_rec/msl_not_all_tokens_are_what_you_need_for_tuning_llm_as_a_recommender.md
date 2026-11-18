@@ -4,7 +4,7 @@ description: "[SIGIR 2025][大语言模型推荐] 提出掩码 Softmax 损失屏
 tags:
   - SIGIR 2025
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - 掩码Softmax损失
   - 自适应温度
 date: 2026-11-14

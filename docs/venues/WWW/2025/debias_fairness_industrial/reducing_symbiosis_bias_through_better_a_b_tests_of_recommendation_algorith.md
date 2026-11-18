@@ -3,7 +3,7 @@ title: "[Paper Note] Reducing Symbiosis Bias Through Better A/B Tests of Recomme
 description: "[WWW 2025][去偏公平与工业架构] 揭示推荐算法共享训练数据导致的共生偏差，理论建模并仿真对比三种实验设计，用国家级分流实验验证偏差存在。"
 tags:
   - WWW 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 在线实验/因果评估
   - 共生偏差
   - SUTVA违背

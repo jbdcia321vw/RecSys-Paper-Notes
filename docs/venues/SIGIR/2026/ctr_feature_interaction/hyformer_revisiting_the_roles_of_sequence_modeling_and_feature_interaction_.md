@@ -3,7 +3,7 @@ title: "[Paper Note] HyFormer: Revisiting the Roles of Sequence Modeling and Fea
 description: "[SIGIR 2026][CTR预估与特征交叉] 用 Global Tokens 交替执行 Query Decoding 与 Query Boosting，统一长序列建模与特征交叉，AUC 提升 0.17% 且 FLOPs 仅 3.9T。"
 tags:
   - SIGIR 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 长序列建模
   - 统一架构

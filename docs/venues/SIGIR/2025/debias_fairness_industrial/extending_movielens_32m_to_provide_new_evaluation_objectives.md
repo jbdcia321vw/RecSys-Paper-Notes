@@ -3,7 +3,7 @@ title: "[Paper Note] Extending MovieLens-32M to Provide New Evaluation Objective
 description: "[SIGIR 2025][去偏公平与工业评测] 用 TREC 池化法为 ML-32M 构建 51 用户偏好型 qrels，揭示传统 train/test 评测的流行度偏置并给出新评测目标。"
 tags:
   - SIGIR 2025
-  - 去偏公平与工业评测
+  - 去偏公平与可信推荐
   - 离线评测基准
   - 池化评测
   - 流行度偏置

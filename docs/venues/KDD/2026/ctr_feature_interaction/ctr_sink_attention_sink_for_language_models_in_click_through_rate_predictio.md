@@ -3,7 +3,7 @@ title: "[Paper Note] CTR-Sink: Attention Sink for Language Models in Click-Throu
 description: "[KDD 2026][CTR预估与特征交叉] 在文本化行为序列中插入携带时间距离的 [SINK] 锚点并配合两阶段训练与 sink 间注意力增强，缓解语义碎片化，AUC 稳定提升 0.2–0.6%。"
 tags:
   - KDD
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - Attention Sink
   - 语言模型CTR

@@ -4,7 +4,7 @@ description: "[KDD 2026][LLM4Rec] 提出 LLMScholarBench，联合审计 22 个 L
 tags:
   - KDD
   - 大语言模型推荐
-  - 端到端生成式
+  - 生成式推荐
   - 基准审计
   - 推理期干预
 date: 2026-11-13

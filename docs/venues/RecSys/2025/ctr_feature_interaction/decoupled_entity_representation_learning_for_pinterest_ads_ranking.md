@@ -3,7 +3,7 @@ title: "Decoupled Entity Representation Learning for Pinterest Ads Ranking"
 description: "[RecSys 2025][CTR预估与特征交叉] 提出解耦式上游-下游实体表征框架 DERM，三塔+对比自监督+滑动平均聚合，离线 AUC 提升 0.19%、线上 CTR +1.38%、CPA -1.61%"
 tags:
   - RecSys 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 实体表征解耦
   - 对比自监督

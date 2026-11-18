@@ -3,7 +3,7 @@ title: "[Paper Note] MARM: Unlocking the Future of Recommendation Systems throug
 description: "[CIKM 2025][去偏公平、可信隐私与工业架构] 以外部缓存替代多层自注意力，将序列兴趣建模复杂度从 O(n²d) 降至 O(n·d)，离线 GAUC +0.43%、线上人均时长 +2.079%。"
 tags:
   - CIKM 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 缓存缩放律
   - 目标注意力

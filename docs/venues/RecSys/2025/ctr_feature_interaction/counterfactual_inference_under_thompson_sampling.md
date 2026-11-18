@@ -3,10 +3,10 @@ title: "[Paper Note] Counterfactual Inference under Thompson Sampling"
 description: "[RecSys 2025][CTR预估与特征交叉] 推导 Thompson Sampling 下动作倾向性的精确可计算闭式解，使 IPS 类离线评估在 TS 策略下首次可行，OBP 仿真验证无偏收敛。"
 tags:
   - RecSys
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 召回
   - Thompson Sampling
-  - 逆倾向性加权 (IPS)
+  - 逆倾向加权
   - 反事实离线评估
 date: 2026-11-14
 venue: RecSys

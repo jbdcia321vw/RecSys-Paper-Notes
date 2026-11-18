@@ -4,7 +4,7 @@ description: "[KDD 2026][对话推荐与智能体仿真] HLTM 用 schema 对齐�
 tags:
   - KDD 2026
   - 对话推荐与智能体仿真
-  - 端到端生成式
+  - 生成式推荐
   - Agent Memory
   - Hierarchical Retrieval
   - RAG

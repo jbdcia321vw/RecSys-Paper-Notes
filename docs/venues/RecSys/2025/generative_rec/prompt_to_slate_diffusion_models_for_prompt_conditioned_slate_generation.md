@@ -3,8 +3,7 @@ title: "[Paper Note] Prompt-to-Slate: Diffusion Models for Prompt-Conditioned Sl
 description: "[RecSys 2025][生成式推荐与离散语义ID] 用潜空间扩散 Transformer 从纯文本 Prompt 直接生成整组 Slate，离线 NDCG 提升 17%、线上重复曝光降 13.4%。"
 tags:
   - RecSys 2025
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 扩散模型
   - Slate 生成
 date: 2026-11-14

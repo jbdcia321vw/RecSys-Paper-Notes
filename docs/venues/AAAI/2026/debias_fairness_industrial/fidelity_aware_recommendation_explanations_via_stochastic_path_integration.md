@@ -3,7 +3,7 @@ title: "[Paper Note] Fidelity-Aware Recommendation Explanations via Stochastic P
 description: "[AAAI 2026][去偏公平、可信隐私与工业架构] 将路径积分归因引入推荐解释，用随机基线采样适配稀疏二值交互，在三种模型三数据集上刷新反事实保真度基准。"
 tags:
   - AAAI 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 路径积分归因
   - 反事实保真度

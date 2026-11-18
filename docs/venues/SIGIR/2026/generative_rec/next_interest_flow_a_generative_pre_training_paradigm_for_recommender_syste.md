@@ -3,7 +3,7 @@ title: "[Paper Note] Next Interest Flow: A Generative Pre-training Paradigm for 
 description: "[SIGIR 2026][生成式推荐与离散语义ID] 将用户意图建模为隐流形上的连续演化轨迹，用切空间正交与测地平滑约束生成式预训练，并以双向对齐+TSP桥接判别式精排，工业级AUC+0.87pt。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 精排
   - 连续隐流形轨迹
   - 运动学约束

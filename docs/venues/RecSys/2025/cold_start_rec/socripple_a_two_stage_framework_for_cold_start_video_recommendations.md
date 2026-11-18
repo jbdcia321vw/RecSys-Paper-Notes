@@ -3,7 +3,7 @@ title: "[Paper Note] SocRipple: A Two-Stage Framework for Cold-Start Video Recom
 description: "[RecSys 2025][冷启动与长尾推荐] 社交种子+嵌入KNN涟漪扩散的两阶段冷启视频召回框架，Recall@200 提升至 12.8–13.2%，线上冷启曝光 +36% 且互动率持平。"
 tags:
   - RecSys
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 社交图种子扩散
   - KNN 邻居扩展

@@ -3,8 +3,7 @@ title: "[Paper Note] Uncertainty-aware Generative Recommendation"
 description: "[KDD 2026][生成式推荐与离散语义ID] 将生成置信度与样本难度转化为GRPO奖励与梯度权重，并显式对齐置信度token，稳定训练并支持风险感知推荐。"
 tags:
   - KDD 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 不确定性建模
   - GRPO偏好优化
   - 置信度对齐

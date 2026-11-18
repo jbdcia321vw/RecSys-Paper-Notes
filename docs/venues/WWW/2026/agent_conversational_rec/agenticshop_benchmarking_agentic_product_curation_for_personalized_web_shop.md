@@ -4,7 +4,7 @@ description: "[WWW 2026][对话推荐与智能体仿真] 首个开放网络个�
 tags:
   - WWW 2026
   - 对话推荐与智能体仿真
-  - 端到端生成式
+  - 生成式推荐
   - Agentic Benchmark
   - Checklist-driven Evaluation
   - Personalization

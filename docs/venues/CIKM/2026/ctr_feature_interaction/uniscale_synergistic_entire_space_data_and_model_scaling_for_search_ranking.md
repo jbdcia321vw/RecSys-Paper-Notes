@@ -3,7 +3,7 @@ title: "[Paper Note] UniScale: Synergistic Entire Space Data and Model Scaling f
 description: "[CIKM 2026][CTR预估与特征交叉] 提出数据-架构协同缩放框架：ES³全空间样本系统扩展训练信号，HHSFT异构分层Transformer吸收跨域分布，离线AUC+1.14%、线上GMV+2.04%。"
 tags:
   - CIKM
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 全空间样本建模
   - 异构特征交互

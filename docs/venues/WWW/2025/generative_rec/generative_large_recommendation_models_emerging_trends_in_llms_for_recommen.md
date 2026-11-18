@@ -3,11 +3,10 @@ title: "[Paper Note] Generative Large Recommendation Models: Emerging Trends in 
 description: "[WWW 2025][生成式推荐与离散语义ID] 系统梳理生成式大推荐模型范式：数据质量、缩放律、用户行为挖掘与训练推理效率四大议题及未来方向。"
 tags:
   - WWW 2025
-  - 生成式推荐与离散语义ID
-  - 端到端生成式
+  - 生成式推荐
   - 缩放律
   - 数据再生
-  - 长序列行为建模
+  - 长期行为序列建模
 date: 2026-11-14
 venue: WWW
 year: 2025

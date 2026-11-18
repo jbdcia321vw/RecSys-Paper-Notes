@@ -3,7 +3,7 @@ title: "[Paper Note] Spatial-Temporal Knowledge Distillation for Takeaway Recomm
 description: "[AAAI 2025][时空轨迹与POI本地生活推荐] 用 STKG 教师模型蒸馏时空知识给 ST-Transformer 学生模型，融合地理距离与功能区序列建模外卖动态偏好，三城 HR@10 提升约 1.5–2.8%。"
 tags:
   - AAAI 2025
-  - 时空轨迹与POI本地生活推荐
+  - 时空轨迹与POI推荐
   - 召回
   - 知识蒸馏
   - 时空知识图谱

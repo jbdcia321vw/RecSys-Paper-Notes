@@ -3,7 +3,7 @@ title: "[Paper Note] InterFormer: Effective Heterogeneous Interaction Learning f
 description: "[CIKM 2025][CTR预估与特征交叉] 提出交错式双向信息流的 InterFormer，用独立 Cross Arch 做选择性聚合，在三个公开集与 Meta 工业集上取得 SOTA，线上 NE 提升 0.15% 且 QPS 提升 24%。"
 tags:
   - CIKM 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 异构信息交互
   - 双向信息流

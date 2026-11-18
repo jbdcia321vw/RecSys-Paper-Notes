@@ -7,35 +7,74 @@ hide:
 
 4 篇 SIGIR-AP 2025 论文解读，覆盖 3 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
-🔥 **高频主题：** 去偏公平与工业架构 ×2
+🔥 **高频主题：** 去偏公平与可信推荐 ×2
+
+<div class="paper-tag-filter" data-paper-tag-filter>
+  <div class="paper-tag-filter__head">
+    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
+    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>
+    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
+      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
+      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
+    </span>
+    <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
+  </div>
+  <div class="paper-tag-filter__chips">
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="合成前缀数据增广" aria-pressed="false">合成前缀数据增广<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多智能体强化学习" aria-pressed="false">多智能体强化学习<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="奖励成本框架" aria-pressed="false">奖励成本框架<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="展示偏差" aria-pressed="false">展示偏差<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="效用指标" aria-pressed="false">效用指标<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="流行度去偏" aria-pressed="false">流行度去偏<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="用户模拟" aria-pressed="false">用户模拟<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="神经 LTR" aria-pressed="false">神经 LTR<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="线性自编码器" aria-pressed="false">线性自编码器<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="评测基准" aria-pressed="false">评测基准<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="负迁移缓解" aria-pressed="false">负迁移缓解<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="逆倾向加权" aria-pressed="false">逆倾向加权<span class="paper-tag-filter__count">1</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">1</span></button>
+  </div>
+  <div class="paper-tag-filter__status" data-tag-status></div>
+</div>
 
 <div class="conf-index">
+<section class="paper-section" data-paper-section>
 <hr />
 <h2 id="agent_conversational_rec">🗣️ 对话推荐与智能体仿真 (1)</h2>
-<dl>
-<dt><strong><a href="agent_conversational_rec/limitations_of_current_evaluation_practices_for_conversational_recommender_/">Limitations of Current Evaluation Practices for Conversational Recommender Systems and the Potential of User Simulation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Information Retrieval in the Asia Pacific">SIGIR-AP</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;SIGIR-AP 2025&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;评测基准&quot;,&quot;用户模拟&quot;,&quot;效用指标&quot;,&quot;奖励成本框架&quot;]"><strong><a href="agent_conversational_rec/limitations_of_current_evaluation_practices_for_conversational_recommender_/">Limitations of Current Evaluation Practices for Conversational Recommender Systems and the Potential of User Simulation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Information Retrieval in the Asia Pacific">SIGIR-AP</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>批判静态数据集与 Recall@N 评估失真，提出奖励/成本效用框架与 RDL 指标，并用 LLM 用户模拟器替代真人评估。</p>
 </dd>
 </dl>
+</section>
+<section class="paper-section" data-paper-section>
 <hr />
 <h2 id="cross_domain_multi_scenario">🌐 跨域与多场景推荐 (1)</h2>
-<dl>
-<dt><strong><a href="cross_domain_multi_scenario/marco_a_cooperative_knowledge_transfer_framework_for_personalized_cross_dom/">MARCO: A Cooperative Knowledge Transfer Framework for Personalized Cross-domain Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Information Retrieval in the Asia Pacific">SIGIR-AP</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;SIGIR-AP 2025&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;多智能体强化学习&quot;,&quot;负迁移缓解&quot;,&quot;冷启动&quot;]"><strong><a href="cross_domain_multi_scenario/marco_a_cooperative_knowledge_transfer_framework_for_personalized_cross_dom/">MARCO: A Cooperative Knowledge Transfer Framework for Personalized Cross-domain Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Information Retrieval in the Asia Pacific">SIGIR-AP</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>将多源跨域推荐建模为协作式多智能体强化学习，每源域一个 Agent 估计贡献并加熵正则，冷启动 MAE 最高降 32.6%。</p>
 </dd>
 </dl>
+</section>
+<section class="paper-section" data-paper-section>
 <hr />
 <h2 id="debias_fairness_industrial">🛡️ 去偏公平、可信隐私与工业架构 (2)</h2>
-<dl>
-<dt><strong><a href="debias_fairness_industrial/accurate_and_diverse_recommendations_via_propensity_weighted_linear_autoenc/">Accurate and Diverse Recommendations via Propensity-Weighted Linear Autoencoders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Information Retrieval in the Asia Pacific">SIGIR-AP</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;SIGIR-AP 2025&quot;,&quot;去偏公平与可信推荐&quot;,&quot;召回&quot;,&quot;逆倾向加权&quot;,&quot;线性自编码器&quot;,&quot;流行度去偏&quot;]"><strong><a href="debias_fairness_industrial/accurate_and_diverse_recommendations_via_propensity_weighted_linear_autoenc/">Accurate and Diverse Recommendations via Propensity-Weighted Linear Autoencoders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Information Retrieval in the Asia Pacific">SIGIR-AP</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用对数 Sigmoid 重定义 IPS 倾向分，避免幂律对热门物品过度惩罚，在 EASE 类线性自编码器上以闭式解实现覆盖率大幅提升且精度不降。</p>
 </dd>
-<dt><strong><a href="debias_fairness_industrial/synthetic_prefixes_to_mitigate_bias_in_real_time_neural_query_autocomplete/">Synthetic Prefixes to Mitigate Bias in Real-Time Neural Query Autocomplete</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Information Retrieval in the Asia Pacific">SIGIR-AP</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
+<dt data-paper-tags="[&quot;SIGIR-AP 2025&quot;,&quot;去偏公平与可信推荐&quot;,&quot;重排&quot;,&quot;展示偏差&quot;,&quot;合成前缀数据增广&quot;,&quot;神经 LTR&quot;]"><strong><a href="debias_fairness_industrial/synthetic_prefixes_to_mitigate_bias_in_real_time_neural_query_autocomplete/">Synthetic Prefixes to Mitigate Bias in Real-Time Neural Query Autocomplete</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Information Retrieval in the Asia Pacific">SIGIR-AP</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用无 QAC 会话的完整查询合成前缀训练数据，缓解展示偏差，并以 O(n) 成对近似实现列表级损失，线上 MRR 提升 0.92%–1.49%。</p>
 </dd>
 </dl>
+</section>
 </div>

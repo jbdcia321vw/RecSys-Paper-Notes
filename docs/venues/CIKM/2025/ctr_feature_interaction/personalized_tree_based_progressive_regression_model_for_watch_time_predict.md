@@ -3,7 +3,7 @@ title: "[Paper Note] Personalized Tree-Based Progressive Regression Model for Wa
 description: "[CIKM 2025][CTR预估与特征交叉] 将TPM固定满二叉树改为样本级可学习剪枝树，并用IPS校正条件建模选择偏差，离线MAE/XAUC全面领先，线上观看时长+0.428%。"
 tags:
   - CIKM 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 观看时长预测
   - 有序回归

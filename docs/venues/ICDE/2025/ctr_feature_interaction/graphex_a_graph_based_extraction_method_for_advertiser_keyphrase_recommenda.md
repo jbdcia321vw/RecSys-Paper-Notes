@@ -3,7 +3,7 @@ title: "[Paper Note] GraphEx: A Graph-based Extraction Method for Advertiser Key
 description: "[ICDE 2025][CTR预估与特征交叉] 用二分图从商品标题抽取关键词排列，绕开点击数据偏差，CPU 毫秒级推理，线上广告收入提升 8.3%。"
 tags:
   - ICDE 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 召回
   - 关键词推荐
   - 二分图抽取

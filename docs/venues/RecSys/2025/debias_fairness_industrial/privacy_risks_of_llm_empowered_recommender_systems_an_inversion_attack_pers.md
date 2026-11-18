@@ -3,8 +3,8 @@ title: "[Paper Note] Privacy Risks of LLM-Empowered Recommender Systems: An Inve
 description: "[RecSys 2025][去偏公平、可信隐私与工业架构] 首次系统研究 LLM 推荐系统的 logits 反演攻击，提出相似度引导精炼，可恢复 65% 交互物品与 87% 年龄性别。"
 tags:
   - RecSys 2025
-  - 去偏公平、可信隐私与工业架构
-  - 端到端生成式
+  - 去偏公平与可信推荐
+  - 生成式推荐
   - 模型反演攻击
   - LLM4Rec 隐私
 date: 2026-11-14

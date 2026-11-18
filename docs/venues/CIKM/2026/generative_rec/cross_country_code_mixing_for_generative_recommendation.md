@@ -4,7 +4,6 @@ description: "[CIKM 2026][生成式推荐] 借鉴多语言 code-switching，用�
 tags:
   - CIKM 2026
   - 生成式推荐
-  - 生成式端到端
   - 跨国推荐
   - 语义码本
   - 数据级知识迁移

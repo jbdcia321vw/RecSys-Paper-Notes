@@ -3,7 +3,7 @@ title: "[Paper Note] Bridging Semantic Understanding and Popularity Bias with LL
 description: "[WWW 2026][去偏公平与工业架构] 将流行度偏差拆解为物品侧与用户侧语义，用结构化指令提示引导 RecLLM 双侧去偏，在 LtC/MRMC 与 MRR/F1 上同时超越多样性提示基线。"
 tags:
   - WWW 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 流行度偏差
   - 提示工程

@@ -3,7 +3,7 @@ title: "[Paper Note] Towards Automated Model Design on Recommender Systems"
 description: "[TORS 2025][CTR预估与特征交叉] 用权重共享超网 NAS 在稠密连接+异构算子+维度+量化空间上自动搜索 CTR 模型，Criteo/KDD 降 0.001~0.003 LogLoss，FLOPs 降 8.5×。"
 tags:
   - TORS
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 权重共享NAS
   - 超网路径采样

@@ -3,7 +3,7 @@ title: "[Paper Note] RankMixer: Scaling Up Ranking Models in Industrial Recommen
 description: "[CIKM 2025][CTR预估与特征交叉] 用无参多头Token Mixing替代自注意力、Per-token FFN隔离特征子空间，配合ReLU路由稀疏MoE，在抖音万亿级数据上将MFU从4.5%提至45%，参数扩100倍而延迟不增。"
 tags:
   - CIKM 2025
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 特征交叉
   - 稀疏MoE

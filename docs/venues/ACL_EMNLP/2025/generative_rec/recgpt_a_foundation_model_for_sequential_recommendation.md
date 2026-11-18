@@ -3,8 +3,7 @@ title: "[Paper Note] RecGPT: A Foundation Model for Sequential Recommendation"
 description: "[ACL/EMNLP 2025][生成式推荐与离散语义ID] 纯文本驱动+FSQ统一分词+混合双向因果注意力的序列推荐基础模型，零样本跨域显著超越10%数据微调的ID基线。"
 tags:
   - ACL/EMNLP 2025
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 有限标量量化(FSQ)
   - 零样本跨域推荐
 date: 2026-11-14

@@ -3,7 +3,7 @@ title: "[Paper Note] AEFS: Adaptive Early Feature Selection for Deep Recommender
 description: "[TKDE 2025][CTR预估与特征交叉] 用 mini-AdaFS 辅助模型在嵌入层前做实例级自适应特征选择，配合双对齐损失，精度持平 AdaFS 且激活嵌入参数降 37.5%。"
 tags:
   - TKDE
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 自适应特征选择
   - 嵌入参数效率

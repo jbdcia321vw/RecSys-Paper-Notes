@@ -3,7 +3,7 @@ title: "[Paper Note] GiGL: Large-Scale Graph Neural Networks at Snapchat"
 description: "[KDD 2025][去偏公平、可信隐私与工业架构] Snapchat 开源十亿级图学习库 GiGL，以表格化子图采样+PyG 解耦实现 900M 节点/16.8B 边图 12 小时内端到端训练推理，支撑 35+ 线上发布。"
 tags:
   - KDD 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 分布式图学习
   - 子图采样表格化

@@ -3,7 +3,7 @@ title: "[Paper Note] LO-FAR: A Cost-Aware Local Filter for Sparse Feature Rankin
 description: "[RecSys 2026][CTR预估与特征交叉] 用CPU级逐特征独立局部估计器替代GPU重训式置换/门控重要性，在475个稀疏ID-list特征上以约2 CPU小时完成排序并保持下游NE增益。"
 tags:
   - RecSys
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 稀疏特征选择
   - 特征重要性排序

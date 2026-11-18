@@ -3,7 +3,7 @@ title: "[Paper Note] Improving Recommendation Fairness via Graph Structure and R
 description: "[CIKM 2025][去偏公平与工业架构] 用双先验假设定位敏感边与敏感特征，做图剪枝+特征掩码双增广，HSIC去偏+对比学习保效用，ML-1M 上 DP@10 降 3.4%、EO@10 降 7.6%。"
 tags:
   - CIKM 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 图数据增广
   - HSIC 去偏

@@ -3,7 +3,7 @@ title: "[Paper Note] Datasets for Navigating Sensitive Topics in Recommendation 
 description: "[WWW 2025][去偏公平与工业架构] 构建 ML-DDD 与 AO3 两个带敏感内容警告标签的推荐数据集，提出 Warning Amplification 指标，发现个性化 CF 反而去放大敏感内容。"
 tags:
   - WWW 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 评测基准
   - 敏感内容标签
   - 算法放大

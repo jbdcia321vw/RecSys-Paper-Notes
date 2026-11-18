@@ -3,9 +3,8 @@ title: "[Paper Note] Reasoning over Semantic IDs Enhances Generative Recommendat
 description: "[KDD 2026][生成式推荐与离散语义ID] 通过教师模型合成富化语料强化 SID-语言对齐，再用 GRPO 结果驱动强化学习激发 SID 推理，三数据集 Full-Ranking 全面超越 SOTA。"
 tags:
   - KDD 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
-  - Semantic ID
+  - 生成式推荐
+  - 语义ID
   - GRPO 强化学习
   - SID-语言对齐
 date: 2026-11-12

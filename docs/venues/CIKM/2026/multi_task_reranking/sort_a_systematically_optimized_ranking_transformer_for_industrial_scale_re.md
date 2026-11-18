@@ -3,7 +3,7 @@ title: "[Paper Note] SORT: A Systematically Optimized Ranking Transformer for In
 description: "[CIKM 2026][多任务学习与列表级重排] 以请求为中心组织样本、局部注意力+查询剪枝、生成式预训练与稀疏MoE重构工业精排Transformer，线上GMV+8.65%且延迟降62%。"
 tags:
   - CIKM
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - Ranking Transformer
   - 稀疏MoE

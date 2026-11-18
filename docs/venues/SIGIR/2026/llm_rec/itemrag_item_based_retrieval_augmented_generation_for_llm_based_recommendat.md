@@ -5,7 +5,7 @@ tags:
   - SIGIR 2026
   - 大语言模型推荐
   - 重排
-  - 检索增强生成
+  - RAG
   - 共购关系
 date: 2026-11-13
 venue: SIGIR

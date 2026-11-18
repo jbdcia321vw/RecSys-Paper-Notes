@@ -3,7 +3,7 @@ title: "[Paper Note] User Invariant Preference Learning for Multi-Behavior Recom
 description: "[TOIS 2025][多任务学习与列表级重排] 用 IRM 范式 + VAE 从多行为交互中抽取用户不变偏好以抑制辅助行为噪声，Leave-One-Out + Full-Ranking 下 HR@10 最高提升 3.98%。"
 tags:
   - TOIS
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 召回
   - 多行为推荐
   - 不变风险最小化

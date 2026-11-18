@@ -3,7 +3,7 @@ title: "[Paper Note] Exploring the Escalation of Source Bias in User, Data, and 
 description: "[SIGIR 2025][去偏公平与工业架构] 揭示 AIGC 在用户-数据-系统反馈回路中被逐步放大的来源偏见，并提出基于 L1 损失的黑盒去偏方法维持内容生态平衡。"
 tags:
   - SIGIR 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 来源偏见 (Source Bias)
   - 反馈回路 (Feedback Loop)

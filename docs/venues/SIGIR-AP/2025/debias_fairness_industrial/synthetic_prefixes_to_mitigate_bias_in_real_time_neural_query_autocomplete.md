@@ -3,7 +3,7 @@ title: "[Paper Note] Synthetic Prefixes to Mitigate Bias in Real-Time Neural Que
 description: "[SIGIR-AP 2025][去偏公平与工业架构] 用无 QAC 会话的完整查询合成前缀训练数据，缓解展示偏差，并以 O(n) 成对近似实现列表级损失，线上 MRR 提升 0.92%–1.49%。"
 tags:
   - SIGIR-AP 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 展示偏差
   - 合成前缀数据增广

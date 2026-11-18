@@ -3,7 +3,7 @@ title: "[Paper Note] Generative Bid Shading in Real-Time Bidding Advertising"
 description: "[SIGIR 2026][CTR预估与特征交叉] 用自回归残差生成+CHNet奖励模型+GRPO偏好对齐替代两阶段出价调价，离线SR达41.74%、线上ROI+3.4%且推理耗时降37.6%"
 tags:
   - SIGIR 2026
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排/出价决策
   - 自回归生成
   - GRPO偏好对齐

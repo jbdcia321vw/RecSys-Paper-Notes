@@ -3,8 +3,7 @@ title: "[Paper Note] Flow Matching based Sequential Recommender Model"
 description: "[IJCAI 2025][生成式推荐与离散语义ID] 用直线流轨迹+无噪预测目标+ODE确定性采样替代扩散式序列推荐，四数据集全库排序平均提升6.53%"
 tags:
   - IJCAI 2025
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - Flow Matching
   - 确定性ODE采样
   - 序列推荐

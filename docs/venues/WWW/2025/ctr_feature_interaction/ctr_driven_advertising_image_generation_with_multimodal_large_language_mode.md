@@ -3,8 +3,8 @@ title: "[Paper Note] CTR-Driven Advertising Image Generation with Multimodal Lar
 description: "[WWW 2025][CTR预估与特征交叉] 用 MLLM 双分支奖励模型把 CTR 相对比较转化为偏好信号，结合产品中心偏好优化 PCPO 驱动广告图生成，线上 CTR 提升 2%。"
 tags:
   - WWW 2025
-  - CTR预估与特征交叉
-  - 生成式端到端
+  - CTR/CVR 预估与特征交叉
+  - 生成式推荐
   - 多模态奖励模型
   - 偏好优化
   - 广告图像生成

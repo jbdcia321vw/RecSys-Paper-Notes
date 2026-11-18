@@ -3,7 +3,7 @@ title: "[Paper Note] Quantifying User Coherence: A Unified Framework for Analyzi
 description: "[WWW 2026][去偏公平与工业架构] 提出 Mean Surprise 与 Mean Conditional Surprise 两个信息论度量刻画用户画像一致性，揭示复杂模型增益集中于高一致用户，并支撑分层评测与用户分群建模。"
 tags:
   - WWW 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 评测与系统设计
   - 用户一致性度量
   - 分层评测

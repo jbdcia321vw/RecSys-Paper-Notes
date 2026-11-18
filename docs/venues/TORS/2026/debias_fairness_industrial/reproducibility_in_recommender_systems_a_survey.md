@@ -3,7 +3,7 @@ title: "[Paper Note] Reproducibility in Recommender Systems: A Survey"
 description: "[TORS 2026][去偏公平、可信隐私与工业架构] 对 RecSys 可复现性赛道 2020–2025 年 51 篇论文的结构化元分析，揭示其方法论高度同质化、以“扩展”替代“严格复现”的实践落差。"
 tags:
   - TORS
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 评测基准与元研究
   - 可复现性
   - 实验方法论

@@ -3,7 +3,7 @@ title: "[Paper Note] Evaluation Measures of Individual Item Fairness for Recomme
 description: "[TORS 2025][去偏公平与工业架构] 系统批判 8 种单品曝光公平度量，修正 5 类理论缺陷并给出归一化方案与选用指南。"
 tags:
   - TORS
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 评测与度量
   - 单品公平
   - 曝光公平

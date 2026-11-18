@@ -4,8 +4,8 @@ description: "[AAAI 2026][跨域与多场景推荐] 用领域自适应语义ID�
 tags:
   - AAAI 2026
   - 跨域与多场景推荐
-  - 生成式端到端
-  - 语义ID分词
+  - 生成式推荐
+  - 语义ID
   - 动态路由
 date: 2026-11-13
 venue: AAAI

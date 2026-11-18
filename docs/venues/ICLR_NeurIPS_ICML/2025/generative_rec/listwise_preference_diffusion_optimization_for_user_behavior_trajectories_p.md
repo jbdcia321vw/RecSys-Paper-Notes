@@ -3,8 +3,7 @@ title: "[Paper Note] Listwise Preference Diffusion Optimization for User Behavio
 description: "[NeurIPS 2025][生成式推荐与离散语义ID] 将 Plackett-Luce 列表级排序信号注入扩散 ELBO，实现多步用户行为轨迹的连贯生成，并提出 SeqMatch 轨迹级指标，Full-Ranking 下 SeqMatch@50 最高提升 36.8%。"
 tags:
   - NeurIPS
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 扩散模型
   - 列表级排序
   - 轨迹预测

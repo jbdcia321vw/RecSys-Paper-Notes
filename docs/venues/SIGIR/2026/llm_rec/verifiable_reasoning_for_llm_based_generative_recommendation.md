@@ -4,7 +4,7 @@ description: "[SIGIR 2026][大语言模型推荐] 提出 reason-verify-recommend
 tags:
   - SIGIR 2026
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - 可验证推理
   - 隐空间推理
 date: 2026-11-13

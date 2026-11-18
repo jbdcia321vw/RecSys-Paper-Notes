@@ -4,7 +4,7 @@ description: "[EMNLP 2026 Findings][LLM4Rec] 用双轨前缀（用户态+查询�
 tags:
   - EMNLP 2026 Findings
   - 大语言模型推荐
-  - 端到端生成式
+  - 生成式推荐
   - 前缀微调
   - 时序注意力
 date: 2026-11-13

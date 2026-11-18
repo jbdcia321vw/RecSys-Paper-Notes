@@ -5,7 +5,7 @@ tags:
   - WWW 2025
   - 多模态推荐
   - 精排
-  - Mixture of Experts
+  - MoE
   - 显式时间建模
   - 多任务辅助监督
 date: 2026-11-14

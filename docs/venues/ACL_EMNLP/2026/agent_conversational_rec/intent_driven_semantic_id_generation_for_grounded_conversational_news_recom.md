@@ -4,8 +4,8 @@ description: "[ACL 2026 Industry][对话推荐与智能体] 用 LLM 直接生成
 tags:
   - ACL 2026
   - 对话推荐与智能体仿真
-  - 生成式端到端
-  - Semantic ID
+  - 生成式推荐
+  - 语义ID
   - Generate-then-Match
   - 冷启动推理
 date: 2026-11-13

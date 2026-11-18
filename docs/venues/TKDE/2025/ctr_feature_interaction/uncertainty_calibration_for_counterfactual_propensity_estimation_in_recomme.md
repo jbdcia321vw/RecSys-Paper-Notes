@@ -3,7 +3,7 @@ title: "Uncertainty Calibration for Counterfactual Propensity Estimation in Reco
 description: "[TKDE 2025][CTR预估与特征交叉] 揭示倾向分估计严重失准问题，提出以ECE为质量度量的模型无关校准框架，理论证明校准倾向分降低IPS偏差，在Coat/Yahoo/KuaiRand上显著提升CVR去偏效果。"
 tags:
   - TKDE
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 倾向分校准
   - 逆倾向加权去偏

@@ -4,7 +4,7 @@ description: "[TOIS 2025][对话推荐与智能体仿真] 提出 LLM Agent 用�
 tags:
   - TOIS
   - 对话推荐与智能体仿真
-  - 端到端生成式
+  - 生成式推荐
   - LLM Agent
   - 用户行为模拟
   - 信息茧房

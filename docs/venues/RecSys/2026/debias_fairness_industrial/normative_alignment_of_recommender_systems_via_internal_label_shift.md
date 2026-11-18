@@ -3,7 +3,7 @@ title: "[Paper Note] Normative Alignment of Recommender Systems via Internal Lab
 description: "[RecSys 2026][去偏公平与工业架构] 将编辑/公平目标建模为属性层内部标签偏移，用免重训的闭式重加权实现系统级规范对齐，KL 大幅下降且 AUC 基本无损。"
 tags:
   - RecSys
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 标签偏移
   - 规范对齐

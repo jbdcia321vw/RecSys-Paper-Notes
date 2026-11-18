@@ -4,7 +4,7 @@ description: "[WWW 2025][LLM4Rec] 系统评测 38 个 LLM 在 Reddit 叙事式�
 tags:
   - WWW 2025
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - 叙事驱动推荐
   - 提示策略评测
 date: 2026-11-14

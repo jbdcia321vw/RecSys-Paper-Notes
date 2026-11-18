@@ -3,7 +3,7 @@ title: "[Paper Note] Non-parametric Graph Convolution for Re-ranking in Recommen
 description: "[RecSys 2025][多任务学习与列表级重排] 将图卷积从训练期搬到测试期，用相似用户/物品构造增强对并加权聚合打分，重排平均提升 8.1% 而额外开销仅 0.5%。"
 tags:
   - RecSys 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 测试时增强
   - 非参数图卷积

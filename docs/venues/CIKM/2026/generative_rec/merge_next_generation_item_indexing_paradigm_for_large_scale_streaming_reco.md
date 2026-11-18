@@ -3,7 +3,7 @@ title: "[Paper Note] MERGE: Next-Generation Item Indexing Paradigm for Large-Sca
 description: "[CIKM 2026][生成式推荐与离散语义 ID] 以并查集动态生成聚类替代 VQ 盲分配，配合占用监控与由细到粗合并构建分层码本，工业 A/B 显著提升曝光多样性与互动。"
 tags:
   - CIKM
-  - 生成式推荐与离散语义 ID
+  - 生成式推荐
   - 召回
   - 物品索引
   - 向量量化

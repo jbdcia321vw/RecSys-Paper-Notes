@@ -3,7 +3,7 @@ title: "[Paper Note] Addressing Correlated Latent Exogenous Variables in Debiase
 description: "[KDD 2025][去偏公平与工业架构] 放松外生变量独立假设，用双变量正态潜变量建模选择与偏好相关性，蒙特卡洛似然估计实现去偏，Coat/Yahoo!R3/KuaiRec 全指标领先。"
 tags:
   - KDD 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 选择偏差
   - 潜在外生变量

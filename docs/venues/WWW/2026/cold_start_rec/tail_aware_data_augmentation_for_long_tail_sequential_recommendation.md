@@ -3,7 +3,7 @@ title: "[Paper Note] Tail-Aware Data Augmentation for Long-Tail Sequential Recom
 description: "[WWW 2026][冷启动与长尾推荐] 用线性物品相似度构建候选集，设计 T-Substitute/T-Insert 两个尾部感知算子并在表征层 Mixup，实现头部与尾部双赢的长尾序列推荐数据增强。"
 tags:
   - WWW 2026
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 数据增强
   - 长尾序列推荐

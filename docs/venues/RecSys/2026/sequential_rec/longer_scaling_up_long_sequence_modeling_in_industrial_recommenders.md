@@ -7,7 +7,7 @@ tags:
   - 精排
   - 超长序列建模
   - Token Merge
-  - KV Cache
+  - KV缓存
 date: 2026-11-13
 venue: RecSys
 year: 2026

@@ -3,7 +3,7 @@ title: "[Paper Note] Building a User Foundation Model for the Open Web"
 description: "[RecSys 2026][CTR预估与特征交叉] 在身份碎片化的开放网络 RTB 场景下，用 MLM+时序切分对比预训练 Transformer 用户序列编码器，并以 LLM-in-the-loop NAS 优化训练管线，线上 A/B 取得 +2.13% CTR、-1.13% eCPC。"
 tags:
   - RecSys
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 用户基础模型
   - 自监督序列预训练

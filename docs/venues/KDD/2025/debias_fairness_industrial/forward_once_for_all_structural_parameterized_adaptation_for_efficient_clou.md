@@ -3,7 +3,7 @@ title: "[Paper Note] Forward Once for All: Structural Parameterized Adaptation f
 description: "[KDD 2025][去偏公平、可信隐私与工业架构] 用结构控制器+结构引导映射器为每台设备动态组装子网络，一次前向即完成端侧适配，兼顾隐私、带宽与算力。"
 tags:
   - KDD 2025
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 重排
   - 端侧推荐
   - 动态子网络

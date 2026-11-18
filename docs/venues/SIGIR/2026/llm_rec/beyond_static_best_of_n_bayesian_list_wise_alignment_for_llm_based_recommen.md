@@ -4,7 +4,7 @@ description: "[SIGIR 2026][LLM4Rec] 用贝叶斯后验融合静态先验与在�
 tags:
   - SIGIR 2026
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - Best-of-N Alignment
   - 贝叶斯动态估计
   - GRPO

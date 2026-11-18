@@ -3,10 +3,10 @@ title: "[Paper Note] Robustness Analysis of Pareto-based Joint Evaluation of Fai
 description: "[TORS 2026][去偏公平与工业架构] 提出 DPFR：以测试集真实标签构建相关性-公平性帕累托前沿，用模型得分到前沿参考点的距离联合评估推荐系统，比现有联合度量更稳健。"
 tags:
   - TORS
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 评测基准
   - 帕累托前沿
-  - 公平性-相关性联合评估
+  - 公平性-相关性联合评测
   - 推荐系统评测
 date: 2026-11-13
 venue: TORS

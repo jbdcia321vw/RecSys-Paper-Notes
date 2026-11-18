@@ -3,7 +3,7 @@ title: "[Paper Note] Training seeds and model-selection stability in recommender
 description: "[RecSys 2026][去偏公平与工业架构] 固定数据划分与超参、仅变训练种子，从用户级指标敏感性、验证选模稳定性、验证-测试一致性与推荐列表一致性四层量化种子噪声，主张种子应纳入评估协议。"
 tags:
   - RecSys
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 评测基准
   - 训练种子方差
   - 模型选择稳定性

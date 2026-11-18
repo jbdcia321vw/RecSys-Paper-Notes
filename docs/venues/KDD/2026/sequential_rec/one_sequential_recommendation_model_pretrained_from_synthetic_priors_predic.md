@@ -5,7 +5,7 @@ tags:
   - KDD 2026
   - 序列与会话推荐
   - 召回
-  - Prior-data Fitted Network
+  - Prior-Fitted Network
   - 免更新推理
   - 合成先验
 date: 2026-11-12

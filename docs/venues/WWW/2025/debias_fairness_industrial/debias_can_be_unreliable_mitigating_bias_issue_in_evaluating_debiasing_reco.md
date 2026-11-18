@@ -3,7 +3,7 @@ title: "[Paper Note] Debias Can be Unreliable: Mitigating Bias Issue in Evaluati
 description: "[WWW 2025][去偏公平与工业架构] 揭示随机曝光数据集上传统 Recall 评估与全曝光真值不一致，提出 URE 无偏估计方案并重估去偏方法。"
 tags:
   - WWW 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 评测协议
   - 无偏估计
   - 随机曝光数据集

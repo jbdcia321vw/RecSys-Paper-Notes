@@ -3,7 +3,7 @@ title: "[Paper Note] Spattack: Subgroup Poisoning Attacks on Federated Recommend
 description: "[WWW 2026][去偏公平、可信隐私与工业架构] 首个联邦推荐子群投毒攻击：近似-提升范式+对比排斥与自适应加权，0.1%恶意客户端即达100% ER@5且几乎不伤非目标群。"
 tags:
   - WWW 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 联邦训练阶段（客户端梯度投毒）
   - 子群投毒攻击
   - 联邦推荐安全

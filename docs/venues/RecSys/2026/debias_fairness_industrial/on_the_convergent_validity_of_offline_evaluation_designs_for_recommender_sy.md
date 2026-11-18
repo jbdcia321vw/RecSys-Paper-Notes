@@ -3,7 +3,7 @@ title: "On the Convergent Validity of Offline Evaluation Designs for Recommender
 description: "[RecSys 2026][去偏公平与工业评测] 以稠密真值反馈为参照，用 Kendall's τ 检验稀疏离线评测设计的收敛效度，发现无普适最优设计且 KuaiRec 上排序近乎反转。"
 tags:
   - RecSys
-  - 去偏公平与工业评测
+  - 去偏公平与可信推荐
   - 评测基准
   - 收敛效度
   - 候选集采样

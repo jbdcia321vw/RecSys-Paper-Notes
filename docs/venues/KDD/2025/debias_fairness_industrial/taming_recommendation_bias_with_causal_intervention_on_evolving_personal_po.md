@@ -3,7 +3,7 @@ title: "[Paper Note] Taming Recommendation Bias with Causal Intervention on Evol
 description: "[KDD 2025][去偏公平与工业架构] 提出演化个人流行度度量与因果去混杂训练，并在推理期用移动平均趋势外推做干预，兼顾用户-物品演化一致性，Full-Ranking 下 Recall@20 最高提升 20.4%。"
 tags:
   - KDD 2025
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 流行度去偏
   - 因果干预

@@ -3,8 +3,7 @@ title: "[Paper Note] Dual-Diffusional Generative Fashion Recommendation"
 description: "[SIGIR 2026][生成式推荐与离散语义ID] 双分支扩散 Transformer 联合生成时尚单品图像与属性级文本，以结构化偏好加权采样建模用户，PFITB/GOR 双任务个性化指标显著领先且训练提速约 7 倍。"
 tags:
   - SIGIR 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 双扩散 Transformer
   - 多模态可解释生成
 date: 2026-11-13

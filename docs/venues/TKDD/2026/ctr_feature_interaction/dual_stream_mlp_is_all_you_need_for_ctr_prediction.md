@@ -3,7 +3,7 @@ title: "[Paper Note] Dual-Stream MLP is All You Need for CTR Prediction"
 description: "[TKDD 2026][CTR预估与特征交叉] 用知识蒸馏把复杂显式交叉教师压进纯MLP双流学生，配合隐状态BN与预测对齐，三基准AUC全面SOTA且推理低延迟。"
 tags:
   - TKDD
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 知识蒸馏
   - 双流MLP对齐

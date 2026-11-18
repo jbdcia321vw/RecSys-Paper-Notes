@@ -3,10 +3,9 @@ title: "[Paper Note] Direct Routing Gradient (DRGrad): A Personalized Informatio
 description: "[AAAI 2025][多任务学习与列表级重排] 用梯度余弦相似度做路由+Split-MMoE+PPNet个性化门控，在150亿样本工业数据上Click AUC提升0.0027且不增推理延迟。"
 tags:
   - AAAI 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - 梯度手术
-  - 多任务学习
   - 个性化门控
 date: 2026-11-14
 venue: AAAI

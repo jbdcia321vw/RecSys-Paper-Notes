@@ -3,7 +3,7 @@ title: "[Paper Note] Reference Recommendation based Membership Inference Attack 
 description: "[AAAI 2026][去偏公平、可信隐私与工业架构] 针对混合推荐系统提出参考推荐相对成员度量 MIA，仅需两次黑盒查询，ASR 达 0.93 且比影子训练快 93 倍。"
 tags:
   - AAAI 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回/服务端黑盒查询
   - 成员推理攻击
   - 混合推荐系统隐私

@@ -3,7 +3,7 @@ title: "[Paper Note] Combinatorial Optimization Perspective based Framework for 
 description: "[KDD 2025][多任务学习与列表级重排] 将多行为融合视为组合优化问题施加三阶段约束，并用分布拟合多专家网络抑制负迁移，三数据集 HR@10 最高提升 49.91%。"
 tags:
   - KDD 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - 多行为推荐
   - 组合优化约束

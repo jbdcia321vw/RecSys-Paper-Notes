@@ -4,7 +4,7 @@ description: "[ICML 2026][LLM4Rec] 用分层合成数据课程（Item-Text/CF/UI
 tags:
   - ICML
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - 合成数据课程
   - 缩放定律
 date: 2026-11-13

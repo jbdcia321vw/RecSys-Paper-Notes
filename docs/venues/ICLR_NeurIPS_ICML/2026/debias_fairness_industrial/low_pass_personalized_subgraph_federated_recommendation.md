@@ -3,7 +3,7 @@ title: "[Paper Note] Low-pass Personalized Subgraph Federated Recommendation"
 description: "[ICLR 2026][去偏公平与工业架构] 用低通谱滤波提取跨子图稳定的结构信号做个性化联邦聚合，并以局部流行度偏差感知 margin 抑制长尾偏置，五数据集 NDCG@20 最高提升 24.2%。"
 tags:
   - ICLR 2026
-  - 去偏公平与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 联邦推荐
   - 低通谱滤波

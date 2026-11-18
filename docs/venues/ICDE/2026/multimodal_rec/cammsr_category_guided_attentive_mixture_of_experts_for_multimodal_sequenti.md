@@ -5,7 +5,7 @@ tags:
   - ICDE 2026
   - 多模态推荐
   - 召回
-  - 混合专家 (MoE)
+  - MoE
   - 模态交换对比学习
 date: 2026-11-13
 venue: ICDE

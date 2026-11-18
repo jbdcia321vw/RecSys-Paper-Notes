@@ -4,7 +4,7 @@ description: "[RecSys 2026][对话推荐与智能体仿真] 用 LLM 从浏览轨
 tags:
   - RecSys
   - 对话推荐与智能体仿真
-  - 端到端生成式
+  - 生成式推荐
   - Inverse Theory of Mind
   - Persona Synthesis
   - LLM 反事实推理

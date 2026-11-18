@@ -3,7 +3,7 @@ title: "[Paper Note] Predicting Custom-Feed Returns for New Bluesky Posts: A Pro
 description: "[RecSys 2026][冷启动与长尾推荐] 将新帖作为查询、信息流作为候选的冷启动路由任务，构建 collect-first/label-later 基准，LambdaRank 达 cR@10 0.7361。"
 tags:
   - RecSys
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 冷启动路由
   - LambdaRank

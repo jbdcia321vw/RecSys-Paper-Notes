@@ -3,7 +3,7 @@ title: "[Paper Note] All-in-One: Heterogeneous Interaction Modeling for Cold-Sta
 description: "[ICDE 2025][冷启动与长尾推荐] HIRE 用纯 MHSA 在采样的预测上下文上端到端学习用户/物品/属性三层异构交互，三种冷启动场景下 Precision/NDCG/MAP 平均超 12 个基线 0.21/0.29/0.22。"
 tags:
   - ICDE 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 精排
   - 异构交互建模
   - 多头自注意力

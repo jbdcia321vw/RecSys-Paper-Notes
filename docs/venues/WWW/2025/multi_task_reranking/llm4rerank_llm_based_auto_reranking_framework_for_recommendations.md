@@ -3,7 +3,7 @@ title: "[Paper Note] LLM4Rerank: LLM-based Auto-Reranking Framework for Recommen
 description: "[WWW 2025][多任务学习与列表级重排] 将准确性/多样性/公平性抽象为全连接图节点，用零样本 LLM 以 CoT 多跳自动重排，三数据集上多准则均衡超越 SOTA。"
 tags:
   - WWW 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - LLM 零样本重排
   - Chain-of-Thought 节点图

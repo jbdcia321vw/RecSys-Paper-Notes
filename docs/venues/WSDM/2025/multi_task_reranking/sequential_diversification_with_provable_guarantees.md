@@ -3,7 +3,7 @@ title: "Sequential Diversification with Provable Guarantees"
 description: "[WSDM 2025][多任务学习与列表级重排] 将多样性从集合度量升级为序列期望度量，证明 MaxSSD 的 NP 难性并给出 BτI/SBτI 等常数近似算法，在 7 个数据集上稳定超越 EXPLORE/MMR/DPP。"
 tags:
   - WSDM 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 序列多样性
   - 近似算法

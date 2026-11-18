@@ -3,8 +3,7 @@ title: "[Paper Note] GRAM: Generative Recommendation via Semantic-aware Multi-gr
 description: "[ACL 2025][生成式推荐与离散语义ID] 将层次/协同语义翻译为 LLM 词表内文本 ID，并用多粒度提示+后期融合保留长文本信息，Full-Ranking 下 R@5 提升 11.5–16.0%。"
 tags:
   - ACL 2025
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 语义到词法翻译
   - 多粒度后期融合
 date: 2026-11-14

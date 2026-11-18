@@ -3,7 +3,7 @@ title: "[Paper Note] Breaking the Top-$K$Barrier: Advancing Top-$K$ Ranking Metr
 description: "[KDD 2025][多任务学习与列表级重排] 用量化分位数把 Top-K 截断转成阈值比较，推导 NDCG@K 的紧致平滑上界 SL@K，四数据集三骨干平均提升 6.03%。"
 tags:
   - KDD 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 精排
   - NDCG@K 代理损失
   - 分位数估计

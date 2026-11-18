@@ -3,7 +3,7 @@ title: "[Paper Note] Beyond Item Dissimilarities: Diversifying by Intent in Reco
 description: "[KDD 2025][多任务学习与列表级重排] 用实时意图概率驱动整页贪心重排，以贝叶斯后验更新替代物品相似度，YouTube 线上 DAU +0.05%、用户享受度 +0.09%。"
 tags:
   - KDD 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 重排
   - 意图多样化
   - 贝叶斯后验更新

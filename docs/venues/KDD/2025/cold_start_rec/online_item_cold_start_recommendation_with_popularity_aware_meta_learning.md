@@ -3,11 +3,11 @@ title: "[Paper Note] Online Item Cold-Start Recommendation with Popularity-Aware
 description: "[KDD 2025][冷启动与长尾推荐] 按流行度固定切分元学习任务并配冷启动增强器，流式在线场景下冷启动召回相对 SOTA 提升 11%–74%。"
 tags:
   - KDD 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 元学习
   - 流行度感知任务切分
-  - 流式在线训练
+  - 在线流式训练
 date: 2026-11-14
 venue: KDD
 year: 2025

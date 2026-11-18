@@ -3,7 +3,7 @@ title: "[Paper Note] Empowering Large Language Model for Sequential Recommendati
 description: "[CIKM 2025][生成式推荐与离散语义ID] 揭示 LLM4SR 的嵌入坍缩与语义ID灾难性遗忘，用多模态嵌入+MMD重建+码本初始化破局，全库排序下 nDCG@5 提升 4.4%–10.5%。"
 tags:
   - CIKM 2025
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 精排
   - 语义ID
   - 多模态嵌入

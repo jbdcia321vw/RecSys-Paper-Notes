@@ -3,7 +3,7 @@ title: "[Paper Note] Data Scarcity in Recommendation Systems: A Survey"
 description: "[TORS 2025][冷启动与长尾推荐] 系统梳理数据稀缺下五类缓解范式（增广/自监督/迁移/广度学习/知识图谱），并给出挑战与未来方向。"
 tags:
   - TORS
-  - 冷启动与长尾推荐
+  - 冷启动
   - 综述
   - 数据稀缺
   - 知识迁移

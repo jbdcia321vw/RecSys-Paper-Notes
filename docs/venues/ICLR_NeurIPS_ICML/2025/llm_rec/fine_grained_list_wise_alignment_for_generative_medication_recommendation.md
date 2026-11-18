@@ -4,7 +4,7 @@ description: "[NeurIPS 2025][LLM推荐] 将用药推荐重构为逐药序列决�
 tags:
   - NeurIPS
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - 逐步GRPO
   - 势函数奖励塑形
   - 列表级用药推荐

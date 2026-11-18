@@ -3,7 +3,7 @@ title: "[Paper Note] MPFormer: Adaptive Framework for Industrial Multi-Task Pers
 description: "[CIKM 2025][多任务学习与列表级重排] 用目标条件化 Transformer 统一多目标召回，并以排序分数监督动态配额分配，在快手 4 亿 DAU 上实现 +0.43% 总时长与 66.7% 推理资源节省。"
 tags:
   - CIKM 2025
-  - 多任务学习与列表级重排
+  - 多任务学习
   - 召回
   - 多目标召回
   - 目标条件化 Transformer

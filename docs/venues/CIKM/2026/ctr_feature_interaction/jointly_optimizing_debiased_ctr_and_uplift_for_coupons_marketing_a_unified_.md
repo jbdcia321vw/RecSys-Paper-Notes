@@ -3,7 +3,7 @@ title: "[Paper Note] Jointly Optimizing Debiased CTR and Uplift for Coupons Mark
 description: "[CIKM 2026][CTR预估与特征交叉] UniMVT 用 MoE 解耦混淆表征 + logit 空间单调线性假设，统一估计去偏 Base CTR 与多值券面额 Uplift，线上收入 +18.14%。"
 tags:
   - CIKM
-  - CTR预估与特征交叉
+  - CTR/CVR 预估与特征交叉
   - 精排
   - 多值因果干预
   - 去偏CTR

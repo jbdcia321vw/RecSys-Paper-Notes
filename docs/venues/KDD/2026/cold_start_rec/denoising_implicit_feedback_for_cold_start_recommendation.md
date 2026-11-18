@@ -3,7 +3,7 @@ title: "[Paper Note] Denoising Implicit Feedback for Cold-start Recommendation"
 description: "[KDD 2026][冷启动与长尾推荐] 用内容相似热物品协同表征为冷物品生成置信加权伪标签，并以相对熵×冷启动状态估计样本不确定性做自适应软标签纠正，快手十亿级 A/B 全指标提升。"
 tags:
   - KDD 2026
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 隐式反馈去噪
   - 伪标签纠正

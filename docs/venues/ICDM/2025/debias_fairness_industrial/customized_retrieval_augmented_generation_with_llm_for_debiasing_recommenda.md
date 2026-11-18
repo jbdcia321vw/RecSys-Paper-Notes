@@ -3,10 +3,10 @@ title: "[Paper Note] Customized Retrieval-Augmented Generation with LLM for Debi
 description: "[ICDM 2025][去偏公平与工业架构] 将推荐遗忘重构为 RAG 检索端过滤问题，用三种检索策略实现用户级原子遗忘，平均加速 4.5× 且保留约 90% 原模型效用。"
 tags:
   - ICDM 2025
-  - 去偏公平与工业架构
-  - 端到端生成式
-  - 推荐遗忘 (Machine Unlearning)
-  - 检索增强生成 (RAG)
+  - 去偏公平与可信推荐
+  - 生成式推荐
+  - 推荐遗忘
+  - RAG
   - 遗忘偏置 (Unlearning Bias)
 date: 2026-11-14
 venue: ICDM

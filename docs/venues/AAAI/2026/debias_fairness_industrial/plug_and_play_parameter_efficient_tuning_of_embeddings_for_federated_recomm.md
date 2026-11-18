@@ -3,7 +3,7 @@ title: "[Paper Note] Plug-and-Play Parameter-Efficient Tuning of Embeddings for 
 description: "[AAAI 2026][去偏公平、可信隐私与工业架构] 冻结预训练全量物品嵌入、仅微调并上传压缩嵌入（LoRA/Hash/RQ-VAE），在联邦推荐中同时降通信与提精度。"
 tags:
   - AAAI 2026
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 召回
   - 联邦推荐
   - 参数高效微调

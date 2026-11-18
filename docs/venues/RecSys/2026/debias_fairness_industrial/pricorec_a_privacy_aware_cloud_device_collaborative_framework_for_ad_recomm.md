@@ -3,7 +3,7 @@ title: "PriCoRec: A Privacy-Aware Cloud-Device Collaborative Framework for Ad Re
 description: "[RecSys 2026][去偏公平、可信隐私与工业架构] 将敏感特征留在端侧，云侧预排加 DPP 多样性正则、端侧轻量排序加云端 logit 蒸馏，三数据集 gAUC/R@10 全面领先且时延可控。"
 tags:
   - RecSys
-  - 去偏公平、可信隐私与工业架构
+  - 去偏公平与可信推荐
   - 精排
   - 云边协同
   - 隐私保护推荐

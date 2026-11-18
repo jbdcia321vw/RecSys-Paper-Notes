@@ -4,7 +4,7 @@ description: "[EMNLP 2026 Industry][LLM4Rec] 两阶段生成式 I2Q 查询推荐
 tags:
   - EMNLP 2026 Industry
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - 课程学习
   - GRPO 混合奖励
 date: 2026-11-13

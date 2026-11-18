@@ -3,7 +3,7 @@ title: "[Paper Note] Eating for a Sustainable Planet: Personalized Sustainable D
 description: "[ICML 2026][冷启动与长尾推荐] 将可持续饮食推荐重构为约束感知决策问题，用可学习用户约束阈值替代偏好建模，在自建 SusDiet 上兼顾偏好精度与四维可持续性。"
 tags:
   - ICML
-  - 冷启动与长尾推荐
+  - 冷启动
   - 精排
   - 约束感知决策
   - 可持续饮食推荐

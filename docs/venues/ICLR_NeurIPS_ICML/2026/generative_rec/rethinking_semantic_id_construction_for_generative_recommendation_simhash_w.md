@@ -3,8 +3,7 @@ title: "[Paper Note] Rethinking Semantic ID Construction for Generative Recommen
 description: "[NeurIPS 2026][生成式推荐与离散语义ID] 揭示LSH分词劣势源于与自回归解码的结构错配，提出免训练SimHash+并行解码+语义对齐的FLASH，全库排序下NDCG@5最高提升14.46%。"
 tags:
   - NeurIPS
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - SimHash语义ID
   - 并行解码
   - 语义对齐

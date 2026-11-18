@@ -13,6 +13,7 @@ build_nav_and_index.py
 """
 
 import html
+import json
 import re
 from pathlib import Path
 from collections import defaultdict
@@ -57,6 +58,49 @@ CATEGORY_ABBR = {
     "multi_task_reranking": "MTL",
     "rl_bandit_rec": "RL",
     "debias_fairness_industrial": "Debias",
+}
+
+TOPIC_TAG_SYNONYMS = {
+    "collaborative_filtering": {"协同过滤", "双塔召回", "双塔模型", "矩阵分解"},
+    "graph_rec": {"图神经网络", "知识图谱", "知识图谱推荐", "图推荐"},
+    "self_supervised_denoising": {"自监督学习", "自监督对比学习", "对比学习", "去噪", "交互去噪"},
+    "sequential_rec": {"序列推荐", "序列建模", "会话推荐", "长序列建模"},
+    "generative_rec": {
+        "生成式端到端",
+        "端到端生成式",
+        "生成式推荐",
+        "语义ID",
+        "语义 ID",
+        "Semantic ID",
+        "语义ID分词",
+        "生成式检索",
+        "扩散推荐",
+        "扩散模型",
+        "Flow Matching",
+        "RQ-VAE",
+        "残差量化",
+        "向量量化",
+        "向量量化码本",
+        "生成式重排",
+    },
+    "llm_rec": {"大语言模型推荐", "大模型推荐", "LLM推荐", "LLM4Rec", "LLM Agent", "LLM-as-a-Judge"},
+    "agent_conversational_rec": {"对话推荐", "智能体", "LLM Agent", "用户模拟", "智能体仿真"},
+    "multimodal_rec": {"多模态推荐", "多模态", "MM"},
+    "social_group_rec": {"社交推荐", "群组推荐", "社会选择聚合"},
+    "cold_start_rec": {"冷启动", "长尾推荐", "长尾", "元学习", "少样本"},
+    "cross_domain_multi_scenario": {"跨域推荐", "多场景推荐", "跨域序列推荐", "负迁移抑制"},
+    "poi_spatiotemporal_rec": {"时空轨迹与POI推荐", "本地生活推荐", "POI推荐", "时空推荐"},
+    "ctr_feature_interaction": {"CTR预估与特征交叉", "CTR预估", "CVR预估", "特征交叉", "自动出价"},
+    "multi_task_reranking": {"多任务学习", "列表级重排", "重排", "生成式重排"},
+    "rl_bandit_rec": {"强化学习", "Bandit", "Contextual Bandit", "离线强化学习", "自动出价"},
+    "debias_fairness_industrial": {
+        "去偏公平与工业架构",
+        "去偏公平与可信推荐",
+        "去偏公平",
+        "可信推荐",
+        "工业架构",
+        "流行度去偏",
+    },
 }
 
 PORTAL_STYLE = """<style>
@@ -304,16 +348,70 @@ def render_hot_tags(items: list, excluded: set, limit: int = 8) -> str:
     return "🔥 **高频主题：** " + " · ".join(f"{tag} ×{count}" for tag, count in hot)
 
 
+def _is_facet_tag(tag: str, excluded_norm: set) -> bool:
+    """Return whether a frontmatter tag is useful as a list-page facet."""
+    tag = (tag or "").strip()
+    if not tag:
+        return False
+    if re.search(r"(?:19|20)\d{2}", tag):
+        return False
+    return _normalize_term(tag) not in excluded_norm
+
+
+def render_tag_filter(items: list, excluded: set) -> str:
+    """Render the client-side AND/OR tag filter for a generated paper list."""
+    excluded_norm = {_normalize_term(value) for value in excluded if value}
+    counts = defaultdict(int)
+    for item in items:
+        for tag in item.get("tags", []):
+            tag = (tag or "").strip()
+            if _is_facet_tag(tag, excluded_norm):
+                counts[tag] += 1
+    if not counts:
+        return ""
+
+    chips = []
+    for tag, count in sorted(counts.items(), key=lambda pair: (-pair[1], pair[0].lower())):
+        chips.append(
+            f'<button type="button" class="paper-tag-filter__chip" '
+            f'data-tag="{_esc(tag)}" aria-pressed="false">'
+            f'{_esc(tag)}<span class="paper-tag-filter__count">{count}</span></button>'
+        )
+
+    return "\n".join(
+        [
+            '<div class="paper-tag-filter" data-paper-tag-filter>',
+            '  <div class="paper-tag-filter__head">',
+            '    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>',
+            '    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文</span>',
+            '    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">',
+            '      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>',
+            '      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>',
+            "    </span>",
+            '    <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>',
+            "  </div>",
+            '  <div class="paper-tag-filter__chips">',
+            "\n".join(chips),
+            "  </div>",
+            '  <div class="paper-tag-filter__status" data-tag-status></div>',
+            "</div>",
+        ]
+    )
+
+
 def render_paper_dl(items: list, href_for) -> str:
     """按原版 Paper-Notes 的 <dl><dt><dd> 结构渲染论文列表。"""
-    lines = ["<dl>"]
+    lines = ['<dl data-paper-list>']
     for item in items:
         title = _esc(item.get("title", ""))
         desc = re.sub(r"^(?:\[[^\]]+\]\s*)+", "", item.get("description") or "").strip()
         desc = _esc(desc or "点击查看核心思想与实验协议精读")
         href = _esc(href_for(item))
+        tags_json = _esc(
+            json.dumps(item.get("tags", []), ensure_ascii=False, separators=(",", ":"))
+        )
         lines.append(
-            f'<dt><strong><a href="{href}">{title}</a></strong>{render_paper_tags(item)}</dt>'
+            f'<dt data-paper-tags="{tags_json}"><strong><a href="{href}">{title}</a></strong>{render_paper_tags(item)}</dt>'
         )
         lines.append("<dd>")
         lines.append(f"<p>{desc}</p>")
@@ -382,6 +480,58 @@ def discover_years(docs_dir: Path, notes: list) -> list:
     return sorted(years, reverse=True)
 
 
+def _normalize_term(value: str) -> str:
+    return re.sub(r"\s+", "", value or "").lower()
+
+
+def _venue_tag_terms(notes: list) -> set:
+    years = {str(n.get("year", "")) for n in notes if n.get("year")}
+    terms = set(years)
+    for code, vinfo in VENUES.items():
+        name = vinfo.get("name", "")
+        terms.update(value for value in (code, name, vinfo.get("full_name", "")) if value)
+        parts = [
+            part.strip()
+            for part in re.split(r"[/、,，&]+", re.sub(r"\([^)]*\)", "", name))
+            if part.strip()
+        ]
+        terms.update(parts)
+        if len(parts) > 1:
+            terms.update(sep.join(parts) for sep in ("/", " & ", " ", "、", ", "))
+    terms.update(f"{term} {year}" for term in list(terms) for year in years)
+    suffixes = ("Findings", "Demo", "Short", "Industry", "Track")
+    terms.update(f"{term} {suffix}" for term in list(terms) for suffix in suffixes)
+    terms.update(
+        f"{term} {year} {suffix}"
+        for term in list(terms)
+        for year in years
+        for suffix in suffixes
+    )
+    return terms
+
+
+def _topic_hot_tag_terms(items: list, cat_slug: str, cinfo: dict, notes: list) -> set:
+    title_norm = _normalize_term(cinfo["title"])
+    abbr = CATEGORY_ABBR.get(cat_slug, cat_slug)
+    abbr_norm = _normalize_term(abbr)
+    excluded = {
+        cinfo["title"],
+        cinfo["en_title"],
+        abbr,
+        *TOPIC_TAG_SYNONYMS.get(cat_slug, set()),
+        *(info["title"] for info in CATEGORIES.values()),
+        *(CATEGORY_ABBR.get(slug, slug) for slug in CATEGORIES),
+    }
+    for item in items:
+        for tag in item.get("tags", []):
+            tag = (tag or "").strip()
+            tag_norm = _normalize_term(tag)
+            if tag_norm and (tag_norm in title_norm or tag_norm == abbr_norm):
+                excluded.add(tag)
+    excluded.update(_venue_tag_terms(notes))
+    return excluded
+
+
 def build_topic_pages(docs_dir: Path, notes: list):
     """生成 docs/topics/ 下的 16 大推荐系统细分方向跨会议聚合页。"""
     topics_dir = docs_dir / "topics"
@@ -434,6 +584,13 @@ def build_topic_pages(docs_dir: Path, notes: list):
             f"当前方向共收录 **{len(items)}** 篇顶会/顶刊论文解读：",
             "",
         ]
+        if items:
+            hot = render_hot_tags(items, _topic_hot_tag_terms(items, cat_slug, cinfo, notes))
+            if hot:
+                page_lines.extend([hot.replace("高频主题", "高频交叉主题"), ""])
+            tag_filter = render_tag_filter(items, _venue_tag_terms(notes))
+            if tag_filter:
+                page_lines.extend([tag_filter, ""])
         if not items:
             page_lines.append("*暂无论文笔记。*")
         else:
@@ -637,10 +794,14 @@ def build_venue_pages(docs_dir: Path, notes: list, years: list):
             ]
             if hot:
                 year_lines.extend([hot, ""])
+            tag_filter = render_tag_filter(year_items, _venue_tag_terms(notes))
+            if tag_filter:
+                year_lines.extend([tag_filter, ""])
             year_lines.append('<div class="conf-index">')
             for cat_slug, cinfo, c_items in active_cats:
                 c_icon = CAT_ICONS.get(cat_slug, "📌")
                 sorted_items = sorted(c_items, key=lambda x: x["title"].lower())
+                year_lines.append('<section class="paper-section" data-paper-section>')
                 year_lines.append("<hr />")
                 year_lines.append(f'<h2 id="{cat_slug}">{c_icon} {cinfo["title"]} ({len(c_items)})</h2>')
                 year_lines.append(
@@ -653,6 +814,7 @@ def build_venue_pages(docs_dir: Path, notes: list, years: list):
                     year_lines.append(
                         f'<p><a href="{cat_slug}/">查看全部{len(c_items)}篇「{cinfo["title"]}」论文 →</a></p>'
                     )
+                year_lines.append("</section>")
             year_lines.append("</div>")
             (year_dir / "index.md").write_text("\n".join(year_lines) + "\n", encoding="utf-8")
 
@@ -702,9 +864,53 @@ def build_venue_pages(docs_dir: Path, notes: list, years: list):
                         c_lines.append(hot)
                         c_lines.append("")
 
+                    tag_filter = render_tag_filter(c_items, _venue_tag_terms(notes))
+                    if tag_filter:
+                        c_lines.append(tag_filter)
+                        c_lines.append("")
+
                     sorted_items = sorted(c_items, key=lambda x: x["title"].lower())
                     c_lines.append(render_paper_dl(sorted_items, lambda item: item["path"].stem + "/"))
                 (c_dir / "index.md").write_text("\n".join(c_lines) + "\n", encoding="utf-8")
+
+
+SEARCH_PAGE = """---
+hide:
+  - toc
+---
+
+# 🔎 搜索论文笔记
+
+按标题、关键词与标签检索全站论文。标签筛选默认使用 **AND**（同时包含），可切换为 **OR**（任一匹配）。
+
+<div id="pn-search-root">
+  <div id="pn-search-box">
+    <input id="pn-search-input" type="search" autocomplete="off" spellcheck="false" />
+  </div>
+  <fieldset id="pn-search-conference-filter" disabled>
+    <legend>会议筛选</legend>
+    <div id="pn-search-conferences"></div>
+  </fieldset>
+  <fieldset id="pn-search-tag-filter" disabled>
+    <legend>标签筛选（默认 AND）</legend>
+    <div id="pn-search-tags"></div>
+    <div class="pn-tag-actions">
+      <span class="pn-tag-mode" id="pn-search-tag-mode" role="group" aria-label="标签匹配模式">
+        <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
+        <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
+      </span>
+      <button type="button" id="pn-search-tag-clear" disabled>清除标签</button>
+    </div>
+  </fieldset>
+  <div id="pn-search-status"></div>
+  <ol id="pn-search-results"></ol>
+</div>
+"""
+
+
+def build_search_page(docs_dir: Path):
+    """Generate the full-page search UI consumed by javascripts/search-page.js."""
+    (docs_dir / "search.md").write_text(SEARCH_PAGE, encoding="utf-8")
 
 
 def build_home_and_mkdocs_yml(repo_root: Path, notes: list, years: list, github_user: str = "jbdcia321vw"):
@@ -804,7 +1010,12 @@ def build_home_and_mkdocs_yml(repo_root: Path, notes: list, years: list, github_
         extra_css_block = "extra_css:\n  - stylesheets/extra.css\n"
 
     js_list = []
-    for js_rel in ["javascripts/mathjax.js", "javascripts/search-page.js", "javascripts/title-link.js"]:
+    for js_rel in [
+        "javascripts/mathjax.js",
+        "javascripts/search-page.js",
+        "javascripts/tag-filter.js",
+        "javascripts/title-link.js",
+    ]:
         if (docs_dir / js_rel).exists():
             js_list.append(f"  - {js_rel}")
     js_list.append("  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js")
@@ -888,6 +1099,7 @@ markdown_extensions:
 
 nav:
   - 🏠 首页总览: index.md
+  - 🔎 全站搜索: search.md
   - 🔬 按推荐细分类别 ({len(CATEGORIES)}大类):
 {chr(10).join(topic_nav_items)}
   - 🗓️ 按会议年份浏览:
@@ -908,4 +1120,5 @@ if __name__ == "__main__":
     build_topic_pages(docs_dir, all_notes)
     build_year_pages(docs_dir, all_notes, all_years)
     build_venue_pages(docs_dir, all_notes, all_years)
+    build_search_page(docs_dir)
     build_home_and_mkdocs_yml(root, all_notes, all_years)

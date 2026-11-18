@@ -3,7 +3,7 @@ title: "[Paper Note] Recommendation Is a Dish Better Served Warm"
 description: "[RecSys 2025][冷启动与长尾推荐] 系统量化冷启动阈值：物品侧训练交互扫描+用户侧推理历史截断，揭示 6–15 条交互的冷热分界并批判 p-core 过滤的任意性。"
 tags:
   - RecSys 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 冷热阈值
   - p-core 过滤

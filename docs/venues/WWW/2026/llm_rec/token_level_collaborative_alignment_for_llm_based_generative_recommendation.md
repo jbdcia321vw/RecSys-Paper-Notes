@@ -4,7 +4,7 @@ description: "[WWW 2026][LLM4Rec] 将CF物品级logits投影为token级分布并
 tags:
   - WWW 2026
   - 大语言模型推荐
-  - 生成式端到端
+  - 生成式推荐
   - 协同信号对齐
   - 软标签NTP
 date: 2026-11-12

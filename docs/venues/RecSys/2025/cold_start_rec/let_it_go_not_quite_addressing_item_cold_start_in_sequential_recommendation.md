@@ -3,7 +3,7 @@ title: "[Paper Note] Let It Go? Not Quite: Addressing Item Cold Start in Sequent
 description: "[RecSys 2025][冷启动与长尾推荐] 冻结内容嵌入+有界可训练 delta 校正，兼顾冷启动物品语义结构与热物品任务适配，三数据集冷启动 NDCG@10 最高提升 20.9%。"
 tags:
   - RecSys 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 召回
   - 内容初始化
   - 有界 delta 校正

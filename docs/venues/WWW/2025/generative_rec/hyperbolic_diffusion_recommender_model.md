@@ -3,7 +3,7 @@ title: "[Paper Note] Hyperbolic Diffusion Recommender Model"
 description: "[WWW 2025][生成式推荐与离散语义ID] 将扩散推荐从欧氏空间迁移至双曲流形，用聚类锚定的方向性噪声替代各向同性高斯噪声，Full-Ranking 下 R@10 最高提升 5.6%。"
 tags:
   - WWW 2025
-  - 生成式推荐与离散语义ID
+  - 生成式推荐
   - 召回
   - 双曲空间
   - 潜在扩散模型

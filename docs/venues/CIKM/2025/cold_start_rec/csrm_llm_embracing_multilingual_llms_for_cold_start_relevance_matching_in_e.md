@@ -3,7 +3,7 @@ title: "[Paper Note] CSRM-LLM: Embracing Multilingual LLMs for Cold-Start Releva
 description: "[CIKM 2025][冷启动与长尾推荐] 多语言 LLM 联合翻译任务、检索式查询增强与多轮自蒸馏，解决新兴市场零标注相关性匹配，离线 F1 0.965、线上缺陷率降 45.8%。"
 tags:
   - CIKM 2025
-  - 冷启动与长尾推荐
+  - 冷启动
   - 精排
   - 多语言LLM
   - 自蒸馏去噪

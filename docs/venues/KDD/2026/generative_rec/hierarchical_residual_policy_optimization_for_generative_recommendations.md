@@ -3,8 +3,7 @@ title: "[Paper Note] Hierarchical Residual Policy Optimization for Generative Re
 description: "[KDD 2026][生成式推荐与离散语义ID] 将物品级反馈分解为 SID 前缀残差信用，用 RRPO 做保守 token 级策略优化，KuaiSim 会话回报 10.53 vs 8.14，线上 IAA Target Cost 最高 +3.49%。"
 tags:
   - KDD 2026
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - Token级信用分配
   - 残差策略优化
   - 语义ID

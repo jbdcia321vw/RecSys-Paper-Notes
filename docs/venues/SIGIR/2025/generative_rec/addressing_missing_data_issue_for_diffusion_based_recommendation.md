@@ -3,8 +3,7 @@ title: "[Paper Note] Addressing Missing Data Issue for Diffusion-based Recommend
 description: "[SIGIR 2025][生成式推荐与离散语义ID] 用双侧 Thompson 采样在引导序列中模拟缺失数据，以一致性正则化让扩散推荐模型外推抵抗真实缺失，YooChoose NDCG@20 提升 26.95%。"
 tags:
   - SIGIR 2025
-  - 生成式推荐与离散语义ID
-  - 生成式端到端
+  - 生成式推荐
   - 扩散推荐
   - 缺失数据模拟
   - Thompson Sampling
