@@ -1,0 +1,152 @@
+[
+  {
+    "title": "SVD-AE: Simple Autoencoders for Collaborative Filtering",
+    "ee": "https://www.ijcai.org/proceedings/2024/227",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Personalized Retweeting Behaviors for Multi-Stage Cascade Popularity Prediction",
+    "ee": "https://www.ijcai.org/proceedings/2024/287",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Survey on Cross-Domain Sequential Recommendation",
+    "ee": "https://www.ijcai.org/proceedings/2024/884",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical Reinforcement Learning on Multi-Channel Hypergraph Neural Network for Course Recommendation",
+    "ee": "https://www.ijcai.org/proceedings/2024/232",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Efficient Federated Multi-View Clustering with Integrated Matrix Factorization and K-Means",
+    "ee": "https://www.ijcai.org/proceedings/2024/439",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Vulnerabilities of Single-Round Incentive Compatibility in Auto-bidding: Theory and Evidence from ROI-Constrained Online Advertising Markets",
+    "ee": "https://www.ijcai.org/proceedings/2024/320",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Automatic De-Biased Temporal-Relational Modeling for Stock Investment Recommendation",
+    "ee": "https://www.ijcai.org/proceedings/2024/221",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PTDE: Personalized Training with Distilled Execution for Multi-Agent Reinforcement Learning",
+    "ee": "https://www.ijcai.org/proceedings/2024/4",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought",
+    "ee": "https://www.ijcai.org/proceedings/2024/639",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Data Ownership and Privacy in Personalized AI Models in Assistive Healthcare",
+    "ee": "https://www.ijcai.org/proceedings/2024/868",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DGR: A General Graph Desmoothing Framework for Recommendation via Global and Local Perspectives",
+    "ee": "https://www.ijcai.org/proceedings/2024/224",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Heart Disease Detection via ECG Digital Twin Generation",
+    "ee": "https://www.ijcai.org/proceedings/2024/649",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "InViTe: Individual Virtual Transfer for Personalized 3D Face Generation System",
+    "ee": "https://www.ijcai.org/proceedings/2024/1008",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dirichlet-based Uncertainty Quantification for Personalized Federated Learning with Improved Posterior Networks",
+    "ee": "https://www.ijcai.org/proceedings/2024/788",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Dual-Target Cross-Domain Recommendation with Federated Privacy-Preserving Learning",
+    "ee": "https://www.ijcai.org/proceedings/2024/238",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Optimal Auction Design with User Coupons in Advertising Systems",
+    "ee": "https://www.ijcai.org/proceedings/2024/322",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "KDDC: Knowledge-Driven Disentangled Causal Metric Learning for Pre-Travel Out-of-Town Recommendation",
+    "ee": "https://www.ijcai.org/proceedings/2024/244",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SeeDRec: Sememe-based Diffusion for Sequential Recommendation",
+    "ee": "https://www.ijcai.org/proceedings/2024/251",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DFRP: A Dual-Track Feedback Recommendation System for Educational Resources",
+    "ee": "https://www.ijcai.org/proceedings/2024/1022",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Transforming Recommender Systems: Balancing Personalization, Fairness, and Human Values",
+    "ee": "https://www.ijcai.org/proceedings/2024/982",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "gSASRec: Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling (Extended Abstract)",
+    "ee": "https://www.ijcai.org/proceedings/2024/939",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Counterfactual User Sequence Synthesis Augmented with Continuous Time Dynamic Preference Modeling for Sequential POI Recommendation",
+    "ee": "https://www.ijcai.org/proceedings/2024/255",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Spatial-Temporal Perceiving: Deciphering User Hierarchical Intent in Session-Based Recommendation",
+    "ee": "https://www.ijcai.org/proceedings/2024/267",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical Reinforcement Learning for Point of Interest Recommendation",
+    "ee": "https://www.ijcai.org/proceedings/2024/272",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Fair Representations for Recommendation via Information Bottleneck Principle",
+    "ee": "https://www.ijcai.org/proceedings/2024/273",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Attention Network with High-Order Neighbor Information Propagation for Social Recommendation",
+    "ee": "https://www.ijcai.org/proceedings/2024/274",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous Personalized Federated Learning",
+    "ee": "https://www.ijcai.org/proceedings/2024/594",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Federated Learning for Cross-City Traffic Prediction",
+    "ee": "https://www.ijcai.org/proceedings/2024/611",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Federated Adaptation for Foundation Model-based Recommendations",
+    "ee": "https://www.ijcai.org/proceedings/2024/603",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "R2V-MIF: Rule-to-Vector Contrastive Learning and Multi-channel Information Fusion for Therapy Recommendation",
+    "ee": "https://www.ijcai.org/proceedings/2024/291",
+    "key": "dblp_sparql"
+  }
+]

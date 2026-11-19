@@ -1,0 +1,152 @@
+[
+  {
+    "title": "DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00066",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An Explainable Recommender System by Integrating Graph Neural Networks and User Reviews",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00074",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Novel Shadow Variable Catcher for Addressing Selection Bias in Recommendation Systems",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00014",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Influence-Aware Group Recommendation for Social Media Propagation",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00080",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "M3-InvRL: Multimedia Model Merging Invariant Representation Learning for Recommendation",
+    "ee": "https://doi.org/10.1109/ICDMW65004.2024.00110",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00082",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CUPID: A Real-Time Session-Based Reciprocal Recommendation System for a One-on-One Social Discovery Platform",
+    "ee": "https://doi.org/10.1109/ICDMW65004.2024.00097",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "From Connections to Conversions: Enhanced Product Knowledge Graph Embeddings for E-commerce Recommendations",
+    "ee": "https://doi.org/10.1109/ICDMW65004.2024.00006",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "RecCoder: Reformulating Sequential Recommendation as Large Language Model-Based Code Completion",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00026",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contrastive Learning for Adapting Language Model to Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00032",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hypergraph-Enhanced Contrastively Regularized Transformer for Multi-Behavior E-commerce Product Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00090",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Periodic Prompt on Dynamic Heterogeneous Graph for Next Basket Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00087",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Adaptive Graph Neural Networks for Cold-Start Multimedia Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00027",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cross-Store Next-Basket Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00037",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Embeddings Quality with Stacked Gate for Click-Through Rate Prediction",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00039",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Semi-Supervised Learning Trumps Active Learning in Cold-Starting Netflow-Based AI Network Intrusion Detection Systems on Scarce and Difficult Data",
+    "ee": "https://doi.org/10.1109/ICDMW65004.2024.00035",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LLM-KT: A Versatile Framework for Knowledge Transfer from Large Language Models to Collaborative Filtering",
+    "ee": "https://doi.org/10.1109/ICDMW65004.2024.00125",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Transitivity-Encoded Graph Attention Networks for Complementary Item Recommendations",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00050",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mamba for Scalable and Efficient Personalized Recommendations",
+    "ee": "https://doi.org/10.1109/ICDMW65004.2024.00018",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Data-Driven Approach for Ancillary Bundle Recommendation to Segmented Users",
+    "ee": "https://doi.org/10.1109/ICDMW65004.2024.00084",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SR-PredictAO: Session-Based Recommendation with High-Capability Predictor Add-On",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00055",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Bi-Level User Modeling for Deep Recommenders",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00058",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Large Language Models",
+    "ee": "https://doi.org/10.1109/ICDMW65004.2024.00071",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Probabilistic Matrix Factorization-based Three-stage Label Completion for Crowdsourcing",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00061",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cascading Multimodal Feature Enhanced Contrast Learning for Music Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00113",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Parameter Update Balancing Algorithm for Multi-task Ranking Models in Recommendation Systems",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00117",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Addressing Delayed Feedback in Conversion Rate Prediction: A Domain Adaptation Approach",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00115",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "UMVUE-DR: Uniformly Minimum Variance Unbiased Doubly Robust Learning with Reduced Bias and Variance for Debiased Recommendation",
+    "ee": "https://doi.org/10.1109/ICDMW65004.2024.00114",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Traffic Pattern Sharing for Federated Traffic Flow Prediction with Personalization",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00071",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploitation or Exploration Next? User Behavior Decoupling and Emerging Intent Modeling for Next-Item Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM59182.2024.00123",
+    "key": "dblp_sparql"
+  }
+]

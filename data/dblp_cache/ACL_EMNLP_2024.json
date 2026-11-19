@@ -1,0 +1,332 @@
+[
+  {
+    "title": "MPCoder: Multi-user Personalized Code Generator with Explicit and Implicit Style Representation Learning",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-LONG.207",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Visualization Recommendation with Prompt-based Reprogramming of Large Language Models",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-LONG.716",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Aligning Large Language Models for Controllable Recommendations",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-LONG.443",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Striking Gold in Advertising: Standardization and Exploration of Ad Text Generation",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-LONG.54",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "RecGPT: Generative Pre-training for Text-based Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-SHORT.29",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Transparent and Scrutable Recommendations Using Natural Language User Profiles",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-LONG.753",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LaMP: When Large Language Models Meet Personalization",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-LONG.399",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-LONG.295",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "RDRec: Rationale Distillation for LLM-based Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-SHORT.6",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "StreamVoice: Streamable Context-Aware Language Modeling for Real-time Zero-Shot Voice Conversion",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-LONG.396",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-LONG.468",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Text-like Encoding of Collaborative Information in Large Language Models for Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-LONG.497",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Stealthy Attack on Large Language Model based Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-LONG.318",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "HyCoRec: Hypergraph-Enhanced Multi-Preference Learning for Alleviating Matthew Effect in Conversational Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.ACL-LONG.138",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Implicit Personalization in Language Models: A Systematic Study",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.717",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "IntentionQA: A Benchmark for Evaluating Purchase Intention Comprehension Abilities of Language Models in E-commerce",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.123",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling User Preferences with Automatic Metrics: Creating a High-Quality Preference Dataset for Machine Translation",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.803",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Dynamic Multi-attribute Interest for Personalized Product Search",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.168",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Decoding Matters: Addressing Amplification Bias and Homogeneity Issue in Recommendations for Large Language Models",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.589",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Active Listening: Personalized Question Generation in Open-Domain Social Conversation with User Model Based Prompting",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.826",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "\"In-Dialogues We Learn\": Towards Personalized Dialogue Without Pre-defined Profiles through In-Dialogue Learning",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.581",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Experience as Source for Anticipation and Planning: Experiential Policy Learning for Target-driven Recommendation Dialogues",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.829",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Can LLM be a Personalized Judge?",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.592",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Train Once, Use Flexibly: A Modular Framework for Multi-Aspect Neural News Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.558",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Efficient Pointwise-Pairwise Learning-to-Rank for News Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.723",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Tell me what I need to know: Exploring LLM-based (Personalized) Abstractive Multi-Source Meeting Summarization",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-INDUSTRY.69",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.764",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "BAPO: Base-Anchored Preference Optimization for Overcoming Forgetting in Large Language Models Personalization",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.398",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Arxiv Copilot: A Self-Evolving and Efficient LLM System for Personalized Academic Assistance",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-DEMO.13",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Video Comment Generation",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.979",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sequential LLM Framework for Fashion Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-INDUSTRY.95",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "XRec: Large Language Models for Explainable Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.22",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ABLE: Personalized Disability Support with Politeness and Empathy Integration",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.1252",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving Retrieval in Sponsored Search by Leveraging Query Context Signals",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-INDUSTRY.109",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Low-Resource Machine Translation through the Lens of Personalized Federated Learning",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.514",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Large Language Model Based Sequential Recommender Systems with Pseudo Labels Reconstruction",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.423",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "\"You Gotta be a Doctor, Lin\" : An Investigation of Name-Based Bias of Large Language Models in Employment Recommendations",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.413",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Are Large Language Models In-Context Personalized Summarizers? Get an iCOPERNICUS Test Done!",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.935",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "TRIP NEGOTIATOR: A Travel Persona-aware Reinforced Dialogue Generation Model for Personalized Integrative Negotiation in Tourism",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.967",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.247",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GE2PE: Persian End-to-End Grapheme-to-Phoneme Conversion",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.196",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Polyglot Voices by Leveraging Cross-Lingual Fine-Tuning in Any-to-One Voice Conversion",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.122",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Student Data Paradox and Curious Case of Single Student-Tutor Model: Regressive Side Effects of Training LLMs for Personalized Learning",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.912",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Democratizing Large Language Models via Personalized Parameter-Efficient Fine-tuning",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.372",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Pieces: Efficient Personalized Large Language Models through Collaborative Efforts",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.371",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MORPHEUS: Modeling Role from Personalized Dialogue History by Exploring and Utilizing Latent Space",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.437",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.969",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing High-order Interaction Awareness in LLM-based Recommender Model",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.653",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.281",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "I-AM-G: Interest Augmented Multimodal Generator for Item Personalization",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.1187",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.786",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Personalized Alignment for Evaluating Open-ended Text Generation",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.737",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MIND: Multimodal Shopping Intention Distillation from Large Vision-language Models for E-commerce Purchase Understanding",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.446",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MirrorStories: Reflecting Diversity through Personalized Narrative Generation with Large Language Models",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.382",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PepRec: Progressive Enhancement of Prompting for Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.995",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Guided Profile Generation Improves Personalization with Large Language Models",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.231",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AuriSRec: Adversarial User Intention Learning in Sequential Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-EMNLP.735",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.EMNLP-MAIN.86",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Denoising Attention for Query-aware User Modeling",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-NAACL.153",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Aligning Large Language Models with Recommendation Knowledge",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-NAACL.67",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving Repository-level Code Search with Text Conversion",
+    "ee": "https://doi.org/10.18653/V1/2024.NAACL-SRW.15",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LLM-Rec: Personalized Recommendation via Prompting Large Language Models",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-NAACL.39",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "RecMind: Large Language Model Powered Agent For Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-NAACL.271",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-NAACL.56",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Federated Learning for Text Classification with Gradient-Free Prompt Tuning",
+    "ee": "https://doi.org/10.18653/V1/2024.FINDINGS-NAACL.286",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Review Recommendation based on Implicit dimension mining",
+    "ee": "https://doi.org/10.18653/V1/2024.NAACL-SHORT.8",
+    "key": "dblp_sparql"
+  }
+]

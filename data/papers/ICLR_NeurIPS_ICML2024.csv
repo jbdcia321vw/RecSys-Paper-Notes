@@ -1,0 +1,23 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation,2311.15647,https://arxiv.org/abs/2311.15647,,rl_bandit_rec,ICLR_NeurIPS_ICML,2024
+Debiased Collaborative Filtering with Kernel-Based Causal Balancing,2404.19596,https://arxiv.org/abs/2404.19596,https://github.com/haoxuanli-pku/ICLR24-Kernel-Balancing,debias_fairness_industrial,ICLR_NeurIPS_ICML,2024
+Federated Recommendation with Additive Personalization,2301.09109,https://arxiv.org/abs/2301.09109,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2024
+ImplicitSLIM and How it Improves Embedding-based Collaborative Filtering,2406.00198,https://arxiv.org/abs/2406.00198,https://github.com/ilya-shenbin/ImplicitSLIM,collaborative_filtering,ICLR_NeurIPS_ICML,2024
+Safe Collaborative Filtering,2306.05292,https://arxiv.org/abs/2306.05292,,collaborative_filtering,ICLR_NeurIPS_ICML,2024
+PSL: Rethinking and Improving Softmax Loss from Pairwise Perspective for Recommendation,2411.00163,https://arxiv.org/abs/2411.00163,https://github.com/Tiny-Snow/IR-Benchmark,collaborative_filtering,ICLR_NeurIPS_ICML,2024
+CURE4Rec: A Benchmark for Recommendation Unlearning with Deeper Influence,2408.14393,https://arxiv.org/abs/2408.14393,https://github.com/xiye7lai/CURE4Rec,debias_fairness_industrial,ICLR_NeurIPS_ICML,2024
+Interpolating Item and User Fairness in Multi-Sided Recommendations,2306.10050,https://arxiv.org/abs/2306.10050,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2024
+On Softmax Direct Preference Optimization for Recommendation,2406.09215,https://arxiv.org/abs/2406.09215,https://github.com/chenyuxin1999/S-DPO,llm_rec,ICLR_NeurIPS_ICML,2024
+LLM-ESR: Large Language Models Enhancement for Long-tailed Sequential Recommendation,2405.20646,https://arxiv.org/abs/2405.20646,https://github.com/Applied-Machine-Learning-Lab/LLM-ESR,sequential_rec,ICLR_NeurIPS_ICML,2024
+How Does Message Passing Improve Collaborative Filtering?,2404.08660,https://arxiv.org/abs/2404.08660,https://github.com/snap-research/Test-time-Aggregation-for-CF,graph_rec,ICLR_NeurIPS_ICML,2024
+Customizing Language Models with Instance-wise LoRA for Sequential Recommendation,2408.10159,https://arxiv.org/abs/2408.10159,https://github.com/AkaliKong/iLoRA,sequential_rec,ICLR_NeurIPS_ICML,2024
+User-Creator Feature Polarization in Recommender Systems with Dual Influence,2407.14094,https://arxiv.org/abs/2407.14094,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2024
+User-item fairness tradeoffs in recommendations,2412.04466,https://arxiv.org/abs/2412.04466,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2024
+Identify Then Recommend: Towards Unsupervised Group Recommendation,2410.23757,https://arxiv.org/abs/2410.23757,,social_group_rec,ICLR_NeurIPS_ICML,2024
+End-to-end Learnable Clustering for Intent Learning in Recommendation,2401.05975,https://arxiv.org/abs/2401.05975,https://github.com/yueliu1999/ELCRec,sequential_rec,ICLR_NeurIPS_ICML,2024
+Unveiling User Satisfaction and Creator Productivity Trade-Offs in Recommendation Platforms,2410.23683,https://arxiv.org/abs/2410.23683,,rl_bandit_rec,ICLR_NeurIPS_ICML,2024
+Graph-enhanced Optimizers for Structure-aware Recommendation Embedding Evolution,2310.03032,https://arxiv.org/abs/2310.03032,,graph_rec,ICLR_NeurIPS_ICML,2024
+Federated Graph Learning for Cross-Domain Recommendation,2410.08249,https://arxiv.org/abs/2410.08249,,cross_domain_multi_scenario,ICLR_NeurIPS_ICML,2024
+Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation,2410.22844,https://arxiv.org/abs/2410.22844,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2024
+On the Embedding Collapse when Scaling up Recommendation Models,2310.04400,https://arxiv.org/abs/2310.04400,https://github.com/thuml/Multi-Embedding,ctr_feature_interaction,ICLR_NeurIPS_ICML,2024
+Wukong: Towards a Scaling Law for Large-Scale Recommendation,2403.02545,https://arxiv.org/abs/2403.02545,,ctr_feature_interaction,ICLR_NeurIPS_ICML,2024

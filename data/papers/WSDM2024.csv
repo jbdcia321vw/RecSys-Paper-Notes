@@ -1,0 +1,26 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+LabelCraft: Empowering Short Video Recommendations with Automated Label Crafting,2312.10947,https://arxiv.org/abs/2312.10947,https://github.com/baiyimeng/LabelCraft,multimodal_rec,WSDM,2024
+Calibration-compatible Listwise Distillation of Privileged Features for CTR Prediction,2312.08727,https://arxiv.org/abs/2312.08727,,ctr_feature_interaction,WSDM,2024
+PEACE: Prototype lEarning Augmented transferable framework for Cross-domain rEcommendation,2312.01916,https://arxiv.org/abs/2312.01916,,cross_domain_multi_scenario,WSDM,2024
+Motif-Based Prompt Learning for Universal Cross-Domain Recommendation,2310.13303,https://arxiv.org/abs/2310.13303,,cross_domain_multi_scenario,WSDM,2024
+Towards Mitigating Dimensional Collapse of Representations in Collaborative Filtering,2312.17468,https://arxiv.org/abs/2312.17468,,collaborative_filtering,WSDM,2024
+GEMRec: Towards Generative Model Recommendation,2308.02205,https://arxiv.org/abs/2308.02205,https://github.com/MAPS-research/GEMRec,multimodal_rec,WSDM,2024
+On the Effectiveness of Unlearning in Session-Based Recommendation,2312.14447,https://arxiv.org/abs/2312.14447,,sequential_rec,WSDM,2024
+CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process,2401.12732,https://arxiv.org/abs/2401.12732,,cross_domain_multi_scenario,WSDM,2024
+Pre-trained Recommender Systems: A Causal Debiasing Perspective,2310.19251,https://arxiv.org/abs/2310.19251,,debias_fairness_industrial,WSDM,2024
+DiffKG: Knowledge Graph Diffusion Model for Recommendation,2312.16890,https://arxiv.org/abs/2312.16890,https://github.com/HKUDS/DiffKG,graph_rec,WSDM,2024
+Mixed Attention Network for Cross-domain Sequential Recommendation,2311.08272,https://arxiv.org/abs/2311.08272,https://github.com/Guanyu-Lin/MAN,cross_domain_multi_scenario,WSDM,2024
+Inverse Learning with Extremely Sparse Feedback for Recommendation,2311.08302,https://arxiv.org/abs/2311.08302,https://github.com/Guanyu-Lin/InverseLearning,multimodal_rec,WSDM,2024
+ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models,2305.06566,https://arxiv.org/abs/2305.06566,,llm_rec,WSDM,2024
+Attribute Simulation for Item Embedding Enhancement in Multi-interest Recommendation,2311.17374,https://arxiv.org/abs/2311.17374,,collaborative_filtering,WSDM,2024
+Intent Contrastive Learning with Cross Subsequences for Sequential Recommendation,2310.14318,https://arxiv.org/abs/2310.14318,,sequential_rec,WSDM,2024
+Knowledge Graph Context-Enhanced Diversified Recommendation,2310.13253,https://arxiv.org/abs/2310.13253,,graph_rec,WSDM,2024
+Budgeted Embedding Table For Recommender Systems,2310.14884,https://arxiv.org/abs/2310.14884,https://github.com/qykcq/Budgeted-Embedding-Table-For-Recommender-Systems,collaborative_filtering,WSDM,2024
+Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure,2312.07036,https://arxiv.org/abs/2312.07036,https://github.com/nancheng58/DebiasedSR_DRO,debias_fairness_industrial,WSDM,2024
+Proxy-based Item Representation for Attribute and Context-aware Recommendation,2312.06145,https://arxiv.org/abs/2312.06145,,cold_start_rec,WSDM,2024
+LLMRec: Large Language Models with Graph Augmentation for Recommendation,2311.00423,https://arxiv.org/abs/2311.00423,https://github.com/HKUDS/LLMRec.git,llm_rec,WSDM,2024
+SSLRec: A Self-Supervised Learning Framework for Recommendation,2308.05697,https://arxiv.org/abs/2308.05697,https://github.com/HKUDS/SSLRec,self_supervised_denoising,WSDM,2024
+Dynamic Sparse Learning: A Novel Paradigm for Efficient Recommendation,2402.02855,https://arxiv.org/abs/2402.02855,,debias_fairness_industrial,WSDM,2024
+Defense Against Model Extraction Attacks on Recommender Systems,2310.16335,https://arxiv.org/abs/2310.16335,,debias_fairness_industrial,WSDM,2024
+Unified Pretraining for Recommendation via Task Hypergraphs,2310.13286,https://arxiv.org/abs/2310.13286,,graph_rec,WSDM,2024
+Linear Recurrent Units for Sequential Recommendation,2310.02367,https://arxiv.org/abs/2310.02367,,sequential_rec,WSDM,2024

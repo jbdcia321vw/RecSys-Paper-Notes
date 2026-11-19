@@ -1,0 +1,42 @@
+[
+  {
+    "title": "CLHHN: Category-aware Lossless Heterogeneous Hypergraph Neural Network for Session-based Recommendation",
+    "ee": "https://doi.org/10.1145/3626569",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "User Experience and the Role of Personalization in Critiquing-Based Conversational Recommendation",
+    "ee": "https://doi.org/10.1145/3597499",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Causality and Correlation Graph Modeling for Effective and Explainable Session-Based Recommendation",
+    "ee": "https://doi.org/10.1145/3593313",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PIDKG: Propagating Interaction Influence on the Dynamic Knowledge Graph for Recommendation",
+    "ee": "https://doi.org/10.1145/3593314",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Neighbor User Intention on User-Item Interaction Graphs for Better Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3580520",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Heterogeneous Graph Neural Network with Personalized and Adaptive Diversity for News Recommendation",
+    "ee": "https://doi.org/10.1145/3649886",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Heterogeneous Information Crossing on Graphs for Session-Based Recommender Systems",
+    "ee": "https://doi.org/10.1145/3572407",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Incorporating a Triple Graph Neural Network with Multiple Implicit Feedback for Social Recommendation",
+    "ee": "https://doi.org/10.1145/3580517",
+    "key": "dblp_sparql"
+  }
+]

@@ -13,6 +13,7 @@ generate_recsys_notes.py (v3.8 新增 OpenCode 免费 deepseek-v4.1-flash-free �
 import csv
 import html
 import itertools
+import logging
 import os
 import posixpath
 import random
@@ -32,6 +33,9 @@ import argparse
 from pathlib import Path
 from datetime import datetime, timezone
 from concurrent.futures import ThreadPoolExecutor, as_completed
+
+for _noisy_logger in ("pypdf", "pdfminer", "pdfplumber"):
+    logging.getLogger(_noisy_logger).setLevel(logging.ERROR)
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 if str(SCRIPT_DIR) not in sys.path:
@@ -64,11 +68,15 @@ CATEGORY_SEED_QUERIES = {
 CATEGORY_LIST_STR = "\n".join(
     [f"- `{slug}`: {info['title']} ({info['en_title']}) — {info['desc']}" for slug, info in CATEGORIES.items()]
 )
+#官方API
+#DEFAULT_BASE_URL = "https://api.deepseek.com/v1"
+#DEFAULT_MODEL = "deepseek-flash"
+#中转站API
+DEFAULT_BASE_URL = "https://sub.zdyhn.cn/v1"
+DEFAULT_MODEL = "deepseek-v4.1-flash"
 
-DEFAULT_BASE_URL = "https://api.deepseek.com/v1"
-DEFAULT_MODEL = "deepseek-flash"
 DEFAULT_MAX_INPUT_CHARS = 65000
-DEFAULT_MAX_OUTPUT_TOKENS = 8192
+DEFAULT_MAX_OUTPUT_TOKENS = 8192*2
 
 USAGE_LOCK = threading.Lock()
 USAGE_TOTALS = {
@@ -97,6 +105,12 @@ PRICING_USD_PER_M = {
         "cache_hit": 0.044,
         "cache_miss": 1.32,
         "output": 3.96,
+    },
+    #zdyhn.cn 中转站定价为官方1折
+    "deepseek-v4.1-flash": {
+        "cache_hit": 0.0006,
+        "cache_miss": 0.030,
+        "output": .120,
     },
 }
 
@@ -149,8 +163,12 @@ def is_peak_now() -> bool:
 
 def _pricing_for_model(model: str):
     name = (model or "").lower()
+    if name in PRICING_USD_PER_M:
+        return PRICING_USD_PER_M[name]
     if "free" in name or "opencode" in name or os.environ.get("USE_OPENCODE_FREE") == "1":
         return PRICING_USD_PER_M["deepseek-v4.1-flash-free"]
+    if "v4.1-flash" in name:
+        return PRICING_USD_PER_M["deepseek-v4.1-flash"]
     if "pro" in name:
         return PRICING_USD_PER_M["deepseek-v4-pro"]
     if "deepseek" in name or not name:
@@ -503,16 +521,22 @@ def call_chat_completion(
             else:
                 raise
 
+    is_official_ds = "api.deepseek.com" in (base_url or "").lower()
     endpoint = base_url.rstrip("/") + "/chat/completions"
-    payload = {"model": model, "messages": messages, "temperature": temperature}
-    if response_format and not is_opencode_free_mode(base_url, model):
+    payload = {
+        "model": model,
+        "messages": messages,
+        "temperature": temperature,
+    }
+    if response_format and is_official_ds:
         payload["response_format"] = response_format
     if max_tokens and max_tokens > 0:
-        payload["max_tokens"] = max_tokens
-    if thinking is not None and not is_opencode_free_mode(base_url, model):
+        # 对非官方中转站（如 sub.zdyhn.cn 的 deepseek-v4.1-flash），模型内部默认带有 reasoning 思考开销，保底给足 4096 max_tokens 防止思考占满配额导致输出为空
+        payload["max_tokens"] = max(max_tokens, 4096) if not is_official_ds else max_tokens
+    if thinking is not None and is_official_ds:
         payload["thinking"] = {"type": "enabled" if thinking else "disabled"}
 
-    def _post(request_payload):
+    def _post_once(request_payload, req_timeout=timeout):
         data = json.dumps(request_payload).encode("utf-8")
         req = urllib.request.Request(
             endpoint,
@@ -524,44 +548,64 @@ def call_chat_completion(
             },
             method="POST",
         )
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            return json.loads(resp.read().decode("utf-8"))
+        with urllib.request.urlopen(req, timeout=req_timeout) as resp:
+            return json.loads(resp.read().decode("utf-8", errors="replace"))
 
-    try:
-        res_json = _post(payload)
-    except urllib.error.HTTPError as e:
-        body = e.read().decode("utf-8", errors="replace")[:1200]
-        if e.code == 400:
-            if payload.get("max_tokens", 0) > 8192:
-                payload["max_tokens"] = 8192
-            else:
-                payload.pop("thinking", None)
-                payload.pop("response_format", None)
-            try:
-                res_json = _post(payload)
-            except urllib.error.HTTPError as e2:
-                payload.pop("thinking", None)
-                payload.pop("max_tokens", None)
-                payload.pop("response_format", None)
-                try:
-                    res_json = _post(payload)
-                except urllib.error.HTTPError as retry_error:
-                    retry_body = retry_error.read().decode("utf-8", errors="replace")[:1200]
-                    raise RuntimeError(f"LLM HTTP {retry_error.code}: {retry_body}") from retry_error
-        else:
-            raise RuntimeError(f"LLM HTTP {e.code}: {body}") from e
+    # 针对中转站号池偶发耗尽 (HTTP 502: Upstream returned an empty completion / no fallback account) 或 429/503/504，内置 4 次指数退避重试
+    last_err = None
+    res_json = None
+    for up_attempt in range(5):
+        try:
+            res_json = _post_once(payload)
+            choice0 = (res_json.get("choices") or [{}])[0]
+            msg0 = choice0.get("message") or {}
+            content0 = (msg0.get("content") or "").strip()
+            f_reason0 = choice0.get("finish_reason", "")
+            if f_reason0 == "length" and payload.get("max_tokens", 0) < 16384:
+                payload["max_tokens"] = 16384
+                continue
+            if not content0 and up_attempt < 4:
+                wait_empty = 4.0 * (up_attempt + 1) + random.uniform(0.5, 2.5)
+                time.sleep(wait_empty)
+                continue
+            break
+        except urllib.error.HTTPError as e:
+            body = e.read().decode("utf-8", errors="replace")[:1000]
+            last_err = RuntimeError(f"LLM HTTP {e.code}: {body}")
+            if e.code in (400, 422):
+                if payload.get("max_tokens", 0) > 8192:
+                    payload["max_tokens"] = 8192
+                else:
+                    payload.pop("thinking", None)
+                    payload.pop("response_format", None)
+                continue
+            if e.code in (429, 500, 502, 503, 504) and up_attempt < 4:
+                wait_s = 5.0 * (up_attempt + 1) + random.uniform(1.0, 4.0)
+                print(f"    [中转站繁忙 HTTP {e.code}] 号池暂时无空闲账号，等待 {wait_s:.1f}s 后自动重试 ({up_attempt + 1}/4) ...", flush=True)
+                time.sleep(wait_s)
+                continue
+            raise last_err from e
+        except Exception as e:
+            last_err = e
+            if up_attempt < 4:
+                wait_s = 4.0 * (up_attempt + 1) + random.uniform(0.5, 2.0)
+                time.sleep(wait_s)
+                continue
+            raise
 
-    record_usage(res_json.get("usage") if isinstance(res_json, dict) else None, model)
+    if not isinstance(res_json, dict):
+        raise last_err or RuntimeError("LLM 未返回有效 JSON")
+
+    record_usage(res_json.get("usage"), model)
     try:
         choice = res_json["choices"][0]
         finish_reason = choice.get("finish_reason", "")
         content = (choice["message"].get("content") or "").strip()
-        if finish_reason == "length":
+        if finish_reason == "length" and not content:
             raise RuntimeError("LLM 输出因达到 max_tokens 上限被截断 (finish_reason=length)")
         return content
     except (KeyError, IndexError, TypeError) as e:
         raise RuntimeError(f"LLM 响应格式异常: {str(res_json)[:800]}") from e
-
 
 SYSTEM_PROMPT = rf"""你是一位推荐系统（Recommender Systems）与信息检索（Information Retrieval）领域的资深研究员。
 你的任务是将输入的学术论文提炼为一篇**高信息密度、5分钟即可读懂核心思想的精读笔记（Concise Paper Note）**，而不是写冗长的全文翻译或逐段复述的流水账！
@@ -899,7 +943,7 @@ def translate_figure_captions(figures: list, api_key: str, base_url: str, model:
             temperature=0.0,
             timeout=120,
             response_format={"type": "json_object"},
-            max_tokens=2048,
+            max_tokens=8192,
             thinking=False,
         )
         raw = re.sub(r"^```(?:json)?\s*", "", raw)
@@ -1135,27 +1179,58 @@ def _fetch_arxiv_entries(api_params: dict, cache_dir: Path = None, download_pdf:
         full_body = ""
         pdf_file = None
         if download_pdf and cache_dir:
-            pdf_file = cache_dir / f"{re.sub(r'[^a-zA-Z0-9._-]', '_', arxiv_id)}.pdf"
-            if not pdf_file.exists():
-                try:
-                    pdf_req = urllib.request.Request(pdf_url, headers={"User-Agent": "RecSys-Paper-Notes/3.3"})
-                    with urllib.request.urlopen(pdf_req, timeout=60) as p_resp:
-                        pdf_file.write_bytes(p_resp.read())
-                except Exception as e:
-                    print(f"  [Warn] 下载 arXiv PDF 失败 ({arxiv_id}): {e}")
-                    pdf_file = None
+            safe_aid = re.sub(r"[^a-zA-Z0-9._-]", "_", arxiv_id)
+            pdf_file = cache_dir / f"{safe_aid}.pdf"
+            txt_cache = cache_dir / f"{safe_aid}.extracted.txt"
+            html_cache = cache_dir / f"{safe_aid}.html.txt"
 
-            html_cache = cache_dir / f"{re.sub(r'[^a-zA-Z0-9._-]', '_', arxiv_id)}.html.txt"
+            # 优先读取已缓存的全文文本，避免每次重跑都重新用 pdfplumber 慢速解析 PDF
             if html_cache.exists():
                 full_body = html_cache.read_text(encoding="utf-8", errors="ignore")
-            else:
+            elif txt_cache.exists():
+                full_body = txt_cache.read_text(encoding="utf-8", errors="ignore")
+
+            if not pdf_file.exists():
+                for dl_route in ("", "http://127.0.0.1:7897", "http://127.0.0.1:7890"):
+                    try:
+                        pdf_req = urllib.request.Request(pdf_url, headers={"User-Agent": "RecSys-Paper-Notes/3.9"})
+                        if dl_route:
+                            dl_opener = urllib.request.build_opener(
+                                urllib.request.ProxyHandler({"http": dl_route, "https": dl_route})
+                            )
+                            with dl_opener.open(pdf_req, timeout=30) as p_resp:
+                                pdf_file.write_bytes(p_resp.read())
+                        else:
+                            with urllib.request.urlopen(pdf_req, timeout=30) as p_resp:
+                                pdf_file.write_bytes(p_resp.read())
+                        break
+                    except urllib.error.HTTPError as he:
+                        if he.code == 404:
+                            print(f"  [Warn] 下载 arXiv PDF 失败 ({arxiv_id}): HTTP 404 Not Found (可能已撤稿)")
+                            pdf_file = None
+                            break
+                    except Exception:
+                        continue
+                else:
+                    print(f"  [Warn] 下载 arXiv PDF 超时或失败 ({arxiv_id})，已跳过 PDF 下载")
+                    pdf_file = None
+
+            if not full_body:
                 html_text = _fetch_arxiv_html_text(arxiv_id)
                 if len(html_text) > 2500:
-                    html_cache.write_text(html_text, encoding="utf-8")
+                    try:
+                        html_cache.write_text(html_text, encoding="utf-8")
+                    except OSError:
+                        pass
                     full_body = html_text
 
             if not full_body and pdf_file is not None and pdf_file.exists():
                 full_body = extract_text_from_pdf(pdf_file)
+                if len(full_body) > 500:
+                    try:
+                        txt_cache.write_text(full_body, encoding="utf-8")
+                    except OSError:
+                        pass
 
         combined_raw = f"{comment}\n{summary}\n{full_body}"
         paper_url, code_url, all_code_urls = extract_code_and_paper_urls(combined_raw, default_paper_url=abs_link)
@@ -1199,16 +1274,20 @@ def fetch_arxiv_papers(query: str, max_results: int = 5, cache_dir: Path = None,
     return _fetch_arxiv_entries(params, cache_dir=cache_dir, download_pdf=download_pdf)
 
 
-def fetch_arxiv_by_ids(arxiv_ids, cache_dir: Path = None, download_pdf: bool = True, batch_size: int = 40):
+def fetch_arxiv_by_ids(arxiv_ids, cache_dir: Path = None, download_pdf: bool = True, batch_size: int = 20):
     ids = [re.sub(r"v\d+$", "", i.strip()) for i in arxiv_ids if i and i.strip()]
     if not ids:
         return []
     all_papers = []
-    for start in range(0, len(ids), batch_size):
+    total_ids = len(ids)
+    for start in range(0, total_ids, batch_size):
         chunk = ids[start : start + batch_size]
+        end_idx = min(start + batch_size, total_ids)
+        if download_pdf:
+            print(f"  [arXiv 全文拉取] 正在下载并解析第 {start + 1}~{end_idx} / {total_ids} 篇论文的 PDF/HTML 全文 ...", flush=True)
         params = {"id_list": ",".join(chunk), "max_results": len(chunk)}
         all_papers.extend(_fetch_arxiv_entries(params, cache_dir=cache_dir, download_pdf=download_pdf))
-        if start + batch_size < len(ids):
+        if end_idx < total_ids:
             time.sleep(1.0)
     return all_papers
 
@@ -1762,8 +1841,7 @@ def tasks_from_curated_csv(csv_path: Path, cache_dir: Path, download_pdf: bool, 
         pending_rows = pending_rows[:limit]
     ids = [r["arxiv_id"] for r in pending_rows]
 
-    if skipped_existing > 0:
-        print(f"  [Fast-Skip] 已存在 {skipped_existing} 篇笔记，仅拉取剩余 {len(pending_rows)} 篇待生成论文的全文 ...")
+    print(f"  [Task-Plan] 已存在 {skipped_existing} 篇合格笔记，待拉取全文并生成 {len(pending_rows)} 篇论文 ...", flush=True)
     if not pending_rows:
         return []
 

@@ -9,34 +9,6 @@ hide:
 
 🔥 **高频主题：** TKDD ×2
 
-<div class="pn-filter-layout">
-  <aside class="pn-filter-rail">
-<div class="paper-tag-filter" data-paper-tag-filter>
-  <div class="paper-tag-filter__head">
-    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
-    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文；标签较多可滚动查看</span>
-    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
-      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
-      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
-    </span>
-    <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
-  </div>
-  <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="IPS 去偏" aria-pressed="false">IPS 去偏<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="双层聚类" aria-pressed="false">双层聚类<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回+精排两阶段" aria-pressed="false">召回+精排两阶段<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="技能感知表征" aria-pressed="false">技能感知表征<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="数据异质性" aria-pressed="false">数据异质性<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="标签分布学习" aria-pressed="false">标签分布学习<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="语义增强Transformer" aria-pressed="false">语义增强Transformer<span class="paper-tag-filter__count">1</span></button>
-  </div>
-  <div class="paper-tag-filter__status" data-tag-status></div>
-</div>
-  </aside>
-  <div class="pn-filter-list">
 <div class="conf-index">
 <section class="paper-section" data-paper-section>
 <hr />
@@ -58,6 +30,4 @@ hide:
 </dd>
 </dl>
 </section>
-</div>
-  </div>
 </div>

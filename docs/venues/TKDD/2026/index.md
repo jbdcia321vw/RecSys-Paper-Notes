@@ -9,31 +9,6 @@ hide:
 
 🔥 **高频主题：** TKDD ×2
 
-<div class="pn-filter-layout">
-  <aside class="pn-filter-rail">
-<div class="paper-tag-filter" data-paper-tag-filter>
-  <div class="paper-tag-filter__head">
-    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
-    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文；标签较多可滚动查看</span>
-    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
-      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
-      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
-    </span>
-    <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
-  </div>
-  <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="双流MLP对齐" aria-pressed="false">双流MLP对齐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="可复现评测基准" aria-pressed="false">可复现评测基准<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="扩散推荐" aria-pressed="false">扩散推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">1</span></button>
-  </div>
-  <div class="paper-tag-filter__status" data-tag-status></div>
-</div>
-  </aside>
-  <div class="pn-filter-list">
 <div class="conf-index">
 <section class="paper-section" data-paper-section>
 <hr />
@@ -55,6 +30,4 @@ hide:
 </dd>
 </dl>
 </section>
-</div>
-  </div>
 </div>

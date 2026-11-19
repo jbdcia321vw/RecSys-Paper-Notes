@@ -371,19 +371,24 @@ def render_tag_filter(items: list, excluded: set) -> str:
         return ""
 
     chips = []
-    for tag, count in sorted(counts.items(), key=lambda pair: (-pair[1], pair[0].lower())):
+    for tag, count in sorted(
+        ((tag, count) for tag, count in counts.items() if count >= 2),
+        key=lambda pair: (-pair[1], pair[0].lower()),
+    ):
         chips.append(
             f'<button type="button" class="paper-tag-filter__chip" '
             f'data-tag="{_esc(tag)}" aria-pressed="false">'
             f'{_esc(tag)}<span class="paper-tag-filter__count">{count}</span></button>'
         )
+    if not chips:
+        return ""
 
     return "\n".join(
         [
             '<div class="paper-tag-filter" data-paper-tag-filter>',
             '  <div class="paper-tag-filter__head">',
             '    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>',
-            '    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文；标签较多可滚动查看</span>',
+            '    <span class="paper-tag-filter__hint">仅显示 ≥2 篇论文的标签；默认 AND</span>',
             '    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">',
             '      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>',
             '      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>',
@@ -394,21 +399,6 @@ def render_tag_filter(items: list, excluded: set) -> str:
             "\n".join(chips),
             "  </div>",
             '  <div class="paper-tag-filter__status" data-tag-status></div>',
-            "</div>",
-        ]
-    )
-
-
-def render_filter_layout(filter_html: str, content_html: str) -> str:
-    return "\n".join(
-        [
-            '<div class="pn-filter-layout">',
-            '  <aside class="pn-filter-rail">',
-            filter_html,
-            "  </aside>",
-            '  <div class="pn-filter-list">',
-            content_html,
-            "  </div>",
             "</div>",
         ]
     )
@@ -618,9 +608,8 @@ def build_topic_pages(docs_dir: Path, notes: list):
                 sorted_items, lambda item: "../../" + note_url(item["rel_from_docs"])
             )
             if tag_filter:
-                page_lines.append(render_filter_layout(tag_filter, paper_list))
-            else:
-                page_lines.append(paper_list)
+                page_lines.extend([tag_filter, ""])
+            page_lines.append(paper_list)
 
         (topics_dir / f"{cat_slug}.md").write_text("\n".join(page_lines) + "\n", encoding="utf-8")
 
@@ -839,9 +828,8 @@ def build_venue_pages(docs_dir: Path, notes: list, years: list):
             section_lines.append("</div>")
             sections_html = "\n".join(section_lines)
             if tag_filter:
-                year_lines.append(render_filter_layout(tag_filter, sections_html))
-            else:
-                year_lines.append(sections_html)
+                year_lines.extend([tag_filter, ""])
+            year_lines.append(sections_html)
             (year_dir / "index.md").write_text("\n".join(year_lines) + "\n", encoding="utf-8")
 
             for cat_slug, cinfo in CATEGORIES.items():
@@ -899,9 +887,8 @@ def build_venue_pages(docs_dir: Path, notes: list, years: list):
                     sorted_items = sorted(c_items, key=lambda x: x["title"].lower())
                     paper_list = render_paper_dl(sorted_items, lambda item: item["path"].stem + "/")
                     if tag_filter:
-                        c_lines.append(render_filter_layout(tag_filter, paper_list))
-                    else:
-                        c_lines.append(paper_list)
+                        c_lines.extend([tag_filter, ""])
+                    c_lines.append(paper_list)
                 (c_dir / "index.md").write_text("\n".join(c_lines) + "\n", encoding="utf-8")
 
 
@@ -912,7 +899,7 @@ hide:
 
 # 🔎 搜索论文笔记
 
-按标题、关键词与标签检索全站论文。标签筛选默认使用 **AND**（同时包含），可切换为 **OR**（任一匹配）。
+按标题、关键词与会议检索全站论文，可按会议筛选结果。
 
 <div id="pn-search-root">
   <section class="pn-search-main">
@@ -926,17 +913,6 @@ hide:
     <fieldset id="pn-search-conference-filter" disabled>
       <legend>会议筛选</legend>
       <div id="pn-search-conferences"></div>
-    </fieldset>
-    <fieldset id="pn-search-tag-filter" disabled>
-      <legend>标签筛选（默认 AND）</legend>
-      <div id="pn-search-tags"></div>
-      <div class="pn-tag-actions">
-        <span class="pn-tag-mode" id="pn-search-tag-mode" role="group" aria-label="标签匹配模式">
-          <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
-          <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
-        </span>
-        <button type="button" id="pn-search-tag-clear" disabled>清除标签</button>
-      </div>
     </fieldset>
   </aside>
 </div>

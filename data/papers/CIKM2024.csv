@@ -1,0 +1,41 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation,2406.12529,https://arxiv.org/abs/2406.12529,,cross_domain_multi_scenario,CIKM,2024
+AlignRec: Aligning and Training in Multimodal Recommendations,2403.12384,https://arxiv.org/abs/2403.12384,https://github.com/sjtulyf123/AlignRec_CIKM24,multimodal_rec,CIKM,2024
+Learnable Item Tokenization for Generative Recommendation,2405.07314,https://arxiv.org/abs/2405.07314,,generative_rec,CIKM,2024
+Personalized Video Summarization by Multimodal Video Understanding,2411.03531,https://arxiv.org/abs/2411.03531,,multimodal_rec,CIKM,2024
+Feedback Reciprocal Graph Collaborative Filtering,2408.02404,https://arxiv.org/abs/2408.02404,,collaborative_filtering,CIKM,2024
+RECE: Reduced Cross-Entropy Loss for Large-Catalogue Sequential Recommenders,2408.02354,https://arxiv.org/abs/2408.02354,,sequential_rec,CIKM,2024
+Quantum Cognition-Inspired EEG-based Recommendation via Graph Neural Networks,2501.02671,https://arxiv.org/abs/2501.02671,,graph_rec,CIKM,2024
+EXIT: An EXplicit Interest Transfer Framework for Cross-Domain Recommendation,2407.20121,https://arxiv.org/abs/2407.20121,,cross_domain_multi_scenario,CIKM,2024
+Interpretable Triplet Importance for Personalized Ranking,2407.19469,https://arxiv.org/abs/2407.19469,,collaborative_filtering,CIKM,2024
+MARS: Matching Attribute-aware Representations for Text-based Sequential Recommendation,2409.00702,https://arxiv.org/abs/2409.00702,https://github.com/junieberry/MARS,sequential_rec,CIKM,2024
+Pareto-based Multi-Objective Recommender System with Forgetting Curve,2312.16868,https://arxiv.org/abs/2312.16868,,multi_task_reranking,CIKM,2024
+GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation,2407.12338,https://arxiv.org/abs/2407.12338,,cold_start_rec,CIKM,2024
+UniRec: A Dual Enhancement of Uniformity and Frequency in Sequential Recommendations,2406.18470,https://arxiv.org/abs/2406.18470,https://github.com/Linxi000/UniRec,sequential_rec,CIKM,2024
+Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation,2406.12580,https://arxiv.org/abs/2406.12580,,sequential_rec,CIKM,2024
+Retrieval-Oriented Knowledge for Click-Through Rate Prediction,2404.18304,https://arxiv.org/abs/2404.18304,https://github.com/HSLiu-Initial/ROK.git,ctr_feature_interaction,CIKM,2024
+A Universal Sets-level Optimization Framework for Next Set Recommendation,2410.23023,https://arxiv.org/abs/2410.23023,,sequential_rec,CIKM,2024
+Collaborative Cross-modal Fusion with Large Language Model for Recommendation,2408.08564,https://arxiv.org/abs/2408.08564,,llm_rec,CIKM,2024
+Efficient and Robust Regularized Federated Recommendation,2411.01540,https://arxiv.org/abs/2411.01540,,debias_fairness_industrial,CIKM,2024
+Multi-Behavior Generative Recommendation,2405.16871,https://arxiv.org/abs/2405.16871,,generative_rec,CIKM,2024
+Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?,2408.11767,https://arxiv.org/abs/2408.11767,,multimodal_rec,CIKM,2024
+Contrastive Learning on Medical Intents for Sequential Prescription Recommendation,2408.10259,https://arxiv.org/abs/2408.10259,,sequential_rec,CIKM,2024
+Adversarial Text Rewriting for Text-aware Recommender Systems,2408.00312,https://arxiv.org/abs/2408.00312,https://github.com/sejoonoh/ATR,debias_fairness_industrial,CIKM,2024
+RecDiff: Diffusion Model for Social Recommendation,2406.01629,https://arxiv.org/abs/2406.01629,https://github.com/HKUDS/RecDiff,social_group_rec,CIKM,2024
+TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou,2407.16357,https://arxiv.org/abs/2407.16357,,ctr_feature_interaction,CIKM,2024
+"Enhancing Taobao Display Advertising with Multimodal Representations: Challenges, Approaches and Insights",2407.19467,https://arxiv.org/abs/2407.19467,,multimodal_rec,CIKM,2024
+Improved Estimation of Ranks for Learning Item Recommenders with Negative Sampling,2410.06371,https://arxiv.org/abs/2410.06371,,collaborative_filtering,CIKM,2024
+Ads Supply Personalization via Doubly Robust Learning,2410.12799,https://arxiv.org/abs/2410.12799,,collaborative_filtering,CIKM,2024
+Scalable Dynamic Embedding Size Search for Streaming Recommendation,2407.15411,https://arxiv.org/abs/2407.15411,https://github.com/qykcq/Scalable-Dynamic-Embedding-Size-Search-for-Streaming-Recommendation,rl_bandit_rec,CIKM,2024
+Large Language Models Enhanced Collaborative Filtering,2403.17688,https://arxiv.org/abs/2403.17688,,llm_rec,CIKM,2024
+DivNet: Diversity-Aware Self-Correcting Sequential Recommendation Networks,2411.00395,https://arxiv.org/abs/2411.00395,,sequential_rec,CIKM,2024
+MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems with Large Language Models,2407.04960,https://arxiv.org/abs/2407.04960,,agent_conversational_rec,CIKM,2024
+Natural Language-Assisted Multi-modal Medication Recommendation,2501.07166,https://arxiv.org/abs/2501.07166,https://github.com/jtan1102/NLA-MMR_CIKM_2024,multimodal_rec,CIKM,2024
+Content-Based Collaborative Generation for Recommender Systems,2403.18480,https://arxiv.org/abs/2403.18480,https://github.com/Junewang0614/ColaRec,generative_rec,CIKM,2024
+Sequence-level Semantic Representation Fusion for Recommender Systems,2402.18166,https://arxiv.org/abs/2402.18166,https://github.com/RUCAIBox/TedRec,sequential_rec,CIKM,2024
+Enhancing Content-based Recommendation via Large Language Model,2404.00236,https://arxiv.org/abs/2404.00236,,llm_rec,CIKM,2024
+ROLeR: Effective Reward Shaping in Offline Reinforcement Learning for Recommender Systems,2407.13163,https://arxiv.org/abs/2407.13163,https://github.com/ArronDZhang/ROLeR,rl_bandit_rec,CIKM,2024
+Reformulating Conversational Recommender Systems as Tri-Phase Offline Policy Learning,2408.06809,https://arxiv.org/abs/2408.06809,,agent_conversational_rec,CIKM,2024
+An Enhanced Batch Query Architecture in Real-time Recommendation,2409.00400,https://arxiv.org/abs/2409.00400,,debias_fairness_industrial,CIKM,2024
+Watermarking Recommender Systems,2407.21034,https://arxiv.org/abs/2407.21034,,debias_fairness_industrial,CIKM,2024
+Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph,2402.13750,https://arxiv.org/abs/2402.13750,,llm_rec,CIKM,2024

@@ -1,0 +1,21 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Enhancing Job Recommendation through LLM-based Generative Adversarial Networks,2307.10747,https://arxiv.org/abs/2307.10747,,llm_rec,AAAI,2024
+LGMRec: Local and Global Graph Learning for Multimodal Recommendation,2312.16400,https://arxiv.org/abs/2312.16400,,multimodal_rec,AAAI,2024
+VITA: 'Carefully Chosen and Weighted Less' Is Better in Medication Recommendation,2312.12100,https://arxiv.org/abs/2312.12100,https://github.com/jhheo0123/VITA,sequential_rec,AAAI,2024
+Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation,2403.12100,https://arxiv.org/abs/2403.12100,,poi_spatiotemporal_rec,AAAI,2024
+Ada-Retrieval: An Adaptive Multi-Round Retrieval Paradigm for Sequential Recommendations,2401.06633,https://arxiv.org/abs/2401.06633,https://github.com/ll0ruc/Ada-Retrieval,sequential_rec,AAAI,2024
+Multi-Domain Recommendation to Attract Users via Domain Preference Modeling,2403.17374,https://arxiv.org/abs/2403.17374,,cross_domain_multi_scenario,AAAI,2024
+Knowledge-Powered Recommendation for an Improved Diet Water Footprint,2403.17426,https://arxiv.org/abs/2403.17426,,graph_rec,AAAI,2024
+Adaptive Hardness Negative Sampling for Collaborative Filtering,2401.05191,https://arxiv.org/abs/2401.05191,,collaborative_filtering,AAAI,2024
+AT4CTR: Auxiliary Match Tasks for Enhancing Click-Through Rate Prediction,2312.06683,https://arxiv.org/abs/2312.06683,,ctr_feature_interaction,AAAI,2024
+Temporally and Distributionally Robust Optimization for Cold-Start Recommendation,2312.09901,https://arxiv.org/abs/2312.09901,https://github.com/Linxyhaha/TDRO,cold_start_rec,AAAI,2024
+Spectral-Based Graph Neural Networks for Complementary Item Recommendation,2401.02130,https://arxiv.org/abs/2401.02130,,graph_rec,AAAI,2024
+Plug-in Diffusion Model for Sequential Recommendation,2401.02913,https://arxiv.org/abs/2401.02913,https://github.com/hulkima/PDRec,sequential_rec,AAAI,2024
+An Attentive Inductive Bias for Sequential Recommendation beyond the Self-Attention,2312.10325,https://arxiv.org/abs/2312.10325,https://github.com/yehjin-shin/BSARec,sequential_rec,AAAI,2024
+Promoting Research Collaboration with Open Data Driven Team Recommendation in Response to Call for Proposals,2309.09404,https://arxiv.org/abs/2309.09404,,social_group_rec,AAAI,2024
+CREAD: A Classification-Restoration Framework with Error Adaptive Discretization for Watch Time Prediction in Video Recommender Systems,2401.07521,https://arxiv.org/abs/2401.07521,,ctr_feature_interaction,AAAI,2024
+STEM: Unleashing the Power of Embeddings for Multi-task Recommendation,2308.13537,https://arxiv.org/abs/2308.13537,https://github.com/LiangcaiSu/STEM,multi_task_reranking,AAAI,2024
+Tell Me What Is Good About This Property: Leveraging Reviews For Segment-Personalized Image Collection Summarization,2310.19743,https://arxiv.org/abs/2310.19743,,multimodal_rec,AAAI,2024
+Parallel Ranking of Ads and Creatives in Real-Time Advertising Systems,2312.12750,https://arxiv.org/abs/2312.12750,,ctr_feature_interaction,AAAI,2024
+Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations,2307.05722,https://arxiv.org/abs/2307.05722,https://github.com/WLiK/GLRec,llm_rec,AAAI,2024
+UNEX-RL: Reinforcing Long-Term Rewards in Multi-Stage Recommender Systems with UNidirectional EXecution,2401.06470,https://arxiv.org/abs/2401.06470,,rl_bandit_rec,AAAI,2024

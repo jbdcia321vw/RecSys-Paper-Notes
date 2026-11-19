@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Task Recommendation in Spatial Crowdsourcing: A Trade-Off Between Diversity and Coverage",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00028",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Searching Personalized k-wing in Bipartite Graphs (Extended Abstract)",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00495",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Why-Not Explainable Graph Recommender",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00178",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Comparing Personalized Relevance Algorithms for Directed Graphs",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00413",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling User Attention in Music Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00064",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Meta-Optimized Joint Generative and Contrastive Learning for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00060",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Meta-optimized Structural and Semantic Contrastive Learning for Graph Collaborative Filtering",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00058",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00354",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Etude - Evaluating the Inference Latency of Session-Based Recommendation Models at Scale",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00389",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FairCR - An Evaluation and Recommendation System for Fair Classification Algorithms",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00431",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Modality is All You Need for Transferable Recommender Systems",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00380",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning k-Determinantal Point Processes for Personalized Ranking",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00084",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Enhanced Recommendation with User-Centric Subgraph Network",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00102",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Structure- and Logic-Aware Heterogeneous Graph Learning for Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00048",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PR-GNN: Enhancing PoC Report Recommendation with Graph Neural Network",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00451",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Discovering Personalized Characteristic Communities in Attributed Graphs",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00221",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Online Index Recommendation for Slow Queries",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00398",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Feed: Towards Personalization-Effective Federated Learning",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00144",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Value-Wise ConvNet for Transformer Models: An Infinite Time-Aware Recommender System (Extended Abstract)",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00489",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DMRNet: Effective Network for Accurate Discharge Medication Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00262",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Logical Relation Modeling and Mining in Hyperbolic Space for Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00108",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "BSL: Understanding and Improving Softmax Loss for Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00068",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "When Multi-Behavior Meets Multi-Interest: Multi-Behavior Sequential Recommendation with Multi-Interest Self-Supervised Learning",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00070",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-view Attentive Variational Learning for Group Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00381",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "HeteFedRec: Federated Recommender Systems with Model Heterogeneity",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00109",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hide Your Model: A Parameter Transmission-free Federated Recommender System",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00053",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Preventing the Popular Item Embedding Based Attack in Federated Recommendations",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00173",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00063",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00067",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Uncovering the Propensity Identification Problem in Debiased Recommendations",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00056",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Augmentation for Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00049",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00118",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Recommending Learning Objects through Attentive Heterogeneous Graph Convolution and Operation- Aware Neural Network (Extended Abstract)",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00505",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized PageRanks over Dynamic Graphs - The Case for Optimizing Quality of Service",
+    "ee": "https://doi.org/10.1109/ICDE60146.2024.00038",
+    "key": "dblp_sparql"
+  }
+]

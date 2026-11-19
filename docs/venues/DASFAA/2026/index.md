@@ -7,37 +7,6 @@ hide:
 
 3 篇 DASFAA 2026 论文解读，覆盖 3 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
-<div class="pn-filter-layout">
-  <aside class="pn-filter-rail">
-<div class="paper-tag-filter" data-paper-tag-filter>
-  <div class="paper-tag-filter__head">
-    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
-    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文；标签较多可滚动查看</span>
-    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
-      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
-      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
-    </span>
-    <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
-  </div>
-  <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="LLM 语义规划" aria-pressed="false">LLM 语义规划<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="偏好优化" aria-pressed="false">偏好优化<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="分层强化学习" aria-pressed="false">分层强化学习<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="动态负采样" aria-pressed="false">动态负采样<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="解释一致性" aria-pressed="false">解释一致性<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="课程强化学习" aria-pressed="false">课程强化学习<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="过滤气泡缓解" aria-pressed="false">过滤气泡缓解<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">1</span></button>
-  </div>
-  <div class="paper-tag-filter__status" data-tag-status></div>
-</div>
-  </aside>
-  <div class="pn-filter-list">
 <div class="conf-index">
 <section class="paper-section" data-paper-section>
 <hr />
@@ -69,6 +38,4 @@ hide:
 </dd>
 </dl>
 </section>
-</div>
-  </div>
 </div>

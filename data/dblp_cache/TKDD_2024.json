@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Put Your Voice on Stage: Personalized Headline Generation for News Articles",
+    "ee": "https://doi.org/10.1145/3629168",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ID-SR: Privacy-Preserving Social Recommendation Based on Infinite Divisibility for Trustworthy AI",
+    "ee": "https://doi.org/10.1145/3639412",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Attacking Click-through Rate Predictors via Generating Realistic Fake Samples",
+    "ee": "https://doi.org/10.1145/3643685",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Users' Curiosity in Recommender Systems",
+    "ee": "https://doi.org/10.1145/3617598",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LSAB: User Behavioral Pattern Modeling in Sequential Recommendation by Learning Self-Attention Bias",
+    "ee": "https://doi.org/10.1145/3632625",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dual Homogeneity Hypergraph Motifs with Cross-view Contrastive Learning for Multiple Social Recommendations",
+    "ee": "https://doi.org/10.1145/3653976",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Adaptive Adversarial Contrastive Learning for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1145/3630259",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Differential Privacy in Sequential Recommendation: A Noisy Graph Neural Network Approach",
+    "ee": "https://doi.org/10.1145/3643821",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Swarm Self-supervised Hypergraph Embedding for Recommendation",
+    "ee": "https://doi.org/10.1145/3638058",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deconfounding User Preference in Recommendation Systems through Implicit and Explicit Feedback",
+    "ee": "https://doi.org/10.1145/3673762",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Heterogeneous Meta-Path Graph Learning for Higher-Order Social Recommendation",
+    "ee": "https://doi.org/10.1145/3673658",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Quantum Nearest Neighbor Collaborative Filtering Algorithm for Recommendation System",
+    "ee": "https://doi.org/10.1145/3674982",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LMACL: Improving Graph Collaborative Filtering with Learnable Model Augmentation Contrastive Learning",
+    "ee": "https://doi.org/10.1145/3657302",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "VAE*: A Novel Variational Autoencoder via Revisiting Positive and Negative Samples for Top-N Recommendation",
+    "ee": "https://doi.org/10.1145/3680552",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DeepCPR: Deep Path Reasoning Using Sequence of User-Preferred Attributes for Conversational Recommendation",
+    "ee": "https://doi.org/10.1145/3610775",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dual-Side Adversarial Learning Based Fair Recommendation for Sensitive Attribute Filtering",
+    "ee": "https://doi.org/10.1145/3648683",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sequential and Graphical Cross-Domain Recommendations with a Multi-View Hierarchical Transfer Gate",
+    "ee": "https://doi.org/10.1145/3604615",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Global and Multi-granularity Local Representation with MLP for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3638562",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Criterion-based Heterogeneous Collaborative Filtering for Multi-behavior Implicit Recommendation",
+    "ee": "https://doi.org/10.1145/3611310",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Discrete Listwise Content-aware Recommendation",
+    "ee": "https://doi.org/10.1145/3609334",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FINEST: Stabilizing Recommendations by Rank-Preserving Fine-Tuning",
+    "ee": "https://doi.org/10.1145/3695256",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Survey on Bid Optimization in Real-Time Bidding Display Advertising",
+    "ee": "https://doi.org/10.1145/3628603",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Sequences as Star Graphs to Address Over-Smoothing in Self-Attentive Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3676560",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Privacy-Preserving Non-Negative Matrix Factorization with Outliers",
+    "ee": "https://doi.org/10.1145/3632961",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Scenario and Multi-Task Aware Feature Interaction for Recommendation System",
+    "ee": "https://doi.org/10.1145/3651312",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Prerequisite-Enhanced Category-Aware Graph Neural Networks for Course Recommendation",
+    "ee": "https://doi.org/10.1145/3643644",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Federated Learning with Layer-Wise Feature Transformation via Meta-Learning",
+    "ee": "https://doi.org/10.1145/3638252",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Dual Perspective Framework of Knowledge-correlation for Cross-domain Recommendation",
+    "ee": "https://doi.org/10.1145/3652520",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Fairness in Recommender Systems: Evaluation Approaches and Assurance Strategies",
+    "ee": "https://doi.org/10.1145/3604558",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "BapFL: You can Backdoor Personalized Federated Learning",
+    "ee": "https://doi.org/10.1145/3649316",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving Graph Collaborative Filtering with Directional Behavior Enhanced Contrastive Learning",
+    "ee": "https://doi.org/10.1145/3663574",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FedEgo: Privacy-preserving Personalized Federated Graph Learning with Ego-graphs",
+    "ee": "https://doi.org/10.1145/3624017",
+    "key": "dblp_sparql"
+  }
+]

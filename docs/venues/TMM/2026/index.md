@@ -7,29 +7,6 @@ hide:
 
 1 篇 IEEE TMM 2026 论文解读，覆盖 1 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
-<div class="pn-filter-layout">
-  <aside class="pn-filter-rail">
-<div class="paper-tag-filter" data-paper-tag-filter>
-  <div class="paper-tag-filter__head">
-    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
-    <span class="paper-tag-filter__hint">默认 AND：选多个标签时只显示同时包含这些标签的论文；标签较多可滚动查看</span>
-    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
-      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
-      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
-    </span>
-    <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
-  </div>
-  <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="TOMM" aria-pressed="false">TOMM<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="双图对比学习" aria-pressed="false">双图对比学习<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">1</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="递归跨模态注意力" aria-pressed="false">递归跨模态注意力<span class="paper-tag-filter__count">1</span></button>
-  </div>
-  <div class="paper-tag-filter__status" data-tag-status></div>
-</div>
-  </aside>
-  <div class="pn-filter-list">
 <div class="conf-index">
 <section class="paper-section" data-paper-section>
 <hr />
@@ -41,6 +18,4 @@ hide:
 </dd>
 </dl>
 </section>
-</div>
-  </div>
 </div>

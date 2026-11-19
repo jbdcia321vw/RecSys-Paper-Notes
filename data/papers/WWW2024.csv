@@ -1,0 +1,75 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+General Debiasing for Graph-based Collaborative Filtering via Adversarial Graph Dropout,2402.13769,https://arxiv.org/abs/2402.13769,https://github.com/Arthurma71/AdvDrop,debias_fairness_industrial,WWW,2024
+Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation,2401.14678,https://arxiv.org/abs/2401.14678,,cross_domain_multi_scenario,WWW,2024
+GraphPro: Graph Pre-training and Prompt Learning for Recommendation,2311.16716,https://arxiv.org/abs/2311.16716,https://github.com/HKUDS/GraphPro,graph_rec,WWW,2024
+Filter Bubble or Homogenization? Disentangling the Long-Term Effects of Recommendations on User Consumption Patterns,2402.15013,https://arxiv.org/abs/2402.15013,,debias_fairness_industrial,WWW,2024
+Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation,2312.00078,https://arxiv.org/abs/2312.00078,,ctr_feature_interaction,WWW,2024
+Knowledge-Augmented Large Language Models for Personalized Contextual Query Suggestion,2311.06318,https://arxiv.org/abs/2311.06318,,llm_rec,WWW,2024
+Macro Graph Neural Networks for Online Billion-Scale Recommender Systems,2401.14939,https://arxiv.org/abs/2401.14939,,ctr_feature_interaction,WWW,2024
+End-to-End Graph-Sequential Representation Learning for Accurate Recommendations,2403.00895,https://arxiv.org/abs/2403.00895,,sequential_rec,WWW,2024
+Proactive Recommendation with Iterative Preference Guidance,2403.07571,https://arxiv.org/abs/2403.07571,https://github.com/GabyUSTC/IPG-Rec,rl_bandit_rec,WWW,2024
+Neural Contextual Bandits for Personalized Recommendation,2312.14037,https://arxiv.org/abs/2312.14037,,rl_bandit_rec,WWW,2024
+PPM : A Pre-trained Plug-in Model for Click-through Rate Prediction,2403.10049,https://arxiv.org/abs/2403.10049,,ctr_feature_interaction,WWW,2024
+Link Recommendation to Augment Influence Diffusion with Provable Guarantees,2402.19189,https://arxiv.org/abs/2402.19189,,social_group_rec,WWW,2024
+Cache-Aware Reinforcement Learning in Large-Scale Recommender Systems,2404.14961,https://arxiv.org/abs/2404.14961,,rl_bandit_rec,WWW,2024
+END4Rec: Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation,2403.17603,https://arxiv.org/abs/2403.17603,,sequential_rec,WWW,2024
+Modeling Balanced Explicit and Implicit Relations with Contrastive Learning for Knowledge Concept Recommendation in MOOCs,2402.08256,https://arxiv.org/abs/2402.08256,,graph_rec,WWW,2024
+Towards Graph Foundation Models for Personalization,2403.07478,https://arxiv.org/abs/2403.07478,,graph_rec,WWW,2024
+Generative News Recommendation,2403.03424,https://arxiv.org/abs/2403.03424,,llm_rec,WWW,2024
+Cold-start Bundle Recommendation via Popularity-based Coalescence and Curriculum Heating,2310.03813,https://arxiv.org/abs/2310.03813,,cold_start_rec,WWW,2024
+Recall-Augmented Ranking: Enhancing Click-Through Rate Prediction Accuracy with Cross-Stage Data,2404.09578,https://arxiv.org/abs/2404.09578,,ctr_feature_interaction,WWW,2024
+Understanding and Counteracting Feature-Level Bias in Click-Through Rate Prediction,2402.03600,https://arxiv.org/abs/2402.03600,,debias_fairness_industrial,WWW,2024
+Item-side Fairness of Large Language Model-based Recommendation System,2402.15215,https://arxiv.org/abs/2402.15215,https://github.com/JiangM-C/IFairLRS.git,debias_fairness_industrial,WWW,2024
+A Data-Centric Multi-Objective Learning Framework for Responsible Recommendation Systems,2310.13260,https://arxiv.org/abs/2310.13260,,multi_task_reranking,WWW,2024
+Challenging Low Homophily in Social Recommendation,2401.14606,https://arxiv.org/abs/2401.14606,,social_group_rec,WWW,2024
+Co-clustering for Federated Recommender System,2411.01690,https://arxiv.org/abs/2411.01690,,debias_fairness_industrial,WWW,2024
+Modeling User Viewing Flow Using Large Language Models for Article Recommendation,2311.07619,https://arxiv.org/abs/2311.07619,,llm_rec,WWW,2024
+RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems,2403.06465,https://arxiv.org/abs/2403.06465,https://github.com/microsoft/RecAI,llm_rec,WWW,2024
+Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random,2403.00817,https://arxiv.org/abs/2403.00817,,debias_fairness_industrial,WWW,2024
+Discrete Conditional Diffusion for Reranking in Recommendation,2308.06982,https://arxiv.org/abs/2308.06982,,multi_task_reranking,WWW,2024
+Top-Personalized-K Recommendation,2402.16304,https://arxiv.org/abs/2402.16304,,multi_task_reranking,WWW,2024
+Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation,2401.14583,https://arxiv.org/abs/2401.14583,,debias_fairness_industrial,WWW,2024
+RAT: Retrieval-Augmented Transformer for Click-Through Rate Prediction,2404.02249,https://arxiv.org/abs/2404.02249,https://github.com/YushenLi807/WWW24-RAT,ctr_feature_interaction,WWW,2024
+Learning Category Trees for ID-Based Recommendation: Exploring the Power of Differentiable Vector Quantization,2308.16761,https://arxiv.org/abs/2308.16761,,generative_rec,WWW,2024
+Discrete Semantic Tokenization for Deep CTR Prediction,2403.08206,https://arxiv.org/abs/2403.08206,,ctr_feature_interaction,WWW,2024
+Intelligent Model Update Strategy for Sequential Recommendation,2302.07335,https://arxiv.org/abs/2302.07335,,sequential_rec,WWW,2024
+Benchmarking News Recommendation in the Era of Green AI,2403.04736,https://arxiv.org/abs/2403.04736,,debias_fairness_industrial,WWW,2024
+Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks,2403.05185,https://arxiv.org/abs/2403.05185,,graph_rec,WWW,2024
+Towards Personalized Privacy: User-Governed Data Contribution for Federated Recommendation,2401.17630,https://arxiv.org/abs/2401.17630,,debias_fairness_industrial,WWW,2024
+RimiRec: Modeling Refined Multi-interest in Hierarchical Structure for Recommendation,2402.01253,https://arxiv.org/abs/2402.01253,,collaborative_filtering,WWW,2024
+Reconciling the accuracy-diversity trade-off in recommendations,2307.15142,https://arxiv.org/abs/2307.15142,,debias_fairness_industrial,WWW,2024
+Debiasing Recommendation with Personal Popularity,2402.07425,https://arxiv.org/abs/2402.07425,https://github.com/Stevenn9981/PPAC,debias_fairness_industrial,WWW,2024
+Representation Learning with Large Language Models for Recommendation,2310.15950,https://arxiv.org/abs/2310.15950,https://github.com/HKUDS/RLMRec,llm_rec,WWW,2024
+Uncovering the Deep Filter Bubble: Narrow Exposure in Short-Video Recommendation,2403.04511,https://arxiv.org/abs/2403.04511,,debias_fairness_industrial,WWW,2024
+Large Language Models as Data Augmenters for Cold-Start Item Recommendation,2402.11724,https://arxiv.org/abs/2402.11724,,cold_start_rec,WWW,2024
+Scalable and Provably Fair Exposure Control for Large-Scale Recommender Systems,2402.14369,https://arxiv.org/abs/2402.14369,,debias_fairness_industrial,WWW,2024
+Lower-Left Partial AUC: An Effective and Efficient Optimization Metric for Recommendation,2403.00844,https://arxiv.org/abs/2403.00844,,collaborative_filtering,WWW,2024
+TikTok and the Art of Personalization: Investigating Exploration and Exploitation on Social Media Feeds,2403.12410,https://arxiv.org/abs/2403.12410,,rl_bandit_rec,WWW,2024
+Distributionally Robust Graph-based Recommendation System,2402.12994,https://arxiv.org/abs/2402.12994,https://github.com/WANGBohaO-jpg/DR-GNN,graph_rec,WWW,2024
+Leave No One Behind: Online Self-Supervised Self-Distillation for Sequential Recommendation,2404.07219,https://arxiv.org/abs/2404.07219,,sequential_rec,WWW,2024
+PromptMM: Multi-Modal Knowledge Distillation for Recommendation with Prompt-Tuning,2402.17188,https://arxiv.org/abs/2402.17188,,multimodal_rec,WWW,2024
+Can Small Language Models be Good Reasoners for Sequential Recommendation?,2403.04260,https://arxiv.org/abs/2403.04260,,llm_rec,WWW,2024
+Uplift Modeling for Target User Attacks on Recommender Systems,2403.02692,https://arxiv.org/abs/2403.02692,,debias_fairness_industrial,WWW,2024
+Intersectional Two-sided Fairness in Recommendation,2402.02816,https://arxiv.org/abs/2402.02816,,debias_fairness_industrial,WWW,2024
+FairSync: Ensuring Amortized Group Exposure in Distributed Recommendation Retrieval,2402.10628,https://arxiv.org/abs/2402.10628,,debias_fairness_industrial,WWW,2024
+MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation,2403.06747,https://arxiv.org/abs/2403.06747,,ctr_feature_interaction,WWW,2024
+Rethinking Cross-Domain Sequential Recommendation under Open-World Assumptions,2311.04590,https://arxiv.org/abs/2311.04590,,cross_domain_multi_scenario,WWW,2024
+A New Creative Generation Pipeline for Click-Through Rate with Stable Diffusion Model,2401.10934,https://arxiv.org/abs/2401.10934,,ctr_feature_interaction,WWW,2024
+UnifiedSSR: A Unified Framework of Sequential Search and Recommendation,2310.13921,https://arxiv.org/abs/2310.13921,,cross_domain_multi_scenario,WWW,2024
+Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation,2310.11730,https://arxiv.org/abs/2310.11730,,debias_fairness_industrial,WWW,2024
+Enhancing Interpretability and Effectiveness in Recommendation with Numerical Features via Learning to Contrast the Counterfactual samples,2509.03187,https://arxiv.org/abs/2509.03187,,self_supervised_denoising,WWW,2024
+Recommender Transformers with Behavior Pathways,2206.06804,https://arxiv.org/abs/2206.06804,,sequential_rec,WWW,2024
+When Federated Recommendation Meets Cold-Start Problem: Separating Item Attributes and User Interactions,2305.12650,https://arxiv.org/abs/2305.12650,,cold_start_rec,WWW,2024
+AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems,2310.09233,https://arxiv.org/abs/2310.09233,,agent_conversational_rec,WWW,2024
+Ensuring User-side Fairness in Dynamic Recommender Systems,2308.15651,https://arxiv.org/abs/2308.15651,,debias_fairness_industrial,WWW,2024
+Poisoning Federated Recommender Systems with Fake Users,2402.11637,https://arxiv.org/abs/2402.11637,,debias_fairness_industrial,WWW,2024
+RecDCL: Dual Contrastive Learning for Recommendation,2401.15635,https://arxiv.org/abs/2401.15635,https://github.com/THUDM/RecDCL,self_supervised_denoising,WWW,2024
+On Practical Diversified Recommendation with Controllable Category Diversity Framework,2402.03801,https://arxiv.org/abs/2402.03801,,debias_fairness_industrial,WWW,2024
+NoteLLM: A Retrievable Large Language Model for Note Recommendation,2403.01744,https://arxiv.org/abs/2403.01744,,llm_rec,WWW,2024
+Harnessing Large Language Models for Text-Rich Sequential Recommendation,2403.13325,https://arxiv.org/abs/2403.13325,,sequential_rec,WWW,2024
+How Reliable is Your Simulator? Analysis on the Limitations of Current LLM-based User Simulators for Conversational Recommendation,2403.16416,https://arxiv.org/abs/2403.16416,,agent_conversational_rec,WWW,2024
+Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation,2403.11136,https://arxiv.org/abs/2403.11136,https://github.com/AIM-SE/DA4Rec,self_supervised_denoising,WWW,2024
+Linear-Time Graph Neural Networks for Scalable Recommendations,2402.13973,https://arxiv.org/abs/2402.13973,,graph_rec,WWW,2024
+Collaborative Large Language Model for Recommender Systems,2311.01343,https://arxiv.org/abs/2311.01343,https://github.com/yaochenzhu/llm4rec,llm_rec,WWW,2024
+M-scan: A Multi-Scenario Causal-driven Adaptive Network for Recommendation,2404.07581,https://arxiv.org/abs/2404.07581,,cross_domain_multi_scenario,WWW,2024
+Knowledge Enhanced Multi-intent Transformer Network for Recommendation,2405.20565,https://arxiv.org/abs/2405.20565,,graph_rec,WWW,2024

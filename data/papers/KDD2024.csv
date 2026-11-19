@@ -1,0 +1,47 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+GradCraft: Elevating Multi-task Recommendations through Holistic Gradient Crafting,2407.19682,https://arxiv.org/abs/2407.19682,https://github.com/baiyimeng/GradCraft,multi_task_reranking,KDD,2024
+NudgeRank: Digital Algorithmic Nudging for Personalized Health,2407.20241,https://arxiv.org/abs/2407.20241,,graph_rec,KDD,2024
+Where have you been? A Study of Privacy Risk for Point-of-Interest Recommendation,2310.18606,https://arxiv.org/abs/2310.18606,https://github.com/KunlinChoi/POIPrivacy,debias_fairness_industrial,KDD,2024
+A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys),2404.00579,https://arxiv.org/abs/2404.00579,,generative_rec,KDD,2024
+Harm Mitigation in Recommender Systems under User Preference Dynamics,2406.09882,https://arxiv.org/abs/2406.09882,,debias_fairness_industrial,KDD,2024
+Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks,2311.18244,https://arxiv.org/abs/2311.18244,https://github.com/CoderWZW/ARLib,debias_fairness_industrial,KDD,2024
+DIET: Customized Slimming for Incompatible Networks in Sequential Recommendation,2406.08804,https://arxiv.org/abs/2406.08804,,sequential_rec,KDD,2024
+Cross Domain LifeLong Sequential Modeling for Online Click-Through Rate Prediction,2312.06424,https://arxiv.org/abs/2312.06424,,ctr_feature_interaction,KDD,2024
+Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations,2407.05126,https://arxiv.org/abs/2407.05126,,graph_rec,KDD,2024
+Double Correction Framework for Denoising Recommendation,2405.11272,https://arxiv.org/abs/2405.11272,,self_supervised_denoising,KDD,2024
+RecExplainer: Aligning Large Language Models for Explaining Recommendation Models,2311.10947,https://arxiv.org/abs/2311.10947,https://github.com/microsoft/RecAI,llm_rec,KDD,2024
+ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems,2403.12660,https://arxiv.org/abs/2403.12660,,ctr_feature_interaction,KDD,2024
+Bridging Items and Language: A Transition Paradigm for Large Language Model-Based Recommendation,2310.06491,https://arxiv.org/abs/2310.06491,,llm_rec,KDD,2024
+Understanding the Ranking Loss for Recommendation with Sparse User Feedback,2403.14144,https://arxiv.org/abs/2403.14144,https://github.com/SkylerLinn/Understanding-the-Ranking-Loss,ctr_feature_interaction,KDD,2024
+Continual Collaborative Distillation for Recommender System,2405.19046,https://arxiv.org/abs/2405.19046,,collaborative_filtering,KDD,2024
+CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent,2504.13192,https://arxiv.org/abs/2504.13192,,debias_fairness_industrial,KDD,2024
+Diffusion-Based Cloud-Edge-Device Collaborative Learning for Next POI Recommendations,2405.13811,https://arxiv.org/abs/2405.13811,,poi_spatiotemporal_rec,KDD,2024
+When Box Meets Graph Neural Network in Tag-aware Recommendation,2406.12020,https://arxiv.org/abs/2406.12020,,graph_rec,KDD,2024
+Non-autoregressive Generative Models for Reranking Recommendation,2402.06871,https://arxiv.org/abs/2402.06871,,multi_task_reranking,KDD,2024
+Contextual Distillation Model for Diversified Recommendation,2406.09021,https://arxiv.org/abs/2406.09021,,multi_task_reranking,KDD,2024
+Ads Recommendation in a Collapsed and Entangled World,2403.00793,https://arxiv.org/abs/2403.00793,,debias_fairness_industrial,KDD,2024
+"Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey",2404.00621,https://arxiv.org/abs/2404.00621,,multimodal_rec,KDD,2024
+How Powerful is Graph Filtering for Recommendation,2406.08827,https://arxiv.org/abs/2406.08827,,graph_rec,KDD,2024
+Debiased Recommendation with Noisy Feedback,2406.17182,https://arxiv.org/abs/2406.17182,https://github.com/haoxuanli-pku/KDD24-OME-DR,debias_fairness_industrial,KDD,2024
+LARP: Language Audio Relational Pre-training for Cold-Start Playlist Continuation,2406.14333,https://arxiv.org/abs/2406.14333,https://github.com/Rsalganik1123/LARP,cold_start_rec,KDD,2024
+Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning,2407.10184,https://arxiv.org/abs/2407.10184,,self_supervised_denoising,KDD,2024
+Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning,2406.14169,https://arxiv.org/abs/2406.14169,,rl_bandit_rec,KDD,2024
+Future Impact Decomposition in Request-level Recommendations,2401.16108,https://arxiv.org/abs/2401.16108,,rl_bandit_rec,KDD,2024
+Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions,2407.10112,https://arxiv.org/abs/2407.10112,,cold_start_rec,KDD,2024
+ADSNet: Cross-Domain LTV Prediction with an Adaptive Siamese Network in Advertising,2406.10517,https://arxiv.org/abs/2406.10517,,rl_bandit_rec,KDD,2024
+EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration,2406.14017,https://arxiv.org/abs/2406.14017,,generative_rec,KDD,2024
+LiMAML: Personalization of Deep Recommender Models via Meta Learning,2403.00803,https://arxiv.org/abs/2403.00803,,cold_start_rec,KDD,2024
+Unifying Graph Convolution and Contrastive Learning in Collaborative Filtering,2406.13996,https://arxiv.org/abs/2406.13996,https://github.com/wu1hong/SCCF,self_supervised_denoising,KDD,2024
+Deep Ensemble Shape Calibration: Multi-Field Post-hoc Calibration in Online Advertising,2401.09507,https://arxiv.org/abs/2401.09507,https://github.com/HaoYang0123/DESC,ctr_feature_interaction,KDD,2024
+User Welfare Optimization in Recommender Systems with Competing Content Creators,2404.18319,https://arxiv.org/abs/2404.18319,,debias_fairness_industrial,KDD,2024
+GPFedRec: Graph-guided Personalization for Federated Recommendation,2305.07866,https://arxiv.org/abs/2305.07866,,debias_fairness_industrial,KDD,2024
+Unified Low-rank Compression Framework for Click-through Rate Prediction,2405.18146,https://arxiv.org/abs/2405.18146,https://github.com/yuhao318/Atomic_Feature_Mimicking,ctr_feature_interaction,KDD,2024
+Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback,2406.12501,https://arxiv.org/abs/2406.12501,,multimodal_rec,KDD,2024
+Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks,2402.07659,https://arxiv.org/abs/2402.07659,,graph_rec,KDD,2024
+"Revisiting Reciprocal Recommender Systems: Metrics, Formulation, and Method",2408.09748,https://arxiv.org/abs/2408.09748,https://github.com/RUCAIBox/CRRS,debias_fairness_industrial,KDD,2024
+Graph Bottlenecked Social Recommendation,2406.08214,https://arxiv.org/abs/2406.08214,https://github.com/yimutianyang/KDD24-GBSR,social_group_rec,KDD,2024
+Dataset Regeneration for Sequential Recommendation,2405.17795,https://arxiv.org/abs/2405.17795,https://github.com/USTC-StarTeam/DR4SR,sequential_rec,KDD,2024
+Counteracting Duration Bias in Video Recommendation via Counterfactual Watch Time,2406.07932,https://arxiv.org/abs/2406.07932,,debias_fairness_industrial,KDD,2024
+Optimized Cost Per Click in Online Advertising: A Theoretical Analysis,2405.14279,https://arxiv.org/abs/2405.14279,,ctr_feature_interaction,KDD,2024
+Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation,2407.00912,https://arxiv.org/abs/2407.00912,,cross_domain_multi_scenario,KDD,2024
+Joint Auction in the Online Advertising Market,2408.09885,https://arxiv.org/abs/2408.09885,,ctr_feature_interaction,KDD,2024

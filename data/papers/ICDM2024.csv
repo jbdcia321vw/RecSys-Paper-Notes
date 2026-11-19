@@ -1,0 +1,6 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model,2410.02791,https://arxiv.org/abs/2410.02791,,debias_fairness_industrial,ICDM,2024
+SR-PredictAO: Session-based Recommendation with High-Capability Predictor Add-On,2309.12218,https://arxiv.org/abs/2309.12218,,sequential_rec,ICDM,2024
+LLM-KT: A Versatile Framework for Knowledge Transfer from Large Language Models to Collaborative Filtering,2411.00556,https://arxiv.org/abs/2411.00556,,llm_rec,ICDM,2024
+GPRec: Bi-level User Modeling for Deep Recommenders,2410.20730,https://arxiv.org/abs/2410.20730,,collaborative_filtering,ICDM,2024
+Mamba for Scalable and Efficient Personalized Recommendations,2409.17165,https://arxiv.org/abs/2409.17165,,sequential_rec,ICDM,2024

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "An Active Masked Attention Framework for Many-to-Many Cross-Domain Recommendations",
+    "ee": "https://doi.org/10.1145/3664647.3681435",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "TUT4CRS: Time-aware User-preference Tracking for Conversational Recommendation System",
+    "ee": "https://doi.org/10.1145/3664647.3681259",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards High-performance Spiking Transformers from ANN to SNN Conversion",
+    "ee": "https://doi.org/10.1145/3664647.3680620",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MagicFight: Personalized Martial Arts Combat Video Generation",
+    "ee": "https://doi.org/10.1145/3664647.3680849",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DiffMM: Multi-Modal Diffusion Model for Recommendation",
+    "ee": "https://doi.org/10.1145/3664647.3681498",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Convert and Speak: Zero-shot Accent Conversion with Minimum Supervision",
+    "ee": "https://doi.org/10.1145/3664647.3681539",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Attribute-driven Disentangled Representation Learning for Multimodal Recommendation",
+    "ee": "https://doi.org/10.1145/3664647.3681148",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mitigating Sample Selection Bias with Robust Domain Adaption in Multimedia Recommendation",
+    "ee": "https://doi.org/10.1145/3664647.3680615",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SCREEN: A Benchmark for Situated Conversational Recommendation",
+    "ee": "https://doi.org/10.1145/3664647.3681651",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SimCEN: Simple Contrast-enhanced Network for CTR Prediction",
+    "ee": "https://doi.org/10.1145/3664647.3681203",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "TAS: Personalized Text-guided Audio Spatialization",
+    "ee": "https://doi.org/10.1145/3664647.3681626",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Semantic Codebook Learning for Dynamic Recommendation Models",
+    "ee": "https://doi.org/10.1145/3664647.3680574",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization",
+    "ee": "https://doi.org/10.1145/3664647.3680658",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cluster-driven Personalized Federated Recommendation with Interest-aware Graph Convolution Network for Multimedia",
+    "ee": "https://doi.org/10.1145/3664647.3680788",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Self-derived Knowledge Graph Contrastive Learning for Recommendation",
+    "ee": "https://doi.org/10.1145/3664647.3681693",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SOIL: Contrastive Second-Order Interest Learning for Multimodal Recommendation",
+    "ee": "https://doi.org/10.1145/3664647.3681207",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sample Efficiency Matters: Training Multimodal Conversational Recommendation Systems in a Small Data Setting",
+    "ee": "https://doi.org/10.1145/3664647.3681217",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "UVMap-ID: A Controllable and Personalized UV Map Generative Model",
+    "ee": "https://doi.org/10.1145/3664647.3680861",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Decoupling General and Personalized Knowledge in Federated Learning via Additive and Low-rank Decomposition",
+    "ee": "https://doi.org/10.1145/3664647.3681588",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models",
+    "ee": "https://doi.org/10.1145/3664647.3681391",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multimodal-aware Multi-intention Learning for Recommendation",
+    "ee": "https://doi.org/10.1145/3664647.3681412",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Descriptive Basketball Highlight Dataset for Automatic Commentary Generation",
+    "ee": "https://doi.org/10.1145/3664647.3681178",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modality-Balanced Learning for Multimedia Recommendation",
+    "ee": "https://doi.org/10.1145/3664647.3680626",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Tag Tree-Guided Multi-grained Alignment for Multi-Domain Short Video Recommendation",
+    "ee": "https://doi.org/10.1145/3664647.3681692",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Generative Active Learning for Image Synthesis Personalization",
+    "ee": "https://doi.org/10.1145/3664647.3680773",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Diversity Matters: User-Centric Multi-Interest Learning for Conversational Movie Recommendation",
+    "ee": "https://doi.org/10.1145/3664647.3680909",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DualFed: Enjoying both Generalization and Personalization in Federated Learning via Hierachical Representations",
+    "ee": "https://doi.org/10.1145/3664647.3681260",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Generative Storytelling with AI-Visual Illustrations for the Promotion of Knowledge in Cultural Heritage Tourism",
+    "ee": "https://doi.org/10.1145/3689094.3689465",
+    "key": "dblp_sparql"
+  }
+]

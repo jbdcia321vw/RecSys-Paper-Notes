@@ -1,0 +1,622 @@
+[
+  {
+    "title": "CMCLRec: Cross-modal Contrastive Learning for User Cold-start Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657839",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-intent-aware Session-based Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657928",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Large Language Models for Intent-Driven Session Recommendations",
+    "ee": "https://doi.org/10.1145/3626772.3657688",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "On Generative Agents in Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657844",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Identifiability of Cross-Domain Recommendation via Causal Subspace Disentanglement",
+    "ee": "https://doi.org/10.1145/3626772.3657758",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ReFer: Retrieval-Enhanced Vertical Federated Recommendation for Full Set User Benefit",
+    "ee": "https://doi.org/10.1145/3626772.3657763",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Going Beyond Popularity and Positivity Bias: Correcting for Multifactorial Bias in Recommender Systems",
+    "ee": "https://doi.org/10.1145/3626772.3657749",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An Empirical Analysis on Multi-turn Conversational Recommender Systems",
+    "ee": "https://doi.org/10.1145/3626772.3657893",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multimodality Invariant Learning for Multimedia-Based New Item Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3658596",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Large Language Models for Recommendation: Past, Present, and Future",
+    "ee": "https://doi.org/10.1145/3626772.3661383",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Large Language Models through Parameter Efficient Fine-Tuning Techniques",
+    "ee": "https://doi.org/10.1145/3626772.3657657",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dataset and Models for Item Recommendation Using Multi-Modal User Interactions",
+    "ee": "https://doi.org/10.1145/3626772.3657881",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Treatment Effect Estimation for User Interest Exploration on Recommender Systems",
+    "ee": "https://doi.org/10.1145/3626772.3657736",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Masked Graph Transformer for Large-Scale Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657971",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SIGformer: Sign-aware Graph Transformer for Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657747",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Using and Evaluating Quantum Computing for Information Retrieval and Recommender Systems",
+    "ee": "https://doi.org/10.1145/3626772.3661378",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Broadening the View: Demonstration-augmented Prompt Learning for Conversational Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657755",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SM-RS: Single- and Multi-Objective Recommendations with Contextual Impressions and Beyond-Accuracy Propensity Scores",
+    "ee": "https://doi.org/10.1145/3626772.3657863",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "General-Purpose User Modeling with Behavioral Logs: A Snapchat Case Study",
+    "ee": "https://doi.org/10.1145/3626772.3657908",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Course Recommender Systems Need to Consider the Job Market",
+    "ee": "https://doi.org/10.1145/3626772.3657847",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT",
+    "ee": "https://doi.org/10.1145/3626772.3657725",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors",
+    "ee": "https://doi.org/10.1145/3626772.3657974",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Configurable Fairness for New Item Recommendation Considering Entry Time of Items",
+    "ee": "https://doi.org/10.1145/3626772.3657694",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SCM4SR: Structural Causal Model-based Data Augmentation for Robust Session-based Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657940",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hypergraph Convolutional Network for User-Oriented Fairness in Recommender Systems",
+    "ee": "https://doi.org/10.1145/3626772.3657737",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Collaborative Filtering Based on Diffusion Models: Unveiling the Potential of High-Order Connectivity",
+    "ee": "https://doi.org/10.1145/3626772.3657742",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ECAT: A Entire space Continual and Adaptive Transfer Learning Framework for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3661348",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Minimizing Live Experiments in Recommender Systems: User Simulation to Evaluate Preference Elicitation Policies",
+    "ee": "https://doi.org/10.1145/3626772.3661358",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploring Multi-Scenario Multi-Modal CTR Prediction with a Large Scale Dataset",
+    "ee": "https://doi.org/10.1145/3626772.3657865",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Domain Sequential Recommendation via Domain Space Learning",
+    "ee": "https://doi.org/10.1145/3626772.3657685",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657867",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GATS: Generative Audience Targeting System for Online Advertising",
+    "ee": "https://doi.org/10.1145/3626772.3661372",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Doing Personal LAPS: LLM-Augmented Dialogue Construction for Personalized Multi-Session Conversational Search",
+    "ee": "https://doi.org/10.1145/3626772.3657815",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Retrieval-Augmented Conversational Recommendation with Prompt-based Semi-Structured Natural Language State Tracking",
+    "ee": "https://doi.org/10.1145/3626772.3657670",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Content-based Graph Reconstruction for Cold-start Item Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657801",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "On the Negative Perception of Cross-domain Recommendations and Explanations",
+    "ee": "https://doi.org/10.1145/3626772.3657735",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving Embedding-Based Retrieval in Friend Recommendation with ANN Query Expansion",
+    "ee": "https://doi.org/10.1145/3626772.3661367",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Disentangled Contrastive Hypergraph Learning for Next POI Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657726",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Behavior Pattern Mining-based Multi-Behavior Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657973",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mutual Information-based Preference Disentangling and Transferring for Non-overlapped Multi-target Cross-domain Recommendations",
+    "ee": "https://doi.org/10.1145/3626772.3657780",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Lightweight Embeddings for Graph Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3626772.3657820",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LLaRA: Large Language-Recommendation Assistant",
+    "ee": "https://doi.org/10.1145/3626772.3657690",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling User Fatigue for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657802",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MealRec+: A Meal Recommendation Dataset with Meal-Course Affiliation for Personalization and Healthiness",
+    "ee": "https://doi.org/10.1145/3626772.3657857",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Are We Really Achieving Better Beyond-Accuracy Performance in Next Basket Recommendation?",
+    "ee": "https://doi.org/10.1145/3626772.3657835",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657713",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Data-efficient Fine-tuning for LLM-based Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657807",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Large Language Models for Next Point-of-Interest Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657840",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention",
+    "ee": "https://doi.org/10.1145/3626772.3657829",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Unified Search and Recommendation Framework Based on Multi-Scenario Learning for Ranking in E-commerce",
+    "ee": "https://doi.org/10.1145/3626772.3661356",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657716",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AutoDCS: Automated Decision Chain Selection in Deep Recommender Systems",
+    "ee": "https://doi.org/10.1145/3626772.3657818",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Diffusive Self-Supervised Learning for Social Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657962",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems",
+    "ee": "https://doi.org/10.1145/3626772.3657701",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Optimal Transport Enhanced Cross-City Site Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657757",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "OpenSiteRec: An Open Dataset for Site Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657875",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DeCoCDR: Deployable Cloud-Device Collaboration for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657786",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Memory-Efficient Deep Recommender Systems using Approximate Rotary Compositional Embedding",
+    "ee": "https://doi.org/10.1145/3626772.3657953",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657902",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Unmasking Privacy: A Reproduction and Evaluation Study of Obfuscation-based Perturbation Techniques for Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3626772.3657858",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ScholarNodes: Applying Content-based Filtering to Recommend Interdisciplinary Communities within Scholarly Social Networks",
+    "ee": "https://doi.org/10.1145/3626772.3657668",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FedUD: Exploiting Unaligned Data for Cross-Platform Federated Click-Through Rate Prediction",
+    "ee": "https://doi.org/10.1145/3626772.3657941",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657710",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SLH-BIA: Short-Long Hawkes Process for Buy It Again Recommendations at Scale",
+    "ee": "https://doi.org/10.1145/3626772.3661374",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Turbo-CF: Matrix Decomposition-Free Graph Filtering for Fast Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657916",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Ethical Item Ranking: A Paradigm Shift from User-Centric to Item-Centric Approaches",
+    "ee": "https://doi.org/10.1145/3626772.3657977",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Can We Trust Recommender System Fairness Evaluation? The Role of Fairness and Relevance",
+    "ee": "https://doi.org/10.1145/3626772.3657832",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Sequential Recommenders with Augmented Knowledge from Aligned Large Language Models",
+    "ee": "https://doi.org/10.1145/3626772.3657782",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Explainable Uncertainty Attribution for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657900",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Monitoring the Evolution of Behavioural Embeddings in Social Media Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3661368",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Optimization Methods for Personalizing Large Language Models through Retrieval Augmentation",
+    "ee": "https://doi.org/10.1145/3626772.3657783",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Large Language Models are Learnable Planners for Long-Term Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657683",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Neural Click Models for Recommender Systems",
+    "ee": "https://doi.org/10.1145/3626772.3657939",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "UniSAR: Modeling User Transition Behaviors between Search and Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657811",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Fair Recommendations with Limited Sensitive Attributes: A Distributionally Robust Optimization Approach",
+    "ee": "https://doi.org/10.1145/3626772.3657822",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Analyzing and Mitigating Repetitions in Trip Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657970",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Revisit Targeted Model Poisoning on Federated Recommendation: Optimize via Multi-objective Transport",
+    "ee": "https://doi.org/10.1145/3626772.3657764",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DDPO: Direct Dual Propensity Optimization for Post-Click Conversion Rate Estimation",
+    "ee": "https://doi.org/10.1145/3626772.3657817",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process",
+    "ee": "https://doi.org/10.1145/3626772.3657732",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "EditKG: Editing Knowledge Graph for Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657723",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention",
+    "ee": "https://doi.org/10.1145/3626772.3657805",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MeMemo: On-device Retrieval Augmentation for Private and Personalized Text Generation",
+    "ee": "https://doi.org/10.1145/3626772.3657662",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CaDRec: Contextualized and Debiased Recommender Model",
+    "ee": "https://doi.org/10.1145/3626772.3657799",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "NFARec: A Negative Feedback-Aware Recommender Model",
+    "ee": "https://doi.org/10.1145/3626772.3657809",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling",
+    "ee": "https://doi.org/10.1145/3626772.3657767",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Amazon-KG: A Knowledge Graph Enhanced Cross-Domain Recommendation Dataset",
+    "ee": "https://doi.org/10.1145/3626772.3657880",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MACRec: A Multi-Agent Collaboration Framework for Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657669",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations",
+    "ee": "https://doi.org/10.1145/3626772.3657724",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Generic Behavior-Aware Data Augmentation Framework for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657682",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems",
+    "ee": "https://doi.org/10.1145/3626772.3657883",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MoME: Mixture-of-Masked-Experts for Efficient Multi-Task Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657922",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Diffusion Models for Generative Outfit Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657719",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems",
+    "ee": "https://doi.org/10.1145/3626772.3657924",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sequential Recommendation with Latent Relations based on Large Language Model",
+    "ee": "https://doi.org/10.1145/3626772.3657762",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Self-Explainable Next POI Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657967",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657696",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "EasyRL4Rec: An Easy-to-use Library for Reinforcement Learning Based Recommender Systems",
+    "ee": "https://doi.org/10.1145/3626772.3657868",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sequential Recommendation with Collaborative Explanation via Mutual Information Maximization",
+    "ee": "https://doi.org/10.1145/3626772.3657770",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Fair Sequential Recommendation without User Demographics",
+    "ee": "https://doi.org/10.1145/3626772.3657703",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Layer Ranking with Large Language Models for News Source Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657966",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "M3oE: Multi-Domain Multi-Task Mixture-of Experts Recommendation Framework",
+    "ee": "https://doi.org/10.1145/3626772.3657686",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LoRec: Combating Poisons with Large Language Model for Robust Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657684",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reinforcing Long-Term Performance in Recommender Systems with User-Oriented Exploration Policy",
+    "ee": "https://doi.org/10.1145/3626772.3657714",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657890",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep Pattern Network for Click-Through Rate Prediction",
+    "ee": "https://doi.org/10.1145/3626772.3657777",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploring the Individuality and Collectivity of Intents behind Interactions for Graph Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3626772.3657738",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Scenario-Adaptive Fine-Grained Personalization Network: Tailoring User Behavior Representation to the Scenario Context",
+    "ee": "https://doi.org/10.1145/3626772.3657803",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Disentangling ID and Modality Effects for Session-based Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657748",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FineRec: Exploring Fine-grained Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657761",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "TransGNN: Harnessing the Collaborative Power of Transformers and Graph Neural Networks for Recommender Systems",
+    "ee": "https://doi.org/10.1145/3626772.3657721",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GPT4Rec: Graph Prompt Tuning for Streaming Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657720",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Leave No Patient Behind: Enhancing Medication Recommendation for Rare Disease Patients",
+    "ee": "https://doi.org/10.1145/3626772.3657785",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning",
+    "ee": "https://doi.org/10.1145/3626772.3657828",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Denoising Diffusion Recommender Model",
+    "ee": "https://doi.org/10.1145/3626772.3657825",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DHMAE: A Disentangled Hypergraph Masked Autoencoder for Group Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657699",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MIRROR: A Multi-View Reciprocal Recommender System for Online Recruitment",
+    "ee": "https://doi.org/10.1145/3626772.3657776",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Poisoning Decentralized Collaborative Recommender System and Its Countermeasures",
+    "ee": "https://doi.org/10.1145/3626772.3657814",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CLLP: Contrastive Learning Framework Based on Latent Preferences for Next POI Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657730",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Interest Clock: Time Perception in Real-Time Streaming Recommendation System",
+    "ee": "https://doi.org/10.1145/3626772.3661369",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Domains as Distributions with Uncertainty for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1145/3626772.3657930",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Signal Diffusion Model for Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3626772.3657759",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Adaptive Fair Representation Learning for Personalized Fairness in Recommendations via Information Alignment",
+    "ee": "https://doi.org/10.1145/3626772.3657709",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ResumeFlow: An LLM-facilitated Pipeline for Personalized Resume Generation and Refinement",
+    "ee": "https://doi.org/10.1145/3626772.3657680",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Scaling Sequential Recommendation Models with Transformers",
+    "ee": "https://doi.org/10.1145/3626772.3657816",
+    "key": "dblp_sparql"
+  }
+]

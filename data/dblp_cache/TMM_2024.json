@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Cross-Task Multimodal Reinforcement for Long Tail Next POI Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2023.3290723",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SADCMF: Self-Attentive Deep Consistent Matrix Factorization for Micro-Video Multi-Label Classification",
+    "ee": "https://doi.org/10.1109/TMM.2024.3406196",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dual-Domain Aligned Deep Hierarchical Matrix Factorization Method for Micro-Video Multi-Label Classification",
+    "ee": "https://doi.org/10.1109/TMM.2023.3301224",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SPACE: Self-Supervised Dual Preference Enhancing Network for Multimodal Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2024.3382889",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Automatic Hypergraph Generation for Enhancing Recommendation With Sparse Optimization",
+    "ee": "https://doi.org/10.1109/TMM.2023.3338083",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Inter- and Intra-Domain Potential User Preferences for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2024.3374577",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Enhanced Causal Reinforcement Learning Model for Interactive Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2023.3276505",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Representation With Contrastive Loss for Recommendation Systems",
+    "ee": "https://doi.org/10.1109/TMM.2023.3295740",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CDCM: ChatGPT-Aided Diversity-Aware Causal Model for Interactive Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2024.3352397",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reason Generation for Point of Interest Recommendation Via a Hierarchical Attention-Based Transformer Model",
+    "ee": "https://doi.org/10.1109/TMM.2023.3335886",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SGDM: An Adaptive Style-Guided Diffusion Model for Personalized Text to Image Generation",
+    "ee": "https://doi.org/10.1109/TMM.2024.3399075",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Level Transitional Contrast Learning for Personalized Image Aesthetics Assessment",
+    "ee": "https://doi.org/10.1109/TMM.2023.3290479",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Variational Mixture of Stochastic Experts Auto-Encoder for Multi-Modal Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2024.3384058",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Two-Stage Personalized Virtual Try-On Framework With Shape Control and Texture Guidance",
+    "ee": "https://doi.org/10.1109/TMM.2024.3405718",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Domain-Oriented Knowledge Transfer for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2024.3394686",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Disentangled Graph Variational Auto-Encoder for Multimodal Recommendation With Interpretability",
+    "ee": "https://doi.org/10.1109/TMM.2024.3369875",
+    "key": "dblp_sparql"
+  }
+]

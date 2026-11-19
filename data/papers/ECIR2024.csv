@@ -1,0 +1,16 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+A Cost-Sensitive Meta-Learning Strategy for Fair Provider Exposure in Recommendation,2401.13566,https://arxiv.org/abs/2401.13566,https://github.com/alessandraperniciano/meta-learning-strategy-fair-provider-exposure,debias_fairness_industrial,ECIR,2024
+RIGHT: Retrieval-augmented Generation for Mainstream Hashtag Recommendation,2312.10466,https://arxiv.org/abs/2312.10466,,generative_rec,ECIR,2024
+Lightweight Modality Adaptation to Sequential Recommendation via Correlation Supervision,2401.07257,https://arxiv.org/abs/2401.07257,,sequential_rec,ECIR,2024
+Robustness in Fairness against Edge-level Perturbations in GNN-based Recommendation,2401.13823,https://arxiv.org/abs/2401.13823,https://github.com/jackmedda/CPFairRobust,debias_fairness_industrial,ECIR,2024
+MOReGIn: Multi-Objective Recommendation at the Global and Individual Levels,2401.12593,https://arxiv.org/abs/2401.12593,,multi_task_reranking,ECIR,2024
+Large Language Models are Zero-Shot Rankers for Recommender Systems,2305.08845,https://arxiv.org/abs/2305.08845,https://github.com/RUCAIBox/LLMRank,llm_rec,ECIR,2024
+An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation,2312.17072,https://arxiv.org/abs/2312.17072,,poi_spatiotemporal_rec,ECIR,2024
+The Impact of Differential Privacy on Recommendation Accuracy and Popularity Bias,2401.03883,https://arxiv.org/abs/2401.03883,,debias_fairness_industrial,ECIR,2024
+GenRec: Large Language Model for Generative Recommendation,2307.00457,https://arxiv.org/abs/2307.00457,,llm_rec,ECIR,2024
+Federated Conversational Recommender System,2503.00999,https://arxiv.org/abs/2503.00999,,agent_conversational_rec,ECIR,2024
+Performance Comparison of Session-based Recommendation Algorithms based on GNNs,2312.16695,https://arxiv.org/abs/2312.16695,,sequential_rec,ECIR,2024
+Revealing the Hidden Impact of Top-N Metrics on Optimization in Recommender Systems,2401.08444,https://arxiv.org/abs/2401.08444,,debias_fairness_industrial,ECIR,2024
+Self Contrastive Learning for Session-based Recommendation,2306.01266,https://arxiv.org/abs/2306.01266,https://github.com/ZhengxiangShi/SelfContrastiveLearningRecSys,sequential_rec,ECIR,2024
+Contrastive Learning with Bidirectional Transformers for Sequential Recommendation,2208.03895,https://arxiv.org/abs/2208.03895,,sequential_rec,ECIR,2024
+Integrating Offline Reinforcement Learning with Transformers for Sequential Recommendation,2307.14450,https://arxiv.org/abs/2307.14450,,sequential_rec,ECIR,2024

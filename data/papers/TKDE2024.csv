@@ -1,0 +1,21 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+MGDCF: Distance Learning via Markov Graph Diffusion for Neural Collaborative Filtering,2204.02338,https://arxiv.org/abs/2204.02338,,graph_rec,TKDE,2024
+Bi-Level Graph Structure Learning for Next POI Recommendation,2411.01169,https://arxiv.org/abs/2411.01169,,poi_spatiotemporal_rec,TKDE,2024
+A Framework for Elastic Adaptation of User Multiple Intents in Sequential Recommendation,2504.21270,https://arxiv.org/abs/2504.21270,,sequential_rec,TKDE,2024
+Reinforced Path Reasoning for Counterfactual Explainable Recommendation,2207.06674,https://arxiv.org/abs/2207.06674,https://github.com/Chrystalii/CERec,graph_rec,TKDE,2024
+Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering,2402.11523,https://arxiv.org/abs/2402.11523,,self_supervised_denoising,TKDE,2024
+Learning Graph ODE for Continuous-Time Sequential Recommendation,2304.07042,https://arxiv.org/abs/2304.07042,,sequential_rec,TKDE,2024
+Bayes-enhanced Multi-view Attention Networks for Robust POI Recommendation,2311.00491,https://arxiv.org/abs/2311.00491,,poi_spatiotemporal_rec,TKDE,2024
+Result Diversification in Search and Recommendation: A Survey,2212.14464,https://arxiv.org/abs/2212.14464,,multi_task_reranking,TKDE,2024
+Personalized Prompt for Sequential Recommendation,2205.09666,https://arxiv.org/abs/2205.09666,,sequential_rec,TKDE,2024
+XSimGCL: Towards Extremely Simple Graph Contrastive Learning for Recommendation,2209.02544,https://arxiv.org/abs/2209.02544,https://github.com/Coder-Yu/SELFRec,self_supervised_denoising,TKDE,2024
+i-Razor: A Differentiable Neural Input Razor for Feature Selection and Dimension Search in DNN-Based Recommender Systems,2204.00281,https://arxiv.org/abs/2204.00281,,ctr_feature_interaction,TKDE,2024
+Continuous-Time User Preference Modelling for Temporal Sets Prediction,2204.05490,https://arxiv.org/abs/2204.05490,,sequential_rec,TKDE,2024
+Explainable Recommender with Geometric Information Bottleneck,2305.05331,https://arxiv.org/abs/2305.05331,,agent_conversational_rec,TKDE,2024
+Comprehensive Privacy Analysis on Federated Recommender System against Attribute Inference Attacks,2205.11857,https://arxiv.org/abs/2205.11857,,debias_fairness_industrial,TKDE,2024
+Beyond Co-occurrence: Multi-modal Session-based Recommendation,2309.17037,https://arxiv.org/abs/2309.17037,,sequential_rec,TKDE,2024
+Causal Distillation for Alleviating Performance Heterogeneity in Recommender Systems,2405.20626,https://arxiv.org/abs/2405.20626,,debias_fairness_industrial,TKDE,2024
+Recommender Systems in the Era of Large Language Models (LLMs),2307.02046,https://arxiv.org/abs/2307.02046,,llm_rec,TKDE,2024
+Self-Supervised Learning for Recommender Systems: A Survey,2203.15876,https://arxiv.org/abs/2203.15876,https://github.com/Coder-Yu/SELFRec,self_supervised_denoising,TKDE,2024
+Mitigating Hidden Confounding Effects for Causal Recommendation,2205.07499,https://arxiv.org/abs/2205.07499,,debias_fairness_industrial,TKDE,2024
+Personalized Elastic Embedding Learning for On-Device Recommendation,2306.10532,https://arxiv.org/abs/2306.10532,,collaborative_filtering,TKDE,2024

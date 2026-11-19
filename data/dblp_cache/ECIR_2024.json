@@ -1,0 +1,187 @@
+[
+  {
+    "title": "Recommendation Fairness in eParticipation: Listening to Minority, Vulnerable and NIMBY Citizens",
+    "ee": "https://doi.org/10.1007/978-3-031-56066-8_31",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Align MacridVAE: Multimodal Alignment for Disentangled Recommendations",
+    "ee": "https://doi.org/10.1007/978-3-031-56027-9_5",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Explainable Recommender Systems with Knowledge Graphs and Language Models",
+    "ee": "https://doi.org/10.1007/978-3-031-56069-9_46",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Investigating the Robustness of Sequential Recommender Systems Against Training Data Perturbations",
+    "ee": "https://doi.org/10.1007/978-3-031-56060-6_14",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Cost-Sensitive Meta-learning Strategy for Fair Provider Exposure in Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56063-7_36",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Robustness in Fairness Against Edge-Level Perturbations in GNN-Based Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56063-7_3",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Navigating the Thin Line: Examining User Behavior in Search to Detect Engagement and Backfire Effects",
+    "ee": "https://doi.org/10.1007/978-3-031-56066-8_30",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Quantum Computing for Information Retrieval and Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-031-56069-9_47",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "RIGHT: Retrieval-Augmented Generation for Mainstream Hashtag Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56027-9_3",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MOReGIn: Multi-Objective Recommendation at the Global and Individual Levels",
+    "ee": "https://doi.org/10.1007/978-3-031-56027-9_2",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Large Language Models are Zero-Shot Rankers for Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-031-56060-6_24",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Lightweight Modality Adaptation to Sequential Recommendation via Correlation Supervision",
+    "ee": "https://doi.org/10.1007/978-3-031-56027-9_8",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multiple Testing for IR and Recommendation System Experiments",
+    "ee": "https://doi.org/10.1007/978-3-031-56063-7_37",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Advancing Multimedia Retrieval in Medical, Social Media and Content Recommendation Applications with ImageCLEF 2024",
+    "ee": "https://doi.org/10.1007/978-3-031-56072-9_6",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hypergraphs with Attention on Reviews for Explainable Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56027-9_14",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GenRec: Large Language Model for Generative Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56063-7_42",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56063-7_19",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Federated Conversational Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-031-56069-9_4",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Measuring Item Fairness in Next Basket Recommendation: A Reproducibility Study",
+    "ee": "https://doi.org/10.1007/978-3-031-56066-8_18",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Prompt-Based Generative News Recommendation (PGNR): Accuracy and Controllability",
+    "ee": "https://doi.org/10.1007/978-3-031-56060-6_5",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge Graph Cross-View Contrastive Learning for Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56063-7_1",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MMCRec: Towards Multi-modal Generative AI in Conversational Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56063-7_23",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "The Impact of Differential Privacy on Recommendation Accuracy and Popularity Bias",
+    "ee": "https://doi.org/10.1007/978-3-031-56066-8_33",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GLAD: Graph-Based Long-Term Attentive Dynamic Memory for Sequential Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56063-7_5",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An Empirical Analysis of Intervention Strategies' Effectiveness for Countering Misinformation Amplification by Recommendation Algorithms",
+    "ee": "https://doi.org/10.1007/978-3-031-56066-8_23",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Effective and Efficient Transformer Models for Sequential Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56069-9_39",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Transformers for Sequential Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56069-9_49",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Incorporating Query Recommendation for Improving In-Car Conversational Search",
+    "ee": "https://doi.org/10.1007/978-3-031-56069-9_36",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Emotional Insights for Food Recommendations",
+    "ee": "https://doi.org/10.1007/978-3-031-56060-6_16",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FAR-AI: A Modular Platform for Investment Recommendation in the Financial Domain",
+    "ee": "https://doi.org/10.1007/978-3-031-56069-9_30",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Analyzing Mathematical Content for Plagiarism and Recommendations",
+    "ee": "https://doi.org/10.1007/978-3-031-56069-9_42",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Performance Comparison of Session-Based Recommendation Algorithms Based on GNNs",
+    "ee": "https://doi.org/10.1007/978-3-031-56066-8_12",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Self Contrastive Learning for Session-Based Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56027-9_1",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Empowering Legal Citation Recommendation via Efficient Instruction-Tuning of Pre-trained Language Models",
+    "ee": "https://doi.org/10.1007/978-3-031-56027-9_19",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Revealing the Hidden Impact of Top-N Metrics on Optimization in Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-031-56027-9_9",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Lottery4CVR: Neuron-Connection Level Sharing for Multi-task Learning in Video Conversion Rate Prediction",
+    "ee": "https://doi.org/10.1007/978-3-031-56069-9_31",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Alleviating Confounding Effects with Contrastive Learning in Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-56060-6_30",
+    "key": "dblp_sparql"
+  }
+]

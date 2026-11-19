@@ -1,0 +1,23 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+CIRS: Bursting Filter Bubbles by Counterfactual Interactive Recommender System,2204.01266,https://arxiv.org/abs/2204.01266,https://github.com/chongminggao/CIRS-codes,rl_bandit_rec,TOIS,2024
+Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion,2312.15826,https://arxiv.org/abs/2312.15826,,debias_fairness_industrial,TOIS,2024
+Causal Inference in Recommender Systems: A Survey and Future Directions,2208.12397,https://arxiv.org/abs/2208.12397,,debias_fairness_industrial,TOIS,2024
+Dynamic Multimodal Fusion via Meta-Learning Towards Micro-Video Recommendation,2501.07110,https://arxiv.org/abs/2501.07110,https://github.com/hanliu95/MetaMMF,multimodal_rec,TOIS,2024
+MultiCBR: Multi-view Contrastive Learning for Bundle Recommendation,2311.16751,https://arxiv.org/abs/2311.16751,,self_supervised_denoising,TOIS,2024
+Triple Sequence Learning for Cross-domain Recommendation,2304.05027,https://arxiv.org/abs/2304.05027,,cross_domain_multi_scenario,TOIS,2024
+Contrastive Self-supervised Learning in Recommender Systems: A Survey,2303.09902,https://arxiv.org/abs/2303.09902,,self_supervised_denoising,TOIS,2024
+DiffuRec: A Diffusion Model for Sequential Recommendation,2304.00686,https://arxiv.org/abs/2304.00686,,sequential_rec,TOIS,2024
+Cluster-based Graph Collaborative Filtering,2404.10321,https://arxiv.org/abs/2404.10321,,graph_rec,TOIS,2024
+Alleviating Video-Length Effect for Micro-video Recommendation,2308.14276,https://arxiv.org/abs/2308.14276,,debias_fairness_industrial,TOIS,2024
+A Diffusion model for POI recommendation,2304.07041,https://arxiv.org/abs/2304.07041,,poi_spatiotemporal_rec,TOIS,2024
+A Multi-Channel Next POI Recommendation Framework with Multi-Granularity Check-in Signals,2209.00472,https://arxiv.org/abs/2209.00472,,poi_spatiotemporal_rec,TOIS,2024
+Causal Disentangled Recommendation Against User Preference Shifts,2303.16068,https://arxiv.org/abs/2303.16068,,debias_fairness_industrial,TOIS,2024
+Counterfactual Explanation for Fairness in Recommendation,2307.04386,https://arxiv.org/abs/2307.04386,,debias_fairness_industrial,TOIS,2024
+Spatio-Temporal Contrastive Learning Enhanced GNNs for Session-based Recommendation,2209.11461,https://arxiv.org/abs/2209.11461,,sequential_rec,TOIS,2024
+Cascading Residual Graph Convolutional Network for Multi-Behavior Recommendation,2205.13128,https://arxiv.org/abs/2205.13128,,graph_rec,TOIS,2024
+On the Effectiveness of Sampled Softmax Loss for Item Recommendation,2201.02327,https://arxiv.org/abs/2201.02327,,collaborative_filtering,TOIS,2024
+Manipulating Visually-aware Federated Recommender Systems and Its Countermeasures,2305.08183,https://arxiv.org/abs/2305.08183,,debias_fairness_industrial,TOIS,2024
+Bi-Preference Learning Heterogeneous Hypergraph Networks for Session-based Recommendation,2311.01125,https://arxiv.org/abs/2311.01125,,sequential_rec,TOIS,2024
+Robust Collaborative Filtering to Popularity Distribution Shift,2310.10696,https://arxiv.org/abs/2310.10696,,debias_fairness_industrial,TOIS,2024
+Contrastive Graph Prompt-tuning for Cross-domain Recommendation,2308.10685,https://arxiv.org/abs/2308.10685,,cross_domain_multi_scenario,TOIS,2024
+Understanding Diversity in Session-Based Recommendation,2208.13453,https://arxiv.org/abs/2208.13453,,sequential_rec,TOIS,2024

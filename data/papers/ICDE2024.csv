@@ -1,0 +1,15 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation,2410.07654,https://arxiv.org/abs/2410.07654,https://github.com/PKU-ICST-MIPL/Firzen_ICDE2024,cold_start_rec,ICDE,2024
+Multi-Modality is All You Need for Transferable Recommender Systems,2312.09602,https://arxiv.org/abs/2312.09602,https://github.com/ICDE24/PMMRec,multimodal_rec,ICDE,2024
+Meta-optimized Joint Generative and Contrastive Learning for Sequential Recommendation,2310.13925,https://arxiv.org/abs/2310.13925,,self_supervised_denoising,ICDE,2024
+Learning k-Determinantal Point Processes for Personalized Ranking,2406.15983,https://arxiv.org/abs/2406.15983,,collaborative_filtering,ICDE,2024
+BSL: Understanding and Improving Softmax Loss for Recommendation,2312.12882,https://arxiv.org/abs/2312.12882,https://github.com/junkangwu/BSL,collaborative_filtering,ICDE,2024
+Knowledge-Enhanced Recommendation with User-Centric Subgraph Network,2403.14377,https://arxiv.org/abs/2403.14377,,graph_rec,ICDE,2024
+Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation,2402.10602,https://arxiv.org/abs/2402.10602,,sequential_rec,ICDE,2024
+Preventing the Popular Item Embedding Based Attack in Federated Recommendations,2502.12958,https://arxiv.org/abs/2502.12958,,debias_fairness_industrial,ICDE,2024
+SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation,2403.04278,https://arxiv.org/abs/2403.04278,https://github.com/zc-97/SSDRec,self_supervised_denoising,ICDE,2024
+Hide Your Model: A Parameter Transmission-free Federated Recommender System,2311.14968,https://arxiv.org/abs/2311.14968,https://github.com/hi-weiyuan/PTF-FedRec,debias_fairness_industrial,ICDE,2024
+HeteFedRec: Federated Recommender Systems with Model Heterogeneity,2307.12810,https://arxiv.org/abs/2307.12810,,debias_fairness_industrial,ICDE,2024
+Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation,2311.09049,https://arxiv.org/abs/2311.09049,https://github.com/RUCAIBox/LC-Rec,generative_rec,ICDE,2024
+Graph Augmentation for Recommendation,2403.16656,https://arxiv.org/abs/2403.16656,https://github.com/HKUDS/GraphAug,self_supervised_denoising,ICDE,2024
+LLMRec: Large Language Models with Graph Augmentation for Recommendation,2311.00423,https://arxiv.org/abs/2311.00423,https://github.com/HKUDS/LLMRec.git,llm_rec,ICDE,2024

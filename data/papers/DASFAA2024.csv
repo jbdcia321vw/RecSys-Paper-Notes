@@ -1,0 +1,5 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation,2310.17922,https://arxiv.org/abs/2310.17922,,agent_conversational_rec,DASFAA,2024
+Learning Social Graph for Inactive User Recommendation,2405.05288,https://arxiv.org/abs/2405.05288,https://github.com/liun-online/LSIR,social_group_rec,DASFAA,2024
+Unlocking the Potential of Large Language Models for Explainable Recommendations,2312.15661,https://arxiv.org/abs/2312.15661,https://github.com/GodFire66666/LLM_rec_explanation,llm_rec,DASFAA,2024
+Common Sense Enhanced Knowledge-based Recommendation with Large Language Model,2403.18325,https://arxiv.org/abs/2403.18325,,graph_rec,DASFAA,2024

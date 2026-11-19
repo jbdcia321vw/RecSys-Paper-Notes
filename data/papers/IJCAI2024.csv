@@ -1,0 +1,6 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Shadow-Free Membership Inference Attacks: Recommender Systems Are More Vulnerable Than You Thought,2405.07018,https://arxiv.org/abs/2405.07018,,debias_fairness_industrial,IJCAI,2024
+DGR: A General Graph Desmoothing Framework for Recommendation via Global and Local Perspectives,2403.04287,https://arxiv.org/abs/2403.04287,,graph_rec,IJCAI,2024
+SVD-AE: Simple Autoencoders for Collaborative Filtering,2405.04746,https://arxiv.org/abs/2405.04746,https://github.com/seoyoungh/svd-ae,collaborative_filtering,IJCAI,2024
+A Survey on Cross-Domain Sequential Recommendation,2401.04971,https://arxiv.org/abs/2401.04971,,cross_domain_multi_scenario,IJCAI,2024
+Federated Adaptation for Foundation Model-based Recommendations,2405.04840,https://arxiv.org/abs/2405.04840,,debias_fairness_industrial,IJCAI,2024

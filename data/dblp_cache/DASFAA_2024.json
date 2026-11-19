@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Attribute-Enhanced Temporal Point Process for Personalized User Behavior Prediction",
+    "ee": "https://doi.org/10.1007/978-981-97-5575-2_33",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation",
+    "ee": "https://doi.org/10.1007/978-981-97-5569-1_8",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Super-Node Generation for GNN-Based Recommender Systems: Enhancing Distant Node Integration via Graph Coarsening",
+    "ee": "https://doi.org/10.1007/978-981-97-5572-1_24",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Imitation Learning Decision with Driving Style Tuning for Personalized Autonomous Driving",
+    "ee": "https://doi.org/10.1007/978-981-97-5575-2_15",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "OR3S: Organized R&D Resource Recommendation System Based on Task-Driven and Knowledge Graph Pre-training",
+    "ee": "https://doi.org/10.1007/978-981-97-5575-2_35",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GPSR: Graph Prompt for Session-Based Recommendation",
+    "ee": "https://doi.org/10.1007/978-981-97-5572-1_13",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Social Graph for Inactive User Recommendation",
+    "ee": "https://doi.org/10.1007/978-981-97-5572-1_10",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DRGame: Diversified Recommendation for Multi-category Video Games with Balanced Implicit Preferences",
+    "ee": "https://doi.org/10.1007/978-981-97-5575-2_18",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cascading Graph Convolution Contrastive Learning Networks for Multi-behavior Recommendation",
+    "ee": "https://doi.org/10.1007/978-981-97-5572-1_1",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Unlocking the Potential of Large Language Models for Explainable Recommendations",
+    "ee": "https://doi.org/10.1007/978-981-97-5569-1_18",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "StreamRec: A Recommendation Inference System with CUDA Stream Acceleration",
+    "ee": "https://doi.org/10.1007/978-981-97-5575-2_43",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Robust Graph Recommendation via Noise-Aware Adversarial Perturbation",
+    "ee": "https://doi.org/10.1007/978-981-97-5572-1_9",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models",
+    "ee": "https://doi.org/10.1007/978-981-97-5569-1_2",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Guiding Graph Learning with Denoised Modality for Multi-modal Recommendation",
+    "ee": "https://doi.org/10.1007/978-981-97-5572-1_14",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Social Relation Enhanced Heterogeneous Graph Contrastive Learning for Recommendation",
+    "ee": "https://doi.org/10.1007/978-981-97-5572-1_2",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sparsity-Aware Personalized Pattern Extractor Network for Music Multi-task Learning",
+    "ee": "https://doi.org/10.1007/978-981-97-5575-2_26",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Style Controlling in Recommendation",
+    "ee": "https://doi.org/10.1007/978-981-97-5575-2_32",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dual-view Enhanced Knowledge Contrastive Learning for Recommendation",
+    "ee": "https://doi.org/10.1007/978-981-97-5562-2_36",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Common Sense Enhanced Knowledge-based Recommendation with Large Language Model",
+    "ee": "https://doi.org/10.1007/978-981-97-5569-1_25",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "BiasRec: A General Bias-Aware Social Recommendation Model",
+    "ee": "https://doi.org/10.1007/978-981-97-5572-1_7",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Spatio-Temporal Aware Next Point-of-Interest Recommendation with Privacy Preserving",
+    "ee": "https://doi.org/10.1007/978-981-97-5562-2_10",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Higher-Order Graph Contrastive Learning for Recommendation",
+    "ee": "https://doi.org/10.1007/978-981-97-5572-1_3",
+    "key": "dblp_sparql"
+  }
+]

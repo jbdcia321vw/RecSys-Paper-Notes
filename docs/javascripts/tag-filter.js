@@ -35,6 +35,30 @@
     }
   }
 
+  function mountToRightRail(root) {
+    var aside = document.querySelector(".md-sidebar--secondary");
+    if (!aside) return;
+    var inner = aside.querySelector(".md-sidebar__inner");
+    if (!inner) return;
+    var nav = aside.querySelector(".md-nav--secondary");
+    if (!nav) {
+      nav = document.createElement("nav");
+      nav.className = "md-nav md-nav--secondary";
+      inner.appendChild(nav);
+    }
+
+    var existing = nav.querySelector(":scope > .pn-tag-rail");
+    if (existing) existing.parentNode.removeChild(existing);
+
+    var wrap = document.createElement("div");
+    wrap.className = "pn-tag-rail";
+    var body = document.createElement("div");
+    body.className = "md-typeset pn-tag-rail__body";
+    body.appendChild(root);
+    wrap.appendChild(body);
+    nav.appendChild(wrap);
+  }
+
   function setup(root) {
     if (root.getAttribute("data-tag-filter-ready") === "1") return;
     root.setAttribute("data-tag-filter-ready", "1");
@@ -163,7 +187,11 @@
 
   function init() {
     var roots = document.querySelectorAll("[data-paper-tag-filter]");
-    for (var i = 0; i < roots.length; i++) setup(roots[i]);
+    document.body.classList.toggle("pn-has-tag-filter", roots.length > 0);
+    for (var i = 0; i < roots.length; i++) {
+      mountToRightRail(roots[i]);
+      setup(roots[i]);
+    }
   }
 
   if (window.document$ && typeof window.document$.subscribe === "function") {

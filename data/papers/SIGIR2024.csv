@@ -1,0 +1,58 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Multi-intent-aware Session-based Recommendation,2405.00986,https://arxiv.org/abs/2405.00986,https://github.com/jin530/MiaSRec,sequential_rec,SIGIR,2024
+Large Language Models for Intent-Driven Session Recommendations,2312.07552,https://arxiv.org/abs/2312.07552,,sequential_rec,SIGIR,2024
+On Generative Agents in Recommendation,2310.10108,https://arxiv.org/abs/2310.10108,https://github.com/LehengTHU/Agent4Rec,agent_conversational_rec,SIGIR,2024
+Multimodality Invariant Learning for Multimedia-Based New Item Recommendation,2405.15783,https://arxiv.org/abs/2405.15783,https://github.com/HaoyueBai98/MILK,cold_start_rec,SIGIR,2024
+Dataset and Models for Item Recommendation Using Multi-Modal User Interactions,2405.04246,https://arxiv.org/abs/2405.04246,,multimodal_rec,SIGIR,2024
+Treatment Effect Estimation for User Interest Exploration on Recommender Systems,2405.08582,https://arxiv.org/abs/2405.08582,,rl_bandit_rec,SIGIR,2024
+Masked Graph Transformer for Large-Scale Recommendation,2405.04028,https://arxiv.org/abs/2405.04028,,graph_rec,SIGIR,2024
+SIGformer: Sign-aware Graph Transformer for Recommendation,2404.11982,https://arxiv.org/abs/2404.11982,https://github.com/StupidThree/SIGformer,graph_rec,SIGIR,2024
+Course Recommender Systems Need to Consider the Job Market,2404.10876,https://arxiv.org/abs/2404.10876,,rl_bandit_rec,SIGIR,2024
+Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors,2403.19347,https://arxiv.org/abs/2403.19347,,ctr_feature_interaction,SIGIR,2024
+Minimizing Live Experiments in Recommender Systems: User Simulation to Evaluate Preference Elicitation Policies,2409.17436,https://arxiv.org/abs/2409.17436,,agent_conversational_rec,SIGIR,2024
+MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation,2403.17876,https://arxiv.org/abs/2403.17876,https://github.com/andreeaiana/xMIND,cold_start_rec,SIGIR,2024
+Behavior Pattern Mining-based Multi-Behavior Recommendation,2408.12152,https://arxiv.org/abs/2408.12152,https://github.com/rookitkitlee/BPMR,collaborative_filtering,SIGIR,2024
+Lightweight Embeddings for Graph Collaborative Filtering,2403.18479,https://arxiv.org/abs/2403.18479,https://github.com/xurong-liang/LEGCF,graph_rec,SIGIR,2024
+LLaRA: Large Language-Recommendation Assistant,2312.02445,https://arxiv.org/abs/2312.02445,https://github.com/ljy0ustc/LLaRA,sequential_rec,SIGIR,2024
+Modeling User Fatigue for Sequential Recommendation,2405.11764,https://arxiv.org/abs/2405.11764,https://github.com/tsinghua-fib-lab/SIGIR24-FRec,sequential_rec,SIGIR,2024
+MealRec$^+$: A Meal Recommendation Dataset with Meal-Course Affiliation for Personalization and Healthiness,2404.05386,https://arxiv.org/abs/2404.05386,https://github.com/WUT-IDEA/MealRecPlus,collaborative_filtering,SIGIR,2024
+Are We Really Achieving Better Beyond-Accuracy Performance in Next Basket Recommendation?,2405.01143,https://arxiv.org/abs/2405.01143,,sequential_rec,SIGIR,2024
+Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation,2403.20296,https://arxiv.org/abs/2403.20296,,cross_domain_multi_scenario,SIGIR,2024
+Data-efficient Fine-tuning for LLM-based Recommendation,2401.17197,https://arxiv.org/abs/2401.17197,,llm_rec,SIGIR,2024
+Refine-POI: Reinforcement Fine-Tuned Large Language Models for Next Point-of-Interest Recommendation,2506.21599,https://arxiv.org/abs/2506.21599,,poi_spatiotemporal_rec,SIGIR,2024
+Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention,2404.03637,https://arxiv.org/abs/2404.03637,,sequential_rec,SIGIR,2024
+A Unified Search and Recommendation Framework Based on Multi-Scenario Learning for Ranking in E-commerce,2405.10835,https://arxiv.org/abs/2405.10835,,cross_domain_multi_scenario,SIGIR,2024
+SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation,2405.20878,https://arxiv.org/abs/2405.20878,https://github.com/HKUDS/SelfGNN,sequential_rec,SIGIR,2024
+OpenSiteRec: An Open Dataset for Site Recommendation,2307.00856,https://arxiv.org/abs/2307.00856,,poi_spatiotemporal_rec,SIGIR,2024
+FedUD: Exploiting Unaligned Data for Cross-Platform Federated Click-Through Rate Prediction,2407.18472,https://arxiv.org/abs/2407.18472,,ctr_feature_interaction,SIGIR,2024
+Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation,2407.11245,https://arxiv.org/abs/2407.11245,,cross_domain_multi_scenario,SIGIR,2024
+Turbo-CF: Matrix Decomposition-Free Graph Filtering for Fast Recommendation,2404.14243,https://arxiv.org/abs/2404.14243,,graph_rec,SIGIR,2024
+Can We Trust Recommender System Fairness Evaluation? The Role of Fairness and Relevance,2405.18276,https://arxiv.org/abs/2405.18276,,debias_fairness_industrial,SIGIR,2024
+Monitoring the Evolution of Behavioural Embeddings in Social Media Recommendation,2312.15265,https://arxiv.org/abs/2312.15265,,debias_fairness_industrial,SIGIR,2024
+Large Language Models are Learnable Planners for Long-Term Recommendation,2403.00843,https://arxiv.org/abs/2403.00843,https://github.com/jizhi-zhang/BiLLP,rl_bandit_rec,SIGIR,2024
+Neural Click Models for Recommender Systems,2409.20055,https://arxiv.org/abs/2409.20055,,ctr_feature_interaction,SIGIR,2024
+UniSAR: Modeling User Transition Behaviors between Search and Recommendation,2404.09520,https://arxiv.org/abs/2404.09520,,cross_domain_multi_scenario,SIGIR,2024
+Analyzing and Mitigating Repetitions in Trip Recommendation,2507.19798,https://arxiv.org/abs/2507.19798,,poi_spatiotemporal_rec,SIGIR,2024
+To Search or to Recommend: Predicting Open-App Motivation with Neural Hawkes Process,2404.03267,https://arxiv.org/abs/2404.03267,,collaborative_filtering,SIGIR,2024
+EulerFormer: Sequential User Behavior Modeling with Complex Vector Attention,2403.17729,https://arxiv.org/abs/2403.17729,,sequential_rec,SIGIR,2024
+CaDRec: Contextualized and Debiased Recommender Model,2404.06895,https://arxiv.org/abs/2404.06895,https://github.com/WangXFng/CaDRec,debias_fairness_industrial,SIGIR,2024
+NFARec: A Negative Feedback-Aware Recommender Model,2404.06900,https://arxiv.org/abs/2404.06900,https://github.com/WangXFng/NFARec,graph_rec,SIGIR,2024
+MACRec: a Multi-Agent Collaboration Framework for Recommendation,2402.15235,https://arxiv.org/abs/2402.15235,https://github.com/wzf2000/MACRec,agent_conversational_rec,SIGIR,2024
+AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations,2403.17416,https://arxiv.org/abs/2403.17416,,graph_rec,SIGIR,2024
+"OpenP5: An Open-Source Platform for Developing, Training, and Evaluating LLM-based Recommender Systems",2306.11134,https://arxiv.org/abs/2306.11134,https://github.com/agiresearch/OpenP5,llm_rec,SIGIR,2024
+Diffusion Models for Generative Outfit Recommendation,2402.17279,https://arxiv.org/abs/2402.17279,,generative_rec,SIGIR,2024
+Sequential Recommendation with Latent Relations based on Large Language Model,2403.18348,https://arxiv.org/abs/2403.18348,,sequential_rec,SIGIR,2024
+Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation,2404.18166,https://arxiv.org/abs/2404.18166,,collaborative_filtering,SIGIR,2024
+EasyRL4Rec: An Easy-to-use Library for Reinforcement Learning Based Recommender Systems,2402.15164,https://arxiv.org/abs/2402.15164,,rl_bandit_rec,SIGIR,2024
+M3oE: Multi-Domain Multi-Task Mixture-of Experts Recommendation Framework,2404.18465,https://arxiv.org/abs/2404.18465,,cross_domain_multi_scenario,SIGIR,2024
+Deep Pattern Network for Click-Through Rate Prediction,2404.11456,https://arxiv.org/abs/2404.11456,,ctr_feature_interaction,SIGIR,2024
+Disentangling ID and Modality Effects for Session-based Recommendation,2404.12969,https://arxiv.org/abs/2404.12969,,sequential_rec,SIGIR,2024
+TransGNN: Harnessing the Collaborative Power of Transformers and Graph Neural Networks for Recommender Systems,2308.14355,https://arxiv.org/abs/2308.14355,,graph_rec,SIGIR,2024
+GPT4Rec: Graph Prompt Tuning for Streaming Recommendation,2406.08229,https://arxiv.org/abs/2406.08229,,graph_rec,SIGIR,2024
+Leave No Patient Behind: Enhancing Medication Recommendation for Rare Disease Patients,2403.17745,https://arxiv.org/abs/2403.17745,,debias_fairness_industrial,SIGIR,2024
+Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning,2405.15114,https://arxiv.org/abs/2405.15114,,llm_rec,SIGIR,2024
+Denoising Diffusion Recommender Model,2401.06982,https://arxiv.org/abs/2401.06982,,self_supervised_denoising,SIGIR,2024
+Poisoning Decentralized Collaborative Recommender System and Its Countermeasures,2404.01177,https://arxiv.org/abs/2404.01177,,debias_fairness_industrial,SIGIR,2024
+Interest Clock: Time Perception in Real-Time Streaming Recommendation System,2404.19357,https://arxiv.org/abs/2404.19357,,sequential_rec,SIGIR,2024
+Graph Signal Diffusion Model for Collaborative Filtering,2311.08744,https://arxiv.org/abs/2311.08744,,generative_rec,SIGIR,2024
+Scaling Sequential Recommendation Models with Transformers,2412.07585,https://arxiv.org/abs/2412.07585,https://github.com/mercadolibre/srt,sequential_rec,SIGIR,2024

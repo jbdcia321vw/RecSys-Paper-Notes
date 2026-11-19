@@ -118,7 +118,7 @@ def classify_one(
     last_error = ""
     for attempt in range(1, retries + 1):
         try:
-            kwargs = {"temperature": 0.0, "timeout": timeout, "max_tokens": 512, "thinking": False}
+            kwargs = {"temperature": 0.0, "timeout": timeout, "max_tokens": 4096, "thinking": False}
             if attempt == 1:
                 kwargs["response_format"] = {"type": "json_object"}
             raw = call_chat_completion(

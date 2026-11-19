@@ -1,0 +1,5 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Attribute-driven Disentangled Representation Learning for Multimodal Recommendation,2312.14433,https://arxiv.org/abs/2312.14433,,multimodal_rec,ACM_MM,2024
+DiffMM: Multi-Modal Diffusion Model for Recommendation,2406.11781,https://arxiv.org/abs/2406.11781,https://github.com/HKUDS/DiffMM,multimodal_rec,ACM_MM,2024
+Semantic Codebook Learning for Dynamic Recommendation Models,2408.00123,https://arxiv.org/abs/2408.00123,,sequential_rec,ACM_MM,2024
+Modality-Balanced Learning for Multimedia Recommendation,2408.06360,https://arxiv.org/abs/2408.06360,https://github.com/CRIPAC-DIG/Balanced-Multimodal-Rec,multimodal_rec,ACM_MM,2024

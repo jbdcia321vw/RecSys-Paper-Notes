@@ -1,0 +1,20 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Transparent and Scrutable Recommendations Using Natural Language User Profiles,2402.05810,https://arxiv.org/abs/2402.05810,,llm_rec,ACL_EMNLP,2024
+RDRec: Rationale Distillation for LLM-based Recommendation,2405.10587,https://arxiv.org/abs/2405.10587,https://github.com/WangXFng/RDRec,llm_rec,ACL_EMNLP,2024
+RecGPT: Generative Pre-training for Text-based Recommendation,2405.12715,https://arxiv.org/abs/2405.12715,https://github.com/VinAIResearch/RecGPT,llm_rec,ACL_EMNLP,2024
+Aligning Large Language Models for Controllable Recommendations,2403.05063,https://arxiv.org/abs/2403.05063,,llm_rec,ACL_EMNLP,2024
+Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers,2406.05255,https://arxiv.org/abs/2406.05255,,generative_rec,ACL_EMNLP,2024
+"Train Once, Use Flexibly: A Modular Framework for Multi-Aspect Neural News Recommendation",2307.16089,https://arxiv.org/abs/2307.16089,,collaborative_filtering,ACL_EMNLP,2024
+Stealthy Attack on Large Language Model based Recommendation,2402.14836,https://arxiv.org/abs/2402.14836,,debias_fairness_industrial,ACL_EMNLP,2024
+Improving Retrieval in Sponsored Search by Leveraging Query Context Signals,2407.14346,https://arxiv.org/abs/2407.14346,,ctr_feature_interaction,ACL_EMNLP,2024
+Efficient Pointwise-Pairwise Learning-to-Rank for News Recommendation,2409.17711,https://arxiv.org/abs/2409.17711,,multi_task_reranking,ACL_EMNLP,2024
+XRec: Large Language Models for Explainable Recommendation,2406.02377,https://arxiv.org/abs/2406.02377,https://github.com/HKUDS/XRec,llm_rec,ACL_EMNLP,2024
+Sequential LLM Framework for Fashion Recommendation,2410.11327,https://arxiv.org/abs/2410.11327,,sequential_rec,ACL_EMNLP,2024
+"Reproducibility Study of ""XRec: Large Language Models for Explainable Recommendation""",2510.06275,https://arxiv.org/abs/2510.06275,https://github.com/julianbibo/xrec-reproducibility,llm_rec,ACL_EMNLP,2024
+Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations,2409.14399,https://arxiv.org/abs/2409.14399,https://github.com/mumen798/PC-CRS,agent_conversational_rec,ACL_EMNLP,2024
+Enhancing High-order Interaction Awareness in LLM-based Recommender Model,2409.19979,https://arxiv.org/abs/2409.19979,,llm_rec,ACL_EMNLP,2024
+Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation,2607.18609,https://arxiv.org/abs/2607.18609,https://github.com/zysensmile/HiCore,agent_conversational_rec,ACL_EMNLP,2024
+Aligning Large Language Models with Recommendation Knowledge,2404.00245,https://arxiv.org/abs/2404.00245,,llm_rec,ACL_EMNLP,2024
+Denoising Attention for Query-aware User Modeling in Personalized Search,2308.15968,https://arxiv.org/abs/2308.15968,,self_supervised_denoising,ACL_EMNLP,2024
+LLM-Rec: Personalized Recommendation via Prompting Large Language Models,2307.15780,https://arxiv.org/abs/2307.15780,,llm_rec,ACL_EMNLP,2024
+RecMind: Large Language Model Powered Agent For Recommendation,2308.14296,https://arxiv.org/abs/2308.14296,,agent_conversational_rec,ACL_EMNLP,2024

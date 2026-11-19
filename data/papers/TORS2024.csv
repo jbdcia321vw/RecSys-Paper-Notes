@@ -1,0 +1,9 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation,2404.11519,https://arxiv.org/abs/2404.11519,,graph_rec,TORS,2024
+Incentive-Aware Recommender Systems in Two-Sided Markets,2211.15381,https://arxiv.org/abs/2211.15381,,rl_bandit_rec,TORS,2024
+Distributionally-Informed Recommender System Evaluation,2309.05892,https://arxiv.org/abs/2309.05892,,debias_fairness_industrial,TORS,2024
+A Comprehensive Survey on Automated Machine Learning for Recommendations,2204.01390,https://arxiv.org/abs/2204.01390,,ctr_feature_interaction,TORS,2024
+Assessing the Impact of Music Recommendation Diversity on Listeners: A Longitudinal Study,2212.00592,https://arxiv.org/abs/2212.00592,,debias_fairness_industrial,TORS,2024
+Generating Usage-related Questions for Preference Elicitation in Conversational Recommender Systems,2111.13463,https://arxiv.org/abs/2111.13463,,agent_conversational_rec,TORS,2024
+Group Validation in Recommender Systems: Framework for Multi-layer Performance Evaluation,2207.09320,https://arxiv.org/abs/2207.09320,,debias_fairness_industrial,TORS,2024
+Building Human Values into Recommender Systems: An Interdisciplinary Synthesis,2207.10192,https://arxiv.org/abs/2207.10192,,debias_fairness_industrial,TORS,2024
