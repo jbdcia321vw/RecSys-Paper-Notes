@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Toward Fair Recommendation in Two-sided Platforms",
+    "ee": "https://doi.org/10.1145/3503624",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Double Attention Convolutional Neural Network for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3555350",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Factorizing Historical User Actions for Next-Day Purchase Prediction",
+    "ee": "https://doi.org/10.1145/3468227",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Visualization Recommendation",
+    "ee": "https://doi.org/10.1145/3538703",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "BanditProp: Bandit Selection of Review Properties for Effective Recommendation",
+    "ee": "https://doi.org/10.1145/3532859",
+    "key": "dblp_sparql"
+  }
+]

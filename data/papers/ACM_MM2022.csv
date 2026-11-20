@@ -1,0 +1,5 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Pareto Invariant Representation Learning for Multimedia Recommendation,2308.04706,https://arxiv.org/abs/2308.04706,,multimodal_rec,ACM_MM,2022
+DVR: Micro-Video Recommendation Optimizing Watch-Time-Gain under Duration Bias,2208.05190,https://arxiv.org/abs/2208.05190,https://github.com/tsinghua-fib-lab/WTG-DVR,debias_fairness_industrial,ACM_MM,2022
+DDGHM: Dual Dynamic Graph with Hybrid Metric Training for Cross-Domain Sequential Recommendation,2209.10163,https://arxiv.org/abs/2209.10163,,cross_domain_multi_scenario,ACM_MM,2022
+Personality-Driven Social Multimedia Content Recommendation,2207.12236,https://arxiv.org/abs/2207.12236,,multimodal_rec,ACM_MM,2022

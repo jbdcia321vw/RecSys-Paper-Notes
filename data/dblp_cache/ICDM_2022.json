@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Boolean Matrix Factorization for Data with Symmetric Variables",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00123",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Rethinking Symmetric Matrix Factorization: A More General and Better Clustering Perspective",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00080",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep-SHEEP: Sense of Humor Extraction from Embeddings in the Personalized Context",
+    "ee": "https://doi.org/10.1109/ICDMW58026.2022.00125",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Which Companies are Likely to Invest: Knowledge-graph-based Recommendation for Investment Promotion",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00011",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-purpose Recommender Platform using Perceiver IO",
+    "ee": "https://doi.org/10.1109/ICDMW58026.2022.00126",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Empowerment-driven Policy Gradient Learning with Counterfactual Augmentation in Recommender Systems",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00102",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Decomposing Complementary and Substitutable Relations for Intercorporate Investment Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00106",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Simulated Contextual Bandits for Personalization Tasks from Recommendation Datasets",
+    "ee": "https://doi.org/10.1109/ICDMW58026.2022.00127",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "IGNiteR: News Recommendation in Microblogging Applications",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00111",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Next POI Recommender System: Multi-view Representation Learning for Outstanding Performance in Various Context",
+    "ee": "https://doi.org/10.1109/ICDMW58026.2022.00150",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Kernel-based Substructure Exploration for Next POI Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00032",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized User Recommendation based on Various User Behavior in Local Domain",
+    "ee": "https://doi.org/10.1109/ICDMW58026.2022.00069",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DeepDive: Deep Latent Factor Model for Enhancing Diversity in Recommender Systems",
+    "ee": "https://doi.org/10.1109/ICDMW58026.2022.00031",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "One Person, One Model - Learning Compound Router for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00039",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Students Temporal Profiling and e-Learning Resources Recommendation Based on NLP's Terms Extraction",
+    "ee": "https://doi.org/10.1109/ICDMW58026.2022.00044",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Beyond Double Ascent via Recurrent Neural Tangent Kernel in Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00053",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Recommendation System Framework to Generalize AutoRec and Neural Collaborative Filtering",
+    "ee": "https://doi.org/10.1109/ICDMW58026.2022.00151",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mitigating Popularity Bias in Recommendation with Unbalanced Interactions: A Gradient Perspective",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00054",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AutoAssign: Automatic Shared Embedding Assignment in Streaming Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00056",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ULTRA: A Data-driven Approach for Recommending Team Formation in Response to Proposal Calls",
+    "ee": "https://doi.org/10.1109/ICDMW58026.2022.00130",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Federated Learning via Heterogeneous Modular Networks",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00154",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Heterogeneous Graph Neural Network for Privacy-Preserving Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00063",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards High-Order Complementary Recommendation via Logical Reasoning Network",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00159",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00070",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Centralized-Distributed Transfer Model for Cross-Domain Recommendation Based on Multi-Source Heterogeneous Transfer Learning",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00166",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Bi-directional Recommender System for Online Recruitment",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00073",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Model Personalization with Static and Dynamic Patients' Data",
+    "ee": "https://doi.org/10.1109/ICDMW58026.2022.00051",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Unified Guaranteed Impression Allocation Framework for Online Display Advertising",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00079",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling",
+    "ee": "https://doi.org/10.1109/ICDM54844.2022.00091",
+    "key": "dblp_sparql"
+  }
+]

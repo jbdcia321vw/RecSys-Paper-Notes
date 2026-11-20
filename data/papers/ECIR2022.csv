@@ -1,0 +1,7 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Consumer Fairness in Recommender Systems: Contextualizing Definitions and Mitigations,2201.08614,https://arxiv.org/abs/2201.08614,https://github.com/jackmedda/C-Fairness-RecSys,debias_fairness_industrial,ECIR,2022
+Revisiting Popularity and Demographic Biases in Recommender Evaluation and Effectiveness,2110.08353,https://arxiv.org/abs/2110.08353,,debias_fairness_industrial,ECIR,2022
+Recommendation of Compatible Outfits Conditioned on Style,2203.16161,https://arxiv.org/abs/2203.16161,,multimodal_rec,ECIR,2022
+An Evaluation Study of Generative Adversarial Networks for Collaborative Filtering,2201.01815,https://arxiv.org/abs/2201.01815,,collaborative_filtering,ECIR,2022
+Recommender systems: when memory matters,2112.02242,https://arxiv.org/abs/2112.02242,,sequential_rec,ECIR,2022
+Zero-Shot Recommendation as Language Modeling,2112.04184,https://arxiv.org/abs/2112.04184,,llm_rec,ECIR,2022

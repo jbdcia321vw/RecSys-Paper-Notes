@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Adaptive Anti-Bottleneck Multi-Modal Graph Learning Network for Personalized Micro-video Recommendation",
+    "ee": "https://doi.org/10.1145/3503161.3548420",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cross-modal Knowledge Graph Contrastive Learning for Machine Learning Method Recommendation",
+    "ee": "https://doi.org/10.1145/3503161.3548273",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Breaking Isolation: Multimodal Graph Fusion for Multimedia Recommendation by Edge-wise Modulation",
+    "ee": "https://doi.org/10.1145/3503161.3548399",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Recurrent Meta-Learning against Generalized Cold-start Problem in CTR Prediction",
+    "ee": "https://doi.org/10.1145/3503161.3548118",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Invariant Representation Learning for Multimedia Recommendation",
+    "ee": "https://doi.org/10.1145/3503161.3548405",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Bi-directional Heterogeneous Graph Hashing towards Efficient Outfit Recommendation",
+    "ee": "https://doi.org/10.1145/3503161.3548020",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "TopicVAE: Topic-aware Disentanglement Representation Learning for Enhanced Recommendation",
+    "ee": "https://doi.org/10.1145/3503161.3548294",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ScoreActuary: Hoop-Centric Trajectory-Aware Network for Fine-Grained Basketball Shot Analysis",
+    "ee": "https://doi.org/10.1145/3503161.3547736",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Intrinsic and Extrinsic Intentions for Cold-start Recommendation with Neural Stochastic Processes",
+    "ee": "https://doi.org/10.1145/3503161.3548302",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "BetterSight: Immersive Vision Training for Basketball Players",
+    "ee": "https://doi.org/10.1145/3503161.3547745",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "EliMRec: Eliminating Single-modal Bias in Multimedia Recommendation",
+    "ee": "https://doi.org/10.1145/3503161.3548404",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Transductive Aesthetic Preference Propagation for Personalized Image Aesthetics Assessment",
+    "ee": "https://doi.org/10.1145/3503161.3548244",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized 360-Degree Video Streaming: A Meta-Learning Approach",
+    "ee": "https://doi.org/10.1145/3503161.3548047",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Content based User Preference Modeling in Music Generation",
+    "ee": "https://doi.org/10.1145/3503161.3548169",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Hybrid Behavior Patterns for Multimedia Recommendation",
+    "ee": "https://doi.org/10.1145/3503161.3548119",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "The First Impression: Understanding the Impact of Multimodal System Responses on User Behavior in Task-oriented Agents",
+    "ee": "https://doi.org/10.1145/3503161.3548760",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CreaGAN: An Automatic Creative Generation Framework for Display Advertising",
+    "ee": "https://doi.org/10.1145/3503161.3548763",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "From Abstract to Details: A Generative Multimodal Fusion Framework for Recommendation",
+    "ee": "https://doi.org/10.1145/3503161.3548366",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personality-Driven Social Multimedia Content Recommendation",
+    "ee": "https://doi.org/10.1145/3503161.3548769",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Fragrance In Sight: Personalized Perfume Production Based on Style Recognition",
+    "ee": "https://doi.org/10.1145/3503161.3549966",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DVR: Micro-Video Recommendation Optimizing Watch-Time-Gain under Duration Bias",
+    "ee": "https://doi.org/10.1145/3503161.3548428",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancement by Your Aesthetic: An Intelligible Unsupervised Personalized Enhancer for Low-Light Images",
+    "ee": "https://doi.org/10.1145/3503161.3547952",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DDGHM: Dual Dynamic Graph with Hybrid Metric Training for Cross-Domain Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3503161.3548072",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AdsCVLR: Commercial Visual-Linguistic Representation Modeling in Sponsored Search",
+    "ee": "https://doi.org/10.1145/3503161.3548226",
+    "key": "dblp_sparql"
+  }
+]

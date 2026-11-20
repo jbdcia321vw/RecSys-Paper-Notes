@@ -1,0 +1,28 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Augmenting Netflix Search with In-Session Adapted Recommendations,2206.02254,https://arxiv.org/abs/2206.02254,,sequential_rec,RecSys,2022
+Flow Moods: Recommending Music by Moods on Deezer,2207.11229,https://arxiv.org/abs/2207.11229,,multimodal_rec,RecSys,2022
+TinyKG: Memory-Efficient Training Framework for Knowledge Graph Neural Recommender Systems,2212.04540,https://arxiv.org/abs/2212.04540,,graph_rec,RecSys,2022
+Reusable Self-Attention Recommender Systems in Fashion Industry Applications,2301.06777,https://arxiv.org/abs/2301.06777,,multimodal_rec,RecSys,2022
+Learning Recommendations from User Actions in the Item-poor Insurance Domain,2211.15360,https://arxiv.org/abs/2211.15360,,sequential_rec,RecSys,2022
+Towards Psychologically-Grounded Dynamic Preference Models,2208.01534,https://arxiv.org/abs/2208.01534,,sequential_rec,RecSys,2022
+Denoising Self-attentive Sequential Recommendation,2212.04120,https://arxiv.org/abs/2212.04120,,sequential_rec,RecSys,2022
+Measuring Commonality in Recommendation of Cultural Content: Recommender Systems to Enhance Cultural Citizenship,2208.01696,https://arxiv.org/abs/2208.01696,,debias_fairness_industrial,RecSys,2022
+A User-Centered Investigation of Personal Music Tours,2208.07807,https://arxiv.org/abs/2208.07807,,sequential_rec,RecSys,2022
+Bundle MCR: Towards Conversational Bundle Recommendation,2207.12628,https://arxiv.org/abs/2207.12628,,agent_conversational_rec,RecSys,2022
+DAGFiNN: A Conversational Conference Assistant,2211.16281,https://arxiv.org/abs/2211.16281,,agent_conversational_rec,RecSys,2022
+Exploration with Model Uncertainty at Extreme Scale in Real-Time Bidding,2208.01951,https://arxiv.org/abs/2208.01951,,rl_bandit_rec,RecSys,2022
+An Incremental Learning framework for Large-scale CTR Prediction,2209.00458,https://arxiv.org/abs/2209.00458,,ctr_feature_interaction,RecSys,2022
+Modeling User Repeat Consumption Behavior for Online Novel Recommendation,2209.01963,https://arxiv.org/abs/2209.01963,,sequential_rec,RecSys,2022
+A Systematic Review and Replicability Study of BERT4Rec for Sequential Recommendation,2207.07483,https://arxiv.org/abs/2207.07483,,sequential_rec,RecSys,2022
+Revisiting the Performance of iALS on Item Recommendation Benchmarks,2110.14037,https://arxiv.org/abs/2110.14037,,collaborative_filtering,RecSys,2022
+Effective and Efficient Training for Sequential Recommendation using Recency Sampling,2207.02643,https://arxiv.org/abs/2207.02643,,sequential_rec,RecSys,2022
+Exploring the Impact of Temporal Bias in Point-of-Interest Recommendation,2207.11609,https://arxiv.org/abs/2207.11609,,debias_fairness_industrial,RecSys,2022
+Discovery Dynamics: Leveraging Repeated Exposure for User and Music Characterization,2210.16226,https://arxiv.org/abs/2210.16226,,sequential_rec,RecSys,2022
+Recommender Systems and Algorithmic Hate,2209.02159,https://arxiv.org/abs/2209.02159,,debias_fairness_industrial,RecSys,2022
+Merlin HugeCTR: GPU-accelerated Recommender System Training and Inference,2210.08803,https://arxiv.org/abs/2210.08803,,debias_fairness_industrial,RecSys,2022
+RADio -- Rank-Aware Divergence Metrics to Measure Normative Diversity in News Recommendations,2209.13520,https://arxiv.org/abs/2209.13520,,debias_fairness_industrial,RecSys,2022
+A GPU-specialized Inference Parameter Server for Large-Scale Deep Recommendation Models,2210.08804,https://arxiv.org/abs/2210.08804,,debias_fairness_industrial,RecSys,2022
+Dynamic Global Sensitivity for Differentially Private Contextual Bandits,2208.14555,https://arxiv.org/abs/2208.14555,,rl_bandit_rec,RecSys,2022
+Rethinking Personalized Ranking at Pinterest: An End-to-End Approach,2209.08435,https://arxiv.org/abs/2209.08435,,sequential_rec,RecSys,2022
+Matching Theory-based Recommender Systems in Online Dating,2208.11384,https://arxiv.org/abs/2208.11384,,collaborative_filtering,RecSys,2022
+Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders,2207.11237,https://arxiv.org/abs/2207.11237,,debias_fairness_industrial,RecSys,2022

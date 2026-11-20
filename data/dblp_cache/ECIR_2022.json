@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Understanding and Learning from User Behavior for Recommendation in Multi-channel Retail",
+    "ee": "https://doi.org/10.1007/978-3-030-99739-7_56",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Recommendation of Compatible Outfits Conditioned on Style",
+    "ee": "https://doi.org/10.1007/978-3-030-99736-6_3",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Online Advertising Incrementality Testing: Practical Lessons, Paid Search and Emerging Challenges",
+    "ee": "https://doi.org/10.1007/978-3-030-99739-7_72",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Consumer Fairness in Recommender Systems: Contextualizing Definitions and Mitigations",
+    "ee": "https://doi.org/10.1007/978-3-030-99736-6_37",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Recommender Systems: When Memory Matters",
+    "ee": "https://doi.org/10.1007/978-3-030-99739-7_7",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Leveraging Content-Style Item Representation for Visual Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-030-99739-7_10",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Local Citation Recommendation with Hierarchical-Attention Text Encoder and SciBERT-Based Reranking",
+    "ee": "https://doi.org/10.1007/978-3-030-99736-6_19",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "What Drives Readership? An Online Study on User Interface Types and Popularity Bias Mitigation in News Article Recommendations",
+    "ee": "https://doi.org/10.1007/978-3-030-99739-7_20",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An Evaluation Study of Generative Adversarial Networks for Collaborative Filtering",
+    "ee": "https://doi.org/10.1007/978-3-030-99736-6_45",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Revisiting Popularity and Demographic Biases in Recommender Evaluation and Effectiveness",
+    "ee": "https://doi.org/10.1007/978-3-030-99736-6_43",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Zero-Shot Recommendation as Language Modeling",
+    "ee": "https://doi.org/10.1007/978-3-030-99739-7_26",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SolutionTailor: Scientific Paper Recommendation Based on Fine-Grained Abstract Analysis",
+    "ee": "https://doi.org/10.1007/978-3-030-99739-7_40",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Joint Personalized Search and Recommendation with Hypergraph Convolutional Networks",
+    "ee": "https://doi.org/10.1007/978-3-030-99736-6_30",
+    "key": "dblp_sparql"
+  }
+]

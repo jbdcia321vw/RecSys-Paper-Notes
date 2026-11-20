@@ -1,0 +1,11 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Modeling Dynamic User Preference via Dictionary Learning for Sequential Recommendation,2204.00752,https://arxiv.org/abs/2204.00752,https://github.com/cchao0116/S2PNM-TKDE2021,sequential_rec,TKDE,2022
+Magnitude Bounded Matrix Factorisation for Recommender Systems,1807.05515,https://arxiv.org/abs/1807.05515,,collaborative_filtering,TKDE,2022
+A Survey on Knowledge Graph-Based Recommender Systems,2003.00911,https://arxiv.org/abs/2003.00911,,graph_rec,TKDE,2022
+Modelling High-Order Social Relations for Item Recommendation,2003.10149,https://arxiv.org/abs/2003.10149,,social_group_rec,TKDE,2022
+Detect Professional Malicious User with Metric Learning in Recommender Systems,2205.09673,https://arxiv.org/abs/2205.09673,,debias_fairness_industrial,TKDE,2022
+DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation,2002.00844,https://arxiv.org/abs/2002.00844,,social_group_rec,TKDE,2022
+Enhancing Social Recommendation with Adversarial Graph Convolutional Networks,2004.02340,https://arxiv.org/abs/2004.02340,,social_group_rec,TKDE,2022
+Overcoming Data Sparsity in Group Recommendation,2010.00813,https://arxiv.org/abs/2010.00813,,social_group_rec,TKDE,2022
+"Understanding WeChat User Preferences and ""Wow"" Diffusion",2103.02930,https://arxiv.org/abs/2103.02930,,social_group_rec,TKDE,2022
+Deep Pairwise Hashing for Cold-start Recommendation,2011.00944,https://arxiv.org/abs/2011.00944,,cold_start_rec,TKDE,2022

@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Graph Technologies for User Modeling and Recommendation: Introduction to the Special Issue - Part 1",
+    "ee": "https://doi.org/10.1145/3477596",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Bilateral Filtering Graph Convolutional Network for Multi-relational Social Recommendation in the Power-law Networks",
+    "ee": "https://doi.org/10.1145/3469799",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Direction-Aware User Recommendation Based on Asymmetric Network Embedding",
+    "ee": "https://doi.org/10.1145/3466754",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning from Substitutable and Complementary Relations for Graph-based Sequential Product Recommendation",
+    "ee": "https://doi.org/10.1145/3464302",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SPEX: A Generic Framework for Enhancing Neural Social Recommendation",
+    "ee": "https://doi.org/10.1145/3473338",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "HyperSoRec: Exploiting Hyperbolic User and Item Representations with Multiple Aspects for Social-aware Recommendation",
+    "ee": "https://doi.org/10.1145/3463913",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalizing Medication Recommendation with a Graph-Based Approach",
+    "ee": "https://doi.org/10.1145/3488668",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Feature-Level Attentive ICF for Recommendation",
+    "ee": "https://doi.org/10.1145/3490477",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-interest Diversification for End-to-end Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3475768",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sequential-Knowledge-Aware Next POI Recommendation: A Meta-Learning Approach",
+    "ee": "https://doi.org/10.1145/3460198",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Toward Personalized Answer Generation in E-Commerce via Multi-perspective Preference Modeling",
+    "ee": "https://doi.org/10.1145/3507782",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical Hyperedge Embedding-Based Representation Learning for Group Recommendation",
+    "ee": "https://doi.org/10.1145/3457949",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Introduction to the Special Section on Graph Technologies for User Modeling and Recommendation, Part 2",
+    "ee": "https://doi.org/10.1145/3490180",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning to Learn a Cold-start Sequential Recommender",
+    "ee": "https://doi.org/10.1145/3466753",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "The Simpson's Paradox in the Offline Evaluation of Recommendation Systems",
+    "ee": "https://doi.org/10.1145/3458509",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "STARec: Adaptive Learning with Spatiotemporal and Activity Influence for POI Recommendation",
+    "ee": "https://doi.org/10.1145/3485631",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Graph-Based Approach for Mitigating Multi-Sided Exposure Bias in Recommender Systems",
+    "ee": "https://doi.org/10.1145/3470948",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Guided Disentangled Representation Learning for Recommender Systems",
+    "ee": "https://doi.org/10.1145/3464304",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Co-Attentive Session-based Recommendation",
+    "ee": "https://doi.org/10.1145/3486711",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Collaborative Graph Learning for Session-based Recommendation",
+    "ee": "https://doi.org/10.1145/3490479",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized, Sequential, Attentive, Metric-Aware Product Search",
+    "ee": "https://doi.org/10.1145/3473337",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Graph Theoretic Approach for Multi-Objective Budget Constrained Capsule Wardrobe Recommendation",
+    "ee": "https://doi.org/10.1145/3457182",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploiting Positional Information for Session-Based Recommendation",
+    "ee": "https://doi.org/10.1145/3473339",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Systematic Analysis on the Impact of Contextual Information on Point-of-Interest Recommendation",
+    "ee": "https://doi.org/10.1145/3508478",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An Unsupervised Aspect-Aware Recommendation Model with Explanation Text Generation",
+    "ee": "https://doi.org/10.1145/3483611",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploiting Group Information for Personalized Recommendation with Graph Neural Networks",
+    "ee": "https://doi.org/10.1145/3464764",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dynamic Structural Role Node Embedding for User Modeling in Evolving Networks",
+    "ee": "https://doi.org/10.1145/3472955",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "The Footprint of Factorization Models and Their Applications in Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3490475",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized and Explainable Employee Training Course Recommendations: A Bayesian Variational Approach",
+    "ee": "https://doi.org/10.1145/3490476",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Collaborative Reflection-Augmented Autoencoder Network for Recommender Systems",
+    "ee": "https://doi.org/10.1145/3467023",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Neural Collaborative Topic Model for Citation Recommendation",
+    "ee": "https://doi.org/10.1145/3473973",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LegalGNN: Legal Information Enhanced Graph Neural Network for Recommendation",
+    "ee": "https://doi.org/10.1145/3469887",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LkeRec: Toward Lightweight End-to-End Joint Representation Learning for Building Accurate and Effective Recommendation",
+    "ee": "https://doi.org/10.1145/3486673",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Clarifying Ambiguous Keywords with Personal Word Embeddings for Personalized Search",
+    "ee": "https://doi.org/10.1145/3470564",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CHA: Categorical Hierarchy-based Attention for Next POI Recommendation",
+    "ee": "https://doi.org/10.1145/3464300",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Global and Local Interactions for Online Conversation Recommendation",
+    "ee": "https://doi.org/10.1145/3473970",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Graph Heterogeneous Interaction Fusion for Social Recommendation",
+    "ee": "https://doi.org/10.1145/3466641",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Are Topics Interesting or Not? An LDA-based Topic-graph Probabilistic Model for Web Search Personalization",
+    "ee": "https://doi.org/10.1145/3476106",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning a Hierarchical Intent Model for Next-Item Recommendation",
+    "ee": "https://doi.org/10.1145/3473972",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "BotSpot++: A Hierarchical Deep Ensemble Model for Bots Install Fraud Detection in Mobile Advertising",
+    "ee": "https://doi.org/10.1145/3476107",
+    "key": "dblp_sparql"
+  }
+]

@@ -1,0 +1,59 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Investigating Accuracy-Novelty Performance for Graph-based Collaborative Filtering,2204.12326,https://arxiv.org/abs/2204.12326,,debias_fairness_industrial,SIGIR,2022
+HAKG: Hierarchy-Aware Knowledge Gated Network for Recommendation,2204.04959,https://arxiv.org/abs/2204.04959,,graph_rec,SIGIR,2022
+Analyzing and Simulating User Utterance Reformulation in Conversational Recommender Systems,2205.01763,https://arxiv.org/abs/2205.01763,,agent_conversational_rec,SIGIR,2022
+On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation,2204.11091,https://arxiv.org/abs/2204.11091,,sequential_rec,SIGIR,2022
+ReLoop: A Self-Correction Continual Learning Loop for Recommender Systems,2204.11165,https://arxiv.org/abs/2204.11165,,debias_fairness_industrial,SIGIR,2022
+ELECRec: Training Sequential Recommenders as Discriminators,2204.02011,https://arxiv.org/abs/2204.02011,,sequential_rec,SIGIR,2022
+Thinking inside The Box: Learning Hypercube Representations for Group Recommendation,2204.02592,https://arxiv.org/abs/2204.02592,,social_group_rec,SIGIR,2022
+Graph Trend Filtering Networks for Recommendations,2108.05552,https://arxiv.org/abs/2108.05552,https://github.com/wenqifan03/GTN-SIGIR2022,graph_rec,SIGIR,2022
+Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential Recommendation,2205.10775,https://arxiv.org/abs/2205.10775,,sequential_rec,SIGIR,2022
+Unlearning Protected User Attributes in Recommendations with Adversarial Training,2206.04500,https://arxiv.org/abs/2206.04500,,debias_fairness_industrial,SIGIR,2022
+Self-Guided Learning to Denoise for Robust Recommendation,2204.06832,https://arxiv.org/abs/2204.06832,,self_supervised_denoising,SIGIR,2022
+Value Penalized Q-Learning for Recommender Systems,2110.07923,https://arxiv.org/abs/2110.07923,,rl_bandit_rec,SIGIR,2022
+Explainable Fairness in Recommendation,2204.11159,https://arxiv.org/abs/2204.11159,,debias_fairness_industrial,SIGIR,2022
+Empowering Next POI Recommendation with Multi-Relational Modeling,2204.12288,https://arxiv.org/abs/2204.12288,,poi_spatiotemporal_rec,SIGIR,2022
+State Encoders in Reinforcement Learning for Recommendation: A Reproducibility Study,2205.04797,https://arxiv.org/abs/2205.04797,,rl_bandit_rec,SIGIR,2022
+Self-Supervised Learning for Recommender Systems: A Survey,2203.15876,https://arxiv.org/abs/2203.15876,https://github.com/Coder-Yu/SELFRec,self_supervised_denoising,SIGIR,2022
+Towards Validating Long-Term User Feedbacks in Interactive Recommendation Systems,2308.11137,https://arxiv.org/abs/2308.11137,,rl_bandit_rec,SIGIR,2022
+AutoLossGen: Automatic Loss Function Generation for Recommender Systems,2204.13160,https://arxiv.org/abs/2204.13160,https://github.com/rutgerswiselab/AutoLossGen,collaborative_filtering,SIGIR,2022
+Improving Micro-video Recommendation via Contrastive Multiple Interests,2205.09593,https://arxiv.org/abs/2205.09593,,self_supervised_denoising,SIGIR,2022
+Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction,2204.11587,https://arxiv.org/abs/2204.11587,,ctr_feature_interaction,SIGIR,2022
+Privacy-Preserving Synthetic Data Generation for Recommendation Systems,2209.13133,https://arxiv.org/abs/2209.13133,,debias_fairness_industrial,SIGIR,2022
+Determinantal Point Process Likelihoods for Sequential Recommendation,2204.11562,https://arxiv.org/abs/2204.11562,,sequential_rec,SIGIR,2022
+Unify Local and Global Information for Top-$N$ Recommendation,2012.01635,https://arxiv.org/abs/2012.01635,,graph_rec,SIGIR,2022
+User-Centric Conversational Recommendation with Multi-Aspect User Modeling,2204.09263,https://arxiv.org/abs/2204.09263,,agent_conversational_rec,SIGIR,2022
+Coarse-to-Fine Sparse Sequential Recommendation,2204.01839,https://arxiv.org/abs/2204.01839,,sequential_rec,SIGIR,2022
+Regulating Group Exposure for Item Providers in Recommendation,2204.11243,https://arxiv.org/abs/2204.11243,,debias_fairness_industrial,SIGIR,2022
+Neighbour Interaction based Click-Through Rate Prediction via Graph-masked Transformer,2201.13311,https://arxiv.org/abs/2201.13311,,ctr_feature_interaction,SIGIR,2022
+CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems,2204.08085,https://arxiv.org/abs/2204.08085,,debias_fairness_industrial,SIGIR,2022
+Less is More: Reweighting Important Spectral Graph Features for Recommendation,2204.11346,https://arxiv.org/abs/2204.11346,,graph_rec,SIGIR,2022
+News Recommendation with Candidate-aware User Modeling,2204.04726,https://arxiv.org/abs/2204.04726,,sequential_rec,SIGIR,2022
+FUM: Fine-grained and Fast User Modeling for News Recommendation,2204.04727,https://arxiv.org/abs/2204.04727,,sequential_rec,SIGIR,2022
+ProFairRec: Provider Fairness-aware News Recommendation,2204.04724,https://arxiv.org/abs/2204.04724,,debias_fairness_industrial,SIGIR,2022
+Single-shot Embedding Dimension Search in Recommender System,2204.03281,https://arxiv.org/abs/2204.03281,,ctr_feature_interaction,SIGIR,2022
+On Natural Language User Profiles for Transparent and Scrutable Recommendation,2205.09403,https://arxiv.org/abs/2205.09403,,debias_fairness_industrial,SIGIR,2022
+Experiments on Generalizability of User-Oriented Fairness in Recommender Systems,2205.08289,https://arxiv.org/abs/2205.08289,https://github.com/rahmanidashti/FairRecSys,debias_fairness_industrial,SIGIR,2022
+Exploiting Session Information in BERT-based Session-aware Sequential Recommendation,2204.10851,https://arxiv.org/abs/2204.10851,,sequential_rec,SIGIR,2022
+A Review-aware Graph Contrastive Learning Framework for Recommendation,2204.12063,https://arxiv.org/abs/2204.12063,,self_supervised_denoising,SIGIR,2022
+Enhancing Top-N Item Recommendations by Peer Collaboration,2111.00429,https://arxiv.org/abs/2111.00429,,collaborative_filtering,SIGIR,2022
+User-controllable Recommendation Against Filter Bubbles,2204.13844,https://arxiv.org/abs/2204.13844,,debias_fairness_industrial,SIGIR,2022
+MP2: A Momentum Contrast Approach for Recommendation with Pointwise and Pairwise Learning,2204.08326,https://arxiv.org/abs/2204.08326,,collaborative_filtering,SIGIR,2022
+Enhancing CTR Prediction with Context-Aware Feature Representation Learning,2204.08758,https://arxiv.org/abs/2204.08758,,ctr_feature_interaction,SIGIR,2022
+Posterior Probability Matters: Doubly-Adaptive Calibration for Neural Predictions in Online Advertising,2205.07295,https://arxiv.org/abs/2205.07295,,ctr_feature_interaction,SIGIR,2022
+Joint Multisided Exposure Fairness for Recommendation,2205.00048,https://arxiv.org/abs/2205.00048,,debias_fairness_industrial,SIGIR,2022
+INMO: A Model-Agnostic and Scalable Module for Inductive Collaborative Filtering,2107.05247,https://arxiv.org/abs/2107.05247,,collaborative_filtering,SIGIR,2022
+Is News Recommendation a Sequential Recommendation Task?,2108.08984,https://arxiv.org/abs/2108.08984,,sequential_rec,SIGIR,2022
+Selective Fairness in Recommendation via Prompts,2205.04682,https://arxiv.org/abs/2205.04682,https://github.com/wyqing20/PFRec,debias_fairness_industrial,SIGIR,2022
+Hypergraph Contrastive Collaborative Filtering,2204.12200,https://arxiv.org/abs/2204.12200,https://github.com/akaxlh/HCCF,graph_rec,SIGIR,2022
+Denoising Time Cycle Modeling for Recommendation,2402.02718,https://arxiv.org/abs/2402.02718,,sequential_rec,SIGIR,2022
+Decoupled Side Information Fusion for Sequential Recommendation,2204.11046,https://arxiv.org/abs/2204.11046,https://github.com/AIM-SE/DIF-SR,sequential_rec,SIGIR,2022
+Multi-Level Interaction Reranking with User Behavior History,2204.09370,https://arxiv.org/abs/2204.09370,,multi_task_reranking,SIGIR,2022
+Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective,2206.07353,https://arxiv.org/abs/2206.07353,,rl_bandit_rec,SIGIR,2022
+Knowledge Graph Contrastive Learning for Recommendation,2205.00976,https://arxiv.org/abs/2205.00976,https://github.com/yuh-yang/KGCL-SIGIR22,graph_rec,SIGIR,2022
+GETNext: Trajectory Flow Map Enhanced Transformer for Next POI Recommendation,2303.04741,https://arxiv.org/abs/2303.04741,,poi_spatiotemporal_rec,SIGIR,2022
+Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation,2112.08679,https://arxiv.org/abs/2112.08679,https://github.com/Coder-Yu/QRec,self_supervised_denoising,SIGIR,2022
+Price DOES Matter! Modeling Price and Interest Preferences in Session-based Recommendation,2205.04181,https://arxiv.org/abs/2205.04181,,sequential_rec,SIGIR,2022
+HIEN: Hierarchical Intention Embedding Network for Click-Through Rate Prediction,2206.00510,https://arxiv.org/abs/2206.00510,,ctr_feature_interaction,SIGIR,2022
+BARS: Towards Open Benchmarking for Recommender Systems,2205.09626,https://arxiv.org/abs/2205.09626,,debias_fairness_industrial,SIGIR,2022
+Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System,2204.08807,https://arxiv.org/abs/2204.08807,https://github.com/CCIIPLab/MCCLK,graph_rec,SIGIR,2022

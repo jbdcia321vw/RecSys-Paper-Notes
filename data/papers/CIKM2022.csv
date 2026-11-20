@@ -1,0 +1,53 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Rethinking Conversational Recommendations: Is Decision Tree All You Need?,2208.14614,https://arxiv.org/abs/2208.14614,,agent_conversational_rec,CIKM,2022
+ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation,2209.00456,https://arxiv.org/abs/2209.00456,https://github.com/YuWang-1024/ContrastVAE,sequential_rec,CIKM,2022
+GIFT: Graph-guIded Feature Transfer for Cold-Start Video Click-Through Rate Prediction,2202.11525,https://arxiv.org/abs/2202.11525,,cold_start_rec,CIKM,2022
+Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction,2205.10249,https://arxiv.org/abs/2205.10249,,ctr_feature_interaction,CIKM,2022
+Time Lag Aware Sequential Recommendation,2208.04760,https://arxiv.org/abs/2208.04760,,sequential_rec,CIKM,2022
+Contrastive Cross-Domain Sequential Recommendation,2304.03891,https://arxiv.org/abs/2304.03891,,cross_domain_multi_scenario,CIKM,2022
+KuaiRand: An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos,2208.08696,https://arxiv.org/abs/2208.08696,,debias_fairness_industrial,CIKM,2022
+Evolutionary Preference Learning via Graph Nested GRU ODE for Session-based Recommendation,2206.12779,https://arxiv.org/abs/2206.12779,,sequential_rec,CIKM,2022
+KuaiRec: A Fully-observed Dataset and Insights for Evaluating Recommender Systems,2202.10842,https://arxiv.org/abs/2202.10842,,debias_fairness_industrial,CIKM,2022
+Real-time Short Video Recommendation on Mobile Devices,2208.09577,https://arxiv.org/abs/2208.09577,,multi_task_reranking,CIKM,2022
+Contrastive Learning with Bidirectional Transformers for Sequential Recommendation,2208.03895,https://arxiv.org/abs/2208.03895,,sequential_rec,CIKM,2022
+AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query,2208.07201,https://arxiv.org/abs/2208.07201,,ctr_feature_interaction,CIKM,2022
+Beyond Learning from Next Item: Sequential Recommendation via Personalized Interest Sustainability,2209.06644,https://arxiv.org/abs/2209.06644,https://github.com/dmhyun/PERIS,sequential_rec,CIKM,2022
+Automated Self-Supervised Learning for Recommendation,2303.07797,https://arxiv.org/abs/2303.07797,https://github.com/HKUDS/AutoCF,self_supervised_denoising,CIKM,2022
+Adaptive Fusion Self-supervised Learning for Recommendation,2407.19692,https://arxiv.org/abs/2407.19692,,self_supervised_denoising,CIKM,2022
+Multi-behavior Self-supervised Learning for Recommendation,2305.18238,https://arxiv.org/abs/2305.18238,https://github.com/Scofield666/MBSSL.git,self_supervised_denoising,CIKM,2022
+Multi-Modal Self-Supervised Learning for Recommendation,2302.10632,https://arxiv.org/abs/2302.10632,https://github.com/HKUDS/MMSSL,multimodal_rec,CIKM,2022
+A Comprehensive Survey on Self-Supervised Learning for Recommendation,2404.03354,https://arxiv.org/abs/2404.03354,https://github.com/HKUDS/Awesome-SSLRec-Papers,self_supervised_denoising,CIKM,2022
+GReS: Graphical Cross-domain Recommendation for Supply Chain Platform,2209.01031,https://arxiv.org/abs/2209.01031,,cross_domain_multi_scenario,CIKM,2022
+Intra-session Context-aware Feed Recommendation in Live Systems,2210.07815,https://arxiv.org/abs/2210.07815,,sequential_rec,CIKM,2022
+IntTower: the Next Generation of Two-Tower Model for Pre-Ranking System,2210.09890,https://arxiv.org/abs/2210.09890,https://github.com/archersama/IntTower,ctr_feature_interaction,CIKM,2022
+Multi-Scale User Behavior Network for Entire Space Multi-Task Learning,2208.01889,https://arxiv.org/abs/2208.01889,,ctr_feature_interaction,CIKM,2022
+Debiasing Neighbor Aggregation for Graph Neural Network in Recommender Systems,2208.08847,https://arxiv.org/abs/2208.08847,,debias_fairness_industrial,CIKM,2022
+Adaptive Domain Interest Network for Multi-domain Recommendation,2206.09672,https://arxiv.org/abs/2206.09672,,cross_domain_multi_scenario,CIKM,2022
+Sparse Attentive Memory Network for Click-through Rate Prediction with Long Sequences,2208.04022,https://arxiv.org/abs/2208.04022,,ctr_feature_interaction,CIKM,2022
+Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems,2208.03298,https://arxiv.org/abs/2208.03298,,debias_fairness_industrial,CIKM,2022
+Prototypical Contrastive Learning and Adaptive Interest Selection for Candidate Generation in Recommendations,2211.12893,https://arxiv.org/abs/2211.12893,,collaborative_filtering,CIKM,2022
+OptEmbed: Learning Optimal Embedding Table for Click-through Rate Prediction,2208.04482,https://arxiv.org/abs/2208.04482,,ctr_feature_interaction,CIKM,2022
+HySAGE: A Hybrid Static and Adaptive Graph Embedding Network for Context-Drifting Recommendations,2208.09586,https://arxiv.org/abs/2208.09586,,graph_rec,CIKM,2022
+Implicit Session Contexts for Next-Item Recommendations,2208.09076,https://arxiv.org/abs/2208.09076,https://github.com/srijankr/iscon,sequential_rec,CIKM,2022
+"Personalized Federated Recommendation via Joint Representation Learning, User Clustering, and Model Adaptation",2208.09375,https://arxiv.org/abs/2208.09375,,debias_fairness_industrial,CIKM,2022
+Automatic Meta-Path Discovery for Effective Graph-Based Recommendation,2112.12845,https://arxiv.org/abs/2112.12845,https://github.com/Stevenn9981/RMS-HRec,graph_rec,CIKM,2022
+Rank List Sensitivity of Recommender Systems to Interaction Perturbations,2201.12686,https://arxiv.org/abs/2201.12686,https://github.com/srijankr/casper,debias_fairness_industrial,CIKM,2022
+MIC: Model-agnostic Integrated Cross-channel Recommenders,2110.11570,https://arxiv.org/abs/2110.11570,,collaborative_filtering,CIKM,2022
+Towards Confidence-aware Calibrated Recommendation,2208.10192,https://arxiv.org/abs/2208.10192,,multi_task_reranking,CIKM,2022
+Hierarchically Fusing Long and Short-Term User Interests for Click-Through Rate Prediction in Product Search,2304.02089,https://arxiv.org/abs/2304.02089,,ctr_feature_interaction,CIKM,2022
+Graph Based Long-Term And Short-Term Interest Model for Click-Through Rate Prediction,2306.10028,https://arxiv.org/abs/2306.10028,,ctr_feature_interaction,CIKM,2022
+SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation,2208.12689,https://arxiv.org/abs/2208.12689,,graph_rec,CIKM,2022
+CROLoss: Towards a Customizable Loss for Retrieval Models in Recommender Systems,2208.02971,https://arxiv.org/abs/2208.02971,,collaborative_filtering,CIKM,2022
+Towards Principled User-side Recommender Systems,2208.09864,https://arxiv.org/abs/2208.09864,,debias_fairness_industrial,CIKM,2022
+Adapting Triplet Importance of Implicit Feedback for Personalized Recommendation,2208.01709,https://arxiv.org/abs/2208.01709,,collaborative_filtering,CIKM,2022
+A Gumbel-based Rating Prediction Framework for Imbalanced Recommendation,2012.05009,https://arxiv.org/abs/2012.05009,,collaborative_filtering,CIKM,2022
+Explanation Guided Contrastive Learning for Sequential Recommendation,2209.01347,https://arxiv.org/abs/2209.01347,,sequential_rec,CIKM,2022
+Multi-level Contrastive Learning Framework for Sequential Recommendation,2208.13007,https://arxiv.org/abs/2208.13007,,sequential_rec,CIKM,2022
+Disentangled Contrastive Learning for Social Recommendation,2208.08723,https://arxiv.org/abs/2208.08723,,social_group_rec,CIKM,2022
+SUGER: A Subgraph-based Graph Convolutional Network Method for Bundle Recommendation,2205.11231,https://arxiv.org/abs/2205.11231,,graph_rec,CIKM,2022
+Dually Enhanced Propensity Score Estimation in Sequential Recommendation,2303.08722,https://arxiv.org/abs/2303.08722,,debias_fairness_industrial,CIKM,2022
+Visual Encoding and Debiasing for CTR Prediction,2205.04168,https://arxiv.org/abs/2205.04168,,ctr_feature_interaction,CIKM,2022
+Dynamic Causal Collaborative Filtering,2208.11094,https://arxiv.org/abs/2208.11094,,debias_fairness_industrial,CIKM,2022
+Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks,2210.14577,https://arxiv.org/abs/2210.14577,https://github.com/zhy99426/DualRec,sequential_rec,CIKM,2022
+Scenario-Adaptive and Self-Supervised Model for Multi-Scenario Personalized Recommendation,2208.11457,https://arxiv.org/abs/2208.11457,,cross_domain_multi_scenario,CIKM,2022
+Improving Knowledge-aware Recommendation with Multi-level Interactive Contrastive Learning,2208.10061,https://arxiv.org/abs/2208.10061,,graph_rec,CIKM,2022

@@ -1,0 +1,7 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Hierarchical Hyperedge Embedding-based Representation Learning for Group Recommendation,2103.13506,https://arxiv.org/abs/2103.13506,,social_group_rec,TOIS,2022
+Feature-level Attentive ICF for Recommendation,2102.10745,https://arxiv.org/abs/2102.10745,,collaborative_filtering,TOIS,2022
+A Graph-based Approach for Mitigating Multi-sided Exposure Bias in Recommender Systems,2107.03415,https://arxiv.org/abs/2107.03415,,debias_fairness_industrial,TOIS,2022
+Exploiting Positional Information for Session-based Recommendation,2107.00846,https://arxiv.org/abs/2107.00846,,sequential_rec,TOIS,2022
+Learning to Learn a Cold-start Sequential Recommender,2110.09083,https://arxiv.org/abs/2110.09083,,cold_start_rec,TOIS,2022
+Collaborative Reflection-Augmented Autoencoder Network for Recommender Systems,2201.03158,https://arxiv.org/abs/2201.03158,https://github.com/akaxlh/CRANet,collaborative_filtering,TOIS,2022

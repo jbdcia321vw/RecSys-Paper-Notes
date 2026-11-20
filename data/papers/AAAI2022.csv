@@ -1,0 +1,14 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Intelligent Online Selling Point Extraction for E-Commerce Recommendation,2112.10613,https://arxiv.org/abs/2112.10613,,generative_rec,AAAI,2022
+Modeling Attrition in Recommender Systems with Departing Bandits,2203.13423,https://arxiv.org/abs/2203.13423,,rl_bandit_rec,AAAI,2022
+Online certification of preference-based fairness for personalized recommender systems,2104.14527,https://arxiv.org/abs/2104.14527,,debias_fairness_industrial,AAAI,2022
+DiPS: Differentiable Policy for Sketching in Recommender Systems,2112.07616,https://arxiv.org/abs/2112.07616,,sequential_rec,AAAI,2022
+Leaping Through Time with Gradient-based Adaptation for Recommendation,2112.05914,https://arxiv.org/abs/2112.05914,,sequential_rec,AAAI,2022
+Meta-Learning for Online Update of Recommender Systems,2203.10354,https://arxiv.org/abs/2203.10354,,collaborative_filtering,AAAI,2022
+A Dynamic Meta-Learning Model for Time-Sensitive Cold-Start Recommendations,2204.00970,https://arxiv.org/abs/2204.00970,,cold_start_rec,AAAI,2022
+Obtaining Calibrated Probabilities with Personalized Ranking Models,2112.07428,https://arxiv.org/abs/2112.07428,,ctr_feature_interaction,AAAI,2022
+FORCE: A Framework of Rule-Based Conversational Recommender System,2203.10001,https://arxiv.org/abs/2203.10001,,agent_conversational_rec,AAAI,2022
+Context Uncertainty in Contextual Bandits with Applications to Recommender Systems,2202.00805,https://arxiv.org/abs/2202.00805,,rl_bandit_rec,AAAI,2022
+Multi-view Intent Disentangle Graph Networks for Bundle Recommendation,2202.11425,https://arxiv.org/abs/2202.11425,,graph_rec,AAAI,2022
+Learning the Optimal Recommendation from Explorative Users,2110.03068,https://arxiv.org/abs/2110.03068,,rl_bandit_rec,AAAI,2022
+Cross-Task Knowledge Distillation in Multi-Task Recommendation,2202.09852,https://arxiv.org/abs/2202.09852,,multi_task_reranking,AAAI,2022

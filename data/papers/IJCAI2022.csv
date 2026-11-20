@@ -1,0 +1,9 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Fair Equilibria in Sponsored Search Auctions: The Advertisers' Perspective,2107.08271,https://arxiv.org/abs/2107.08271,,ctr_feature_interaction,IJCAI,2022
+MLP4Rec: A Pure MLP Architecture for Sequential Recommendations,2204.11510,https://arxiv.org/abs/2204.11510,,sequential_rec,IJCAI,2022
+RecipeRec: A Heterogeneous Graph Learning Model for Recipe Recommendation,2205.14005,https://arxiv.org/abs/2205.14005,https://github.com/meettyj/RecipeRec,graph_rec,IJCAI,2022
+Neural Re-ranking in Multi-stage Recommender Systems: A Review,2202.06602,https://arxiv.org/abs/2202.06602,https://github.com/LibRerank-Community/LibRerank,multi_task_reranking,IJCAI,2022
+Trading Hard Negatives and True Negatives: A Debiased Contrastive Collaborative Filtering Approach,2204.11752,https://arxiv.org/abs/2204.11752,,collaborative_filtering,IJCAI,2022
+Towards Resolving Propensity Contradiction in Offline Recommender Learning,1910.07295,https://arxiv.org/abs/1910.07295,,debias_fairness_industrial,IJCAI,2022
+Poisoning Deep Learning Based Recommender Model in Federated Learning Scenarios,2204.13594,https://arxiv.org/abs/2204.13594,,debias_fairness_industrial,IJCAI,2022
+Enhancing Sequential Recommendation with Graph Contrastive Learning,2205.14837,https://arxiv.org/abs/2205.14837,,sequential_rec,IJCAI,2022

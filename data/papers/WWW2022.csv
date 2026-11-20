@@ -1,0 +1,39 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+HRCF: Enhancing Collaborative Filtering via Hyperbolic Geometric Regularization,2204.08176,https://arxiv.org/abs/2204.08176,,collaborative_filtering,WWW,2022
+IHGNN: Interactive Hypergraph Neural Network for Personalized Product Search,2202.04972,https://arxiv.org/abs/2202.04972,,graph_rec,WWW,2022
+Differential Private Knowledge Transfer for Privacy-Preserving Cross-Domain Recommendation,2202.04893,https://arxiv.org/abs/2202.04893,,cross_domain_multi_scenario,WWW,2022
+An Empirical Investigation of Personalization Factors on TikTok,2201.12271,https://arxiv.org/abs/2201.12271,,debias_fairness_industrial,WWW,2022
+Calibrated Click-Through Auctions: An Information Design Approach,2105.09375,https://arxiv.org/abs/2105.09375,,ctr_feature_interaction,WWW,2022
+Recommendation Unlearning,2201.06820,https://arxiv.org/abs/2201.06820,https://github.com/chenchongthu/Recommendation-Unlearning,debias_fairness_industrial,WWW,2022
+Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways,2202.00640,https://arxiv.org/abs/2202.00640,,debias_fairness_industrial,WWW,2022
+Beyond NDCG: behavioral testing of recommender systems with RecList,2111.09963,https://arxiv.org/abs/2111.09963,,debias_fairness_industrial,WWW,2022
+Fast Variational AutoEncoder with Inverted Multi-Index for Collaborative Filtering,2109.05773,https://arxiv.org/abs/2109.05773,,collaborative_filtering,WWW,2022
+Modeling User Behavior with Graph Convolution for Personalized Product Search,2202.06081,https://arxiv.org/abs/2202.06081,https://github.com/floatSDSDS/SBG,graph_rec,WWW,2022
+Sequential Recommendation via Stochastic Self-Attention,2201.06035,https://arxiv.org/abs/2201.06035,https://github.com/zfan20/STOSA,sequential_rec,WWW,2022
+Intent Contrastive Learning for Sequential Recommendation,2202.02519,https://arxiv.org/abs/2202.02519,,sequential_rec,WWW,2022
+Intent-Interest Disentanglement and Item-Aware Intent Contrastive Learning for Sequential Recommendation,2501.07096,https://arxiv.org/abs/2501.07096,,sequential_rec,WWW,2022
+DraftRec: Personalized Draft Recommendation for Winning in Multi-Player Online Battle Arena Games,2204.12750,https://arxiv.org/abs/2204.12750,https://github.com/dojeon-ai/DraftRec,sequential_rec,WWW,2022
+Who to Watch Next: Two-side Interactive Networks for Live Broadcast Recommendation,2202.04333,https://arxiv.org/abs/2202.04333,,collaborative_filtering,WWW,2022
+Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering,2202.13140,https://arxiv.org/abs/2202.13140,,collaborative_filtering,WWW,2022
+CausPref: Causal Preference Learning for Out-of-Distribution Recommendation,2202.03984,https://arxiv.org/abs/2202.03984,,debias_fairness_industrial,WWW,2022
+Revisiting Neighborhood-based Link Prediction for Collaborative Filtering,2203.15789,https://arxiv.org/abs/2203.15789,,collaborative_filtering,WWW,2022
+PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation,2203.12267,https://arxiv.org/abs/2203.12267,,multi_task_reranking,WWW,2022
+Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning,2202.06200,https://arxiv.org/abs/2202.06200,https://github.com/RUCAIBox/NCL,self_supervised_denoising,WWW,2022
+Deep Unified Representation for Heterogeneous Recommendation,2201.05861,https://arxiv.org/abs/2201.05861,,cross_domain_multi_scenario,WWW,2022
+Optimizing Rankings for Recommendation in Matching Markets,2106.01941,https://arxiv.org/abs/2106.01941,,multi_task_reranking,WWW,2022
+A Model-Agnostic Causal Learning Framework for Recommendation using Search Data,2202.04514,https://arxiv.org/abs/2202.04514,,debias_fairness_industrial,WWW,2022
+Cross Pairwise Ranking for Unbiased Item Recommendation,2204.12176,https://arxiv.org/abs/2204.12176,https://github.com/Qcactus/CPR,debias_fairness_industrial,WWW,2022
+Graph-based Extractive Explainer for Recommendations,2202.09730,https://arxiv.org/abs/2202.09730,,agent_conversational_rec,WWW,2022
+Learning Robust Recommenders through Cross-Model Agreement,2105.09605,https://arxiv.org/abs/2105.09605,,self_supervised_denoising,WWW,2022
+On Designing a Two-stage Auction for Online Advertising,2111.05555,https://arxiv.org/abs/2111.05555,,ctr_feature_interaction,WWW,2022
+Learning to Augment for Casual User Recommendation,2204.00926,https://arxiv.org/abs/2204.00926,,sequential_rec,WWW,2022
+FeedRec: News Feed Recommendation with Various User Feedbacks,2102.04903,https://arxiv.org/abs/2102.04903,,multi_task_reranking,WWW,2022
+AutoField: Automating Feature Selection in Deep Recommender Systems,2204.09078,https://arxiv.org/abs/2204.09078,,ctr_feature_interaction,WWW,2022
+Conditional Generation Net for Medication Recommendation,2202.06588,https://arxiv.org/abs/2202.06588,,generative_rec,WWW,2022
+"Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recommendation",2208.08011,https://arxiv.org/abs/2208.08011,,sequential_rec,WWW,2022
+Multi-Graph based Multi-Scenario Recommendation in Large-scale Online Video Services,2205.02446,https://arxiv.org/abs/2205.02446,,cross_domain_multi_scenario,WWW,2022
+Disentangling Long and Short-Term Interests for Recommendation,2202.13090,https://arxiv.org/abs/2202.13090,https://github.com/tsinghua-fib-lab/CLSR,sequential_rec,WWW,2022
+Comparative Explanations of Recommendations,2111.00670,https://arxiv.org/abs/2111.00670,,agent_conversational_rec,WWW,2022
+Filter-enhanced MLP is All You Need for Sequential Recommendation,2202.13556,https://arxiv.org/abs/2202.13556,https://github.com/RUCAIBox/FMLP-Rec,sequential_rec,WWW,2022
+Mutually-Regularized Dual Collaborative Variational Auto-encoder for Recommendation Systems,2211.11662,https://arxiv.org/abs/2211.11662,https://github.com/yaochenzhu/MD-CVAE,cold_start_rec,WWW,2022
+Learning Explicit User Interest Boundary for Recommendation,2111.11026,https://arxiv.org/abs/2111.11026,,collaborative_filtering,WWW,2022

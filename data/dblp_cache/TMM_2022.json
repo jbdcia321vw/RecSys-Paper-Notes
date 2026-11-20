@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Heterogeneous Hierarchical Feature Aggregation Network for Personalized Micro-Video Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2021.3059508",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "E-Commerce Storytelling Recommendation Using Attentional Domain-Transfer Network and Adversarial Pre-Training",
+    "ee": "https://doi.org/10.1109/TMM.2021.3054525",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Instant User Intent and Content-Level Transition for Sequential Fashion Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2021.3088281",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Annular-Graph Attention Model for Personalized Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2021.3097186",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Sequential Listening Behaviors With Attentive Temporal Point Process for Next and Next New Music Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2021.3114545",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical User Intent Graph Network for Multimedia Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2021.3088307",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Modal Variational Graph Auto-Encoder for Recommendation Systems",
+    "ee": "https://doi.org/10.1109/TMM.2021.3111487",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Controllable Facial Caricaturization With Localized Deformation and Personalized Semantic Attentions",
+    "ee": "https://doi.org/10.1109/TMM.2021.3111711",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multimodal Marketing Intent Analysis for Effective Targeted Advertising",
+    "ee": "https://doi.org/10.1109/TMM.2021.3073267",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Image Recoloring for Color Vision Deficiency Compensation",
+    "ee": "https://doi.org/10.1109/TMM.2021.3070108",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Horizontal-to-Vertical Video Conversion",
+    "ee": "https://doi.org/10.1109/TMM.2021.3092202",
+    "key": "dblp_sparql"
+  }
+]

@@ -1,0 +1,18 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Optimal ANN-SNN Conversion for High-accuracy and Ultra-low-latency Spiking Neural Networks,2303.04347,https://arxiv.org/abs/2303.04347,https://github.com/putshua/SNN,collaborative_filtering,ICLR_NeurIPS_ICML,2022
+Incorporating Bias-aware Margins into Contrastive Loss for Collaborative Filtering,2210.11054,https://arxiv.org/abs/2210.11054,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2022
+Simple Mechanisms for Welfare Maximization in Rich Advertising Auctions,2206.02948,https://arxiv.org/abs/2206.02948,,ctr_feature_interaction,ICLR_NeurIPS_ICML,2022
+Generalized Delayed Feedback Model with Post-Click Information in Recommender Systems,2206.00407,https://arxiv.org/abs/2206.00407,,ctr_feature_interaction,ICLR_NeurIPS_ICML,2022
+From Intervention to Domain Transportation: A Novel Perspective to Optimize Recommendation,2203.13956,https://arxiv.org/abs/2203.13956,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2022
+Diversified Recommendations for Agents with Adaptive Preferences,2210.07773,https://arxiv.org/abs/2210.07773,,rl_bandit_rec,ICLR_NeurIPS_ICML,2022
+Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever,2205.14859,https://arxiv.org/abs/2205.14859,,collaborative_filtering,ICLR_NeurIPS_ICML,2022
+In the Eye of the Beholder: Robust Prediction with Causal User Modeling,2206.00416,https://arxiv.org/abs/2206.00416,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2022
+Contextual Bandits with Knapsacks for a Conversion Model,2206.00314,https://arxiv.org/abs/2206.00314,,rl_bandit_rec,ICLR_NeurIPS_ICML,2022
+DreamShard: Generalizable Embedding Table Placement for Recommender Systems,2210.02023,https://arxiv.org/abs/2210.02023,https://github.com/daochenzha/dreamshard,debias_fairness_industrial,ICLR_NeurIPS_ICML,2022
+APG: Adaptive Parameter Generation Network for Click-Through Rate Prediction,2203.16218,https://arxiv.org/abs/2203.16218,,ctr_feature_interaction,ICLR_NeurIPS_ICML,2022
+Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems,2210.10629,https://arxiv.org/abs/2210.10629,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2022
+Product Ranking for Revenue Maximization with Multiple Purchases,2210.08268,https://arxiv.org/abs/2210.08268,,rl_bandit_rec,ICLR_NeurIPS_ICML,2022
+Infinite Recommendation Networks: A Data-Centric Approach,2206.02626,https://arxiv.org/abs/2206.02626,https://github.com/noveens/infinite_ae_cf,collaborative_filtering,ICLR_NeurIPS_ICML,2022
+On the Generalizability and Predictability of Recommender Systems,2206.11886,https://arxiv.org/abs/2206.11886,https://github.com/naszilla/reczilla,debias_fairness_industrial,ICLR_NeurIPS_ICML,2022
+Estimating and Penalizing Induced Preference Shifts in Recommender Systems,2204.11966,https://arxiv.org/abs/2204.11966,,rl_bandit_rec,ICLR_NeurIPS_ICML,2022
+Learning from a Learning User for Optimal Recommendations,2202.01879,https://arxiv.org/abs/2202.01879,,rl_bandit_rec,ICLR_NeurIPS_ICML,2022

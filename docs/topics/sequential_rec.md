@@ -7,9 +7,9 @@ hide:
 
 > **研究范畴**：长短期动态兴趣建模、Transformer/Mamba(SSM)/MLP 序列架构、匿名会话推荐与 Next-Item 预测
 
-当前方向共收录 **500** 篇顶会/顶刊论文解读：
+当前方向共收录 **596** 篇顶会/顶刊论文解读：
 
-🔥 **高频交叉主题：** 生成式推荐 ×54 · 大语言模型推荐 ×46 · 去偏公平与可信推荐 ×19 · 多模态推荐 ×14 · 对比学习 ×12 · 知识蒸馏 ×11 · 端到端生成式 ×11 · 语义ID ×10
+🔥 **高频交叉主题：** 生成式推荐 ×54 · 大语言模型推荐 ×47 · 去偏公平与可信推荐 ×20 · 对比学习 ×16 · 多模态推荐 ×14 · 端到端生成式 ×12 · 知识蒸馏 ×11 · 语义ID ×10
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -22,117 +22,142 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">254</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">217</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">129</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">315</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">253</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">155</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">54</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">46</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="序列推荐" aria-pressed="false">序列推荐<span class="paper-tag-filter__count">32</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">21</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">19</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">18</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">18</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">47</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列推荐" aria-pressed="false">序列推荐<span class="paper-tag-filter__count">37</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">25</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">23</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">20</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">20</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对比学习" aria-pressed="false">对比学习<span class="paper-tag-filter__count">16</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">15</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">14</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对比学习" aria-pressed="false">对比学习<span class="paper-tag-filter__count">12</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">14</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">12</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回/排序" aria-pressed="false">召回/排序<span class="paper-tag-filter__count">11</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">11</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">11</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">10</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="自监督对比学习与交互去噪" aria-pressed="false">自监督对比学习与交互去噪<span class="paper-tag-filter__count">11</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="语义ID" aria-pressed="false">语义ID<span class="paper-tag-filter__count">10</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">9</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="自监督对比学习与交互去噪" aria-pressed="false">自监督对比学习与交互去噪<span class="paper-tag-filter__count">9</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">9</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">9</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="长序列建模" aria-pressed="false">长序列建模<span class="paper-tag-filter__count">9</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="MoE" aria-pressed="false">MoE<span class="paper-tag-filter__count">8</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">8</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">8</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回/排序" aria-pressed="false">召回/排序<span class="paper-tag-filter__count">8</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">8</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨域序列推荐" aria-pressed="false">跨域序列推荐<span class="paper-tag-filter__count">8</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="会话推荐" aria-pressed="false">会话推荐<span class="paper-tag-filter__count">7</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动与长尾推荐" aria-pressed="false">冷启动与长尾推荐<span class="paper-tag-filter__count">7</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="线性注意力" aria-pressed="false">线性注意力<span class="paper-tag-filter__count">7</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="跨域序列推荐" aria-pressed="false">跨域序列推荐<span class="paper-tag-filter__count">7</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="频域滤波" aria-pressed="false">频域滤波<span class="paper-tag-filter__count">7</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回/精排" aria-pressed="false">召回/精排<span class="paper-tag-filter__count">6</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多行为序列建模" aria-pressed="false">多行为序列建模<span class="paper-tag-filter__count">6</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="目标注意力" aria-pressed="false">目标注意力<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="频域滤波" aria-pressed="false">频域滤波<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="冷启动与长尾推荐" aria-pressed="false">冷启动与长尾推荐<span class="paper-tag-filter__count">5</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多行为序列建模" aria-pressed="false">多行为序列建模<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与POI本地生活推荐" aria-pressed="false">时空轨迹与POI本地生活推荐<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐与离散语义ID" aria-pressed="false">生成式推荐与离散语义ID<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="离线强化学习" aria-pressed="false">离线强化学习<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="CTR预估与特征交叉" aria-pressed="false">CTR预估与特征交叉<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Decision Transformer" aria-pressed="false">Decision Transformer<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="KV缓存" aria-pressed="false">KV缓存<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="MLP-Mixer" aria-pressed="false">MLP-Mixer<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Scaling Law" aria-pressed="false">Scaling Law<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="可解释推荐" aria-pressed="false">可解释推荐<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多任务学习与列表级重排" aria-pressed="false">多任务学习与列表级重排<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多兴趣表征" aria-pressed="false">多兴趣表征<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多行为序列推荐" aria-pressed="false">多行为序列推荐<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="持续学习" aria-pressed="false">持续学习<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐与离散语义ID" aria-pressed="false">生成式推荐与离散语义ID<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="长期行为序列建模" aria-pressed="false">长期行为序列建模<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="CTR预估与特征交叉" aria-pressed="false">CTR预估与特征交叉<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="MLP-Mixer" aria-pressed="false">MLP-Mixer<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Next Basket Recommendation" aria-pressed="false">Next Basket Recommendation<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="RQ-VAE" aria-pressed="false">RQ-VAE<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Transformer" aria-pressed="false">Transformer<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="会话图神经网络" aria-pressed="false">会话图神经网络<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="侧信息融合" aria-pressed="false">侧信息融合<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="元学习" aria-pressed="false">元学习<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="全局时间切分" aria-pressed="false">全局时间切分<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多兴趣表征" aria-pressed="false">多兴趣表征<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="双层优化" aria-pressed="false">双层优化<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="变分自编码器" aria-pressed="false">变分自编码器<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="可复现性研究" aria-pressed="false">可复现性研究<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="序列去噪" aria-pressed="false">序列去噪<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列数据增强" aria-pressed="false">序列数据增强<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="意图对比学习" aria-pressed="false">意图对比学习<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="扩散模型" aria-pressed="false">扩散模型<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="指令微调" aria-pressed="false">指令微调<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="排序" aria-pressed="false">排序<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="数据增强" aria-pressed="false">数据增强<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="新闻推荐" aria-pressed="false">新闻推荐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="流式训练" aria-pressed="false">流式训练<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="流行度去偏" aria-pressed="false">流行度去偏<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="离线强化学习" aria-pressed="false">离线强化学习<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式端到端" aria-pressed="false">生成式端到端<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="离线评测协议" aria-pressed="false">离线评测协议<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="稀疏注意力" aria-pressed="false">稀疏注意力<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自蒸馏" aria-pressed="false">自蒸馏<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="评测基准" aria-pressed="false">评测基准<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="课程学习" aria-pressed="false">课程学习<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重复消费建模" aria-pressed="false">重复消费建模<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="BERT4Rec" aria-pressed="false">BERT4Rec<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Decoder-only Transformer" aria-pressed="false">Decoder-only Transformer<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Exposure Bias" aria-pressed="false">Exposure Bias<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Flow Matching" aria-pressed="false">Flow Matching<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Hawkes Process" aria-pressed="false">Hawkes Process<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LLM4Rec" aria-pressed="false">LLM4Rec<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LLM推荐" aria-pressed="false">LLM推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Prior-Fitted Network" aria-pressed="false">Prior-Fitted Network<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Test-Time Training" aria-pressed="false">Test-Time Training<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Transformer 序列建模" aria-pressed="false">Transformer 序列建模<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Wasserstein 自注意力" aria-pressed="false">Wasserstein 自注意力<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="下一购物篮推荐" aria-pressed="false">下一购物篮推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="个性化流行度" aria-pressed="false">个性化流行度<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="乘积量化" aria-pressed="false">乘积量化<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="会话图神经网络" aria-pressed="false">会话图神经网络<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="互信息最大化" aria-pressed="false">互信息最大化<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="位置编码" aria-pressed="false">位置编码<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="低秩分解" aria-pressed="false">低秩分解<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="侧信息融合" aria-pressed="false">侧信息融合<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="偏好对齐" aria-pressed="false">偏好对齐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="偏好漂移" aria-pressed="false">偏好漂移<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="全局时间线" aria-pressed="false">全局时间线<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="加权物品转移图" aria-pressed="false">加权物品转移图<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="动态参数生成" aria-pressed="false">动态参数生成<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="动态图推荐" aria-pressed="false">动态图推荐<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="双层优化" aria-pressed="false">双层优化<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="变分自编码器" aria-pressed="false">变分自编码器<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="动态图神经网络" aria-pressed="false">动态图神经网络<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="召回+重排" aria-pressed="false">召回+重排<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回/精排" aria-pressed="false">召回/精排<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="因果推断" aria-pressed="false">因果推断<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="在线知识蒸馏" aria-pressed="false">在线知识蒸馏<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="增量学习" aria-pressed="false">增量学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="增量推理" aria-pressed="false">增量推理<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多任务学习与列表级重排" aria-pressed="false">多任务学习与列表级重排<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多任务学习" aria-pressed="false">多任务学习<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多兴趣解耦" aria-pressed="false">多兴趣解耦<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多意图解耦" aria-pressed="false">多意图解耦<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对比对齐" aria-pressed="false">对比对齐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="工业数据集" aria-pressed="false">工业数据集<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="并行解码" aria-pressed="false">并行解码<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="序列数据增强" aria-pressed="false">序列数据增强<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="异质超图" aria-pressed="false">异质超图<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="意图感知对比学习" aria-pressed="false">意图感知对比学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="扩散推荐" aria-pressed="false">扩散推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="持续图学习" aria-pressed="false">持续图学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="旋转位置编码" aria-pressed="false">旋转位置编码<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="时间位置编码" aria-pressed="false">时间位置编码<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="时间间隔建模" aria-pressed="false">时间间隔建模<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="曝光偏差" aria-pressed="false">曝光偏差<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="条件变分自编码器" aria-pressed="false">条件变分自编码器<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="流式推荐" aria-pressed="false">流式推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="灾难性遗忘" aria-pressed="false">灾难性遗忘<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="状态空间模型" aria-pressed="false">状态空间模型<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="生成式端到端" aria-pressed="false">生成式端到端<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="用户疲劳建模" aria-pressed="false">用户疲劳建模<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="用户行为建模" aria-pressed="false">用户行为建模<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="社交与群组推荐" aria-pressed="false">社交与群组推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="端云协同" aria-pressed="false">端云协同<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="端侧推理" aria-pressed="false">端侧推理<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排（Next-Item 排序）" aria-pressed="false">精排（Next-Item 排序）<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="自适应数据增广" aria-pressed="false">自适应数据增广<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="解耦表征学习" aria-pressed="false">解耦表征学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="语义ID量化" aria-pressed="false">语义ID量化<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="超网络" aria-pressed="false">超网络<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="超长用户序列" aria-pressed="false">超长用户序列<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨视图对比学习" aria-pressed="false">跨视图对比学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="软标签" aria-pressed="false">软标签<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="长尾用户" aria-pressed="false">长尾用户<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="长短期兴趣解耦" aria-pressed="false">长短期兴趣解耦<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="门控融合" aria-pressed="false">门控融合<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="隐私保护" aria-pressed="false">隐私保护<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="难负例挖掘" aria-pressed="false">难负例挖掘<span class="paper-tag-filter__count">2</span></button>
@@ -143,6 +168,22 @@ hide:
 </div>
 
 <dl data-paper-list>
+<dt data-paper-tags="[&quot;AAAI 2022&quot;,&quot;冷启动与长尾推荐&quot;,&quot;精排&quot;,&quot;元学习 MAML&quot;,&quot;动态矩阵分解&quot;,&quot;时间敏感冷启动&quot;]"><strong><a href="../../venues/AAAI/2022/cold_start_rec/a_dynamic_meta_learning_model_for_time_sensitive_cold_start_recommendations/">A Dynamic Meta-Learning Model for Time-Sensitive Cold-Start Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将用户隐偏好可加分解为时间特定（MAML 少样本适配）与时间演化（嵌套 RNN）两因子，在 Netflix/Last.fm/ML-1M 分期预测上 RMSE 降 1.7–5.1%、NDCG 升 3.3–7.7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;召回&quot;,&quot;Contextual Bandit&quot;,&quot;隐空间探索&quot;,&quot;长期奖励&quot;]"><strong><a href="../../venues/AAAI/2022/rl_bandit_rec/context_uncertainty_in_contextual_bandits_with_applications_to_recommender_/">Context Uncertainty in Contextual Bandits with Applications to Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出 REN，在 RNN 隐空间用 DPP 多样性项 + 表征不确定性 UCB 项联合打分，兼顾相关性与探索，理论上保持率最优次线性 regret，在线滚动评估中长期奖励显著超越 GRU4Rec/TCN/HRNN。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI 2022&quot;,&quot;序列与会话推荐&quot;,&quot;序列建模/记忆压缩&quot;,&quot;可微数据选择&quot;,&quot;双层优化&quot;,&quot;梯度近似&quot;]"><strong><a href="../../venues/AAAI/2022/sequential_rec/dips_differentiable_policy_for_sketching_in_recommender_systems/">DiPS: Differentiable Policy for Sketching in Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以双层优化端到端学习可微草图（sketching）策略，并用队列式近似梯度替代全历史重算，全库排序下同等精度省 50% 草图槽位。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI 2022&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;轨迹式元学习&quot;,&quot;时序动态建模&quot;]"><strong><a href="../../venues/AAAI/2022/sequential_rec/leaping_through_time_with_gradient_based_adaptation_for_recommendation/">Leaping Through Time with Gradient-based Adaptation for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用轨迹式元学习 Leap 替代 RNN 建模时序动态：GTL 抓跨时段共性、OTL 抓短期趋势，时间切分+1:99 采样排序下 HR@1 最高相对提升 18.59%。</p>
+</dd>
 <dt data-paper-tags="[&quot;AAAI&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;决策上下文建模&quot;,&quot;上下文交互单元&quot;,&quot;自适应兴趣聚合&quot;]"><strong><a href="../../venues/AAAI/2023/ctr_feature_interaction/decision_making_context_interaction_network_for_click_through_rate_predicti/">Decision-Making Context Interaction Network for Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>提出 DCIN 建模页面内显式比较与粗排候选隐式决策上下文，CIU 过滤无关项、AIAU 聚合目标兴趣；MeituanAds AUC+0.0042，线上 CTR+2.9%。</p>
@@ -247,6 +288,10 @@ hide:
 <dd>
 <p>用上下文动态调制频域滤波器并叠加 Haar 小波高频增强，在 4 个基准 Full-Ranking 下 HR@20 最高提升 11.4%，长序列下训练开销低于 BSARec/SLIME4Rec。</p>
 </dd>
+<dt data-paper-tags="[&quot;ACL/EMNLP 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排&quot;,&quot;位置偏差&quot;,&quot;对抗学习&quot;,&quot;新闻推荐&quot;]"><strong><a href="../../venues/ACL_EMNLP/2022/debias_fairness_industrial/debiasgan_eliminating_position_bias_in_news_recommendation_with_adversarial/">DebiasGAN: Eliminating Position Bias in News Recommendation with Adversarial Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>通过位置感知/位置随机双分支与对抗学习消除新闻推荐位置偏差，在 News/Uniform 上 AUC 相对提升 1.1–1.7%。</p>
+</dd>
 <dt data-paper-tags="[&quot;EMNLP&quot;,&quot;序列与会话推荐&quot;,&quot;基础设施与评测&quot;,&quot;模块化设计&quot;,&quot;可复现研究&quot;]"><strong><a href="../../venues/ACL_EMNLP/2023/sequential_rec/newsreclib_a_pytorch_lightning_library_for_neural_news_recommendation/">NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>EMNLP 2023 序列与会话推荐，提出高度模块化的神经新闻推荐开源库，统一评估协议与组件消融，解决研究不可复现与不公平比较痛点。</p>
@@ -307,6 +352,10 @@ hide:
 <dd>
 <p>揭示二元偏好对齐丢失偏好强度与时序上下文，提出自适应奖励边际 RecPO，五数据集 HR@1 全面领先 S-DPO。</p>
 </dd>
+<dt data-paper-tags="[&quot;ACM MM&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;动态图神经网络&quot;,&quot;混合度量学习&quot;]"><strong><a href="../../venues/ACM_MM/2022/cross_domain_multi_scenario/ddghm_dual_dynamic_graph_with_hybrid_metric_training_for_cross_domain_seque/">DDGHM: Dual Dynamic Graph with Hybrid Metric Training for Cross-Domain Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>双层动态图分别刻画域内/域间序列转移，用融合注意力门迁移知识，并以协同+对比双度量学习缓解稀疏，全库排序 HR@20 提升 4%~9%。</p>
+</dd>
 <dt data-paper-tags="[&quot;ACM MM&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;知识图谱提示&quot;,&quot;知识树掩码&quot;]"><strong><a href="../../venues/ACM_MM/2023/sequential_rec/knowledge_prompt_tuning_for_sequential_recommendation/">Knowledge Prompt-tuning for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>将知识图谱经关系模板转成知识提示，并用知识树掩码去噪，与 T5 掩码个性化提示联合调优；Leave-One-Out + Full-Ranking 下 books NDCG@5 较 P5 提升 40.65%。</p>
@@ -330,6 +379,78 @@ hide:
 <dt data-paper-tags="[&quot;ACM MM 2026&quot;,&quot;多模态推荐&quot;,&quot;召回&quot;,&quot;图信号低通滤波&quot;,&quot;频域序列去噪&quot;]"><strong><a href="../../venues/ACM_MM/2026/multimodal_rec/beyond_noisy_signals_dual_level_denoising_for_multi_modal_sequential_recomm/">Beyond Noisy Signals: Dual-Level Denoising for Multi-modal Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>图拉普拉斯低通滤波去特征噪声 + FFT 可学习频域滤波去序列噪声，四数据集 Full-Ranking 全面 SOTA，R@20 最高 +19.33%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;个性化兴趣持续性&quot;,&quot;时序频次分箱&quot;,&quot;稀疏历史补充&quot;]"><strong><a href="../../venues/CIKM/2022/sequential_rec/beyond_learning_from_next_item_sequential_recommendation_via_personalized_i/">Beyond Learning from Next Item: Sequential Recommendation via Personalized Interest Sustainability</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用「训练期末段消费预测」任务刻画个性化兴趣持续性(PIS)，并以内在/外在双路稀疏历史补充方案与原型度量偏好学习联合训练，11 数据集全库采样排序全面超越 10 个基线。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;跨域序列推荐&quot;,&quot;对比学习&quot;,&quot;互信息最大化&quot;]"><strong><a href="../../venues/CIKM/2022/cross_domain_multi_scenario/contrastive_cross_domain_sequential_recommendation/">Contrastive Cross-Domain Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>联合建模序列内/间物品关系，双目标学单域/跨域表征，并以对比 Infomax 互信息约束跨域迁移；修正时间穿越划分后 HR@10 相对 SOTA 提升 14%+</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;变分自编码器&quot;,&quot;对比学习&quot;]"><strong><a href="../../venues/CIKM/2022/sequential_rec/contrastvae_contrastive_variational_autoencoder_for_sequential_recommendati/">ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>双视角ContrastELBO耦合双分支VAE与潜空间对比增强，缓解后验坍缩，Full-Ranking下R@40最高提升19.34%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回/排序&quot;,&quot;双网络解耦&quot;,&quot;训练-推理鸿沟&quot;,&quot;双向KL知识迁移&quot;]"><strong><a href="../../venues/CIKM/2022/sequential_rec/disentangling_past_future_modeling_in_sequential_recommendation_via_dual_ne/">Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出双网络分离过去/未来建模，并以双向KL迁移互补知识，缓解训练-推理鸿沟；4数据集采样排序上HR@1平均提升12.03%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排&quot;,&quot;逆倾向得分 IPS&quot;,&quot;序列推荐&quot;,&quot;双视角去偏&quot;]"><strong><a href="../../venues/CIKM/2022/debias_fairness_industrial/dually_enhanced_propensity_score_estimation_in_sequential_recommendation/">Dually Enhanced Propensity Score Estimation in Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出用户/物品双视角时序 IPS 与双 Transformer，理论无偏并显著提升序列推荐。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;去偏公平与工业架构&quot;,&quot;精排&quot;,&quot;因果推断&quot;,&quot;回声室缓解&quot;]"><strong><a href="../../venues/CIKM/2022/debias_fairness_industrial/dynamic_causal_collaborative_filtering/">Dynamic Causal Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用含环因果图与马尔可夫吸收态分析刻画推荐回声室，提出后门调整+反事实历史的 ∂CCF，内容多样性变化平均降低 7.2%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;Neural ODE&quot;,&quot;连续时间动态图&quot;]"><strong><a href="../../venues/CIKM/2022/sequential_rec/evolutionary_preference_learning_via_graph_nested_gru_ode_for_session_based/">Evolutionary Preference Learning via Graph Nested GRU ODE for Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将会话建模为连续时间动态图，以GNG-ODE与t-Alignment学习偏好连续演化，全库排序下MRR@20最高提升6.05%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;解释引导数据增强&quot;,&quot;对比学习视图选择&quot;]"><strong><a href="../../venues/CIKM/2022/sequential_rec/explanation_guided_contrastive_learning_for_sequential_recommendation/">Explanation Guided Contrastive Learning for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用解释方法（Saliency/Occlusion）估计序列物品重要性，指导正负视图增强与自监督+监督对比学习；四数据集 Full-Ranking 下 NDCG@5 较 CL4SRec 提升 14%–22%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;图检索中心节点&quot;,&quot;多场景短期意图&quot;,&quot;个性化门控融合&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/graph_based_long_term_and_short_term_interest_model_for_click_through_rate_/">Graph Based Long-Term And Short-Term Interest Model for Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用图检索结构替代长行为截断/硬类目过滤，结合多场景 GRU 短期意图与个性化门控融合，离线 AUC 达 0.9830，线上 CTR +4.9%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回（端到端 Next-Item 预测）&quot;,&quot;隐式会话上下文&quot;,&quot;图聚类与上下文预测&quot;]"><strong><a href="../../venues/CIKM/2022/sequential_rec/implicit_session_contexts_for_next_item_recommendations/">Implicit Session Contexts for Next-Item Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>会话-物品图 GraphSAGE 嵌入 + K-means 聚类生成隐式会话上下文，用双 Bi-LSTM 上下文预测器作先验特征，Foursquare MRR 相对最优基线 +36.5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;序列与会话推荐&quot;,&quot;重排&quot;,&quot;会话内上下文&quot;,&quot;曝光偏置建模&quot;,&quot;多任务学习&quot;]"><strong><a href="../../venues/CIKM/2022/sequential_rec/intra_session_context_aware_feed_recommendation_in_live_systems/">Intra-session Context-aware Feed Recommendation in Live Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将信息流会话建模为点击/滑动的马尔可夫事件链，以会话内曝光序列编码上下文，多任务联合学习并用 GPT 式贪心序列生成优化总曝光与总点击；线上人均曝光 +1.16%、转化 +1.56%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;数据基准与离线评估&quot;,&quot;Exposure Bias&quot;,&quot;Missing-at-Random&quot;,&quot;多任务反馈信号&quot;]"><strong><a href="../../venues/CIKM/2022/debias_fairness_industrial/kuairand_an_unbiased_sequential_recommendation_dataset_with_randomly_expose/">KuaiRand: An Unbiased Sequential Recommendation Dataset with Randomly Exposed Videos</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>快手无感插入百万级随机曝光视频，构建首个带丰富特征与12类反馈的大规模无偏序列推荐数据集，支撑 IPS 全库评估。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;跨视图对比学习&quot;,&quot;多视图图神经网络&quot;,&quot;自监督信号&quot;]"><strong><a href="../../venues/CIKM/2022/sequential_rec/multi_level_contrastive_learning_framework_for_sequential_recommendation/">Multi-level Contrastive Learning Framework for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>MCLSR 构建序列/用户-物品/用户-用户/物品-物品四视图，在兴趣层与特征层做跨视图对比学习以补足稀疏监督信号，四数据集 Full-Ranking 下 Recall@20 平均相对提升约 7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;Hawkes Process&quot;,&quot;Hierarchical RNN&quot;,&quot;Entire Space Multi-Task&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/multi_scale_user_behavior_network_for_entire_space_multi_task_learning/">Multi-Scale User Behavior Network for Entire Space Multi-Task Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>分层循环网络 HEROES 用 Hawkes 过程与门控跨层通道，在 observation→click→conversion 全空间多尺度建模用户行为，CVR AUC 最高相对提升 11.2%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;排序评测/鲁棒性分析&quot;,&quot;Rank List Sensitivity&quot;,&quot;交互级扰动&quot;,&quot;级联效应&quot;]"><strong><a href="../../venues/CIKM/2022/debias_fairness_industrial/rank_list_sensitivity_of_recommender_systems_to_interaction_perturbations/">Rank List Sensitivity of Recommender Systems to Interaction Perturbations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出排序列表敏感度 RLS 指标与 CASPER 级联扰动法，量化单条交互扰动致全库排序剧变，并揭示低准确率用户更脆弱</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;LSH哈希采样&quot;,&quot;长序列用户兴趣建模&quot;,&quot;端到端训练&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/sampling_is_all_you_need_on_modeling_long_term_user_behaviors_for_ctr_predi/">Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用多轮 SimHash 碰撞概率替代 target attention，直接 gather 同签名行为构造长序列用户兴趣，AUC 媲美全注意力且训练快 5–11×，美团线上升 +2.98% CTR。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;长用户行为序列建模&quot;,&quot;稀疏注意力记忆网络&quot;,&quot;实时推理效率&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/sparse_attentive_memory_network_for_click_through_rate_prediction_with_long/">Sparse Attentive Memory Network for Click-through Rate Prediction with Long Sequences</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以目标物品为 Query、千长行为序列为知识库，用目标+记忆双查询稀疏注意力与 O(1) 次迭代记忆更新，实现 O(L) 复杂度长序列 CTR 建模，线上 A/B 提升 CTR 7.30%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;层级自注意力&quot;,&quot;时间门控融合&quot;]"><strong><a href="../../venues/CIKM/2022/sequential_rec/time_lag_aware_sequential_recommendation/">Time Lag Aware Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用层级自注意力分离全局稳定/局部波动的用户偏好，并以时间差驱动的维度级门向量融合长短期表征，Amazon Book 上 Hit@20 相对提升 55%。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM 2023&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;局部-全局混合&quot;,&quot;Squeeze-Excitation Attention&quot;]"><strong><a href="../../venues/CIKM/2023/sequential_rec/adamct_adaptive_mixture_of_cnn_transformer_for_sequential_recommendation/">AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -551,6 +672,14 @@ hide:
 <dd>
 <p>揭示 LLM 增强持续推荐中的 SPC 三难困境，用 Procrustes 投影、置信门控凝聚与语义同步三模块协同破局，Full-Ranking 下 ACC 最高提升 14.38%。</p>
 </dd>
+<dt data-paper-tags="[&quot;DASFAA&quot;,&quot;社交与群组推荐&quot;,&quot;精排/排序&quot;,&quot;图注意力&quot;,&quot;动态静态表示&quot;,&quot;物品相关图&quot;]"><strong><a href="../../venues/DASFAA/2022/social_group_rec/graph_neural_networks_with_dynamic_and_static_representations_for_social_re/">Graph Neural Networks with Dynamic and Static Representations for Social Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>GNN-DSR用LSTM与图注意力建模用户/物品的动态-静态表示，并聚合社交图与物品相关图，在Ciao/Epinions/Delicious上提升评分预测与物品排序。</p>
+</dd>
+<dt data-paper-tags="[&quot;DASFAA&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;类别感知会话图&quot;,&quot;目标类别意图迁移&quot;]"><strong><a href="../../venues/DASFAA/2022/sequential_rec/intention_adaptive_graph_neural_network_for_category_aware_session_based_re/">Intention Adaptive Graph Neural Network for Category-aware Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出类别感知会话推荐新任务 CSBR，构建含目标类别节点的异构会话图，用意图自适应 GAT 将与目标类别相关的历史交互迁移到目标类别域，P@20 最高提升 6.30%。</p>
+</dd>
 <dt data-paper-tags="[&quot;DASFAA 2023&quot;,&quot;CTR/CVR预估与特征交叉&quot;,&quot;精排&quot;,&quot;用户疲劳建模&quot;,&quot;频域FFT&quot;,&quot;隐式负反馈&quot;]"><strong><a href="../../venues/DASFAA/2023/ctr_feature_interaction/fan_fatigue_aware_network_for_click_through_rate_prediction_in_e_commerce_r/">FAN: Fatigue-Aware Network for Click-Through Rate Prediction in E-commerce Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>用 FFT 把非点击序列变换到频域建模用户疲劳，并以类目调制与门控置信度融入 CTR 精排，离线 AUC 0.7249、在线 PCTR +1.63%、曝光类目数 +11.13%。</p>
@@ -574,6 +703,10 @@ hide:
 <dt data-paper-tags="[&quot;DASFAA 2026&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;偏好优化&quot;,&quot;动态负采样&quot;]"><strong><a href="../../venues/DASFAA/2026/llm_rec/dynamicpo_dynamic_preference_optimization_for_recommendation/">DynamicPO: Dynamic Preference Optimization for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>揭示多负样本 DPO 的偏好优化坍缩现象，提出动态边界负样本选择与双边际动态 β 调整，即插即用提升 LLM 推荐 HitRatio@1。</p>
+</dd>
+<dt data-paper-tags="[&quot;ECIR&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;长程依赖记忆参数&quot;,&quot;隐式反馈去噪&quot;]"><strong><a href="../../venues/ECIR/2022/sequential_rec/recommender_systems_when_memory_matters/">Recommender Systems: When Memory Matters</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以平稳性与长程依赖记忆参数 d 筛除&#x27;行为飘忽&#x27;用户，配合块级正负反馈在线学习，在大规模稀疏数据上 MAP 提升 7–9%。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;双向 Transformer&quot;,&quot;多正样本对比学习&quot;]"><strong><a href="../../venues/ECIR/2024/sequential_rec/contrastive_learning_with_bidirectional_transformers_for_sequential_recomme/">Contrastive Learning with Bidirectional Transformers for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
@@ -611,6 +744,38 @@ hide:
 <dd>
 <p>用预训练 LLM 生成文本用户画像并蒸馏进 SASRec/BERT4Rec 隐层，两阶段训练实现零推理开销的语义增强，Recall@10 最高提升 23.5%。</p>
 </dd>
+<dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;序列与会话推荐&quot;,&quot;端到端训练（训练期增广）&quot;,&quot;扩散模型数据增广&quot;,&quot;上下文条件生成&quot;]"><strong><a href="../../venues/ICDE/2022/sequential_rec/diffusion_based_contrastive_learning_for_sequential_recommendation/">Context Matters: Enhancing Sequential Recommendation with Context-aware Diffusion-based Contrastive Learning (CaDiRec)</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用双向上下文条件扩散模型为序列生成语义合理的替代物品构造对比正视图，5 数据集全库排序 HR@10 最高提升 11.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;对比学习&quot;,&quot;序列数据增强&quot;]"><strong><a href="../../venues/ICDE/2022/sequential_rec/contrastive_learning_for_sequential_recommendation/">Contrastive Learning for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>CL4SRec 用裁剪/掩码/重排三种序列增强构造视图，以 InfoNCE 对比损失联合下一项预测，在四个数据集 Full-Ranking 上 HR@5 平均提升 11.02%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDE 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;频率感知对比学习&quot;,&quot;自适应数据增广&quot;]"><strong><a href="../../venues/ICDE/2022/sequential_rec/frequency_aware_adaptive_contrastive_learning_for_sequential_recommendation/">Frequency-aware Adaptive Contrastive Learning for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用频率自适应扰动与序列级重加权缓解低频物品和稀疏用户在对比增广中的过扰动，全库排序 HR@10 最高提升约 3.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDE 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回/精排&quot;,&quot;微行为建模&quot;,&quot;多重图神经网络&quot;]"><strong><a href="../../venues/ICDE/2022/sequential_rec/micro_behavior_encoding_for_session_based_recommendation/">Micro-Behavior Encoding for Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将会话转为带星节点的有向多重图，用GRU边特征与操作感知自注意力联合编码微行为序列/二元关系，全库排序H@10最高提升14.0%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDE&quot;,&quot;序列推荐&quot;,&quot;召回&quot;,&quot;多意图解耦&quot;,&quot;意图感知对比学习&quot;,&quot;K-means 原型聚类&quot;]"><strong><a href="../../venues/ICDE/2022/sequential_rec/multi_intent_aware_contrastive_learning_for_sequential_recommendation/">Multi-intent Aware Contrastive Learning for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>MCLRec 用 K-means 意图原型、Top-R 过滤与距离衰减项构建多意图感知对比学习，在四个 5-core 数据集全库排序下 HR/NDCG 最高提升 15.64%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDE&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;软硬双层序列去噪&quot;,&quot;跨信号对比学习&quot;,&quot;S形课程学习&quot;]"><strong><a href="../../venues/ICDE/2022/sequential_rec/multi_level_sequence_denoising_with_cross_signal_contrastive_learning_for_s/">Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>MSDCCL 用软/硬双层去噪与跨信号对比学习互补消除序列噪声，并引入 S 形课程学习；在 5 个数据集全库排序下 HR@20 较最强去噪基线最高提升 118.9%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDE&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回&quot;,&quot;可学习序列增强&quot;,&quot;质量感知对比学习&quot;]"><strong><a href="../../venues/ICDE/2022/self_supervised_denoising/quality_aware_collaborative_multi_positive_contrastive_learning_for_sequent/">Quality-Aware Collaborative Multi-Positive Contrastive Learning for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以可学习协同增强模块生成同目标/相似双视图，用增强置信度加权多正样本 InfoNCE，Beauty 上 HR@10 较 CL4SRec 提升 11.4%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;序列与会话推荐&quot;,&quot;召回/精排&quot;,&quot;相对对比学习&quot;,&quot;相似正样本选择&quot;]"><strong><a href="../../venues/ICDE/2022/sequential_rec/relative_contrastive_learning_for_sequential_recommendation_with_similarity/">Relative Contrastive Learning for Sequential Recommendation with Similarity-based Positive Pair Selection</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将同目标序列设为强正、相似序列设为弱正，用带 max 边界的加权相对对比损失训练 SASRec/FMLP，全库排序下 6 数据集平均提升 4.88%。</p>
+</dd>
 <dt data-paper-tags="[&quot;ICDE 2023&quot;,&quot;序列与会话推荐&quot;,&quot;召回/排序&quot;,&quot;频域滤波&quot;,&quot;对比学习&quot;]"><strong><a href="../../venues/ICDE/2023/sequential_rec/contrastive_enhanced_slide_filter_mixer_for_sequential_recommendation/">Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>用频域滑动滤波与对比学习替代自注意力，在5个基准全库排序下 HR@10 最高相对提升21.39%。</p>
@@ -642,6 +807,22 @@ hide:
 <dt data-paper-tags="[&quot;ICDE 2026&quot;,&quot;冷启动&quot;,&quot;精排&quot;,&quot;元学习&quot;,&quot;不确定性量化&quot;]"><strong><a href="../../venues/ICDE/2026/cold_start_rec/user_adaptive_meta_learning_for_cold_start_medication_recommendation_with_u/">User-Adaptive Meta-Learning for Cold-Start Medication Recommendation with Uncertainty Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>提出两级元自适应（自自适应+同伴自适应）与不确定性过滤的 MetaDrug，在 MIMIC-III/AKI 冷启动患者上 PRAUC 提升约 2.5%-6.2%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDM&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;用户行为建模&quot;,&quot;字段对选择&quot;,&quot;注意力剪枝&quot;]"><strong><a href="../../venues/ICDM/2022/ctr_feature_interaction/autoattention_automatic_field_pair_selection_for_attention_in_user_behavior/">AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将全部 item/user/context 字段纳入注意力查询，学习字段对权重并剪枝自动选对，Alibaba/Tencent 用户加权 AUC 相对提升 2.19%/3.58%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDM 2022&quot;,&quot;序列推荐&quot;,&quot;召回/近邻检索&quot;,&quot;神经切线核&quot;,&quot;无限宽RNN&quot;]"><strong><a href="../../venues/ICDM/2022/sequential_rec/beyond_double_ascent_via_recurrent_neural_tangent_kernel_in_sequential_reco/">Beyond Double Ascent via Recurrent Neural Tangent Kernel in Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>观测模型宽度“双上升”，提出免训练 OverRec：以 RNTK 度量序列相似度并加权 kNN，逼近无限宽 RNN，在 Beauty/Toys 全库排序提升。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDM&quot;,&quot;社交与群组推荐&quot;,&quot;精排&quot;,&quot;信息扩散级联&quot;,&quot;多视图注意力融合&quot;]"><strong><a href="../../venues/ICDM/2022/social_group_rec/igniter_news_recommendation_in_microblogging_applications_extended_version/">IGNiteR: News Recommendation in Microblogging Applications (Extended Version)</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用新闻转发级联训练影响力节点嵌入，并以语义/扩散/采纳曲线三视图注意力融合做微博客新闻推荐，采样排序下 NDCG@10 相对最强基线提升 2.3%–3.2%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDM&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;动态子网络路由&quot;,&quot;权重切片超网&quot;,&quot;Gumbel-Softmax&quot;]"><strong><a href="../../venues/ICDM/2022/sequential_rec/one_person_one_model_learning_compound_router_for_sequential_recommendation/">One Person, One Model—Learning Compound Router for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>CANet 用轻量路由器为每条用户序列在嵌入/隐藏/层深三维复合空间内路由子网络，权重切片共享超网，Gumbel-Softmax 端到端可微，全库排序下减算 55~65% 而 NDCG 仅降约 1.5%。</p>
 </dd>
 <dt data-paper-tags="[&quot;ICDM 2023&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;词图协同预训练&quot;,&quot;跨场景可迁移物品表征&quot;,&quot;零样本推荐&quot;]"><strong><a href="../../venues/ICDM/2023/sequential_rec/collaborative_word_based_pre_trained_item_representation_for_transferable_r/">Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -803,6 +984,14 @@ hide:
 <dd>
 <p>揭示LSH分词劣势源于与自回归解码的结构错配，提出免训练SimHash+并行解码+语义对齐的FLASH，全库排序下NDCG@5最高提升14.46%。</p>
 </dd>
+<dt data-paper-tags="[&quot;IJCAI 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;加权物品转移图&quot;,&quot;图对比学习&quot;,&quot;MMD表征对齐&quot;]"><strong><a href="../../venues/IJCAI/2022/sequential_rec/enhancing_sequential_recommendation_with_graph_contrastive_learning/">Enhancing Sequential Recommendation with Graph Contrastive Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>构建全用户加权物品转移图，以子图采样+共享GNN生成增广视图，结合图对比损失与MMD个性化对齐，Full-Ranking下HR@10最高提升12.9%</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回（Next-Item 检索）&quot;,&quot;MLP-Mixer&quot;,&quot;三向信息融合&quot;]"><strong><a href="../../venues/IJCAI/2022/sequential_rec/mlp4rec_a_pure_mlp_architecture_for_sequential_recommendations/">MLP4Rec: A Pure MLP Architecture for Sequential Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用纯 MLP 的三向 Mixer（序列/通道/特征）替代自注意力，免位置编码、线性复杂度，Beauty 上 HR@10 提升 6.4%。</p>
+</dd>
 <dt data-paper-tags="[&quot;IJCAI 2023&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;长序列行为检索&quot;,&quot;多类型行为融合&quot;,&quot;边信息解耦注意力&quot;]"><strong><a href="../../venues/IJCAI/2023/sequential_rec/a_survey_on_user_behavior_modeling_in_recommender_systems/">A Survey on User Behavior Modeling in Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>以长度/类型/边信息三轴重划 UBM 为四类范式，串联代表模型与线上收益，论证长序列检索与解耦边信息最具落地性</p>
@@ -830,6 +1019,30 @@ hide:
 <dt data-paper-tags="[&quot;IJCAI 2026&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;降尺度卷积&quot;,&quot;属性感知序列建模&quot;]"><strong><a href="../../venues/IJCAI/2026/sequential_rec/rethinking_convolutional_networks_for_attribute_aware_sequential_recommenda/">Rethinking Convolutional Networks for Attribute-Aware Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用金字塔式降尺度卷积替代自注意力聚合属性感知序列，线性复杂度下在四个 Amazon 数据集上 HR@10 最高提升 4.08%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;排序 (Next-Item 全库打分)&quot;,&quot;曝光偏差&quot;,&quot;逆倾向打分 (IPS/ITPS)&quot;,&quot;BERT4Rec / Cloze Task&quot;]"><strong><a href="../../venues/KDD/2022/debias_fairness_industrial/debiasing_the_cloze_task_in_sequential_recommendation_with_bidirectional_tr/">Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>证明 IPS 无法去偏序列推荐的 Cloze 任务，提出引入 Choice 变量与时变曝光倾向的 ITPS 无偏估计器，在半合成与真实数据上稳定优于 BERT4Rec。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;多行为序列建模&quot;,&quot;超图神经网络&quot;,&quot;低秩自注意力&quot;]"><strong><a href="../../venues/KDD/2022/sequential_rec/multi_behavior_hypergraph_enhanced_transformer_for_sequential_recommendatio/">Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>多尺度低秩 Transformer 捕获行为感知短期转移，超图网络建模跨行为长程依赖，Leave-One-Out+1:100 采样排序下 HR@5 最高提升 48.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;双塔 Transformer&quot;,&quot;因果掩码序列建模&quot;]"><strong><a href="../../venues/KDD/2022/sequential_rec/nxtpost_user_to_post_recommendations_in_facebook_groups/">NxtPost: User to Post Recommendations in Facebook Groups</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用预训练帖子向量替代词表嵌入的双塔 Transformer 因果序列召回，短/长期双损失在 Facebook Groups 上线，离线 Hits@1 绝对提升 49%、线上 +0.6%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回/精排&quot;,&quot;个性化注意力&quot;,&quot;购物篮推荐&quot;]"><strong><a href="../../venues/KDD/2022/sequential_rec/parsrec_explainable_personalized_attention_fused_recurrent_sequential_recom/">PARSRec: Explainable Personalized Attention-fused Recurrent Sequential Recommendation Using Session Partial Actions</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用显式用户嵌入作注意力 Query 融合 RNN，建模当前购物篮部分行为；Nielsen 采样排序 NDCG@5 较 BERT4Rec 提升 27.9%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;通用序列表征学习&quot;,&quot;跨域迁移预训练&quot;]"><strong><a href="../../venues/KDD/2022/sequential_rec/towards_universal_sequence_representation_learning_for_recommender_systems/">Towards Universal Sequence Representation Learning for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>UniSRec 用商品文本 + 参数化白化 + MoE 适配器学习 ID-agnostic 的通用物品/序列表征，多域对比预训练后仅微调少量参数即可跨域跨平台迁移，Pantry Recall@10 提升 38.3%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;预训练语言模型加速&quot;,&quot;训练框架优化&quot;]"><strong><a href="../../venues/KDD/2022/llm_rec/training_large_scale_news_recommenders_with_pretrained_language_models_in_t/">Training Large-Scale News Recommenders with Pretrained Language Models in the Loop</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>SpeedyFeed 用集中式编码、缓存复用、BusLM 与自回归用户建模，把 PLM 新闻推荐训练加速 128.7×，AUC 73.74 全面超越 NRMS。</p>
 </dd>
 <dt data-paper-tags="[&quot;KDD 2023&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;一致性训练&quot;,&quot;双向KL散度&quot;]"><strong><a href="../../venues/KDD/2023/sequential_rec/ct4rec_simple_yet_effective_consistency_training_for_sequential_recommendat/">CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -982,6 +1195,54 @@ hide:
 <dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;扩散生成&quot;,&quot;潜在邻居生成&quot;,&quot;多模态对比学习&quot;]"><strong><a href="../../venues/KDD/2026/sequential_rec/unleashing_the_potential_of_neighbors_diffusion_based_latent_neighbor_gener/">Unleashing the Potential of Neighbors: Diffusion-based Latent Neighbor Generation for Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用检索先验与多模态信号双路引导扩散模型生成“潜在邻居”，突破可观测邻居边界，Full-Ranking 下 P@20 最高提升 18.45%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;序列与会话推荐&quot;,&quot;端到端生成式&quot;,&quot;可复现性研究&quot;,&quot;BERT4Rec&quot;,&quot;掩码自监督训练&quot;]"><strong><a href="../../venues/RecSys/2022/sequential_rec/a_systematic_review_and_replicability_study_of_bert4rec_for_sequential_reco/">A Systematic Review and Replicability Study of BERT4Rec for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>系统复盘 134 次 BERT4Rec vs SASRec 对比，指出原始实现默认配置严重欠拟合（需 30× 训练时长），并给出 Hugging Face 高效复现与 ALBERT4Rec 改进。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;序列与会话推荐&quot;,&quot;重排/序列生成&quot;,&quot;音乐 Tour 生成&quot;,&quot;用户中心评估&quot;]"><strong><a href="../../venues/RecSys/2022/sequential_rec/a_user_centered_investigation_of_personal_music_tours/">A User-Centered Investigation of Personal Music Tours</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>首次用半结构化访谈评估 Greedy 与 Optimal 两种音乐 Tour 生成算法，发现 Greedy 因 segue 多样性更受偏好，揭示多样性、编排与熟悉度为关键属性。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2022&quot;,&quot;序列与会话推荐&quot;,&quot;重排/排序&quot;,&quot;会话内自适应&quot;,&quot;实时搜索推荐&quot;]"><strong><a href="../../venues/RecSys/2022/sequential_rec/augmenting_netflix_search_with_in_session_adapted_recommendations/">Augmenting Netflix Search with In-Session Adapted Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>面向Netflix搜索预查询画布，融合当前会话实时行为与长期偏好，离线排序指标相对生产模型提升6%，并讨论实时不缓存等工程约束。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;去偏公平可信隐私与工业架构&quot;,&quot;召回/输入序列层&quot;,&quot;对抗攻击与鲁棒性&quot;,&quot;Dirichlet邻域采样&quot;]"><strong><a href="../../venues/RecSys/2022/debias_fairness_industrial/defending_substitution_based_profile_pollution_attacks_on_sequential_recomm/">Defending Substitution-Based Profile Pollution Attacks on Sequential Recommenders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>首个替换式画像污染攻击+防御框架，用梯度引导攻击、Dirichlet邻域采样与对抗训练，NDCG@10波动降34.4%</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;可微二值掩码&quot;,&quot;Jacobian 正则&quot;,&quot;ARM 无偏梯度估计&quot;]"><strong><a href="../../venues/RecSys/2022/sequential_rec/denoising_self_attentive_sequential_recommendation/">Denoising Self-attentive Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用可微二值掩码剪枝自注意力的噪声项并叠加 Jacobian 谱正则，Leave-One-Out + 101 候选采样排序下比各 Transformer 骨干相对提升 5.05%–19.55%</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回/曝光策略&quot;,&quot;mere exposure effect&quot;,&quot;probit 回归&quot;,&quot;重复消费建模&quot;]"><strong><a href="../../venues/RecSys/2022/sequential_rec/discovery_dynamics_leveraging_repeated_exposure_for_user_and_music_characte/">Discovery Dynamics: Leveraging Repeated Exposure for User and Music Characterization</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用 9M 条曝光日志拟合 probit 二次模型，验证新曲曝光—收听呈倒 U 型（峰值约 12 次），并以峰值位置刻画曲目熟悉度与用户年龄差异。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;训练目标设计&quot;,&quot;列表损失 λRank&quot;]"><strong><a href="../../venues/RecSys/2022/sequential_rec/effective_and_efficient_training_for_sequential_recommendation_using_recenc/">Effective and Efficient Training for Sequential Recommendation using Recency Sampling</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出近期性序列采样 RSS 训练目标，替代序列延续与掩码任务，配合 λRank 列表损失，1 小时训练即可超越 16 小时 BERT4Rec。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;跨会话行为建模&quot;,&quot;物品稀缺域推荐&quot;]"><strong><a href="../../venues/RecSys/2022/sequential_rec/learning_recommendations_from_user_actions_in_the_item_poor_insurance_domai/">Learning Recommendations from User Actions in the Item-poor Insurance Domain</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>首个保险领域跨会话推荐模型：以 3 元组网站行为序列为输入、GRU 编码多次会话，预测会话之外发生的购买行为，Full-Ranking HR@3 较 SKNN_EB 提升 3.04%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;重复消费建模&quot;,&quot;指针网络&quot;]"><strong><a href="../../venues/RecSys/2022/sequential_rec/modeling_user_repeat_consumption_behavior_for_online_novel_recommendation/">Modeling User Repeat Consumption Behavior for Online Novel Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>NovelNet 用 7 维细粒度交互属性编码每次阅读、BiGRU 建模序列、指针网络+pointwise 损失统一推荐已读与新小说，MRR@1 达 47.02%（+4.65%）。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;去偏公平与可信推荐&quot;,&quot;重排&quot;,&quot;规范性多样性&quot;,&quot;秩感知散度&quot;]"><strong><a href="../../venues/RecSys/2022/debias_fairness_industrial/radio_rank_aware_divergence_metrics_to_measure_normative_diversity_in_news_/">RADio: Rank-Aware Divergence Metrics to Measure Normative Diversity in News Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将新闻规范性多样性统一为秩感知 f-散度（JS）框架，在 MIND 上对 6 种推荐器做五维 DART 度量与敏感性分析。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2022&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;Transformer&quot;,&quot;长短期兴趣建模&quot;]"><strong><a href="../../venues/RecSys/2022/sequential_rec/rethinking_personalized_ranking_at_pinterest_an_end_to_end_approach/">Rethinking Personalized Ranking at Pinterest: An End-to-End Approach</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>PinnerFormer 用稠密全动作损失编码长期兴趣，实时序列捕捉短期意图，线上 Repin +12.5%、Ads CTR +14.0%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;动态偏好建模&quot;,&quot;反馈回路仿真&quot;]"><strong><a href="../../venues/RecSys/2022/sequential_rec/towards_psychologically_grounded_dynamic_preference_models/">Towards Psychologically-Grounded Dynamic Preference Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出心理学接地方法论，将单纯曝光、操作性条件作用、享乐适应形式化为偏好向量增量算子，仿真揭示振荡动态与参与度/多样性指标失效</p>
 </dd>
 <dt data-paper-tags="[&quot;RecSys 2023&quot;,&quot;协同过滤与双塔召回&quot;,&quot;精排&quot;,&quot;兴趣胶囊动态路由&quot;,&quot;辅助任务联合学习&quot;,&quot;物品表征增广&quot;]"><strong><a href="../../venues/RecSys/2023/collaborative_filtering/a_model_agnostic_framework_for_recommendation_via_interest_aware_item_embed/">A Model-Agnostic Framework for Recommendation via Interest-aware Item Embeddings</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -1234,6 +1495,82 @@ hide:
 <dt data-paper-tags="[&quot;RecSys&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;零观测唤醒&quot;,&quot;逐维门控&quot;]"><strong><a href="../../venues/RecSys/2026/sequential_rec/zero_observation_user_reactivation_with_gap_driven_dimensional_gating/">Zero-Observation User Reactivation with Gap-Driven Dimensional Gating</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>定义零观测用户唤醒问题，提出冻结骨干的逐维门控插件 DeltaGate，以 Δt 与历史表征联合路由个性化历史与全局先验，&gt;365d 桶 Hit@10 提升 33%–84%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;数据分布自适应&quot;,&quot;模型补丁参数调制&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/ada_ranker_a_data_distribution_adaptive_ranking_paradigm_for_sequential_rec/">Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以 Neural Process 提取候选集分布 z，经 FiLM 输入调制与参数池补丁调制，把全局精排器即时改写为局部模型，NDCG 平均提升约 2.5%，新分布下增益达 15.5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;长时行为序列建模&quot;,&quot;对抗训练与行为去噪&quot;]"><strong><a href="../../venues/SIGIR/2022/ctr_feature_interaction/adversarial_filtering_modeling_on_long_term_user_behavior_sequences_for_cli/">Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用分层聚合压缩重复行为、自注意力打分门选 top-k 行为，并以对抗训练（IEU 最小化、BSU 最大化剩余序列损失）剔除长序列噪声行为，工业集 AUC +0.0047、线上 CTR +4.7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;意图序列粗到细建模&quot;,&quot;学习式局部注意力&quot;,&quot;联合概率解码&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/coarse_to_fine_sparse_sequential_recommendation/">Coarse-to-Fine Sparse Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>显式建模类目/卖家意图序列作为稠密先验，与物品序列双编码器融合并按联合概率解码，稀疏数据上 NDCG@5 相对提升 44.03%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;侧信息融合&quot;,&quot;解耦注意力&quot;,&quot;辅助属性预测&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/decoupled_side_information_fusion_for_sequential_recommendation/">Decoupled Side Information Fusion for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将侧信息从输入层移至注意力层解耦计算，配合辅助属性预测器，在四个 Amazon/Yelp 数据集全库排序上稳定超越 SASRec/NOVA/ICAI-SR。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;序列与会话推荐&quot;,&quot;CTR预估&quot;,&quot;时间周期建模&quot;,&quot;行为去噪&quot;,&quot;时间嵌入&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/denoising_time_cycle_modeling_for_recommendation/">Denoising Time Cycle Modeling for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>DiCycle 用绝对/相对时间核编码 + 门控去噪分别刻画 ATC/RTC 两种周期模式，CTR 预测在 LastFM/ML-1M/Books/工业集上 AUC 稳定超越时序基线。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;Determinantal Point Process&quot;,&quot;集合似然损失&quot;,&quot;质量-多样性权衡&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/determinantal_point_process_likelihoods_for_sequential_recommendation/">Determinantal Point Process Likelihoods for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用 DPP 集合似然替换逐点/成对损失，把「下 T 项」建模为集合抽取，即插即用于 Caser/MARank/SASRec，Beauty Recall@3 最高 +37%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;序列推荐&quot;,&quot;召回&quot;,&quot;判别式训练&quot;,&quot;ELECTRA 式替换检测&quot;,&quot;采样难负例&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/elecrec_training_sequential_recommenders_as_discriminators/">ELECRec: Training Sequential Recommenders as Discriminators</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>借鉴 ELECTRA 思想，将序列推荐从下一项生成改为真假判别训练，辅助生成器采样难负例，四数据集 Full-Ranking 下 HR@5 提升 38%–137%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;协同过滤与双塔召回&quot;,&quot;端到端训练范式&quot;,&quot;过参数化冗余利用&quot;,&quot;同伴协作权重移植&quot;,&quot;层重要性熵度量&quot;]"><strong><a href="../../venues/SIGIR/2022/collaborative_filtering/enhancing_top_n_item_recommendations_by_peer_collaboration/">Enhancing Top-N Item Recommendations by Peer Collaboration</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出 PCRec：两个同构推荐模型按层熵/范数度量冗余并互相移植权重，在推理零额外开销下稳定提升 Top-N 精度</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;Session-aware Recommendation&quot;,&quot;Temporal Self-Attention&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/exploiting_session_information_in_bert_based_session_aware_sequential_recom/">Exploiting Session Information in BERT-based Session-aware Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>在 BERT4Rec 输入层以会话标记、会话段嵌入与时间感知自注意力三种轻量插件注入会话结构，仅增 0.1% 参数即在全库排序下取得最高 55% NDCG 提升。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;Fastformer&quot;,&quot;细粒度用户建模&quot;,&quot;新闻推荐&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/fum_fine_grained_and_fast_user_modeling_for_news_recommendation/">FUM: Fine-grained and Fast User Modeling for News Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将用户点击新闻拼接成一条长文档，用 Fastformer 线性复杂度捕获词级跨新闻交互，并融合新闻级粗粒度通路；MIND/Feeds 上 AUC 相对提升 2.2%–2.5%，推理仅 2.75s/1k 样本。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回&quot;,&quot;多兴趣解耦&quot;,&quot;隐式类别正交&quot;,&quot;对比学习去噪&quot;]"><strong><a href="../../venues/SIGIR/2022/self_supervised_denoising/improving_micro_video_recommendation_via_contrastive_multiple_interests/">Improving Micro-video Recommendation via Contrastive Multiple Interests</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用隐式正交类别解耦多兴趣，并以跨视图对比多兴趣损失抵御微视频自动播放的假阳性噪声，双数据集 Recall@20 提升 24%/1.7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;时间多样性&quot;,&quot;顺序无关Transformer&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/is_news_recommendation_a_sequential_recommendation_task/">Is News Recommendation a Sequential Recommendation Task?</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>论证新闻推荐非标准序列任务，提出双序无关 Transformer 与时间多样性惩罚 TempRec，在 MIND/News 曝光排序稳定提升 AUC/nDCG。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;候选感知用户建模&quot;,&quot;单塔交互式匹配&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/news_recommendation_with_candidate_aware_user_modeling/">News Recommendation with Candidate-aware User Modeling</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用候选新闻反向引导用户建模，Candi-SelfAtt/Candi-CNN/Candi-Att 三路聚合，MIND 上 nDCG@5 相对提升 4.2%</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;序列与会话推荐&quot;,&quot;端侧推理/召回&quot;,&quot;张量链分解压缩&quot;,&quot;自监督知识蒸馏&quot;,&quot;长尾物品扶持&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/on_device_next_item_recommendation_with_self_supervised_knowledge_distillat/">On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用半张量积松弛 TT 分解的维度一致性实现 30 倍嵌入压缩，并以热冷嵌入重组驱动的自监督蒸馏补回容量，全库排序下几乎无损甚至超越教师。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;异质超图&quot;,&quot;价格偏好建模&quot;,&quot;协同引导学习&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/price_does_matter_modeling_price_and_interest_preferences_in_session_based_/">Price DOES Matter! Modeling Price and Interest Preferences in Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将价格离散为等概率价格等级并构建异质超图，用双通道聚合+协同引导门控联合建模价格与兴趣偏好，全库排序下 Prec@20 最高提升 6.86%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排&quot;,&quot;提示式学习&quot;,&quot;离线强化学习&quot;,&quot;会话序列推荐&quot;]"><strong><a href="../../venues/SIGIR/2022/rl_bandit_rec/rethinking_reinforcement_learning_for_recommendation_a_prompt_perspective/">Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将离线 RL 推荐从「状态-动作→Q 值」翻转为「状态-累计回报→动作」的提示式监督学习，全库排序下购买 HR@5 最高 +13.0%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排&quot;,&quot;参数高效提示微调 (Prompt Tuning)&quot;,&quot;对抗去偏 (Adversarial Debiasing)&quot;]"><strong><a href="../../venues/SIGIR/2022/debias_fairness_industrial/selective_fairness_in_recommendation_via_prompts/">Selective Fairness in Recommendation via Prompts</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出选择性公平任务与 PFRec：冻结 SASRec、以属性专属软提示+Adapter 配合对抗训练，用极少参数支持 2^m 种敏感属性组合的去偏。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;端到端强化学习&quot;,&quot;状态编码器&quot;,&quot;可复现性研究&quot;]"><strong><a href="../../venues/SIGIR/2022/rl_bandit_rec/state_encoders_in_reinforcement_learning_for_recommendation_a_reproducibili/">State Encoders in Reinforcement Learning for Recommendation: A Reproducibility Study</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用去偏 SOFA 模拟器+ DQN 复现“注意力状态编码器最优”结论，发现该结论在 Yahoo! R3 成立但在 Coat 数据集失效，无单一最优编码器。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排/重排&quot;,&quot;离线强化学习&quot;,&quot;不确定性惩罚&quot;,&quot;长期满意度&quot;]"><strong><a href="../../venues/SIGIR/2022/rl_bandit_rec/value_penalized_q_learning_for_recommender_systems/">Value Penalized Q-Learning for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出乘性不确定性惩罚 VPQ，用 Q 集成方差构造 $p$-mul 保守目标并配 critic 框架，在两数据集上为三种序列模型平均带来 6–9% 相对增益。</p>
 </dd>
 <dt data-paper-tags="[&quot;SIGIR 2023&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;预训练与提示调优&quot;,&quot;后门攻击&quot;,&quot;序列推荐&quot;]"><strong><a href="../../venues/SIGIR/2023/debias_fairness_industrial/attacking_pre_trained_recommendation/">Attacking Pre-trained Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -1635,6 +1972,10 @@ hide:
 <dd>
 <p>用伪扰动模拟+top-K 保序正则微调序列推荐器，CASPER 扰动下 RBO 最高 +24%、Jaccard +136% 且精度不降</p>
 </dd>
+<dt data-paper-tags="[&quot;TKDE 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回/排序&quot;,&quot;字典学习&quot;,&quot;动态用户偏好&quot;,&quot;GRU+Attention&quot;]"><strong><a href="../../venues/TKDE/2022/sequential_rec/modeling_dynamic_user_preference_via_dictionary_learning_for_sequential_rec/">Modeling Dynamic User Preference via Dictionary Learning for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>S2PNM以共享字典把GRU序列编码译为动态偏好，与静态偏好同空间相加；Netflix时间切分RMSE较SVD++降2.18%，Baby Care NDCG@5较SASRec升6.10%。</p>
+</dd>
 <dt data-paper-tags="[&quot;TKDE&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;分块记忆网络&quot;,&quot;外部记忆&quot;]"><strong><a href="../../venues/TKDE/2023/sequential_rec/cmnrec_sequential_recommendations_with_chunk_accelerated_memory_network/">CmnRec: Sequential Recommendations with Chunk-accelerated Memory Network</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>以认知分块压缩邻近隐状态，仅在 chunk 时刻读写外部记忆，训练最高约 6.34×、推理 10.07× 加速且 MRR@5 不降反升。</p>
@@ -1718,6 +2059,14 @@ hide:
 <dt data-paper-tags="[&quot;TMM&quot;,&quot;序列与会话推荐&quot;,&quot;召回/排序&quot;,&quot;多级图神经网络&quot;,&quot;超图&quot;,&quot;对比学习&quot;]"><strong><a href="../../venues/TMM/2023/sequential_rec/contrastive_multi_level_graph_neural_networks_for_session_based_recommendat/">Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Multimedia">IEEE TMM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>提出 L/G/H 三级图与跨层级 InfoNCE，将高阶超图监督注入成对会话表示，在 Tmall/Diginetica/Nowplaying 全库排序上多数指标领先。</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;位置编码&quot;,&quot;会话图神经网络&quot;]"><strong><a href="../../venues/TOIS/2022/sequential_rec/exploiting_positional_information_for_session_based_recommendation/">Exploiting Positional Information for Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出双位置编码DPE/LDPE与位置感知门控图网络PosRec，全库排序下在Yoochoose/Diginetica稳定超越SOTA约0.4%–2.6%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;冷启动与长尾推荐&quot;,&quot;召回&quot;,&quot;元学习 (MAML)&quot;,&quot;序列推荐&quot;,&quot;图扩散表征&quot;]"><strong><a href="../../venues/TOIS/2022/cold_start_rec/learning_to_learn_a_cold_start_sequential_recommender/">Learning to Learn a Cold-start Sequential Recommender</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>metaCSR 用扩散表征+自注意力序列编码+MAML 元学习，仅凭 ID 与交互矩阵实现新用户少样本快速适配，冷启动 AUC 最高 +7.85%、MAP +29.62%。</p>
 </dd>
 <dt data-paper-tags="[&quot;TOIS&quot;,&quot;序列与会话推荐&quot;,&quot;召回与推荐评估&quot;,&quot;下一购物篮推荐&quot;,&quot;重复-探索分解&quot;,&quot;可复现评估&quot;]"><strong><a href="../../venues/TOIS/2023/sequential_rec/a_next_basket_recommendation_reality_check/">A Next Basket Recommendation Reality Check</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -1806,6 +2155,22 @@ hide:
 <dt data-paper-tags="[&quot;TWEB&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;异构图神经网络&quot;,&quot;多行为会话建模&quot;]"><strong><a href="../../venues/TWEB/2024/sequential_rec/heterogeneous_information_crossing_on_graphs_for_session_based_recommender_/">Heterogeneous Information Crossing on Graphs for Session-based Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on the Web">ACM TWEB</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>会话多行为异构图 + 跨行为类型边 + 双层注意力交叉，全库排序下 HR@20 相对最优基线提升约 3.5%</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;表示退化 (Anisotropy)&quot;,&quot;对比学习正则 (Dropout 增广 / 监督正样本)&quot;]"><strong><a href="../../venues/WSDM/2022/sequential_rec/contrastive_learning_for_representation_degeneration_problem_in_sequential_/">Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>揭示 Transformer 序列推荐器的物品嵌入各向异性退化问题，用 Dropout 双视图与同目标难正样本的对比正则（DuoRec）在全库排序下 HR@5 最高提升 104%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;异构全局图&quot;,&quot;个性化会话编码&quot;]"><strong><a href="../../venues/WSDM/2022/sequential_rec/heterogeneous_global_graph_neural_networks_for_personalized_session_based_r/">Heterogeneous Global Graph Neural Networks for Personalized Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>构建用户-物品异构全局图并叠加双粒度偏好门控，在 Last.fm/Xing/Reddit 全库 HR/MRR 上相对 SOTA 提升 1.0%–6.6%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;时序元学习&quot;,&quot;异构图注意力&quot;]"><strong><a href="../../venues/WSDM/2022/sequential_rec/long_short_term_temporal_meta_learning_in_online_recommendation/">Long Short-Term Temporal Meta-learning in Online Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>双图(全局长期/内部短期)+门控融合+时序 MAML 异步优化，在微信看一看 10 亿级行为上做小时级 AUC 与线上 A/B 验证，CTR 相对 +9.6%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2022&quot;,&quot;序列与会话推荐&quot;,&quot;重排&quot;,&quot;Transformer&quot;,&quot;Attention2D&quot;,&quot;多属性序列&quot;]"><strong><a href="../../venues/WSDM/2022/sequential_rec/sequential_modeling_with_multiple_attributes_for_watchlist_recommendation_i/">Sequential Modeling with Multiple Attributes for Watchlist Recommendation in E-Commerce</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出Trans2D/Attention2D，在item×attribute二维序列上建模三类交互，用于eBay watchlist重排；P@1较最佳基线提升11.3%。</p>
 </dd>
 <dt data-paper-tags="[&quot;WSDM 2023&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;多层注意力混合&quot;,&quot;归纳偏置剪枝&quot;,&quot;会话表征读出&quot;]"><strong><a href="../../venues/WSDM/2023/sequential_rec/efficiently_leveraging_multi_level_user_intent_for_session_based_recommenda/">Efficiently Leveraging Multi-level User Intent for Session-based Recommendation via Atten-Mixer Network</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -1902,6 +2267,50 @@ hide:
 <dt data-paper-tags="[&quot;WSDM&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;侧信息融合&quot;,&quot;频域去噪&quot;,&quot;时间跨度划分&quot;]"><strong><a href="../../venues/WSDM/2026/sequential_rec/time_aware_adaptive_side_information_fusion_for_sequential_recommendation/">Time-Aware Adaptive Side Information Fusion for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>提出 TSP 时间跨度划分 + AFF 自适应频域滤波 + ASIF「引导不混合」融合层，在 4 个数据集 Full-Ranking 下 Recall@20 最高提升 10.28%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;生成式端到端&quot;,&quot;copy mechanism&quot;,&quot;pointer network&quot;]"><strong><a href="../../venues/WWW/2022/generative_rec/conditional_generation_net_for_medication_recommendation/">Conditional Generation Net for Medication Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>COGNet 以 copy-or-predict 编码器-解码器逐药生成处方，用 visit/medication 两级软检索决定复制历史药或生成新药，在 MIMIC-III 全药库评测上 Jaccard 较 SafeDrug 提升 2.36%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;长短期兴趣解耦&quot;,&quot;自监督对比学习&quot;]"><strong><a href="../../venues/WWW/2022/sequential_rec/disentangling_long_and_short_term_interests_for_recommendation/">Disentangling Long and Short-Term Interests for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用兴趣代理做自监督对比，解耦长短期兴趣并注意力自适应融合，淘宝/快手 GAUC 提升超 0.01、NDCG@2 提升约 5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;序列与会话推荐&quot;,&quot;端到端推荐决策&quot;,&quot;分层Transformer&quot;,&quot;MOBA Draft&quot;]"><strong><a href="../../venues/WWW/2022/sequential_rec/draftrec_personalized_draft_recommendation_for_winning_in_multi_player_onli/">DraftRec: Personalized Draft Recommendation for Winning in Multi-Player Online Battle Arena Games</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>分层Transformer联合玩家偏好与队伍协同，阈值约束胜率最大化；LOL HR@1较SASRec提升12.1%，86.9%用户愿用。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;多任务学习与列表级重排&quot;,&quot;精排&quot;,&quot;多反馈用户建模&quot;,&quot;强到弱注意力蒸馏&quot;,&quot;参与度多任务学习&quot;]"><strong><a href="../../venues/WWW/2022/multi_task_reranking/feedrec_news_feed_recommendation_with_various_user_feedbacks/">FeedRec: News Feed Recommendation with Various User Feedbacks</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用异构/同构 Transformer 与强到弱注意力统一建模点击、跳过、分享、点踩、读完、秒关六类反馈，并以点击-读完-时长多任务训练，AUC 相对最强基线提升约 4.3%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回/精排&quot;,&quot;频域滤波&quot;,&quot;全MLP&quot;]"><strong><a href="../../venues/WWW/2022/sequential_rec/filter_enhanced_mlp_is_all_you_need_for_sequential_recommendation/">Filter-enhanced MLP is All You Need for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>FMLP-Rec 用 FFT 频域可学习滤波替代自注意力，以全 MLP 去噪建模序列；8 数据集 1:99 负采样排序，NDCG@10 较最佳基线提升 4.5%–7.4%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回/排序&quot;,&quot;Intent Contrastive Learning&quot;,&quot;EM&quot;,&quot;False-Negative Mitigation&quot;]"><strong><a href="../../venues/WWW/2022/sequential_rec/intent_contrastive_learning_for_sequential_recommendation/">Intent Contrastive Learning for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用K-means意图原型与意图对比SSL及FNM，在四数据集全库排序下较SOTA提升7.47%–33.33%。</p>
+</dd>
+<dt data-paper-tags="[&quot;arXiv 2025&quot;,&quot;序列与会话推荐&quot;,&quot;精排（Next-Item 排序）&quot;,&quot;意图-兴趣解耦&quot;,&quot;物品感知对比学习&quot;]"><strong><a href="../../venues/WWW/2022/sequential_rec/intent_interest_disentanglement_and_item_aware_intent_contrastive_learning_/">Intent-Interest Disentanglement and Item-Aware Intent Contrastive Learning for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>意图-兴趣解耦与物品感知意图对比，Amazon 三域全库排序下 HR@20 最高相对提升 14.62%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回（下次物品预测）&quot;,&quot;学习式数据增强 (Learning to Augment)&quot;,&quot;策略梯度 REINFORCE&quot;,&quot;休闲用户 / 核心用户鸿沟&quot;]"><strong><a href="../../venues/WWW/2022/sequential_rec/learning_to_augment_for_casual_user_recommendation/">Learning to Augment for Casual User Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用 REINFORCE 学习核心用户序列的 Keep/Drop 编辑策略，合成贴近休闲用户行为的增强序列，配合元验证集奖励与 replay，在 4 个数据集、3 种序列模型上让休闲用户 NDCG@5 相对最优基线提升 6.6%–9.9%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;多任务学习与列表级重排&quot;,&quot;重排&quot;,&quot;Contextualized Transformer&quot;,&quot;Merged Cross-Attention&quot;,&quot;列表级多任务学习&quot;]"><strong><a href="../../venues/WWW/2022/multi_task_reranking/pear_personalized_re_ranking_with_contextualized_transformer_for_recommenda/">PEAR: Personalized Re-ranking with Contextualized Transformer for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以特征级 MLP + 列表/历史双向交叉注意力 Transformer 重排 top-30 列表，并加列表级多任务监督，MicroVideo 与华为新闻日志上 gAUC@30 分别提升 1.07%/1.71%</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;多兴趣表征&quot;,&quot;对比学习&quot;,&quot;反向流正则&quot;]"><strong><a href="../../venues/WWW/2022/sequential_rec/re4_learning_to_re_contrast_re_attend_re_construct_for_multi_interest_recom/">Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出反向流 Re4：以对比、重注意、重构三项正则约束多兴趣表征；Amazon/Gowalla 全库排序 NDCG@20 相对提升 42%/12%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;Wasserstein 自注意力&quot;,&quot;高斯分布嵌入&quot;,&quot;冷启动&quot;]"><strong><a href="../../venues/WWW/2022/sequential_rec/sequential_recommendation_via_stochastic_self_attention/">Sequential Recommendation via Stochastic Self-Attention</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将物品建模为高斯分布并以负 2-Wasserstein 距离替代点积自注意力，配合正负样本距离正则，在 5 个 Amazon 域上全库排序显著提升且冷启动物品增益最大。</p>
 </dd>
 <dt data-paper-tags="[&quot;WWW 2023&quot;,&quot;序列与会话推荐&quot;,&quot;排序&quot;,&quot;反事实推断&quot;,&quot;因果去偏&quot;,&quot;会话协同过滤&quot;]"><strong><a href="../../venues/WWW/2023/sequential_rec/a_counterfactual_collaborative_session_based_recommender_system/">A Counterfactual Collaborative Session-based Recommender System</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>

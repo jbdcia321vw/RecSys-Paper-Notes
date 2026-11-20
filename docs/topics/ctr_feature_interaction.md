@@ -7,9 +7,9 @@ hide:
 
 > **研究范畴**：显式/隐式高阶特征交叉网络 (DCN/EulerNet)、转化率延迟反馈 (Delayed Feedback) 与概率校准
 
-当前方向共收录 **274** 篇顶会/顶刊论文解读：
+当前方向共收录 **321** 篇顶会/顶刊论文解读：
 
-🔥 **高频交叉主题：** 多任务学习 ×16 · 大语言模型推荐 ×15 · 去偏公平与可信推荐 ×11 · 生成式推荐 ×8 · 知识蒸馏 ×8 · 多模态推荐 ×5 · MoE ×4 · Scaling Law ×4
+🔥 **高频交叉主题：** 多任务学习 ×16 · 大语言模型推荐 ×15 · 去偏公平与可信推荐 ×11 · 知识蒸馏 ×9 · 生成式推荐 ×8 · 多模态推荐 ×5 · MoE ×4 · Scaling Law ×4
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -22,63 +22,73 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">219</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">108</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="CTR预估与特征交叉" aria-pressed="false">CTR预估与特征交叉<span class="paper-tag-filter__count">35</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">23</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">248</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">124</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="CTR预估与特征交叉" aria-pressed="false">CTR预估与特征交叉<span class="paper-tag-filter__count">48</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">26</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">17</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多任务学习" aria-pressed="false">多任务学习<span class="paper-tag-filter__count">16</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">15</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">15</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多任务学习与列表级重排" aria-pressed="false">多任务学习与列表级重排<span class="paper-tag-filter__count">12</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多任务学习与列表级重排" aria-pressed="false">多任务学习与列表级重排<span class="paper-tag-filter__count">14</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">12</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">12</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">11</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">10</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR预估与特征交叉" aria-pressed="false">CTR/CVR预估与特征交叉<span class="paper-tag-filter__count">9</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">9</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">9</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">8</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">8</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">8</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">7</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="粗排" aria-pressed="false">粗排<span class="paper-tag-filter__count">6</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="粗排" aria-pressed="false">粗排<span class="paper-tag-filter__count">7</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自动出价" aria-pressed="false">自动出价<span class="paper-tag-filter__count">6</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="特征交叉" aria-pressed="false">特征交叉<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="MoE" aria-pressed="false">MoE<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Scaling Law" aria-pressed="false">Scaling Law<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="特征交叉" aria-pressed="false">特征交叉<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="低秩分解" aria-pressed="false">低秩分解<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与工业架构" aria-pressed="false">去偏公平与工业架构<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="双塔模型" aria-pressed="false">双塔模型<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="延迟反馈" aria-pressed="false">延迟反馈<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="概率校准" aria-pressed="false">概率校准<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="特征选择" aria-pressed="false">特征选择<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="CTR 预估与特征交叉" aria-pressed="false">CTR 预估与特征交叉<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="KV缓存" aria-pressed="false">KV缓存<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="低秩分解" aria-pressed="false">低秩分解<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="MLP-Mixer" aria-pressed="false">MLP-Mixer<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="冷启动与长尾推荐" aria-pressed="false">冷启动与长尾推荐<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="双塔模型" aria-pressed="false">双塔模型<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对比学习" aria-pressed="false">对比学习<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="延迟反馈" aria-pressed="false">延迟反馈<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="查询改写" aria-pressed="false">查询改写<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="模型压缩" aria-pressed="false">模型压缩<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="流式训练" aria-pressed="false">流式训练<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="目标注意力" aria-pressed="false">目标注意力<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自动机制设计" aria-pressed="false">自动机制设计<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="长序列建模" aria-pressed="false">长序列建模<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="长期行为序列建模" aria-pressed="false">长期行为序列建模<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="AutoML" aria-pressed="false">AutoML<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="HSTU" aria-pressed="false">HSTU<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="IPS 去偏" aria-pressed="false">IPS 去偏<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LLM Agent" aria-pressed="false">LLM Agent<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LoRA" aria-pressed="false">LoRA<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="MLP-Mixer" aria-pressed="false">MLP-Mixer<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Uplift Modeling" aria-pressed="false">Uplift Modeling<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="个性化搜索" aria-pressed="false">个性化搜索<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="元学习" aria-pressed="false">元学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="动态参数生成" aria-pressed="false">动态参数生成<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="参数高效微调" aria-pressed="false">参数高效微调<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="可微架构搜索" aria-pressed="false">可微架构搜索<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="增量学习" aria-pressed="false">增量学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多域学习" aria-pressed="false">多域学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多归因学习" aria-pressed="false">多归因学习<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="嵌入维度搜索" aria-pressed="false">嵌入维度搜索<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="嵌入表剪枝" aria-pressed="false">嵌入表剪枝<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="工业级部署" aria-pressed="false">工业级部署<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="延迟反馈建模" aria-pressed="false">延迟反馈建模<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="有序回归" aria-pressed="false">有序回归<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="权重共享NAS" aria-pressed="false">权重共享NAS<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="概率校准" aria-pressed="false">概率校准<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="流式训练" aria-pressed="false">流式训练<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="特征交互" aria-pressed="false">特征交互<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式预训练" aria-pressed="false">生成式预训练<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="用户行为建模" aria-pressed="false">用户行为建模<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="神经架构搜索" aria-pressed="false">神经架构搜索<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="稀疏MoE" aria-pressed="false">稀疏MoE<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="纵向联邦学习" aria-pressed="false">纵向联邦学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="线性注意力" aria-pressed="false">线性注意力<span class="paper-tag-filter__count">2</span></button>
@@ -90,11 +100,20 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="观看时长预测" aria-pressed="false">观看时长预测<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="负迁移" aria-pressed="false">负迁移<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="负迁移抑制" aria-pressed="false">负迁移抑制<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="超图神经网络" aria-pressed="false">超图神经网络<span class="paper-tag-filter__count">2</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>
 
 <dl data-paper-list>
+<dt data-paper-tags="[&quot;AAAI 2022&quot;,&quot;多任务学习与列表级重排&quot;,&quot;精排&quot;,&quot;Cross-Task Knowledge Distillation&quot;,&quot;Quadruplet Ranking&quot;,&quot;Calibrated Distillation&quot;]"><strong><a href="../../venues/AAAI/2022/multi_task_reranking/cross_task_knowledge_distillation_in_multi_task_recommendation/">Cross-Task Knowledge Distillation in Multi-Task Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用四元组辅助排序任务捕获跨任务细粒度排序知识，经校准蒸馏与误差纠错同步训练，在 TikTok/微信朋友圈样本级 AUC/Multi-AUC 显著提升。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排后处理&quot;,&quot;概率校准&quot;,&quot;IPS 去偏&quot;]"><strong><a href="../../venues/AAAI/2022/ctr_feature_interaction/obtaining_calibrated_probabilities_with_personalized_ranking_models/">Obtaining Calibrated Probabilities with Personalized Ranking Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出 Gaussian/Gamma 参数化校准与 IPS 无偏风险最小化，校准个性化排序分数，ECE 最高降 25.85%。</p>
+</dd>
 <dt data-paper-tags="[&quot;AAAI 2023&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;低精度训练&quot;,&quot;嵌入表压缩&quot;,&quot;量化&quot;]"><strong><a href="../../venues/AAAI/2023/ctr_feature_interaction/adaptive_low_precision_training_for_embeddings_in_click_through_rate_predic/">Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>提出 ALPT，用随机舍入与逐特征可学习步长训练低精度嵌入表，在 Criteo/Avazu 上实现 8-bit 无损压缩与 3.2× 训练内存压缩。</p>
@@ -135,6 +154,10 @@ hide:
 <dd>
 <p>将序列长度作为条件信号注入提示与注意力温度，缓解短序列用户注意力极化，五骨干平均AUC最高+1.15%。</p>
 </dd>
+<dt data-paper-tags="[&quot;NAACL&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;广告诉求抽取&quot;,&quot;文本辅助特征&quot;]"><strong><a href="../../venues/ACL_EMNLP/2022/ctr_feature_interaction/aspect_based_analysis_of_advertising_appeals_for_search_engine_advertising/">Aspect-based Analysis of Advertising Appeals for Search Engine Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>构建 21 类广告诉求 (A³) 标注体系，用 BERT 检测诉求并作为辅助特征注入 CTR 回归，AUC 相对提升 4.4%</p>
+</dd>
 <dt data-paper-tags="[&quot;EMNLP 2024 Industry&quot;,&quot;CTR/CVR预估与特征交叉&quot;,&quot;召回&quot;,&quot;Fusion-in-Decoder&quot;,&quot;Context Glancing&quot;]"><strong><a href="../../venues/ACL_EMNLP/2024/ctr_feature_interaction/improving_retrieval_in_sponsored_search_by_leveraging_query_context_signals/">Improving Retrieval in Sponsored Search by Leveraging Query Context Signals</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>用Web结果与GPT-4 Query Profile增强查询，FiD融合dense/NAR检索，P@100提升19.9%，在线收入+1.4%。</p>
@@ -143,9 +166,49 @@ hide:
 <dd>
 <p>用 GCN 检索器替代 LLM embedder 加速 RAG，并以多头早退动态终止 LLM 推理，在 5 个 CTR 数据集上兼顾 AUC 与吞吐。</p>
 </dd>
+<dt data-paper-tags="[&quot;ACM MM 2022&quot;,&quot;去偏公平与工业架构&quot;,&quot;精排&quot;,&quot;时长偏差&quot;,&quot;对抗学习&quot;]"><strong><a href="../../venues/ACM_MM/2022/debias_fairness_industrial/dvr_micro_video_recommendation_optimizing_watch_time_gain_under_duration_bi/">DVR: Micro-Video Recommendation Optimizing Watch-Time-Gain under Duration Bias</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出去时长偏差的无偏指标 WTG/DCWTG 与模型无关的对抗去偏框架 DVR，在两个真实微视频数据集上 WTG@10 相对提升逾 300%。</p>
+</dd>
 <dt data-paper-tags="[&quot;ACM MM 2023&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排/创意上线前预评估&quot;,&quot;多模态CTR预测&quot;,&quot;注意力热图归因&quot;,&quot;LLM广告内容分析&quot;]"><strong><a href="../../venues/ACM_MM/2023/ctr_feature_interaction/against_opacity_explainable_ai_and_large_language_models_for_effective_digi/">Against Opacity: Explainable AI and Large Language Models for Effective Digital Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>以 ViT 替换 ABN 构建 SoWide-v2 多模态三档 CTR 分类器，并用注意力热图与 GPT-3.5 流水线 SODA 为广告主侧提供可解释、可执行的创意优化洞察。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;异构图神经网络&quot;,&quot;双查询注意力融合&quot;,&quot;距离协方差&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/aminergnn_heterogeneous_graph_neural_network_for_paper_click_through_rate_p/">AMinerGNN: Heterogeneous Graph Neural Network for Paper Click-through Rate Prediction with Fusion Query</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>构建 user-paper-keyword 异构图统一表征，用距离协方差注意力动态融合 userID 与 keyword 双查询，AMiner_KRS 上 AUC 0.899（较 MGDSPR +3.2%），线上 UV-CTR 提升 9.6%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;图检索中心节点&quot;,&quot;多场景短期意图&quot;,&quot;个性化门控融合&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/graph_based_long_term_and_short_term_interest_model_for_click_through_rate_/">Graph Based Long-Term And Short-Term Interest Model for Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用图检索结构替代长行为截断/硬类目过滤，结合多场景 GRU 短期意图与个性化门控融合，离线 AUC 达 0.9830，线上 CTR +4.9%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;长短期兴趣解耦&quot;,&quot;自监督对比学习&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/hierarchically_fusing_long_and_short_term_user_interests_for_click_through_/">Hierarchically Fusing Long and Short-Term User Interests for Click-Through Rate Prediction in Product Search</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>HIFN 以查询/目标/因果三路编码短期兴趣、注意力聚合长期兴趣、门控自适应融合并用自监督代理对比解耦长短期，Fliggy 线上 CTR +5.13%</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;粗排&quot;,&quot;双塔模型&quot;,&quot;早期特征交互&quot;,&quot;对比学习正则&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/inttower_the_next_generation_of_two_tower_model_for_pre_ranking_system/">IntTower: the Next Generation of Two-Tower Model for Pre-Ranking System</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用 Light-SE 特征选择、FE-Block 早期细粒度交互与对比交互正则，在保持双塔解耦部署的前提下逼近单塔精排效果。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;Hawkes Process&quot;,&quot;Hierarchical RNN&quot;,&quot;Entire Space Multi-Task&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/multi_scale_user_behavior_network_for_entire_space_multi_task_learning/">Multi-Scale User Behavior Network for Entire Space Multi-Task Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>分层循环网络 HEROES 用 Hawkes 过程与门控跨层通道，在 observation→click→conversion 全空间多尺度建模用户行为，CVR AUC 最高相对提升 11.2%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;CTR预估与特征交叉&quot;,&quot;召回/精排嵌入层&quot;,&quot;嵌入表剪枝&quot;,&quot;神经架构搜索&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/optembed_learning_optimal_embedding_table_for_click_through_rate_prediction/">OptEmbed: Learning Optimal Embedding Table for Click-through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用可学习场级阈值剪冗余嵌入 + 均匀采样超网与进化搜索定场级维度，在 Criteo/Avazu/KDD12 上省 39%–97% 参数且 AUC 最高 +0.15%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;LSH哈希采样&quot;,&quot;长序列用户兴趣建模&quot;,&quot;端到端训练&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/sampling_is_all_you_need_on_modeling_long_term_user_behaviors_for_ctr_predi/">Sampling Is All You Need on Modeling Long-Term User Behaviors for CTR Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用多轮 SimHash 碰撞概率替代 target attention，直接 gather 同签名行为构造长序列用户兴趣，AUC 媲美全注意力且训练快 5–11×，美团线上升 +2.98% CTR。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;长用户行为序列建模&quot;,&quot;稀疏注意力记忆网络&quot;,&quot;实时推理效率&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/sparse_attentive_memory_network_for_click_through_rate_prediction_with_long/">Sparse Attentive Memory Network for Click-through Rate Prediction with Long Sequences</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以目标物品为 Query、千长行为序列为知识库，用目标+记忆双查询稀疏注意力与 O(1) 次迭代记忆更新，实现 O(L) 复杂度长序列 CTR 建模，线上 A/B 提升 CTR 7.30%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;CTR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;对比学习视觉编码&quot;,&quot;样本选择偏差去偏&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/visual_encoding_and_debiasing_for_ctr_prediction/">Visual Encoding and Debiasing for CTR Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用自监督+点击监督两阶段对比学习微调视觉编码器，并在 CTR 塔内加对比去偏网络与门控融合，淘宝十亿级数据 AUC +6.8%、线上 CTR +4~5%。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM 2023&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;增量更新&quot;,&quot;特征先验&quot;,&quot;贝叶斯模型先验&quot;,&quot;长尾物品&quot;]"><strong><a href="../../venues/CIKM/2023/ctr_feature_interaction/an_incremental_update_framework_for_online_recommenders_with_data_driven_pr/">An Incremental Update Framework for Online Recommenders with Data-Driven Prior</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -383,6 +446,10 @@ hide:
 <dd>
 <p>用多层模糊神经网络端到端学习可读逻辑规则预测新闻点击，阈值可调控制规则复杂度，EB-NeRD 上 nDCG@10 相对 NRMS 提升约 21.9%。</p>
 </dd>
+<dt data-paper-tags="[&quot;ICDE 2022&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;兴趣级自监督对比学习&quot;,&quot;多兴趣建模&quot;]"><strong><a href="../../venues/ICDE/2022/ctr_feature_interaction/miss_multi_interest_self_supervised_learning_framework_for_click_through_ra/">MISS: Multi-Interest Self-Supervised Learning Framework for Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以 CNN 抽取多兴趣视图并施加兴趣级 InfoNCE 对比，作为即插即用模块提升 CTR，AUC 最高相对提升 13.55%。</p>
+</dd>
 <dt data-paper-tags="[&quot;ICDE 2025&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;召回&quot;,&quot;关键词推荐&quot;,&quot;二分图抽取&quot;,&quot;极端多标签分类&quot;]"><strong><a href="../../venues/ICDE/2025/ctr_feature_interaction/graphex_a_graph_based_extraction_method_for_advertiser_keyphrase_recommenda/">GraphEx: A Graph-based Extraction Method for Advertiser Keyphrase Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用二分图从商品标题抽取关键词排列，绕开点击数据偏差，CPU 毫秒级推理，线上广告收入提升 8.3%。</p>
@@ -390,6 +457,10 @@ hide:
 <dt data-paper-tags="[&quot;ICDE 2026&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;查询改写&quot;,&quot;GRPO 强化学习&quot;]"><strong><a href="../../venues/ICDE/2026/llm_rec/relevance_matters_a_multi_task_and_multi_stage_large_language_model_approac/">Relevance Matters: A Multi-Task and Multi-Stage Large Language Model Approach for E-commerce Query Rewriting</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>将相关性打标任务注入电商查询改写，多任务 SFT + 查询级归一化 GRPO 融合奖励对齐，离线召回 67.94%、线上 UCVR +0.181%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDM&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;用户行为建模&quot;,&quot;字段对选择&quot;,&quot;注意力剪枝&quot;]"><strong><a href="../../venues/ICDM/2022/ctr_feature_interaction/autoattention_automatic_field_pair_selection_for_attention_in_user_behavior/">AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将全部 item/user/context 字段纳入注意力查询，学习字段对权重并剪枝自动选对，Alibaba/Tencent 用户加权 AUC 相对提升 2.19%/3.58%。</p>
 </dd>
 <dt data-paper-tags="[&quot;ICDM&quot;,&quot;协同过滤与双塔召回&quot;,&quot;精排&quot;,&quot;双层用户建模&quot;,&quot;双极组嵌入&quot;,&quot;正交解耦&quot;]"><strong><a href="../../venues/ICDM/2024/collaborative_filtering/gprec_bi_level_user_modeling_for_deep_recommenders/">GPRec: Bi-level User Modeling for Deep Recommenders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
@@ -406,6 +477,22 @@ hide:
 <dt data-paper-tags="[&quot;ICDM 2025&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;反事实推断&quot;,&quot;结构因果模型&quot;,&quot;全空间 CVR 建模&quot;]"><strong><a href="../../venues/ICDM/2025/ctr_feature_interaction/on_predicting_post_click_conversion_rate_via_counterfactual_inference/">On Predicting Post-Click Conversion Rate via Counterfactual Inference</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 SCM 对未点击样本做 do(C=1) 反事实推断生成转化伪标签，全空间训练 CVR 模型，离线 AUC 平均 +1.01%，线上 CVR +17.35%。</p>
+</dd>
+<dt data-paper-tags="[&quot;NeurIPS&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;动态参数生成&quot;,&quot;低秩分解&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2022/ctr_feature_interaction/apg_adaptive_parameter_generation_network_for_click_through_rate_prediction/">APG: Adaptive Parameter Generation Network for Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以实例条件动态生成低秩参数矩阵，解耦共享/特定模式，AUC普遍提升且训练内存大降。</p>
+</dd>
+<dt data-paper-tags="[&quot;NeurIPS&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;策略层/预算约束决策&quot;,&quot;Contextual Bandits with Knapsacks&quot;,&quot;Conversion Model&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2022/rl_bandit_rec/contextual_bandits_with_knapsacks_for_a_conversion_model/">Contextual Bandits with Knapsacks for a Conversion Model</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用转化耦合的CBwK与Logistic-UCB+原始LP实现(OPT/B)√T遗憾并硬预算约束。</p>
+</dd>
+<dt data-paper-tags="[&quot;NeurIPS&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;延迟反馈&quot;,&quot;重要性重加权&quot;,&quot;流式训练&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2022/ctr_feature_interaction/generalized_delayed_feedback_model_with_post_click_information_in_recommend/">Generalized Delayed Feedback Model with Post-Click Information in Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将点击后行为统一为随机后验反馈，用条件熵与时间衰减重加权代理损失，流式训练下 CVR 相对提升至 Oracle 差距的 74.9%/79.4%</p>
+</dd>
+<dt data-paper-tags="[&quot;NeurIPS&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;富媒体广告拍卖&quot;,&quot;单调分配规则&quot;,&quot;无政府代价 PoA&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2022/ctr_feature_interaction/simple_mechanisms_for_welfare_maximization_in_rich_advertising_auctions/">Simple Mechanisms for Welfare Maximization in Rich Advertising Auctions</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以绝对性价比单调分配广告空间再随机混合最大价值创意，得 3-近似诚实富媒体广告拍卖，GSP 下 PoA≤6，实测达 VCG 的 0.95 且快 9 倍。</p>
 </dd>
 <dt data-paper-tags="[&quot;ICML&quot;,&quot;CTR预估与特征交叉&quot;,&quot;机制设计/拍卖定价&quot;,&quot;UCB 在线学习&quot;,&quot;负遗憾 (Negative Regret)&quot;,&quot;点击付费拍卖&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2023/ctr_feature_interaction/improved_online_learning_algorithms_for_ctr_prediction_in_ad_auctions/">Improved Online Learning Algorithms for CTR Prediction in Ad Auctions</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -451,6 +538,14 @@ hide:
 <dd>
 <p>证明价值最大化自动出价方在“最高价值者出价”协调机制下，RoS 合规与联盟总价值均优于独立出价，并给出充要条件与渐近最优性。</p>
 </dd>
+<dt data-paper-tags="[&quot;IJCAI 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排（广告位拍卖/机制层）&quot;,&quot;GSP拍卖&quot;,&quot;组级公平分配&quot;,&quot;EF1/EFX&quot;,&quot;无遗憾学习&quot;]"><strong><a href="../../venues/IJCAI/2022/ctr_feature_interaction/fair_equilibria_in_sponsored_search_auctions_the_advertisers_perspective/">Fair Equilibria in Sponsored Search Auctions: The Advertisers&#x27; Perspective</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>在 GSP 后接组级 EF1/EFX 公平分配并补偿受损广告主，证明无遗憾学习收敛到高社会福利均衡；真实日志上公平损失≤10%，补偿占收入20–40%。</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回（Next-Item 检索）&quot;,&quot;MLP-Mixer&quot;,&quot;三向信息融合&quot;]"><strong><a href="../../venues/IJCAI/2022/sequential_rec/mlp4rec_a_pure_mlp_architecture_for_sequential_recommendations/">MLP4Rec: A Pure MLP Architecture for Sequential Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用纯 MLP 的三向 Mixer（序列/通道/特征）替代自注意力，免位置编码、线性复杂度，Beauty 上 HR@10 提升 6.4%。</p>
+</dd>
 <dt data-paper-tags="[&quot;IJCAI 2023&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;长序列行为检索&quot;,&quot;多类型行为融合&quot;,&quot;边信息解耦注意力&quot;]"><strong><a href="../../venues/IJCAI/2023/sequential_rec/a_survey_on_user_behavior_modeling_in_recommender_systems/">A Survey on User Behavior Modeling in Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>以长度/类型/边信息三轴重划 UBM 为四类范式，串联代表模型与线上收益，论证长序列检索与解耦边信息最具落地性</p>
@@ -462,6 +557,22 @@ hide:
 <dt data-paper-tags="[&quot;IJCAI 2023&quot;,&quot;CTR/CVR预估与特征交叉&quot;,&quot;精排/拍卖分配&quot;,&quot;真实拍卖&quot;,&quot;自动出价&quot;,&quot;临界ROI&quot;]"><strong><a href="../../venues/IJCAI/2023/ctr_feature_interaction/truthful_auctions_for_automated_bidding_in_online_advertising/">Truthful Auctions for Automated Bidding in Online Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>面向自动出价公共估值与私有预算/ROI，提出DSIC拍卖；合成实验收入/福利超一价二价且达最优90%+。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排&quot;,&quot;探索-利用权衡 (E&amp;E)&quot;,&quot;对抗梯度扰动&quot;,&quot;反馈回路去偏&quot;]"><strong><a href="../../venues/KDD/2022/rl_bandit_rec/adversarial_gradient_driven_exploration_for_deep_click_through_rate_predict/">Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>把探索价值从“不确定性估计”重构为“对抗扰动引发的模型更新收益”，并配合动态门控在 Yahoo! R6B 与阿里展示广告线上 A/B 取得 CTR +6.4% 的收益。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排（出价预估）&quot;,&quot;删失数据建模&quot;,&quot;邻域似然损失&quot;,&quot;特征交叉&quot;]"><strong><a href="../../venues/KDD/2022/ctr_feature_interaction/arbitrary_distribution_modeling_with_censorship_in_real_time_bidding_advert/">Arbitrary Distribution Modeling with Censorship in Real-Time Bidding Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出邻域似然损失 NLL + ADM 框架，在无分布假设下建模 RTB 中标价删失分布，MAE 较 DLF 降 29%，推理仅 3ms。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排&quot;,&quot;时长混杂偏差&quot;,&quot;后门调整&quot;,&quot;观看时长分位数回归&quot;]"><strong><a href="../../venues/KDD/2022/debias_fairness_industrial/deconfounding_duration_bias_in_watch_time_prediction_for_video_recommendati/">Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用因果图指出视频时长是同时影响曝光与观看时长的混杂因子，提出分时长组的分位数回归 D2Q/Res-D2Q，在快手 13 亿样本与线上 A/B 中显著提升观看时长。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;超图神经网络&quot;,&quot;互信息最大化&quot;,&quot;任意阶特征交互&quot;]"><strong><a href="../../venues/KDD/2022/ctr_feature_interaction/detecting_arbitrary_order_beneficial_feature_interactions_for_recommender_s/">Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>HIRS 用超图超边预测直接生成任意阶有益特征交互，以 s-Infomax/Infomin 三性质约束 + L0 稀疏正则引导生成，ML-1M R@10 相对最优基线提升 5.0%。</p>
 </dd>
 <dt data-paper-tags="[&quot;KDD&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;负迁移抑制&quot;,&quot;样本级信息流加权&quot;,&quot;强化学习选择器&quot;]"><strong><a href="../../venues/KDD/2023/cross_domain_multi_scenario/a_collaborative_transfer_learning_framework_for_cross_domain_recommendation/">A Collaborative Transfer Learning Framework for Cross-domain Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -615,6 +726,18 @@ hide:
 <dd>
 <p>将多任务推理内化进 Transformer 栈，用任务私有 token 通道 + 梯度截断 + 匹配式打分替代编码器-预测器分离，Shopee 离线与线上 A/B 全面领先。</p>
 </dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;在线推理服务(端到端)&quot;,&quot;GPU 嵌入缓存&quot;,&quot;层次化参数服务器&quot;]"><strong><a href="../../venues/RecSys/2022/debias_fairness_industrial/a_gpu_specialized_inference_parameter_server_for_large_scale_deep_recommend/">A GPU-specialized Inference Parameter Server for Large-Scale Deep Recommendation Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>HugeCTR HPS 用 GPU 嵌入缓存 + CPU/SSD 三级层次存储，把 TB 级嵌入表推理下沉到 GPU，端到端延迟相对 CPU 基线加速 5–62×。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;增量学习&quot;,&quot;知识蒸馏&quot;,&quot;Warm-Start&quot;]"><strong><a href="../../venues/RecSys/2022/ctr_feature_interaction/an_incremental_learning_framework_for_large_scale_ctr_prediction/">An Incremental Learning framework for Large-scale CTR Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>Taboola 用 Warm-Start 初始化并从旧教师蒸馏，仅在数小时新样本上微调，训练提速 12.5×，线上 A/B 的 RPM 提升 0.53%–0.85%，新内容 CTR 显著上升。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2022&quot;,&quot;工业架构与系统&quot;,&quot;精排训练与在线推理服务&quot;,&quot;Hybrid Sparse Embedding&quot;,&quot;Hierarchical Parameter Server&quot;]"><strong><a href="../../venues/RecSys/2022/debias_fairness_industrial/merlin_hugectr_gpu_accelerated_recommender_system_training_and_inference/">Merlin HugeCTR: GPU-accelerated Recommender System Training and Inference</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>面向 TB 级 CTR 模型的 GPU 训练/推理一体化框架：混合稀疏并行、嵌入训练缓存 ETC 与三级分层参数服务器 HPS，MLPerf DLRM 训练最高 24.6×、在线推理 5~62× 加速。</p>
+</dd>
 <dt data-paper-tags="[&quot;RecSys&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;情境特征建模&quot;,&quot;Gumbel-Softmax去噪&quot;,&quot;MLP-Mixer&quot;]"><strong><a href="../../venues/RecSys/2023/ctr_feature_interaction/deep_situation_aware_interaction_network_for_click_through_rate_prediction/">Deep Situation-Aware Interaction Network for Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>提出“情境(situation)”概念，用 Gumbel-Softmax 去噪 + 三向 MLP-Mixer 融合行为类型/时空情境特征，美团外卖线上 CTR +2.70%、GMV +2.16%。</p>
@@ -742,6 +865,50 @@ hide:
 <dt data-paper-tags="[&quot;RecSys&quot;,&quot;生成式推荐&quot;,&quot;Chain-of-Attribute&quot;,&quot;Capacity-constrained SID&quot;,&quot;语义ID&quot;]"><strong><a href="../../venues/RecSys/2026/generative_rec/unirec_bridging_the_expressive_gap_between_generative_and_discriminative_re/">UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用贝叶斯等价性证明生成式推荐差距源于特征覆盖，以属性链 CoA 前缀解码 + 容量约束 SID + 条件解码上下文补齐，Shopee 线上 GMV +5.60%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;长时行为序列建模&quot;,&quot;对抗训练与行为去噪&quot;]"><strong><a href="../../venues/SIGIR/2022/ctr_feature_interaction/adversarial_filtering_modeling_on_long_term_user_behavior_sequences_for_cli/">Adversarial Filtering Modeling on Long-term User Behavior Sequences for Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用分层聚合压缩重复行为、自注意力打分门选 top-k 行为，并以对抗训练（IEU 最小化、BSU 最大化剩余序列损失）剔除长序列噪声行为，工业集 AUC +0.0047、线上 CTR +4.7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回/训练目标&quot;,&quot;损失函数自动生成&quot;,&quot;强化学习搜索&quot;,&quot;奖励过滤&quot;]"><strong><a href="../../venues/SIGIR/2022/collaborative_filtering/autolossgen_automatic_loss_function_generation_for_recommender_systems/">AutoLossGen: Automatic Loss Function Generation for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用 RNN 控制器在基础算子空间上以 RL 从零搜索损失函数，配合代理测试与奖励过滤克服稀疏奖励，生成 MaxR/SumR 在 AUC 上稳定超过 MSE/BCE/Hinge/Focal。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;去偏公平与工业架构&quot;,&quot;召回/精排双阶段&quot;,&quot;开放基准与可复现性&quot;,&quot;Full-Ranking 评测协议&quot;]"><strong><a href="../../venues/SIGIR/2022/debias_fairness_industrial/bars_towards_open_benchmarking_for_recommender_systems/">BARS: Towards Open Benchmarking for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出含 7 项标准产物的开放基准流水线，固化数据划分与评测协议 ID，在 6 数据集 70+ 模型上完成 8000+ 次全库排序与 CTR 复现实验，揭示近年增益被系统性夸大。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;序列与会话推荐&quot;,&quot;CTR预估&quot;,&quot;时间周期建模&quot;,&quot;行为去噪&quot;,&quot;时间嵌入&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/denoising_time_cycle_modeling_for_recommendation/">Denoising Time Cycle Modeling for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>DiCycle 用绝对/相对时间核编码 + 门控去噪分别刻画 ATC/RTC 两种周期模式，CTR 预测在 LastFM/ML-1M/Books/工业集上 AUC 稳定超越时序基线。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;CTR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;特征精炼&quot;,&quot;上下文感知表示&quot;,&quot;比特级门控&quot;]"><strong><a href="../../venues/SIGIR/2022/ctr_feature_interaction/enhancing_ctr_prediction_with_context_aware_feature_representation_learning/">Enhancing CTR Prediction with Context-Aware Feature Representation Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>FRNet 通过比特级门控融合原始特征与互补特征，为每条样本生成上下文感知的特征表示，即插即用并显著提升多种 CTR 模型。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;属性树聚合&quot;,&quot;层次意图建模&quot;]"><strong><a href="../../venues/SIGIR/2022/ctr_feature_interaction/hien_hierarchical_intention_embedding_network_for_click_through_rate_predic/">HIEN: Hierarchical Intention Embedding Network for Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用属性树自底向上聚合 + 层次注意力双向意图建模精修Embedding，作为即插即用输入模块，在阿里/Tmall/腾讯三个数据集上AUC较DG-ENN最高提升0.86%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;多任务学习与列表级重排&quot;,&quot;重排&quot;,&quot;set2list 交互&quot;,&quot;排列不变性&quot;]"><strong><a href="../../venues/SIGIR/2022/multi_task_reranking/multi_level_interaction_reranking_with_user_behavior_history/">Multi-Level Interaction Reranking with User Behavior History</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>MIR 将候选集视为无序集合、用户历史视为时序列表，用 SLAttention 做 set2list 跨层交互并保证排列不变性，三数据集全指标超越 SOTA。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;异构信息网络&quot;,&quot;Graph-Masked Transformer&quot;,&quot;一致性正则&quot;]"><strong><a href="../../venues/SIGIR/2022/ctr_feature_interaction/neighbour_interaction_based_click_through_rate_prediction_via_graph_masked_/">Neighbour Interaction based Click-Through Rate Prediction via Graph-masked Transformer</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将 CTR 重建为异构信息图上 user-item 局部邻域连边预测，用四类交互图 + 头分组图掩码 Transformer 编码邻域，微信线上 CTR +21.9%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;概率校准&quot;,&quot;保序回归&quot;,&quot;自适应分箱&quot;]"><strong><a href="../../venues/SIGIR/2022/ctr_feature_interaction/posterior_probability_matters_doubly_adaptive_calibration_for_neural_predic/">Posterior Probability Matters: Doubly-Adaptive Calibration for Neural Predictions in Online Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出 AdaCalib，用后验统计引导的分段线性保序函数族做字段级概率校准，并以频率驱动的自适应分箱匹配字段取值，Field-RCE 相对降 10%~70%，线上 CVR +5.05%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;去偏公平与工业架构&quot;,&quot;精排&quot;,&quot;自校正损失&quot;,&quot;持续学习&quot;,&quot;CTR 预估&quot;]"><strong><a href="../../venues/SIGIR/2022/debias_fairness_industrial/reloop_a_self_correction_continual_learning_loop_for_recommender_systems/">ReLoop: A Self-Correction Continual Learning Loop for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用 hinge 式自校正损失惩罚“比上一版模型预测更差”的样本，零推理开销地把增量重训练变成纠错闭环，公开集 AUC 最高 +4.69%，线上 CTR +1.46%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;CTR预估与特征交叉&quot;,&quot;召回&quot;,&quot;嵌入维度搜索&quot;,&quot;单次剪枝&quot;,&quot;混合维度嵌入&quot;]"><strong><a href="../../venues/SIGIR/2022/ctr_feature_interaction/single_shot_embedding_dimension_search_in_recommender_system/">Single-shot Embedding Dimension Search in Recommender System</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>SSEDS 用一次前向-反向的梯度显著性打分完成字段级嵌入维度剪枝，90% 参数下 AUC 反升，并在微信订阅号 A/B 提升约 4% CTR。</p>
 </dd>
 <dt data-paper-tags="[&quot;SIGIR&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;时间感知序列推荐&quot;,&quot;高斯混合注意力&quot;,&quot;Attentive FISM&quot;]"><strong><a href="../../venues/SIGIR/2023/sequential_rec/attention_mixtures_for_time_aware_sequential_recommendation/">Attention Mixtures for Time-Aware Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -987,6 +1154,18 @@ hide:
 <dd>
 <p>用权重共享超网 NAS 在稠密连接+异构算子+维度+量化空间上自动搜索 CTR 模型，Criteo/KDD 降 0.001~0.003 LogLoss，FLOPs 降 8.5×。</p>
 </dd>
+<dt data-paper-tags="[&quot;WSDM 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;Auto-bidding 自动出价&quot;,&quot;多智能体强化学习&quot;,&quot;信用分配&quot;]"><strong><a href="../../venues/WSDM/2022/ctr_feature_interaction/a_cooperative_competitive_multi_agent_framework_for_auto_bidding_in_online_/">A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以温度正则化信用分配构建合作-竞争混合多智能体出价框架 MAAB，配合 bar agent 与均值智能体，在离线仿真与淘宝在线 A/B 上同时提升社会福利与平台收入。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2022&quot;,&quot;序列与会话推荐&quot;,&quot;重排&quot;,&quot;Transformer&quot;,&quot;Attention2D&quot;,&quot;多属性序列&quot;]"><strong><a href="../../venues/WSDM/2022/sequential_rec/sequential_modeling_with_multiple_attributes_for_watchlist_recommendation_i/">Sequential Modeling with Multiple Attributes for Watchlist Recommendation in E-Commerce</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出Trans2D/Attention2D，在item×attribute二维序列上建模三类交互，用于eBay watchlist重排；P@1较最佳基线提升11.3%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;Triangle Motif&quot;,&quot;DPP Diversity&quot;]"><strong><a href="../../venues/WSDM/2022/ctr_feature_interaction/triangle_graph_interest_network_for_click_through_rate_prediction/">Triangle Graph Interest Network for Click-through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以物品共现图三角形为兴趣单元，DPP 选多样相关三角；AUC 较 DMIN 最高提升 4.49%。</p>
+</dd>
 <dt data-paper-tags="[&quot;WSDM&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;对比学习&quot;,&quot;特征表征学习&quot;,&quot;长尾低频特征&quot;]"><strong><a href="../../venues/WSDM/2023/ctr_feature_interaction/cl4ctr_a_contrastive_learning_framework_for_ctr_prediction/">CL4CTR: A Contrastive Learning Framework for CTR Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>用随机/特征/维度三种嵌入扰动构造正对，叠加同域对齐与跨域均匀性三项自监督信号正则化嵌入层，模型无关且零推理开销，四数据集 AUC/LogLoss 全面超越 DCN-V2。</p>
@@ -1010,6 +1189,26 @@ hide:
 <dt data-paper-tags="[&quot;WSDM 2026&quot;,&quot;生成式推荐&quot;,&quot;精排&quot;,&quot;大用户模型&quot;,&quot;条件 Token 生成&quot;,&quot;生成到判别范式&quot;]"><strong><a href="../../venues/WSDM/2026/generative_rec/unlocking_scaling_law_in_industrial_recommendation_systems_with_a_three_ste/">Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>提出 LUM 三步范式（生成预训练→条件查询→判别式 DLRM 融合），以 next-condition-item 预测打通生成与判别，7B 参数下稳定扩展，线上 CTR +2.9%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;AutoML 特征选择&quot;,&quot;Gumbel-Softmax&quot;]"><strong><a href="../../venues/WWW/2022/ctr_feature_interaction/autofield_automating_feature_selection_in_deep_recommender_systems/">AutoField: Automating Feature Selection in Deep Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用可微控制器 + Gumbel-Softmax 双层优化自动筛选特征域，Avazu 砍掉 50% 域反而涨点并加速推理 4%–17%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排/机制设计&quot;,&quot;校准信息结构&quot;,&quot;GSP 拍卖&quot;,&quot;贝叶斯信息设计&quot;]"><strong><a href="../../venues/WWW/2022/ctr_feature_interaction/calibrated_click_through_auctions_an_information_design_approach/">Calibrated Click-Through Auctions: An Information Design Approach</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将 GSP 点击通过拍卖的信息披露问题建模为校准约束下的最优无偏 CTR 估计量设计，证明私密+相关信号可在对称环境中同时达成社会效率与近乎完全剩余榨取。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;超图神经网络&quot;,&quot;个性化商品搜索&quot;,&quot;邻居特征交互&quot;]"><strong><a href="../../venues/WWW/2022/graph_rec/ihgnn_interactive_hypergraph_neural_network_for_personalized_product_search/">IHGNN: Interactive Hypergraph Neural Network for Personalized Product Search</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用 user-query-product 三元超边构图，两步超图传播并显式建模邻居高阶特征交互，HR@10 最高相对提升 8.6%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;粗排/预拍卖&quot;,&quot;两阶段拍卖&quot;,&quot;Pre-Auction Score&quot;,&quot;GSP&quot;]"><strong><a href="../../venues/WWW/2022/ctr_feature_interaction/on_designing_a_two_stage_auction_for_online_advertising/">On Designing a Two-stage Auction for Online Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出 PAS 预拍卖打分，建模广告进入精排 Top-K 的概率，替代粗排 $b\\times ctr$ 贪心选择，在 Amazon Books 与工业拍卖日志上提升社会福利率与收入。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;协同过滤与双塔召回&quot;,&quot;精排&quot;,&quot;双侧交互网络&quot;,&quot;共检索机制&quot;,&quot;直播推荐&quot;]"><strong><a href="../../venues/WWW/2022/collaborative_filtering/who_to_watch_next_two_side_interactive_networks_for_live_broadcast_recommen/">Who to Watch Next: Two-side Interactive Networks for Live Broadcast Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>面向直播推荐的三元组（用户-主播-商品）双侧交互网络，用 PNN+RNN 编码静态/动态特征、双注意力挖掘 AND 交互模式并按类目共检索剪枝，线上 ACTR 提升 8.11%。</p>
 </dd>
 <dt data-paper-tags="[&quot;WWW 2023&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;行为路径匹配&quot;,&quot;对比学习增广&quot;,&quot;序列行为建模&quot;]"><strong><a href="../../venues/WWW/2023/ctr_feature_interaction/a_deep_behavior_path_matching_network_for_click_through_rate_prediction/">A Deep Behavior Path Matching Network for Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>

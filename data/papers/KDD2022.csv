@@ -1,0 +1,28 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest,2205.11728,https://arxiv.org/abs/2205.11728,,multimodal_rec,KDD,2022
+Debiasing the Cloze Task in Sequential Recommendation with Bidirectional Transformers,2301.09210,https://arxiv.org/abs/2301.09210,,debias_fairness_industrial,KDD,2022
+HICF: Hyperbolic Informative Collaborative Filtering,2207.09051,https://arxiv.org/abs/2207.09051,,collaborative_filtering,KDD,2022
+Learning Binarized Graph Representations with Multi-faceted Quantization Reinforcement for Top-K Recommendation,2206.02115,https://arxiv.org/abs/2206.02115,,collaborative_filtering,KDD,2022
+Knowledge-enhanced Black-box Attacks for Recommendations,2207.10307,https://arxiv.org/abs/2207.10307,,debias_fairness_industrial,KDD,2022
+PARSRec: Explainable Personalized Attention-fused Recurrent Sequential Recommendation Using Session Partial Actions,2209.13015,https://arxiv.org/abs/2209.13015,,sequential_rec,KDD,2022
+Affective Signals in a Social Media Recommender System,2206.12374,https://arxiv.org/abs/2206.12374,,multi_task_reranking,KDD,2022
+Towards Universal Sequence Representation Learning for Recommender Systems,2206.05941,https://arxiv.org/abs/2206.05941,https://github.com/RUCAIBox/UniSRec,sequential_rec,KDD,2022
+NxtPost: User to Post Recommendations in Facebook Groups,2202.03645,https://arxiv.org/abs/2202.03645,,sequential_rec,KDD,2022
+CrossCBR: Cross-view Contrastive Learning for Bundle Recommendation,2206.00242,https://arxiv.org/abs/2206.00242,https://github.com/mysbupt/CrossCBR,self_supervised_denoising,KDD,2022
+Arbitrary Distribution Modeling with Censorship in Real-Time Bidding Advertising,2110.13587,https://arxiv.org/abs/2110.13587,,ctr_feature_interaction,KDD,2022
+Intelligent Request Strategy Design in Recommender System,2206.12296,https://arxiv.org/abs/2206.12296,,rl_bandit_rec,KDD,2022
+Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning,2206.09363,https://arxiv.org/abs/2206.09363,https://github.com/RUCAIBox/UniCRS,agent_conversational_rec,KDD,2022
+Detecting Arbitrary Order Beneficial Feature Interactions for Recommender Systems,2206.13764,https://arxiv.org/abs/2206.13764,,ctr_feature_interaction,KDD,2022
+Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction,2112.11136,https://arxiv.org/abs/2112.11136,,rl_bandit_rec,KDD,2022
+Debiasing Learning for Membership Inference Attacks Against Recommender Systems,2206.12401,https://arxiv.org/abs/2206.12401,,debias_fairness_industrial,KDD,2022
+Comprehensive Fair Meta-learned Recommender System,2206.04789,https://arxiv.org/abs/2206.04789,,debias_fairness_industrial,KDD,2022
+Towards Representation Alignment and Uniformity in Collaborative Filtering,2206.12811,https://arxiv.org/abs/2206.12811,https://github.com/THUwangcy/DirectAU,collaborative_filtering,KDD,2022
+FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling,2202.04975,https://arxiv.org/abs/2202.04975,,debias_fairness_industrial,KDD,2022
+AutoShard: Automated Embedding Table Sharding for Recommender Systems,2208.06399,https://arxiv.org/abs/2208.06399,https://github.com/daochenzha/autoshard,debias_fairness_industrial,KDD,2022
+Device-Cloud Collaborative Recommendation via Meta Controller,2207.03066,https://arxiv.org/abs/2207.03066,,debias_fairness_industrial,KDD,2022
+Training Large-Scale News Recommenders with Pretrained Language Models in the Loop,2102.09268,https://arxiv.org/abs/2102.09268,,llm_rec,KDD,2022
+Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation,2207.05584,https://arxiv.org/abs/2207.05584,https://github.com/yuh-yang/MBHT-KDD22,sequential_rec,KDD,2022
+Self-Supervised Hypergraph Transformer for Recommender Systems,2207.14338,https://arxiv.org/abs/2207.14338,https://github.com/akaxlh/SHT,graph_rec,KDD,2022
+Contrastive Cross-domain Recommendation in Matching,2112.00999,https://arxiv.org/abs/2112.00999,https://github.com/lqfarmer/CCDR,cross_domain_multi_scenario,KDD,2022
+Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation,2206.06003,https://arxiv.org/abs/2206.06003,,debias_fairness_industrial,KDD,2022
+Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems,2208.04560,https://arxiv.org/abs/2208.04560,,rl_bandit_rec,KDD,2022

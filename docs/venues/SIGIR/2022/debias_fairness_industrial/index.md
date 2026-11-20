@@ -1,0 +1,93 @@
+---
+hide:
+  - toc
+---
+
+# 🛡️ 去偏公平、可信隐私与工业架构
+
+**SIGIR 2022** · **14** 篇论文解读
+
+> **方向说明**：曝光/流行度/位置因果去偏 (Causal Rec)、双边公平性、联邦防投毒推荐、工业级全链路架构与评测基准
+
+📌 **同领域跨会议浏览：** [SIGIR 2023 (9)](../../2023/debias_fairness_industrial/) · [SIGIR 2024 (5)](../../2024/debias_fairness_industrial/) · [SIGIR 2025 (13)](../../2025/debias_fairness_industrial/) · [SIGIR 2026 (13)](../../2026/debias_fairness_industrial/) · [AAAI (RecSys Track) 2022 (1)](../../../AAAI/2022/debias_fairness_industrial/) · [AAAI (RecSys Track) 2023 (5)](../../../AAAI/2023/debias_fairness_industrial/) · [AAAI (RecSys Track) 2024 (1)](../../../AAAI/2024/debias_fairness_industrial/) · [AAAI (RecSys Track) 2025 (4)](../../../AAAI/2025/debias_fairness_industrial/) · [AAAI (RecSys Track) 2026 (7)](../../../AAAI/2026/debias_fairness_industrial/) · [ACL / EMNLP (RecSys & CRS) 2022 (1)](../../../ACL_EMNLP/2022/debias_fairness_industrial/) · [ACL / EMNLP (RecSys & CRS) 2024 (1)](../../../ACL_EMNLP/2024/debias_fairness_industrial/) · [ACL / EMNLP (RecSys & CRS) 2025 (5)](../../../ACL_EMNLP/2025/debias_fairness_industrial/) · [ACL / EMNLP (RecSys & CRS) 2026 (3)](../../../ACL_EMNLP/2026/debias_fairness_industrial/) · [ACM MM 2022 (1)](../../../ACM_MM/2022/debias_fairness_industrial/) · [ACM MM 2023 (2)](../../../ACM_MM/2023/debias_fairness_industrial/) · [ACM MM 2025 (1)](../../../ACM_MM/2025/debias_fairness_industrial/) · [ACM MM 2026 (1)](../../../ACM_MM/2026/debias_fairness_industrial/) · [CIKM 2022 (9)](../../../CIKM/2022/debias_fairness_industrial/) · [CIKM 2023 (14)](../../../CIKM/2023/debias_fairness_industrial/) · [CIKM 2024 (4)](../../../CIKM/2024/debias_fairness_industrial/) · [CIKM 2025 (9)](../../../CIKM/2025/debias_fairness_industrial/) · [CIKM 2026 (4)](../../../CIKM/2026/debias_fairness_industrial/) · [DASFAA 2023 (1)](../../../DASFAA/2023/debias_fairness_industrial/) · [DASFAA 2025 (1)](../../../DASFAA/2025/debias_fairness_industrial/) · [ECIR 2022 (2)](../../../ECIR/2022/debias_fairness_industrial/) · [ECIR 2023 (2)](../../../ECIR/2023/debias_fairness_industrial/) · [ECIR 2024 (4)](../../../ECIR/2024/debias_fairness_industrial/) · [ECIR 2025 (6)](../../../ECIR/2025/debias_fairness_industrial/) · [ECIR 2026 (2)](../../../ECIR/2026/debias_fairness_industrial/) · [ICDE 2022 (1)](../../../ICDE/2022/debias_fairness_industrial/) · [ICDE 2024 (3)](../../../ICDE/2024/debias_fairness_industrial/) · [ICDM 2022 (1)](../../../ICDM/2022/debias_fairness_industrial/) · [ICDM 2023 (3)](../../../ICDM/2023/debias_fairness_industrial/) · [ICDM 2024 (1)](../../../ICDM/2024/debias_fairness_industrial/) · [ICDM 2025 (1)](../../../ICDM/2025/debias_fairness_industrial/) · [ICDM 2026 (2)](../../../ICDM/2026/debias_fairness_industrial/) · [ICLR / NeurIPS / ICML (RecSys) 2022 (6)](../../../ICLR_NeurIPS_ICML/2022/debias_fairness_industrial/) · [ICLR / NeurIPS / ICML (RecSys) 2023 (7)](../../../ICLR_NeurIPS_ICML/2023/debias_fairness_industrial/) · [ICLR / NeurIPS / ICML (RecSys) 2024 (7)](../../../ICLR_NeurIPS_ICML/2024/debias_fairness_industrial/) · [ICLR / NeurIPS / ICML (RecSys) 2025 (6)](../../../ICLR_NeurIPS_ICML/2025/debias_fairness_industrial/) · [ICLR / NeurIPS / ICML (RecSys) 2026 (7)](../../../ICLR_NeurIPS_ICML/2026/debias_fairness_industrial/) · [IJCAI (RecSys Track) 2022 (2)](../../../IJCAI/2022/debias_fairness_industrial/) · [IJCAI (RecSys Track) 2023 (1)](../../../IJCAI/2023/debias_fairness_industrial/) · [IJCAI (RecSys Track) 2024 (2)](../../../IJCAI/2024/debias_fairness_industrial/) · [IJCAI (RecSys Track) 2025 (1)](../../../IJCAI/2025/debias_fairness_industrial/) · [IJCAI (RecSys Track) 2026 (1)](../../../IJCAI/2026/debias_fairness_industrial/) · [KDD 2022 (8)](../../../KDD/2022/debias_fairness_industrial/) · [KDD 2023 (6)](../../../KDD/2023/debias_fairness_industrial/) · [KDD 2024 (10)](../../../KDD/2024/debias_fairness_industrial/) · [KDD 2025 (10)](../../../KDD/2025/debias_fairness_industrial/) · [KDD 2026 (7)](../../../KDD/2026/debias_fairness_industrial/) · [RecSys 2022 (7)](../../../RecSys/2022/debias_fairness_industrial/) · [RecSys 2023 (11)](../../../RecSys/2023/debias_fairness_industrial/) · [RecSys 2024 (16)](../../../RecSys/2024/debias_fairness_industrial/) · [RecSys 2025 (9)](../../../RecSys/2025/debias_fairness_industrial/) · [RecSys 2026 (14)](../../../RecSys/2026/debias_fairness_industrial/) · [SIGIR-AP 2023 (1)](../../../SIGIR-AP/2023/debias_fairness_industrial/) · [SIGIR-AP 2025 (2)](../../../SIGIR-AP/2025/debias_fairness_industrial/) · [ACM TKDD 2023 (1)](../../../TKDD/2023/debias_fairness_industrial/) · [ACM TKDD 2024 (1)](../../../TKDD/2024/debias_fairness_industrial/) · [ACM TKDD 2025 (1)](../../../TKDD/2025/debias_fairness_industrial/) · [IEEE TKDE 2022 (1)](../../../TKDE/2022/debias_fairness_industrial/) · [IEEE TKDE 2023 (1)](../../../TKDE/2023/debias_fairness_industrial/) · [IEEE TKDE 2024 (3)](../../../TKDE/2024/debias_fairness_industrial/) · [IEEE TKDE 2025 (6)](../../../TKDE/2025/debias_fairness_industrial/) · [ACM TOIS 2022 (1)](../../../TOIS/2022/debias_fairness_industrial/) · [ACM TOIS 2023 (9)](../../../TOIS/2023/debias_fairness_industrial/) · [ACM TOIS 2024 (7)](../../../TOIS/2024/debias_fairness_industrial/) · [ACM TOIS 2025 (4)](../../../TOIS/2025/debias_fairness_industrial/) · [ACM TOIS 2026 (1)](../../../TOIS/2026/debias_fairness_industrial/) · [ACM TORS 2023 (1)](../../../TORS/2023/debias_fairness_industrial/) · [ACM TORS 2024 (4)](../../../TORS/2024/debias_fairness_industrial/) · [ACM TORS 2025 (7)](../../../TORS/2025/debias_fairness_industrial/) · [ACM TORS 2026 (3)](../../../TORS/2026/debias_fairness_industrial/) · [WSDM 2022 (2)](../../../WSDM/2022/debias_fairness_industrial/) · [WSDM 2023 (3)](../../../WSDM/2023/debias_fairness_industrial/) · [WSDM 2024 (4)](../../../WSDM/2024/debias_fairness_industrial/) · [WSDM 2025 (1)](../../../WSDM/2025/debias_fairness_industrial/) · [WWW (TheWebConf) 2022 (7)](../../../WWW/2022/debias_fairness_industrial/) · [WWW (TheWebConf) 2023 (11)](../../../WWW/2023/debias_fairness_industrial/) · [WWW (TheWebConf) 2024 (20)](../../../WWW/2024/debias_fairness_industrial/) · [WWW (TheWebConf) 2025 (9)](../../../WWW/2025/debias_fairness_industrial/) · [WWW (TheWebConf) 2026 (10)](../../../WWW/2026/debias_fairness_industrial/)
+
+🔥 **高频主题：** 去偏公平与工业架构 ×2
+
+<div class="paper-tag-filter" data-paper-tag-filter>
+  <div class="paper-tag-filter__head">
+    <strong class="paper-tag-filter__title">🏷️ 标签筛选</strong>
+    <span class="paper-tag-filter__hint">仅显示 ≥2 篇论文的标签；默认 AND</span>
+    <span class="paper-tag-filter__mode" role="group" aria-label="标签匹配模式">
+      <button type="button" data-tag-mode="and" aria-pressed="true">AND</button>
+      <button type="button" data-tag-mode="or" aria-pressed="false">OR</button>
+    </span>
+    <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
+  </div>
+  <div class="paper-tag-filter__chips">
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">12</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与工业架构" aria-pressed="false">去偏公平与工业架构<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">2</span></button>
+  </div>
+  <div class="paper-tag-filter__status" data-tag-status></div>
+</div>
+
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;去偏公平与工业架构&quot;,&quot;召回/精排双阶段&quot;,&quot;开放基准与可复现性&quot;,&quot;Full-Ranking 评测协议&quot;]"><strong><a href="bars_towards_open_benchmarking_for_recommender_systems/">BARS: Towards Open Benchmarking for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出含 7 项标准产物的开放基准流水线，固化数据划分与评测协议 ID，在 6 数据集 70+ 模型上完成 8000+ 次全库排序与 CTR 复现实验，揭示近年增益被系统性夸大。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;重排&quot;,&quot;Two-sided Fairness&quot;,&quot;Constrained Re-ranking&quot;,&quot;Greedy MILP Relaxation&quot;]"><strong><a href="cpfair_personalized_consumer_and_producer_fairness_re_ranking_for_recommend/">CPFair: Personalized Consumer and Producer Fairness Re-ranking for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用加性贪心重排把用户侧与物品侧公平偏差同时作为软惩罚，8 数据集上 mCPF 平均降 12.8%~46.9% 且精度不降。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;重排&quot;,&quot;用户公平&quot;,&quot;复现性&quot;]"><strong><a href="experiments_on_generalizability_of_user_oriented_fairness_in_recommender_sy/">Experiments on Generalizability of User-Oriented Fairness in Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>系统复现并泛化评估用户公平重排 UFR：8 数据集 6 基础模型 2 分组，揭示领域/分组/基模型依赖与公平-效用权衡。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排解释&quot;,&quot;反事实解释&quot;,&quot;公平-效用权衡&quot;]"><strong><a href="explainable_fairness_in_recommendation/">Explainable Fairness in Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出反事实可解释公平框架 CEF，用最小特征扰动解释曝光不公平，并在三数据集擦除评测中取得更优公平-效用权衡。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回&quot;,&quot;归一化系数 r&quot;,&quot;流行度去偏&quot;,&quot;LightGCN&quot;]"><strong><a href="investigating_accuracy_novelty_performance_for_graph_based_collaborative_fi/">Investigating Accuracy-Novelty Performance for Graph-based Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>理论证明 GNN 对称归一化是流行度偏置之源，提出零开销插件 r-AdjNorm，通过单一系数 r 控制归一化强度，在三个基准上不损精度的同时显著提升新颖性。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;重排/排序策略&quot;,&quot;期望曝光&quot;,&quot;多边公平&quot;,&quot;Plackett-Luce&quot;]"><strong><a href="joint_multisided_exposure_fairness_for_recommendation/">Joint Multisided Exposure Fairness for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出六类用户-物品双侧群体曝光公平指标，分解差异/相关性，并用可微 Plackett-Luce 随机排序优化 GG-F。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;端到端生成式&quot;,&quot;自然语言用户画像&quot;,&quot;可审阅推荐 (Scrutability)&quot;,&quot;大语言模型&quot;]"><strong><a href="on_natural_language_user_profiles_for_transparent_and_scrutable_recommendat/">On Natural Language User Profiles for Transparent and Scrutable Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出以自然语言用户画像替代稠密向量作为推荐的唯一中间表示，分解为画像生成与 NL 推荐两步，并用 LaMDA 少样本提示做定性可行性验证。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;数据发布/预处理&quot;,&quot;隐私可控合成数据&quot;,&quot;Gumbel-Softmax 离散采样&quot;,&quot;隐私-效用权衡&quot;]"><strong><a href="privacy_preserving_synthetic_data_generation_for_recommendation_systems/">Privacy-Preserving Synthetic Data Generation for Recommendation Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>UPC-SDG 用贡献度感知选择+Gumbel-Softmax 可微生成，按用户隐私偏好(k,γ)替换原始交互，兼顾数据/物品双层隐私与效用。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排&quot;,&quot;Provider Fairness&quot;,&quot;Adversarial Debiasing&quot;]"><strong><a href="profairrec_provider_fairness_aware_news_recommendation/">ProFairRec: Provider Fairness-aware News Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出公平/偏置表征解耦、对抗学习与正交正则，在MIND上提升新闻提供者曝光公平且精度基本持平</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;重排&quot;,&quot;供应商群体公平&quot;,&quot;Hellinger 距离&quot;,&quot;最大边际相关性&quot;]"><strong><a href="regulating_group_exposure_for_item_providers_in_recommendation/">Regulating Group Exposure for Item Providers in Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>SIGIR 2022 短文，将供应商按敏感属性分组，提出基于 Hellinger 距离与 MMR 的贪心重排序，使推荐曝光贴合平台指定目标分布，在几乎不损失 NDCG 的前提下显著提升少数群体曝光与列表级多样性/新颖性。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;去偏公平与工业架构&quot;,&quot;精排&quot;,&quot;自校正损失&quot;,&quot;持续学习&quot;,&quot;CTR 预估&quot;]"><strong><a href="reloop_a_self_correction_continual_learning_loop_for_recommender_systems/">ReLoop: A Self-Correction Continual Learning Loop for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用 hinge 式自校正损失惩罚“比上一版模型预测更差”的样本，零推理开销地把增量重训练变成纠错闭环，公开集 AUC 最高 +4.69%，线上 CTR +1.46%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排&quot;,&quot;参数高效提示微调 (Prompt Tuning)&quot;,&quot;对抗去偏 (Adversarial Debiasing)&quot;]"><strong><a href="selective_fairness_in_recommendation_via_prompts/">Selective Fairness in Recommendation via Prompts</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出选择性公平任务与 PFRec：冻结 SASRec、以属性专属软提示+Adapter 配合对抗训练，用极少参数支持 2^m 种敏感属性组合的去偏。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回&quot;,&quot;对抗训练&quot;,&quot;梯度反转层&quot;,&quot;变分自编码器&quot;]"><strong><a href="unlearning_protected_user_attributes_in_recommendations_with_adversarial_tr/">Unlearning Protected User Attributes in Recommendations with Adversarial Training</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>在 MultVAE 潜在向量上接梯度反转对抗头，剥离性别信息；攻击者探针 BAcc 从 0.71 降至 0.57，NDCG 仅微降且与末轮基线无显著差异</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;重排/推理阶段&quot;,&quot;反事实推断&quot;,&quot;过滤气泡&quot;,&quot;用户可控推荐&quot;]"><strong><a href="user_controllable_recommendation_against_filter_bubbles/">User-controllable Recommendation Against Filter Bubbles</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出用户可控推荐原型 UCRS 与因果增强的推理期框架 UCI，用反事实推断扣除过时用户 ID 表征效应，并支持四类控制指令，在保持精度的同时显著降低隔离度与多数类目支配。</p>
+</dd>
+</dl>

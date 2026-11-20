@@ -1,0 +1,27 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation,2108.06468,https://arxiv.org/abs/2108.06468,,graph_rec,WSDM,2022
+Multi-Behavior Graph Neural Networks for Recommender System,2302.08678,https://arxiv.org/abs/2302.08678,,graph_rec,WSDM,2022
+Rule-Guided Graph Neural Networks for Recommender Systems,2009.04104,https://arxiv.org/abs/2009.04104,,graph_rec,WSDM,2022
+Learning to Hash with Graph Neural Networks for Recommender Systems,2003.01917,https://arxiv.org/abs/2003.01917,,graph_rec,WSDM,2022
+Graph4Rec: A Universal Toolkit with Graph Neural Networks for Recommender Systems,2112.01035,https://arxiv.org/abs/2112.01035,https://github.com/PaddlePaddle/PGL,graph_rec,WSDM,2022
+SceneRec: Scene-Based Graph Neural Networks for Recommender Systems,2102.06401,https://arxiv.org/abs/2102.06401,,graph_rec,WSDM,2022
+Preference and Concurrence Aware Bayesian Graph Neural Networks for Recommender Systems,2312.11486,https://arxiv.org/abs/2312.11486,,graph_rec,WSDM,2022
+"A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions",2109.12843,https://arxiv.org/abs/2109.12843,https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems,graph_rec,WSDM,2022
+TransGNN: Harnessing the Collaborative Power of Transformers and Graph Neural Networks for Recommender Systems,2308.14355,https://arxiv.org/abs/2308.14355,,graph_rec,WSDM,2022
+An Empirical Analysis on Transparent Algorithmic Exploration in Recommender Systems,2108.00151,https://arxiv.org/abs/2108.00151,,rl_bandit_rec,WSDM,2022
+Dynamic Prior Thompson Sampling for Cold-Start Exploration in Recommender Systems,2602.00943,https://arxiv.org/abs/2602.00943,,cold_start_rec,WSDM,2022
+Triangle Graph Interest Network for Click-through Rate Prediction,2202.02698,https://arxiv.org/abs/2202.02698,https://github.com/alibaba/tgin,ctr_feature_interaction,WSDM,2022
+Heterogeneous Global Graph Neural Networks for Personalized Session-based Recommendation,2107.03813,https://arxiv.org/abs/2107.03813,,sequential_rec,WSDM,2022
+RGRecSys: A Toolkit for Robustness Evaluation of Recommender Systems,2201.04399,https://arxiv.org/abs/2201.04399,,debias_fairness_industrial,WSDM,2022
+Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation,2110.05730,https://arxiv.org/abs/2110.05730,,sequential_rec,WSDM,2022
+Show Me the Whole World: Towards Entire Item Space Exploration for Interactive Personalized Recommendations,2110.09905,https://arxiv.org/abs/2110.09905,,rl_bandit_rec,WSDM,2022
+Choosing the Best of Both Worlds: Diverse and Novel Recommendations through Multi-Objective Reinforcement Learning,2110.15097,https://arxiv.org/abs/2110.15097,,rl_bandit_rec,WSDM,2022
+Sequential Modeling with Multiple Attributes for Watchlist Recommendation in E-Commerce,2110.11072,https://arxiv.org/abs/2110.11072,,sequential_rec,WSDM,2022
+A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising,2106.06224,https://arxiv.org/abs/2106.06224,,ctr_feature_interaction,WSDM,2022
+Long Short-Term Temporal Meta-learning in Online Recommendation,2105.03686,https://arxiv.org/abs/2105.03686,,sequential_rec,WSDM,2022
+Enumerating Fair Packages for Group Recommendations,2105.14423,https://arxiv.org/abs/2105.14423,,debias_fairness_industrial,WSDM,2022
+Contrastive Meta Learning with Behavior Multiplicity for Recommendation,2202.08523,https://arxiv.org/abs/2202.08523,https://github.com/weiwei1206/CML.git,self_supervised_denoising,WSDM,2022
+On Sampling Collaborative Filtering Datasets,2201.04768,https://arxiv.org/abs/2201.04768,,collaborative_filtering,WSDM,2022
+Supervised Advantage Actor-Critic for Recommender Systems,2111.03474,https://arxiv.org/abs/2111.03474,,sequential_rec,WSDM,2022
+Multi-Sparse-Domain Collaborative Recommendation via Enhanced Comprehensive Aspect Preference Learning,2201.05973,https://arxiv.org/abs/2201.05973,,cross_domain_multi_scenario,WSDM,2022
+Personalized Transfer of User Preferences for Cross-domain Recommendation,2110.11154,https://arxiv.org/abs/2110.11154,https://github.com/easezyc/WSDM2022-PTUPCDR,cross_domain_multi_scenario,WSDM,2022

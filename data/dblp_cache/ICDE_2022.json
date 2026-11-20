@@ -1,0 +1,127 @@
+[
+  {
+    "title": "Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00211",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning What You Need from What You Did: Product Taxonomy Expansion with User Behaviors Supervision",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00310",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Attentive Knowledge-aware Graph Convolutional Networks with Collaborative Guidance for Personalized Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00027",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Community-aware Social Recommendation: A Unified SCSVD Framework (Extended Abstract)",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00133",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MISS: Multi-Interest Self-Supervised Learning Framework for Click-Through Rate Prediction",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00059",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "HybridGNN: Learning Hybrid Representation for Recommendation in Multiplex Heterogeneous Networks",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00106",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Time-sensitive POI Recommendation by Tensor Completion with Side Information",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00020",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Privacy-Preserving Collaborative Filtering Using Fully Homomorphic Encryption",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00152",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Graph Summarization: Formulation, Scalable Algorithms, and Applications",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00219",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AiRS: A Large-Scale Recommender System at NAVER News",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00319",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Memorize, Factorize, or be Naive: Learning Optimal Feature Interaction Methods for CTR Prediction",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00113",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FedRecAttack: Model Poisoning Attack to Federated Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00243",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Recommendation with Automated Tag Taxonomy Construction in Hyperbolic Space",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00093",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Spatial-Temporal Interval Aware Sequential POI Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00202",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Tower Bridge Net (TB-Net): Bidirectional Knowledge Graph Aware Embedding Propagation for Explainable Recommender Systems",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00309",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Self-Supervised Dual-Channel Attentive Network for Session-based Social Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00198",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Efficient Personalized Maximum Biclique Search",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00042",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cheaper Is Better: Exploring Price Competitiveness for Online Purchase Prediction",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00320",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Subspace Embedding Based New Paper Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00178",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contrastive Learning for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00099",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ODNET: A Novel Personalized Origin-Destination Ranking Network for Flight Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00326",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "$O^{2}$-SiteRec: Store Site Recommendation under the O2O Model via Multi-graph Attention Networks",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00044",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Micro-Behavior Encoding for Session-based Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00261",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PICASSO: Unleashing the Potential of GPU-centric Training for Wide-and-deep Recommender Systems",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00324",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations",
+    "ee": "https://doi.org/10.1109/ICDE53745.2022.00265",
+    "key": "dblp_sparql"
+  }
+]

@@ -7,7 +7,7 @@ hide:
 
 > **研究范畴**：视觉-文本-音频特征融合与解耦、多模态图对齐、短视频/微视频推荐与图文电商匹配
 
-当前方向共收录 **190** 篇顶会/顶刊论文解读：
+当前方向共收录 **198** 篇顶会/顶刊论文解读：
 
 🔥 **高频交叉主题：** 生成式推荐 ×20 · 冷启动 ×7 · 知识蒸馏 ×6 · 大语言模型推荐 ×5 · 端到端生成式 ×5 · MoE ×3 · 去偏公平与可信推荐 ×3 · 语义ID ×3
 
@@ -22,12 +22,12 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">121</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">104</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">34</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">126</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">107</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">37</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">20</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">12</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">9</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">10</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">7</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="冷启动与长尾推荐" aria-pressed="false">冷启动与长尾推荐<span class="paper-tag-filter__count">7</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐与内容理解" aria-pressed="false">多模态推荐与内容理解<span class="paper-tag-filter__count">7</span></button>
@@ -35,10 +35,10 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">6</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="MoE" aria-pressed="false">MoE<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="语义ID" aria-pressed="false">语义ID<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="跨模态对比学习" aria-pressed="false">跨模态对比学习<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="跨模态对齐" aria-pressed="false">跨模态对齐<span class="paper-tag-filter__count">3</span></button>
@@ -47,6 +47,7 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="不变风险最小化" aria-pressed="false">不变风险最小化<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="信息瓶颈" aria-pressed="false">信息瓶颈<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="参数高效微调" aria-pressed="false">参数高效微调<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多任务学习" aria-pressed="false">多任务学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多模态交叉注意力" aria-pressed="false">多模态交叉注意力<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多模态对齐" aria-pressed="false">多模态对齐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多模态特征融合" aria-pressed="false">多模态特征融合<span class="paper-tag-filter__count">2</span></button>
@@ -54,6 +55,7 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="引导扩散模型" aria-pressed="false">引导扩散模型<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="时长去偏" aria-pressed="false">时长去偏<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="模态遗忘" aria-pressed="false">模态遗忘<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式端到端" aria-pressed="false">生成式端到端<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自监督对比学习" aria-pressed="false">自监督对比学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="解耦表征" aria-pressed="false">解耦表征<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">2</span></button>
@@ -157,6 +159,10 @@ hide:
 <dd>
 <p>提出 SiPeR 框架，用场景转移估计解决“去哪”与贝叶斯逆向推理解决“要什么”，在 SIMMC 2.1 与 SCREEN 上 R@1 平均提升约 10.9%/10.6%。</p>
 </dd>
+<dt data-paper-tags="[&quot;ACM MM&quot;,&quot;多模态推荐&quot;,&quot;召回&quot;,&quot;人格画像&quot;,&quot;多视角用户表征&quot;]"><strong><a href="../../venues/ACM_MM/2022/multimodal_rec/personality_driven_social_multimedia_content_recommendation/">Personality-Driven Social Multimedia Content Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用 MBTI 人格向量 + 多视角时间线特征构建用户表征，BPR 训练的多模态内容召回器，8:2 划分下 AUC 0.905、nDCG@10 提升 12%，线上降本 4.2 倍</p>
+</dd>
 <dt data-paper-tags="[&quot;ACM MM&quot;,&quot;多模态推荐&quot;,&quot;召回&quot;,&quot;图结构冻结&quot;,&quot;度数敏感边剪枝&quot;]"><strong><a href="../../venues/ACM_MM/2023/multimodal_rec/a_tale_of_two_graphs_freezing_and_denoising_graph_structures_for_multimodal/">A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>冻结多模态物品-物品图并对用户-物品图做度数敏感剪枝去噪，全排序协议下相对 LATTICE 平均提升 19.07%，内存最高降 6×。</p>
@@ -228,6 +234,14 @@ hide:
 <dt data-paper-tags="[&quot;ACM MM&quot;,&quot;去偏公平与可信推荐&quot;,&quot;模型遗忘/隐私删除&quot;,&quot;多模态推荐&quot;,&quot;反向更新&quot;,&quot;参数组隔离&quot;]"><strong><a href="../../venues/ACM_MM/2026/debias_fairness_industrial/tru_targeted_reverse_update_for_efficient_multimodal_recommendation_unlearn/">TRU: Targeted Reverse Update for Efficient Multimodal Recommendation Unlearning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>揭示多模态推荐遗忘中排序/模态/模块三层非均匀性，提出门控+分支缩放+参数组隔离的靶向反向更新，逼近重训练前沿且收敛更快。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;精排&quot;,&quot;上下文漂移解耦&quot;,&quot;随机游走图嵌入&quot;,&quot;多头交互注意力&quot;]"><strong><a href="../../venues/CIKM/2022/graph_rec/hysage_a_hybrid_static_and_adaptive_graph_embedding_network_for_context_dri/">HySAGE: A Hybrid Static and Adaptive Graph Embedding Network for Context-Drifting Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>解耦静态交互图嵌入与漂移上下文自适应嵌入，注意力交互融合，全库未交互排序下 HR@10 最高提升 28.4%</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2022&quot;,&quot;CTR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;对比学习视觉编码&quot;,&quot;样本选择偏差去偏&quot;]"><strong><a href="../../venues/CIKM/2022/ctr_feature_interaction/visual_encoding_and_debiasing_for_ctr_prediction/">Visual Encoding and Debiasing for CTR Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用自监督+点击监督两阶段对比学习微调视觉编码器，并在 CTR 塔内加对比去偏网络与门控融合，淘宝十亿级数据 AUC +6.8%、线上 CTR +4~5%。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM 2023&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;多模态融合顺序&quot;,&quot;异质图注意力&quot;,&quot;非侵入式融合&quot;]"><strong><a href="../../venues/CIKM/2023/sequential_rec/adaptive_multi_modalities_fusion_in_sequential_recommendation_systems/">Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -341,6 +355,10 @@ hide:
 <dd>
 <p>用评论-图片跨模态一致性降噪 + 主观逻辑证据融合做可信序列推荐，四数据集 Full-Ranking 全面超越 MMSRec。</p>
 </dd>
+<dt data-paper-tags="[&quot;ECIR&quot;,&quot;多模态推荐&quot;,&quot;生成式端到端&quot;,&quot;搭配兼容性&quot;,&quot;风格条件生成&quot;]"><strong><a href="../../venues/ECIR/2022/multimodal_rec/recommendation_of_compatible_outfits_conditioned_on_style/">Recommendation of Compatible Outfits Conditioned on Style</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用 Set Transformer 学搭配风格高斯隐空间，再以风格向量调制子空间注意力，实现风格可控的搭配生成与补全。</p>
+</dd>
 <dt data-paper-tags="[&quot;ECIR 2024&quot;,&quot;序列与会话推荐&quot;,&quot;召回/排序（Next-Item）&quot;,&quot;模态遗忘&quot;,&quot;相关性蒸馏&quot;]"><strong><a href="../../venues/ECIR/2024/sequential_rec/lightweight_modality_adaptation_to_sequential_recommendation_via_correlatio/">Lightweight Modality Adaptation to Sequential Recommendation via Correlation Supervision</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>提出 KDSR，以整体/分解模态相关性蒸馏和异步训练缓解两阶段序列推荐的模态遗忘，5 个数据集 HR@5 最高提升 23.9%。</p>
@@ -421,6 +439,10 @@ hide:
 <dd>
 <p>用金字塔式降尺度卷积替代自注意力聚合属性感知序列，线性复杂度下在四个 Amazon 数据集上 HR@10 最高提升 4.08%。</p>
 </dd>
+<dt data-paper-tags="[&quot;KDD 2022&quot;,&quot;多模态推荐&quot;,&quot;召回&quot;,&quot;多模态表征学习&quot;,&quot;多任务学习&quot;]"><strong><a href="../../venues/KDD/2022/multimodal_rec/itemsage_learning_product_embeddings_for_shopping_recommendations_at_pinter/">ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用单层Transformer聚合PinSAGE图像与哈希文本特征，以logQ校正分离式负采样与多任务学习产出单一商品嵌入，A/B测试GMV最高+6.85%。</p>
+</dd>
 <dt data-paper-tags="[&quot;KDD 2024&quot;,&quot;生成式推荐&quot;,&quot;端到端生成式&quot;,&quot;Gen-RecSys 分类学&quot;,&quot;LLM4Rec 与 RAG&quot;]"><strong><a href="../../venues/KDD/2024/generative_rec/a_review_of_modern_recommender_systems_using_generative_models_gen_recsys/">A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>按数据模态（交互/文本/多模态）×生成范式（AE/AR/GAN/Diffusion/LLM）构建 Gen-RecSys 二维分类学，并系统梳理评估协议与社会危害框架。</p>
@@ -468,6 +490,18 @@ hide:
 <dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;多模态推荐&quot;,&quot;召回&quot;,&quot;虚拟交互增强&quot;,&quot;模态相似度&quot;]"><strong><a href="../../venues/KDD/2026/multimodal_rec/vi_mmrec_similarity_aware_training_cost_free_virtual_user_item_interactions/">VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用模态相似度构造虚拟交互矩阵并以统计权重融合，零训练开销即插即用地缓解多模态推荐数据稀疏，Full-Ranking 下 Recall@10 最高提升 22.25%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2022&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;对话交互层(端到端体验)&quot;,&quot;Rasa 任务型对话管理&quot;,&quot;Furhat 社交机器人多模态&quot;,&quot;多轮偏好启发&quot;]"><strong><a href="../../venues/RecSys/2022/agent_conversational_rec/dagfinn_a_conversational_conference_assistant/">DAGFiNN: A Conversational Conference Assistant</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>基于 Rasa 的开源多域多模态会议助手，可在网页聊天与 Furhat 社交机器人间同步对话，ECIR&#x27;22 现场实测以 3–6 轮短对话完成 POI 与会程推荐。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2022&quot;,&quot;多模态推荐&quot;,&quot;召回&quot;,&quot;音频内容分析&quot;,&quot;情绪条件推荐&quot;,&quot;工业级部署&quot;]"><strong><a href="../../venues/RecSys/2022/multimodal_rec/flow_moods_recommending_music_by_moods_on_deezer/">Flow Moods: Recommending Music by Moods on Deezer</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出 Flow Moods 工业系统：将六类情绪作为显式上下文，融合专业策展标注、musicnn 音频嵌入与随机森林情绪分类器，对协同过滤检索结果做情绪硬过滤与兜底，已在千万级用户上线。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;多模态推荐&quot;,&quot;精排&quot;,&quot;可复用自注意力&quot;,&quot;异构实体序列建模&quot;,&quot;穿搭生成&quot;]"><strong><a href="../../venues/RecSys/2022/multimodal_rec/reusable_self_attention_recommender_systems_in_fashion_industry_application/">Reusable Self-Attention Recommender Systems in Fashion Industry Applications</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>Zalando 用单一可复用 Transformer 统一穿搭排序、会话推荐与穿搭生成，靠异构实体/交互共享嵌入+时间衰减会话+目标掩码，线上 A/B 留存最高 +30%、会话互动 +130%。</p>
 </dd>
 <dt data-paper-tags="[&quot;RecSys 2024&quot;,&quot;冷启动与长尾推荐&quot;,&quot;召回&quot;,&quot;单分支权重共享&quot;,&quot;多模态对齐&quot;,&quot;缺失模态鲁棒性&quot;]"><strong><a href="../../venues/RecSys/2024/cold_start_rec/a_multimodal_single_branch_embedding_network_for_recommendation_in_cold_sta/">A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>

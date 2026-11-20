@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Core Interests Focused Self-attention for Sequential Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_23",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Social Influence from Network Structure for Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_7",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Enhanced Multi-task Learning for Course Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_6",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Intention Adaptive Graph Neural Network for Category-Aware Session-Based Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_10",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "M3-IB: A Memory-Augment Multi-modal Information Bottleneck Model for Next-Item Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_2",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Efficient Dual-Process Cognitive Recommender Balancing Accuracy and Diversity",
+    "ee": "https://doi.org/10.1007/978-3-031-00129-1_33",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Joint Locality Preservation and Adaptive Combination for Graph Collaborative Filtering",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_12",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning and Fusing Multiple User Interest Representations for Sequential Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00129-1_34",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mitigating Popularity Bias in Recommendation via Counterfactual Inference",
+    "ee": "https://doi.org/10.1007/978-3-031-00129-1_32",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Leveraging Non-negative Matrix Factorization for Document Summarization",
+    "ee": "https://doi.org/10.1007/978-3-031-00129-1_52",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Neural Networks with Dynamic and Static Representations for Social Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_18",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Personalized Review Generation with Gated Multi-source Fusion Network",
+    "ee": "https://doi.org/10.1007/978-3-031-00129-1_27",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical Attention Factorization Machine for CTR Prediction",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_27",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "XDM: Improving Sequential Deep Matching with Unclicked User Behaviors for Recommender System",
+    "ee": "https://doi.org/10.1007/978-3-031-00129-1_31",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Graph Convolution Network for Novel Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_5",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Meta-path Enhanced Lightweight Graph Neural Network for Social Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_9",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PMAR: Multi-aspect Recommendation Based on Psychological Gap",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_8",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Toward Auto-Learning Hyperparameters for Deep Learning-Based Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_25",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MCRF: Enhancing CTR Prediction Models via Multi-channel Feature Refinement Framework",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_28",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep Graph Mutual Learning for Cross-domain Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_22",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Inter- and Intra-Domain Relation-Aware Heterogeneous Graph Convolutional Networks for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_4",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Toward Paper Recommendation by Jointly Exploiting Diversity and Dynamics in Heterogeneous Information Networks",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_19",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-behavior Recommendation with Two-Level Graph Attentional Networks",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_16",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Collaborative Filtering for Recommendation in Geometric Algebra",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_17",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-view Multi-behavior Contrastive Learning in Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_11",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Gated Hypergraph Neural Network for Scene-Aware Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_13",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GISDCN: A Graph-Based Interpolation Sequential Recommender with Deformable Convolutional Network",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_21",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Joint Framework for Explainable Recommendation with Knowledge Reasoning and Graph Representation",
+    "ee": "https://doi.org/10.1007/978-3-031-00129-1_30",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Diffusion-Based Graph Contrastive Learning for Recommendation with Implicit Feedback",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_15",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Session-Based Recommendation with Global Context Information and Knowledge Graph",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_20",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Fully Utilizing Neighbors for Session-Based Recommendation with Graph Neural Networks",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_3",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hyperbolic Personalized Tag Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_14",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MDKE: Multi-level Disentangled Knowledge-Based Embedding for Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_1",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SAER: Sentiment-Opinion Alignment Explainable Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_24",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GELibRec: Third-Party Libraries Recommendation Using Graph Neural Network",
+    "ee": "https://doi.org/10.1007/978-3-031-00126-0_26",
+    "key": "dblp_sparql"
+  }
+]

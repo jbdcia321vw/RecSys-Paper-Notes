@@ -1,0 +1,22 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+MISS: Multi-Interest Self-Supervised Learning Framework for Click-Through Rate Prediction,2111.15068,https://arxiv.org/abs/2111.15068,,ctr_feature_interaction,ICDE,2022
+Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck,2203.16863,https://arxiv.org/abs/2203.16863,,cross_domain_multi_scenario,ICDE,2022
+FedRecAttack: Model Poisoning Attack to Federated Recommendation,2204.01499,https://arxiv.org/abs/2204.01499,,debias_fairness_industrial,ICDE,2022
+Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations,2204.00327,https://arxiv.org/abs/2204.00327,,cold_start_rec,ICDE,2022
+Micro-Behavior Encoding for Session-based Recommendation,2204.02002,https://arxiv.org/abs/2204.02002,,sequential_rec,ICDE,2022
+Contrastive Learning for Sequential Recommendation,2010.14395,https://arxiv.org/abs/2010.14395,,sequential_rec,ICDE,2022
+Intent Contrastive Learning for Sequential Recommendation,2202.02519,https://arxiv.org/abs/2202.02519,,sequential_rec,ICDE,2022
+Debiased Contrastive Learning for Sequential Recommendation,2303.11780,https://arxiv.org/abs/2303.11780,https://github.com/HKUDS/DCRec,sequential_rec,ICDE,2022
+Equivariant Contrastive Learning for Sequential Recommendation,2211.05290,https://arxiv.org/abs/2211.05290,https://github.com/Tokkiu/ECL,sequential_rec,ICDE,2022
+Meta-optimized Contrastive Learning for Sequential Recommendation,2304.07763,https://arxiv.org/abs/2304.07763,,sequential_rec,ICDE,2022
+Explanation Guided Contrastive Learning for Sequential Recommendation,2209.01347,https://arxiv.org/abs/2209.01347,,sequential_rec,ICDE,2022
+Diffusion-based Contrastive Learning for Sequential Recommendation,2405.09369,https://arxiv.org/abs/2405.09369,,sequential_rec,ICDE,2022
+Multi-intent Aware Contrastive Learning for Sequential Recommendation,2409.08733,https://arxiv.org/abs/2409.08733,,sequential_rec,ICDE,2022
+Frequency-aware Adaptive Contrastive Learning for Sequential Recommendation,2601.17057,https://arxiv.org/abs/2601.17057,,sequential_rec,ICDE,2022
+Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation,2503.04162,https://arxiv.org/abs/2503.04162,https://github.com/ziqiangcui/SRA-CL,sequential_rec,ICDE,2022
+Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation,2504.16077,https://arxiv.org/abs/2504.16077,,sequential_rec,ICDE,2022
+Meta-optimized Joint Generative and Contrastive Learning for Sequential Recommendation,2310.13925,https://arxiv.org/abs/2310.13925,,self_supervised_denoising,ICDE,2022
+Quality-Aware Collaborative Multi-Positive Contrastive Learning for Sequential Recommendation,2605.11707,https://arxiv.org/abs/2605.11707,,self_supervised_denoising,ICDE,2022
+Intent-Interest Disentanglement and Item-Aware Intent Contrastive Learning for Sequential Recommendation,2501.07096,https://arxiv.org/abs/2501.07096,,sequential_rec,ICDE,2022
+Relative Contrastive Learning for Sequential Recommendation with Similarity-based Positive Pair Selection,2504.19178,https://arxiv.org/abs/2504.19178,https://github.com/Cloudcatcher888/RCL,sequential_rec,ICDE,2022
+Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning for Sequential Recommendation,2404.13878,https://arxiv.org/abs/2404.13878,https://github.com/lalunex/MSDCCL,sequential_rec,ICDE,2022

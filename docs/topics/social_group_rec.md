@@ -7,9 +7,9 @@ hide:
 
 > **研究范畴**：社交信任网络传播、社交同质性去噪、群组偏好共识聚合 (Group Rec) 与影响力建模
 
-当前方向共收录 **40** 篇顶会/顶刊论文解读：
+当前方向共收录 **55** 篇顶会/顶刊论文解读：
 
-🔥 **高频交叉主题：** 去偏公平与可信推荐 ×3 · 图结构学习 ×2 · 对比学习 ×2 · 影响力最大化 ×2 · 社交去噪 ×2 · 社交图去噪 ×2 · 解耦表征学习 ×2
+🔥 **高频交叉主题：** 去偏公平与可信推荐 ×4 · 图结构学习 ×2 · 对比学习 ×2 · 影响力最大化 ×2 · 社交去噪 ×2 · 社交图去噪 ×2 · 解耦表征学习 ×2 · 跨域对比学习 ×2
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -22,11 +22,12 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="社交与群组推荐" aria-pressed="false">社交与群组推荐<span class="paper-tag-filter__count">32</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">19</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="社交与群组推荐" aria-pressed="false">社交与群组推荐<span class="paper-tag-filter__count">43</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">26</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">9</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">8</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="图结构学习" aria-pressed="false">图结构学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对比学习" aria-pressed="false">对比学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="影响力最大化" aria-pressed="false">影响力最大化<span class="paper-tag-filter__count">2</span></button>
@@ -34,6 +35,7 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="社交图去噪" aria-pressed="false">社交图去噪<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="社会选择聚合" aria-pressed="false">社会选择聚合<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="解耦表征学习" aria-pressed="false">解耦表征学习<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨域对比学习" aria-pressed="false">跨域对比学习<span class="paper-tag-filter__count">2</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>
@@ -50,6 +52,14 @@ hide:
 <dt data-paper-tags="[&quot;ICWSM 2026&quot;,&quot;去偏公平与工业审计&quot;,&quot;重排&quot;,&quot;算法审计&quot;,&quot;党派倾斜与谣言曝光&quot;]"><strong><a href="../../venues/AAAI/2026/debias_fairness_industrial/the_role_of_follow_networks_and_twitter_s_content_recommender_on_partisan_s/">The Role of Follow Networks and Twitter&#x27;s Content Recommender on Partisan Skew and Rumor Exposure during the 2022 U.S. Midterm Election</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用 18 个自动化审计账号在 2022 美国中期选举期间对比算法流与时间流，量化推荐算法与关注网络对党派倾斜、谣言与低质信息曝光的交互效应。</p>
+</dd>
+<dt data-paper-tags="[&quot;ACM MM&quot;,&quot;多模态推荐&quot;,&quot;召回&quot;,&quot;人格画像&quot;,&quot;多视角用户表征&quot;]"><strong><a href="../../venues/ACM_MM/2022/multimodal_rec/personality_driven_social_multimedia_content_recommendation/">Personality-Driven Social Multimedia Content Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用 MBTI 人格向量 + 多视角时间线特征构建用户表征，BPR 训练的多模态内容召回器，8:2 划分下 AUC 0.905、nDCG@10 提升 12%，线上降本 4.2 倍</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;域解耦表征&quot;,&quot;跨域对比学习&quot;]"><strong><a href="../../venues/CIKM/2022/social_group_rec/disentangled_contrastive_learning_for_social_recommendation/">Disentangled Contrastive Learning for Social Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将用户表征按协同域/社交域显式解耦，并用跨域对比学习迁移社交知识，Dianping/Ciao 上 NDCG 相对 SGL 提升 5.3%/6.5%。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;社交与群组推荐&quot;,&quot;精排&quot;,&quot;多粒度注意力&quot;,&quot;群组偏好聚合&quot;,&quot;组图卷积&quot;]"><strong><a href="../../venues/CIKM/2023/social_group_rec/multi_granularity_attention_model_for_group_recommendation/">Multi-Granularity Attention Model for Group Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -71,6 +81,10 @@ hide:
 <dd>
 <p>用多哈希ID嵌入(表压缩&gt;98%)与时间戳排序CSR二分采样(O(log d+K))支撑194M用户/28B边GNN好友排序，线上好友添加+16%。</p>
 </dd>
+<dt data-paper-tags="[&quot;DASFAA&quot;,&quot;社交与群组推荐&quot;,&quot;精排/排序&quot;,&quot;图注意力&quot;,&quot;动态静态表示&quot;,&quot;物品相关图&quot;]"><strong><a href="../../venues/DASFAA/2022/social_group_rec/graph_neural_networks_with_dynamic_and_static_representations_for_social_re/">Graph Neural Networks with Dynamic and Static Representations for Social Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>GNN-DSR用LSTM与图注意力建模用户/物品的动态-静态表示，并聚合社交图与物品相关图，在Ciao/Epinions/Delicious上提升评分预测与物品排序。</p>
+</dd>
 <dt data-paper-tags="[&quot;DASFAA&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;图结构学习&quot;,&quot;非活跃用户冷启动&quot;,&quot;模仿学习&quot;]"><strong><a href="../../venues/DASFAA/2024/social_group_rec/learning_social_graph_for_inactive_user_recommendation/">Learning Social Graph for Inactive User Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>用 U2U 删噪边 + U2C 连活跃兴趣簇的知识驱动图结构学习与模仿学习，重塑社交图以服务非活跃用户；采样排序下 Flickr NDCG@10 相对提升 129.58%。</p>
@@ -82,6 +96,14 @@ hide:
 <dt data-paper-tags="[&quot;ICDE 2023&quot;,&quot;多任务学习与列表级重排&quot;,&quot;精排&quot;,&quot;拼团推荐&quot;,&quot;专家网络&quot;,&quot;门控&quot;]"><strong><a href="../../venues/ICDE/2023/multi_task_reranking/group_buying_recommendation_model_based_on_multi_task_learning/">Group Buying Recommendation Model Based on Multi-task Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>将拼团推荐拆为发起人选品与参与者选团，用三视图GCN、专家门控与双辅助损失联合建模；Task B MRR@10提升71.65%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDM&quot;,&quot;社交与群组推荐&quot;,&quot;精排&quot;,&quot;信息扩散级联&quot;,&quot;多视图注意力融合&quot;]"><strong><a href="../../venues/ICDM/2022/social_group_rec/igniter_news_recommendation_in_microblogging_applications_extended_version/">IGNiteR: News Recommendation in Microblogging Applications (Extended Version)</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用新闻转发级联训练影响力节点嵌入，并以语义/扩散/采纳曲线三视图注意力融合做微博客新闻推荐，采样排序下 NDCG@10 相对最强基线提升 2.3%–3.2%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDM WAIN 2022&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;团队组建&quot;,&quot;语义匹配&quot;,&quot;约束贪心&quot;]"><strong><a href="../../venues/ICDM/2022/social_group_rec/ultra_a_data_driven_approach_for_recommending_team_formation_in_response_to/">ULTRA: A Data-driven Approach for Recommending Team Formation in Response to Proposal Calls</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>抽取 NSF 招标与学者画像做 SPECTER 语义匹配，按预算与技能互补约束贪心组队；70 条匹配中 65 条≥7 分，历史中标命中 54.5%。</p>
 </dd>
 <dt data-paper-tags="[&quot;NeurIPS 2023&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;观点动力学&quot;,&quot;冲突感知&quot;,&quot;链接推荐&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2023/social_group_rec/on_the_relationship_between_relevance_and_conflict_in_online_social_link_re/">On the Relationship Between Relevance and Conflict in Online Social Link Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -102,6 +124,14 @@ hide:
 <dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;召回/干预选择&quot;,&quot;Contextual Bandit&quot;,&quot;影响力概率估计&quot;,&quot;帕累托权衡&quot;]"><strong><a href="../../venues/KDD/2026/rl_bandit_rec/learning_peer_influence_probabilities_with_linear_contextual_bandits/">Learning Peer Influence Probabilities with Linear Contextual Bandits</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>将同伴影响力概率学习建模为双目标线性上下文 Bandit，刻画 Regret–RMSE 帕累托前沿并提出 InfluenceCB 以单参数 β 导航权衡。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;重排/离线评估&quot;,&quot;Commonality 共性度量&quot;,&quot;文化公民权 Cultural Citizenship&quot;,&quot;公共媒体 PSM&quot;]"><strong><a href="../../venues/RecSys/2022/debias_fairness_industrial/measuring_commonality_in_recommendation_of_cultural_content_recommender_sys/">Measuring Commonality in Recommendation of Cultural Content: Recommender Systems to Enhance Cultural Citizenship</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>提出群体级共性度量 commonality，以 RBP 折损类别召回与联合概率刻画全体用户的共同文化曝光；MovieLens-1M 上 20 个系统排序显示其与 NDCG、α-NDCG 显著负相关，与公平性指标不相关。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2022&quot;,&quot;去偏公平与可信推荐&quot;,&quot;全链路设计治理（非排序阶段）&quot;,&quot;算法厌恶&quot;,&quot;人本推荐&quot;,&quot;用户主体性&quot;]"><strong><a href="../../venues/RecSys/2022/debias_fairness_industrial/recommender_systems_and_algorithmic_hate/">Recommender Systems and Algorithmic Hate</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>以多平台案例研究归纳“算法厌恶”的四类成因（无知、伤害、目标错位、主体性缺失）并提出人本设计、透明化与可配置三条缓解议程。</p>
 </dd>
 <dt data-paper-tags="[&quot;RecSys 2025&quot;,&quot;社交与群组推荐&quot;,&quot;评测体系&quot;,&quot;多利益相关者&quot;,&quot;价值敏感设计&quot;,&quot;数字档案&quot;]"><strong><a href="../../venues/RecSys/2025/social_group_rec/a_multistakeholder_approach_to_value_driven_co_design_of_recommender_system/">A Multistakeholder Approach to Value-Driven Co-Design of Recommender System Evaluation Metrics in Digital Archives</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
@@ -131,6 +161,10 @@ hide:
 <dd>
 <p>基于自然重复帖的曝光审计：同文本跨作者在250个Bluesky自定义Feed中曝光差异达33%，作者历史主导排名</p>
 </dd>
+<dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;社交与群组推荐&quot;,&quot;召回（组-物品全库排序）&quot;,&quot;超立方体表示&quot;,&quot;组偏好聚合&quot;,&quot;交集自监督&quot;]"><strong><a href="../../venues/SIGIR/2022/social_group_rec/thinking_inside_the_box_learning_hypercube_representations_for_group_recomm/">Thinking inside The Box: Learning Hypercube Representations for Group Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用中心-偏移超立方体替代点向量表示群组，配内外双重距离与组交集自监督，全库排序下 Recall@10 平均超 GroupIM 14.4%。</p>
+</dd>
 <dt data-paper-tags="[&quot;SIGIR 2025&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;多模态好友推荐&quot;,&quot;模态感知成对匹配&quot;,&quot;全局模态注意力&quot;]"><strong><a href="../../venues/SIGIR/2025/social_group_rec/frog_effective_friend_recommendation_in_online_games_via_modality_aware_use/">FROG: Effective Friend Recommendation in Online Games via Modality-aware User Preferences</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>面向在线游戏好友推荐，用模态感知双向匹配+局部/全局双路注意力建模用户偏好，离线 HR/NDCG 最高提升 15.82%/14.59%，线上 accRate 提升 33.3%。</p>
@@ -142,6 +176,26 @@ hide:
 <dt data-paper-tags="[&quot;TKDD&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排&quot;,&quot;因果推断去偏&quot;,&quot;社交网络混杂&quot;,&quot;逆倾向加权&quot;]"><strong><a href="../../venues/TKDD/2023/debias_fairness_industrial/be_causal_de_biasing_social_network_confounding_in_recommendation/">Be Causal: De-biasing Social Network Confounding in Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Knowledge Discovery from Data">ACM TKDD</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>将 MNAR 选择偏差归因于社交网络混杂，用 node2vec 混杂表征 + 倾向暴露模型 + Wasserstein 平衡表征去混杂，在 Epinions/Ciao/ML-1M 上 MAE 相对最强基线降 27.7%/11.4%/19.1%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;社交影响扩散&quot;,&quot;多层图注意力&quot;]"><strong><a href="../../venues/TKDE/2022/social_group_rec/diffnet_a_neural_influence_and_interest_diffusion_network_for_social_recomm/">DiffNet++: A Neural Influence and Interest Diffusion Network for Social Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>将社交图与兴趣图统一为异构图，用多层注意力递归扩散影响与兴趣，采样排序下 HR@10 较最强基线提升 21%+</p>
+</dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;社交与群组推荐&quot;,&quot;精排&quot;,&quot;模体GCN&quot;,&quot;对抗训练&quot;]"><strong><a href="../../venues/TKDE/2022/social_group_rec/enhancing_social_recommendation_with_adversarial_graph_convolutional_networ/">Enhancing Social Recommendation with Adversarial Graph Convolutional Networks</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>模体GCN生成替代邻居、重构去噪与情境注意力，对抗训练统一；Full-Ranking下NDCG@10提升6.75%–7.73%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;高阶社交传播&quot;,&quot;层级注意力聚合&quot;]"><strong><a href="../../venues/TKDE/2022/social_group_rec/modelling_high_order_social_relations_for_item_recommendation/">Modelling High-Order Social Relations for Item Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用多层 GCN 沿社交图递归传播用户嵌入以注入高阶好友影响，再用注意力聚合各层输出；在 Yelp/Douban 全库排序下 Recall@20 最高提升 22.28%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;自注意力群体聚合&quot;,&quot;中心性感知图卷积&quot;]"><strong><a href="../../venues/TKDE/2022/social_group_rec/overcoming_data_sparsity_in_group_recommendation/">Overcoming Data Sparsity in Group Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用多头自注意力聚合成员表征、中心性感知多视图图卷积增强用户表征并联合优化，双重缓解偶发群体与用户交互稀疏，Hits@20 显著优于 SIGR/GroupSA。</p>
+</dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;社交与群组推荐&quot;,&quot;精排&quot;,&quot;自我网络&quot;,&quot;分层图池化&quot;,&quot;谱域图滤波&quot;]"><strong><a href="../../venues/TKDE/2022/social_group_rec/understanding_wechat_user_preferences_and_wow_diffusion/">Understanding WeChat User Preferences and \&quot;Wow\&quot; Diffusion</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>基于微信看一看海量数据揭示好友圈层结构对\&quot;Wow\&quot;与点击行为的相反影响，提出谱域滤波+分层图池化的DiffuseGNN预测模型，AUC最高提升约2%。</p>
 </dd>
 <dt data-paper-tags="[&quot;TKDE 2023&quot;,&quot;社交与群组推荐&quot;,&quot;精排（评分预测 + Top-N 排序）&quot;,&quot;去中心化图&quot;,&quot;偏置向量化&quot;,&quot;社交关系加权&quot;]"><strong><a href="../../venues/TKDE/2023/social_group_rec/gdsrec_graph_based_decentralized_collaborative_filtering_for_social_recomme/">GDSRec: Graph-Based Decentralized Collaborative Filtering for Social Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -155,6 +209,10 @@ hide:
 <dd>
 <p>提出连续意见下的感知差距指数 PGI，用谱图理论刻画网络连通性与社群结构对局部-全局认知偏差的影响，并证明连边推荐最小化 PGI 的不可近似性，给出近最优贪心启发式。</p>
 </dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;超图超边嵌入&quot;,&quot;偶发群组推荐&quot;,&quot;社交同质性&quot;]"><strong><a href="../../venues/TOIS/2022/social_group_rec/hierarchical_hyperedge_embedding_based_representation_learning_for_group_re/">Hierarchical Hyperedge Embedding-based Representation Learning for Group Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>HyperGroup 用社交图 GNN 增强个体偏好、把群组建模为超图超边做归纳式嵌入，全库排序下 Yelp HR@5 较最强基线提升 268%。</p>
+</dd>
 <dt data-paper-tags="[&quot;TOIS&quot;,&quot;去偏公平与可信推荐&quot;,&quot;召回&quot;,&quot;多智能体强化学习&quot;,&quot;黑盒对抗攻击&quot;,&quot;社交推荐&quot;]"><strong><a href="../../venues/TOIS/2025/debias_fairness_industrial/multi_agent_attacks_for_black_box_social_recommendations/">Multi-agent Attacks for Black-box Social Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用多智能体强化学习协同生成冷启动物品画像与跨社区社交画像，对黑盒社交推荐发起无目标投毒/规避攻击，全库排序下 NDCG@10 相对下降约 19%。</p>
@@ -166,6 +224,10 @@ hide:
 <dt data-paper-tags="[&quot;TORS&quot;,&quot;去偏公平与可信推荐&quot;,&quot;召回&quot;,&quot;双边匹配推荐&quot;,&quot;嫉妒自由&quot;,&quot;Nash社会福利&quot;,&quot;Sinkhorn&quot;]"><strong><a href="../../venues/TORS/2026/debias_fairness_industrial/balancing_fairness_and_high_match_rates_in_reciprocal_recommender_systems_a/">Balancing Fairness and High Match Rates in Reciprocal Recommender Systems: A Nash Social Welfare Approach</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>将双边匹配推荐建模为推荐机会分配，用 Nash 社会福利交替优化实现近无嫉妒的公平推荐，并以 Sinkhorn 加速至大规模场景。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;重排（包级列表组合枚举）&quot;,&quot;ZDD 零压缩决策图&quot;,&quot;固定参数可解性 (FPT)&quot;,&quot;群组公平 (Proportionality / Envy-freeness)&quot;]"><strong><a href="../../venues/WSDM/2022/debias_fairness_industrial/enumerating_fair_packages_for_group_recommendations/">Enumerating Fair Packages for Group Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
+<dd>
+<p>用 ZDD 压缩枚举全部满足比例公平/无嫉妒约束的包，证明群组规模参数下 FPT，$O(n(K+g)2^g)$内产出万亿级候选并支持交集/top-$K$/采样过滤。</p>
 </dd>
 <dt data-paper-tags="[&quot;WWW&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;超图神经网络&quot;,&quot;多视图共识建模&quot;]"><strong><a href="../../venues/WWW/2023/social_group_rec/consrec_learning_consensus_behind_interactions_for_group_recommendation/">ConsRec: Learning Consensus Behind Interactions for Group Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>

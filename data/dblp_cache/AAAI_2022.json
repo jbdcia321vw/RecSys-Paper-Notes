@@ -1,0 +1,152 @@
+[
+  {
+    "title": "DiPS: Differentiable Policy for Sketching in Recommender Systems",
+    "ee": "https://doi.org/10.1609/AAAI.V36I6.20625",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Intelligent Online Selling Point Extraction for E-commerce Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V36I11.21501",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Undercover Boolean Matrix Factorization with MaxSAT",
+    "ee": "https://doi.org/10.1609/AAAI.V36I4.20280",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Public Policy Analysis in Social Sciences Using Causal-Graphical Normalizing Flows",
+    "ee": "https://doi.org/10.1609/AAAI.V36I11.21437",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Attrition in Recommender Systems with Departing Bandits",
+    "ee": "https://doi.org/10.1609/AAAI.V36I6.20554",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Leaping through Time with Gradient-Based Adaptation for Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V36I6.20562",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Contrastive Multi-View Graphs for Recommendation (Student Abstract)",
+    "ee": "https://doi.org/10.1609/AAAI.V36I11.21600",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "UCSM-DNN: User and Card Style Modeling with Deep Neural Networks for Personalized Game AI",
+    "ee": "https://doi.org/10.1609/AAAI.V36I11.21713",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Online Certification of Preference-Based Fairness for Personalized Recommender Systems",
+    "ee": "https://doi.org/10.1609/AAAI.V36I6.20606",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contrastive Personalization Approach to Suspect Identification (Student Abstract)",
+    "ee": "https://doi.org/10.1609/AAAI.V36I11.21617",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FPAdaMetric: False-Positive-Aware Adaptive Metric Learning for Session-Based Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V36I4.20321",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Meta-Learning for Online Update of Recommender Systems",
+    "ee": "https://doi.org/10.1609/AAAI.V36I4.20324",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Obtaining Calibrated Probabilities with Personalized Ranking Models",
+    "ee": "https://doi.org/10.1609/AAAI.V36I4.20326",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FedFR: Joint Optimization Federated Framework for Generic and Personalized Face Recognition",
+    "ee": "https://doi.org/10.1609/AAAI.V36I2.20057",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks",
+    "ee": "https://doi.org/10.1609/AAAI.V36I2.20061",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Smart Out-of-Home Advertising Using Artificial Intelligence and GIS Data",
+    "ee": "https://doi.org/10.1609/AAAI.V36I11.21729",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Dynamic Meta-Learning Model for Time-Sensitive Cold-Start Recommendations",
+    "ee": "https://doi.org/10.1609/AAAI.V36I7.20756",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GRU4RecBE: A Hybrid Session-Based Movie Recommendation System (Student Abstract)",
+    "ee": "https://doi.org/10.1609/AAAI.V36I11.21651",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FORCE: A Framework of Rule-Based Conversational Recommender System",
+    "ee": "https://doi.org/10.1609/AAAI.V36I11.21732",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Subjective Attributes in Conversational Recommendation Systems: Challenges and Opportunities",
+    "ee": "https://doi.org/10.1609/AAAI.V36I11.21492",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep Learning for Personalized Preoperative Planning of Microsurgical Free Tissue Transfers",
+    "ee": "https://doi.org/10.1609/AAAI.V36I11.21706",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SMINet: State-Aware Multi-Aspect Interests Representation Network for Cold-Start Users Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V36I8.20824",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Context Uncertainty in Contextual Bandits with Applications to Recommender Systems",
+    "ee": "https://doi.org/10.1609/AAAI.V36I8.20831",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Conditional Collaborative Filtering Process for Top-K Recommender System (Student Abstract)",
+    "ee": "https://doi.org/10.1609/AAAI.V36I11.21673",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Q-Ball: Modeling Basketball Games Using Deep Reinforcement Learning",
+    "ee": "https://doi.org/10.1609/AAAI.V36I8.20861",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cross-Task Knowledge Distillation in Multi-Task Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V36I4.20352",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning the Optimal Recommendation from Explorative Users",
+    "ee": "https://doi.org/10.1609/AAAI.V36I9.21178",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Low-Pass Graph Convolutional Network for Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V36I8.20878",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Text-Based Interactive Recommendation via Offline Reinforcement Learning",
+    "ee": "https://doi.org/10.1609/AAAI.V36I10.21424",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-View Intent Disentangle Graph Networks for Bundle Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V36I4.20359",
+    "key": "dblp_sparql"
+  }
+]

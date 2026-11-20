@@ -1,0 +1,187 @@
+[
+  {
+    "title": "MTRec: Multi-Task Learning over BERT for News Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-ACL.209",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving Personalized Explanation Generation through Visualization",
+    "ee": "https://doi.org/10.18653/V1/2022.ACL-LONG.20",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Does Recommend-Revise Produce Reliable Annotations? An Analysis on Missing Instances in DocRED",
+    "ee": "https://doi.org/10.18653/V1/2022.ACL-LONG.432",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Zero-shot Learning for Grapheme to Phoneme Conversion with Language Ensemble",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-ACL.166",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MINER: Multi-Interest Matching Network for News Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-ACL.29",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Doctor Recommendation in Online Health Forums via Expertise Learning",
+    "ee": "https://doi.org/10.18653/V1/2022.ACL-LONG.79",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Should a Chatbot be Sarcastic? Understanding User Preferences Towards Sarcasm Generation",
+    "ee": "https://doi.org/10.18653/V1/2022.ACL-LONG.530",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "QuoteR: A Benchmark of Quote Recommendation for Writing",
+    "ee": "https://doi.org/10.18653/V1/2022.ACL-LONG.27",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cluster & Tune: Boost Cold Start Performance in Text Classification",
+    "ee": "https://doi.org/10.18653/V1/2022.ACL-LONG.526",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Leveraging Similar Users for Personalized Language Modeling with Limited Data",
+    "ee": "https://doi.org/10.18653/V1/2022.ACL-LONG.122",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Two Birds with One Stone: Unified Model Learning for Both Recall and Ranking in News Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-ACL.274",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PAIGE: Personalized Adaptive Interactions Graph Encoder for Query Rewriting in Dialogue Systems",
+    "ee": "https://doi.org/10.18653/V1/2022.EMNLP-INDUSTRY.40",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MCP: Self-supervised Pre-training for Personalized Chatbots with Multi-level Contrastive Sampling",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-EMNLP.73",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Textless Speech Emotion Conversion using Discrete & Decomposed Representations",
+    "ee": "https://doi.org/10.18653/V1/2022.EMNLP-MAIN.769",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DIGAT: Modeling News Recommendation with Dual-Graph Interaction",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-EMNLP.491",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PENTATRON: PErsonalized coNText-Aware Transformer for Retrieval-based cOnversational uNderstanding",
+    "ee": "https://doi.org/10.18653/V1/2022.EMNLP-INDUSTRY.7",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Social-aware Sparse Attention Network for Session-based Social Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-EMNLP.159",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Unifying Data Perspectivism and Personalization: An Application to Social Norms",
+    "ee": "https://doi.org/10.18653/V1/2022.EMNLP-MAIN.500",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Geolocations for Cold-Start and Hard-to-Resolve Addresses via Deep Metric Learning",
+    "ee": "https://doi.org/10.18653/V1/2022.EMNLP-INDUSTRY.33",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FormLM: Recommending Creation Ideas for Online Forms by Modelling Semantic and Structural Information",
+    "ee": "https://doi.org/10.18653/V1/2022.EMNLP-MAIN.557",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning When and What to Quote: A Quotation Recommender System with Mutual Promotion of Recommendation and Generation",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-EMNLP.225",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DebiasGAN: Eliminating Position Bias in News Recommendation with Adversarial Learning",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-EMNLP.213",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Efficient Nearest Neighbor Search for Cross-Encoder Models using Matrix Factorization",
+    "ee": "https://doi.org/10.18653/V1/2022.EMNLP-MAIN.140",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Tiny-NewsRec: Effective and Efficient PLM-based News Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2022.EMNLP-MAIN.368",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Aligning Recommendation and Conversation via Dual Imitation",
+    "ee": "https://doi.org/10.18653/V1/2022.EMNLP-MAIN.36",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PerKGQA: Question Answering over Personalized Knowledge Graphs",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-NAACL.19",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Denoising Neural Network for News Recommendation with Positive and Negative Implicit Feedback",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-NAACL.178",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Building a Personalized Dialogue System with Prompt-Tuning",
+    "ee": "https://doi.org/10.18653/V1/2022.NAACL-SRW.13",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Fast Bilingual Grapheme-To-Phoneme Conversion",
+    "ee": "https://doi.org/10.18653/V1/2022.NAACL-INDUSTRY.32",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Great Power, Great Responsibility: Recommendations for Reducing Energy for Training Language Models",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-NAACL.151",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "UserIdentifier: Implicit User Representations for Simple and Effective Personalized Sentiment Analysis",
+    "ee": "https://doi.org/10.18653/V1/2022.NAACL-MAIN.252",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Aspect-based Analysis of Advertising Appeals for Search Engine Advertising",
+    "ee": "https://doi.org/10.18653/V1/2022.NAACL-INDUSTRY.9",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning",
+    "ee": "https://doi.org/10.18653/V1/2022.NAACL-INDUSTRY.2",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Grapheme-to-Phoneme Conversion for Thai using Neural Regression Models",
+    "ee": "https://doi.org/10.18653/V1/2022.NAACL-MAIN.315",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving Conversational Recommendation Systems' Quality with Context-Aware Item Meta-Information",
+    "ee": "https://doi.org/10.18653/V1/2022.FINDINGS-NAACL.4",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GRAM: Fast Fine-tuning of Pre-trained Language Models for Content-based Collaborative Filtering",
+    "ee": "https://doi.org/10.18653/V1/2022.NAACL-MAIN.61",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Less is More: Learning to Refine Dialogue History for Personalized Dialogue Generation",
+    "ee": "https://doi.org/10.18653/V1/2022.NAACL-MAIN.426",
+    "key": "dblp_sparql"
+  }
+]

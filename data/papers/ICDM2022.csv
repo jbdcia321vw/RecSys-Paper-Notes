@@ -1,0 +1,12 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Simulated Contextual Bandits for Personalization Tasks from Recommendation Datasets,2210.10631,https://arxiv.org/abs/2210.10631,,rl_bandit_rec,ICDM,2022
+Kernel-based Substructure Exploration for Next POI Recommendation,2210.03969,https://arxiv.org/abs/2210.03969,https://github.com/Fang6ang/KBGNN,poi_spatiotemporal_rec,ICDM,2022
+IGNiteR: News Recommendation in Microblogging Applications (Extended Version),2210.01942,https://arxiv.org/abs/2210.01942,,social_group_rec,ICDM,2022
+Beyond Double Ascent via Recurrent Neural Tangent Kernel in Sequential Recommendation,2209.03735,https://arxiv.org/abs/2209.03735,,sequential_rec,ICDM,2022
+AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation,2308.06965,https://arxiv.org/abs/2308.06965,,cold_start_rec,ICDM,2022
+ULTRA: A Data-driven Approach for Recommending Team Formation in Response to Proposal Calls,2201.05646,https://arxiv.org/abs/2201.05646,,social_group_rec,ICDM,2022
+"One Person, One Model--Learning Compound Router for Sequential Recommendation",2211.02824,https://arxiv.org/abs/2211.02824,https://github.com/icantnamemyself/CANet,sequential_rec,ICDM,2022
+Towards High-Order Complementary Recommendation via Logical Reasoning Network,2212.04966,https://arxiv.org/abs/2212.04966,,graph_rec,ICDM,2022
+Heterogeneous Graph Neural Network for Privacy-Preserving Recommendation,2210.00538,https://arxiv.org/abs/2210.00538,,debias_fairness_industrial,ICDM,2022
+Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation,2310.11730,https://arxiv.org/abs/2310.11730,,debias_fairness_industrial,ICDM,2022
+AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling,2210.15154,https://arxiv.org/abs/2210.15154,,ctr_feature_interaction,ICDM,2022

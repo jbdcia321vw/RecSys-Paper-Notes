@@ -1,0 +1,7 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Doctor Recommendation in Online Health Forums via Expertise Learning,2203.02932,https://arxiv.org/abs/2203.02932,,collaborative_filtering,ACL_EMNLP,2022
+Tiny-NewsRec: Effective and Efficient PLM-based News Recommendation,2112.00944,https://arxiv.org/abs/2112.00944,,llm_rec,ACL_EMNLP,2022
+DebiasGAN: Eliminating Position Bias in News Recommendation with Adversarial Learning,2106.06258,https://arxiv.org/abs/2106.06258,,debias_fairness_industrial,ACL_EMNLP,2022
+DIGAT: Modeling News Recommendation with Dual-Graph Interaction,2210.05196,https://arxiv.org/abs/2210.05196,,graph_rec,ACL_EMNLP,2022
+Aspect-based Analysis of Advertising Appeals for Search Engine Advertising,2204.11445,https://arxiv.org/abs/2204.11445,,ctr_feature_interaction,ACL_EMNLP,2022
+Aligning Recommendation and Conversation via Dual Imitation,2211.02848,https://arxiv.org/abs/2211.02848,,agent_conversational_rec,ACL_EMNLP,2022

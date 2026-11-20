@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Learning Sentence-to-Hashtags Semantic Mapping for Hashtag Recommendation on Microblogs",
+    "ee": "https://doi.org/10.1145/3466876",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Establishing Smartphone User Behavior Model Based on Energy Consumption Data",
+    "ee": "https://doi.org/10.1145/3461459",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "TRACE: Travel Reinforcement Recommendation Based on Location-Aware Context Extraction",
+    "ee": "https://doi.org/10.1145/3487047",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cross-domain Recommendation with Bridge-Item Embeddings",
+    "ee": "https://doi.org/10.1145/3447683",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph-Based Stock Recommendation by Time-Aware Relational Attention Network",
+    "ee": "https://doi.org/10.1145/3451397",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Joint Passenger Flow Inference and Path Recommender System for Deploying New Routes and Stations of Mass Transit Transportation",
+    "ee": "https://doi.org/10.1145/3451393",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Constrained Dual-Level Bandit for Personalized Impression Regulation in Online Ranking Systems",
+    "ee": "https://doi.org/10.1145/3461340",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Bayesian Additive Matrix Approximation for Social Recommendation",
+    "ee": "https://doi.org/10.1145/3451391",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Profile Decomposition Based Hybrid Transfer Learning for Cold-Start Data Anomaly Detection",
+    "ee": "https://doi.org/10.1145/3530990",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mixed Information Flow for Cross-Domain Sequential Recommendations",
+    "ee": "https://doi.org/10.1145/3487331",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Neural News Recommendation with User Existing and Potential Interest Modeling",
+    "ee": "https://doi.org/10.1145/3511708",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MBN: Towards Multi-Behavior Sequence Modeling for Next Basket Recommendation",
+    "ee": "https://doi.org/10.1145/3497748",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph-Enhanced Spatial-Temporal Network for Next POI Recommendation",
+    "ee": "https://doi.org/10.1145/3513092",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hybrid Variational Autoencoder for Recommender Systems",
+    "ee": "https://doi.org/10.1145/3470659",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "KRAN: Knowledge Refining Attention Network for Recommendation",
+    "ee": "https://doi.org/10.1145/3470783",
+    "key": "dblp_sparql"
+  }
+]
