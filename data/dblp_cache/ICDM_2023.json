@@ -1,0 +1,292 @@
+[
+  {
+    "title": "Unbiased and Robust: External Attention-enhanced Graph Contrastive Learning for Cross-domain Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00194",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00082",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "From Generalized Laughter to Personalized Chuckles: Unleashing the Power of Data Fusion in Subjective Humor Detection",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00098",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Bilateral Sequential Hypergraph Convolution Network for Reciprocal Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00110",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Distributional Domain-Invariant Preference Matching for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00017",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Sequential Next-Item Prediction through Modelling Non-Item Pages",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00024",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Expert Recommendation Method for Fault Maintenance Based On Industrial Manufacturing Knowledge",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00025",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GNN-GMVO: Graph Neural Networks for Optimizing Gross Merchandise Value in Similar Item Recommendation",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00189",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FM-IGNN: Interaction Graph Neural Network with Fine-grained Matching for Session-based Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00022",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Temporal Positive Collective Matrix Factorization for Interpretable Trend Analysis in Recommender Systems",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00011",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00195",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Review-Enhanced Sequential Recommendation with Self-Attention and Graph Collaborative Features",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00190",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Federated Semi-Supervised Learning with Black-Box Models",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00124",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cascaded Cross Attention for Review-based Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00026",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Graph Collaborative Filtering via Neighborhood Structure Embedding",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00028",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Heterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00191",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Heterogeneous Treatment Effect Estimation with Subpopulation Identification for Personalized Medicine in Opioid Use Disorder",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00127",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Anisotropic Knowledge Empowers Efficient Recommender System through Generative-Mapping Representation Learning",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00173",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00047",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Privacy-Preserving Cross-Domain Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00138",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Label Personalized Classification via Exclusive Sparse Tensor Factorization",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00049",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Variational Collective Graph AutoEncoder for Multi-behavior Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00053",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Automatic Personalized Health Insurance Recommendation Based on Utility and User Feedback",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00174",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Sampling based Fairness-aware Recommendation over Sensitive Attribute Removal",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00052",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hypergraph Attribute Attention Network for Community Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00036",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Auto Graph Filtering for Bundle Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00039",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PKAT: Pre-training in Collaborative Knowledge Graph Attention Network for Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00054",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An IoT-based Approach to Expert Recommendation in Community Question Answering for Disaster Recovery",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00116",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Leveraging Implicit Knowledge in Recommender Systems for Maternal Health",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00049",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep Attention Q-Network for Personalized Treatment Recommendation",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00048",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An in-depth analysis of robustness and accuracy of recommendation systems",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00192",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Uncertainty in Personalized Emotion Prediction with Normalizing Flows",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00103",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Graph Convolutional Neural Network for Recommendation Based on Community Detection and Combination of Multiple Heterogeneous Graphs",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00154",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Social Recommendation with Multi-View BERT Network",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00161",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Epsilon non-Greedy: A Bandit Approach for Unbiased Recommendation via Uniform Data",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00026",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Birds of a Feather Purchase Together: Accurate Social Network Inference using Transaction Data",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00176",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Session-based Interactive Recommendation via Deep Reinforcement Learning",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00168",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Increasing Entropy to Boost Policy Gradient Performance on Personalization Tasks",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00197",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MCRec: Multi-channel Gated Gifts Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00064",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Personalized Healthcare via Capturing Disease Severity, Interaction, and Progression",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00173",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Temporally Dynamic Session-Keyword Aware Sequential Recommendation System",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00027",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GeoMixer: The MLP-Based Sequential POI Recommender with Travel Routing Modelling",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00177",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "IGCN: Item Influence Enhanced Graph Convolution Networks for Recommendation of Cold-Start Items",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00193",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CounterCLR: Counterfactual Contrastive Learning with Non-random Missing Data in Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00174",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SOAC: Supervised Off-Policy Actor-Critic for Recommender Systems",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00185",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Collaborative Optimization for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00186",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Neural Ordinary Differential Equations-based method for Collaborative Filtering",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00189",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "User Preference Learning based on Automatic Environment Classification for General Debiasing in Recommendation Systems",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00028",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00195",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Fact-Preserved Personalized News Headline Generation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00197",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ConvAOA: A Convolutional Attention Over Attention Model for Click-Through Rate Prediction",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00081",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Non-Negative Matrix Factorization for Link Prediction Preserving Row and Column Spaces",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00190",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SGD with Partial Hessian for Deep Recommendation System Optimization",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00030",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contrastive Learning-based Multi-behavior Recommendation with Semantic Knowledge Enhancement",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00200",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering",
+    "ee": "https://doi.org/10.1109/ICDMW60847.2023.00075",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SCRIPT: Sequential Cross-Meta-Information Recommendation in Pretrain and Prompt Paradigm",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00098",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "IKGN: Intention-aware Knowledge Graph Network for POI Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00100",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MtiRec: A Medical Test Recommender System based on the Analysis of Treatment Programs",
+    "ee": "https://doi.org/10.1109/ICDM58522.2023.00099",
+    "key": "dblp_sparql"
+  }
+]

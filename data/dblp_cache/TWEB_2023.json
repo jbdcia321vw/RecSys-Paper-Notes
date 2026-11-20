@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Keywords-enhanced Deep Reinforcement Learning Model for Travel Recommendation",
+    "ee": "https://doi.org/10.1145/3570959",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reinforced MOOCs Concept Recommendation in Heterogeneous Information Networks",
+    "ee": "https://doi.org/10.1145/3580510",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Understanding the Contribution of Recommendation Algorithms on Misinformation Recommendation and Misinformation Dissemination on Social Networks",
+    "ee": "https://doi.org/10.1145/3616088",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pre-Training Across Different Cities for Next POI Recommendation",
+    "ee": "https://doi.org/10.1145/3605554",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Conversational Recommendation Systems with Representation Fusion",
+    "ee": "https://doi.org/10.1145/3577034",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dynamic Bayesian Contrastive Predictive Coding Model for Personalized Product Search",
+    "ee": "https://doi.org/10.1145/3609225",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Multi-Task Graph Neural Network with Variational Graph Auto-Encoders for Session-Based Travel Packages Recommendation",
+    "ee": "https://doi.org/10.1145/3577032",
+    "key": "dblp_sparql"
+  }
+]

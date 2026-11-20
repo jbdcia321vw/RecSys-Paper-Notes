@@ -1,0 +1,62 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning,2309.04802,https://arxiv.org/abs/2309.04802,https://github.com/DiMarzioBian/CPMR,sequential_rec,CIKM,2023
+Towards Communication-Efficient Model Updating for On-Device Session-Based Recommendation,2308.12777,https://arxiv.org/abs/2308.12777,https://github.com/xiaxin1998/ODUpdate,sequential_rec,CIKM,2023
+SHARK: A Lightweight Model Compression Approach for Large-scale Recommender Systems,2308.09395,https://arxiv.org/abs/2308.09395,,debias_fairness_industrial,CIKM,2023
+An Incremental Update Framework for Online Recommenders with Data-Driven Prior,2312.15903,https://arxiv.org/abs/2312.15903,,ctr_feature_interaction,CIKM,2023
+AutoSeqRec: Autoencoder for Efficient Sequential Recommendation,2308.06878,https://arxiv.org/abs/2308.06878,,sequential_rec,CIKM,2023
+Toward a Better Understanding of Loss Functions for Collaborative Filtering,2308.06091,https://arxiv.org/abs/2308.06091,,collaborative_filtering,CIKM,2023
+Track2Vec: fairness music recommendation with a GPU-free customizable-driven framework,2210.16590,https://arxiv.org/abs/2210.16590,,debias_fairness_industrial,CIKM,2023
+DPAN: Dynamic Preference-based and Attribute-aware Network for Relevant Recommendations,2308.10527,https://arxiv.org/abs/2308.10527,,ctr_feature_interaction,CIKM,2023
+Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems,2308.12083,https://arxiv.org/abs/2308.12083,https://github.com/jackmedda/RS-BGExplainer,debias_fairness_industrial,CIKM,2023
+How Expressive are Graph Neural Networks in Recommendation?,2308.11127,https://arxiv.org/abs/2308.11127,https://github.com/HKUDS/GTE,graph_rec,CIKM,2023
+MEBS: Multi-task End-to-end Bid Shading for Multi-slot Display Advertising,2403.02607,https://arxiv.org/abs/2403.02607,,ctr_feature_interaction,CIKM,2023
+Rec4Ad: A Free Lunch to Mitigate Sample Selection Bias for Ads CTR Prediction in Taobao,2306.03527,https://arxiv.org/abs/2306.03527,,ctr_feature_interaction,CIKM,2023
+Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training,2305.07633,https://arxiv.org/abs/2305.07633,,cold_start_rec,CIKM,2023
+Query-dominant User Interest Network for Large-Scale Search Ranking,2310.06444,https://arxiv.org/abs/2310.06444,,sequential_rec,CIKM,2023
+An Unified Search and Recommendation Foundation Model for Cold-Start Scenario,2309.08939,https://arxiv.org/abs/2309.08939,,cold_start_rec,CIKM,2023
+Triplet Losses-based Matrix Factorization for Robust Recommendations,2210.12098,https://arxiv.org/abs/2210.12098,,collaborative_filtering,CIKM,2023
+Single-User Injection for Invisible Shilling Attack against Recommender Systems,2308.10467,https://arxiv.org/abs/2308.10467,https://github.com/KDEGroup/SUI-Attack,debias_fairness_industrial,CIKM,2023
+Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning,2311.16334,https://arxiv.org/abs/2311.16334,,self_supervised_denoising,CIKM,2023
+AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation,2205.08776,https://arxiv.org/abs/2205.08776,https://github.com/juyongjiang/AdaMCT,sequential_rec,CIKM,2023
+Dynamic Embedding Size Search with Minimum Regret for Streaming Recommender System,2308.07760,https://arxiv.org/abs/2308.07760,,rl_bandit_rec,CIKM,2023
+Deep Context Interest Network for Click-Through Rate Prediction,2308.06037,https://arxiv.org/abs/2308.06037,,ctr_feature_interaction,CIKM,2023
+Large Language Models as Zero-Shot Conversational Recommenders,2308.10053,https://arxiv.org/abs/2308.10053,,agent_conversational_rec,CIKM,2023
+Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems,2308.15980,https://arxiv.org/abs/2308.15980,,sequential_rec,CIKM,2023
+Meta-Learning with Adaptive Weighted Loss for Imbalanced Cold-Start Recommendation,2302.14640,https://arxiv.org/abs/2302.14640,,cold_start_rec,CIKM,2023
+MvFS: Multi-view Feature Selection for Recommender System,2309.02064,https://arxiv.org/abs/2309.02064,,ctr_feature_interaction,CIKM,2023
+Multi-Granularity Attention Model for Group Recommendation,2308.04017,https://arxiv.org/abs/2308.04017,,social_group_rec,CIKM,2023
+STGIN: Spatial-Temporal Graph Interaction Network for Large-scale POI Recommendation,2309.02251,https://arxiv.org/abs/2309.02251,,poi_spatiotemporal_rec,CIKM,2023
+Text Matching Improves Sequential Recommendation by Reducing Popularity Biases,2308.14029,https://arxiv.org/abs/2308.14029,https://github.com/OpenMatch/TASTE,sequential_rec,CIKM,2023
+HAMUR: Hyper Adapter for Multi-Domain Recommendation,2309.06217,https://arxiv.org/abs/2309.06217,,cross_domain_multi_scenario,CIKM,2023
+Deep Task-specific Bottom Representation Network for Multi-Task Recommendation,2308.05996,https://arxiv.org/abs/2308.05996,,multi_task_reranking,CIKM,2023
+Diffusion Augmentation for Sequential Recommendation,2309.12858,https://arxiv.org/abs/2309.12858,,sequential_rec,CIKM,2023
+Unified Generative & Dense Retrieval for Query Rewriting in Sponsored Search,2209.05861,https://arxiv.org/abs/2209.05861,,ctr_feature_interaction,CIKM,2023
+Timestamps as Prompts for Geography-Aware Location Recommendation,2304.04151,https://arxiv.org/abs/2304.04151,,poi_spatiotemporal_rec,CIKM,2023
+Parallel Knowledge Enhancement based Framework for Multi-behavior Recommendation,2308.04807,https://arxiv.org/abs/2308.04807,https://github.com/MC-CV/PKEF,multi_task_reranking,CIKM,2023
+Uplift Modeling: from Causal Inference to Personalization,2308.09066,https://arxiv.org/abs/2308.09066,,debias_fairness_industrial,CIKM,2023
+BOLT: An Automated Deep Learning Framework for Training and Deploying Large-Scale Search and Recommendation Models on Commodity CPU Hardware,2303.17727,https://arxiv.org/abs/2303.17727,,debias_fairness_industrial,CIKM,2023
+MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement,2308.09649,https://arxiv.org/abs/2308.09649,https://github.com/yunhak0/MUSE,self_supervised_denoising,CIKM,2023
+Post-hoc Selection of Pareto-Optimal Solutions in Search and Recommendation,2306.12165,https://arxiv.org/abs/2306.12165,,multi_task_reranking,CIKM,2023
+Masked Multi-Domain Network: Multi-Type and Multi-Scenario Conversion Rate Prediction with a Single Model,2403.17425,https://arxiv.org/abs/2403.17425,,ctr_feature_interaction,CIKM,2023
+Multi-domain Recommendation with Embedding Disentangling and Domain Alignment,2308.05508,https://arxiv.org/abs/2308.05508,https://github.com/Stevenn9981/EDDA,cross_domain_multi_scenario,CIKM,2023
+Item-based Variational Auto-encoder for Fair Music Recommendation,2211.01333,https://arxiv.org/abs/2211.01333,,debias_fairness_industrial,CIKM,2023
+CDR: Conservative Doubly Robust Learning for Debiased Recommendation,2308.08461,https://arxiv.org/abs/2308.08461,,debias_fairness_industrial,CIKM,2023
+TSRec: Enhancing Repeat-Aware Recommendation from a Temporal-Sequential Perspective,2506.08531,https://arxiv.org/abs/2506.08531,,sequential_rec,CIKM,2023
+"Towards Deeper, Lighter and Interpretable Cross Network for CTR Prediction",2311.04635,https://arxiv.org/abs/2311.04635,https://github.com/anonctr/GDCN,ctr_feature_interaction,CIKM,2023
+RecRec: Algorithmic Recourse for Recommender Systems,2308.14916,https://arxiv.org/abs/2308.14916,,debias_fairness_industrial,CIKM,2023
+EvalRS: a Rounded Evaluation of Recommender Systems,2207.05772,https://arxiv.org/abs/2207.05772,,debias_fairness_industrial,CIKM,2023
+Efficient Multi-Task Learning via Generalist Recommender,2504.05318,https://arxiv.org/abs/2504.05318,,multi_task_reranking,CIKM,2023
+KuaiSAR: A Unified Search And Recommendation Dataset,2306.07705,https://arxiv.org/abs/2306.07705,,debias_fairness_industrial,CIKM,2023
+G-Meta: Distributed Meta Learning in GPU Clusters for Large-Scale Recommender Systems,2401.04338,https://arxiv.org/abs/2401.04338,,debias_fairness_industrial,CIKM,2023
+Dimension Independent Mixup for Hard Negative Sample in Collaborative Filtering,2306.15905,https://arxiv.org/abs/2306.15905,,collaborative_filtering,CIKM,2023
+Graph-based Alignment and Uniformity for Recommendation,2308.09292,https://arxiv.org/abs/2308.09292,https://github.com/YangLiangwei/GraphAU,graph_rec,CIKM,2023
+MemoNet: Memorizing All Cross Features' Representations Efficiently via Multi-Hash Codebook Network for CTR Prediction,2211.01334,https://arxiv.org/abs/2211.01334,,ctr_feature_interaction,CIKM,2023
+FiBiNet++: Reducing Model Size by Low Rank Feature Interaction Layer for CTR Prediction,2209.05016,https://arxiv.org/abs/2209.05016,,ctr_feature_interaction,CIKM,2023
+COPR: Consistency-Oriented Pre-Ranking for Online Advertising,2306.03516,https://arxiv.org/abs/2306.03516,,multi_task_reranking,CIKM,2023
+Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework,2306.17426,https://arxiv.org/abs/2306.17426,,debias_fairness_industrial,CIKM,2023
+iHAS: Instance-wise Hierarchical Architecture Search for Deep Learning Recommendation Models,2309.07967,https://arxiv.org/abs/2309.07967,,ctr_feature_interaction,CIKM,2023
+Entire Space Cascade Delayed Feedback Modeling for Effective Conversion Rate Prediction,2308.04768,https://arxiv.org/abs/2308.04768,,ctr_feature_interaction,CIKM,2023
+Contrastive Counterfactual Learning for Causality-aware Interpretable Recommender Systems,2208.06746,https://arxiv.org/abs/2208.06746,,debias_fairness_industrial,CIKM,2023
+Scalable Neural Contextual Bandit for Recommender Systems,2306.14834,https://arxiv.org/abs/2306.14834,,rl_bandit_rec,CIKM,2023
+Decentralized Graph Neural Network for Privacy-Preserving Recommendation,2308.08072,https://arxiv.org/abs/2308.08072,,debias_fairness_industrial,CIKM,2023
+Attention Calibration for Transformer-based Sequential Recommendation,2308.09419,https://arxiv.org/abs/2308.09419,https://github.com/AIM-SE/AC-TSR,sequential_rec,CIKM,2023

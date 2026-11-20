@@ -1,0 +1,3 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Edge-Enhanced Global Disentangled Graph Neural Network for Sequential Recommendation,2111.10539,https://arxiv.org/abs/2111.10539,,sequential_rec,TKDD,2023
+Be Causal: De-biasing Social Network Confounding in Recommendation,2105.07775,https://arxiv.org/abs/2105.07775,,debias_fairness_industrial,TKDD,2023

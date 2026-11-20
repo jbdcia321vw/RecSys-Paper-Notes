@@ -19,3 +19,6 @@ Tell Me What Is Good About This Property: Leveraging Reviews For Segment-Persona
 Parallel Ranking of Ads and Creatives in Real-Time Advertising Systems,2312.12750,https://arxiv.org/abs/2312.12750,,ctr_feature_interaction,AAAI,2024
 Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations,2307.05722,https://arxiv.org/abs/2307.05722,https://github.com/WLiK/GLRec,llm_rec,AAAI,2024
 UNEX-RL: Reinforcing Long-Term Rewards in Multi-Stage Recommender Systems with UNidirectional EXecution,2401.06470,https://arxiv.org/abs/2401.06470,,rl_bandit_rec,AAAI,2024
+i-Rebalance: Personalized Vehicle Repositioning for Supply Demand Balance,2401.04429,https://arxiv.org/abs/2401.04429,,poi_spatiotemporal_rec,AAAI,2024
+Distributional Off-Policy Evaluation for Slate Recommendations,2308.14165,https://arxiv.org/abs/2308.14165,,rl_bandit_rec,AAAI,2024
+No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation,2312.10080,https://arxiv.org/abs/2312.10080,,debias_fairness_industrial,AAAI,2024

@@ -5,9 +5,9 @@ hide:
 
 # 🏛️ AAAI (RecSys Track) 2024 推荐系统论文解读
 
-20 篇 AAAI (RecSys Track) 2024 论文解读，覆盖 12 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
+23 篇 AAAI (RecSys Track) 2024 论文解读，覆盖 13 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
-🔥 **高频主题：** AAAI 2024 ×16 · AAAI ×4 · 大语言模型推荐 ×2
+🔥 **高频主题：** AAAI 2024 ×18 · AAAI ×5 · 大语言模型推荐 ×2
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -20,12 +20,13 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">8</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">9</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">6</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">2</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>
@@ -137,8 +138,12 @@ hide:
 </section>
 <section class="paper-section" data-paper-section>
 <hr />
-<h2 id="poi_spatiotemporal_rec">📍 时空轨迹与 POI 本地生活推荐 (1)</h2>
+<h2 id="poi_spatiotemporal_rec">📍 时空轨迹与 POI 本地生活推荐 (2)</h2>
 <dl data-paper-list>
+<dt data-paper-tags="[&quot;AAAI 2024&quot;,&quot;时空轨迹与 POI 本地生活推荐&quot;,&quot;端到端策略决策（车辆再定位调度）&quot;,&quot;双智能体顺序决策&quot;,&quot;司机偏好建模&quot;,&quot;供需平衡&quot;]"><strong><a href="poi_spatiotemporal_rec/i_rebalance_personalized_vehicle_repositioning_for_supply_demand_balance/">i-Rebalance: Personalized Vehicle Repositioning for Supply Demand Balance</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>以 99 名真实司机问卷建模接单意愿，用 Grid/Vehicle 双 DRL 智能体顺序化生成个性化车辆再定位推荐，在成都真实轨迹仿真上使接受率升至 84.43%、司机总收入 +9.97%。</p>
+</dd>
 <dt data-paper-tags="[&quot;AAAI&quot;,&quot;时空轨迹与POI本地生活推荐&quot;,&quot;召回&quot;,&quot;Mobility Tree&quot;,&quot;时段偏好建模&quot;,&quot;Tree-LSTM&quot;]"><strong><a href="poi_spatiotemporal_rec/learning_time_slot_preferences_via_mobility_tree_for_next_poi_recommendatio/">Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>提出 Mobility Tree 分层编码签到轨迹，用四步 IAC/IRC 节点交互与多任务学习刻画多粒度时段偏好，三数据集全指标超越 10 个 SOTA。</p>
@@ -175,11 +180,25 @@ hide:
 </section>
 <section class="paper-section" data-paper-section>
 <hr />
-<h2 id="rl_bandit_rec">🎮 强化学习与动态探索推荐 (1)</h2>
+<h2 id="rl_bandit_rec">🎮 强化学习与动态探索推荐 (2)</h2>
 <dl data-paper-list>
+<dt data-paper-tags="[&quot;AAAI 2024&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;重排（Slate 策略离线评估）&quot;,&quot;分布型离线策略评估&quot;,&quot;Slate 推荐&quot;,&quot;重要性采样&quot;]"><strong><a href="rl_bandit_rec/distributional_off_policy_evaluation_for_slate_recommendations/">Distributional Off-Policy Evaluation for Slate Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>提出 SUnO，以槽级密度比之和估计 slate 策略完整奖励 CDF，MovieLens-20M 上 KS 降约 43%–62%，方差显著低于 UnO。</p>
+</dd>
 <dt data-paper-tags="[&quot;AAAI 2024&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;多阶段排序（召回/粗排/精排）&quot;,&quot;Multi-Agent RL&quot;,&quot;Cascading Information Chain&quot;]"><strong><a href="rl_bandit_rec/unex_rl_reinforcing_long_term_rewards_in_multi_stage_recommender_systems_wi/">UNEX-RL: Reinforcing Long-Term Rewards in Multi-Stage Recommender Systems with UNidirectional EXecution</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>将多阶段推荐建模为单向执行 MARL，用 CIC 重放全链观测并配合 SG/CQR 降方差；离线模拟器与 Kwai 在线 A/B 显著提升长期观看时长。</p>
+</dd>
+</dl>
+</section>
+<section class="paper-section" data-paper-section>
+<hr />
+<h2 id="debias_fairness_industrial">🛡️ 去偏公平、可信隐私与工业架构 (1)</h2>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回&quot;,&quot;联邦图神经网络&quot;,&quot;群体公平&quot;,&quot;本地差分隐私&quot;]"><strong><a href="debias_fairness_industrial/no_prejudice_fair_federated_graph_neural_networks_for_personalized_recommen/">No Prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>在联邦图推荐中以隐私保护的归纳式图扩展+LDP，把群体公平正则转化为梯度缩放因子，RMSE 差异降 47%–99%。</p>
 </dd>
 </dl>
 </section>

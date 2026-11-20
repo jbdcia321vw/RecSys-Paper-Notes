@@ -5,9 +5,9 @@ hide:
 
 # 🏛️ ACL / EMNLP (RecSys & CRS) 2024 推荐系统论文解读
 
-18 篇 ACL / EMNLP (RecSys & CRS) 2024 论文解读，覆盖 9 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
+19 篇 ACL / EMNLP (RecSys & CRS) 2024 论文解读，覆盖 9 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
-🔥 **高频主题：** ACL ×5 · 大语言模型推荐 ×5 · 端到端生成式 ×5 · ACL 2024 ×3 · 生成式端到端 ×3 · EMNLP ×2 · EMNLP 2024 ×2 · LLM4Rec ×2
+🔥 **高频主题：** 端到端生成式 ×6 · ACL ×5 · 大语言模型推荐 ×5 · ACL 2024 ×4 · LLM4Rec ×3 · 生成式端到端 ×3 · EMNLP ×2 · EMNLP 2024 ×2
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -20,11 +20,11 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
+<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">6</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">5</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="LLM4Rec" aria-pressed="false">LLM4Rec<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式端到端" aria-pressed="false">生成式端到端<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="LLM4Rec" aria-pressed="false">LLM4Rec<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="指令微调" aria-pressed="false">指令微调<span class="paper-tag-filter__count">2</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
@@ -73,8 +73,12 @@ hide:
 </section>
 <section class="paper-section" data-paper-section>
 <hr />
-<h2 id="llm_rec">🧠 大语言模型推荐 (LLM4Rec) (8)</h2>
+<h2 id="llm_rec">🧠 大语言模型推荐 (LLM4Rec) (9)</h2>
 <dl data-paper-list>
+<dt data-paper-tags="[&quot;ACL 2024&quot;,&quot;LLM4Rec&quot;,&quot;端到端生成式&quot;,&quot;RLHF/PPO 对齐&quot;,&quot;可控推荐&quot;]"><strong><a href="llm_rec/aligning_large_language_models_for_controllable_recommendations/">Aligning Large Language Models for Controllable Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>两阶段 SL+PPO 对齐 Llama2-7b，以 SASRec 标签增强与规则奖励实现类目/比例可控推荐；Leave-One-Out 生成式 top-k，TCP 95.8%、CPA 88.4%。</p>
+</dd>
 <dt data-paper-tags="[&quot;NAACL 2024 Findings&quot;,&quot;大语言模型推荐&quot;,&quot;端到端生成式&quot;,&quot;指令微调&quot;,&quot;掩码物品建模&quot;,&quot;贝叶斯个性化排序&quot;]"><strong><a href="llm_rec/aligning_large_language_models_with_recommendation_knowledge/">Aligning Large Language Models with Recommendation Knowledge</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>将 MIM/MLM/BPR 经典算子改写为自然语言辅助任务微调 LLM，配合去 user-ID 的精简推荐提示，在 Amazon 三域全库检索上超越 TIGER 达 19%。</p>

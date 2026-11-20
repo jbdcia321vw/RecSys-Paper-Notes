@@ -7,9 +7,9 @@ hide:
 
 > **研究范畴**：RQ-VAE/VQ 残差量化码本、TIGER 自回归生成式检索、扩散/流匹配生成推荐 (Diffusion/Flow Rec)
 
-当前方向共收录 **229** 篇顶会/顶刊论文解读：
+当前方向共收录 **244** 篇顶会/顶刊论文解读：
 
-🔥 **高频交叉主题：** 大语言模型推荐 ×33 · 多任务学习 ×7 · 多模态推荐 ×6 · 去偏公平与可信推荐 ×5 · 语义ID量化 ×4 · 推理加速 ×3 · 时空轨迹与POI推荐 ×3 · 端到端推荐 ×3
+🔥 **高频交叉主题：** 大语言模型推荐 ×33 · 多任务学习 ×7 · 多模态推荐 ×7 · 去偏公平与可信推荐 ×5 · 语义ID量化 ×4 · GFlowNet ×3 · 推理加速 ×3 · 时空轨迹与POI推荐 ×3
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -22,43 +22,50 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">168</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">44</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">170</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">47</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="语义ID" aria-pressed="false">语义ID<span class="paper-tag-filter__count">36</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">33</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">26</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">15</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">12</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">17</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">13</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">13</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐与离散语义ID" aria-pressed="false">生成式推荐与离散语义ID<span class="paper-tag-filter__count">11</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="RQ-VAE" aria-pressed="false">RQ-VAE<span class="paper-tag-filter__count">8</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式端到端" aria-pressed="false">生成式端到端<span class="paper-tag-filter__count">8</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多任务学习" aria-pressed="false">多任务学习<span class="paper-tag-filter__count">7</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">7</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">7</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="扩散推荐" aria-pressed="false">扩散推荐<span class="paper-tag-filter__count">7</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="扩散模型" aria-pressed="false">扩散模型<span class="paper-tag-filter__count">7</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">7</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐与离散语义ID" aria-pressed="false">生成式推荐与离散语义ID<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="生成式检索" aria-pressed="false">生成式检索<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="生成式端到端" aria-pressed="false">生成式端到端<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="RQ-VAE" aria-pressed="false">RQ-VAE<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式检索" aria-pressed="false">生成式检索<span class="paper-tag-filter__count">7</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="向量量化" aria-pressed="false">向量量化<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="残差量化" aria-pressed="false">残差量化<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式重排" aria-pressed="false">生成式重排<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="语义ID量化" aria-pressed="false">语义ID量化<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Flow Matching" aria-pressed="false">Flow Matching<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="GFlowNet" aria-pressed="false">GFlowNet<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="推理加速" aria-pressed="false">推理加速<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与POI推荐" aria-pressed="false">时空轨迹与POI推荐<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="物品索引" aria-pressed="false">物品索引<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐与离散语义 ID" aria-pressed="false">生成式推荐与离散语义 ID<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="端到端推荐" aria-pressed="false">端到端推荐<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="约束解码" aria-pressed="false">约束解码<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="缩放定律" aria-pressed="false">缩放定律<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="课程学习" aria-pressed="false">课程学习<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="GFlowNet" aria-pressed="false">GFlowNet<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="GRPO 强化学习" aria-pressed="false">GRPO 强化学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="HSTU" aria-pressed="false">HSTU<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LLM-as-a-Judge" aria-pressed="false">LLM-as-a-Judge<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="RAG" aria-pressed="false">RAG<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Scaling Law" aria-pressed="false">Scaling Law<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Semantic ID" aria-pressed="false">Semantic ID<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="个性化标题生成" aria-pressed="false">个性化标题生成<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="偏好对齐" aria-pressed="false">偏好对齐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="参数高效微调" aria-pressed="false">参数高效微调<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="可解释推荐" aria-pressed="false">可解释推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多任务学习与列表级重排" aria-pressed="false">多任务学习与列表级重排<span class="paper-tag-filter__count">2</span></button>
@@ -66,15 +73,14 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="嵌入坍缩" aria-pressed="false">嵌入坍缩<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="并行解码" aria-pressed="false">并行解码<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="扩散模型去噪" aria-pressed="false">扩散模型去噪<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="扩散模型推荐" aria-pressed="false">扩散模型推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="投机解码" aria-pressed="false">投机解码<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="捆绑推荐" aria-pressed="false">捆绑推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="流行度去偏" aria-pressed="false">流行度去偏<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="物品索引" aria-pressed="false">物品索引<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="离散扩散" aria-pressed="false">离散扩散<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="离线强化学习" aria-pressed="false">离线强化学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="粗排" aria-pressed="false">粗排<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="约束解码" aria-pressed="false">约束解码<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="缩放律" aria-pressed="false">缩放律<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自动出价" aria-pressed="false">自动出价<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="训练-推理对齐" aria-pressed="false">训练-推理对齐<span class="paper-tag-filter__count">2</span></button>
@@ -185,9 +191,25 @@ hide:
 <dd>
 <p>用 GFlowNet 多候选生成替代单动作 RL 策略，在短视频预取场景实现个性化 QoE 与带宽双优化。</p>
 </dd>
+<dt data-paper-tags="[&quot;CIKM 2023&quot;,&quot;序列与会话推荐&quot;,&quot;数据增强(召回前处理)&quot;,&quot;Diffusion Model&quot;,&quot;SU-Net&quot;,&quot;长尾用户&quot;]"><strong><a href="../../venues/CIKM/2023/sequential_rec/diffusion_augmentation_for_sequential_recommendation/">Diffusion Augmentation for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>用扩散模型一次性生成高质量伪前序物品序列做数据增强，配合 SU-Net 与两种引导策略，在三个数据集三种骨干上稳定提升 HR/NDCG，尤其缓解长尾用户。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2023&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;召回&quot;,&quot;生成式检索&quot;,&quot;稠密检索&quot;,&quot;查询改写&quot;]"><strong><a href="../../venues/CIKM/2023/ctr_feature_interaction/unified_generative_dense_retrieval_for_query_rewriting_in_sponsored_search/">Unified Generative &amp; Dense Retrieval for Query Rewriting in Sponsored Search</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>提出 CLOVER-Unity，将生成式与稠密检索共享编码器统一到赞助搜索查询改写，在 Bing 线上提升点击 0.89% 与收入 1.27%。</p>
+</dd>
 <dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;生成式推荐&quot;,&quot;生成式端到端召回&quot;,&quot;生成式标识 GID&quot;,&quot;内容-协同对齐&quot;]"><strong><a href="../../venues/CIKM/2024/generative_rec/content_based_collaborative_generation_for_recommender_systems/">Content-Based Collaborative Generation for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>ColaRec 用 LightGCN 层次聚类构造协同 GID，T5 序列到序列直接生成物品标识，并以物品索引任务+对比损失对齐内容与协同空间；四数据集 8:1:1 全库排序 Recall@20 提升 3.5%–6.7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;端到端生成式&quot;,&quot;可学习物品分词&quot;,&quot;RQ-VAE&quot;,&quot;协同正则&quot;,&quot;多样性正则&quot;]"><strong><a href="../../venues/CIKM/2024/generative_rec/learnable_item_tokenization_for_generative_recommendation/">Learnable Item Tokenization for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>CIKM 2024｜生成式推荐与离散语义ID：LETTER 以 RQ-VAE 层级码、协同对比对齐和码本多样性正则学习物品标识符，并加排序引导生成损失；三数据集 LOO 全库排序 R@10 较 TIGER/LC-Rec 提升 4.7%–10.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;端到端生成式&quot;,&quot;多行为序列建模&quot;,&quot;语义ID分词器&quot;,&quot;位置路由MoE&quot;]"><strong><a href="../../venues/CIKM/2024/generative_rec/multi_behavior_generative_recommendation/">Multi-Behavior Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>将多行为序列推荐重构为「先预测行为、再预测物品」的生成式两步解码，配合均衡语义ID与位置路由稀疏MoE，全库排序相对提升31%~70%。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM 2025&quot;,&quot;生成式推荐&quot;,&quot;精排&quot;,&quot;扩散推荐&quot;,&quot;特征丢弃&quot;,&quot;表征去噪&quot;]"><strong><a href="../../venues/CIKM/2025/generative_rec/asymmetric_diffusion_recommendation_model/">Asymmetric Diffusion Recommendation Model</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
@@ -313,6 +335,10 @@ hide:
 <dd>
 <p>RQ-VAE 层级语义索引 + Sinkhorn 均匀映射消除索引冲突，LLaMA-7B 多任务对齐微调实现全库生成式检索，全排序平均提升 25.5%。</p>
 </dd>
+<dt data-paper-tags="[&quot;ICDM&quot;,&quot;生成式推荐&quot;,&quot;端到端生成式&quot;,&quot;个性化标题生成&quot;,&quot;事实一致性对比学习&quot;]"><strong><a href="../../venues/ICDM/2023/generative_rec/fact_preserved_personalized_news_headline_generation/">Fact-Preserved Personalized News Headline Generation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>FPG 用候选新闻-历史点击相似度做事实感知用户表征并配对比学习训练，在 PENS 上 ROUGE-1 27.33、FactCC 89.26 兼顾个性化与事实一致性。</p>
+</dd>
 <dt data-paper-tags="[&quot;ICDM&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;生成式端到端&quot;,&quot;条件扩散模型&quot;,&quot;反事实公平&quot;,&quot;群体公平&quot;]"><strong><a href="../../venues/ICDM/2024/debias_fairness_industrial/diffairec_generative_fair_recommender_with_conditional_diffusion_model/">DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>用条件扩散模型重建评分向量，并以注意力反事实模块降低敏感属性敏感性，把公平与精度压缩为单一去噪损失，在 Full-List 排序下 Recall/NDCG 与群体公平指标同升。</p>
@@ -328,6 +354,14 @@ hide:
 <dt data-paper-tags="[&quot;ICDM 2026&quot;,&quot;生成式推荐&quot;,&quot;双曲几何&quot;,&quot;残差量化语义ID&quot;,&quot;长尾推荐&quot;]"><strong><a href="../../venues/ICDM/2026/generative_rec/hyprq_vae_hyperbolic_item_indexing_for_long_tail_aware_generative_recommend/">HypRQ-VAE: Hyperbolic Item Indexing for Long-Tail-Aware Generative Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>将 RQ-VAE 语义 ID 量化搬进 Poincaré 双曲球，用 Möbius 加减替代欧氏残差，长尾 Hit@10 提升 52.7%，全库排序验证。</p>
+</dd>
+<dt data-paper-tags="[&quot;NeurIPS 2023&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;端到端生成式&quot;,&quot;引导扩散 (Guided Diffusion)&quot;,&quot;无负采样&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2023/generative_rec/generate_what_you_prefer_reshaping_sequential_recommendation_via_guided_dif/">Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>DreamRec 将序列推荐重塑为学习生成范式，用 Transformer 引导的无分类器扩散生成 oracle 物品，弃用负采样，三数据集 HR@20 相对提升 7%–21%。</p>
+</dd>
+<dt data-paper-tags="[&quot;NeurIPS 2023&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;召回&quot;,&quot;RQ-VAE&quot;,&quot;Semantic ID&quot;,&quot;Generative Retrieval&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2023/generative_rec/recommender_systems_with_generative_retrieval/">Recommender Systems with Generative Retrieval</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>TIGER 用 RQ-VAE 构建层次 Semantic ID，并以 Transformer 自回归生成下一物品 ID；在 Amazon 三类 Full-Ranking 协议下显著超越 SASRec/S3-Rec，并展示冷启动与多样性收益。</p>
 </dd>
 <dt data-paper-tags="[&quot;ICML 2025&quot;,&quot;生成式推荐&quot;,&quot;上下文感知分词&quot;,&quot;集合置换正则&quot;,&quot;BPE&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2025/generative_rec/actionpiece_contextually_tokenizing_action_sequences_for_generative_recomme/">ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
@@ -408,6 +442,10 @@ hide:
 <dt data-paper-tags="[&quot;IJCAI&quot;,&quot;生成式推荐&quot;,&quot;Draft-and-Verify&quot;,&quot;混合稀疏-稠密表征&quot;,&quot;并行验证推理&quot;]"><strong><a href="../../venues/IJCAI/2026/generative_rec/dav_gen_end_to_end_generative_retrieval_via_draft_and_verify/">DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>将生成式检索重构为“起草-验证”双阶段单模型范式，以混合稀疏-稠密表征与复合损失统一召回与排序，工业搜索延迟降至70ms。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2023&quot;,&quot;生成式推荐&quot;,&quot;重排/端到端生成式&quot;,&quot;GFlowNet&quot;,&quot;列表级多样性探索&quot;]"><strong><a href="../../venues/KDD/2023/generative_rec/generative_flow_network_for_listwise_recommendation/">Generative Flow Network for Listwise Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>GFN4Rec 用生成流网络做列表级推荐，以对数尺度奖励匹配损失保证生成概率与列表奖励成正比，在在线模拟器中兼顾高质量与多样性。</p>
 </dd>
 <dt data-paper-tags="[&quot;KDD 2024&quot;,&quot;生成式推荐&quot;,&quot;端到端生成式&quot;,&quot;Gen-RecSys 分类学&quot;,&quot;LLM4Rec 与 RAG&quot;]"><strong><a href="../../venues/KDD/2024/generative_rec/a_review_of_modern_recommender_systems_using_generative_models_gen_recsys/">A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
@@ -557,9 +595,17 @@ hide:
 <dd>
 <p>用单个 T5 联合训练搜索与推荐的生成式检索，以仿真+真实数据论证流行度与隐表征双重正则化机制，全库 R@30 平均 +16%</p>
 </dd>
+<dt data-paper-tags="[&quot;RecSys 2024&quot;,&quot;生成式推荐与离散语义 ID&quot;,&quot;生成式端到端&quot;,&quot;对比量化&quot;,&quot;语义 Tokenization&quot;,&quot;RQ-VAE&quot;]"><strong><a href="../../venues/RecSys/2024/generative_rec/cost_contrastive_quantization_based_semantic_tokenization_for_generative_re/">CoST: Contrastive Quantization based Semantic Tokenization for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>用批内 InfoNCE 替代 RQ-VAE 逐物品重建损失来学习语义 ID，MIND 全库排序 Recall@5 相对提升 43.3%。</p>
+</dd>
 <dt data-paper-tags="[&quot;RecSys 2024&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;创意生成（精排后呈现层）&quot;,&quot;Latent Diffusion / ControlNet&quot;,&quot;Contextual Bandit (LinUCB)&quot;]"><strong><a href="../../venues/RecSys/2024/generative_rec/dynamic_product_image_generation_and_recommendation_at_scale_for_personaliz/">Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>以 ControlNet 边缘约束扩散生成商品背景并回贴原商品，再用 LinUCB 选 prompt，线上 A/B 中 CTR 相对提升约 15%–40%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;序列与会话推荐&quot;,&quot;端到端生成式&quot;,&quot;Scaling Law&quot;,&quot;Decoder-only Transformer&quot;,&quot;数据受限缩放&quot;]"><strong><a href="../../venues/RecSys/2024/sequential_rec/scaling_law_of_large_sequential_recommendation_models/">Scaling Law of Large Sequential Recommendation Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>纯 ID 序列推荐上验证 98.3K→0.8B 参数的幂律缩放，并提出分层自适应 Dropout 与 Adam→SGD 切换稳定训练，Leave-One-Out 全库排序下 NDCG@10 相对提升 81%。</p>
 </dd>
 <dt data-paper-tags="[&quot;RecSys&quot;,&quot;序列与会话推荐&quot;,&quot;预训练/召回表征&quot;,&quot;滑窗数据增广&quot;,&quot;推荐基础模型&quot;]"><strong><a href="../../venues/RecSys/2024/sequential_rec/sliding_window_training_utilizing_historical_recommender_systems_data_for_f/">Sliding Window Training -- Utilizing Historical Recommender Systems Data for Foundation Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
@@ -668,6 +714,14 @@ hide:
 <dt data-paper-tags="[&quot;RecSys&quot;,&quot;生成式推荐&quot;,&quot;Chain-of-Attribute&quot;,&quot;Capacity-constrained SID&quot;,&quot;语义ID&quot;]"><strong><a href="../../venues/RecSys/2026/generative_rec/unirec_bridging_the_expressive_gap_between_generative_and_discriminative_re/">UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用贝叶斯等价性证明生成式推荐差距源于特征覆盖，以属性链 CoA 前缀解码 + 容量约束 SID + 条件解码上下文补齐，Shopee 线上 GMV +5.60%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2023&quot;,&quot;生成式推荐与离散语义 ID&quot;,&quot;召回（端到端生成式全库打分）&quot;,&quot;扩散模型去噪&quot;,&quot;隐空间压缩扩散&quot;,&quot;时间感知重加权&quot;]"><strong><a href="../../venues/SIGIR/2023/generative_rec/diffusion_recommender_model/">Diffusion Recommender Model</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>首次将扩散模型引入全物品交互生成式推荐，通过缩小噪声尺度并预测 x0 保留个性化信息，辅以物品聚类隐空间扩散与时间重加权，Full-Ranking 下 R@10 最高提升 10.67%。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;生成式端到端&quot;,&quot;Diffusion Recommender&quot;,&quot;Popularity Bias&quot;,&quot;Optimal Transport&quot;]"><strong><a href="../../venues/SIGIR/2023/debias_fairness_industrial/fairdiff_mitigating_the_self_reinforcing_matthew_effect_in_diffusion_recomm/">FairDiff: Mitigating the Self-Reinforcing Matthew Effect in Diffusion Recommender Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>揭示扩散推荐模型优化偏置+先验失配叠加的自强化马太效应，用推理期流行度条件引导与最优传输语义校准即插即用地同时提升精度与长尾公平。</p>
 </dd>
 <dt data-paper-tags="[&quot;SIGIR 2024&quot;,&quot;大语言模型推荐&quot;,&quot;微调阶段&quot;,&quot;数据剪枝&quot;,&quot;影响函数&quot;,&quot;少样本微调&quot;]"><strong><a href="../../venues/SIGIR/2024/llm_rec/data_efficient_fine_tuning_for_llm_based_recommendation/">Data-efficient Fine-tuning for LLM-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
@@ -841,6 +895,10 @@ hide:
 <dd>
 <p>提出 reason-verify-recommend 范式，用混合验证器对隐空间推理逐步审计与修正，四数据集 Recall@10 最高提升约 47%</p>
 </dd>
+<dt data-paper-tags="[&quot;SIGIR-AP&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;端到端生成式&quot;,&quot;物品索引&quot;,&quot;谱聚类协同ID&quot;,&quot;约束解码&quot;]"><strong><a href="../../venues/SIGIR-AP/2023/generative_rec/how_to_index_item_ids_for_recommendation_foundation_models/">How to Index Item IDs for Recommendation Foundation Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Information Retrieval in the Asia Pacific">SIGIR-AP</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>系统对比随机/标题/独立/顺序/协同/语义/混合七类物品ID索引方案，用谱聚类协同索引+独立令牌在P5上取得HR@10最高+64.8%</p>
+</dd>
 <dt data-paper-tags="[&quot;SIGIR-AP 2026&quot;,&quot;生成式推荐&quot;,&quot;语义ID&quot;,&quot;复现研究&quot;,&quot;RQ-VAE/OPQ&quot;]"><strong><a href="../../venues/SIGIR-AP/2026/generative_rec/what_makes_a_good_semantic_id_for_generative_recommendation_a_reproducibili/">What Makes a Good Semantic ID for Generative Recommendation? A Reproducibility Study</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Information Retrieval in the Asia Pacific">SIGIR-AP</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>统一协议下复现11种SID生成式推荐系统，揭示SID设计效果的非单调性：无普适最优设计、码本利用率与排序质量近乎零相关、骨干与码长扩展均非单调。</p>
@@ -872,6 +930,14 @@ hide:
 <dt data-paper-tags="[&quot;TORS&quot;,&quot;生成式推荐&quot;,&quot;召回&quot;,&quot;可复现性研究&quot;,&quot;扩散模型推荐&quot;,&quot;弱基线问题&quot;]"><strong><a href="../../venues/TORS/2026/generative_rec/diffusion_recommender_models_and_the_illusion_of_progress_a_concerning_stud/">Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>复现 9 个 SIGIR&#x27;23-24 扩散推荐模型，仅 25% 结果可复现，调优简单基线全面反超，并揭示 DDPM 与 top-n 推荐任务的概念错配。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2023&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;重排&quot;,&quot;列表推荐 (Slate Recommendation)&quot;,&quot;变分自编码器潜动作空间&quot;,&quot;Soft Actor-Critic&quot;]"><strong><a href="../../venues/WSDM/2023/rl_bandit_rec/generative_slate_recommendation_with_reinforcement_learning/">Generative Slate Recommendation with Reinforcement Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>用 VAE 将整条列表编码为连续原型动作空间，让 SAC 在低维潜空间选动作再解码成 slate，在 6 个模拟环境中显著超越分解式 RL 基线并有效抑制用户厌倦。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2024&quot;,&quot;多模态推荐&quot;,&quot;召回&quot;,&quot;生成模型推荐&quot;,&quot;GRE-Score&quot;,&quot;提示词-模型检索&quot;]"><strong><a href="../../venues/WSDM/2024/multimodal_rec/gemrec_towards_generative_model_recommendation/">GEMRec: Towards Generative Model Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>提出 Prompt-Model 检索 + 生成模型排序两阶段框架，开源 GEMRec-18K（90 提示词×200 模型×18K 图像），用 GRE-Score 融合 CLIP 相关性、成对多样性与流行度完成候选预排序。</p>
 </dd>
 <dt data-paper-tags="[&quot;WSDM 2025&quot;,&quot;大语言模型推荐&quot;,&quot;生成式推荐&quot;,&quot;可控多样性推荐&quot;,&quot;任务分解&quot;,&quot;数据增广&quot;]"><strong><a href="../../venues/WSDM/2025/llm_rec/dlcrec_a_novel_approach_for_managing_diversity_in_llm_based_recommender_sys/">DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>

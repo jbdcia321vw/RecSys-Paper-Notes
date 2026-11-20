@@ -1,0 +1,247 @@
+[
+  {
+    "title": "Disentangling User Intention for Sequential Recommendation with Dual Intention Decoupling Network",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_3",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Topic-Aware Graph-Based Neural Network for User Interest Summarization and Item Recommendation in Social Media",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_36",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sequential Hypergraph Convolution Network for Next Item Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_26",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Dissatisfied Users Prediction in Mobile Communication Service",
+    "ee": "https://doi.org/10.1007/978-3-031-30678-5_42",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cold-Start Based Multi-scenario Ranking Model for Click-Through Rate Prediction",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_5",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ML-KGCL: Multi-level Knowledge Graph Contrastive Learning for Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_17",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Combining Autoencoder with Adaptive Differential Privacy for Federated Collaborative Filtering",
+    "ee": "https://doi.org/10.1007/978-3-031-30637-2_44",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GUESR: A Global Unsupervised Data-Enhancement with Bucket-Cluster Sampling for Sequential Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_19",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Adversarial Learning Data Augmentation for Graph Contrastive Learning in Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_25",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Syndrome-Aware Herb Recommendation with Heterogeneous Graph Neural Network",
+    "ee": "https://doi.org/10.1007/978-3-031-35415-1_8",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hyperbolic Mutual Learning for Bundle Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_28",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-view Spatial-Temporal Enhanced Hypergraph Network for Next POI Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_16",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Spatio-Temporal Position-Extended and Gated-Deep Network for Next POI Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_34",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Global-Aware Model-Free Self-distillation for Recommendation System",
+    "ee": "https://doi.org/10.1007/978-3-031-30678-5_38",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cache-Enhanced InBatch Sampling with Difficulty-Based Replacement Strategies for Learning Recommenders",
+    "ee": "https://doi.org/10.1007/978-3-031-35415-1_7",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FAN: Fatigue-Aware Network for Click-Through Rate Prediction in E-commerce Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30678-5_37",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Intra- and Inter-behavior Contrastive Learning for Multi-behavior Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_10",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Self-Sampling Training and Evaluation for the Accuracy-Bias Tradeoff in Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30678-5_44",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Revisiting Positive and Negative Samples in Variational Autoencoders for Top-N Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_38",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Leveraging Interactive Paths for Sequential Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_35",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Three-Layer Attentional Framework Based on Similar Users for Dual-Target Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_20",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Accelerating Recommendation Inference via GPU Streams",
+    "ee": "https://doi.org/10.1007/978-3-031-30637-2_36",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MOEF: Modeling Occasion Evolution in Frequency Domain for Promotion-Aware Click-Through Rate Prediction",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_22",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "KRec-C2: A Knowledge Graph Enhanced Recommendation with Context Awareness and Contrastive Learning",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_1",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MixMBR: Contrastive Learning for Multi-behavior Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_29",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Efficient and Effective Transformers for Sequential Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_23",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Scalable Social Recommendation Framework with Decoupled Graph Neural Network",
+    "ee": "https://doi.org/10.1007/978-3-031-30678-5_39",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CHSR: Cross-view Learning from Heterogeneous Graph for Session-Based Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_21",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Adversarial Learning Enhanced Social Interest Diffusion Model for Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_24",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Query2Trip: Dual-Debiased Learning for Neural Trip Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_6",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Intention-Aware User Modeling for Personalized News Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_12",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Storyline Generation from News Articles Based on Approximate Personalized Propagation of Neural Predictions",
+    "ee": "https://doi.org/10.1007/978-3-031-30678-5_3",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PIDE: Propagating Influence of Dynamic Evolution on Interaction Networks for Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_9",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CATCL: Joint Cross-Attention Transfer and Contrastive Learning for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_30",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-granularity Item-Based Contrastive Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_27",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Temporal-Aware Multi-behavior Contrastive Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_18",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "HIT: Learning a Hierarchical Tree-Based Model with Variable-Length Layers for Recommendation Systems",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_2",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ALGCN: Accelerated Light Graph Convolution Network for Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_15",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "C3BR: Category-Aware Cross-View Contrastive Learning Framework for Bundle Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-35415-1_14",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Memory-Enhanced Period-Aware Graph Neural Network for General POI Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_31",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep User and Item Inter-matching Network for CTR Prediction",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_13",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Attentive Hawkes Process Application for Sequential Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_32",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Lightweight Cross-Domain Sequential Recommendation via External Attention-Enhanced Graph Convolution Network",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_14",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cold & Warm Net: Addressing Cold-Start Users in Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-031-30678-5_40",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dual-View Self-supervised Co-training for Knowledge Graph Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_8",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A New Reconstruction Attack: User Latent Vector Leakage in Federated Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_7",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MG-CR: Factor Memory Network and Graph Neural Network Based Personalized Course Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_37",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Disentangled Contrastive Learning for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-30672-3_11",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Data-Augmented Counterfactual Learning for Bundle Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-35415-1_22",
+    "key": "dblp_sparql"
+  }
+]

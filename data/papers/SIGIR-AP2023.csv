@@ -1,0 +1,5 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Reinforcement Re-ranking with 2D Grid-based Recommendation Panels,2204.04954,https://arxiv.org/abs/2204.04954,,multi_task_reranking,SIGIR-AP,2023
+How to Index Item IDs for Recommendation Foundation Models,2305.06569,https://arxiv.org/abs/2305.06569,https://github.com/Wenyueh/LLM-RecSys-ID,generative_rec,SIGIR-AP,2023
+Sequential Recommendation with User Evolving Preference Decomposition,2203.16942,https://arxiv.org/abs/2203.16942,,sequential_rec,SIGIR-AP,2023
+Automatic Feature Fairness in Recommendation via Adversaries,2309.15418,https://arxiv.org/abs/2309.15418,,debias_fairness_industrial,SIGIR-AP,2023

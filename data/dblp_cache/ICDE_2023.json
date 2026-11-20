@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Modelling High-Order Social Relations for Item Recommendation (Extended Abstract)",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00337",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Competition-Aware Approach to Accurate TV Show Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00216",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Probabilistic Majority Rule-Based Group Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00118",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sim2Rec: A Simulator-based Decision-making Approach to Optimize Real-World Long-term User Engagement in Sequential Recommender Systems",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00260",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "OpenEmbedding: A Distributed Parameter Server for Deep Learning Recommendation Models using Persistent Memory",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00228",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Unsupervised Intra-Domain Adaptation for Recommendation via Uncertainty Minimization",
+    "ee": "https://doi.org/10.1109/ICDEW58674.2023.00018",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00205",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Matrix Factorization with Landmarks for Spatial Data",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00147",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Attention Weighted Mixture of Experts with Contrastive Learning for Personalized Ranking in E-commerce",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00247",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Survey on Knowledge Graph-Based Recommender Systems : Extended Abstract",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00328",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Visualization Recommendation Through Visual Relation Learning and Visual Preference Learning",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00145",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Semantic Matching for Web Search",
+    "ee": "https://doi.org/10.1109/ICDEW58674.2023.00037",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Automatic Fusion Network for Cold-start CVR Prediction with Explicit Multi-Level Representation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00264",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Deep Neural Network for Crossing-City POI Recommendations : (Extended Abstract)",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00352",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Bayesian Negative Sampling for Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00063",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Diversification for Neural Re-ranking in Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00067",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-task Learning for Recommendation over Heterogeneous Information Network (Extended abstract)",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00314",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Intention-aware Sequential Recommendation with Structured Intent Transition : (Extended Abstract)",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00306",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MAMDR: A Model Agnostic Learning Framework for Multi-Domain Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00236",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Context-aware Service Recommendation based on Knowledge Graph Embedding (Extended Abstract)",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00330",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Real-time Personalized Guest Experiences using Product Attribute Information on Vanilla Hardware",
+    "ee": "https://doi.org/10.1109/ICDEW58674.2023.00009",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "HAM: Hybrid Associations Models for Sequential Recommendation (Extended abstract)",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00363",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Attribute Graph Neural Networks for Strict Cold Start Recommendation : Extended Abstract",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00318",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical Contextual Embeddings for Context-Aware Recommendations (Extended Abstract)",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00358",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sequential Recommendation with User Causal Behavior Discovery",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00010",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Incremental Learning for Multi-Interest Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00087",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Capacity-Aware Broker Matching: From Recommendation to Assignment",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00065",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Intent-aware Multi-source Contrastive Alignment for Tag-enhanced Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00090",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Product's Visual and Functional Characteristics for Recommender Systems (Extended Abstract)",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00345",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Generic Reinforced Explainable Framework with Knowledge Graph for Session-based Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00101",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Instant Representation Learning for Recommendation over Large Dynamic Graphs",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00014",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Disentangled Graph Social Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00180",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical Interest Modeling of Long-tailed Users for Click-Through Rate Prediction",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00234",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Neural Node Matching for Multi-Target Cross Domain Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00167",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Planning Data Poisoning Attacks on Heterogeneous Recommender Systems in a Multiplayer Setting",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00193",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Group Buying Recommendation Model Based on Multi-task Learning",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00080",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cross-Domain Disentangled Learning for E-Commerce Live Streaming Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00226",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Layer-refined Graph Convolutional Networks for Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00100",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Influential Recommender System",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00112",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DCMT: A Direct Entire-Space Causal Multi-Task Framework for Post-Click Conversion Estimation",
+    "ee": "https://doi.org/10.1109/ICDE55515.2023.00239",
+    "key": "dblp_sparql"
+  }
+]

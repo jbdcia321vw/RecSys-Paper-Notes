@@ -1,0 +1,132 @@
+[
+  {
+    "title": "A Survey on User Behavior Modeling in Recommender Systems",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/746",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Denoised Self-Augmented Learning for Social Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/258",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Toward Job Recommendation for All",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/655",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Probabilistic Masked Attention Networks for Explainable Sequential Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/230",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Online Certification of Preference-Based Fairness for Personalized Recommender Systems (Extended Abstract)",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/714",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Rewiring What-to-Watch-Next Recommendations to Reduce Radicalization Pathways (Extended Abstract)",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/715",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Building a Personalized Messaging System for Health Intervention in Underprivileged Regions Using Reinforcement Learning",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/668",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SupervisorBot: NLP-Annotated Real-Time Recommendations of Psychotherapy Treatment Strategies with Deep Reinforcement Learning",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/837",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Federated Probabilistic Preference Distribution Modelling with Compactness Co-Clustering for Privacy-Preserving Multi-Domain Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/245",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FedDWA: Personalized Federated Learning with Dynamic Weight Adjustment",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/444",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Model Conversion via Differentially Private Data-Free Distillation",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/243",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GreenFlow: A Computation Allocation Framework for Building Environmentally Sound Recommendation System",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/677",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Discriminative-Invariant Representation Learning for Unbiased Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/252",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Self-supervised Graph Disentangled Networks for Review-based Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/254",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Keeping People Active and Healthy at Home Using a Reinforcement Learning-based Fitness Recommendation Framework",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/692",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sample Efficient Paradigms for Personalized Assessment of Taskable AI Systems",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/824",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A New ANN-SNN Conversion Method with High Accuracy, Low Latency and Good Robustness",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/342",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Feature Staleness Aware Incremental Learning for CTR Prediction",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/261",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Intent-aware Recommendation via Disentangled Graph Contrastive Learning",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/260",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Truthful Auctions for Automated Bidding in Online Advertising",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/325",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Generalized Discriminative Deep Non-Negative Matrix Factorization Based on Latent Feature and Basis Learning",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/499",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sequential Recommendation with Probabilistic Logical Reasoning",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/270",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Curriculum Multi-Level Learning for Imbalanced Live-Stream Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/267",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/268",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dual Personalization on Federated Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/507",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning",
+    "ee": "https://doi.org/10.24963/IJCAI.2023/273",
+    "key": "dblp_sparql"
+  }
+]

@@ -1,0 +1,9 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Uptrendz: API-Centric Real-time Recommendations in Multi-Domain Settings,2301.01037,https://arxiv.org/abs/2301.01037,,cross_domain_multi_scenario,ECIR,2023
+Item Graph Convolution Collaborative Filtering for Inductive Recommendations,2303.15946,https://arxiv.org/abs/2303.15946,,graph_rec,ECIR,2023
+Exploiting Graph Structured Cross-Domain Representation for Multi-Domain Recommendation,2302.05990,https://arxiv.org/abs/2302.05990,,cross_domain_multi_scenario,ECIR,2023
+"Knowledge is Power, Understanding is Impact: Utility and Beyond Goals, Explanation Quality, and Fairness in Path Reasoning Recommendation",2301.05944,https://arxiv.org/abs/2301.05944,https://github.com/giacoballoccu/rep-path-reasoning-recsys,graph_rec,ECIR,2023
+Market-Aware Models for Efficient Cross-Market Recommendation,2302.07130,https://arxiv.org/abs/2302.07130,,cross_domain_multi_scenario,ECIR,2023
+Graph-based Recommendation for Sparse and Heterogeneous User Interactions,2301.11009,https://arxiv.org/abs/2301.11009,,graph_rec,ECIR,2023
+Privacy-Preserving Fair Item Ranking,2303.02916,https://arxiv.org/abs/2303.02916,,debias_fairness_industrial,ECIR,2023
+Evolution of Filter Bubbles and Polarization in News Recommendation,2301.10926,https://arxiv.org/abs/2301.10926,,debias_fairness_industrial,ECIR,2023

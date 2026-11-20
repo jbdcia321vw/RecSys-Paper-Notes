@@ -1,0 +1,11 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation,2305.04322,https://arxiv.org/abs/2305.04322,https://github.com/sudaada/SLIME4Rec,sequential_rec,ICDE,2023
+Bayesian Negative Sampling for Recommendation,2204.06520,https://arxiv.org/abs/2204.06520,,collaborative_filtering,ICDE,2023
+Intent-aware Multi-source Contrastive Alignment for Tag-enhanced Recommendation,2211.06370,https://arxiv.org/abs/2211.06370,,self_supervised_denoising,ICDE,2023
+Towards Capacity-Aware Broker Matching: From Recommendation to Assignment,2303.03024,https://arxiv.org/abs/2303.03024,,rl_bandit_rec,ICDE,2023
+Neural Node Matching for Multi-Target Cross Domain Recommendation,2302.05919,https://arxiv.org/abs/2302.05919,,cross_domain_multi_scenario,ICDE,2023
+Instant Representation Learning for Recommendation over Large Dynamic Graphs,2305.18622,https://arxiv.org/abs/2305.18622,https://github.com/shatter15/SUPA,graph_rec,ICDE,2023
+Group Buying Recommendation Model Based on Multi-task Learning,2211.14247,https://arxiv.org/abs/2211.14247,,multi_task_reranking,ICDE,2023
+Disentangled Graph Social Recommendation,2303.07810,https://arxiv.org/abs/2303.07810,https://github.com/HKUDS/DGNN,social_group_rec,ICDE,2023
+Layer-refined Graph Convolutional Networks for Recommendation,2207.11088,https://arxiv.org/abs/2207.11088,https://github.com/enoche/ImRec,graph_rec,ICDE,2023
+Influential Recommender System,2211.10002,https://arxiv.org/abs/2211.10002,,sequential_rec,ICDE,2023

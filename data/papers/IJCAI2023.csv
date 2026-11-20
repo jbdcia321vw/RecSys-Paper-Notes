@@ -1,0 +1,9 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+SupervisorBot: NLP-Annotated Real-Time Recommendations of Psychotherapy Treatment Strategies with Deep Reinforcement Learning,2208.13077,https://arxiv.org/abs/2208.13077,,rl_bandit_rec,IJCAI,2023
+Denoised Self-Augmented Learning for Social Recommendation,2305.12685,https://arxiv.org/abs/2305.12685,https://github.com/HKUDS/DSL,social_group_rec,IJCAI,2023
+A Survey on User Behavior Modeling in Recommender Systems,2302.11087,https://arxiv.org/abs/2302.11087,,sequential_rec,IJCAI,2023
+Feature Staleness Aware Incremental Learning for CTR Prediction,2505.02844,https://arxiv.org/abs/2505.02844,https://github.com/cloudcatcher888/FeSAIL,ctr_feature_interaction,IJCAI,2023
+Truthful Auctions for Automated Bidding in Online Advertising,2301.13020,https://arxiv.org/abs/2301.13020,,ctr_feature_interaction,IJCAI,2023
+Intent-aware Recommendation via Disentangled Graph Contrastive Learning,2403.03714,https://arxiv.org/abs/2403.03714,,graph_rec,IJCAI,2023
+Sequential Recommendation with Probabilistic Logical Reasoning,2304.11383,https://arxiv.org/abs/2304.11383,,sequential_rec,IJCAI,2023
+Dual Personalization on Federated Recommendation,2301.08143,https://arxiv.org/abs/2301.08143,,debias_fairness_industrial,IJCAI,2023

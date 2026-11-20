@@ -1,0 +1,30 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+EvalRS 2023. Well-Rounded Recommender Systems For Real-World Deployments,2304.07145,https://arxiv.org/abs/2304.07145,https://github.com/RecList/evalRS-KDD-2023,debias_fairness_industrial,KDD,2023
+Empowering Long-tail Item Recommendation through Cross Decoupling Network (CDN),2210.14309,https://arxiv.org/abs/2210.14309,,cold_start_rec,KDD,2023
+Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay,2307.09943,https://arxiv.org/abs/2307.09943,,rl_bandit_rec,KDD,2023
+Generative Flow Network for Listwise Recommendation,2306.02239,https://arxiv.org/abs/2306.02239,,generative_rec,KDD,2023
+Shilling Black-box Review-based Recommender Systems through Fake Review Generation,2306.16526,https://arxiv.org/abs/2306.16526,,debias_fairness_industrial,KDD,2023
+CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation,2112.06668,https://arxiv.org/abs/2112.06668,https://github.com/ct4rec/CT4Rec.git,sequential_rec,KDD,2023
+Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems,2305.16391,https://arxiv.org/abs/2305.16391,,graph_rec,KDD,2023
+Off-Policy Evaluation of Ranking Policies under Diverse User Behavior,2306.15098,https://arxiv.org/abs/2306.15098,,debias_fairness_industrial,KDD,2023
+MAP: A Model-agnostic Pretraining Framework for Click-through Rate Prediction,2308.01737,https://arxiv.org/abs/2308.01737,,ctr_feature_interaction,KDD,2023
+Tree based Progressive Regression Model for Watch-Time Prediction in Short-video Recommendation,2306.03392,https://arxiv.org/abs/2306.03392,,ctr_feature_interaction,KDD,2023
+Text Is All You Need: Learning Language Representations for Sequential Recommendation,2305.13731,https://arxiv.org/abs/2305.13731,,sequential_rec,KDD,2023
+Personalized Tree-Based Progressive Regression Model for Watch-Time Prediction in Short Video Recommendation,2505.22153,https://arxiv.org/abs/2505.22153,,ctr_feature_interaction,KDD,2023
+Adaptive Graph Contrastive Learning for Recommendation,2305.10837,https://arxiv.org/abs/2305.10837,https://github.com/HKUDS/AdaGCL,self_supervised_denoising,KDD,2023
+Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation,2305.18885,https://arxiv.org/abs/2305.18885,,graph_rec,KDD,2023
+AdaTT: Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations,2304.04959,https://arxiv.org/abs/2304.04959,,multi_task_reranking,KDD,2023
+Improving Training Stability for Multitask Ranking Models in Recommender Systems,2302.09178,https://arxiv.org/abs/2302.09178,,multi_task_reranking,KDD,2023
+Fresh Content Needs More Attention: Multi-funnel Fresh Content Recommendation,2306.01720,https://arxiv.org/abs/2306.01720,,cold_start_rec,KDD,2023
+TransAct: Transformer-based Realtime User Action Model for Recommendation at Pinterest,2306.00248,https://arxiv.org/abs/2306.00248,,sequential_rec,KDD,2023
+Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction,2307.12756,https://arxiv.org/abs/2307.12756,,ctr_feature_interaction,KDD,2023
+Improving Conversational Recommendation Systems via Counterfactual Data Simulation,2306.02842,https://arxiv.org/abs/2306.02842,https://github.com/RUCAIBox/CFCRS,agent_conversational_rec,KDD,2023
+Efficient and Joint Hyperparameter and Architecture Search for Collaborative Filtering,2307.11004,https://arxiv.org/abs/2307.11004,,collaborative_filtering,KDD,2023
+Efficient Bi-Level Optimization for Recommendation Denoising,2210.10321,https://arxiv.org/abs/2210.10321,https://github.com/CoderWZW/BOD,self_supervised_denoising,KDD,2023
+UA-FedRec: Untargeted Attack on Federated News Recommendation,2202.06701,https://arxiv.org/abs/2202.06701,,debias_fairness_industrial,KDD,2023
+Modeling Dual Period-Varying Preferences for Takeaway Recommendation,2306.04370,https://arxiv.org/abs/2306.04370,,sequential_rec,KDD,2023
+Debiasing Recommendation by Learning Identifiable Latent Confounders,2302.05052,https://arxiv.org/abs/2302.05052,,debias_fairness_industrial,KDD,2023
+Knowledge Graph Self-Supervised Rationalization for Recommendation,2307.02759,https://arxiv.org/abs/2307.02759,https://github.com/HKUDS/KGRec,graph_rec,KDD,2023
+Multi-channel Integrated Recommendation with Exposure Constraints,2305.12319,https://arxiv.org/abs/2305.12319,,multi_task_reranking,KDD,2023
+Path-Specific Counterfactual Fairness for Recommender Systems,2306.02615,https://arxiv.org/abs/2306.02615,,debias_fairness_industrial,KDD,2023
+A Collaborative Transfer Learning Framework for Cross-domain Recommendation,2306.16425,https://arxiv.org/abs/2306.16425,,cross_domain_multi_scenario,KDD,2023

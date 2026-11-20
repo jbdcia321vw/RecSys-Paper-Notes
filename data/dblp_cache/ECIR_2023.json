@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Auditing Consumer- and Producer-Fairness in Graph Collaborative Filtering",
+    "ee": "https://doi.org/10.1007/978-3-031-28244-7_3",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploiting Graph Structured Cross-Domain Representation for Multi-domain Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-28244-7_4",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge is Power, Understanding is Impact: Utility and Beyond Goals, Explanation Quality, and Fairness in Path Reasoning Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-28241-6_1",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Market-Aware Models for Efficient Cross-Market Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-28244-7_9",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph-Based Recommendation for Sparse and Heterogeneous User Interactions",
+    "ee": "https://doi.org/10.1007/978-3-031-28244-7_12",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Recommendation Algorithm Based on Deep Light Graph Convolution Network in Knowledge Graph",
+    "ee": "https://doi.org/10.1007/978-3-031-28244-7_14",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Item Graph Convolution Collaborative Filtering for Inductive Recommendations",
+    "ee": "https://doi.org/10.1007/978-3-031-28244-7_16",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ImageCLEF 2023 Highlight: Multimedia Retrieval in Medical, Social Media and Content Recommendation Applications",
+    "ee": "https://doi.org/10.1007/978-3-031-28241-6_64",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Uptrendz: API-Centric Real-Time Recommendations in Multi-domain Settings",
+    "ee": "https://doi.org/10.1007/978-3-031-28241-6_23",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "User Privacy in Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-031-28241-6_52",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Time-Dependent Next-Basket Recommendations",
+    "ee": "https://doi.org/10.1007/978-3-031-28238-6_41",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Topic-Enhanced Personalized Retrieval-Based Chatbot",
+    "ee": "https://doi.org/10.1007/978-3-031-28238-6_6",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Privacy-Preserving Fair Item Ranking",
+    "ee": "https://doi.org/10.1007/978-3-031-28238-6_13",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "The Impact of a Popularity Punishing Hyperparameter on ItemKNN Recommendation Performance",
+    "ee": "https://doi.org/10.1007/978-3-031-28238-6_56",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Augmenting Graph Convolutional Networks with Textual Data for Recommendations",
+    "ee": "https://doi.org/10.1007/978-3-031-28238-6_58",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Contrastive Learning with Positional Representation for Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-28238-6_19",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Evolution of Filter Bubbles and Polarization in News Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-031-28238-6_60",
+    "key": "dblp_sparql"
+  }
+]

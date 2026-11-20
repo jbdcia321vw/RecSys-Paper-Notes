@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Intent-Satisfaction Modeling: From Music to Video Streaming",
+    "ee": "https://doi.org/10.1145/3606375",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Systematic Study on Reproducibility of Reinforcement Learning in Recommendation Systems",
+    "ee": "https://doi.org/10.1145/3596519",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ACM Transactions on Recommender Systems: Inaugural Issue Editorial",
+    "ee": "https://doi.org/10.1145/3569454",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Estimating and Evaluating the Uncertainty of Rating Predictions and Top-n Recommendations in Recommender Systems",
+    "ee": "https://doi.org/10.1145/3584021",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "KGFlex: Efficient Recommendation with Sparse Feature Factorization and Knowledge Graphs",
+    "ee": "https://doi.org/10.1145/3588901",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions",
+    "ee": "https://doi.org/10.1145/3568022",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pessimistic Decision-Making for Recommender Systems",
+    "ee": "https://doi.org/10.1145/3568029",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Who Will Purchase This Item Next? Reverse Next Period Recommendation in Grocery Shopping",
+    "ee": "https://doi.org/10.1145/3595384",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Hierarchical Spatial Tasks with Visiting Relations for Next POI Recommendation",
+    "ee": "https://doi.org/10.1145/3610584",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Debiased Representation Learning in Recommendation via Information Bottleneck",
+    "ee": "https://doi.org/10.1145/3568030",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An Explicitly Weighted GCN Aggregator based on Temporal and Popularity Features for Recommendation",
+    "ee": "https://doi.org/10.1145/3587272",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Tensor Completion with Provable Consistency and Fairness Guarantees for Recommender Systems",
+    "ee": "https://doi.org/10.1145/3604649",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "User Cold-start Problem in Multi-armed Bandits: When the First Recommendations Guide the User's Experience",
+    "ee": "https://doi.org/10.1145/3554819",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Auditing YouTube's Recommendation Algorithm for Misinformation Filter Bubbles",
+    "ee": "https://doi.org/10.1145/3568392",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Examining the User Evaluation of Multi-List Recommender Interfaces in the Context of Healthy Recipe Choices",
+    "ee": "https://doi.org/10.1145/3581930",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Targeted Training for Multi-organization Recommendation",
+    "ee": "https://doi.org/10.1145/3603508",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deconfounded Causal Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3606035",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Learning Augmented Heterogeneous Graph Neural Network for Social Recommendation",
+    "ee": "https://doi.org/10.1145/3610407",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SelfCF: A Simple Framework for Self-supervised Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3591469",
+    "key": "dblp_sparql"
+  }
+]

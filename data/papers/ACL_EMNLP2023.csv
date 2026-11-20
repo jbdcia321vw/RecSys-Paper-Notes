@@ -1,0 +1,8 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+TREA: Tree-Structure Reasoning Schema for Conversational Recommendation,2307.10543,https://arxiv.org/abs/2307.10543,,agent_conversational_rec,ACL_EMNLP,2023
+Explainable Recommendation with Personalized Review Retrieval and Aspect Learning,2306.12657,https://arxiv.org/abs/2306.12657,,agent_conversational_rec,ACL_EMNLP,2023
+Multimodal Recommendation Dialog with Subjective Preference: A New Challenge and Benchmark,2305.18212,https://arxiv.org/abs/2305.18212,,agent_conversational_rec,ACL_EMNLP,2023
+Pivotal Role of Language Modeling in Recommender Systems: Enriching Task-specific and Task-agnostic Representation Learning,2212.03760,https://arxiv.org/abs/2212.03760,,llm_rec,ACL_EMNLP,2023
+NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation,2310.01146,https://arxiv.org/abs/2310.01146,,sequential_rec,ACL_EMNLP,2023
+VIP5: Towards Multimodal Foundation Models for Recommendation,2305.14302,https://arxiv.org/abs/2305.14302,https://github.com/jeykigung/VIP5,multimodal_rec,ACL_EMNLP,2023
+PUNR: Pre-training with User Behavior Modeling for News Recommendation,2304.12633,https://arxiv.org/abs/2304.12633,https://github.com/ma787639046/punr,sequential_rec,ACL_EMNLP,2023

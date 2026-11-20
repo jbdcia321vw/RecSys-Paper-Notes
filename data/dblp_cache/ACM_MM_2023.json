@@ -1,0 +1,212 @@
+[
+  {
+    "title": "Doubly Intention Learning for Cold-start Recommendation with Uncertainty-aware Stochastic Meta Process",
+    "ee": "https://doi.org/10.1145/3581783.3612446",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Against Opacity: Explainable AI and Large Language Models for Effective Digital Advertising",
+    "ee": "https://doi.org/10.1145/3581783.3612817",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GoRec: A Generative Cold-start Recommendation Framework",
+    "ee": "https://doi.org/10.1145/3581783.3612238",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FedCE: Personalized Federated Learning Method based on Clustering Ensembles",
+    "ee": "https://doi.org/10.1145/3581783.3612217",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PMVC: Data Augmentation-Based Prosody Modeling for Expressive Voice Conversion",
+    "ee": "https://doi.org/10.1145/3581783.3613800",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Multi-Relational Connectivity for Personalized Fashion Matching",
+    "ee": "https://doi.org/10.1145/3581783.3612583",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Product Representation with Multi-form Interactions for Multimodal Conversational Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3613755",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical Category-Enhanced Prototype Learning for Imbalanced Temporal Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3613829",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "In-processing User Constrained Dominant Sets for User-Oriented Fairness in Recommender Systems",
+    "ee": "https://doi.org/10.1145/3581783.3613831",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pareto Invariant Representation Learning for Multimedia Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3612591",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Understanding User Behavior in Volumetric Video Watching: Dataset, Analysis and Prediction",
+    "ee": "https://doi.org/10.1145/3581783.3613810",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Online Distillation-enhanced Multi-modal Transformer for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3612091",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An Order-Complexity Aesthetic Assessment Model for Aesthetic-aware Music Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3612140",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FedVQA: Personalized Federated Visual Question Answering over Heterogeneous Scenes",
+    "ee": "https://doi.org/10.1145/3581783.3611958",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems",
+    "ee": "https://doi.org/10.1145/3581783.3612418",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MetaFBP: Learning to Learn High-Order Predictor for Personalized Facial Beauty Prediction",
+    "ee": "https://doi.org/10.1145/3581783.3612319",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contrastive Intra- and Inter-Modality Generation for Enhancing Incomplete Multimedia Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3612362",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AutoPoster: A Highly Automatic and Content-aware Design System for Advertising Poster Generation",
+    "ee": "https://doi.org/10.1145/3581783.3611930",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Semantic-Guided Feature Distillation for Multimodal Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3611886",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Prior-Guided Accuracy-Bias Tradeoff Learning for CTR Prediction in Multimedia Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3613801",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Differentially Private Sparse Mapping for Privacy-Preserving Cross Domain Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3611924",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Contrastive Learning Framework for Dual-Target Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3612250",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3613458",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Content Recommender System via Non-verbal Interaction Using Face Mesh and Facial Expression",
+    "ee": "https://doi.org/10.1145/3581783.3612675",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multimodal Color Recommendation in Vector Graphic Documents",
+    "ee": "https://doi.org/10.1145/3581783.3612139",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Who is Speaking Actually? Robust and Versatile Speaker Traceability for Voice Conversion",
+    "ee": "https://doi.org/10.1145/3581783.3612333",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Adversarial Robustness of Multi-modal Recommendation via Modality Balancing",
+    "ee": "https://doi.org/10.1145/3581783.3612337",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Face-Driven Zero-Shot Voice Conversion with Memory-based Face-Voice Alignment",
+    "ee": "https://doi.org/10.1145/3581783.3613825",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3611723",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Task-Adversarial Adaptation for Multi-modal Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3612391",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Rethinking Neural Style Transfer: Generating Personalized and Watermarked Stylized Images",
+    "ee": "https://doi.org/10.1145/3581783.3612202",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Equivariant Learning for Out-of-Distribution Cold-start Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3612522",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Single Image Reflection Removal Network through Adaptive Cascade Refinement",
+    "ee": "https://doi.org/10.1145/3581783.3612271",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3611967",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Diff4Rec: Sequential Recommendation with Curriculum-scheduled Diffusion Augmentation",
+    "ee": "https://doi.org/10.1145/3581783.3612709",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modal-aware Bias Constrained Contrastive Learning for Multimodal Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3612568",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-View Graph Convolutional Network for Multimedia Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3613915",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "COVES: A Cognitive-Affective Deep Model that Personalizes Math Problem Difficulty in Real Time and Improves Student Engagement with an Online Tutor",
+    "ee": "https://doi.org/10.1145/3581783.3613965",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge Prompt-tuning for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3612252",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Interactive Interior Design Recommendation via Coarse-to-fine Multimodal Reinforcement Learning",
+    "ee": "https://doi.org/10.1145/3581783.3612420",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation",
+    "ee": "https://doi.org/10.1145/3581783.3611943",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Image Aesthetics Assessment with Attribute-guided Fine-grained Feature Representation",
+    "ee": "https://doi.org/10.1145/3581783.3611942",
+    "key": "dblp_sparql"
+  }
+]

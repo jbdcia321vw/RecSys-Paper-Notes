@@ -1,0 +1,22 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+TDR-CL: Targeted Doubly Robust Collaborative Learning for Debiased Recommendations,2203.10258,https://arxiv.org/abs/2203.10258,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2023
+LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation,2302.08191,https://arxiv.org/abs/2302.08191,https://github.com/HKUDS/LightGCL,self_supervised_denoising,ICLR_NeurIPS_ICML,2023
+Personalized Reward Learning with Interaction-Grounded Learning (IGL),2211.15823,https://arxiv.org/abs/2211.15823,,rl_bandit_rec,ICLR_NeurIPS_ICML,2023
+ResAct: Reinforcing Long-term Engagement in Sequential Recommendation with Residual Actor,2206.02620,https://arxiv.org/abs/2206.02620,,rl_bandit_rec,ICLR_NeurIPS_ICML,2023
+Amazon-M2: A Multilingual Multi-locale Shopping Session Dataset for Recommendation and Text Generation,2307.09688,https://arxiv.org/abs/2307.09688,,sequential_rec,ICLR_NeurIPS_ICML,2023
+Lending Interaction Wings to Recommender Systems with Conversational Agents,2310.04230,https://arxiv.org/abs/2310.04230,,agent_conversational_rec,ICLR_NeurIPS_ICML,2023
+Multi-Objective Intrinsic Reward Learning for Conversational Recommender Systems,2310.20109,https://arxiv.org/abs/2310.20109,,agent_conversational_rec,ICLR_NeurIPS_ICML,2023
+Supply-Side Equilibria in Recommender Systems,2206.13489,https://arxiv.org/abs/2206.13489,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2023
+Enhancing User Intent Capture in Session-Based Recommendation with Attribute Patterns,2312.16199,https://arxiv.org/abs/2312.16199,,sequential_rec,ICLR_NeurIPS_ICML,2023
+Estimating Propensity for Causality-based Recommendation without Exposure Data,2310.20388,https://arxiv.org/abs/2310.20388,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2023
+On the Relationship Between Relevance and Conflict in Online Social Link Recommendations,2310.14076,https://arxiv.org/abs/2310.14076,,social_group_rec,ICLR_NeurIPS_ICML,2023
+Recommender Systems with Generative Retrieval,2305.05065,https://arxiv.org/abs/2305.05065,,generative_rec,ICLR_NeurIPS_ICML,2023
+Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion,2310.20453,https://arxiv.org/abs/2310.20453,https://github.com/YangZhengyi98/DreamRec,generative_rec,ICLR_NeurIPS_ICML,2023
+Rethinking Incentives in Recommender Systems: Are Monotone Rewards Always Beneficial?,2306.07893,https://arxiv.org/abs/2306.07893,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2023
+Empowering Collaborative Filtering with Principled Adversarial Contrastive Loss,2310.18700,https://arxiv.org/abs/2310.18700,https://github.com/LehengTHU/AdvInfoNCE,self_supervised_denoising,ICLR_NeurIPS_ICML,2023
+KuaiSim: A Comprehensive Simulator for Recommender Systems,2309.12645,https://arxiv.org/abs/2309.12645,,rl_bandit_rec,ICLR_NeurIPS_ICML,2023
+Pairwise Ranking Losses of Click-Through Rates Prediction for Welfare Maximization in Ad Auctions,2306.01799,https://arxiv.org/abs/2306.01799,,ctr_feature_interaction,ICLR_NeurIPS_ICML,2023
+Performative Recommendation: Diversifying Content via Strategic Incentives,2302.04336,https://arxiv.org/abs/2302.04336,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2023
+Improved Online Learning Algorithms for CTR Prediction in Ad Auctions,2403.00845,https://arxiv.org/abs/2403.00845,,ctr_feature_interaction,ICLR_NeurIPS_ICML,2023
+Vertical Federated Graph Neural Network for Recommender System,2303.05786,https://arxiv.org/abs/2303.05786,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2023
+How Bad is Top-$K$ Recommendation under Competing Content Creators?,2302.01971,https://arxiv.org/abs/2302.01971,,debias_fairness_industrial,ICLR_NeurIPS_ICML,2023

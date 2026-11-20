@@ -1,0 +1,18 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense,2212.05399,https://arxiv.org/abs/2212.05399,,debias_fairness_industrial,AAAI,2023
+Set-to-Sequence Ranking-based Concept-aware Learning Path Recommendation,2306.04234,https://arxiv.org/abs/2306.04234,https://gitee.com/mindspore/models,sequential_rec,AAAI,2023
+Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation,2301.12105,https://arxiv.org/abs/2301.12105,,sequential_rec,AAAI,2023
+PPGenCDR: A Stable and Robust Framework for Privacy-Preserving Cross-Domain Recommendation,2305.16163,https://arxiv.org/abs/2305.16163,,cross_domain_multi_scenario,AAAI,2023
+COLA: Improving Conversational Recommender Systems by Collaborative Augmentation,2212.07767,https://arxiv.org/abs/2212.07767,https://github.com/DongdingLin/COLA,agent_conversational_rec,AAAI,2023
+Decision-Making Context Interaction Network for Click-Through Rate Prediction,2301.12402,https://arxiv.org/abs/2301.12402,,ctr_feature_interaction,AAAI,2023
+Adaptive Low-Precision Training for Embeddings in Click-Through Rate Prediction,2212.05735,https://arxiv.org/abs/2212.05735,,ctr_feature_interaction,AAAI,2023
+Towards Reliable Item Sampling for Recommendation Evaluation,2211.15743,https://arxiv.org/abs/2211.15743,,debias_fairness_industrial,AAAI,2023
+Multiple Robust Learning for Recommendation,2207.10796,https://arxiv.org/abs/2207.10796,,debias_fairness_industrial,AAAI,2023
+FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction,2304.00902,https://arxiv.org/abs/2304.00902,,ctr_feature_interaction,AAAI,2023
+Revisiting Item Promotion in GNN-based Collaborative Filtering: A Masked Targeted Topological Attack Perspective,2208.09979,https://arxiv.org/abs/2208.09979,,debias_fairness_industrial,AAAI,2023
+Scaling Law for Recommendation Models: Towards General-purpose User Representations,2111.11294,https://arxiv.org/abs/2111.11294,,self_supervised_denoising,AAAI,2023
+Evaluating Digital Agriculture Recommendations with Causal Inference,2211.16938,https://arxiv.org/abs/2211.16938,,debias_fairness_industrial,AAAI,2023
+Fast Offline Policy Optimization for Large Scale Recommendation,2208.05327,https://arxiv.org/abs/2208.05327,,rl_bandit_rec,AAAI,2023
+Emotion-Aware Music Recommendation System: Enhancing User Experience Through Real-Time Emotional Context,2311.10796,https://arxiv.org/abs/2311.10796,,multimodal_rec,AAAI,2023
+CowClip: Reducing CTR Prediction Model Training Time from 12 hours to 10 minutes on 1 GPU,2204.06240,https://arxiv.org/abs/2204.06240,https://github.com/bytedance/LargeBatchCTR,ctr_feature_interaction,AAAI,2023
+Factual and Informative Review Generation for Explainable Recommendation,2209.12613,https://arxiv.org/abs/2209.12613,,agent_conversational_rec,AAAI,2023

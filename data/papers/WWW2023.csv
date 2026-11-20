@@ -1,0 +1,66 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Reinforcing User Retention in a Billion Scale Short Video Recommender System,2302.01724,https://arxiv.org/abs/2302.01724,,rl_bandit_rec,WWW,2023
+Two-Stage Constrained Actor-Critic for Short Video Recommendation,2302.01680,https://arxiv.org/abs/2302.01680,https://github.com/AIDefender/TSCAC,rl_bandit_rec,WWW,2023
+Towards Explainable Collaborative Filtering with Taste Clusters Learning,2304.13937,https://arxiv.org/abs/2304.13937,,collaborative_filtering,WWW,2023
+Invariant Collaborative Filtering to Popularity Distribution Shift,2302.05328,https://arxiv.org/abs/2302.05328,https://github.com/anzhang314/InvCF,debias_fairness_industrial,WWW,2023
+Compressed Interaction Graph based Framework for Multi-behavior Recommendation,2303.02418,https://arxiv.org/abs/2303.02418,https://github.com/MC-CV/CIGF,graph_rec,WWW,2023
+Collaboration-Aware Graph Convolutional Network for Recommender Systems,2207.06221,https://arxiv.org/abs/2207.06221,https://github.com/YuWVandy/CAGCN,graph_rec,WWW,2023
+Denoising and Prompt-Tuning for Multi-Behavior Recommendation,2302.05862,https://arxiv.org/abs/2302.05862,https://github.com/zc-97/DPT,self_supervised_denoising,WWW,2023
+Exploration and Regularization of the Latent Action Space in Recommendation,2302.03431,https://arxiv.org/abs/2302.03431,,rl_bandit_rec,WWW,2023
+Semi-supervised Adversarial Learning for Complementary Item Recommendation,2303.05812,https://arxiv.org/abs/2303.05812,,cold_start_rec,WWW,2023
+Latent User Intent Modeling for Sequential Recommenders,2211.09832,https://arxiv.org/abs/2211.09832,,sequential_rec,WWW,2023
+Multi-Behavior Recommendation with Cascading Graph Convolution Networks,2303.15720,https://arxiv.org/abs/2303.15720,,graph_rec,WWW,2023
+Fairly Adaptive Negative Sampling for Recommendations,2302.08266,https://arxiv.org/abs/2302.08266,,debias_fairness_industrial,WWW,2023
+Improving Recommendation Fairness via Data Augmentation,2302.06333,https://arxiv.org/abs/2302.06333,https://github.com/newlei/FDA,debias_fairness_industrial,WWW,2023
+Clustered Embedding Learning for Recommender Systems,2302.01478,https://arxiv.org/abs/2302.01478,,cold_start_rec,WWW,2023
+Learning with Exposure Constraints in Recommendation Systems,2302.01377,https://arxiv.org/abs/2302.01377,,rl_bandit_rec,WWW,2023
+Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders,2210.12316,https://arxiv.org/abs/2210.12316,https://github.com/RUCAIBox/VQ-Rec,sequential_rec,WWW,2023
+Few-shot News Recommendation via Cross-lingual Transfer,2207.14370,https://arxiv.org/abs/2207.14370,,cold_start_rec,WWW,2023
+Dynamically Expandable Graph Convolution for Streaming Recommendation,2303.11700,https://arxiv.org/abs/2303.11700,,graph_rec,WWW,2023
+Cooperative Retriever and Ranker in Deep Recommenders,2206.14649,https://arxiv.org/abs/2206.14649,,multi_task_reranking,WWW,2023
+A Deep Behavior Path Matching Network for Click-Through Rate Prediction,2302.00302,https://arxiv.org/abs/2302.00302,,ctr_feature_interaction,WWW,2023
+Mutual Wasserstein Discrepancy Minimization for Sequential Recommendation,2301.12197,https://arxiv.org/abs/2301.12197,https://github.com/zfan20/MStein,sequential_rec,WWW,2023
+Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation,2305.05848,https://arxiv.org/abs/2305.05848,https://github.com/Ee1s/NirGNN,cold_start_rec,WWW,2023
+Enhancing User Personalization in Conversational Recommenders,2302.06656,https://arxiv.org/abs/2302.06656,,agent_conversational_rec,WWW,2023
+Code Recommendation for Open Source Software Developers,2210.08332,https://arxiv.org/abs/2210.08332,,graph_rec,WWW,2023
+Modeling Temporal Positive and Negative Excitation for Sequential Recommendation,2410.22013,https://arxiv.org/abs/2410.22013,,sequential_rec,WWW,2023
+Distillation from Heterogeneous Models for Top-K Recommendation,2303.01130,https://arxiv.org/abs/2303.01130,,collaborative_filtering,WWW,2023
+Dual Policy Learning for Aggregation Optimization in Graph Neural Network-based Recommender Systems,2302.10567,https://arxiv.org/abs/2302.10567,https://github.com/steve30572/DPAO,graph_rec,WWW,2023
+Balancing Unobserved Confounding with a Few Unbiased Ratings in Debiased Recommendations,2304.09085,https://arxiv.org/abs/2304.09085,,debias_fairness_industrial,WWW,2023
+Continual Transfer Learning for Cross-Domain Click-Through Rate Prediction at Taobao,2208.05728,https://arxiv.org/abs/2208.05728,,cross_domain_multi_scenario,WWW,2023
+AutoDenoise: Automatic Data Instance Denoising for Recommendations,2303.06611,https://arxiv.org/abs/2303.06611,,self_supervised_denoising,WWW,2023
+Dual-interest Factorization-heads Attention for Sequential Recommendation,2302.03965,https://arxiv.org/abs/2302.03965,https://github.com/tsinghua-fib-lab/WWW2023-DFAR,sequential_rec,WWW,2023
+Personalized Graph Signal Processing for Collaborative Filtering,2302.02113,https://arxiv.org/abs/2302.02113,,graph_rec,WWW,2023
+A Self-Correcting Sequential Recommender,2303.02297,https://arxiv.org/abs/2303.02297,,sequential_rec,WWW,2023
+Multi-Task Recommendations with Reinforcement Learning,2302.03328,https://arxiv.org/abs/2302.03328,,multi_task_reranking,WWW,2023
+CAM2: Conformity-Aware Multi-Task Ranking Model for Large-Scale Recommender Systems,2304.08562,https://arxiv.org/abs/2304.08562,,debias_fairness_industrial,WWW,2023
+PIE: Personalized Interest Exploration for Large-Scale Recommender Systems,2304.06844,https://arxiv.org/abs/2304.06844,,rl_bandit_rec,WWW,2023
+AutoMLP: Automated MLP for Sequential Recommendations,2303.06337,https://arxiv.org/abs/2303.06337,,sequential_rec,WWW,2023
+CAViaR: Context Aware Video Recommendations,2304.08435,https://arxiv.org/abs/2304.08435,,multi_task_reranking,WWW,2023
+Robust Preference-Guided Denoising for Graph based Social Recommendation,2303.08346,https://arxiv.org/abs/2303.08346,https://github.com/tsinghua-fib-lab/Graph-Denoising-SocialRec,social_group_rec,WWW,2023
+Optimizing Feature Set for Click-Through Rate Prediction,2301.10909,https://arxiv.org/abs/2301.10909,,ctr_feature_interaction,WWW,2023
+Semi-decentralized Federated Ego Graph Learning for Recommendation,2302.10900,https://arxiv.org/abs/2302.10900,,debias_fairness_industrial,WWW,2023
+Maximizing Submodular Functions for Recommendation in the Presence of Biases,2305.02806,https://arxiv.org/abs/2305.02806,,debias_fairness_industrial,WWW,2023
+A Counterfactual Collaborative Session-based Recommender System,2301.13364,https://arxiv.org/abs/2301.13364,,sequential_rec,WWW,2023
+On the Theories Behind Hard Negative Sampling for Recommendation,2302.03472,https://arxiv.org/abs/2302.03472,https://github.com/swt-user/WWW_2023_code,collaborative_filtering,WWW,2023
+P-MMF: Provider Max-min Fairness Re-ranking in Recommender System,2303.06660,https://arxiv.org/abs/2303.06660,,debias_fairness_industrial,WWW,2023
+ColdNAS: Search to Modulate for User Cold-Start Recommendation,2306.03387,https://arxiv.org/abs/2306.03387,,cold_start_rec,WWW,2023
+Fine-tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation,2207.05959,https://arxiv.org/abs/2207.05959,,collaborative_filtering,WWW,2023
+ConsRec: Learning Consensus Behind Interactions for Group Recommendation,2302.03555,https://arxiv.org/abs/2302.03555,,social_group_rec,WWW,2023
+Deep Intention-Aware Network for Click-Through Rate Prediction,2211.08650,https://arxiv.org/abs/2211.08650,,ctr_feature_interaction,WWW,2023
+Reweighting Clicks with Dwell Time in Recommendation,2209.09000,https://arxiv.org/abs/2209.09000,,self_supervised_denoising,WWW,2023
+Multi-Modal Self-Supervised Learning for Recommendation,2302.10632,https://arxiv.org/abs/2302.10632,https://github.com/HKUDS/MMSSL,multimodal_rec,WWW,2023
+Graph-less Collaborative Filtering,2303.08537,https://arxiv.org/abs/2303.08537,https://github.com/HKUDS/SimRec,collaborative_filtering,WWW,2023
+Automated Self-Supervised Learning for Recommendation,2303.07797,https://arxiv.org/abs/2303.07797,https://github.com/HKUDS/AutoCF,self_supervised_denoising,WWW,2023
+Interaction-level Membership Inference Attack Against Federated Recommender Systems,2301.10964,https://arxiv.org/abs/2301.10964,,debias_fairness_industrial,WWW,2023
+NASRec: Weight Sharing Neural Architecture Search for Recommender Systems,2207.07187,https://arxiv.org/abs/2207.07187,https://github.com/facebookresearch/NasRec,ctr_feature_interaction,WWW,2023
+Fairness-aware Differentially Private Collaborative Filtering,2303.09527,https://arxiv.org/abs/2303.09527,,debias_fairness_industrial,WWW,2023
+Debiased Contrastive Learning for Sequential Recommendation,2303.11780,https://arxiv.org/abs/2303.11780,https://github.com/HKUDS/DCRec,sequential_rec,WWW,2023
+Bootstrapping Contrastive Learning Enhanced Music Cold-Start Matching,2308.02844,https://arxiv.org/abs/2308.02844,,cold_start_rec,WWW,2023
+Contrastive Collaborative Filtering for Cold-Start Item Recommendation,2302.02151,https://arxiv.org/abs/2302.02151,https://github.com/zzhin/CCFCRec,cold_start_rec,WWW,2023
+Divide and Conquer: Towards Better Embedding-based Retrieval for Recommender Systems From a Multi-task Perspective,2302.02657,https://arxiv.org/abs/2302.02657,,collaborative_filtering,WWW,2023
+Cross-domain recommendation via user interest alignment,2301.11467,https://arxiv.org/abs/2301.11467,,cross_domain_multi_scenario,WWW,2023
+User Retention-oriented Recommendation with Decision Transformer,2303.06347,https://arxiv.org/abs/2303.06347,,rl_bandit_rec,WWW,2023
+Disentangled Causal Embedding With Contrastive Learning For Recommender System,2302.03248,https://arxiv.org/abs/2302.03248,,debias_fairness_industrial,WWW,2023
+Bootstrap Latent Representations for Multi-modal Recommendation,2207.05969,https://arxiv.org/abs/2207.05969,https://github.com/enoche/BM3,multimodal_rec,WWW,2023
+Confidence Ranking for CTR Prediction,2307.01206,https://arxiv.org/abs/2307.01206,,ctr_feature_interaction,WWW,2023

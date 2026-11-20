@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Heterogeneous Graph Contrastive Learning Network for Personalized Micro-Video Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2022.3151026",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Speaker-Independent Emotional Voice Conversion via Disentangled Representations",
+    "ee": "https://doi.org/10.1109/TMM.2022.3222646",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Interaction-Matrix Based Personalized Image Aesthetics Assessment",
+    "ee": "https://doi.org/10.1109/TMM.2022.3189276",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learnable Multi-View Matrix Factorization With Graph Embedding and Flexible Loss",
+    "ee": "https://doi.org/10.1109/TMM.2022.3157997",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Can Machines Generate Personalized Music? A Hybrid Favorite-Aware Method for User Preference Music Transfer",
+    "ee": "https://doi.org/10.1109/TMM.2022.3146002",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An Apprenticeship Learning Approach for Adaptive Video Streaming Based on Chunk Quality and User Preference",
+    "ee": "https://doi.org/10.1109/TMM.2022.3147667",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Fine-Grained Face Editing via Personalized Spatial-Aware Affine Modulation",
+    "ee": "https://doi.org/10.1109/TMM.2022.3172548",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Disentangled Multimodal Representation Learning for Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2022.3217449",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multimodal Graph Contrastive Learning for Multimedia-Based Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2023.3251108",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Fashion Recommendation With Discrete Content-Based Tensor Factorization",
+    "ee": "https://doi.org/10.1109/TMM.2022.3186744",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "User-Guided Personalized Image Aesthetic Assessment Based on Deep Reinforcement Learning",
+    "ee": "https://doi.org/10.1109/TMM.2021.3130752",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cross-Domain Recommendation Via User-Clustering and Multidimensional Information Fusion",
+    "ee": "https://doi.org/10.1109/TMM.2021.3134161",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Video-to-Music Recommendation Using Temporal Alignment of Segments",
+    "ee": "https://doi.org/10.1109/TMM.2022.3152598",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multisample-Based Contrastive Loss for Top-K Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2021.3126146",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Self-Supervised Learning for Multimedia Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2022.3187556",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contrastive Multi-Level Graph Neural Networks for Session-Based Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2023.3250087",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Micro-Influencer Recommendation by Multi-Perspective Account Representation Learning",
+    "ee": "https://doi.org/10.1109/TMM.2022.3151029",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DualGNN: Dual Graph Neural Network for Multimedia Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2021.3138298",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "State Graph Reasoning for Multimodal Conversational Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2022.3155900",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Predicting Personalized Head Movement From Short Video and Speech Signal",
+    "ee": "https://doi.org/10.1109/TMM.2022.3207606",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cross-Modal Variational Auto-Encoder for Content-Based Micro-Video Background Music Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2021.3128254",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Personalized Image Aesthetics From Subjective and Objective Attributes",
+    "ee": "https://doi.org/10.1109/TMM.2021.3123468",
+    "key": "dblp_sparql"
+  }
+]

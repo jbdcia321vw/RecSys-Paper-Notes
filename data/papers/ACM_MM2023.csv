@@ -1,0 +1,12 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Against Opacity: Explainable AI and Large Language Models for Effective Digital Advertising,2504.20064,https://arxiv.org/abs/2504.20064,,ctr_feature_interaction,ACM_MM,2023
+Online Distillation-enhanced Multi-modal Transformer for Sequential Recommendation,2308.04067,https://arxiv.org/abs/2308.04067,,sequential_rec,ACM_MM,2023
+Pareto Invariant Representation Learning for Multimedia Recommendation,2308.04706,https://arxiv.org/abs/2308.04706,,multimodal_rec,ACM_MM,2023
+Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems,2310.05847,https://arxiv.org/abs/2310.05847,,debias_fairness_industrial,ACM_MM,2023
+Reproducibility Companion Paper: Making Users Indistinguishable: Attribute-wise Unlearning in Recommender Systems,2503.23032,https://arxiv.org/abs/2503.23032,,debias_fairness_industrial,ACM_MM,2023
+Ducho: A Unified Framework for the Extraction of Multimodal Features in Recommendation,2306.17125,https://arxiv.org/abs/2306.17125,https://github.com/sisinflab/Ducho,multimodal_rec,ACM_MM,2023
+Semantic-Guided Feature Distillation for Multimodal Recommendation,2308.03113,https://arxiv.org/abs/2308.03113,,multimodal_rec,ACM_MM,2023
+Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation,2402.14473,https://arxiv.org/abs/2402.14473,https://github.com/TiliaceaeSU/PBAT,sequential_rec,ACM_MM,2023
+A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation,2211.06924,https://arxiv.org/abs/2211.06924,https://github.com/enoche/FREEDOM,multimodal_rec,ACM_MM,2023
+Multi-View Graph Convolutional Network for Multimedia Recommendation,2308.03588,https://arxiv.org/abs/2308.03588,,multimodal_rec,ACM_MM,2023
+Knowledge Prompt-tuning for Sequential Recommendation,2308.08459,https://arxiv.org/abs/2308.08459,https://github.com/zhaijianyang/KP4SR,sequential_rec,ACM_MM,2023

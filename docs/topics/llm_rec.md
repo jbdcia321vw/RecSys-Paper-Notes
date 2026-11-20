@@ -7,9 +7,9 @@ hide:
 
 > **研究范畴**：LLM 指令微调推荐、In-Context 列表重排、语义表征增强、大模型向轻量推荐模型知识蒸馏
 
-当前方向共收录 **449** 篇顶会/顶刊论文解读：
+当前方向共收录 **485** 篇顶会/顶刊论文解读：
 
-🔥 **高频交叉主题：** 生成式推荐 ×118 · 去偏公平与可信推荐 ×24 · 端到端生成式 ×16 · 多模态推荐 ×14 · 知识蒸馏 ×13 · 冷启动 ×12 · 用户模拟 ×12 · 可解释推荐 ×11
+🔥 **高频交叉主题：** 生成式推荐 ×118 · 去偏公平与可信推荐 ×24 · 端到端生成式 ×24 · 可解释推荐 ×16 · 多模态推荐 ×16 · 知识蒸馏 ×14 · 冷启动 ×13 · 用户模拟 ×12
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -22,32 +22,32 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">217</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">228</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">127</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">118</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">116</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">68</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">65</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">64</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">72</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">71</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">70</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">25</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">24</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">20</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">16</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">14</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">24</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="可解释推荐" aria-pressed="false">可解释推荐<span class="paper-tag-filter__count">16</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">16</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">14</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LLM Agent" aria-pressed="false">LLM Agent<span class="paper-tag-filter__count">13</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">13</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">12</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">13</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="用户模拟" aria-pressed="false">用户模拟<span class="paper-tag-filter__count">12</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="可解释推荐" aria-pressed="false">可解释推荐<span class="paper-tag-filter__count">11</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">11</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="LLM4Rec" aria-pressed="false">LLM4Rec<span class="paper-tag-filter__count">10</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LLM推荐" aria-pressed="false">LLM推荐<span class="paper-tag-filter__count">10</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="LLM-as-a-Judge" aria-pressed="false">LLM-as-a-Judge<span class="paper-tag-filter__count">9</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式端到端" aria-pressed="false">生成式端到端<span class="paper-tag-filter__count">9</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="评测基准" aria-pressed="false">评测基准<span class="paper-tag-filter__count">9</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="LLM-as-a-Judge" aria-pressed="false">LLM-as-a-Judge<span class="paper-tag-filter__count">8</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="LLM4Rec" aria-pressed="false">LLM4Rec<span class="paper-tag-filter__count">8</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">9</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">8</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="序列推荐" aria-pressed="false">序列推荐<span class="paper-tag-filter__count">8</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">8</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">7</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="RAG" aria-pressed="false">RAG<span class="paper-tag-filter__count">7</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="生成式端到端" aria-pressed="false">生成式端到端<span class="paper-tag-filter__count">7</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">6</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="GRPO 强化学习" aria-pressed="false">GRPO 强化学习<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="指令微调" aria-pressed="false">指令微调<span class="paper-tag-filter__count">5</span></button>
@@ -58,19 +58,26 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="多智能体协作" aria-pressed="false">多智能体协作<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="提示工程" aria-pressed="false">提示工程<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="查询改写" aria-pressed="false">查询改写<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="检索增强生成" aria-pressed="false">检索增强生成<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="流行度去偏" aria-pressed="false">流行度去偏<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="离线评测" aria-pressed="false">离线评测<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自监督对比学习与交互去噪" aria-pressed="false">自监督对比学习与交互去噪<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="CTR预估与特征交叉" aria-pressed="false">CTR预估与特征交叉<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LLM-as-Judge" aria-pressed="false">LLM-as-Judge<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动与长尾推荐" aria-pressed="false">冷启动与长尾推荐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对比学习" aria-pressed="false">对比学习<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对比对齐" aria-pressed="false">对比对齐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="推理加速" aria-pressed="false">推理加速<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="流行度去偏" aria-pressed="false">流行度去偏<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐与离散语义ID" aria-pressed="false">生成式推荐与离散语义ID<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式检索" aria-pressed="false">生成式检索<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="用户行为模拟" aria-pressed="false">用户行为模拟<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="离线评测" aria-pressed="false">离线评测<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="缩放定律" aria-pressed="false">缩放定律<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="联邦推荐" aria-pressed="false">联邦推荐<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="自然语言用户画像" aria-pressed="false">自然语言用户画像<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="课程学习" aria-pressed="false">课程学习<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="零样本推荐" aria-pressed="false">零样本推荐<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="零样本迁移" aria-pressed="false">零样本迁移<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="DPO偏好对齐" aria-pressed="false">DPO偏好对齐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="KG-RAG" aria-pressed="false">KG-RAG<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LLM User Simulator" aria-pressed="false">LLM User Simulator<span class="paper-tag-filter__count">2</span></button>
@@ -78,6 +85,7 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="LoRA 指令微调" aria-pressed="false">LoRA 指令微调<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Machine Unlearning" aria-pressed="false">Machine Unlearning<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="MoE" aria-pressed="false">MoE<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Prompt Learning" aria-pressed="false">Prompt Learning<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Serendipity" aria-pressed="false">Serendipity<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Tool Learning" aria-pressed="false">Tool Learning<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="主动推荐" aria-pressed="false">主动推荐<span class="paper-tag-filter__count">2</span></button>
@@ -86,9 +94,13 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="列表级重排" aria-pressed="false">列表级重排<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="协同过滤" aria-pressed="false">协同过滤<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="反事实解释" aria-pressed="false">反事实解释<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="叙事驱动推荐" aria-pressed="false">叙事驱动推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="召回+精排" aria-pressed="false">召回+精排<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回/特征增强" aria-pressed="false">召回/特征增强<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="可控推荐" aria-pressed="false">可控推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="向量量化" aria-pressed="false">向量量化<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多智能体强化学习" aria-pressed="false">多智能体强化学习<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐与内容理解" aria-pressed="false">多模态推荐与内容理解<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐 (LLM4Rec)" aria-pressed="false">大语言模型推荐 (LLM4Rec)<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="强化微调" aria-pressed="false">强化微调<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="意图推理" aria-pressed="false">意图推理<span class="paper-tag-filter__count">2</span></button>
@@ -96,15 +108,19 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="提示蒸馏" aria-pressed="false">提示蒸馏<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="教师学生蒸馏" aria-pressed="false">教师学生蒸馏<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="数据增强" aria-pressed="false">数据增强<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="数据集构建" aria-pressed="false">数据集构建<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="新闻推荐" aria-pressed="false">新闻推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与POI推荐" aria-pressed="false">时空轨迹与POI推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="最优传输" aria-pressed="false">最优传输<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="模型压缩" aria-pressed="false">模型压缩<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="混合专家适配器" aria-pressed="false">混合专家适配器<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="物品索引" aria-pressed="false">物品索引<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="用户画像" aria-pressed="false">用户画像<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="用户画像蒸馏" aria-pressed="false">用户画像蒸馏<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="用户研究" aria-pressed="false">用户研究<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="端侧推理" aria-pressed="false">端侧推理<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="约束解码" aria-pressed="false">约束解码<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="维度坍缩" aria-pressed="false">维度坍缩<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="自然语言用户画像" aria-pressed="false">自然语言用户画像<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自适应门控融合" aria-pressed="false">自适应门控融合<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="表征对齐" aria-pressed="false">表征对齐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="记忆反思机制" aria-pressed="false">记忆反思机制<span class="paper-tag-filter__count">2</span></button>
@@ -112,14 +128,17 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="评分预测/精排" aria-pressed="false">评分预测/精排<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="语义ID量化" aria-pressed="false">语义ID量化<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="跨域序列推荐" aria-pressed="false">跨域序列推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨模态对齐" aria-pressed="false">跨模态对齐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="隐式推理" aria-pressed="false">隐式推理<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="零样本推荐" aria-pressed="false">零样本推荐<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="零样本迁移" aria-pressed="false">零样本迁移<span class="paper-tag-filter__count">2</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>
 
 <dl data-paper-list>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;生成式端到端&quot;,&quot;检索增强生成&quot;,&quot;可解释推荐&quot;,&quot;事实性幻觉抑制&quot;]"><strong><a href="../../venues/AAAI/2023/agent_conversational_rec/factual_and_informative_review_generation_for_explainable_recommendation/">Factual and Informative Review Generation for Explainable Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>PRAG 用个性化 Retriever 生成隐式评论查询，检索历史评论作证据并抽取 tf-idf 关键词，驱动 QA 模型生成可溯源且多样的推荐解释，在 Yelp/TripAdvisor/Amazon 上忠实度最高提升 145%。</p>
+</dd>
 <dt data-paper-tags="[&quot;AAAI 2024&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;简历补全&quot;,&quot;生成对抗对齐&quot;]"><strong><a href="../../venues/AAAI/2024/llm_rec/enhancing_job_recommendation_through_llm_based_generative_adversarial_netwo/">Enhancing Job Recommendation through LLM-based Generative Adversarial Networks</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>用交互历史引导 LLM 补全简历，并以 GAN 对齐少样本用户低质简历表征，三数据集 map@5 平均提升约 7.9%</p>
@@ -183,6 +202,22 @@ hide:
 <dt data-paper-tags="[&quot;AAAI 2026&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;重排&quot;,&quot;负反馈建模&quot;,&quot;多智能体协同&quot;,&quot;渐进式强化学习&quot;]"><strong><a href="../../venues/AAAI/2026/agent_conversational_rec/when_top_ranked_recommendations_fail_modeling_multi_granular_negative_feedb/">When Top-ranked Recommendations Fail: Modeling Multi-Granular Negative Feedback for Explainable and Robust Video Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>三智能体协同建模多粒度负反馈，S-GRPO 渐进奖励实现可解释视频推荐，线上快滑率降 9.4%</p>
+</dd>
+<dt data-paper-tags="[&quot;ACL&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;重排&quot;,&quot;检索增强生成&quot;,&quot;方面学习&quot;,&quot;可解释推荐&quot;]"><strong><a href="../../venues/ACL_EMNLP/2023/agent_conversational_rec/explainable_recommendation_with_personalized_review_retrieval_and_aspect_le/">Explainable Recommendation with Personalized Review Retrieval and Aspect Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>ERRA 以训练集评论为检索语料、用 Sentence-BERT+Faiss 检索个性化句子并结合 top-n 方面掩码注入 Transformer，联合打分与解释生成；8:1:1 划分下 TripAdvisor RMSE 降 3.3%、BLEU-4 升 15.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ACL 2023&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;行为序列语言建模&quot;,&quot;跨业务迁移学习&quot;]"><strong><a href="../../venues/ACL_EMNLP/2023/llm_rec/pivotal_role_of_language_modeling_in_recommender_systems_enriching_task_spe/">Pivotal Role of Language Modeling in Recommender Systems: Enriching Task-specific and Task-agnostic Representation Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>LMRec 以共享 Transformer 联合优化行为序列语言建模与推荐点积目标，并用 [EOS] 隐向量线性探针迁移，采样排序下 Recall@10 提升 3.0%–8.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;EMNLP&quot;,&quot;多模态推荐&quot;,&quot;端到端生成式&quot;,&quot;多模态个性化提示&quot;,&quot;参数高效 Adapter 微调&quot;]"><strong><a href="../../venues/ACL_EMNLP/2023/multimodal_rec/vip5_towards_multimodal_foundation_models_for_recommendation/">VIP5: Towards Multimodal Foundation Models for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>冻结 P5 主干、插入 Adapter 微调，将图像 token 拼入多模态个性化提示，统一序列/直接推荐与解释生成三任务，全榜超越 P5。</p>
+</dd>
+<dt data-paper-tags="[&quot;ACL 2024&quot;,&quot;LLM4Rec&quot;,&quot;端到端生成式&quot;,&quot;RLHF/PPO 对齐&quot;,&quot;可控推荐&quot;]"><strong><a href="../../venues/ACL_EMNLP/2024/llm_rec/aligning_large_language_models_for_controllable_recommendations/">Aligning Large Language Models for Controllable Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>两阶段 SL+PPO 对齐 Llama2-7b，以 SASRec 标签增强与规则奖励实现类目/比例可控推荐；Leave-One-Out 生成式 top-k，TCP 95.8%、CPA 88.4%。</p>
 </dd>
 <dt data-paper-tags="[&quot;NAACL 2024 Findings&quot;,&quot;大语言模型推荐&quot;,&quot;端到端生成式&quot;,&quot;指令微调&quot;,&quot;掩码物品建模&quot;,&quot;贝叶斯个性化排序&quot;]"><strong><a href="../../venues/ACL_EMNLP/2024/llm_rec/aligning_large_language_models_with_recommendation_knowledge/">Aligning Large Language Models with Recommendation Knowledge</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
@@ -468,13 +503,61 @@ hide:
 <dd>
 <p>将推荐视为动作、异构反馈视为观测，用语言世界模型 UEWM 做反事实用户模拟器，为 1.7B 策略提供同状态稠密奖励，跨域零样本超越大模型。</p>
 </dd>
+<dt data-paper-tags="[&quot;ACM MM 2023&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排/创意上线前预评估&quot;,&quot;多模态CTR预测&quot;,&quot;注意力热图归因&quot;,&quot;LLM广告内容分析&quot;]"><strong><a href="../../venues/ACM_MM/2023/ctr_feature_interaction/against_opacity_explainable_ai_and_large_language_models_for_effective_digi/">Against Opacity: Explainable AI and Large Language Models for Effective Digital Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>以 ViT 替换 ABN 构建 SoWide-v2 多模态三档 CTR 分类器，并用注意力热图与 GPT-3.5 流水线 SODA 为广告主侧提供可解释、可执行的创意优化洞察。</p>
+</dd>
+<dt data-paper-tags="[&quot;ACM MM&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;知识图谱提示&quot;,&quot;知识树掩码&quot;]"><strong><a href="../../venues/ACM_MM/2023/sequential_rec/knowledge_prompt_tuning_for_sequential_recommendation/">Knowledge Prompt-tuning for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>将知识图谱经关系模板转成知识提示，并用知识树掩码去噪，与 T5 掩码个性化提示联合调优；Leave-One-Out + Full-Ranking 下 books NDCG@5 较 P5 提升 40.65%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2023&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;生成式端到端&quot;,&quot;零样本提示&quot;,&quot;重复物品捷径&quot;,&quot;内容知识与协同知识解耦&quot;]"><strong><a href="../../venues/CIKM/2023/agent_conversational_rec/large_language_models_as_zero_shot_conversational_recommenders/">Large Language Models as Zero-Shot Conversational Recommenders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>用极简提示把 GPT-3.5/4、Vicuna、BAIZE 直接当零样本对话推荐器，揭露 CRS 评测中的「重复物品捷径」，并构建 63 万级 Reddit-Movie 真实数据集</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;文本匹配双塔&quot;,&quot;流行度去偏&quot;,&quot;注意力稀疏&quot;]"><strong><a href="../../venues/CIKM/2023/sequential_rec/text_matching_improves_sequential_recommendation_by_reducing_popularity_bia/">Text Matching Improves Sequential Recommendation by Reducing Popularity Biases</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>TASTE 用模板将物品与交互历史文本化，经 T5 双塔文本匹配做下一物品推荐，配合会话切分注意力稀疏建模长历史，Full-Ranking 下平均提升约 18%。</p>
+</dd>
 <dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;LLM推荐&quot;,&quot;召回+精排&quot;,&quot;互补知识图&quot;,&quot;E-E-I权重决策&quot;]"><strong><a href="../../venues/CIKM/2024/llm_rec/breaking_the_barrier_utilizing_large_language_models_for_industrial_recomme/">Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>CIKM 2024[LLM推荐] 用 LLM 离线构建互补知识图，结合 U2E2I 召回与 E-E-I 精排校准；在支付宝三场景 AUC 与线上转化显著提升。</p>
 </dd>
+<dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;跨模态融合&quot;,&quot;GATE 门控&quot;,&quot;LoRA 两阶段训练&quot;]"><strong><a href="../../venues/CIKM/2024/llm_rec/collaborative_cross_modal_fusion_with_large_language_model_for_recommendati/">Collaborative Cross-modal Fusion with Large Language Model for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>以混合 Prompt 单 token 承载双模态，用 GATE 维度级门控融合 LLM 语义与 CF 协同嵌入，CTR 全量 AUC 相对 MF 提升 56.21%。</p>
+</dd>
 <dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;大语言模型推荐&quot;,&quot;评分预测/精排&quot;,&quot;LoRA 插件&quot;,&quot;ID-内容对比对齐&quot;]"><strong><a href="../../venues/CIKM/2024/llm_rec/enhancing_content_based_recommendation_via_large_language_model/">Enhancing Content-based Recommendation via Large Language Model</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>CIKM 2024｜LLM4Rec：LoRA 跨域语义插件经 DARE 合并，再用 ID-内容对比对齐做评分预测；Amazon 11 域 8:1:1 划分下 MSE 显著优于 RGCL。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;上下文思维链 (In-context CoT)&quot;,&quot;知识蒸馏&quot;]"><strong><a href="../../venues/CIKM/2024/llm_rec/large_language_models_enhanced_collaborative_filtering/">Large Language Models Enhanced Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>离线微调 RecGen-LLaMA 生成 CoT 推理构建 in-context 样例库，在线用轻量 Transformer 解码器蒸馏出“世界知识+推理引导的协同过滤特征”注入任意骨干模型，CTR 上 AUC RelaImpr 最高 7.6%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;端到端生成式&quot;,&quot;可学习物品分词&quot;,&quot;RQ-VAE&quot;,&quot;协同正则&quot;,&quot;多样性正则&quot;]"><strong><a href="../../venues/CIKM/2024/generative_rec/learnable_item_tokenization_for_generative_recommendation/">Learnable Item Tokenization for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>CIKM 2024｜生成式推荐与离散语义ID：LETTER 以 RQ-VAE 层级码、协同对比对齐和码本多样性正则学习物品标识符，并加排序引导生成损失；三数据集 LOO 全库排序 R@10 较 TIGER/LC-Rec 提升 4.7%–10.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;大语言模型零样本知识推理&quot;,&quot;分层元网络&quot;,&quot;Prompt 工程&quot;]"><strong><a href="../../venues/CIKM/2024/cross_domain_multi_scenario/llm4msr_an_llm_enhanced_paradigm_for_multi_scenario_recommendation/">LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>冻结 LLM 以场景级/用户级 Prompt 零样本推理跨场景知识与个性化偏好，经分层元网络生成元层注入多场景 CTR 骨干，AUC 最高相对提升 40% 且推理仅 52ms。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;属性感知文本编码&quot;,&quot;多向量匹配 MaxSim&quot;,&quot;零样本迁移&quot;]"><strong><a href="../../venues/CIKM/2024/sequential_rec/mars_matching_attribute_aware_representations_for_text_based_sequential_rec/">MARS: Matching Attribute-aware Representations for Text-based Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>用属性级多向量文本编码 + 逐属性 MaxSim 匹配替代单一序列向量，在全库排序下 R@10 最高提升 24.43%，零样本迁移平均提升 13.11%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;端到端生成式&quot;,&quot;记忆增强 LLM&quot;,&quot;实体记忆库&quot;,&quot;冷启动&quot;]"><strong><a href="../../venues/CIKM/2024/agent_conversational_rec/memocrs_memory_enhanced_sequential_conversational_recommender_systems_with_/">MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems with Large Language Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>用实体记忆库与通用记忆增强 LLM，建模跨会话偏好连续性；时序切分下 MRR@20 最高提升 38.5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;多模态推荐与内容理解&quot;,&quot;召回&quot;,&quot;跨模态对齐&quot;,&quot;PLM 文本知识&quot;,&quot;组合用药推荐&quot;]"><strong><a href="../../venues/CIKM/2024/multimodal_rec/natural_language_assisted_multi_modal_medication_recommendation/">Natural Language-Assisted Multi-modal Medication Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>将组合用药推荐建模为患者-药物双模态对齐与相似度检索，用 PLM 抽取病历与药物文本知识，Jaccard 平均提升 4.72%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2024&quot;,&quot;多模态推荐&quot;,&quot;端到端生成式&quot;,&quot;视频摘要&quot;,&quot;视觉语言模型 (VLM)&quot;,&quot;偏好条件生成&quot;]"><strong><a href="../../venues/CIKM/2024/multimodal_rec/personalized_video_summarization_by_multimodal_video_understanding/">Personalized Video Summarization by Multimodal Video Understanding</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>将长视频文本化后按 genre 偏好做 T5 语义打分选场景，UserPrefSum F1 26.8 较 UniVTG 提升 13.6%，免训练、推理常数时间</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM 2025&quot;,&quot;去偏公平与可信推荐&quot;,&quot;离线评测&quot;,&quot;LLM-as-a-Judge&quot;,&quot;Serendipity&quot;,&quot;Prompt Engineering&quot;]"><strong><a href="../../venues/CIKM/2025/debias_fairness_industrial/a_universal_framework_for_offline_serendipity_evaluation_in_recommender_sys/">A Universal Framework for Offline Serendipity Evaluation in Recommender Systems via Large Language Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
@@ -715,6 +798,10 @@ hide:
 <dt data-paper-tags="[&quot;ICDE 2026&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;查询改写&quot;,&quot;GRPO 强化学习&quot;]"><strong><a href="../../venues/ICDE/2026/llm_rec/relevance_matters_a_multi_task_and_multi_stage_large_language_model_approac/">Relevance Matters: A Multi-Task and Multi-Stage Large Language Model Approach for E-commerce Query Rewriting</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>将相关性打标任务注入电商查询改写，多任务 SFT + 查询级归一化 GRPO 融合奖励对齐，离线召回 67.94%、线上 UCVR +0.181%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDM 2023&quot;,&quot;冷启动与长尾推荐&quot;,&quot;召回&quot;,&quot;零样本推荐&quot;,&quot;多模态语义嵌入&quot;]"><strong><a href="../../venues/ICDM/2023/cold_start_rec/zero_shot_recommendations_with_pre_trained_large_language_models_for_multim/">Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>将多模态内容文本化并用LLM语义嵌入做零样本匹配，合成屏幕时间干预场景Top-5推荐中83%合适、8%不合适。</p>
 </dd>
 <dt data-paper-tags="[&quot;ICDM 2024&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;LLM 用户画像重建&quot;,&quot;模型无关知识迁移&quot;,&quot;RecBole 实验框架&quot;]"><strong><a href="../../venues/ICDM/2024/llm_rec/llm_kt_a_versatile_framework_for_knowledge_transfer_from_large_language_mod/">LLM-KT: A Versatile Framework for Knowledge Transfer from Large Language Models to Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
@@ -1040,6 +1127,22 @@ hide:
 <dd>
 <p>提出 LLMScholarBench，联合审计 22 个 LLM 在 5 类学者推荐任务、3 类推理期干预下的技术质量与社会代表性权衡。</p>
 </dd>
+<dt data-paper-tags="[&quot;RecSys 2023&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;Genre Spectrum&quot;,&quot;内容元数据嵌入&quot;]"><strong><a href="../../venues/RecSys/2023/llm_rec/beyond_labels_leveraging_deep_learning_and_llms_for_content_metadata/">Beyond Labels: Leveraging Deep Learning and LLMs for Content Metadata</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>提出 Genre Spectrum，用多标签监督把离散类型标签映射到连续隐空间，Mixup 增广后于 1.1M 影视数据 top-100 类型相似度低热度桶提升约 12 个百分点。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2023&quot;,&quot;大语言模型推荐&quot;,&quot;召回/特征增强&quot;,&quot;异构行为融合&quot;,&quot;指令微调 LoRA&quot;,&quot;自然语言用户画像&quot;]"><strong><a href="../../venues/RecSys/2023/llm_rec/heterogeneous_knowledge_fusion_a_novel_approach_for_personalized_recommenda/">Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>用 ChatGPT 将美团外卖多维异构行为改写为自然语言知识，再以 LoRA 指令微调 ChatGLM-6B 输出类别/POI 偏好，离线 HR@5 提升 52.5%，冷启动在线 CTR +2.45%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2023&quot;,&quot;LLM4Rec&quot;,&quot;召回&quot;,&quot;合成查询数据增强&quot;,&quot;叙事驱动推荐&quot;,&quot;双塔检索&quot;]"><strong><a href="../../venues/RecSys/2023/llm_rec/large_language_model_augmented_narrative_driven_recommendations/">Large Language Model Augmented Narrative Driven Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>用 175B LLM 从 Yelp 评论合成叙事查询，训练 110M 双塔/交叉编码器，Pointrec 上 NDCG@10 相对提升 7%+。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;序列与会话推荐&quot;,&quot;召回/精排&quot;,&quot;LLM item embedding&quot;,&quot;PCA initialization&quot;,&quot;BERT4Rec&quot;,&quot;prompt fine-tuning&quot;]"><strong><a href="../../venues/RecSys/2023/sequential_rec/leveraging_large_language_models_for_sequential_recommendation/">Leveraging Large Language Models for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>三种LLM增强序列推荐：LLM物品嵌入+PCA初始化BERT4Rec在Beauty/Delivery Hero上NDCG@20提升15–20%，简单语义相似检索在Beauty具竞争力。</p>
+</dd>
 <dt data-paper-tags="[&quot;RecSys&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;召回&quot;,&quot;贝叶斯优化&quot;,&quot;自然语言偏好引导&quot;,&quot;Thompson Sampling&quot;]"><strong><a href="../../venues/RecSys/2024/agent_conversational_rec/bayesian_optimization_with_llm_based_acquisition_functions_for_natural_lang/">Bayesian Optimization with LLM-Based Acquisition Functions for Natural Language Preference Elicitation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>将自然语言偏好引导建模为贝叶斯优化，用 NLI 蕴含分维护 Beta 效用后验，并以 TS/UCB 指导 LLM 生成查询；10 轮对话后 Yelp MRR@10 达 0.27，超最优单体 LLM 基线 58.8%。</p>
@@ -1052,13 +1155,37 @@ hide:
 <dd>
 <p>将 BIGRec 教师蒸馏至轻量序列模型：置信/一致性加权排序蒸馏 + projector-offset 嵌入蒸馏，平均提升 47.97%，推理降至秒级。</p>
 </dd>
+<dt data-paper-tags="[&quot;RecSys 2024&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;双塔离线预计算&quot;,&quot;Poly-Attention 多向量表征&quot;,&quot;LLM 摘要蒸馏监督&quot;]"><strong><a href="../../venues/RecSys/2024/llm_rec/embsum_leveraging_the_summarization_capabilities_of_large_language_models_f/">EmbSum: Leveraging the Summarization Capabilities of Large Language Models for Content-Based Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>用 T5 编码器-解码器 + Poly-Attention 生成用户/内容多向量表征，并以 LLM 摘要作离线监督，双塔离线预计算下 MIND AUC 71.95。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;跨模态细粒度对齐&quot;,&quot;掩码重建预训练&quot;,&quot;PLM 增强推荐&quot;]"><strong><a href="../../venues/RecSys/2024/ctr_feature_interaction/flip_fine_grained_alignment_between_id_based_models_and_pretrained_language/">FLIP: Fine-grained Alignment between ID-based Models and Pretrained Language Models for CTR Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>以字段级双向掩码重建实现 ID 与词元细粒度对齐，MovieLens-1M 上 AUC 0.8621、较最强基线相对提升 0.57%</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2024&quot;,&quot;大语言模型推荐&quot;,&quot;离线评测&quot;,&quot;LLM-as-a-Judge&quot;,&quot;可解释推荐&quot;,&quot;元评估协议&quot;]"><strong><a href="../../venues/RecSys/2024/llm_rec/large_language_models_as_evaluators_for_recommendation_explanations/">Large Language Models as Evaluators for Recommendation Explanations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>以真实用户四维 Likert 评分为真值，提出三级元评估协议验证 GPT-4 零样本/单样本/异构集成可替代第三方标注与 BLEU/ROUGE 评估推荐解释文本，成本仅约 1/4。</p>
+</dd>
 <dt data-paper-tags="[&quot;RecSys 2024&quot;,&quot;CTR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;实时场景语义理解&quot;,&quot;跨模态对比对齐&quot;,&quot;LLM 离线推理&quot;]"><strong><a href="../../venues/RecSys/2024/ctr_feature_interaction/larr_large_language_model_aided_real_time_scene_recommendation_with_semanti/">LARR: Large Language Model Aided Real-time Scene Recommendation with Semantic Understanding</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>三阶段将 LLM 转为 POI/用户文本嵌入器，用双向编码器聚合实时场景语义并与协同信号对齐，离线化推理使美团外卖 CTR AUC +0.58%，线上 CTR +2.5%。</p>
 </dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;用户兴趣探索&quot;,&quot;混合分层规划&quot;,&quot;受控生成&quot;]"><strong><a href="../../venues/RecSys/2024/llm_rec/llms_for_user_interest_exploration_in_large_scale_recommendation_systems/">LLMs for User Interest Exploration in Large-scale Recommendation Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>用 LLM 在 761 个兴趣簇空间内生成新颖兴趣、再用受限 softmax 落回物品级序列推荐，离线枚举查表支撑线上服务，活体实验同时提升新颖曝光与正反馈。</p>
+</dd>
 <dt data-paper-tags="[&quot;RecSys 2024&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;PLM 参数冗余&quot;,&quot;行为微调初始化&quot;,&quot;层间注意力分层&quot;]"><strong><a href="../../venues/RecSys/2024/sequential_rec/the_elephant_in_the_room_rethinking_the_usage_of_pre_trained_language_model/">The Elephant in the Room: Rethinking the Usage of Pre-trained Language Model in Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>揭示 PLM 行为序列建模的参数冗余，改用行为微调 PLM 仅做物品嵌入初始化，配合轻量 ID 序列模型大幅提升且零额外推理开销</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2024&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;对话推荐（推荐+回复生成）&quot;,&quot;情感感知偏好建模&quot;,&quot;检索增强生成&quot;]"><strong><a href="../../venues/RecSys/2024/agent_conversational_rec/towards_empathetic_conversational_recommender_systems/">Towards Empathetic Conversational Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>提出ECR，以情感感知实体与反馈重加权提升推荐，并用检索增强生成情感回复；ReDial全库AUC+6.9%、RT@10+3.9%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2024&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;因子化提示&quot;,&quot;混合专家适配器&quot;,&quot;知识增强&quot;]"><strong><a href="../../venues/RecSys/2024/llm_rec/towards_open_world_recommendation_with_knowledge_augmentation_from_large_la/">Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>用因子化提示从 LLM 抽取用户偏好推理知识与物品事实知识，经混合专家适配器压缩为增强向量注入任意精排模型，MovieLens/Amazon 上 AUC 提升 1%+，在线新闻召回 +7%。</p>
 </dd>
 <dt data-paper-tags="[&quot;RecSys 2025&quot;,&quot;大语言模型推荐&quot;,&quot;生成式推荐&quot;,&quot;RAG&quot;,&quot;模型更新策略&quot;,&quot;兴趣探索&quot;]"><strong><a href="../../venues/RecSys/2025/llm_rec/balancing_fine_tuning_and_rag_a_hybrid_strategy_for_dynamic_llm_recommendat/">Balancing Fine-tuning and RAG: A Hybrid Strategy for Dynamic LLM Recommendation Updates</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
@@ -1215,6 +1342,18 @@ hide:
 <dt data-paper-tags="[&quot;RecSys&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;模态偏置&quot;,&quot;结构保持投影&quot;]"><strong><a href="../../venues/RecSys/2026/llm_rec/structure_preserving_projection_for_mitigating_modality_bias_in_llm_based_s/">Structure-Preserving Projection for Mitigating Modality Bias in LLM-Based Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用余弦相似度保持与序列对比保持双损失约束协同嵌入投影，缓解 LLM 推荐中的模态偏置，20 候选协议下 HR@1 最高提升约 12pt。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2023&quot;,&quot;冷启动与长尾推荐&quot;,&quot;重排&quot;,&quot;概念瓶颈&quot;,&quot;最优传输&quot;,&quot;可编辑用户画像&quot;]"><strong><a href="../../venues/SIGIR/2023/cold_start_rec/editable_user_profiles_for_controllable_text_recommendation/">Editable User Profiles for Controllable Text Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>LACE以检索式概念瓶颈构建人类可读的用户画像，用最优传输计算个性化概念值进行文本推荐，在冷启动与零样本设定下NDCG@20较NeuKNN提升5–29%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2023&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;Prompt Learning&quot;,&quot;Cloze-style Mask Prediction&quot;,&quot;Multi-Prompt Ensembling&quot;]"><strong><a href="../../venues/SIGIR/2023/llm_rec/prompt_learning_for_news_recommendation/">Prompt Learning for News Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>首次将新闻点击预测改写为完形填空式 MLM 任务，设计离散/连续/混合三类模板与多模板概率集成；MIND 上 1:4 采样排序评测，跨类型集成 AUC 69.64，较 BERT-NRMS 相对提升 1.5%–4.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2023&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;端到端生成式&quot;,&quot;可解释推荐&quot;,&quot;解释生成&quot;,&quot;数据集构建&quot;]"><strong><a href="../../venues/SIGIR/2023/agent_conversational_rec/towards_explainable_conversational_recommender_systems/">Towards Explainable Conversational Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>提出 CRS 可解释性 10 维评估视角，构建含 2,058 条高质量解释的 E-ReDial 数据集，T5+知识接地生成 Explanations 时 F1 提升 21.8%、人工总体评分从 1.14 提升至 3.67。</p>
 </dd>
 <dt data-paper-tags="[&quot;SIGIR&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;LLM4Rec&quot;,&quot;行为级分层编码&quot;,&quot;序列长文本效率&quot;]"><strong><a href="../../venues/SIGIR/2024/ctr_feature_interaction/breaking_the_length_barrier_llm_enhanced_ctr_prediction_in_long_textual_use/">Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
@@ -1540,6 +1679,10 @@ hide:
 <dd>
 <p>提出 InPE 标注数据集与 COPE 分层 MoE 架构，显式建模“何时问、怎么问”的阶段感知偏好引导策略，Recall@10 相对最优基线提升 14.6%。</p>
 </dd>
+<dt data-paper-tags="[&quot;SIGIR-AP&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;端到端生成式&quot;,&quot;物品索引&quot;,&quot;谱聚类协同ID&quot;,&quot;约束解码&quot;]"><strong><a href="../../venues/SIGIR-AP/2023/generative_rec/how_to_index_item_ids_for_recommendation_foundation_models/">How to Index Item IDs for Recommendation Foundation Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Information Retrieval in the Asia Pacific">SIGIR-AP</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>系统对比随机/标题/独立/顺序/协同/语义/混合七类物品ID索引方案，用谱聚类协同索引+独立令牌在P5上取得HR@10最高+64.8%</p>
+</dd>
 <dt data-paper-tags="[&quot;TKDD&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;知识蒸馏&quot;,&quot;双流MLP对齐&quot;]"><strong><a href="../../venues/TKDD/2026/ctr_feature_interaction/dual_stream_mlp_is_all_you_need_for_ctr_prediction/">Dual-Stream MLP is All You Need for CTR Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Knowledge Discovery from Data">ACM TKDD</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用知识蒸馏把复杂显式交叉教师压进纯MLP双流学生，配合隐状态BN与预测对齐，三基准AUC全面SOTA且推理低延迟。</p>
@@ -1575,6 +1718,18 @@ hide:
 <dt data-paper-tags="[&quot;TKDE&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;审慎对齐&quot;,&quot;多步推理&quot;]"><strong><a href="../../venues/TKDE/2026/llm_rec/reason4rec_deliberative_user_preference_alignment_of_large_language_models_/">Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>提出审慎推荐任务与三专家多步推理框架，用评论监督偏好蒸馏-匹配-预测，评分预测与排序全面领先。</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;端到端生成式&quot;,&quot;多任务统一 Seq2Seq&quot;,&quot;Prompt-based Learning&quot;,&quot;多目标对话推荐&quot;]"><strong><a href="../../venues/TOIS/2023/agent_conversational_rec/a_unified_multi_task_learning_framework_for_multi_goal_conversational_recom/">A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>UniMIND 用 Seq2Seq + Prompt 将 MG-CRS 的目标规划、主题预测、物品推荐与回复生成四任务统一，两基准全任务 SOTA，主题预测 Hit@1 提升 66%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS 2023&quot;,&quot;序列与会话推荐&quot;,&quot;召回+排序(全链路综述)&quot;,&quot;新闻文本表征&quot;,&quot;点击噪声与责任化推荐&quot;]"><strong><a href="../../venues/TOIS/2023/sequential_rec/personalized_news_recommendation_methods_and_challenges/">Personalized News Recommendation: Methods and Challenges</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>以核心问题重构新闻推荐综述框架，梳理新闻/用户建模、排序、训练与评测技术，指出冷启动、点击噪声与离线-在线鸿沟三大挑战。</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;生成式端到端（解释理由生成）&quot;,&quot;Prompt Learning&quot;,&quot;连续提示&quot;,&quot;可解释推荐&quot;]"><strong><a href="../../venues/TOIS/2023/agent_conversational_rec/personalized_prompt_learning_for_explainable_recommendation/">Personalized Prompt Learning for Explainable Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
+<dd>
+<p>将用户/物品 ID 视为离散或连续提示注入 GPT-2，配合顺序调优与推荐正则，在三个可解释推荐数据集上显著提升解释文本质量与特征解释性。</p>
 </dd>
 <dt data-paper-tags="[&quot;TOIS&quot;,&quot;大语言模型推荐&quot;,&quot;数据增强&quot;,&quot;LLM4Rec&quot;,&quot;ID-based Recommendation&quot;,&quot;LoRA 微调&quot;]"><strong><a href="../../venues/TOIS/2025/llm_rec/enhancing_id_based_recommendation_with_large_language_models/">Enhancing ID-based Recommendation with Large Language Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
@@ -1635,6 +1790,10 @@ hide:
 <dt data-paper-tags="[&quot;TORS&quot;,&quot;大语言模型推荐&quot;,&quot;生成式推荐&quot;,&quot;音乐推荐评估&quot;,&quot;LLM-as-Judge&quot;,&quot;提示工程&quot;]"><strong><a href="../../venues/TORS/2026/llm_rec/music_recommendation_with_large_language_models_challenges_opportunities_an/">Music Recommendation with Large Language Models: Challenges, Opportunities, and Evaluation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>系统梳理 LLM 驱动音乐推荐在用户建模、物品建模与自然语言请求三方面的变革，并提出 NLP 启发的评估分类体系与 MRS 成功/风险维度框架。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2024&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;LLM 内容编码器&quot;,&quot;提示数据增强&quot;,&quot;部分冻结与 LoRA&quot;]"><strong><a href="../../venues/WSDM/2024/llm_rec/once_boosting_content_based_recommendation_with_both_open_and_closed_source/">ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
+<dd>
+<p>用开源 LLaMA 微调做内容编码器 (DIRE)、闭源 GPT-3.5 提示做数据增强 (GENRE)，MIND/Goodreads 采样排序下 AUC 最高 +11.1%，N@5 最高 +24.6%。</p>
 </dd>
 <dt data-paper-tags="[&quot;WSDM 2025&quot;,&quot;大语言模型推荐&quot;,&quot;生成式推荐&quot;,&quot;可控多样性推荐&quot;,&quot;任务分解&quot;,&quot;数据增广&quot;]"><strong><a href="../../venues/WSDM/2025/llm_rec/dlcrec_a_novel_approach_for_managing_diversity_in_llm_based_recommender_sys/">DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>

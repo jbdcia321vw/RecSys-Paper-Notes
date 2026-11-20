@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Multi-Level Visual Similarity Based Personalized Tourist Attraction Recommendation Using Geo-Tagged Photos",
+    "ee": "https://doi.org/10.1145/3582015",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Trip Reinforcement Recommendation with Graph-based Representation Learning",
+    "ee": "https://doi.org/10.1145/3564609",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SMONE: A Session-based Recommendation Model Based on Neighbor Sessions with Similar Probabilistic Intentions",
+    "ee": "https://doi.org/10.1145/3587099",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Long- and Short-Term User Preferences via Self-Supervised Learning for Next POI Recommendation",
+    "ee": "https://doi.org/10.1145/3597211",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Shared Representations for Recommendation with Dynamic Heterogeneous Graph Convolutional Networks",
+    "ee": "https://doi.org/10.1145/3565575",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Edge-enhanced Global Disentangled Graph Neural Network for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3577928",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Privacy-Preserving Personalized Fitness Recommender System P3FitRec: A Multi-level Deep Learning Approach",
+    "ee": "https://doi.org/10.1145/3572899",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Be Causal: De-Biasing Social Network Confounding in Recommendation",
+    "ee": "https://doi.org/10.1145/3533725",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Misinformation Blocking Problem in Virtual and Real Interconversion Social Networks",
+    "ee": "https://doi.org/10.1145/3578936",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "STA-TCN: Spatial-temporal Attention over Temporal Convolutional Network for Next Point-of-interest Recommendation",
+    "ee": "https://doi.org/10.1145/3596497",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Joint Inference of Diffusion and Structure in Partially Observed Social Networks Using Coupled Matrix Factorization",
+    "ee": "https://doi.org/10.1145/3599237",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Causal Disentanglement for Implicit Recommendations with Network Information",
+    "ee": "https://doi.org/10.1145/3582435",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Nonnegative Matrix Factorization Based on Node Centrality for Community Detection",
+    "ee": "https://doi.org/10.1145/3578520",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Generalized Deep Learning Clustering Algorithm Based on Non-Negative Matrix Factorization",
+    "ee": "https://doi.org/10.1145/3584862",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Cross-session Information with Multi-interest Graph Neural Networks for the Next-item Recommendation",
+    "ee": "https://doi.org/10.1145/3532192",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Aspect-Aware High-Order Representations from Ratings and Reviews for Recommendation",
+    "ee": "https://doi.org/10.1145/3532188",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multifaceted Relation-aware Meta-learning with Dual Customization for User Cold-start Recommendation",
+    "ee": "https://doi.org/10.1145/3597458",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Federated Learning on Non-IID Data via Group-based Meta-learning",
+    "ee": "https://doi.org/10.1145/3558005",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Explainable Integration of Social Media Background in a Dynamic Neural Recommender",
+    "ee": "https://doi.org/10.1145/3550279",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contrastive Learning Based Graph Convolution Network for Social Recommendation",
+    "ee": "https://doi.org/10.1145/3587268",
+    "key": "dblp_sparql"
+  }
+]

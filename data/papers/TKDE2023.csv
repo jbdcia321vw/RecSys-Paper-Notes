@@ -1,0 +1,29 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+GDSRec: Graph-Based Decentralized Collaborative Filtering for Social Recommendation,2205.09948,https://arxiv.org/abs/2205.09948,https://github.com/MEICRS/GDSRec,social_group_rec,TKDE,2023
+MetaKG: Meta-learning on Knowledge Graph for Cold-start Recommendation,2202.03851,https://arxiv.org/abs/2202.03851,,cold_start_rec,TKDE,2023
+Learning from Atypical Behavior: Temporary Interest Aware Recommendation Based on Reinforcement Learning,2201.05970,https://arxiv.org/abs/2201.05970,,rl_bandit_rec,TKDE,2023
+User-specific Adaptive Fine-tuning for Cross-domain Recommendations,2106.07864,https://arxiv.org/abs/2106.07864,,cross_domain_multi_scenario,TKDE,2023
+Reinforcement Learning-enhanced Shared-account Cross-domain Sequential Recommendation,2206.08088,https://arxiv.org/abs/2206.08088,,cross_domain_multi_scenario,TKDE,2023
+Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation,2111.12262,https://arxiv.org/abs/2111.12262,,sequential_rec,TKDE,2023
+Disentangled Graph Neural Networks for Session-based Recommendation,2201.03482,https://arxiv.org/abs/2201.03482,,sequential_rec,TKDE,2023
+Dual Metric Learning for Effective and Efficient Cross-Domain Recommendations,2104.08490,https://arxiv.org/abs/2104.08490,,cross_domain_multi_scenario,TKDE,2023
+Transition Information Enhanced Disentangled Graph Neural Networks for Session-based Recommendation,2204.02119,https://arxiv.org/abs/2204.02119,,sequential_rec,TKDE,2023
+HS-GCN: Hamming Spatial Graph Convolutional Networks for Recommendation,2301.05430,https://arxiv.org/abs/2301.05430,,graph_rec,TKDE,2023
+Contextualized Graph Attention Network for Recommendation with Item Knowledge Graph,2004.11529,https://arxiv.org/abs/2004.11529,,graph_rec,TKDE,2023
+Learning Hierarchical Review Graph Representations for Recommendation,2004.11588,https://arxiv.org/abs/2004.11588,,graph_rec,TKDE,2023
+Hyperbolic Neural Collaborative Recommender,2104.07414,https://arxiv.org/abs/2104.07414,,collaborative_filtering,TKDE,2023
+DeepAltTrip: Top-k Alternative Itineraries for Trip Recommendation,2109.03535,https://arxiv.org/abs/2109.03535,,poi_spatiotemporal_rec,TKDE,2023
+CmnRec: Sequential Recommendations with Chunk-accelerated Memory Network,2004.13401,https://arxiv.org/abs/2004.13401,,sequential_rec,TKDE,2023
+Intent Disentanglement and Feature Self-supervision for Novel Recommendation,2106.14388,https://arxiv.org/abs/2106.14388,,cold_start_rec,TKDE,2023
+Private and Utility Enhanced Recommendations with Local Differential Privacy and Gaussian Mixture Model,2102.13453,https://arxiv.org/abs/2102.13453,,debias_fairness_industrial,TKDE,2023
+Parallel Split-Join Networks for Shared-account Cross-domain Sequential Recommendations,1910.02448,https://arxiv.org/abs/1910.02448,,sequential_rec,TKDE,2023
+SamWalker++: recommendation with informative sampling strategy,2011.07734,https://arxiv.org/abs/2011.07734,,collaborative_filtering,TKDE,2023
+Multi-Behavior Sequential Recommendation with Temporal Graph Transformer,2206.02687,https://arxiv.org/abs/2206.02687,https://github.com/akaxlh/TGT,sequential_rec,TKDE,2023
+A Survey on Accuracy-oriented Neural Recommendation: From Collaborative Filtering to Information-rich Recommendation,2104.13030,https://arxiv.org/abs/2104.13030,,collaborative_filtering,TKDE,2023
+Causal Inference for Knowledge Graph based Recommendation,2212.10046,https://arxiv.org/abs/2212.10046,,graph_rec,TKDE,2023
+Dual Adversarial Variational Embedding for Robust Recommendation,2106.15779,https://arxiv.org/abs/2106.15779,,self_supervised_denoising,TKDE,2023
+Latent Structure Mining with Contrastive Modality Fusion for Multimedia Recommendation,2111.00678,https://arxiv.org/abs/2111.00678,,multimodal_rec,TKDE,2023
+Dynamic Graph Neural Networks for Sequential Recommendation,2104.07368,https://arxiv.org/abs/2104.07368,,sequential_rec,TKDE,2023
+AIM: Automatic Interaction Machine for Click-Through Rate Prediction,2111.03318,https://arxiv.org/abs/2111.03318,https://github.com/zhuchenxv/AIM,ctr_feature_interaction,TKDE,2023
+Variational Bandwidth Auto-encoder for Hybrid Recommender Systems,2105.07597,https://arxiv.org/abs/2105.07597,https://github.com/yaochenzhu/vbae,collaborative_filtering,TKDE,2023
+A Unified Framework for Cross-Domain and Cross-System Recommendations,2108.07976,https://arxiv.org/abs/2108.07976,,cross_domain_multi_scenario,TKDE,2023

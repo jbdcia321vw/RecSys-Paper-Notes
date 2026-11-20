@@ -1,0 +1,30 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Addressing Confounding Feature Issue for Causal Recommendation,2205.06532,https://arxiv.org/abs/2205.06532,https://github.com/zyang1580/DCR,debias_fairness_industrial,TOIS,2023
+A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems,2204.06923,https://arxiv.org/abs/2204.06923,,agent_conversational_rec,TOIS,2023
+Studying the Impact of Data Disclosure Mechanism in Recommender Systems via Simulation,2204.00279,https://arxiv.org/abs/2204.00279,,debias_fairness_industrial,TOIS,2023
+Bias and Debias in Recommender System: A Survey and Future Directions,2010.03240,https://arxiv.org/abs/2010.03240,https://github.com/jiawei-chen/RecDebiasing,debias_fairness_industrial,TOIS,2023
+On the User Behavior Leakage from Recommender System Exposure,2210.08435,https://arxiv.org/abs/2210.08435,,debias_fairness_industrial,TOIS,2023
+Dual Preference Distribution Learning for Item Recommendation,2201.09490,https://arxiv.org/abs/2201.09490,,collaborative_filtering,TOIS,2023
+Reinforcement Routing on Proximity Graph for Efficient Recommendation,2201.09290,https://arxiv.org/abs/2201.09290,,collaborative_filtering,TOIS,2023
+A Multi-Strategy based Pre-Training Method for Cold-Start Recommendation,2112.02275,https://arxiv.org/abs/2112.02275,,cold_start_rec,TOIS,2023
+A Next Basket Recommendation Reality Check,2109.14233,https://arxiv.org/abs/2109.14233,,sequential_rec,TOIS,2023
+A Critical Study on Data Leakage in Recommender System Offline Evaluation,2010.11060,https://arxiv.org/abs/2010.11060,,debias_fairness_industrial,TOIS,2023
+Position-enhanced and Time-aware Graph Convolutional Network for Sequential Recommendations,2107.05235,https://arxiv.org/abs/2107.05235,,sequential_rec,TOIS,2023
+Heterogeneous Graph-based Framework with Disentangled Representations Learning for Multi-target Cross Domain Recommendation,2407.00909,https://arxiv.org/abs/2407.00909,https://github.com/NetEase-Media/HGCDR,cross_domain_multi_scenario,TOIS,2023
+MEGCF: Multimodal Entity Graph Collaborative Filtering for Personalized Recommendation,2210.07443,https://arxiv.org/abs/2210.07443,,multimodal_rec,TOIS,2023
+Improving Transformer-based Sequential Recommenders through Preference Editing,2106.12120,https://arxiv.org/abs/2106.12120,,sequential_rec,TOIS,2023
+Decentralized Collaborative Learning Framework for Next POI Recommendation,2204.06516,https://arxiv.org/abs/2204.06516,,poi_spatiotemporal_rec,TOIS,2023
+Bounding System-Induced Biases in Recommender Systems with A Randomized Dataset,2303.11574,https://arxiv.org/abs/2303.11574,,debias_fairness_industrial,TOIS,2023
+Personalized Prompt Learning for Explainable Recommendation,2202.07371,https://arxiv.org/abs/2202.07371,,agent_conversational_rec,TOIS,2023
+RESUS: Warm-Up Cold Users via Meta-Learning Residual User Preferences in CTR Prediction,2210.16080,https://arxiv.org/abs/2210.16080,https://github.com/MogicianXD/RESUS,cold_start_rec,TOIS,2023
+Curriculum Pre-Training Heterogeneous Subgraph Transformer for Top-$N$ Recommendation,2106.06722,https://arxiv.org/abs/2106.06722,,graph_rec,TOIS,2023
+An Adaptive Graph Pre-training Framework for Localized Collaborative Filtering,2112.07191,https://arxiv.org/abs/2112.07191,,graph_rec,TOIS,2023
+Personalized News Recommendation: Methods and Challenges,2106.08934,https://arxiv.org/abs/2106.08934,,sequential_rec,TOIS,2023
+Efficient On-Device Session-Based Recommendation,2209.13422,https://arxiv.org/abs/2209.13422,,sequential_rec,TOIS,2023
+A Survey on the Fairness of Recommender Systems,2206.03761,https://arxiv.org/abs/2206.03761,,debias_fairness_industrial,TOIS,2023
+Multi-Auxiliary Augmented Collaborative Variational Auto-encoder for Tag Recommendation,2204.09422,https://arxiv.org/abs/2204.09422,,cold_start_rec,TOIS,2023
+LightFR: Lightweight Federated Recommendation with Privacy-preserving Matrix Factorization,2206.11743,https://arxiv.org/abs/2206.11743,,debias_fairness_industrial,TOIS,2023
+"A Survey on Cross-domain Recommendation: Taxonomies, Methods, and Future Directions",2108.03357,https://arxiv.org/abs/2108.03357,,cross_domain_multi_scenario,TOIS,2023
+Debiased Recommendation with User Feature Balancing,2201.06056,https://arxiv.org/abs/2201.06056,,debias_fairness_industrial,TOIS,2023
+Time-aware Path Reasoning on Knowledge Graph for Recommendation,2108.02634,https://arxiv.org/abs/2108.02634,,graph_rec,TOIS,2023
+AutoML for Deep Recommender Systems: A Survey,2203.13922,https://arxiv.org/abs/2203.13922,,ctr_feature_interaction,TOIS,2023

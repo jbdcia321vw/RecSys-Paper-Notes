@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Calibrated Recommendations as a Minimum-Cost Flow Problem",
+    "ee": "https://doi.org/10.1145/3539597.3570402",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "UserSimCRS: A User Simulation Toolkit for Evaluating Conversational Recommender Systems",
+    "ee": "https://doi.org/10.1145/3539597.3573029",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Travel Bird: A Personalized Destination Recommender with TourBERT and Airbnb Experiences",
+    "ee": "https://doi.org/10.1145/3539597.3573043",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Personalized Neighborhood-based Model for Within-basket Recommendation in Grocery Shopping",
+    "ee": "https://doi.org/10.1145/3539597.3570417",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cognition-aware Knowledge Graph Reasoning for Explainable Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570391",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Causal View for Item-level Effect of Recommendation on User Preference",
+    "ee": "https://doi.org/10.1145/3539597.3570461",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Universal Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570366",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Unbiased Knowledge Distillation for Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570477",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Relation Preference Oriented High-order Sampling for Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570424",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Heterogeneous Graph Contrastive Learning for Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570484",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Meta Policy Learning for Cold-Start Conversational Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570443",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Generative Slate Recommendation with Reinforcement Learning",
+    "ee": "https://doi.org/10.1145/3539597.3570412",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "IDNP: Interest Dynamics Modeling Using Generative Neural Processes for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570373",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Under the Hood of Social Media Advertising: How Do We use AI Responsibly for Advertising Targeting and Creative Evaluation",
+    "ee": "https://doi.org/10.1145/3539597.3575791",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Simplifying Graph-based Collaborative Filtering for Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570451",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Disentangled Negative Sampling for Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3539597.3570419",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploiting Explicit and Implicit Item relationships for Session-based Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570432",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SGCCL: Siamese Graph Contrastive Consensus Learning for Personalized Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570422",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Intention Oriented Contrastive Learning for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570411",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Boosting Advertising Space: Designing Ad Auctions for Augment Advertising",
+    "ee": "https://doi.org/10.1145/3539597.3570381",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Self-Supervised Group Graph Collaborative Filtering for Group Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570400",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "One for All, All for One: Learning and Transferring User Embeddings for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570379",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570482",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570408",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning to Distinguish Multi-User Coupling Behaviors for TV Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570374",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Slate-Aware Ranking for Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570380",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AutoML for Deep Recommender Systems: Fundamentals and Advances",
+    "ee": "https://doi.org/10.1145/3539597.3572729",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Range Restricted Route Recommendation Based on Spatial Keyword",
+    "ee": "https://doi.org/10.1145/3539597.3570434",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Bring Your Own View: Graph Neural Networks for Link Prediction with Personalized Subgraph Selection",
+    "ee": "https://doi.org/10.1145/3539597.3570407",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Directed Acyclic Graph Factorization Machines for CTR Prediction via Knowledge Distillation",
+    "ee": "https://doi.org/10.1145/3539597.3570384",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Uncertainty Quantification for Fairness in Two-Stage Recommender Systems",
+    "ee": "https://doi.org/10.1145/3539597.3570469",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving News Recommendation with Channel-Wise Dynamic Representations and Contrastive User Modeling",
+    "ee": "https://doi.org/10.1145/3539597.3570447",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CL4CTR: A Contrastive Learning Framework for CTR Prediction",
+    "ee": "https://doi.org/10.1145/3539597.3570372",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Adaptive Contrastive Learning for Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570483",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge Enhancement for Contrastive Multi-Behavior Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570386",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MUSENET: Multi-Scenario Learning for Repeat-Aware Personalized Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570414",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Feature Missing-aware Routing-and-Fusion Network for Customer Lifetime Value Prediction in Advertising",
+    "ee": "https://doi.org/10.1145/3539597.3570460",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DGRec: Graph Neural Network for Recommendation with Diversified Embedding Generation",
+    "ee": "https://doi.org/10.1145/3539597.3570472",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Federated Unlearning for On-Device Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570463",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation",
+    "ee": "https://doi.org/10.1145/3539597.3570426",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Efficiently Leveraging Multi-level User Intent for Session-based Recommendation via Atten-Mixer Network",
+    "ee": "https://doi.org/10.1145/3539597.3570445",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Semantic Search Framework for Similar Audit Issue Recommendation in Financial Industry",
+    "ee": "https://doi.org/10.1145/3539597.3573040",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Disentangled Representation for Diversified Recommendations",
+    "ee": "https://doi.org/10.1145/3539597.3570389",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AutoGen: An Automated Dynamic Model Generation Framework for Recommender System",
+    "ee": "https://doi.org/10.1145/3539597.3570456",
+    "key": "dblp_sparql"
+  }
+]

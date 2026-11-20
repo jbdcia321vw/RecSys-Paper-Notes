@@ -1,0 +1,6 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Tensor Completion with Provable Consistency and Fairness Guarantees for Recommender Systems,2204.01815,https://arxiv.org/abs/2204.01815,,collaborative_filtering,TORS,2023
+"A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions",2109.12843,https://arxiv.org/abs/2109.12843,https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems,graph_rec,TORS,2023
+SelfCF: A Simple Framework for Self-supervised Collaborative Filtering,2107.03019,https://arxiv.org/abs/2107.03019,https://github.com/enoche/SelfCF,self_supervised_denoising,TORS,2023
+Graph Learning Augmented Heterogeneous Graph Neural Network for Social Recommendation,2109.11898,https://arxiv.org/abs/2109.11898,,social_group_rec,TORS,2023
+Deconfounded Causal Collaborative Filtering,2110.07122,https://arxiv.org/abs/2110.07122,,debias_fairness_industrial,TORS,2023

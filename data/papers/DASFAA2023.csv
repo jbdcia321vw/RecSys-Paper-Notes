@@ -1,0 +1,9 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Cold-Start based Multi-Scenario Ranking Model for Click-Through Rate Prediction,2304.07858,https://arxiv.org/abs/2304.07858,,cross_domain_multi_scenario,DASFAA,2023
+Adversarial Learning Data Augmentation for Graph Contrastive Learning in Recommendation,2302.02317,https://arxiv.org/abs/2302.02317,,self_supervised_denoising,DASFAA,2023
+FAN: Fatigue-Aware Network for Click-Through Rate Prediction in E-commerce Recommendation,2304.04529,https://arxiv.org/abs/2304.04529,,ctr_feature_interaction,DASFAA,2023
+Self-Sampling Training and Evaluation for the Accuracy-Bias Tradeoff in Recommendation,2302.03419,https://arxiv.org/abs/2302.03419,,debias_fairness_industrial,DASFAA,2023
+Multi-granularity Item-based Contrastive Recommendation,2207.01387,https://arxiv.org/abs/2207.01387,,self_supervised_denoising,DASFAA,2023
+Cold & Warm Net: Addressing Cold-Start Users in Recommender Systems,2309.15646,https://arxiv.org/abs/2309.15646,,cold_start_rec,DASFAA,2023
+Towards Lightweight Cross-domain Sequential Recommendation via External Attention-enhanced Graph Convolution Network,2302.03221,https://arxiv.org/abs/2302.03221,,cross_domain_multi_scenario,DASFAA,2023
+Data-Augmented Counterfactual Learning for Bundle Recommendation,2210.10555,https://arxiv.org/abs/2210.10555,,graph_rec,DASFAA,2023

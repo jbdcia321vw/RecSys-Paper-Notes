@@ -1,0 +1,282 @@
+[
+  {
+    "title": "DataFinder: Scientific Dataset Recommendation from Natural Language Descriptions",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-LONG.573",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Evaluating Zero-Shot Event Structures: Recommendations for Automatic Content Extraction (ACE) Annotations",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-SHORT.142",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Robust Personalized Dialogue Generation via Order-Insensitive Representation Regularization",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-ACL.462",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Explainable Recommendation with Personalized Review Retrieval and Aspect Learning",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-LONG.4",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Adaptive and Personalized Exercise Generation for Online Language Learning",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-LONG.567",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Encoder and Decoder, Not One Less for Pre-trained Language Model Sponsored NMT",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-ACL.222",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LiveChat: A Large-Scale Personalized Dialogue Dataset Automatically Constructed from Live Streaming",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-LONG.858",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Zero-Shot Prompting for Implicit Intent Prediction and Recommendation with Commonsense Reasoning",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-ACL.17",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AI Coach Assist: An Automated Approach for Call Recommendation in Contact Centers for Agent Coaching",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-INDUSTRY.57",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "TREA: Tree-Structure Reasoning Schema for Conversational Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-LONG.167",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AlignSTS: Speech-to-Singing Conversion via Cross-Modal Alignment",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-ACL.442",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "RECAP: Retrieval-Enhanced Context-Aware Prefix Encoder for Personalized Dialogue Response Generation",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-LONG.468",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multimodal Recommendation Dialog with Subjective Preference: A New Challenge and Benchmark",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-ACL.217",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AUGUST: an Automatic Generation Understudy for Synthesizing Conversational Recommendation Datasets",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-ACL.670",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploiting Rich Textual User-Product Context for Improving Personalized Sentiment Analysis",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-ACL.92",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-SHORT.100",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ACTC: Active Threshold Calibration for Cold-Start Knowledge Graph Completion",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-SHORT.158",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pivotal Role of Language Modeling in Recommender Systems: Enriching Task-specific and Task-agnostic Representation Learning",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-LONG.64",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Personalized Dialogue Generation with Contrastive Latent Variables: Combining Sparse and Dense Persona",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-LONG.299",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pre-trained Personalized Review Summarization with Effective Salience Estimation",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-ACL.684",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Unsupervised Graph-Text Mutual Conversion with a Unified Pretrained Language Model",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-LONG.281",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cold-Start Data Selection for Better Few-shot Language Model Fine-tuning: A Prompt-based Uncertainty Propagation Approach",
+    "ee": "https://doi.org/10.18653/V1/2023.ACL-LONG.141",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning to Predict Persona Information for Dialogue Personalization without Explicit Persona Description",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-ACL.186",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Conversational Recommender System and Large Language Model Are Made for Each Other in E-commerce Pre-sales Dialogue",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.643",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Large Language Models as Source Planner for Personalized Knowledge-grounded Dialogues",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.641",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Joint Matrix Factorization Analysis of Multilingual Representations",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.851",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Dense Retrieval on Global Index for Voice-enabled Conversational Systems",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-INDUSTRY.9",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "BYOC: Personalized Few-Shot Classification with Co-Authored Class Descriptions",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.933",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "On Task-personalized Multimodal Few-shot Learning for Visually-rich Document Entity Retrieval",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.604",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-INDUSTRY.75",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Distillation: Empowering Open-Sourced LLMs with Adaptive Learning for Code Generation",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.417",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "VIP5: Towards Multimodal Foundation Models for Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.644",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CS2W: A Chinese Spoken-to-Written Style Conversion Dataset with Multiple Conversion Types",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.241",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Creator Context for Tweet Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-INDUSTRY.34",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Retrieval Augmentation for Personalized Dialogue Generation",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.154",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-DEMO.26",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Retrieve and Copy: Scaling ASR Personalization to Large Catalogs",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-INDUSTRY.60",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "TADI: Topic-aware Attention and Powerful Dual-encoder Interaction for Recall in News Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.1047",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards a Unified Conversational Recommendation System: Multi-task Learning via Contextualized Knowledge Distillation",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.840",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PALS: Personalized Active Learning for Subjective Tasks in NLP",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.823",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "P5: Plug-and-Play Persona Prompting for Personalized Response Selection",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.1031",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Miracle: Towards Personalized Dialogue Generation with Latent-Space Multiple Personal Attribute Control",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.395",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Speaking Style Conversion in the Waveform Domain Using Discrete Self-Supervised Units",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.541",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PUNR: Pre-training with User Behavior Modeling for News Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.559",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dynamic Open-book Prompt for Conversational Recommender System",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.658",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PersonaLM: Language Model Personalization via Domain-distributed Span Aggregated K-Nearest N-gram Retrieval Augmentation",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.757",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Salespeople vs SalesBot: Exploring the Role of Educational Value in Conversational Recommender Systems",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.657",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contrastive Pre-training for Personalized Expert Finding",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.1058",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "HutCRS: Hierarchical User-Interest Tracking for Conversational Recommender System",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.635",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Accuracy is not enough: Evaluating Personalization in Summarizers",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.169",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Target-oriented Proactive Dialogue Systems with Personalization: Problem Formulation and Dataset Curation",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.72",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving Conversational Recommendation Systems via Bias Analysis and Language-Model-Enhanced Data Augmentation",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.233",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.621",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "COFFEE: Counterfactual Fairness for Personalized Text Generation in Explainable Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-MAIN.819",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LLM4Vis: Explainable Visualization Recommendation using ChatGPT",
+    "ee": "https://doi.org/10.18653/V1/2023.EMNLP-INDUSTRY.64",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Are Personalized Stochastic Parrots More Dangerous? Evaluating Persona Biases in Dialogue Systems",
+    "ee": "https://doi.org/10.18653/V1/2023.FINDINGS-EMNLP.648",
+    "key": "dblp_sparql"
+  }
+]

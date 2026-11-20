@@ -1,0 +1,12 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation,2311.10501,https://arxiv.org/abs/2311.10501,https://github.com/ysh-1998/CoWPiRec,sequential_rec,ICDM,2023
+Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging,2309.01026,https://arxiv.org/abs/2309.01026,,cold_start_rec,ICDM,2023
+Distributional Domain-Invariant Preference Matching for Cross-Domain Recommendation,2309.01343,https://arxiv.org/abs/2309.01343,,cross_domain_multi_scenario,ICDM,2023
+Heterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach,2402.12202,https://arxiv.org/abs/2402.12202,,debias_fairness_industrial,ICDM,2023
+Learning Compact Compositional Embeddings via Regularized Pruning for Recommendation,2309.03518,https://arxiv.org/abs/2309.03518,https://github.com/xurong-liang/CERP,collaborative_filtering,ICDM,2023
+Privacy-Preserving Cross-Domain Sequential Recommendation,2401.15369,https://arxiv.org/abs/2401.15369,,debias_fairness_industrial,ICDM,2023
+Epsilon non-Greedy: A Bandit Approach for Unbiased Recommendation via Uniform Data,2310.04855,https://arxiv.org/abs/2310.04855,,rl_bandit_rec,ICDM,2023
+Graph Neural Ordinary Differential Equations-based method for Collaborative Filtering,2311.12329,https://arxiv.org/abs/2311.12329,,graph_rec,ICDM,2023
+Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems,2402.09023,https://arxiv.org/abs/2402.09023,,debias_fairness_industrial,ICDM,2023
+Fact-Preserved Personalized News Headline Generation,2501.11828,https://arxiv.org/abs/2501.11828,,generative_rec,ICDM,2023
+Alleviating Behavior Data Imbalance for Multi-Behavior Graph Collaborative Filtering,2311.06777,https://arxiv.org/abs/2311.06777,,graph_rec,ICDM,2023

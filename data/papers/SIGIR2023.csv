@@ -1,0 +1,65 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Personalized Showcases: Generating Multi-Modal Explanations for Recommendations,2207.00422,https://arxiv.org/abs/2207.00422,https://github.com/zzxslp/Gest,multimodal_rec,SIGIR,2023
+The Dark Side of Explanations: Poisoning Recommender Systems with Counterfactual Examples,2305.00574,https://arxiv.org/abs/2305.00574,,debias_fairness_industrial,SIGIR,2023
+Improving Implicit Feedback-Based Recommendation through Multi-Behavior Alignment,2305.05585,https://arxiv.org/abs/2305.05585,,self_supervised_denoising,SIGIR,2023
+Blurring-Sharpening Process Models for Collaborative Filtering,2211.09324,https://arxiv.org/abs/2211.09324,,collaborative_filtering,SIGIR,2023
+Sharpness-Aware Graph Collaborative Filtering,2307.08910,https://arxiv.org/abs/2307.08910,,graph_rec,SIGIR,2023
+Alleviating Matthew Effect of Offline Reinforcement Learning in Interactive Recommendation,2307.04571,https://arxiv.org/abs/2307.04571,https://github.com/chongminggao/DORL-codes,rl_bandit_rec,SIGIR,2023
+Neighborhood-based Hard Negative Mining for Sequential Recommendation,2306.10047,https://arxiv.org/abs/2306.10047,https://github.com/floatSDSDS/GNNO,sequential_rec,SIGIR,2023
+Ensemble Modeling with Contrastive Knowledge Distillation for Sequential Recommendation,2304.14668,https://arxiv.org/abs/2304.14668,https://github.com/hw-du/EMKD,sequential_rec,SIGIR,2023
+Frequency Enhanced Hybrid Attention Network for Sequential Recommendation,2304.09184,https://arxiv.org/abs/2304.09184,,sequential_rec,SIGIR,2023
+Graph Collaborative Signals Denoising and Augmentation for Recommendation,2304.03344,https://arxiv.org/abs/2304.03344,https://github.com/zfan20/GraphDA,graph_rec,SIGIR,2023
+Inference at Scale Significance Testing for Large Search and Recommendation Experiments,2305.02461,https://arxiv.org/abs/2305.02461,,debias_fairness_industrial,SIGIR,2023
+Towards Explainable Conversational Recommender Systems,2305.18363,https://arxiv.org/abs/2305.18363,https://github.com/Superbooming/E-ReDial,agent_conversational_rec,SIGIR,2023
+MELT: Mutual Enhancement of Long-Tailed User and Item for Sequential Recommendation,2304.08382,https://arxiv.org/abs/2304.08382,,cold_start_rec,SIGIR,2023
+LinRec: Linear Attention Mechanism for Long-term Sequential Recommender Systems,2411.01537,https://arxiv.org/abs/2411.01537,,sequential_rec,SIGIR,2023
+JDsearch: A Personalized Product Search Dataset with Real Queries and Full Interactions,2305.14810,https://arxiv.org/abs/2305.14810,https://github.com/rucliujn/JDsearch,debias_fairness_industrial,SIGIR,2023
+Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation,2308.03470,https://arxiv.org/abs/2308.03470,,cold_start_rec,SIGIR,2023
+Exploring the Spatiotemporal Features of Online Food Recommendation Service,2308.04019,https://arxiv.org/abs/2308.04019,,poi_spatiotemporal_rec,SIGIR,2023
+Popularity Debiasing from Exposure to Interaction in Collaborative Filtering,2305.05204,https://arxiv.org/abs/2305.05204,,debias_fairness_industrial,SIGIR,2023
+Intent-aware Ranking Ensemble for Personalized Recommendation,2304.07450,https://arxiv.org/abs/2304.07450,,multi_task_reranking,SIGIR,2023
+"Triple Structural Information Modelling for Accurate, Explainable and Interactive Recommendation",2304.11528,https://arxiv.org/abs/2304.11528,,graph_rec,SIGIR,2023
+MobileRec: A Large-Scale Dataset for Mobile Apps Recommendation,2303.06588,https://arxiv.org/abs/2303.06588,,sequential_rec,SIGIR,2023
+Model-Agnostic Decentralized Collaborative Learning for On-Device POI Recommendation,2304.03947,https://arxiv.org/abs/2304.03947,,poi_spatiotemporal_rec,SIGIR,2023
+Editable User Profiles for Controllable Text Recommendation,2304.04250,https://arxiv.org/abs/2304.04250,,cold_start_rec,SIGIR,2023
+Graph Transformer for Recommendation,2306.02330,https://arxiv.org/abs/2306.02330,https://github.com/HKUDS/GFormer,self_supervised_denoising,SIGIR,2023
+Hgformer: Hyperbolic Graph Transformer for Recommendation,2502.15693,https://arxiv.org/abs/2502.15693,,cross_domain_multi_scenario,SIGIR,2023
+Position-aware Graph Transformer for Recommendation,2412.18731,https://arxiv.org/abs/2412.18731,,graph_rec,SIGIR,2023
+A Directional Diffusion Graph Transformer for Recommendation,2404.03326,https://arxiv.org/abs/2404.03326,,self_supervised_denoising,SIGIR,2023
+SIGformer: Sign-aware Graph Transformer for Recommendation,2404.11982,https://arxiv.org/abs/2404.11982,https://github.com/StupidThree/SIGformer,graph_rec,SIGIR,2023
+Rankformer: A Graph Transformer for Recommendation based on Ranking Objective,2503.16927,https://arxiv.org/abs/2503.16927,https://github.com/StupidThree/Rankformer,graph_rec,SIGIR,2023
+Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems,2305.11081,https://arxiv.org/abs/2305.11081,,rl_bandit_rec,SIGIR,2023
+Continuous Input Embedding Size Search For Recommender Systems,2304.03501,https://arxiv.org/abs/2304.03501,https://github.com/qykcq/Continuous-Input-Embedding-Size-Search-For-Recommender-Systems,collaborative_filtering,SIGIR,2023
+Meta-optimized Contrastive Learning for Sequential Recommendation,2304.07763,https://arxiv.org/abs/2304.07763,,sequential_rec,SIGIR,2023
+Disentangled Contrastive Collaborative Filtering,2305.02759,https://arxiv.org/abs/2305.02759,https://github.com/HKUDS/DCCF,collaborative_filtering,SIGIR,2023
+"Curse of ""Low"" Dimensionality in Recommender Systems",2305.13597,https://arxiv.org/abs/2305.13597,,collaborative_filtering,SIGIR,2023
+Contrastive Learning for Conversion Rate Prediction,2307.05974,https://arxiv.org/abs/2307.05974,https://github.com/DongRuiHust/CL4CVR,ctr_feature_interaction,SIGIR,2023
+Take a Fresh Look at Recommender Systems from an Evaluation Standpoint,2210.04149,https://arxiv.org/abs/2210.04149,,debias_fairness_industrial,SIGIR,2023
+LogicRec: Recommendation with Users' Logical Requirements,2304.11722,https://arxiv.org/abs/2304.11722,,graph_rec,SIGIR,2023
+When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation,2305.10822,https://arxiv.org/abs/2305.10822,,sequential_rec,SIGIR,2023
+Causal Decision Transformer for Recommender Systems via Offline Reinforcement Learning,2304.07920,https://arxiv.org/abs/2304.07920,,rl_bandit_rec,SIGIR,2023
+Attention Mixtures for Time-Aware Sequential Recommendation,2304.08158,https://arxiv.org/abs/2304.08158,,sequential_rec,SIGIR,2023
+FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning,2305.08328,https://arxiv.org/abs/2305.08328,,ctr_feature_interaction,SIGIR,2023
+RL4RS: A Real-World Dataset for Reinforcement Learning based Recommender System,2110.11073,https://arxiv.org/abs/2110.11073,https://github.com/fuxiAIlab/RL4RS,rl_bandit_rec,SIGIR,2023
+Measuring Item Global Residual Value for Fair Recommendation,2307.08259,https://arxiv.org/abs/2307.08259,,debias_fairness_industrial,SIGIR,2023
+Diffusion Recommender Model,2304.04971,https://arxiv.org/abs/2304.04971,,generative_rec,SIGIR,2023
+Hyperbolic Diffusion Recommender Model,2504.01541,https://arxiv.org/abs/2504.01541,,generative_rec,SIGIR,2023
+Denoising Diffusion Recommender Model,2401.06982,https://arxiv.org/abs/2401.06982,,self_supervised_denoising,SIGIR,2023
+How Fair is Your Diffusion Recommender Model?,2409.04339,https://arxiv.org/abs/2409.04339,https://github.com/danielemalitesta/FairDiffRec,debias_fairness_industrial,SIGIR,2023
+FairDiff: Mitigating the Self-Reinforcing Matthew Effect in Diffusion Recommender Models,2609.36671,https://arxiv.org/abs/2609.36671,,debias_fairness_industrial,SIGIR,2023
+Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch,2505.09364,https://arxiv.org/abs/2505.09364,,generative_rec,SIGIR,2023
+Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences,2411.11240,https://arxiv.org/abs/2411.11240,,generative_rec,SIGIR,2023
+COUPA: An Industrial Recommender System for Online to Offline Service Platforms,2304.12549,https://arxiv.org/abs/2304.12549,,debias_fairness_industrial,SIGIR,2023
+Enhancing Dynamic Image Advertising with Vision-Language Pre-training,2306.14112,https://arxiv.org/abs/2306.14112,,multimodal_rec,SIGIR,2023
+Attacking Pre-trained Recommendation,2305.03995,https://arxiv.org/abs/2305.03995,,debias_fairness_industrial,SIGIR,2023
+Multi-behavior Self-supervised Learning for Recommendation,2305.18238,https://arxiv.org/abs/2305.18238,https://github.com/Scofield666/MBSSL.git,self_supervised_denoising,SIGIR,2023
+Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited,2303.13835,https://arxiv.org/abs/2303.13835,,multimodal_rec,SIGIR,2023
+Mining Stable Preferences: Adaptive Modality Decorrelation for Multimedia Recommendation,2306.14179,https://arxiv.org/abs/2306.14179,,multimodal_rec,SIGIR,2023
+A Transformer-Based Substitute Recommendation Model Incorporating Weakly Supervised Customer Behavior Data,2211.02533,https://arxiv.org/abs/2211.02533,,collaborative_filtering,SIGIR,2023
+A Personalized Dense Retrieval Framework for Unified Information Access,2304.13654,https://arxiv.org/abs/2304.13654,,collaborative_filtering,SIGIR,2023
+Graph Masked Autoencoder for Sequential Recommendation,2305.04619,https://arxiv.org/abs/2305.04619,https://github.com/HKUDS/MAERec,sequential_rec,SIGIR,2023
+Generative Contrastive Graph Learning for Recommendation,2307.05100,https://arxiv.org/abs/2307.05100,https://github.com/yimutianyang/SIGIR23-VGCL,self_supervised_denoising,SIGIR,2023
+Reformulating CTR Prediction: Learning Invariant Feature Interactions for Recommendation,2304.13643,https://arxiv.org/abs/2304.13643,https://github.com/zyang1580/DIL,ctr_feature_interaction,SIGIR,2023
+Multi-view Hypergraph Contrastive Policy Learning for Conversational Recommendation,2307.14024,https://arxiv.org/abs/2307.14024,,agent_conversational_rec,SIGIR,2023
+Knowledge-refined Denoising Network for Robust Recommendation,2304.14987,https://arxiv.org/abs/2304.14987,,self_supervised_denoising,SIGIR,2023
+Prompt Learning for News Recommendation,2304.05263,https://arxiv.org/abs/2304.05263,,llm_rec,SIGIR,2023

@@ -1,0 +1,47 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Beyond Labels: Leveraging Deep Learning and LLMs for Content Metadata,2309.08787,https://arxiv.org/abs/2309.08787,,llm_rec,RecSys,2023
+Of Spiky SVDs and Music Recommendation,2307.01212,https://arxiv.org/abs/2307.01212,,collaborative_filtering,RecSys,2023
+Track Mix Generation on Music Streaming Services using Transformers,2307.03045,https://arxiv.org/abs/2307.03045,,sequential_rec,RecSys,2023
+AdaptEx: A Self-Service Contextual Bandit Platform,2308.08650,https://arxiv.org/abs/2308.08650,,rl_bandit_rec,RecSys,2023
+Integrating Item Relevance in Training Loss for Sequential Recommender Systems,2305.10824,https://arxiv.org/abs/2305.10824,,sequential_rec,RecSys,2023
+On the Consistency of Average Embeddings for Item Recommendation,2308.12767,https://arxiv.org/abs/2308.12767,,collaborative_filtering,RecSys,2023
+Multi-task Item-attribute Graph Pre-training for Strict Cold-start Item Recommendation,2306.14462,https://arxiv.org/abs/2306.14462,,cold_start_rec,RecSys,2023
+Hessian-aware Quantized Node Embeddings for Recommendation,2309.01032,https://arxiv.org/abs/2309.01032,,graph_rec,RecSys,2023
+Private Matrix Factorization with Public Item Features,2309.11516,https://arxiv.org/abs/2309.11516,,debias_fairness_industrial,RecSys,2023
+Adversarial Collaborative Filtering for Free,2308.13541,https://arxiv.org/abs/2308.13541,,collaborative_filtering,RecSys,2023
+Topic-Level Bayesian Surprise and Serendipity for Recommender Systems,2308.06368,https://arxiv.org/abs/2308.06368,,collaborative_filtering,RecSys,2023
+A Model-Agnostic Framework for Recommendation via Interest-aware Item Embeddings,2308.09202,https://arxiv.org/abs/2308.09202,,collaborative_filtering,RecSys,2023
+Widespread Flaws in Offline Evaluation of Recommender Systems,2307.14951,https://arxiv.org/abs/2307.14951,,debias_fairness_industrial,RecSys,2023
+Unleash the Power of Context: Enhancing Large-Scale Recommender Systems with Context-Based Prediction Models,2308.01231,https://arxiv.org/abs/2308.01231,,ctr_feature_interaction,RecSys,2023
+The Effect of Third Party Implementations on Reproducibility,2307.14956,https://arxiv.org/abs/2307.14956,,debias_fairness_industrial,RecSys,2023
+Leveraging Large Language Models for Sequential Recommendation,2309.09261,https://arxiv.org/abs/2309.09261,,sequential_rec,RecSys,2023
+Turning Dross Into Gold Loss: is BERT4Rec really better than SASRec?,2309.07602,https://arxiv.org/abs/2309.07602,,sequential_rec,RecSys,2023
+A Probabilistic Position Bias Model for Short-Video Recommendation Feeds,2307.14059,https://arxiv.org/abs/2307.14059,,debias_fairness_industrial,RecSys,2023
+ReCon: Reducing Congestion in Job Recommendation using Optimal Transport,2308.09516,https://arxiv.org/abs/2308.09516,,debias_fairness_industrial,RecSys,2023
+STAN: Stage-Adaptive Network for Multi-Task Recommendation by Learning User Lifecycle-Based Representation,2306.12232,https://arxiv.org/abs/2306.12232,,multi_task_reranking,RecSys,2023
+Deep Situation-Aware Interaction Network for Click-Through Rate Prediction,2604.12298,https://arxiv.org/abs/2604.12298,,ctr_feature_interaction,RecSys,2023
+Personalized Category Frequency prediction for Buy It Again recommendations,2308.01195,https://arxiv.org/abs/2308.01195,,sequential_rec,RecSys,2023
+Large Language Model Augmented Narrative Driven Recommendations,2306.02250,https://arxiv.org/abs/2306.02250,,llm_rec,RecSys,2023
+Time-Aware Item Weighting for the Next Basket Recommendations,2307.16297,https://arxiv.org/abs/2307.16297,,sequential_rec,RecSys,2023
+Ex2Vec: Characterizing Users and Items from the Mere Exposure Effect,2311.10635,https://arxiv.org/abs/2311.10635,,sequential_rec,RecSys,2023
+OutRank: Speeding up AutoML-based Model Search for Large Sparse Data sets with Cardinality-aware Feature Ranking,2309.01552,https://arxiv.org/abs/2309.01552,,ctr_feature_interaction,RecSys,2023
+Interface Design to Mitigate Inflation in Recommender Systems,2307.12424,https://arxiv.org/abs/2307.12424,,debias_fairness_industrial,RecSys,2023
+Providing Previously Unseen Users Fair Recommendations Using Variational Autoencoders,2308.15230,https://arxiv.org/abs/2308.15230,,debias_fairness_industrial,RecSys,2023
+Fast and Examination-agnostic Reciprocal Recommendation in Matching Markets,2306.09060,https://arxiv.org/abs/2306.09060,,debias_fairness_industrial,RecSys,2023
+RecAD: Towards A Unified Library for Recommender Attack and Defense,2309.04884,https://arxiv.org/abs/2309.04884,https://github.com/gusye1234/recad,debias_fairness_industrial,RecSys,2023
+Learning from Negative User Feedback and Measuring Responsiveness for Sequential Recommenders,2308.12256,https://arxiv.org/abs/2308.12256,,sequential_rec,RecSys,2023
+Stability of Explainable Recommendation,2405.01849,https://arxiv.org/abs/2405.01849,,debias_fairness_industrial,RecSys,2023
+Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations,2307.06576,https://arxiv.org/abs/2307.06576,,graph_rec,RecSys,2023
+Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM,2308.03333,https://arxiv.org/abs/2308.03333,,llm_rec,RecSys,2023
+Rethinking Multi-Interest Learning for Candidate Matching in Recommender Systems,2302.14532,https://arxiv.org/abs/2302.14532,,collaborative_filtering,RecSys,2023
+Integrating Offline Reinforcement Learning with Transformers for Sequential Recommendation,2307.14450,https://arxiv.org/abs/2307.14450,,sequential_rec,RecSys,2023
+Multi-Relational Contrastive Learning for Recommendation,2309.01103,https://arxiv.org/abs/2309.01103,,self_supervised_denoising,RecSys,2023
+Uncovering User Interest from Biased and Noised Watch Time in Video Recommendation,2308.08120,https://arxiv.org/abs/2308.08120,,debias_fairness_industrial,RecSys,2023
+Adversarial Sleeping Bandit Problems with Multiple Plays: Algorithm and Ranking Application,2307.14549,https://arxiv.org/abs/2307.14549,,rl_bandit_rec,RecSys,2023
+Online Matching: A Real-time Bandit System for Large-scale Recommendations,2307.15893,https://arxiv.org/abs/2307.15893,,rl_bandit_rec,RecSys,2023
+Alleviating the Long-Tail Problem in Conversational Recommender Systems,2307.11650,https://arxiv.org/abs/2307.11650,,agent_conversational_rec,RecSys,2023
+Knowledge-based Multiple Adaptive Spaces Fusion for Recommendation,2308.15244,https://arxiv.org/abs/2308.15244,,graph_rec,RecSys,2023
+Augmented Negative Sampling for Collaborative Filtering,2308.05972,https://arxiv.org/abs/2308.05972,,collaborative_filtering,RecSys,2023
+Equivariant Contrastive Learning for Sequential Recommendation,2211.05290,https://arxiv.org/abs/2211.05290,https://github.com/Tokkiu/ECL,sequential_rec,RecSys,2023
+Reciprocal Sequential Recommendation,2306.14712,https://arxiv.org/abs/2306.14712,https://github.com/RUCAIBox/ReSeq,sequential_rec,RecSys,2023
+Deep Exploration for Recommendation Systems,2109.12509,https://arxiv.org/abs/2109.12509,,rl_bandit_rec,RecSys,2023

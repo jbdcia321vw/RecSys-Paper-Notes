@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Large Language Models for Recommendation: Progresses and Future Directions",
+    "ee": "https://doi.org/10.1145/3624918.3629550",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reinforcement Re-ranking with 2D Grid-based Recommendation Panels",
+    "ee": "https://doi.org/10.1145/3624918.3625311",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Recommending Answers to Math Questions Based on KL-Divergence and Approximate XML Tree Matching",
+    "ee": "https://doi.org/10.1145/3624918.3625337",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "How to Index Item IDs for Recommendation Foundation Models",
+    "ee": "https://doi.org/10.1145/3624918.3625339",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Automatic Feature Fairness in Recommendation via Adversaries",
+    "ee": "https://doi.org/10.1145/3624918.3625318",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SE-PEF: a Resource for Personalized Expert Finding",
+    "ee": "https://doi.org/10.1145/3624918.3625335",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "User-Meal Interaction Learning for Meal Recommendation: A Reproducibility Study",
+    "ee": "https://doi.org/10.1145/3624918.3625342",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Behavior Job Recommendation with Dynamic Availability",
+    "ee": "https://doi.org/10.1145/3624918.3625314",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sequential Recommendation with User Evolving Preference Decomposition",
+    "ee": "https://doi.org/10.1145/3624918.3625312",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AdaReX: Cross-Domain, Adaptive, and Explainable Recommender System",
+    "ee": "https://doi.org/10.1145/3624918.3625331",
+    "key": "dblp_sparql"
+  }
+]
