@@ -97,9 +97,10 @@ hide:
 ## 按年份浏览
 
 <div class="recsys-grid">
-  <a class="recsys-card" href="2026/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2026 年</span>      <span class="recsys-badge">4 篇</span>    </div>    <div class="recsys-card-desc">ACM MM 2026 年收录的推荐系统论文解读</div>  </a>
+  <a class="recsys-card" href="2026/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2026 年</span>      <span class="recsys-badge">8 篇</span>    </div>    <div class="recsys-card-desc">ACM MM 2026 年收录的推荐系统论文解读</div>  </a>
   <a class="recsys-card" href="2025/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2025 年</span>      <span class="recsys-badge">9 篇</span>    </div>    <div class="recsys-card-desc">ACM MM 2025 年收录的推荐系统论文解读</div>  </a>
   <a class="recsys-card" href="2024/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2024 年</span>      <span class="recsys-badge">4 篇</span>    </div>    <div class="recsys-card-desc">ACM MM 2024 年收录的推荐系统论文解读</div>  </a>
   <a class="recsys-card" href="2023/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2023 年</span>      <span class="recsys-badge">11 篇</span>    </div>    <div class="recsys-card-desc">ACM MM 2023 年收录的推荐系统论文解读</div>  </a>
   <a class="recsys-card" href="2022/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2022 年</span>      <span class="recsys-badge">3 篇</span>    </div>    <div class="recsys-card-desc">ACM MM 2022 年收录的推荐系统论文解读</div>  </a>
+  <a class="recsys-card" href="2021/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2021 年</span>      <span class="recsys-badge">5 篇</span>    </div>    <div class="recsys-card-desc">ACM MM 2021 年收录的推荐系统论文解读</div>  </a>
 </div>

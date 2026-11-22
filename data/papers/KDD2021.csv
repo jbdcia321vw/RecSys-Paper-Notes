@@ -1,0 +1,26 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+We Know What You Want: An Advertising Strategy Recommender System for Online Advertising,2105.14188,https://arxiv.org/abs/2105.14188,,ctr_feature_interaction,KDD,2021
+A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps,2106.03819,https://arxiv.org/abs/2106.03819,,cold_start_rec,KDD,2021
+Learning Elastic Embeddings for Customizing On-Device Recommenders,2106.02223,https://arxiv.org/abs/2106.02223,,debias_fairness_industrial,KDD,2021
+Exploration in Online Advertising Systems with Deep Uncertainty-Aware Learning,2012.02298,https://arxiv.org/abs/2012.02298,,rl_bandit_rec,KDD,2021
+An Embedding Learning Framework for Numerical Features in CTR Prediction,2012.08986,https://arxiv.org/abs/2012.08986,https://gitee.com/mindspore/mindspore,ctr_feature_interaction,KDD,2021
+Efficient Data-specific Model Search for Collaborative Filtering,2106.07453,https://arxiv.org/abs/2106.07453,,collaborative_filtering,KDD,2021
+Learning to Embed Categorical Features without Embedding Tables for Recommendation,2010.10784,https://arxiv.org/abs/2010.10784,,collaborative_filtering,KDD,2021
+Dual Graph enhanced Embedding Neural Network for CTR Prediction,2106.00314,https://arxiv.org/abs/2106.00314,,ctr_feature_interaction,KDD,2021
+Training Recommender Systems at Scale: Communication-Efficient Model and Data Parallelism,2010.08899,https://arxiv.org/abs/2010.08899,,debias_fairness_industrial,KDD,2021
+Sliding Spectrum Decomposition for Diversified Recommendation,2107.05204,https://arxiv.org/abs/2107.05204,,multi_task_reranking,KDD,2021
+Towards a Better Understanding of Linear Models for Recommendation,2105.12937,https://arxiv.org/abs/2105.12937,,collaborative_filtering,KDD,2021
+Neural Auction: End-to-End Learning of Auction Mechanisms for E-Commerce Advertising,2106.03593,https://arxiv.org/abs/2106.03593,,ctr_feature_interaction,KDD,2021
+Dual Attentive Sequential Learning for Cross-Domain Click-Through Rate Prediction,2106.02768,https://arxiv.org/abs/2106.02768,,cross_domain_multi_scenario,KDD,2021
+Deconfounded Recommendation for Alleviating Bias Amplification,2105.10648,https://arxiv.org/abs/2105.10648,,debias_fairness_industrial,KDD,2021
+Diversity driven Query Rewriting in Search Advertising,2106.03816,https://arxiv.org/abs/2106.03816,,ctr_feature_interaction,KDD,2021
+Topology Distillation for Recommender System,2106.08700,https://arxiv.org/abs/2106.08700,,collaborative_filtering,KDD,2021
+AutoLoss: Automated Loss Function Search in Recommendations,2106.06713,https://arxiv.org/abs/2106.06713,,collaborative_filtering,KDD,2021
+Socially-Aware Self-Supervised Tri-Training for Recommendation,2106.03569,https://arxiv.org/abs/2106.03569,https://github.com/Coder-Yu/QRec,self_supervised_denoising,KDD,2021
+Towards the D-Optimal Online Experiment Design for Recommender Selection,2110.12132,https://arxiv.org/abs/2110.12132,,rl_bandit_rec,KDD,2021
+Device-Cloud Collaborative Learning for Recommendation,2104.06624,https://arxiv.org/abs/2104.06624,,debias_fairness_industrial,KDD,2021
+Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems,2005.12964,https://arxiv.org/abs/2005.12964,,debias_fairness_industrial,KDD,2021
+Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System,2010.15363,https://arxiv.org/abs/2010.15363,,debias_fairness_industrial,KDD,2021
+Modeling the Sequential Dependence among Audience Multi-step Conversions with Multi-task Learning in Targeted Display Advertising,2105.08489,https://arxiv.org/abs/2105.08489,,ctr_feature_interaction,KDD,2021
+Initialization Matters: Regularizing Manifold-informed Initialization for Neural Recommendation Systems,2106.04993,https://arxiv.org/abs/2106.04993,,collaborative_filtering,KDD,2021
+Learning to Expand Audience via Meta Hybrid Experts and Critics for Recommendation and Advertising,2105.14688,https://arxiv.org/abs/2105.14688,https://github.com/easezyc/MetaHeac,cold_start_rec,KDD,2021

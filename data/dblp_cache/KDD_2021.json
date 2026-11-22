@@ -1,0 +1,272 @@
+[
+  {
+    "title": "Bootstrapping Recommendations at Chrome Web Store",
+    "ee": "https://doi.org/10.1145/3447548.3467099",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Online Advertising Incrementality Testing And Experimentation: Industry Practical Lessons",
+    "ee": "https://doi.org/10.1145/3447548.3470819",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Creating Recommender Systems Datasets in Scientific Fields",
+    "ee": "https://doi.org/10.1145/3447548.3470805",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps",
+    "ee": "https://doi.org/10.1145/3447548.3467110",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Curriculum Meta-Learning for Next POI Recommendation",
+    "ee": "https://doi.org/10.1145/3447548.3467132",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Elastic Embeddings for Customizing On-Device Recommenders",
+    "ee": "https://doi.org/10.1145/3447548.3467220",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploration in Online Advertising Systems with Deep Uncertainty-Aware Learning",
+    "ee": "https://doi.org/10.1145/3447548.3467089",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Clustering for Private Interest-based Advertising",
+    "ee": "https://doi.org/10.1145/3447548.3467180",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Efficient Data-specific Model Search for Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3447548.3467399",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Agent Cooperative Bidding Games for Multi-Objective Optimization in e-Commercial Sponsored Search",
+    "ee": "https://doi.org/10.1145/3447548.3467204",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An Embedding Learning Framework for Numerical Features in CTR Prediction",
+    "ee": "https://doi.org/10.1145/3447548.3467077",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "We Know What You Want: An Advertising Strategy Recommender System for Online Advertising",
+    "ee": "https://doi.org/10.1145/3447548.3467175",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dual Graph enhanced Embedding Neural Network for CTR Prediction",
+    "ee": "https://doi.org/10.1145/3447548.3467384",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Training Recommender Systems at Scale: Communication-Efficient Model and Data Parallelism",
+    "ee": "https://doi.org/10.1145/3447548.3467080",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Adversarial Feature Translation for Multi-domain Recommendation",
+    "ee": "https://doi.org/10.1145/3447548.3467176",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PETGEN: Personalized Text Generation Attack on Deep Sequence Embedding-based Classification Models",
+    "ee": "https://doi.org/10.1145/3447548.3467390",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Unified Solution to Constrained Bidding in Online Display Advertising",
+    "ee": "https://doi.org/10.1145/3447548.3467199",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems",
+    "ee": "https://doi.org/10.1145/3447548.3467408",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical Training: Scaling Deep Recommendation Models on Large CPU Clusters",
+    "ee": "https://doi.org/10.1145/3447548.3467084",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sliding Spectrum Decomposition for Diversified Recommendation",
+    "ee": "https://doi.org/10.1145/3447548.3467108",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters",
+    "ee": "https://doi.org/10.1145/3447548.3467139",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards a Better Understanding of Linear Models for Recommendation",
+    "ee": "https://doi.org/10.1145/3447548.3467428",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Preference Amplification in Recommender Systems",
+    "ee": "https://doi.org/10.1145/3447548.3467298",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning to Embed Categorical Features without Embedding Tables for Recommendation",
+    "ee": "https://doi.org/10.1145/3447548.3467304",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Topology Distillation for Recommender System",
+    "ee": "https://doi.org/10.1145/3447548.3467319",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Architecture and Operation Adaptive Network for Online Recommendations",
+    "ee": "https://doi.org/10.1145/3447548.3467133",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SEMI: A Sequential Multi-Modal Information Transfer Network for E-Commerce Micro-Video Recommendations",
+    "ee": "https://doi.org/10.1145/3447548.3467189",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Efficient Collaborative Filtering via Data Augmentation and Step-size Optimization",
+    "ee": "https://doi.org/10.1145/3447548.3467380",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dual Attentive Sequential Learning for Cross-Domain Click-Through Rate Prediction",
+    "ee": "https://doi.org/10.1145/3447548.3467140",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reinforced Anchor Knowledge Graph Generation for News Recommendation Reasoning",
+    "ee": "https://doi.org/10.1145/3447548.3467315",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Neural Auction: End-to-End Learning of Auction Mechanisms for E-Commerce Advertising",
+    "ee": "https://doi.org/10.1145/3447548.3467103",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Debiasing Learning based Cross-domain Recommendation",
+    "ee": "https://doi.org/10.1145/3447548.3467067",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Diversity driven Query Rewriting in Search Advertising",
+    "ee": "https://doi.org/10.1145/3447548.3467202",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning to Recommend Visualizations from Data",
+    "ee": "https://doi.org/10.1145/3447548.3467224",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Recommending the Most Effective Intervention to Improve Employment for Job Seekers with Disability",
+    "ee": "https://doi.org/10.1145/3447548.3467095",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deconfounded Recommendation for Alleviating Bias Amplification",
+    "ee": "https://doi.org/10.1145/3447548.3467249",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System",
+    "ee": "https://doi.org/10.1145/3447548.3467289",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Triple Adversarial Learning for Influence based Poisoning Attack in Recommender Systems",
+    "ee": "https://doi.org/10.1145/3447548.3467335",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling the Sequential Dependence among Audience Multi-step Conversions with Multi-task Learning in Targeted Display Advertising",
+    "ee": "https://doi.org/10.1145/3447548.3467071",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards the D-Optimal Online Experiment Design for Recommender Selection",
+    "ee": "https://doi.org/10.1145/3447548.3467192",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Device-Cloud Collaborative Learning for Recommendation",
+    "ee": "https://doi.org/10.1145/3447548.3467097",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Leveraging Tripartite Interaction Information from Live Stream E-Commerce for Improving Product Recommendation",
+    "ee": "https://doi.org/10.1145/3447548.3467151",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Socially-Aware Self-Supervised Tri-Training for Recommendation",
+    "ee": "https://doi.org/10.1145/3447548.3467340",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Initialization Matters: Regularizing Manifold-informed Initialization for Neural Recommendation Systems",
+    "ee": "https://doi.org/10.1145/3447548.3467338",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Data Poisoning Attack against Recommender System Using Incomplete and Perturbed Data",
+    "ee": "https://doi.org/10.1145/3447548.3467233",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Based Proximity Matrix Factorization for Node Embedding",
+    "ee": "https://doi.org/10.1145/3447548.3467296",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AutoLoss: Automated Loss Function Search in Recommendations",
+    "ee": "https://doi.org/10.1145/3447548.3467208",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-view Denoising Graph Auto-Encoders on Heterogeneous Information Networks for Cold-start Recommendation",
+    "ee": "https://doi.org/10.1145/3447548.3467427",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Objective Recommendations",
+    "ee": "https://doi.org/10.1145/3447548.3470788",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Table2Charts: Recommending Charts by Learning Shared Table Representations",
+    "ee": "https://doi.org/10.1145/3447548.3467279",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems",
+    "ee": "https://doi.org/10.1145/3447548.3467102",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PURE: Positive-Unlabeled Recommendation with Generative Adversarial Network",
+    "ee": "https://doi.org/10.1145/3447548.3467234",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Popularity Bias in Dynamic Recommendation",
+    "ee": "https://doi.org/10.1145/3447548.3467376",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning to Expand Audience via Meta Hybrid Experts and Critics for Recommendation and Advertising",
+    "ee": "https://doi.org/10.1145/3447548.3467093",
+    "key": "dblp_sparql"
+  }
+]

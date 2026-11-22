@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Educational Question Mining At Scale: Prediction, Analysis and Personalization",
+    "ee": "https://doi.org/10.1609/AAAI.V35I17.17846",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16578",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Characterizing the Loss Landscape in Non-Negative Matrix Factorization",
+    "ee": "https://doi.org/10.1609/AAAI.V35I8.16836",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16516",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Heterogeneous Multi-Relational Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16515",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Faster Deep Collaborative Filtering via Hierarchical Decision Networks",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16520",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep Transfer Tensor Decomposition with Orthogonal Constraint for Recommender Systems",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16521",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A User-Adaptive Layer Selection Framework for Very Deep Sequential Recommender Models",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16518",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Demonstrating the Equivalence of List Based and Aggregate Metrics to Measure the Diversity of Recommendations (Student Abstract)",
+    "ee": "https://doi.org/10.1609/AAAI.V35I18.17886",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Incorporating Curiosity into Personalized Ranking for Collaborative Filtering (Student Abstract)",
+    "ee": "https://doi.org/10.1609/AAAI.V35I18.17885",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Hybrid Bandit Framework for Diversified Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16524",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Comparison Lift: Bandit-based Experimentation System for Online Advertising",
+    "ee": "https://doi.org/10.1609/AAAI.V35I17.17775",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep Discourse Analysis for Generating Personalized Feedback in Intelligent Tutor Systems",
+    "ee": "https://doi.org/10.1609/AAAI.V35I17.17829",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph-Enhanced Multi-Task Learning of Multi-Level Transition Dynamics for Session-based Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16534",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Cross-Silo Federated Learning on Non-IID Data",
+    "ee": "https://doi.org/10.1609/AAAI.V35I9.16960",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-aware Coupled Graph Neural Network for Social Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16533",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "On Estimating Recommendation Evaluation Metrics under Sampling",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16537",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Who You Would Like to Share With? A Study of Share Recommendation in Social E-commerce",
+    "ee": "https://doi.org/10.1609/AAAI.V35I1.16097",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Bayesian Dynamic Mode Decomposition with Variational Matrix Factorization",
+    "ee": "https://doi.org/10.1609/AAAI.V35I9.16985",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PREMERE: Meta-Reweighting via Self-Ensembling for Point-of-Interest Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16539",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Disposable Linear Bandits for Online Recommendations",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16540",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical Negative Binomial Factorization for Recommender Systems on Implicit Feedback",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16541",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalizing Individual Comfort in the Group Setting",
+    "ee": "https://doi.org/10.1609/AAAI.V35I17.17801",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Explaining Neural Matrix Factorization with Gradient Rollback",
+    "ee": "https://doi.org/10.1609/AAAI.V35I6.16632",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FedRec++: Lossless Federated Recommendation with Explicit Feedback",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16546",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Noninvasive Self-attention for Side Information Fusion in Sequential Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16549",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Asynchronous Stochastic Gradient Descent for Extreme-Scale Recommender Systems",
+    "ee": "https://doi.org/10.1609/AAAI.V35I1.16108",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Robust PDF Document Conversion using Recurrent Neural Networks",
+    "ee": "https://doi.org/10.1609/AAAI.V35I17.17777",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "RevMan: Revenue-aware Multi-task Online Insurance Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I1.16105",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Semi-Discrete Social Recommendation (Student Abstract)",
+    "ee": "https://doi.org/10.1609/AAAI.V35I18.17914",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Enhanced Top-K Recommendation in Poincaré Ball",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16553",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving the Performance-Compatibility Tradeoff with Personalized Objective Functions (Student Abstract)",
+    "ee": "https://doi.org/10.1609/AAAI.V35I18.17918",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving the Performance-Compatibility Tradeoff with Personalized Objective Functions",
+    "ee": "https://doi.org/10.1609/AAAI.V35I7.16745",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Two-Sided Fairness in Non-Personalised Recommendations (Student Abstract)",
+    "ee": "https://doi.org/10.1609/AAAI.V35I18.17922",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Preventing Overfitting via Sample Reweighting for Recommender System Incremental Update (Student Abstract)",
+    "ee": "https://doi.org/10.1609/AAAI.V35I18.17928",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Robust Spatio-Temporal Purchase Prediction via Deep Meta Learning",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16556",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "U-BERT: Pre-training User Representations for Improved Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16557",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Skills2Job: A Recommender System that Encodes Job Offer Embeddings on Graph Databases (Student Abstract)",
+    "ee": "https://doi.org/10.1609/AAAI.V35I18.17939",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Degree Planning with PLAN-BERT: Multi-Semester Recommendation Using Future Courses of Interest",
+    "ee": "https://doi.org/10.1609/AAAI.V35I17.17751",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Coupon Design in Advertising Systems",
+    "ee": "https://doi.org/10.1609/AAAI.V35I6.16717",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Detecting Beneficial Feature Interactions for Recommender Systems",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16561",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dynamic Memory based Attention Network for Sequential Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16564",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning from My Friends: Few-Shot Personalized Conversation Systems via Social Networks",
+    "ee": "https://doi.org/10.1609/AAAI.V35I15.17638",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning to Recommend from Sparse Data via Generative User Feedback",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16570",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reinforcement Learning with a Disentangled Universal Value Function for Item Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16569",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Federated Block Coordinate Descent Scheme for Learning Global and Personalized Models",
+    "ee": "https://doi.org/10.1609/AAAI.V35I12.17240",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Fairness-aware News Recommendation with Decomposed Adversarial Learning",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16573",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16576",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A General Offline Reinforcement Learning Framework for Interactive Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16579",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical Reinforcement Learning for Integrated Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16580",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Out-of-Town Recommendation with Travel Intention Modeling",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16581",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep Partial Rank Aggregation for Personalized Attributes",
+    "ee": "https://doi.org/10.1609/AAAI.V35I1.16148",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Capturing Delayed Feedback in Conversion Rate Prediction via Elapsed-Time Sampling",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16587",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dual Sparse Attention Network For Session-based Recommendation",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16593",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Adaptive Meta Learning for Cold-start User Preference Prediction",
+    "ee": "https://doi.org/10.1609/AAAI.V35I12.17287",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Intelligent Recommendations for Citizen Science",
+    "ee": "https://doi.org/10.1609/AAAI.V35I17.17726",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing E-commerce Recommender System Adaptability with Online Deep Controllable Learning-To-Rank",
+    "ee": "https://doi.org/10.1609/AAAI.V35I17.17785",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Tripartite Collaborative Filtering with Observability and Selection for Debiasing Rating Estimation on Missing-Not-at-Random Data",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16597",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DEAR: Deep Reinforcement Learning for Online Advertising Impression in Recommender Systems",
+    "ee": "https://doi.org/10.1609/AAAI.V35I1.16156",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cold-start Sequential Recommendation via Meta Learner",
+    "ee": "https://doi.org/10.1609/AAAI.V35I5.16601",
+    "key": "dblp_sparql"
+  }
+]

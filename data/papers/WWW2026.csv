@@ -65,3 +65,36 @@ Towards Context-aware Reasoning-enhanced Generative Searching in E-commerce,2510
 GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework,2510.15299,https://arxiv.org/abs/2510.15299,,collaborative_filtering,WWW,2026
 AgentDR: Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents,2510.05598,https://arxiv.org/abs/2510.05598,,agent_conversational_rec,WWW,2026
 ThinkRec: Thinking-based recommendation via LLM,2505.15091,https://arxiv.org/abs/2505.15091,https://github.com/Yu-Qi-hang/ThinkRec,llm_rec,WWW,2026
+BiasEdit: A Training-Free Bias-Detect-and-Edit Framework for Learning Fair Visual Classifiers,2605.28450,https://arxiv.org/abs/2605.28450,,multimodal_rec,WWW,2026
+RMBRec: Robust Multi-Behavior Recommendation towards Target Behaviors,2601.08705,https://arxiv.org/abs/2601.08705,https://github.com/miaomiao-cai2/RMBRec,self_supervised_denoising,WWW,2026
+From Insight to Intervention: Interpretable Neuron Steering for Controlling Popularity Bias in Recommender Systems,2601.15122,https://arxiv.org/abs/2601.15122,,debias_fairness_industrial,WWW,2026
+TopKGAT: A Top-K Objective-Driven Architecture for Recommendation,2601.18432,https://arxiv.org/abs/2601.18432,https://github.com/StupidThree/TopKGAT,graph_rec,WWW,2026
+Online Advertising with Spatial Interactions,2602.12481,https://arxiv.org/abs/2602.12481,,ctr_feature_interaction,WWW,2026
+Field Matters: A Lightweight LLM-enhanced Method for CTR Prediction,2505.14057,https://arxiv.org/abs/2505.14057,https://github.com/istarryn/LLaCTR,ctr_feature_interaction,WWW,2026
+PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations,2510.07784,https://arxiv.org/abs/2510.07784,,generative_rec,WWW,2026
+GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale Recommendations,2502.11490,https://arxiv.org/abs/2502.11490,,collaborative_filtering,WWW,2026
+WeaveRec: An LLM-Based Cross-Domain Sequential Recommendation Framework with Model Merging,2510.26546,https://arxiv.org/abs/2510.26546,,cross_domain_multi_scenario,WWW,2026
+Post-hoc Popularity Bias Correction in GNN-based Collaborative Filtering,2510.12959,https://arxiv.org/abs/2510.12959,,debias_fairness_industrial,WWW,2026
+Explaining Synergistic Effects in Social Recommendations,2601.18151,https://arxiv.org/abs/2601.18151,,social_group_rec,WWW,2026
+Generative Regression Based Watch Time Prediction for Short-Video Recommendation,2412.20211,https://arxiv.org/abs/2412.20211,,generative_rec,WWW,2026
+Bringing Reasoning to Generative Recommendation Through the Lens of Cascaded Ranking,2602.03692,https://arxiv.org/abs/2602.03692,https://github.com/Linxyhaha/CARE,generative_rec,WWW,2026
+BanditLP: Large-Scale Stochastic Optimization for Personalized Recommendations,2601.15552,https://arxiv.org/abs/2601.15552,,rl_bandit_rec,WWW,2026
+Does LLM Focus on the Right Words? Mitigating Context Bias in LLM-based Recommenders,2510.10978,https://arxiv.org/abs/2510.10978,https://github.com/WANGBohaO-jpg/GDRT,llm_rec,WWW,2026
+DTRec: Learning Dynamic Reasoning Trajectories for Sequential Recommendation,2512.14036,https://arxiv.org/abs/2512.14036,,sequential_rec,WWW,2026
+NEZHA: A Zero-sacrifice and Hyperspeed Decoding Architecture for Generative Recommendations,2511.18793,https://arxiv.org/abs/2511.18793,,generative_rec,WWW,2026
+Causality Enhancement for Cross-Domain Recommendation,2510.14641,https://arxiv.org/abs/2510.14641,,cross_domain_multi_scenario,WWW,2026
+DrunkAgent: Stealthy Memory Corruption in LLM-Powered Recommender Agents,2503.23804,https://arxiv.org/abs/2503.23804,,debias_fairness_industrial,WWW,2026
+SemaCDR: LLM-Powered Transferable Semantics for Cross-Domain Sequential Recommendation,2604.09551,https://arxiv.org/abs/2604.09551,,cross_domain_multi_scenario,WWW,2026
+DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan,2602.04460,https://arxiv.org/abs/2602.04460,,generative_rec,WWW,2026
+Gaussian Mixture Flow Matching with Domain Alignment for Multi-Domain Sequential Recommendation,2510.21021,https://arxiv.org/abs/2510.21021,,cross_domain_multi_scenario,WWW,2026
+COINS: SemantiC Ids Enhanced COLd Item RepresentatioN for Click-through Rate Prediction in E-commerce Search,2510.12604,https://arxiv.org/abs/2510.12604,,ctr_feature_interaction,WWW,2026
+HyMiRec: A Hybrid Multi-interest Learning Framework for LLM-based Sequential Recommendation,2510.13738,https://arxiv.org/abs/2510.13738,https://github.com/FireRedTeam/FireRedSeqRec,sequential_rec,WWW,2026
+RobustExplain: Evaluating Robustness of LLM-Based Explanation Agents for Recommendation,2601.19120,https://arxiv.org/abs/2601.19120,,agent_conversational_rec,WWW,2026
+When Ads Become Profiles: Uncovering the Invisible Risk of Web Advertising at Scale with LLMs,2509.18874,https://arxiv.org/abs/2509.18874,https://github.com/Breezelled/when-ads-become-profiles,ctr_feature_interaction,WWW,2026
+Multi-Behavior Sequential Modeling with Transition-Aware Graph Attention Network for E-Commerce Recommendation,2601.14955,https://arxiv.org/abs/2601.14955,,sequential_rec,WWW,2026
+STCRank: Spatio-temporal Collaborative Ranking for Interactive Recommender System at Kuaishou E-shop,2601.10027,https://arxiv.org/abs/2601.10027,,multi_task_reranking,WWW,2026
+Personalized Learning Path Planning with Goal-Driven Learner State Modeling,2510.13215,https://arxiv.org/abs/2510.13215,https://github.com/Pxplore/pxplore-algo,llm_rec,WWW,2026
+Beyong Tokens: Item-aware Attention for LLM-based Recommendation,2603.19693,https://arxiv.org/abs/2603.19693,,llm_rec,WWW,2026
+Taming the Long Tail: Efficient Item-wise Sharpness-Aware Minimization for LLM-based Recommender Systems,2603.12752,https://arxiv.org/abs/2603.12752,,cold_start_rec,WWW,2026
+LLMs as Orchestrators: Constraint-Compliant Multi-Agent Optimization for Recommendation Systems,2601.19121,https://arxiv.org/abs/2601.19121,,multi_task_reranking,WWW,2026
+Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-Head Decoding,2511.10492,https://arxiv.org/abs/2511.10492,,generative_rec,WWW,2026

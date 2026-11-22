@@ -62,3 +62,45 @@ CTR-Sink: Attention Sink for Language Models in Click-Through Rate Prediction,25
 Scaling Recommender Transformers to One Billion Parameters,2507.15994,https://arxiv.org/abs/2507.15994,,sequential_rec,KDD,2026
 Breaking Information Cocoons: A Hyperbolic Framework for Balancing Exploration and Exploitation in Recommender Systems,2411.13865,https://arxiv.org/abs/2411.13865,https://github.com/Martin-qyma/HERec,collaborative_filtering,KDD,2026
 How Do Graph Signals Affect Recommendation: Unveiling the Mystery of Low and High-Frequency Graph Signals,2512.15744,https://arxiv.org/abs/2512.15744,https://github.com/mojosey/SimGCF,graph_rec,KDD,2026
+MSN: A Memory-based Sparse Activation Scaling Framework for Large-scale Industrial Recommendation,2602.07526,https://arxiv.org/abs/2602.07526,,ctr_feature_interaction,KDD,2026
+Rewarding Engagement and Personalization in Popularity-Based Rankings Amplifies Extremism and Polarization,2510.24354,https://arxiv.org/abs/2510.24354,,debias_fairness_industrial,KDD,2026
+Generative Optimization for Incentivized Advertising with Global Level Constraints,2608.04421,https://arxiv.org/abs/2608.04421,,rl_bandit_rec,KDD,2026
+Bending the Scaling Law Curve in Large-Scale Recommendation Systems,2602.16986,https://arxiv.org/abs/2602.16986,,sequential_rec,KDD,2026
+Towards A Tri-View Diffusion Framework for Recommendation,2511.20122,https://arxiv.org/abs/2511.20122,,generative_rec,KDD,2026
+Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design,2602.10016,https://arxiv.org/abs/2602.10016,,llm_rec,KDD,2026
+S-GRec: Personalized Semantic-Aware Generative Recommendation with Asymmetric Advantage,2602.10606,https://arxiv.org/abs/2602.10606,,generative_rec,KDD,2026
+Multi-TAP: Multi-criteria Target Adaptive Persona Modeling for Cross-Domain Recommendation,2603.07086,https://arxiv.org/abs/2603.07086,https://github.com/archivehee/Multi-TAP,cross_domain_multi_scenario,KDD,2026
+TokenMixer-Large: Scaling Up Large Ranking Models in Industrial Recommenders,2602.06563,https://arxiv.org/abs/2602.06563,,ctr_feature_interaction,KDD,2026
+Sell It Before You Make It: Revolutionizing E-Commerce with Personalized AI-Generated Items,2503.22182,https://arxiv.org/abs/2503.22182,,generative_rec,KDD,2026
+EST: Towards Efficient Scaling Laws in Click-Through Rate Prediction via Unified Modeling,2602.10811,https://arxiv.org/abs/2602.10811,,ctr_feature_interaction,KDD,2026
+ITDR: An Instruction Tuning Dataset for Enhancing Large Language Models in Recommendations,2508.05667,https://arxiv.org/abs/2508.05667,https://github.com/hellolzk/ITDR,llm_rec,KDD,2026
+Distribution-Aware End-to-End Embedding for Streaming Numerical Features in Click-Through Rate Prediction,2602.03223,https://arxiv.org/abs/2602.03223,,ctr_feature_interaction,KDD,2026
+Intuition-Guided Latent Reasoning for LLM-Based Recommendation,2606.27684,https://arxiv.org/abs/2606.27684,https://github.com/Ten-Mao/IntuRec,llm_rec,KDD,2026
+FCN: Fusing Exponential and Linear Cross Network for Click-Through Rate Prediction,2407.13349,https://arxiv.org/abs/2407.13349,,ctr_feature_interaction,KDD,2026
+FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation,2502.09375,https://arxiv.org/abs/2502.09375,,cross_domain_multi_scenario,KDD,2026
+MDL: A Unified Multi-Distribution Learner in Large-scale Industrial Recommendation through Tokenization,2602.07520,https://arxiv.org/abs/2602.07520,,cross_domain_multi_scenario,KDD,2026
+Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems,2607.19357,https://arxiv.org/abs/2607.19357,,generative_rec,KDD,2026
+OneLive: Dynamically Unified Generative Framework for Live-Streaming Recommendation,2602.08612,https://arxiv.org/abs/2602.08612,,generative_rec,KDD,2026
+RELATE: A Reinforcement Learning-Enhanced LLM Framework for Advertising Text Generation,2602.11780,https://arxiv.org/abs/2602.11780,,ctr_feature_interaction,KDD,2026
+Interactive Recommendation Agent with Active User Commands,2509.21317,https://arxiv.org/abs/2509.21317,,agent_conversational_rec,KDD,2026
+MTGenRec: An Efficient Distributed Training System for Generative Recommendation Models in Meituan,2505.12663,https://arxiv.org/abs/2505.12663,,generative_rec,KDD,2026
+PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval,2603.01493,https://arxiv.org/abs/2603.01493,,multimodal_rec,KDD,2026
+LISRec: Modeling User Preferences with Learned Item Shortcuts for Sequential Recommendation,2505.22130,https://arxiv.org/abs/2505.22130,https://github.com/NEUIR/LISRec,sequential_rec,KDD,2026
+LLaTTE: Scaling Laws for Multi-Stage Sequence Modeling in Large-Scale Ads Recommendation,2601.20083,https://arxiv.org/abs/2601.20083,,sequential_rec,KDD,2026
+TransX: Scaling Transformer-based Recommendation via Behavioral and Serving Stream Crossings,2607.28940,https://arxiv.org/abs/2607.28940,,sequential_rec,KDD,2026
+Generative Recommendation for Large-Scale Advertising,2602.22732,https://arxiv.org/abs/2602.22732,,generative_rec,KDD,2026
+AIGQ: An End-to-End Hybrid Generative Architecture for E-commerce Query Recommendation,2603.19710,https://arxiv.org/abs/2603.19710,,llm_rec,KDD,2026
+Thought-Augmented Planning for LLM-Powered Interactive Recommender Agent,2506.23485,https://arxiv.org/abs/2506.23485,https://github.com/Alcein/TAIRA,agent_conversational_rec,KDD,2026
+Macro Graph of Experts for Billion-Scale Multi-Task Recommendation,2506.10520,https://arxiv.org/abs/2506.10520,,multi_task_reranking,KDD,2026
+VALUE: Value-Aware Large Language Model for Query Rewriting via Weighted Trie in Sponsored Search,2504.05321,https://arxiv.org/abs/2504.05321,,ctr_feature_interaction,KDD,2026
+Deterministic-Allocation and Anonymous Joint Advertising in E-commerce Platforms,2506.02435,https://arxiv.org/abs/2506.02435,,ctr_feature_interaction,KDD,2026
+SMES: Towards Scalable Multi-Task Recommendation via Expert Sparsity,2602.09386,https://arxiv.org/abs/2602.09386,,multi_task_reranking,KDD,2026
+PinRec: Unified Generative Retrieval for Pinterest Recommender Systems,2504.10507,https://arxiv.org/abs/2504.10507,,generative_rec,KDD,2026
+Climber-Pilot: A Non-Myopic Generative Recommendation Model Towards Better Instruction-Following,2602.13581,https://arxiv.org/abs/2602.13581,,generative_rec,KDD,2026
+Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation,2602.10699,https://arxiv.org/abs/2602.10699,,generative_rec,KDD,2026
+LatentCRS: A Variational EM Framework for Bridging Semantics and Behavior in LLM-based Conversational Recommendation,2503.10703,https://arxiv.org/abs/2503.10703,,agent_conversational_rec,KDD,2026
+Mag-Mamba: Modeling Coupled spatiotemporal Asymmetry for POI Recommendation,2603.00053,https://arxiv.org/abs/2603.00053,,poi_spatiotemporal_rec,KDD,2026
+ScienceDB AI: An LLM-Driven Agentic Recommender System for Large-Scale Scientific Data Sharing Services,2601.01118,https://arxiv.org/abs/2601.01118,,agent_conversational_rec,KDD,2026
+From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation,2602.23132,https://arxiv.org/abs/2602.23132,,sequential_rec,KDD,2026
+Align-for-Fusion: Harmonizing Triple Preferences via Dual-oriented Diffusion for Cross-domain Sequential Recommendation,2508.05074,https://arxiv.org/abs/2508.05074,,cross_domain_multi_scenario,KDD,2026
+CanonFedRec: A Canonical Geometric Framework for Personalized Federated Recommendation,,https://openaccess.city.ac.uk/id/eprint/38468/1/3770855.3817845.pdf,,debias_fairness_industrial,KDD,2026

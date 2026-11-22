@@ -3,3 +3,8 @@ GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the 
 CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation,2603.04320,https://arxiv.org/abs/2603.04320,,multimodal_rec,ICDE,2026
 Relevance Matters: A Multi-Task and Multi-Stage Large Language Model Approach for E-commerce Query Rewriting,2603.02555,https://arxiv.org/abs/2603.02555,,llm_rec,ICDE,2026
 User-Adaptive Meta-Learning for Cold-Start Medication Recommendation with Uncertainty Filtering,2601.22820,https://arxiv.org/abs/2601.22820,,cold_start_rec,ICDE,2026
+Cascading Relevance-driven Recommendation Network for CTR Prediction in Trigger-Introduced Recommendation,2608.22973,https://arxiv.org/abs/2608.22973,https://github.com/a-little-cabbage/CRRN,ctr_feature_interaction,ICDE,2026
+Decoupled Multimodal Fusion for User Interest Modeling in Click-Through Rate Prediction,2510.11066,https://arxiv.org/abs/2510.11066,,ctr_feature_interaction,ICDE,2026
+REG4Rec: Reasoning-Enhanced Generative Model for Large-Scale Recommendation Systems,2508.15308,https://arxiv.org/abs/2508.15308,,generative_rec,ICDE,2026
+Efficient Model-Agnostic Continual Learning for Next POI Recommendation,2511.08941,https://arxiv.org/abs/2511.08941,,poi_spatiotemporal_rec,ICDE,2026
+Geography-Aware Large Language Models for Next POI Recommendation,2505.13526,https://arxiv.org/abs/2505.13526,,poi_spatiotemporal_rec,ICDE,2026

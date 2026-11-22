@@ -1,0 +1,6 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Why Do We Click: Visual Impression-aware News Recommendation,2109.12651,https://arxiv.org/abs/2109.12651,,multimodal_rec,ACM_MM,2021
+CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation,2107.02390,https://arxiv.org/abs/2107.02390,,debias_fairness_industrial,ACM_MM,2021
+Pre-training Graph Transformer with Multimodal Side Information for Recommendation,2010.12284,https://arxiv.org/abs/2010.12284,,multimodal_rec,ACM_MM,2021
+Contrastive Learning for Cold-Start Recommendation,2107.05315,https://arxiv.org/abs/2107.05315,,cold_start_rec,ACM_MM,2021
+Mining Latent Structures for Multimedia Recommendation,2104.09036,https://arxiv.org/abs/2104.09036,,multimodal_rec,ACM_MM,2021

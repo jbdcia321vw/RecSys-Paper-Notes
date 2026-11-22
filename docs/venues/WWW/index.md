@@ -97,9 +97,10 @@ hide:
 ## 按年份浏览
 
 <div class="recsys-grid">
-  <a class="recsys-card" href="2026/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2026 年</span>      <span class="recsys-badge">66 篇</span>    </div>    <div class="recsys-card-desc">WWW (TheWebConf) 2026 年收录的推荐系统论文解读</div>  </a>
+  <a class="recsys-card" href="2026/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2026 年</span>      <span class="recsys-badge">98 篇</span>    </div>    <div class="recsys-card-desc">WWW (TheWebConf) 2026 年收录的推荐系统论文解读</div>  </a>
   <a class="recsys-card" href="2025/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2025 年</span>      <span class="recsys-badge">88 篇</span>    </div>    <div class="recsys-card-desc">WWW (TheWebConf) 2025 年收录的推荐系统论文解读</div>  </a>
   <a class="recsys-card" href="2024/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2024 年</span>      <span class="recsys-badge">74 篇</span>    </div>    <div class="recsys-card-desc">WWW (TheWebConf) 2024 年收录的推荐系统论文解读</div>  </a>
   <a class="recsys-card" href="2023/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2023 年</span>      <span class="recsys-badge">65 篇</span>    </div>    <div class="recsys-card-desc">WWW (TheWebConf) 2023 年收录的推荐系统论文解读</div>  </a>
   <a class="recsys-card" href="2022/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2022 年</span>      <span class="recsys-badge">38 篇</span>    </div>    <div class="recsys-card-desc">WWW (TheWebConf) 2022 年收录的推荐系统论文解读</div>  </a>
+  <a class="recsys-card" href="2021/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2021 年</span>      <span class="recsys-badge">39 篇</span>    </div>    <div class="recsys-card-desc">WWW (TheWebConf) 2021 年收录的推荐系统论文解读</div>  </a>
 </div>

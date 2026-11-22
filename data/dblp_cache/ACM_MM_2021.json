@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Learning Unified Embeddings for Recommendation via Meta-path Semantics",
+    "ee": "https://doi.org/10.1145/3474085.3475407",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pareto Optimality for Fairness-constrained Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3474085.3475706",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Semantic Media Conversion: Possibilities and Limits",
+    "ee": "https://doi.org/10.1145/3474085.3475714",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A2W: Context-Aware Recommendation System for Mobile Augmented Reality Web Browser",
+    "ee": "https://doi.org/10.1145/3474085.3475413",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pre-training Graph Transformer with Multimodal Side Information for Recommendation",
+    "ee": "https://doi.org/10.1145/3474085.3475709",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Face-based Voice Conversion: Learning the Voice behind a Face",
+    "ee": "https://doi.org/10.1145/3474085.3475198",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "The Next Generation Multimodal Conversational Search and Recommendation",
+    "ee": "https://doi.org/10.1145/3474085.3480025",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Comparative Study of Adversarial Training Methods for Cold-Start Recommendation",
+    "ee": "https://doi.org/10.1145/3475724.3483600",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation",
+    "ee": "https://doi.org/10.1145/3474085.3475266",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Implicit Feedbacks are Not Always Favorable: Iterative Relabeled One-Class Collaborative Filtering against Noisy Interactions",
+    "ee": "https://doi.org/10.1145/3474085.3475446",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contrastive Learning for Cold-Start Recommendation",
+    "ee": "https://doi.org/10.1145/3474085.3475665",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Why Do We Click: Visual Impression-aware News Recommendation",
+    "ee": "https://doi.org/10.1145/3474085.3475514",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mining Latent Structures for Multimedia Recommendation",
+    "ee": "https://doi.org/10.1145/3474085.3475259",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Multi-modal Video Retrieval on Mobile Devices",
+    "ee": "https://doi.org/10.1145/3474085.3481545",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-view Clustering via Deep Matrix Factorization and Partition Alignment",
+    "ee": "https://doi.org/10.1145/3474085.3475548",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Style-Aware Image Recommendation for Social Media Marketing",
+    "ee": "https://doi.org/10.1145/3474085.3475453",
+    "key": "dblp_sparql"
+  }
+]

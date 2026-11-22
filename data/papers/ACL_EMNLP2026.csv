@@ -29,3 +29,19 @@ From Past To Path: Masked History Learning for Next-Item Prediction in Generativ
 Mirroring Users: Towards Building Preference-aligned User Simulator with User Feedback in Recommendation,2508.18142,https://arxiv.org/abs/2508.18142,https://github.com/Joinn99/UserMirrorer,agent_conversational_rec,ACL_EMNLP,2026
 What Makes LLMs Effective Sequential Recommenders? A Study on Preference Intensity and Temporal Context,2506.02261,https://arxiv.org/abs/2506.02261,,llm_rec,ACL_EMNLP,2026
 Bridging Language and Items for Retrieval and Recommendation: Benchmarking LLMs as Semantic Encoders,2403.03952,https://arxiv.org/abs/2403.03952,,llm_rec,ACL_EMNLP,2026
+SafeGEO: Understanding Generative Engine Optimization Risks in Recommendation Agents,2606.28356,https://arxiv.org/abs/2606.28356,,debias_fairness_industrial,ACL_EMNLP,2026
+PathBuilder: A Quality-Controlled LLM System for Personalized Learning Pathways,,https://aclanthology.org/2026.acl-demo.50.pdf,,llm_rec,ACL_EMNLP,2026
+DUET: Joint Exploration of User–Item Profiles in Recommendation System,,https://aclanthology.org/2026.findings-acl.1076.pdf,,llm_rec,ACL_EMNLP,2026
+LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation,,https://aclanthology.org/2026.findings-acl.1022.pdf,,agent_conversational_rec,ACL_EMNLP,2026
+Distilling LLM Reasoning into Dense Encoders: Bridging the Accuracy-Efficiency Gap in Recommendation,,https://aclanthology.org/2026.findings-acl.1130.pdf,,llm_rec,ACL_EMNLP,2026
+UCGRec: User-Centric Graph Learning for LLM-based Sequential Recommendation,,https://aclanthology.org/2026.findings-acl.175.pdf,,sequential_rec,ACL_EMNLP,2026
+Multimodal Item Scoring for Natural Language Recommendation via Gaussian Process Regression with LLM Relevance Judgments,,https://aclanthology.org/2026.findings-acl.1836.pdf,,llm_rec,ACL_EMNLP,2026
+Adaptive and Representative Multi-Interest Modeling for Recommendation with Large Language Model,,https://aclanthology.org/2026.findings-acl.117.pdf,,llm_rec,ACL_EMNLP,2026
+From Personal to Collective: On the Role of Local and Global Knowledge in LLM Personalization,,https://aclanthology.org/2026.findings-acl.1478.pdf,,llm_rec,ACL_EMNLP,2026
+From ID to LLM: Rethinking Representation Learning for Recommendation,,https://aclanthology.org/2026.acl-long.179.pdf,,llm_rec,ACL_EMNLP,2026
+Internalizing Multi-Agent Reasoning for Accurate and Efficient LLM-based Recommendation,,https://aclanthology.org/2026.findings-acl.2134.pdf,,llm_rec,ACL_EMNLP,2026
+Data-Efficient Adaptation to Contextual Shifts in LLM-based Conversational Recommendation,,https://aclanthology.org/2026.findings-acl.1114.pdf,,agent_conversational_rec,ACL_EMNLP,2026
+GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models,,https://aclanthology.org/2026.acl-industry.25.pdf,,llm_rec,ACL_EMNLP,2026
+Dual-Prompt-Driven Textual Knowledge Graph Generation With Heterogeneous Information Embedding for CTR Prediction,,https://aclanthology.org/2026.emnlp-main.401.pdf,,ctr_feature_interaction,ACL_EMNLP,2026
+Illuminating the Path: Reachability-Aware Supervision Curation for LLM-Based Recommendation,,https://aclanthology.org/2026.emnlp-main.552.pdf,,llm_rec,ACL_EMNLP,2026
+PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation,,https://aclanthology.org/2026.emnlp-main.480.pdf,,debias_fairness_industrial,ACL_EMNLP,2026

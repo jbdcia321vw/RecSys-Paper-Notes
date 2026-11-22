@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Dual-Embedding based Deep Latent Factor Models for Recommendation",
+    "ee": "https://doi.org/10.1145/3447395",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Link Recommendation for Social Influence Maximization",
+    "ee": "https://doi.org/10.1145/3449023",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Recommending Statutes: A Portable Method Based on Neural Networks",
+    "ee": "https://doi.org/10.1145/3424671",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DeepDepict: Enabling Information Rich, Personalized Product Description Generation With the Deep Multiple Pointer Generator Network",
+    "ee": "https://doi.org/10.1145/3446982",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Critique on Natural Noise in Recommender Systems",
+    "ee": "https://doi.org/10.1145/3447780",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "NeuSE: A Neural Snapshot Ensemble Method for Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3450526",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge Transfer with Weighted Adversarial Network for Cold-Start Store Site Recommendation",
+    "ee": "https://doi.org/10.1145/3442203",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Factor-Bounded Nonnegative Matrix Factorization",
+    "ee": "https://doi.org/10.1145/3451395",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mobile App Cross-Domain Recommendation with Multi-Graph Neural Network",
+    "ee": "https://doi.org/10.1145/3442201",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical Physician Recommendation via Diversity-enhanced Matrix Factorization",
+    "ee": "https://doi.org/10.1145/3418227",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MeSHProbeNet-P: Improving Large-scale MeSH Indexing with Personalizable MeSH Probes",
+    "ee": "https://doi.org/10.1145/3421713",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Core Interest Network for Click-Through Rate Prediction",
+    "ee": "https://doi.org/10.1145/3428079",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Clustering Heterogeneous Information Network by Joint Graph Embedding and Nonnegative Matrix Factorization",
+    "ee": "https://doi.org/10.1145/3441449",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Side Information Fusion for Recommender Systems over Heterogeneous Information Network",
+    "ee": "https://doi.org/10.1145/3441446",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Automatic Recommendation of a Distance Measure for Clustering Algorithms",
+    "ee": "https://doi.org/10.1145/3418228",
+    "key": "dblp_sparql"
+  }
+]

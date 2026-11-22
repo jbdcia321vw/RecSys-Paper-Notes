@@ -1,0 +1,217 @@
+[
+  {
+    "title": "Sparse encoding for more-interpretable feature-selecting representations in probabilistic matrix factorization",
+    "ee": "https://openreview.net/forum?id=D_KeYoqCYC",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "On InstaHide, Phase Retrieval, and Sparse Matrix Factorization",
+    "ee": "https://openreview.net/forum?id=AhElGnhU2BV",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Optimal Conversion of Conventional Artificial Neural Networks to Spiking Neural Networks",
+    "ee": "https://openreview.net/forum?id=FZ1oTwcXchK",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Resolving the Implicit Bias of Gradient Descent for Matrix Factorization: Greedy Low-Rank Learning",
+    "ee": "https://openreview.net/forum?id=AHOs7Sm5H7R",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learnable Embedding sizes for Recommender Systems",
+    "ee": "https://openreview.net/forum?id=vQzcqQWIS0q",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "UMEC: Unified model and embedding compression for efficient recommendation systems",
+    "ee": "https://openreview.net/forum?id=BM---bH_RSh",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Federated Learning with First Order Model Optimization",
+    "ee": "https://openreview.net/forum?id=ehJqJQk9cw",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Federated Learning With Gaussian Processes",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/46d0671dd4117ea366031f87f3aa0093-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PerSim: Data-Efficient Offline Reinforcement Learning with Heterogeneous Agents via Personalized Simulators",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/9a3f263a5e5f63006098a05cd7491997-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Scalable Neural Data Server: A Data Recommender for Transfer Learning",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/4b55df75e2e804bab559aa885be40310-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Curriculum Disentangled Recommendation with Noisy Multi-feedback",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/e242660df1b69b74dcc7fde711f924ff-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploiting Data Sparsity in Secure Cross-Platform Social Recommendation",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/56db57b4db0a6fcb7f9e0c0b504f6472-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contextual Recommendations and Low-Regret Cutting-Plane Algorithms",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/bdc6c33585d0cf5d2a8cb83141cd037f-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "On Component Interactions in Two-Stage Recommender Systems",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/162d18156abe38a3b32851b72b1d44f5-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "NeuroMLR: Robust & Reliable Route Recommendation on Road Networks",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/b922ede9c9eb9eabec1c1fecbdecb45d-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Differentially Private Model Personalization",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/f8580959e35cb0934479bb007fb241c2-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SSMF: Shifting Seasonal Matrix Factorization",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/1fb2a1c37b18aa4611c3949d6148d0f8-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Test-Time Personalization with a Transformer for Human Pose Estimation",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/1517c8664be296f0d87d9e5fc54fdd60-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Leveraging Distribution Alignment via Stein Path for Cross-Domain Cold-Start Recommendation",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/a0443c8c8c3372d662e9173c18faaa2c-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A/B Testing for Recommender Systems in a Two-sided Marketplace",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/32e19424b63cc63077a4031b87fb1010-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Benchmarking with the Ludwig Benchmarking Toolkit",
+    "ee": "https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/7cbbc409ec990f19c78c75bd1e06f215-Abstract-round1.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "QuPeD: Quantized Personalization via Distillation with Applications to Federated Learning",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/1dba3025b159cd9354da65e2d0436a31-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PartialFed: Cross-Domain Personalized Federated Learning via Partial Initialization",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/c429429bf1f2af051f2021dc92a8ebea-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pareto-Optimal Learning-Augmented Algorithms for Online Conversion Problems",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/55a988dfb00a914717b3000a3374694c-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Global Convergence of Gradient Descent for Asymmetric Low-Rank Matrix Factorization",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/0af854284f4ab0cfea8fcfd889cbb41a-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Preconditioned Gradient Descent for Over-Parameterized Nonconvex Matrix Factorization",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/2f2cd5c753d3cee48e47dbb5bbaed331-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Parameterized Knowledge Transfer for Personalized Federated Learning",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/5383c7318a3158b9bc261d0b6996f7c2-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Minimizing Polarization and Disagreement in Social Networks via Link Recommendation",
+    "ee": "https://proceedings.neurips.cc/paper/2021/hash/101951fe7ebe7bd8c77d14f75746b4bc-Abstract.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reserve Price Optimization for First Price Auctions in Display Advertising",
+    "ee": "http://proceedings.mlr.press/v139/feng21b.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Ditto: Fair and Robust Federated Learning Through Personalization",
+    "ee": "http://proceedings.mlr.press/v139/li21h.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Debiasing Model Updates for Improving Personalized Federated Training",
+    "ee": "http://proceedings.mlr.press/v139/acar21a.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Model Distillation for Revenue Optimization: Interpretable Personalized Pricing",
+    "ee": "http://proceedings.mlr.press/v139/biggs21a.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Self-Modulating Attention in Continuous Time Space with Applications to Sequential Recommendation",
+    "ee": "http://proceedings.mlr.press/v139/chen21h.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploiting Shared Representations for Personalized Federated Learning",
+    "ee": "http://proceedings.mlr.press/v139/collins21a.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Quantifying Availability and Discovery in Recommender Systems via Stochastic Reachability",
+    "ee": "http://proceedings.mlr.press/v139/curmei21a.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Correcting Exposure Bias for Link Recommendation",
+    "ee": "http://proceedings.mlr.press/v139/gupta21c.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Crowdsourcing via Annotator Co-occurrence Imputation and Provable Symmetric Nonnegative Matrix Factorization",
+    "ee": "http://proceedings.mlr.press/v139/ibrahim21a.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Model Fusion for Personalized Learning",
+    "ee": "http://proceedings.mlr.press/v139/lam21a.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Federated Learning using Hypernetworks",
+    "ee": "http://proceedings.mlr.press/v139/shamsian21a.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Open-World Recommendation: An Inductive Model-based Collaborative Filtering Approach",
+    "ee": "http://proceedings.mlr.press/v139/wu21j.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Rethinking Neural vs. Matrix-Factorization Collaborative Filtering: the Theoretical Perspectives",
+    "ee": "http://proceedings.mlr.press/v139/xu21d.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings",
+    "ee": "http://proceedings.mlr.press/v139/xu21l.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Incentivized Bandit Learning with Self-Reinforcing User Preferences",
+    "ee": "http://proceedings.mlr.press/v139/zhou21d.html",
+    "key": "dblp_sparql"
+  }
+]

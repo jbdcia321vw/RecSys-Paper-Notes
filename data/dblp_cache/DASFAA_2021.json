@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Tie",
+    "ee": "https://doi.org/10.1007/978-3-030-73194-6_37",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sirius: Sequential Recommendation with Feature Augmented Graph Neural Networks",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_21",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "VizGRank: A Context-Aware Visualization Recommendation Method Based on Inherent Relations Between Visualizations",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_16",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Gated Sequential Recommendation System with Social and Textual Information Under Dynamic Contexts",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_1",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Ad Click-Through Rate Prediction: A Survey",
+    "ee": "https://doi.org/10.1007/978-3-030-73216-5_10",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DiCGAN: A Dilated Convolutional Generative Adversarial Network for Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_18",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DFILAN: Domain-Based Feature Interactions Learning via Attention Networks for CTR Prediction",
+    "ee": "https://doi.org/10.1007/978-3-030-73197-7_33",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LGCCF: A Linear Graph Convolutional Collaborative Filtering with Social Influence",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_20",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "RE-KGR: Relation-Enhanced Knowledge Graph Reasoning for Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_19",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Semi-supervised Factorization Machines for Review-Aware Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_6",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep User Representation Construction Model for Collaborative Filtering",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_17",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Tell Me Where to Go Next: Improving POI Recommendation via Conversation",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_14",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Aware Hypergraph Neural Network for Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_9",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Disentangled User Representation Based on Controllable VAE for Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_12",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SRecGAN: Pairwise Adversarial Training for Sequential Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_2",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SSRGAN: A Generative Adversarial Network for Streaming Sequential Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_3",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "User Preference Translation Model for Next Top-k Items Recommendation with Social Relations",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_54",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DCAN: Deep Co-Attention Network by Modeling User Preference and News Lifecycle for News Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_7",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Combining Meta-path Instances into Layer-Wise Graphs for Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_22",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Attention Collaborative Similarity Embedding for Recommender System",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_11",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GCAN: A Group-Wise Collaborative Adversarial Networks for Item Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_23",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Dynamic Knowledge-Aware Recommendation with Hybrid Explanations",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_10",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Considering Interaction Sequence of Historical Items for Conversational Recommender System",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_8",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Generating Personalized Titles Incorporating Advertisement Profile",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_37",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personality Traits Prediction Based on Sparse Digital Footprints via Discriminative Matrix Factorization",
+    "ee": "https://doi.org/10.1007/978-3-030-73197-7_47",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MISS: A Multi-user Identification Network for Shared-Account Session-Aware Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_15",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Neural Adversarial Review Summarization with Hierarchical Personalized Attention",
+    "ee": "https://doi.org/10.1007/978-3-030-73197-7_4",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AE-UPCP: Seeking Potential Membership Users by Audience Expansion Combining User Preference with Consumption Pattern",
+    "ee": "https://doi.org/10.1007/978-3-030-73197-7_26",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DFCN: An Effective Feature Interactions Learning Model for Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_13",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Topological Interpretable Multi-scale Sequential Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_4",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Dynamic Social Behaviors with Time-Evolving Graphs for User Behavior Predictions",
+    "ee": "https://doi.org/10.1007/978-3-030-73194-6_35",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SANS: Setwise Attentional Neural Similarity Method for Few-Shot Recommendation",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_5",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Transportation Recommendation with Fairness Consideration",
+    "ee": "https://doi.org/10.1007/978-3-030-73200-4_40",
+    "key": "dblp_sparql"
+  }
+]

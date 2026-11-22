@@ -5,9 +5,9 @@ hide:
 
 # 🏛️ CIKM 2026 推荐系统论文解读
 
-65 篇 CIKM 2026 论文解读，覆盖 14 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
+76 篇 CIKM 2026 论文解读，覆盖 16 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
-🔥 **高频主题：** 生成式推荐 ×21 · 大语言模型推荐 ×8 · 语义ID ×6 · 多任务学习 ×5 · 去偏公平与可信推荐 ×4 · 多模态推荐 ×4 · 序列推荐 ×3 · MoE ×2
+🔥 **高频主题：** 生成式推荐 ×21 · 大语言模型推荐 ×8 · 语义ID ×6 · 多任务学习 ×5 · 去偏公平与可信推荐 ×4 · 多模态推荐 ×4 · 序列推荐 ×3 · GRPO ×2
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -20,24 +20,27 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">21</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">22</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">22</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">21</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">19</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">9</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">10</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">8</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">8</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">6</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="语义ID" aria-pressed="false">语义ID<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多任务学习" aria-pressed="false">多任务学习<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="序列推荐" aria-pressed="false">序列推荐<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="GRPO" aria-pressed="false">GRPO<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="MoE" aria-pressed="false">MoE<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="乘积量化" aria-pressed="false">乘积量化<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="残差量化" aria-pressed="false">残差量化<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">2</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
@@ -78,8 +81,22 @@ hide:
 </section>
 <section class="paper-section" data-paper-section>
 <hr />
-<h2 id="sequential_rec">⏱️ 序列与会话推荐 (6)</h2>
+<h2 id="self_supervised_denoising">🔄 自监督对比学习与交互去噪 (1)</h2>
 <dl data-paper-list>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;粗排/精排&quot;,&quot;Temporal Distribution Shift&quot;,&quot;ELBO&quot;,&quot;Data Augmentation&quot;]"><strong><a href="self_supervised_denoising/a_probabilistic_framework_for_temporal_distribution_generalization_in_indus/">A Probabilistic Framework for Temporal Distribution Generalization in Industry-Scale Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用因果图与 ELBO_TDS 分离稳定/时变因子，结合特征级增广，在 Shopee 搜索取得 +2.33% GMV/User。</p>
+</dd>
+</dl>
+</section>
+<section class="paper-section" data-paper-section>
+<hr />
+<h2 id="sequential_rec">⏱️ 序列与会话推荐 (10)</h2>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;序列建模&quot;,&quot;晚融合&quot;,&quot;工业推理优化&quot;]"><strong><a href="sequential_rec/an_industrial_scale_sequential_recommender_for_linkedin_feed_ranking/">An Industrial-Scale Sequential Recommender for LinkedIn Feed Ranking</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>LinkedIn Feed SR 用交错 post/action 序列的 decoder-only Transformer 替换 DCNv2 精排，配合晚融合特征与 CPU/GPU 分离推理，线上时长 +2.10%、互动 +3.52%。</p>
+</dd>
 <dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;角度相似度打分&quot;,&quot;参数高效短视适配&quot;]"><strong><a href="sequential_rec/closing_the_long_short_view_gap_in_sequential_recommendation_without_cached/">Closing the Long-Short View Gap in Sequential Recommendation without Cached History</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用角度相似度打分+softmax1 修正长视训练几何缺陷，再仅微调 Bias/LayerNorm 实现无缓存短视推理，短窗下反超全序列基线。</p>
@@ -96,9 +113,21 @@ hide:
 <dd>
 <p>用「嫁接」构造教师条件混合源模型，对学生嵌入表/编码器做组件级蒸馏，Full-Ranking 下最高相对提升 13.92%。</p>
 </dd>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;序列与会话推荐&quot;,&quot;召回/排序&quot;,&quot;乘积量化&quot;,&quot;物品码&quot;,&quot;嵌入压缩&quot;]"><strong><a href="sequential_rec/higher_capacity_transfer_into_jpq_item_codes_for_scalable_sequential_recomm/">Higher Capacity Transfer into JPQ Item Codes for Scalable Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>将高维SVD bootstrap经PQ压缩为固定预算JPQ物品码，在leave-last-out全库nDCG@10上较RecJPQ平均约30%，保持内存高效。</p>
+</dd>
 <dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;序列推荐&quot;,&quot;召回&quot;,&quot;归一化流&quot;,&quot;条件变分自编码器&quot;,&quot;LLM 语义融合&quot;]"><strong><a href="sequential_rec/lsf_sr_latent_semantic_fusion_for_sequential_recommendation_via_flow_based_/">LSF-SR: Latent Semantic Fusion for Sequential Recommendation via Flow-based Conditional Variational Autoencoders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用归一化流增强的 CVAE 将 LLM 语义作为条件概率融合进 ID 协同嵌入，Full-Ranking 下 Recall@20 最高提升 12.98%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;多框架后端&quot;,&quot;可复现基准&quot;,&quot;声明式配置&quot;]"><strong><a href="sequential_rec/newsrex_an_open_source_multi_framework_for_neural_news_recommendation/">NewsReX: An Open-Source Multi-Framework for Neural News Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>声明式YAML统一PyTorch/JAX双后端的神经新闻推荐框架，跨框架奇偶校验+多seed基准，注意力模型JAX提速1.1–2.2×。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;序列与会话推荐&quot;,&quot;精排/重排&quot;,&quot;检索增强&quot;,&quot;测试时自适应&quot;,&quot;协同记忆&quot;,&quot;熵融合&quot;]"><strong><a href="sequential_rec/retrieve_then_adapt_retrieval_augmented_test_time_adaptation_for_sequential/">Retrieve-then-Adapt: Retrieval-Augmented Test-Time Adaptation for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>冻结序列模型，测试时检索协同记忆，并以交叉注意力与熵融合校正预测，全库排序下稳定提升。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;MoE&quot;,&quot;行为线索路由&quot;]"><strong><a href="sequential_rec/routerec_behavior_guided_sparse_routing_for_sequential_recommendation/">RouteRec: Behavior-Guided Sparse Routing for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -108,7 +137,7 @@ hide:
 </section>
 <section class="paper-section" data-paper-section>
 <hr />
-<h2 id="generative_rec">✨ 生成式推荐与离散语义 ID (14)</h2>
+<h2 id="generative_rec">✨ 生成式推荐与离散语义 ID (15)</h2>
 <dl data-paper-list>
 <dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;生成式推荐&quot;,&quot;跨国推荐&quot;,&quot;语义码本&quot;,&quot;数据级知识迁移&quot;]"><strong><a href="generative_rec/cross_country_code_mixing_for_generative_recommendation/">Cross-Country Code-Mixing for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -117,6 +146,10 @@ hide:
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;生成式推荐&quot;,&quot;精排&quot;,&quot;时间位置编码&quot;,&quot;时间门控注意力偏置&quot;]"><strong><a href="generative_rec/decoupled_temporal_encoding_for_generative_recommendation/">Decoupled Temporal Encoding for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>将宏观时间动态与微观序列顺序解耦的双模块位置编码，工业数据集 GAUC +1.16pt，线上 CTR +1.8%、RPM +3.0%，延迟仅 +0.3%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;生成式推荐与离散语义 ID&quot;,&quot;召回&quot;,&quot;Semantic ID&quot;,&quot;RQ-VAE&quot;,&quot;GRPO&quot;]"><strong><a href="generative_rec/efficient_generative_retrieval_for_e_commerce_search_with_semantic_cluster_/">Efficient Generative Retrieval for E-commerce Search with Semantic Cluster IDs and Expert-Guided RL</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>以类目约束 RQ-VAE 构造语义簇 ID（CQ-SID），并用专家注入的 GRPO 对齐下游排序，天猫搜索线上 GMV +1.15%。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;生成式推荐&quot;,&quot;Semantic ID Collision&quot;,&quot;Collision-Corrected Evaluation&quot;,&quot;Zero-Collision Reassignment&quot;]"><strong><a href="generative_rec/faithful_evaluation_of_semantic_id_tokenizers_for_generative_recommendation/">Faithful Evaluation of Semantic-ID Tokenizers for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -146,12 +179,8 @@ hide:
 <dd>
 <p>指出固定长度SID复用于历史侧引发“物品内注意力过载”，提出历史侧语义子词重分词(IST)+行为共现增强(BCA)的非对称分词，三数据集三骨干全库排序NDCG@10最高+13.8%。</p>
 </dd>
-<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;生成式推荐&quot;,&quot;召回&quot;,&quot;语义ID生成式检索&quot;,&quot;静态价值先验重排&quot;,&quot;流行度偏差&quot;]"><strong><a href="generative_rec/revisiting_generative_vs_dense_retrieval_a_static_value_prior_reverses_the_/">Revisiting Generative vs. Dense Retrieval: A Static Value Prior Reverses the Gap</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
-<dd>
-<p>在受控 GR/DR 对比下揭示指标选择反转胜负，用免训练静态价值先验重排 DR 即反超 GR 最佳物品价值并保持召回领先。</p>
-</dd>
 </dl>
-<p><a href="generative_rec/">查看全部14篇「生成式推荐与离散语义 ID」论文 →</a></p>
+<p><a href="generative_rec/">查看全部15篇「生成式推荐与离散语义 ID」论文 →</a></p>
 </section>
 <section class="paper-section" data-paper-section>
 <hr />
@@ -265,11 +294,15 @@ hide:
 </section>
 <section class="paper-section" data-paper-section>
 <hr />
-<h2 id="cross_domain_multi_scenario">🌐 跨域与多场景推荐 (4)</h2>
+<h2 id="cross_domain_multi_scenario">🌐 跨域与多场景推荐 (5)</h2>
 <dl data-paper-list>
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;负迁移抑制&quot;,&quot;双专家门控&quot;,&quot;物品级对比学习&quot;]"><strong><a href="cross_domain_multi_scenario/a_dual_expert_strategy_integrating_llms_to_mitigate_negative_transfer_in_cr/">A Dual-Expert Strategy Integrating LLMs to Mitigate Negative Transfer in Cross-Domain Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用域门控双专家+物品级注意力掩码+双池负采样对比学习，抑制 LLM 跨域序列推荐中的负迁移，10 域上超越 26 个基线，线上 CTR 相对提升 47.6%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;跨域与多场景推荐&quot;,&quot;重排&quot;,&quot;域感知条件化&quot;,&quot;跨域序列建模&quot;,&quot;游戏匹配&quot;]"><strong><a href="cross_domain_multi_scenario/champ_cross_domain_hybrid_architecture_for_matchmaking_and_prediction_in_on/">CHAMP: Cross-domain Hybrid Architecture for Matchmaking and Prediction in Online Multi-Player Games</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>以 DAKE 域 token 条件化 OmniNet 编码器，单模型服务多游戏模式匹配重排，Elite 胜率预测 67.73%，新手 5 分钟击杀崩盘率降 20.73%。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;表征级迁移&quot;,&quot;纵向联邦学习&quot;,&quot;序列推荐&quot;]"><strong><a href="cross_domain_multi_scenario/cross_domain_sequential_recommendation_with_representation_level_user_trans/">Cross-Domain Sequential Recommendation with Representation-Level User Transfer</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -287,7 +320,17 @@ hide:
 </section>
 <section class="paper-section" data-paper-section>
 <hr />
-<h2 id="ctr_feature_interaction">🎯 CTR/CVR 预估与特征交叉 (5)</h2>
+<h2 id="poi_spatiotemporal_rec">📍 时空轨迹与 POI 本地生活推荐 (1)</h2>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;时空轨迹与 POI 本地生活推荐&quot;,&quot;召回/端到端生成式&quot;,&quot;个性化路线规划&quot;,&quot;对偶图链路代价&quot;,&quot;矫正提升多样性&quot;]"><strong><a href="poi_spatiotemporal_rec/genmrp_a_generative_multi_route_planning_framework_for_efficient_and_person/">GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用骨架-毛细血管子网+链路代价模型+矫正提升迭代生成个性化多样路线，离线覆盖率超基线 5.8%，已在高德全量上线。</p>
+</dd>
+</dl>
+</section>
+<section class="paper-section" data-paper-section>
+<hr />
+<h2 id="ctr_feature_interaction">🎯 CTR/CVR 预估与特征交叉 (6)</h2>
 <dl data-paper-list>
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;召回&quot;,&quot;竞价感知建模&quot;,&quot;多阶段一致性&quot;]"><strong><a href="ctr_feature_interaction/bidding_aware_retrieval_for_multi_stage_consistency_in_online_advertising/">Bidding-Aware Retrieval for Multi-Stage Consistency in Online Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -304,6 +347,10 @@ hide:
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;多值因果干预&quot;,&quot;去偏CTR&quot;,&quot;Uplift建模&quot;]"><strong><a href="ctr_feature_interaction/jointly_optimizing_debiased_ctr_and_uplift_for_coupons_marketing_a_unified_/">Jointly Optimizing Debiased CTR and Uplift for Coupons Marketing: A Unified Causal Framework</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>UniMVT 用 MoE 解耦混淆表征 + logit 空间单调线性假设，统一估计去偏 Base CTR 与多值券面额 Uplift，线上收入 +18.14%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;残差量化&quot;,&quot;序感知表征学习&quot;,&quot;连续值回归&quot;]"><strong><a href="ctr_feature_interaction/rq_reg_a_residual_quantization_based_framework_for_continuous_value_predict/">RQ-Reg: A Residual-Quantization-Based Framework for Continuous Value Prediction in Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用残差量化把连续值拆成由粗到细码序列做自回归预测，序感知对比约束嵌入，离线回归指标与线上 GMV A/B 双验证。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;全空间样本建模&quot;,&quot;异构特征交互&quot;,&quot;数据-模型协同缩放&quot;]"><strong><a href="ctr_feature_interaction/uniscale_synergistic_entire_space_data_and_model_scaling_for_search_ranking/">UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -339,7 +386,7 @@ hide:
 </section>
 <section class="paper-section" data-paper-section>
 <hr />
-<h2 id="rl_bandit_rec">🎮 强化学习与动态探索推荐 (2)</h2>
+<h2 id="rl_bandit_rec">🎮 强化学习与动态探索推荐 (3)</h2>
 <dl data-paper-list>
 <dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;重排&quot;,&quot;Off-Policy Learning&quot;,&quot;Top-k Policy Decomposition&quot;]"><strong><a href="rl_bandit_rec/efficient_offline_learning_of_ranking_policies_via_top_k_policy_decompositi/">Efficient Offline Learning of Ranking Policies via Top-$k$ Policy Decomposition</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -349,11 +396,15 @@ hide:
 <dd>
 <p>用知识追踪模拟器内进化搜索合成专家路径，蒸馏为仅凭初始掌握度盲规划的非对称 Actor-Critic，实现免模拟器部署的学习路径推荐。</p>
 </dd>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排/序列决策&quot;,&quot;奖励塑形&quot;,&quot;视觉显著性&quot;]"><strong><a href="rl_bandit_rec/visalrec_visual_and_saliency_informed_reward_augmentation_for_sequential_re/">ViSalRec: Visual and Saliency-Informed Reward Augmentation for Sequential Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>将商品图、合成显著性与多模态 LLM 判断转为稠密奖励注入 SA2C；Amazon 上 NDCG@10 最高 +27.0%，但收益受数据密度与训练变体制约。</p>
+</dd>
 </dl>
 </section>
 <section class="paper-section" data-paper-section>
 <hr />
-<h2 id="debias_fairness_industrial">🛡️ 去偏公平、可信隐私与工业架构 (4)</h2>
+<h2 id="debias_fairness_industrial">🛡️ 去偏公平、可信隐私与工业架构 (5)</h2>
 <dl data-paper-list>
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;去偏公平与可信推荐&quot;,&quot;召回前过滤&quot;,&quot;内容过时性&quot;,&quot;知识蒸馏&quot;,&quot;多模态流量预测&quot;]"><strong><a href="debias_fairness_industrial/decomposing_staleness_in_recommender_systems_a_dual_filter_framework_for_su/">Decomposing Staleness in Recommender Systems: A Dual-Filter Framework for Supersession and Decay</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -370,6 +421,10 @@ hide:
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;去偏公平与可信推荐&quot;,&quot;重排&quot;,&quot;轮播界面评估&quot;,&quot;位置折扣&quot;,&quot;眼动数据&quot;]"><strong><a href="debias_fairness_industrial/revisiting_n2dcg_an_empirically_grounded_reformulation_of_carousel_recommen/">Revisiting N2DCG: An Empirically Grounded Reformulation of Carousel Recommendation Evaluation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>修正 N2DCG 的理想排序类别约束与镜像 F 型折扣，提出类别感知归一化与行-页折扣，在眼动数据与 2 万次布局仿真中显著提升评估保真度。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;推理端/精排&quot;,&quot;Machine Unlearning&quot;,&quot;Sequential Recommendation&quot;,&quot;Influence Subtraction&quot;]"><strong><a href="debias_fairness_industrial/surf_subtractive_updates_for_recommender_forgetting/">SURF: Subtractive Updates for Recommender Forgetting</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>提出推理期减影遗忘框架 SURF，kNN 邻域辅助模型减分，NDCG@20 最高 +32%，仅 2% 重训预算。</p>
 </dd>
 </dl>
 </section>

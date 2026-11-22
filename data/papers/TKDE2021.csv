@@ -1,0 +1,6 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Learning to Recommend with Multiple Cascading Behaviors,1809.08161,https://arxiv.org/abs/1809.08161,,multi_task_reranking,TKDE,2021
+Sampler Design for Bayesian Personalized Ranking by Leveraging View Data,1809.08162,https://arxiv.org/abs/1809.08162,,collaborative_filtering,TKDE,2021
+Coupled Graphs and Tensor Factorization for Recommender Systems and Community Detection,1809.08353,https://arxiv.org/abs/1809.08353,,collaborative_filtering,TKDE,2021
+Deep Collaborative Filtering with Multi-Aspect Information in Heterogeneous Networks,1909.06627,https://arxiv.org/abs/1909.06627,,graph_rec,TKDE,2021
+Statistically Robust Evaluation of Stream-Based Recommender Systems,,https://repositorio.inesctec.pt/server/api/core/bitstreams/d8eb293a-e6d7-4994-a954-424871621ce5/content,,debias_fairness_industrial,TKDE,2021

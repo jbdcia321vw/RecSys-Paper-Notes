@@ -1,0 +1,24 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure,2103.01453,https://arxiv.org/abs/2103.01453,,rl_bandit_rec,AAAI,2021
+Comparison Lift: Bandit-based Experimentation System for Online Advertising,2009.07899,https://arxiv.org/abs/2009.07899,,rl_bandit_rec,AAAI,2021
+Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation,2012.06852,https://arxiv.org/abs/2012.06852,https://github.com/xiaxin1998/DHCN,sequential_rec,AAAI,2021
+"Educational Question Mining At Scale: Prediction, Analysis and Personalization",2003.05980,https://arxiv.org/abs/2003.05980,,collaborative_filtering,AAAI,2021
+A Hybrid Bandit Framework for Diversified Recommendation,2012.13245,https://arxiv.org/abs/2012.13245,,rl_bandit_rec,AAAI,2021
+Explaining Neural Matrix Factorization with Gradient Rollback,2010.05516,https://arxiv.org/abs/2010.05516,,collaborative_filtering,AAAI,2021
+Knowledge-aware Coupled Graph Neural Network for Social Recommendation,2110.03987,https://arxiv.org/abs/2110.03987,https://github.com/xhcdream/KCGN,social_group_rec,AAAI,2021
+On Estimating Recommendation Evaluation Metrics under Sampling,2103.01474,https://arxiv.org/abs/2103.01474,,debias_fairness_industrial,AAAI,2021
+Learning to Recommend from Sparse Data via Generative User Feedback,1910.12735,https://arxiv.org/abs/1910.12735,,collaborative_filtering,AAAI,2021
+FairRec: Fairness-aware News Recommendation with Decomposed Adversarial Learning,2006.16742,https://arxiv.org/abs/2006.16742,,debias_fairness_industrial,AAAI,2021
+Detecting Beneficial Feature Interactions for Recommender Systems,2008.00404,https://arxiv.org/abs/2008.00404,,ctr_feature_interaction,AAAI,2021
+Dynamic Memory based Attention Network for Sequential Recommendation,2102.09269,https://arxiv.org/abs/2102.09269,,sequential_rec,AAAI,2021
+Capturing Delayed Feedback in Conversion Rate Prediction via Elapsed-Time Sampling,2012.03245,https://arxiv.org/abs/2012.03245,,ctr_feature_interaction,AAAI,2021
+DEAR: Deep Reinforcement Learning for Online Advertising Impression in Recommender Systems,1909.03602,https://arxiv.org/abs/1909.03602,,rl_bandit_rec,AAAI,2021
+Personalized Adaptive Meta Learning for Cold-start User Preference Prediction,2012.11842,https://arxiv.org/abs/2012.11842,,cold_start_rec,AAAI,2021
+Cold-start Sequential Recommendation via Meta Learner,2012.05462,https://arxiv.org/abs/2012.05462,,cold_start_rec,AAAI,2021
+Out-of-Town Recommendation with Travel Intention Modeling,2101.12555,https://arxiv.org/abs/2101.12555,,poi_spatiotemporal_rec,AAAI,2021
+A General Offline Reinforcement Learning Framework for Interactive Recommendation,2310.00678,https://arxiv.org/abs/2310.00678,,rl_bandit_rec,AAAI,2021
+Graph-Enhanced Multi-Task Learning of Multi-Level Transition Dynamics for Session-based Recommendation,2110.03996,https://arxiv.org/abs/2110.03996,,sequential_rec,AAAI,2021
+Non-invasive Self-attention for Side Information Fusion in Sequential Recommendation,2103.03578,https://arxiv.org/abs/2103.03578,,sequential_rec,AAAI,2021
+Knowledge-Enhanced Top-K Recommendation in Poincaré Ball,2101.04852,https://arxiv.org/abs/2101.04852,,graph_rec,AAAI,2021
+Reinforcement Learning with a Disentangled Universal Value Function for Item Recommendation,2104.02981,https://arxiv.org/abs/2104.02981,,rl_bandit_rec,AAAI,2021
+Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation,2110.04000,https://arxiv.org/abs/2110.04000,https://github.com/akaxlh/KHGT,graph_rec,AAAI,2021

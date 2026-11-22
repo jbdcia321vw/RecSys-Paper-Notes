@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Passing on Wisdom: LLM-Driven Cascaded Knowledge Distillation for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3675423",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pretrained Model Recommendation for Downstream Fine-Tuning",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3701263",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchical Document-Aware Interest Profiling in Personalized Search",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3658355",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SAFA: Sequential Recommendation With Adaptive Sparse Attention and Frequency-Aware Encoding",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3686613",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A3BRec: A Novel Association-Integration Sequential Basket Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2025.3630571",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "M4Rec: Multi-Modal Knowledge Graph Modeling of Multi-Dimensional User Preferences for Next-POI Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3677245",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Data Augmentation for Sequential Recommendation: A Survey",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3692969",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Why is Repeated Padding Effective for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3715453",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3699701",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Attacks and Detections in Recommender Systems: A Comprehensive Analysis for Models, Progresses, and Trends",
+    "ee": "https://doi.org/10.1109/TKDE.2025.3639434",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Behavior-Aware Consistent Distillation for Cold-Start Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3705082",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Integrating Entropy Regulation and Dual-Objective Optimization for Personalized Exercise Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3693866",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Adaptive Graph Convolution With Diffusion Models for Multimodal Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3706381",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Controllable Exploration-Exploitation in User-Item Interactions Toward Long-Term Recommendation Gains: A Pane-Aware Graph Transformer Architecture",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3689197",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Toward Personalized Differentially Private Learning for Decentralized Local Graphs",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3710808",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Beyond Time as Context: Joint Item-Time Prediction for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3717641",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Interest-Aware Graph Contrastive Learning for Recommendation With Diffusion-Based Augmentation",
+    "ee": "https://doi.org/10.1109/TKDE.2025.3620600",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "BPL: Bias-Adaptive Preference Distillation Learning For Recommender System",
+    "ee": "https://doi.org/10.1109/TKDE.2025.3619575",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SemDiff: Semantic Guided Diffusion-Based Collaborative Filtering Framework",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3681070",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Democratic Recommendation With User and Item Representatives Produced by Graph Condensation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3669777",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "UGLP: Unifying Global and Local Preferences for Multi-behavior Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3678066",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Double Enhancement Framework for Long-Tail Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3671215",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Contrastive Paradigm for Representation Learning in Interactive Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3722877",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Survey on Recommendation Unlearning: Fundamentals, Taxonomy, Evaluation, and Open Questions",
+    "ee": "https://doi.org/10.1109/TKDE.2025.3638174",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge Graph-Based Debiasing for Trustworthy Recommendation Systems",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3702349",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Training-Free and Unbiased Graph Collaborative Filtering for Personalized Recommendations",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3669816",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Toward Practical Large-Scale Dynamic Heterogeneous Graph Embedding: Cold-Start Resilient Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3728237",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Training-Free Graph-Based Imputation of Missing Modalities in Multimodal Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3667005",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Large Language Model Empowered Recommendation Meets All-Domain Continual Pre-Training",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3717059",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Intra-Group Individual Item Fairness-Aware Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3683437",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploring Backdoor Attack and Defense for LLM-Empowered Recommendations",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3690651",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Memory Is No Longer a Bottleneck: Memory-Efficient Graph Filtering for Scalable Collaborative Filtering",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3704986",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ACD: Adversarial Counterfactual Distillation for Rating Prediction in Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2025.3637767",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3694421",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cluster-Enhanced Dual Discrete Collaborative Filtering for Efficient Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2025.3624659",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Intent Understanding and Preference Learning for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3668240",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "IFCDR: A Cross-Domain Information Fusion-Based Architecture for Cross Domain Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3708751",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Contrastive Learning for Modeling Sensitive Attributes in Fairness-Aware Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3676999",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sharpness-Aware Poisoning: Enhancing Transferability of Injective Attacks on Recommender Systems",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3682785",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Collaborative-Guided Diffusion for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3722938",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Spatial-Temporal Multimodal Large Language Model for Generative Recommendation in Alipay",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3658153",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mix-Attention for Multimodal Large Language Model-Enhanced Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3727279",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reliable Distillation of Recommendation Rationales From Large Language Models for Conversational Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3725108",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hypergraph-Structured Variational Inference for Next-Basket Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3720221",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Moon: A Modality Conversion-Based Efficient Multivariate Time Series Anomaly Detection",
+    "ee": "https://doi.org/10.1109/TKDE.2025.3622154",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "pFedMoE: Data-Level Personalization With Mixture of Experts in Model-Heterogeneous Personalized Federated Learning",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3656194",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Efficient Poisoning Attacks Against Reinforcement Learning-Based Recommender Systems",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3722474",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ProitMTA: A Multi-Target Model Poisoning Attack Framework for Federated Recommendation Systems With Proxy Items",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3678755",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CIREC: Causal Intervention-Inspired Policy Learning to Mitigate Exposure Bias for Interactive Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2025.3622687",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AdaPrompt: Adaptive Prompt Learning to Alleviate Semantic Inconsistency for Conversational Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2026.3719576",
+    "key": "dblp_sparql"
+  }
+]

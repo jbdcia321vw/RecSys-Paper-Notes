@@ -64,3 +64,14 @@ Decomposing Staleness in Recommender Systems: A Dual-Filter Framework for Supers
 SORT: A Systematically Optimized Ranking Transformer for Industrial-scale Recommenders,2603.03988,https://arxiv.org/abs/2603.03988,,multi_task_reranking,CIKM,2026
 MERGE: Next-Generation Item Indexing Paradigm for Large-Scale Streaming Recommendation,2601.20199,https://arxiv.org/abs/2601.20199,https://github.com/baiyimeng/MERGE,generative_rec,CIKM,2026
 Towards Comprehensible Recommendation with Large Language Model Fine-tuning,2508.07595,https://arxiv.org/abs/2508.07595,,llm_rec,CIKM,2026
+CHAMP: Cross-domain Hybrid Architecture for Matchmaking and Prediction in Online Multi-Player Games,2609.04870,https://arxiv.org/abs/2609.04870,,cross_domain_multi_scenario,CIKM,2026
+Efficient Generative Retrieval for E-commerce Search with Semantic Cluster IDs and Expert-Guided RL,2605.14434,https://arxiv.org/abs/2605.14434,,generative_rec,CIKM,2026
+GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation,2602.04174,https://arxiv.org/abs/2602.04174,,poi_spatiotemporal_rec,CIKM,2026
+NewsReX: An Open-Source Multi-Framework for Neural News Recommendation,2508.21572,https://arxiv.org/abs/2508.21572,https://github.com/igor17400/NewsReX,sequential_rec,CIKM,2026
+An Industrial-Scale Sequential Recommender for LinkedIn Feed Ranking,2602.12354,https://arxiv.org/abs/2602.12354,,sequential_rec,CIKM,2026
+SURF: Subtractive Updates for Recommender Forgetting,2609.18695,https://arxiv.org/abs/2609.18695,https://github.com/FilippoBetello/SURF,debias_fairness_industrial,CIKM,2026
+Retrieve-then-Adapt: Retrieval-Augmented Test-Time Adaptation for Sequential Recommendation,2604.05379,https://arxiv.org/abs/2604.05379,,sequential_rec,CIKM,2026
+RQ-Reg: A Residual-Quantization-Based Framework for Continuous Value Prediction in Recommender Systems,2602.23012,https://arxiv.org/abs/2602.23012,,ctr_feature_interaction,CIKM,2026
+A Probabilistic Framework for Temporal Distribution Generalization in Industry-Scale Recommender Systems,2511.21032,https://arxiv.org/abs/2511.21032,https://github.com/FuCongResearchSquad/ELBO4TDS,self_supervised_denoising,CIKM,2026
+ViSalRec: Visual and Saliency-Informed Reward Augmentation for Sequential Recommender Systems,,https://eprints.gla.ac.uk/392722/2/392722.pdf,,rl_bandit_rec,CIKM,2026
+Higher Capacity Transfer into JPQ Item Codes for Scalable Sequential Recommendation,,https://eprints.gla.ac.uk/392429/2/392429.pdf,,sequential_rec,CIKM,2026

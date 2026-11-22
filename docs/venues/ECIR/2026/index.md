@@ -5,9 +5,9 @@ hide:
 
 # 🏛️ ECIR 2026 推荐系统论文解读
 
-11 篇 ECIR 2026 论文解读，覆盖 7 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
+13 篇 ECIR 2026 论文解读，覆盖 8 个推荐系统细分方向。每篇均包含一句话总结、核心思想、实验设置与审稿级批判，5 分钟读懂一篇论文。
 
-🔥 **高频主题：** 去偏公平与可信推荐 ×2 · 大语言模型推荐 ×2
+🔥 **高频主题：** 大语言模型推荐 ×3 · 去偏公平与可信推荐 ×2
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -21,9 +21,10 @@ hide:
   </div>
   <div class="paper-tag-filter__chips">
 <button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">6</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">2</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>
@@ -51,6 +52,16 @@ hide:
 </section>
 <section class="paper-section" data-paper-section>
 <hr />
+<h2 id="sequential_rec">⏱️ 序列与会话推荐 (1)</h2>
+<dl data-paper-list>
+<dt data-paper-tags="[&quot;ECIR 2026&quot;,&quot;序列与会话推荐&quot;,&quot;召回/排序&quot;,&quot;频域重标定&quot;,&quot;可复现性&quot;]"><strong><a href="sequential_rec/a_systematic_reproducibility_study_of_bsarec_for_sequential_recommendation/">A Systematic Reproducibility Study of BSARec for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>系统复现BSARec，提出scaled DC频率度量，检验DWT/残差与padding，在7个基准上给出可复现性边界。</p>
+</dd>
+</dl>
+</section>
+<section class="paper-section" data-paper-section>
+<hr />
 <h2 id="generative_rec">✨ 生成式推荐与离散语义 ID (1)</h2>
 <dl data-paper-list>
 <dt data-paper-tags="[&quot;ECIR 2026&quot;,&quot;生成式推荐&quot;,&quot;召回&quot;,&quot;层次化语义ID&quot;,&quot;平衡树构建&quot;,&quot;约束k-means加速&quot;]"><strong><a href="generative_rec/efficient_optimization_of_hierarchical_identifiers_for_generative_recommend/">Efficient Optimization of Hierarchical Identifiers for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
@@ -61,8 +72,12 @@ hide:
 </section>
 <section class="paper-section" data-paper-section>
 <hr />
-<h2 id="llm_rec">🧠 大语言模型推荐 (LLM4Rec) (2)</h2>
+<h2 id="llm_rec">🧠 大语言模型推荐 (LLM4Rec) (3)</h2>
 <dl data-paper-list>
+<dt data-paper-tags="[&quot;ECIR&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;Thought Space 对比对齐&quot;,&quot;理由监督信号&quot;,&quot;小语言模型&quot;]"><strong><a href="llm_rec/from_what_to_why_thought_space_recommendation_with_small_language_models/">From What to Why: Thought-Space Recommendation with Small Language Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用 4B 小模型生成理由并与行为做对比对齐，构建 Thought Space 选理由后 SFT 精排，HR@1 显著超越十亿级 LLM 基线。</p>
+</dd>
 <dt data-paper-tags="[&quot;ECIR 2026&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;用户画像蒸馏&quot;,&quot;序列推荐&quot;]"><strong><a href="llm_rec/pre_trained_llms_meet_sequential_recommenders_efficient_user_centric_knowle/">Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用预训练 LLM 生成文本用户画像并蒸馏进 SASRec/BERT4Rec 隐层，两阶段训练实现零推理开销的语义增强，Recall@10 最高提升 23.5%。</p>

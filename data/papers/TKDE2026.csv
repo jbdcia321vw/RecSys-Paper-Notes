@@ -6,3 +6,11 @@ MIDA: Multi-Interest Decoding with Adaptive Aggregation for Session-based Recomm
 Memory Is No Longer a Bottleneck: Memory-Efficient Graph Filtering for Scalable Collaborative Filtering,2606.21540,https://arxiv.org/abs/2606.21540,,collaborative_filtering,TKDE,2026
 Quantifying and Minimizing Perception Gap in Social Networks,2511.12106,https://arxiv.org/abs/2511.12106,,social_group_rec,TKDE,2026
 Reason4Rec: Deliberative User Preference Alignment of Large Language Models for Recommendation,2502.02061,https://arxiv.org/abs/2502.02061,https://github.com/Peter-Fy/Reason4Rec,llm_rec,TKDE,2026
+BPL: Bias-adaptive Preference Distillation Learning for Recommender System,2510.16076,https://arxiv.org/abs/2510.16076,https://github.com/SeongKu-Kang/BPL,debias_fairness_industrial,TKDE,2026
+Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation,2503.22675,https://arxiv.org/abs/2503.22675,,sequential_rec,TKDE,2026
+Large Language Model Empowered Recommendation Meets All-domain Continual Pre-Training,2504.08949,https://arxiv.org/abs/2504.08949,,llm_rec,TKDE,2026
+Exploring Backdoor Attack and Defense for LLM-empowered Recommendations,2504.11182,https://arxiv.org/abs/2504.11182,,debias_fairness_industrial,TKDE,2026
+Pre-Trained Model Recommendation for Downstream Fine-tuning,2403.06382,https://arxiv.org/abs/2403.06382,,collaborative_filtering,TKDE,2026
+Data Augmentation for Sequential Recommendation: A Survey,2409.13545,https://arxiv.org/abs/2409.13545,https://github.com/KingGugu/DA-CL-4Rec,sequential_rec,TKDE,2026
+Democratic Recommendation with User and Item Representatives Produced by Graph Condensation,2511.18279,https://arxiv.org/abs/2511.18279,,graph_rec,TKDE,2026
+Sharpness-Aware Poisoning: Enhancing Transferability of Injective Attacks on Recommender Systems,2604.22170,https://arxiv.org/abs/2604.22170,,debias_fairness_industrial,TKDE,2026

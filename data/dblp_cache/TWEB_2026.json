@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Rethinking Homogeneity in Interactive Recommendation: Dynamic Fine-Grained Control for Mitigating Filter Bubbles",
+    "ee": "https://doi.org/10.1145/3828182",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Beyond Trade-offs: Leveraging Spatiotemporal Heterogeneity of User Preference for Long-term Fairness and Accuracy in Interactive Recommendation",
+    "ee": "https://doi.org/10.1145/3769471",
+    "key": "dblp_sparql"
+  }
+]

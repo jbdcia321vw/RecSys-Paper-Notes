@@ -3,3 +3,26 @@ Mitigating Popularity Bias in Recommendation with Global Listwise Learning and P
 CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations,2604.14586,https://arxiv.org/abs/2604.14586,https://github.com/HsipingLi/CPGRec-Plus,graph_rec,TOIS,2026
 HypeMed: Enhancing Medication Recommendations with Hypergraph-Based Patient Relationships,2603.18459,https://arxiv.org/abs/2603.18459,,graph_rec,TOIS,2026
 Causal-Invariant Cross-Domain Out-of-Distribution Recommendation,2505.16532,https://arxiv.org/abs/2505.16532,,cross_domain_multi_scenario,TOIS,2026
+Why not Collaborative Filtering in Dual View? Bridging Sparse and Dense Models,2601.09286,https://arxiv.org/abs/2601.09286,https://github.com/harris26-G/SaD,collaborative_filtering,TOIS,2026
+A Comprehensive Survey on Retrieval Methods in Recommender Systems,2407.21022,https://arxiv.org/abs/2407.21022,,collaborative_filtering,TOIS,2026
+Multi-Interest Recommendation: A Survey,2506.15284,https://arxiv.org/abs/2506.15284,https://github.com/WHUIR/Multi-Interest-Recommendation-A-Survey,sequential_rec,TOIS,2026
+Divide-and-Conquer: Cold-Start Bundle Recommendation via Mixture of Diffusion Experts,2505.05035,https://arxiv.org/abs/2505.05035,,cold_start_rec,TOIS,2026
+Negative Sampling in Recommendation: A Survey and Future Directions,2409.07237,https://arxiv.org/abs/2409.07237,,collaborative_filtering,TOIS,2026
+Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation,2504.02458,https://arxiv.org/abs/2504.02458,,debias_fairness_industrial,TOIS,2026
+RuleAgent: Discovering Rules for Recommendation Denoising with Autonomous Language Agents,2503.23374,https://arxiv.org/abs/2503.23374,,self_supervised_denoising,TOIS,2026
+LLM4DSR: Leveraging Large Language Model for Denoising Sequential Recommendation,2408.08208,https://arxiv.org/abs/2408.08208,,sequential_rec,TOIS,2026
+Understanding Internal Representations of Recommendation Models with Sparse Autoencoders,2411.06112,https://arxiv.org/abs/2411.06112,,debias_fairness_industrial,TOIS,2026
+Embedding in Recommender Systems: A Survey,2310.18608,https://arxiv.org/abs/2310.18608,,collaborative_filtering,TOIS,2026
+SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation,2409.01192,https://arxiv.org/abs/2409.01192,https://github.com/ZhangYifeng1995/SSD4Rec,sequential_rec,TOIS,2026
+HMamba: Hyperbolic Mamba for Sequential Recommendation,2505.09205,https://arxiv.org/abs/2505.09205,,sequential_rec,TOIS,2026
+Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation,2411.18631,https://arxiv.org/abs/2411.18631,,cross_domain_multi_scenario,TOIS,2026
+Towards Multi-Behavior Multi-Task Recommendation via Behavior-informed Graph Embedding Learning,2601.07294,https://arxiv.org/abs/2601.07294,,multi_task_reranking,TOIS,2026
+RosePO: Aligning LLM-based Recommenders with Human Values,2410.12519,https://arxiv.org/abs/2410.12519,,llm_rec,TOIS,2026
+Knowledge Graph Pruning for Recommendation,2405.11531,https://arxiv.org/abs/2405.11531,,graph_rec,TOIS,2026
+GANPrompt: Enhancing Robustness in LLM-Based Recommendations with GAN-Enhanced Diversity Prompts,2408.09671,https://arxiv.org/abs/2408.09671,,llm_rec,TOIS,2026
+Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations,2602.08067,https://arxiv.org/abs/2602.08067,,rl_bandit_rec,TOIS,2026
+When Graph Contrastive Learning Backfires: Spectral Vulnerability and Defense in Recommendation,2507.07436,https://arxiv.org/abs/2507.07436,,debias_fairness_industrial,TOIS,2026
+Large Language Model Can Interpret Latent Space of Sequential Recommender,2310.20487,https://arxiv.org/abs/2310.20487,https://github.com/YangZhengyi98/RecInterpreter,llm_rec,TOIS,2026
+Regret-aware Re-ranking for Guaranteeing Two-sided Fairness and Accuracy in Recommender Systems,2504.14550,https://arxiv.org/abs/2504.14550,,debias_fairness_industrial,TOIS,2026
+Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation,2406.03933,https://arxiv.org/abs/2406.03933,https://github.com/hongleizhang/FedCA,debias_fairness_industrial,TOIS,2026
+DynLLM: When Large Language Models Meet Dynamic Graph Recommendation,2405.07580,https://arxiv.org/abs/2405.07580,,llm_rec,TOIS,2026

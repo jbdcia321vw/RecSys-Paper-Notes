@@ -1,0 +1,147 @@
+[
+  {
+    "title": "Position-Aware Deep Character-Level CTR Prediction for Sponsored Search",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2941881",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "BS-SC: An Unsupervised Approach for Detecting Shilling Profiles in Collaborative Recommender Systems",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2946247",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Social-Enhanced Attentive Group Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2936475",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sampler Design for Bayesian Personalized Ranking by Leveraging View Data",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2931327",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Unveiling Hidden Implicit Similarities for Cross-Domain Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2923904",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "POLAR++: Active One-Shot Personalized Article Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2953721",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Link Prediction Under Imperfect Detection: Collaborative Filtering for Ecological Networks",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2962031",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning to Recommend With Multiple Cascading Behaviors",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2958808",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Hybrid Recommender System for Improving Automatic Playlist Continuation",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2952099",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Route Recommendations for Intelligent Transportation Services",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2937864",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Coupled Graphs and Tensor Factorization for Recommender Systems and Community Detection",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2941716",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "The Framework of Personalized Ranking on Poisson Factorization",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2924894",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Discrete Matrix Factorization and Extension for Fast Item Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2951386",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Product Quantized Collaborative Filtering",
+    "ee": "https://doi.org/10.1109/TKDE.2020.2964232",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mixture Matrix Approximation for Collaborative Filtering",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2955100",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "On Both Cold-Start and Long-Tail Recommendation with Social Data",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2924656",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Matrix Factorization with Interval-Valued Data",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2942310",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Social Recommendation With Learning Personal and Social Latent Factors",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2961666",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Co-Attention Memory Network for Multimodal Microblog's Hashtag Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2932406",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep Variational Matrix Factorization with Knowledge Embedding for Recommendation System",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2952849",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep Collaborative Filtering with Multi-Aspect Information in Heterogeneous Networks",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2941938",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Neural Attention Frameworks for Explainable Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2953157",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Statistically Robust Evaluation of Stream-Based Recommender Systems",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2960216",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "HKMF-T: Recover From Blackouts in Tagged Time Series With Hankel Matrix Factorization",
+    "ee": "https://doi.org/10.1109/TKDE.2020.2971190",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Recommender Systems With a Stimulus-Evoked Curiosity Mechanism",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2957770",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Site User Behavior Modeling and Its Application in Video Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2926078",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CAPER: Context-Aware Personalized Emoji Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2020.2966971",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Photo2Trip: Exploiting Visual Contents in Geo-Tagged Photos for Personalized Tour Recommendation",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2943854",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Privacy-Preserving Distributed Contextual Federated Online Learning Framework with Big Data Support in Social Recommender Systems",
+    "ee": "https://doi.org/10.1109/TKDE.2019.2936565",
+    "key": "dblp_sparql"
+  }
+]

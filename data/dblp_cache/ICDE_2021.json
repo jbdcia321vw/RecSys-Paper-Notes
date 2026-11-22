@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Countering Bias in Personalized Rankings : From Data Engineering to Algorithm Development",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00266",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Aware Group Representation Learning for Group Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00139",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Attacking Black-box Recommendations via Copying Cross-domain User Profiles",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00140",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Collecting Geospatial Data with Local Differential Privacy for Personalized Services",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00230",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Purchase Intent Forecasting with Convolutional Hierarchical Transformer Networks",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00281",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Privacy-Enhanced and Personalized Safe Route Planner with Crowdsourced Data and Computation",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00027",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learnings from a Retail Recommendation System on Billions of Interactions at bol.com",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00277",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Large-scale Fake Click Detection for E-commerce Recommendation Systems",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00290",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reliable Recommendation with Review-level Explanations",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00137",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Semantic Modeling for Food Recommendation Explanations",
+    "ee": "https://doi.org/10.1109/ICDEW53142.2021.00010",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Fairness in Rankings and Recommenders: Models, Methods and Research Directions",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00265",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "IPS: Unified Profile Management for Ubiquitous Online Recommendations",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00288",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Facet Recommender Networks with Spherical Optimization",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00135",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving Conversational Recommender System by Pretraining Billion-scale Knowledge Graph",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00291",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Behavior Enhanced Recommendation with Cross-Interaction Collaborative Relation Modeling",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00179",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Explore User Neighborhood for Real-time E-commerce Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00279",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sequential Recommendation on Dynamic Heterogeneous Information Network",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00208",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ATNN: Adversarial Two-Tower Neural Network for New Item's Popularity Prediction in E-commerce",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00282",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "IntelliTag: An Intelligent Cloud Customer Service System Based on Tag Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00287",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Efficient Matrix Factorization on Heterogeneous CPU-GPU Systems",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00169",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "TIRA in Baidu Image Advertising",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00225",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Group-Buying Recommendation for Social E-Commerce",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00136",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Variational Self-attention Network for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDE51399.2021.00138",
+    "key": "dblp_sparql"
+  }
+]

@@ -1,0 +1,19 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation,2105.03300,https://arxiv.org/abs/2105.03300,,cross_domain_multi_scenario,IJCAI,2021
+Recent Advances in Heterogeneous Relation Learning for Recommendation,2110.03455,https://arxiv.org/abs/2110.03455,,graph_rec,IJCAI,2021
+Improving Sequential Recommendation Consistency with Self-Supervised Imitation,2106.14031,https://arxiv.org/abs/2106.14031,,sequential_rec,IJCAI,2021
+"Cross-Domain Recommendation: Challenges, Progress, and Prospects",2103.01696,https://arxiv.org/abs/2103.01696,,cross_domain_multi_scenario,IJCAI,2021
+Deep Learning for Click-Through Rate Estimation,2104.10584,https://arxiv.org/abs/2104.10584,,ctr_feature_interaction,IJCAI,2021
+Graph Learning based Recommender Systems: A Review,2105.06339,https://arxiv.org/abs/2105.06339,,graph_rec,IJCAI,2021
+Exploring Periodicity and Interactivity in Multi-Interest Framework for Sequential Recommendation,2106.04415,https://arxiv.org/abs/2106.04415,,sequential_rec,IJCAI,2021
+Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation,2106.15814,https://arxiv.org/abs/2106.15814,,poi_spatiotemporal_rec,IJCAI,2021
+SafeDrug: Dual Molecular Graph Encoders for Recommending Effective and Safe Drug Combinations,2105.02711,https://arxiv.org/abs/2105.02711,,graph_rec,IJCAI,2021
+"AMEIR: Automatic Behavior Modeling, Interaction Exploration and MLP Investigation in the Recommender System",2006.05933,https://arxiv.org/abs/2006.05933,,ctr_feature_interaction,IJCAI,2021
+On Sampled Metrics for Item Recommendation (Extended Abstract),,https://www.ijcai.org/proceedings/2021/0651.pdf,,debias_fairness_industrial,IJCAI,2021
+MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation,,https://www.ijcai.org/proceedings/2021/0415.pdf,,cold_start_rec,IJCAI,2021
+Does Every Data Instance Matter? Enhancing Sequential Recommendation by Eliminating Unreliable Data,,https://www.ijcai.org/proceedings/2021/0218.pdf,,sequential_rec,IJCAI,2021
+Pattern-enhanced Contrastive Policy Learning Network for Sequential Recommendation,,https://www.ijcai.org/proceedings/2021/0220.pdf,,sequential_rec,IJCAI,2021
+Self-Supervised Adversarial Distribution Regularization for Medication Recommendation,,https://www.ijcai.org/proceedings/2021/0431.pdf,,self_supervised_denoising,IJCAI,2021
+Preference-Adaptive Meta-Learning for Cold-Start Recommendation,,https://www.ijcai.org/proceedings/2021/0222.pdf,,cold_start_rec,IJCAI,2021
+User-as-Graph: User Modeling with Heterogeneous Graph Pooling for News Recommendation,,https://www.ijcai.org/proceedings/2021/0224.pdf,,graph_rec,IJCAI,2021
+UNBERT: User-News Matching BERT for News Recommendation,,https://www.ijcai.org/proceedings/2021/0462.pdf,,llm_rec,IJCAI,2021

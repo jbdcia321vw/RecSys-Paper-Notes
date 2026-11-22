@@ -30,3 +30,28 @@ The Role of Follow Networks and Twitter's Content Recommender on Partisan Skew a
 StyleTailor: Towards Personalized Fashion Styling via Hierarchical Negative Feedback,2508.06555,https://arxiv.org/abs/2508.06555,,agent_conversational_rec,AAAI,2026
 Modeling Item-Level Dynamic Variability with Residual Diffusion for Bundle Recommendation,2507.03280,https://arxiv.org/abs/2507.03280,,generative_rec,AAAI,2026
 Contextualizing Recommendation Explanations with LLMs: A User Study,2501.12152,https://arxiv.org/abs/2501.12152,,llm_rec,AAAI,2026
+ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays,2602.23232,https://arxiv.org/abs/2602.23232,,debias_fairness_industrial,AAAI,2026
+"Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice",2610.42039,https://arxiv.org/abs/2610.42039,,llm_rec,AAAI,2026
+VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning,2507.02626,https://arxiv.org/abs/2507.02626,,agent_conversational_rec,AAAI,2026
+Graph Neural Field with Spatial-Correlation Augmentation for HRTF Personalization,2511.10697,https://arxiv.org/abs/2511.10697,,graph_rec,AAAI,2026
+RecCocktail: A Generalizable and Efficient Framework for LLM-Based Recommendation,2502.08271,https://arxiv.org/abs/2502.08271,,llm_rec,AAAI,2026
+LLM-Aligned Geographic Item Tokenization for Local-Life Recommendation,2511.14221,https://arxiv.org/abs/2511.14221,,generative_rec,AAAI,2026
+Multifaceted Scenario-Aware Hypergraph Learning for Next POI Recommendation,2601.11610,https://arxiv.org/abs/2601.11610,,poi_spatiotemporal_rec,AAAI,2026
+FedAU2: Attribute Unlearning for User-Level Federated Recommender Systems with Adaptive and Robust Adversarial Training,2511.22872,https://arxiv.org/abs/2511.22872,,debias_fairness_industrial,AAAI,2026
+Federated Vision-Language-Recommendation with Personalized Fusion,2410.08478,https://arxiv.org/abs/2410.08478,,multimodal_rec,AAAI,2026
+Adaptive Diffusion-based Augmentation for Recommendation,2601.01448,https://arxiv.org/abs/2601.01448,,self_supervised_denoising,AAAI,2026
+Relative Advantage Debiasing for Watch-Time Prediction in Short-Video Recommendation,2508.11086,https://arxiv.org/abs/2508.11086,,debias_fairness_industrial,AAAI,2026
+Diagnostic-Guided Dynamic Profile Optimization for LLM-based User Simulators in Sequential Recommendation,2508.12645,https://arxiv.org/abs/2508.12645,,agent_conversational_rec,AAAI,2026
+Revisiting Fairness-aware Interactive Recommendation: Item Lifecycle as a Control Knob,2511.16248,https://arxiv.org/abs/2511.16248,,debias_fairness_industrial,AAAI,2026
+Unbiased Rectification for Sequential Recommender Systems Under Fake Orders,2604.08550,https://arxiv.org/abs/2604.08550,,debias_fairness_industrial,AAAI,2026
+Enhancing Conversational Recommender Systems with Tree-Structured Knowledge and Pretrained Language Models,2511.12579,https://arxiv.org/abs/2511.12579,,agent_conversational_rec,AAAI,2026
+DMGIN: How Multimodal LLMs Enhance Large Recommendation Models for Lifelong User Post-click Behaviors,2508.21801,https://arxiv.org/abs/2508.21801,,ctr_feature_interaction,AAAI,2026
+AdaptJobRec: Enhancing Conversational Career Recommendation through an LLM-Powered Agentic System,2508.13423,https://arxiv.org/abs/2508.13423,,agent_conversational_rec,AAAI,2026
+TransFR: Transferable Federated Recommendation with Adapter Tuning on Pre-trained Language Models,2402.01124,https://arxiv.org/abs/2402.01124,,debias_fairness_industrial,AAAI,2026
+SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World,2412.07472,https://arxiv.org/abs/2412.07472,https://github.com/tsinghua-fib-lab/SmartAgent,agent_conversational_rec,AAAI,2026
+GraphRAG-Induced Dual Knowledge Structure Graphs for Personalized Learning Path Recommendation,2506.22303,https://arxiv.org/abs/2506.22303,,graph_rec,AAAI,2026
+M^2VAE: Multi-Modal Multi-View Variational Autoencoder for Cold-start Item Recommendation,2508.00452,https://arxiv.org/abs/2508.00452,,cold_start_rec,AAAI,2026
+Membership Inference Attack against Large Language Model-based Recommendation Systems: A New Distillation-based Paradigm,2511.14763,https://arxiv.org/abs/2511.14763,,debias_fairness_industrial,AAAI,2026
+Diversity Recommendation via Causal Deconfounding of Co-purchase Relations and Counterfactual Exposure,2512.17733,https://arxiv.org/abs/2512.17733,,debias_fairness_industrial,AAAI,2026
+Hyperbolic-Enhanced Mixture-of-Experts Mamba for Sequential Recommendation,,https://eprints.lancs.ac.uk/id/eprint/235608/1/AAAI_2026-Hyperbolic-Enhanced_Mixture.pdf,,sequential_rec,AAAI,2026
+IdeFN: Identifying Unclicked Space False Negatives via Relaxed Partial Optimal Transport for Conversion Rate Prediction,,https://eprints.lancs.ac.uk/id/eprint/235609/1/AAAI_2026-IdeFN.pdf,,ctr_feature_interaction,AAAI,2026

@@ -7,3 +7,21 @@ Balancing Fairness and High Match Rates in Reciprocal Recommender Systems: A Nas
 "Music Recommendation with Large Language Models: Challenges, Opportunities, and Evaluation",2511.16478,https://arxiv.org/abs/2511.16478,,llm_rec,TORS,2026
 Point of Interest Recommendation: Pitfalls and Viable Solutions,2507.13725,https://arxiv.org/abs/2507.13725,,poi_spatiotemporal_rec,TORS,2026
 Diffusion Recommender Models and the Illusion of Progress: A Concerning Study of Reproducibility and a Conceptual Mismatch,2505.09364,https://arxiv.org/abs/2505.09364,,generative_rec,TORS,2026
+Compositions of Variant Experts for Integrating Short-Term and Long-Term Preferences,2506.23170,https://arxiv.org/abs/2506.23170,,sequential_rec,TORS,2026
+Improving Sequential Recommendations with LLMs,2402.01339,https://arxiv.org/abs/2402.01339,,sequential_rec,TORS,2026
+Towards Carbon Footprint-Aware Recommender Systems for Greener Item Recommendation,2503.17201,https://arxiv.org/abs/2503.17201,,multi_task_reranking,TORS,2026
+Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation,2501.13344,https://arxiv.org/abs/2501.13344,,llm_rec,TORS,2026
+Calibrated Recommendations: Survey and Future Directions,2507.02643,https://arxiv.org/abs/2507.02643,,debias_fairness_industrial,TORS,2026
+Enhancing Recommendation Diversity by Re-ranking with Large Language Models,2401.11506,https://arxiv.org/abs/2401.11506,,multi_task_reranking,TORS,2026
+"Understanding Biases in ChatGPT-based Recommender Systems: Provider Fairness, Temporal Stability, and Recency",2401.10545,https://arxiv.org/abs/2401.10545,https://github.com/yasdel/Benchmark_RecLLM_Fairness,debias_fairness_industrial,TORS,2026
+"Recall, Robustness, and Lexicographic Evaluation",2302.11370,https://arxiv.org/abs/2302.11370,,debias_fairness_industrial,TORS,2026
+A cross-domain recommender system using deep coupled autoencoders,2112.07617,https://arxiv.org/abs/2112.07617,,cross_domain_multi_scenario,TORS,2026
+Controlled Personalization in Legacy Media Online Services: A Case Study in News Recommendation,2510.09136,https://arxiv.org/abs/2510.09136,,debias_fairness_industrial,TORS,2026
+Text2Bundle: Towards Personalized Query-based Bundle Generation,2310.18004,https://arxiv.org/abs/2310.18004,,sequential_rec,TORS,2026
+Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations,2405.00824,https://arxiv.org/abs/2405.00824,,llm_rec,TORS,2026
+Breaking Feedback Loops in Recommender Systems with Causal Inference,2207.01616,https://arxiv.org/abs/2207.01616,,debias_fairness_industrial,TORS,2026
+CTRL: Connect Collaborative and Language Model for CTR Prediction,2306.02841,https://arxiv.org/abs/2306.02841,,ctr_feature_interaction,TORS,2026
+Sheaf4Rec: Sheaf Neural Networks for Graph-based Recommender Systems,2304.09097,https://arxiv.org/abs/2304.09097,https://github.com/antoniopurificato/Sheaf4Rec,graph_rec,TORS,2026
+Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models,2408.10520,https://arxiv.org/abs/2408.10520,,llm_rec,TORS,2026
+A Reward-Informed Semi-Personalized Bandit Approach for Enhancing Accuracy and Serendipity in Online Slate Recommendations,,https://biblio.ugent.be/publication/01K9F3ZHWJS4MKH7JXKGNWHGQN/file/01K9P9XVAT4YVR7JJZ996043EC.pdf,,rl_bandit_rec,TORS,2026
+Relevance-aware Individual Item Fairness Measures for Recommender Systems: Limitations and Usage Guidelines,,https://curis.ku.dk/ws/files/545706776/Relevance-aware.pdf,,debias_fairness_industrial,TORS,2026

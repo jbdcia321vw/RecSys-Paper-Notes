@@ -1,0 +1,37 @@
+[
+  {
+    "title": "CAGRec: Collaborative-Anchor Guided Multimodal Generative Recommender",
+    "ee": "https://doi.org/10.1145/3767308.3836121",
+    "key": "crossref"
+  },
+  {
+    "title": "Beyond Noisy Signals: Dual-Level Denoising for Multi-modal Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3767308.3836213",
+    "key": "crossref"
+  },
+  {
+    "title": "PixelRec: From Modality-Level Fusion to Signal-Patch-Level Fusion for Multimodal Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3767308.3835733",
+    "key": "crossref"
+  },
+  {
+    "title": "Towards Transfer-Efficient Multi-modal Sequential Recommendation with State Space Duality",
+    "ee": "https://doi.org/10.1145/3767308.3835152",
+    "key": "crossref"
+  },
+  {
+    "title": "From Transfer to Collaboration: A Federated Framework for Cross-Market Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3767308.3835464",
+    "key": "crossref"
+  },
+  {
+    "title": "Stream-aware Side Adaptation for Large Pre-trained Multimodal Embedding Models in Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3767308.3835073",
+    "key": "crossref"
+  },
+  {
+    "title": "FedMMDP: A Federated Multimodal Domain Personalization Framework with Modality Alignment and Privacy Preservation",
+    "ee": "https://doi.org/10.1145/3767308.3835427",
+    "key": "crossref"
+  }
+]

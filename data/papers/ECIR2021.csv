@@ -1,0 +1,7 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+You Get What You Chat: Using Conversations to Personalize Search-based Recommendations,2109.04716,https://arxiv.org/abs/2109.04716,,agent_conversational_rec,ECIR,2021
+FedeRank: User Controlled Feedback with Federated Recommender Systems,2012.11328,https://arxiv.org/abs/2012.11328,,debias_fairness_industrial,ECIR,2021
+Robustness of Meta Matrix Factorization Against Strict Privacy Constraints,2101.06927,https://arxiv.org/abs/2101.06927,,debias_fairness_industrial,ECIR,2021
+Causality-Aware Neighborhood Methods for Recommender Systems,2012.09442,https://arxiv.org/abs/2012.09442,,debias_fairness_industrial,ECIR,2021
+Metric Learning for Session-based Recommendations,2101.02655,https://arxiv.org/abs/2101.02655,,sequential_rec,ECIR,2021
+A Zero Attentive Relevance Matching Networkfor Review Modeling in Recommendation System,2101.06387,https://arxiv.org/abs/2101.06387,,collaborative_filtering,ECIR,2021

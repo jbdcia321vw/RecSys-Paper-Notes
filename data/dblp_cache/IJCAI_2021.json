@@ -1,0 +1,107 @@
+[
+  {
+    "title": "DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/342",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Exploring Periodicity and Interactivity in Multi-Interest Framework for Sequential Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/197",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Optimal ANN-SNN Conversion for Fast and Accurate Inference in Deep Spiking Neural Networks",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/321",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Recent Advances in Heterogeneous Relation Learning for Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/606",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning to Learn Personalized Neural Network for Ventricular Arrhythmias Detection on Intracardiac EGMs",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/359",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "On Sampled Metrics for Item Recommendation (Extended Abstract)",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/651",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/206",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/415",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Does Every Data Instance Matter? Enhancing Sequential Recommendation by Eliminating Unreliable Data",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/218",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pattern-enhanced Contrastive Policy Learning Network for Sequential Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/220",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Data Efficient Algorithms and Interpretability Requirements for Personalized Assessment of Taskable AI Systems",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/693",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Self-Supervised Adversarial Distribution Regularization for Medication Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/431",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Learning based Recommender Systems: A Review",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/630",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Preference-Adaptive Meta-Learning for Cold-Start Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/222",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "User-as-Graph: User Modeling with Heterogeneous Graph Pooling for News Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/224",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SafeDrug: Dual Molecular Graph Encoders for Recommending Effective and Safe Drug Combinations",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/514",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving Sequential Recommendation Consistency with Self-Supervised Imitation",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/457",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "UNBERT: User-News Matching BERT for News Recommendation",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/462",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep Learning for Click-Through Rate Estimation",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/636",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AMEIR: Automatic Behavior Modeling, Interaction Exploration and MLP Investigation in the Recommender System",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/290",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cross-Domain Recommendation: Challenges, Progress, and Prospects",
+    "ee": "https://doi.org/10.24963/IJCAI.2021/639",
+    "key": "dblp_sparql"
+  }
+]

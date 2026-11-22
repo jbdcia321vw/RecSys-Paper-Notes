@@ -13,3 +13,9 @@ Accelerating Generative Recommendation via Simple Categorical User Sequence Comp
 On-Device Large Language Models for Sequential Recommendation,2601.09306,https://arxiv.org/abs/2601.09306,,llm_rec,WSDM,2026
 Time-Aware Adaptive Side Information Fusion for Sequential Recommendation,2512.24246,https://arxiv.org/abs/2512.24246,https://github.com/jluo00/TASIF,sequential_rec,WSDM,2026
 Capturing User Interests from Data Streams for Continual Sequential Recommendation,2506.07466,https://arxiv.org/abs/2506.07466,,sequential_rec,WSDM,2026
+ChorusCVR: Chorus Supervision for Entire Space Post-Click Conversion Rate Modeling,2502.08277,https://arxiv.org/abs/2502.08277,,ctr_feature_interaction,WSDM,2026
+Sequential Data Augmentation for Generative Recommendation,2509.13648,https://arxiv.org/abs/2509.13648,https://github.com/snap-research/GenPAS,generative_rec,WSDM,2026
+OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service,2508.14646,https://arxiv.org/abs/2508.14646,,generative_rec,WSDM,2026
+MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID Generation and User Behavioral Adaptation,2508.15281,https://arxiv.org/abs/2508.15281,,generative_rec,WSDM,2026
+Abacus: Self-Supervised Event Counting-Aligned Distributional Pretraining for Sequential User Modeling,2512.16581,https://arxiv.org/abs/2512.16581,,ctr_feature_interaction,WSDM,2026
+Dual Conditional Diffusion Models for Sequential Recommendation,2410.21967,https://arxiv.org/abs/2410.21967,,sequential_rec,WSDM,2026

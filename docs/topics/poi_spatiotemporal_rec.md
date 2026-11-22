@@ -7,9 +7,9 @@ hide:
 
 > **研究范畴**：Next-POI 兴趣点推荐、时空序列轨迹建模、LBS 本地生活服务与移动出行推荐
 
-当前方向共收录 **44** 篇顶会/顶刊论文解读：
+当前方向共收录 **60** 篇顶会/顶刊论文解读：
 
-🔥 **高频交叉主题：** 生成式推荐 ×7 · 端到端生成式 ×3 · 去中心化协同学习 ×2 · 扩散模型 ×2 · 语义ID ×2
+🔥 **高频交叉主题：** 生成式推荐 ×7 · 端到端生成式 ×4 · Neural ODE ×2 · 去中心化协同学习 ×2 · 扩散模型 ×2 · 生成式端到端 ×2 · 语义ID ×2
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -22,16 +22,21 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与POI推荐" aria-pressed="false">时空轨迹与POI推荐<span class="paper-tag-filter__count">18</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与POI本地生活推荐" aria-pressed="false">时空轨迹与POI本地生活推荐<span class="paper-tag-filter__count">15</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">14</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">10</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与POI本地生活推荐" aria-pressed="false">时空轨迹与POI本地生活推荐<span class="paper-tag-filter__count">21</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">19</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与POI推荐" aria-pressed="false">时空轨迹与POI推荐<span class="paper-tag-filter__count">19</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">16</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">7</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与 POI 本地生活推荐" aria-pressed="false">时空轨迹与 POI 本地生活推荐<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与 POI 本地生活推荐" aria-pressed="false">时空轨迹与 POI 本地生活推荐<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与 POI 推荐" aria-pressed="false">时空轨迹与 POI 推荐<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Neural ODE" aria-pressed="false">Neural ODE<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去中心化协同学习" aria-pressed="false">去中心化协同学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="扩散模型" aria-pressed="false">扩散模型<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="本地生活推荐" aria-pressed="false">本地生活推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐与离散语义ID" aria-pressed="false">生成式推荐与离散语义ID<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式端到端" aria-pressed="false">生成式端到端<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="语义ID" aria-pressed="false">语义ID<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">2</span></button>
   </div>
@@ -39,6 +44,10 @@ hide:
 </div>
 
 <dl data-paper-list>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;时空轨迹与POI本地生活推荐&quot;,&quot;召回&quot;,&quot;兴趣漂移迁移&quot;,&quot;神经主题模型&quot;]"><strong><a href="../../venues/AAAI/2021/poi_spatiotemporal_rec/out_of_town_recommendation_with_travel_intention_modeling/">Out-of-Town Recommendation with Travel Intention Modeling</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用G-GNN编码家域偏好、NTM无监督挖掘旅行意图、MLP迁移兴趣漂移，异地POI召回相对提升约3%。</p>
+</dd>
 <dt data-paper-tags="[&quot;AAAI 2024&quot;,&quot;时空轨迹与 POI 本地生活推荐&quot;,&quot;端到端策略决策（车辆再定位调度）&quot;,&quot;双智能体顺序决策&quot;,&quot;司机偏好建模&quot;,&quot;供需平衡&quot;]"><strong><a href="../../venues/AAAI/2024/poi_spatiotemporal_rec/i_rebalance_personalized_vehicle_repositioning_for_supply_demand_balance/">i-Rebalance: Personalized Vehicle Repositioning for Supply Demand Balance</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>以 99 名真实司机问卷建模接单意愿，用 Grid/Vehicle 双 DRL 智能体顺序化生成个性化车辆再定位推荐，在成都真实轨迹仿真上使接受率升至 84.43%、司机总收入 +9.97%。</p>
@@ -51,9 +60,25 @@ hide:
 <dd>
 <p>用 STKG 教师模型蒸馏时空知识给 ST-Transformer 学生模型，融合地理距离与功能区序列建模外卖动态偏好，三城 HR@10 提升约 1.5–2.8%。</p>
 </dd>
+<dt data-paper-tags="[&quot;AAAI 2026&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;召回/生成式端到端&quot;,&quot;地理语义ID&quot;,&quot;G-DPO&quot;,&quot;层次量化&quot;]"><strong><a href="../../venues/AAAI/2026/generative_rec/llm_aligned_geographic_item_tokenization_for_local_life_recommendation/">LLM-Aligned Geographic Item Tokenization for Local-Life Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>LGSID 以 G-DPO 将地理距离注入 LLM，层次量化生成地理感知 SID；快手工业数据上 AUC 最高 +4.17，TIGER Hit@10 相对 +30.83%。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI 2026&quot;,&quot;时空轨迹与POI本地生活推荐&quot;,&quot;精排&quot;,&quot;多场景推荐&quot;,&quot;超图学习&quot;,&quot;参数分裂&quot;]"><strong><a href="../../venues/AAAI/2026/poi_spatiotemporal_rec/multifaceted_scenario_aware_hypergraph_learning_for_next_poi_recommendation/">Multifaceted Scenario-Aware Hypergraph Learning for Next POI Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>提出场景拆分式多视图超图与自适应参数分裂，在 NYC/TKY/Gowalla 上按场景提升 Next-POI 排序。</p>
+</dd>
 <dt data-paper-tags="[&quot;ACL 2025 Findings&quot;,&quot;时空轨迹与POI推荐&quot;,&quot;生成式推荐&quot;,&quot;旅行行程规划&quot;,&quot;LLM Agent 基准评测&quot;,&quot;个性化奖励模型&quot;]"><strong><a href="../../venues/ACL_EMNLP/2025/poi_spatiotemporal_rec/triptailor_a_real_world_benchmark_for_personalized_travel_planning/">TripTailor: A Real-World Benchmark for Personalized Travel Planning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>构建50万真实POI与近4000条真人行程的个性化旅行规划基准，提出可行性/合理性/个性化三维评估与奖励模型对比框架，揭示SOTA LLM行程超越真人比例不足10%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;时空轨迹与POI推荐&quot;,&quot;精排&quot;,&quot;Neural ODE&quot;,&quot;Next-POI 序列预测&quot;]"><strong><a href="../../venues/CIKM/2021/poi_spatiotemporal_rec/lightmove_a_lightweight_next_poi_recommendation_for_taxicab_rooftop_adverti/">LightMove: A Lightweight Next-POI Recommendation for Taxicab Rooftop Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用含跳步与自适应参数生成的 NODE 轻量预测出租车下一位置，全库排序、逐车时序切分下 Foursquare Hits@1 提升 23.6% 且参数减 78%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;时空轨迹与POI本地生活推荐&quot;,&quot;精排&quot;,&quot;周期兴趣建模&quot;,&quot;时空上下文切序列&quot;]"><strong><a href="../../venues/CIKM/2021/poi_spatiotemporal_rec/st_pil_spatial_temporal_periodic_interest_learning_for_next_point_of_intere/">ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用星期/时段/geohash三重时空上下文切分历史轨迹构造周期兴趣序列，配合双层注意力融合长短兴趣，Leave-One-Out 全库排序下 Acc@1 提升约 70%。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM 2023&quot;,&quot;时空轨迹与POI本地生活推荐&quot;,&quot;召回&quot;,&quot;多视图时空子图&quot;,&quot;实时兴趣门控融合&quot;]"><strong><a href="../../venues/CIKM/2023/poi_spatiotemporal_rec/stgin_spatial_temporal_graph_interaction_network_for_large_scale_poi_recomm/">STGIN: Spatial-Temporal Graph Interaction Network for Large-scale POI Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -67,9 +92,21 @@ hide:
 <dd>
 <p>用语义增强 POI Token + QLoRA 双适配器 + 行程目的自监督，破解群体 POI 推荐偏好多样与数据极稀疏难题，HR@10 平均提升 4.4%–9.0%。</p>
 </dd>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;时空轨迹与 POI 本地生活推荐&quot;,&quot;召回/端到端生成式&quot;,&quot;个性化路线规划&quot;,&quot;对偶图链路代价&quot;,&quot;矫正提升多样性&quot;]"><strong><a href="../../venues/CIKM/2026/poi_spatiotemporal_rec/genmrp_a_generative_multi_route_planning_framework_for_efficient_and_person/">GenMRP: A Generative Multi-Route Planning Framework for Efficient and Personalized Real-Time Industrial Navigation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用骨架-毛细血管子网+链路代价模型+矫正提升迭代生成个性化多样路线，离线覆盖率超基线 5.8%，已在高德全量上线。</p>
+</dd>
 <dt data-paper-tags="[&quot;ECIR 2024&quot;,&quot;时空轨迹与POI本地生活推荐&quot;,&quot;精排&quot;,&quot;地理分组自适应路由&quot;,&quot;Co-Action Network&quot;,&quot;EM/REINFORCE 联合优化&quot;]"><strong><a href="../../venues/ECIR/2024/poi_spatiotemporal_rec/an_adaptive_framework_of_geographical_group_specific_network_on_o2o_recomme/">An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>GeoGrouse 用可学习地理分组隐变量驱动「共享+分组专用」双塔策略网络，在饿了么零售到店场景 7 天线上 A/B 中 CTR/ACR 双涨。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDE&quot;,&quot;时空轨迹与 POI 推荐&quot;,&quot;精排&quot;,&quot;持续学习&quot;,&quot;兴趣记忆检索&quot;,&quot;模型无关框架&quot;]"><strong><a href="../../venues/ICDE/2026/poi_spatiotemporal_rec/efficient_model_agnostic_continual_learning_for_next_poi_recommendation/">Efficient Model-Agnostic Continual Learning for Next POI Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>提出 GIRAM：以分布型兴趣记忆 + 上下文感知键编码 + cVAE 多键生成检索 + 一致性自适应融合，实现免重训的持续 Next-POI 推荐，三数据集 Acc@5 与 MRR 全面超越 SOTA。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDE 2026&quot;,&quot;时空轨迹与 POI 推荐&quot;,&quot;生成式端到端&quot;,&quot;quadkey 层次网格编码&quot;,&quot;可学习傅里叶位置编码&quot;,&quot;POI 转移嵌入对齐&quot;]"><strong><a href="../../venues/ICDE/2026/poi_spatiotemporal_rec/geography_aware_large_language_models_for_next_poi_recommendation/">Geography-Aware Large Language Models for Next POI Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用 quadkey+可学习傅里叶位置编码(GCIM)与序列模型 POI 嵌入对齐(PAM)增强 Llama-2-7B，三数据集 Acc@1 相对提升 14.7%–16.7%</p>
 </dd>
 <dt data-paper-tags="[&quot;ICDM&quot;,&quot;时空轨迹与 POI 本地生活推荐&quot;,&quot;精排&quot;,&quot;图核网络&quot;,&quot;地理-序列一致性学习&quot;]"><strong><a href="../../venues/ICDM/2022/poi_spatiotemporal_rec/kernel_based_substructure_exploration_for_next_poi_recommendation/">Kernel-based Substructure Exploration for Next POI Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -78,6 +115,14 @@ hide:
 <dt data-paper-tags="[&quot;NeurIPS&quot;,&quot;时空轨迹与POI推荐&quot;,&quot;生成式推荐&quot;,&quot;Neural ODE&quot;,&quot;知识图谱偏好对齐&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2025/poi_spatiotemporal_rec/spot_trip_dual_preference_driven_out_of_town_trip_recommendation/">SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>首次形式化异地行程推荐，用知识图谱静态偏好+Neural ODE动态偏好解耦建模，F1最高提升17.01%。</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI&quot;,&quot;时空轨迹与 POI 推荐&quot;,&quot;精排&quot;,&quot;Seq2Graph 增广&quot;,&quot;类别感知图注意力&quot;,&quot;多任务类别预测&quot;]"><strong><a href="../../venues/IJCAI/2021/poi_spatiotemporal_rec/discovering_collaborative_signals_for_next_poi_recommendation_with_iterativ/">Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将孤立 POI 序列扩增为跨序列一跳图，用类别感知图注意力与位置感知注意力联合建模，并以类别预测多任务缓解稀疏，Gowalla 上 HR@5 提升 49%。</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI 2021&quot;,&quot;冷启动与长尾推荐&quot;,&quot;精排&quot;,&quot;元学习&quot;,&quot;Next-POI&quot;,&quot;时空群体偏好&quot;]"><strong><a href="../../venues/IJCAI/2021/cold_start_rec/mfnp_a_meta_optimized_model_for_few_shot_next_poi_recommendation/">MFNP: A Meta-optimized Model for Few-shot Next POI Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用元学习融合用户与区域群体偏好提升少样本下一 POI 推荐；全库排序 Acc@5 较 STGCN 提升 48.0%/45.3%。</p>
 </dd>
 <dt data-paper-tags="[&quot;KDD&quot;,&quot;时空轨迹与POI推荐&quot;,&quot;端到端生成式&quot;,&quot;扩散模型&quot;,&quot;云边端协同&quot;]"><strong><a href="../../venues/KDD/2024/poi_spatiotemporal_rec/diffusion_based_cloud_edge_device_collaborative_learning_for_next_poi_recom/">Diffusion-Based Cloud-Edge-Device Collaborative Learning for Next POI Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
@@ -98,6 +143,10 @@ hide:
 <dt data-paper-tags="[&quot;KDD&quot;,&quot;时空轨迹与POI推荐&quot;,&quot;召回&quot;,&quot;冷启动POI预测&quot;,&quot;因果推断&quot;,&quot;时空图神经网络&quot;]"><strong><a href="../../venues/KDD/2026/poi_spatiotemporal_rec/causalpoi_spatio_temporal_graph_based_causal_modeling_for_cold_start_poi_ch/">CausalPOI: Spatio-Temporal Graph-Based Causal Modeling for Cold-Start POI Check-in Forecasting</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用功能交互图+结构对齐的干预/对照图做冷启动POI签到量预测与因果提升估计，四区域RMSE最高降57.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;时空轨迹与POI本地生活推荐&quot;,&quot;端到端序列预测&quot;,&quot;Magnetic Laplacian&quot;,&quot;Complex-valued Mamba&quot;]"><strong><a href="../../venues/KDD/2026/poi_spatiotemporal_rec/mag_mamba_modeling_coupled_spatiotemporal_asymmetry_for_poi_recommendation/">Mag-Mamba: Modeling Coupled spatiotemporal Asymmetry for POI Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>时变方向场编码为磁相位并注入复值Mamba衰减-旋转递推，NYC/TKY/CA的NDCG@1最高提升14.71%。</p>
 </dd>
 <dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;时空轨迹与POI推荐&quot;,&quot;生成式推荐&quot;,&quot;LLM推理&quot;,&quot;优势校准&quot;,&quot;语义ID&quot;]"><strong><a href="../../venues/KDD/2026/poi_spatiotemporal_rec/think2go_generative_next_poi_recommendation_with_llm_reasoning/">Think2Go: Generative Next POI Recommendation with LLM Reasoning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -126,6 +175,10 @@ hide:
 <dt data-paper-tags="[&quot;RecSys 2026&quot;,&quot;多任务学习&quot;,&quot;精排&quot;,&quot;成对比较特征&quot;,&quot;上下文感知列表重排&quot;]"><strong><a href="../../venues/RecSys/2026/multi_task_reranking/towards_full_candidate_interaction_a_comprehensive_comparison_network_for_b/">Towards Full Candidate Interaction: A Comprehensive Comparison Network for Better Route Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>提出比较优先范式，用非重叠路段构造显式比较张量并在成对空间直接推理，线上CR +1.2%、偏航率 -0.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;时空轨迹与 POI 本地生活推荐&quot;,&quot;召回&quot;,&quot;叙事驱动推荐&quot;,&quot;众包分级相关性评测&quot;,&quot;冷启动&quot;]"><strong><a href="../../venues/SIGIR/2021/poi_spatiotemporal_rec/pointrec_a_test_collection_for_narrative_driven_point_of_interest_recommend/">POINTREC: A Test Collection for Narrative-driven Point of Interest Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>构建 695K POI + 112 条真实自然语言叙事需求的冷启动 POI 测试集，配众包 4 级相关性池化标注与三种结构化查询基线，NDCG@5 最优 0.6784。</p>
 </dd>
 <dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;时空轨迹与POI本地生活推荐&quot;,&quot;召回&quot;,&quot;多关系图卷积&quot;,&quot;耦合RNN时序互影响&quot;]"><strong><a href="../../venues/SIGIR/2022/poi_spatiotemporal_rec/empowering_next_poi_recommendation_with_multi_relational_modeling/">Empowering Next POI Recommendation with Multi-Relational Modeling</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -206,6 +259,22 @@ hide:
 <dt data-paper-tags="[&quot;TORS&quot;,&quot;时空轨迹与POI推荐&quot;,&quot;全链路(数据/算法/评估)&quot;,&quot;立场与综述论文&quot;,&quot;多利益相关方推荐&quot;,&quot;评估协议批判&quot;]"><strong><a href="../../venues/TORS/2026/poi_spatiotemporal_rec/point_of_interest_recommendation_pitfalls_and_viable_solutions/">Point of Interest Recommendation: Pitfalls and Viable Solutions</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>系统梳理POI推荐在数据集、算法与评估三维度的20项陷阱，并提出六方向研究议程与陷阱-方案映射表</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2021&quot;,&quot;时空轨迹与 POI 推荐&quot;,&quot;召回&quot;,&quot;Origin-Aware 下一目的地推荐&quot;,&quot;ST-LSTM 时空细胞状态&quot;,&quot;个性化偏好注意力&quot;]"><strong><a href="../../venues/WSDM/2021/poi_spatiotemporal_rec/origin_aware_next_destination_recommendation_with_personalized_preference_a/">Origin-Aware Next Destination Recommendation with Personalized Preference Attention</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出 ST-LSTM 编码器与个性化偏好注意力解码器，将起点信息与局部/全局时空因子注入 OD 关系建模，七个 Grab 真实轨迹数据集 Acc@1 相对 SOTA 提升约 13%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2026&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;端到端生成式&quot;,&quot;地理感知语义ID&quot;,&quot;DPO多目标对齐&quot;,&quot;本地生活推荐&quot;]"><strong><a href="../../venues/WSDM/2026/generative_rec/oneloc_geo_aware_generative_recommender_systems_for_local_life_service/">OneLoc: Geo-Aware Generative Recommender Systems for Local Life Service</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>WSDM 2026｜生成式推荐与离散语义ID｜快手本地生活端到端生成式推荐，用地理感知语义ID、地理感知自注意力与邻域提示建模位置，并用地理/GMV双奖励DPO对齐，线下Recall@5提升13.46%，线上GMV+21.016%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;时空轨迹与POI本地生活推荐&quot;,&quot;召回&quot;,&quot;多智能体强化学习&quot;,&quot;集中式注意力 Critic&quot;,&quot;多目标动态梯度重加权&quot;]"><strong><a href="../../venues/WWW/2021/poi_spatiotemporal_rec/intelligent_electric_vehicle_charging_recommendation_based_on_multi_agent_r/">Intelligent Electric Vehicle Charging Recommendation Based on Multi-Agent Reinforcement Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>把每个充电站视为一个智能体，用集中式注意力 Critic、延迟访问未来竞争信息与多目标动态梯度重加权，在真实京沪数据上同时降低等待时长、充电价格与失败率。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;时空轨迹与POI本地生活推荐&quot;,&quot;召回&quot;,&quot;自注意力&quot;,&quot;时空关系矩阵&quot;]"><strong><a href="../../venues/WWW/2021/poi_spatiotemporal_rec/stan_spatio_temporal_attention_network_for_next_location_recommendation/">STAN: Spatio-Temporal Attention Network for Next Location Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以全轨迹时空关系矩阵和双层注意力聚合非连续签到，平衡采样训练；四数据集全库Recall@5/10较SOTA提升9–17%。</p>
 </dd>
 <dt data-paper-tags="[&quot;WWW 2024&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;端侧训练/协同学习共享阶段&quot;,&quot;轨迹推断攻击&quot;,&quot;对抗博弈隐私防御&quot;]"><strong><a href="../../venues/WWW/2024/debias_fairness_industrial/physical_trajectory_inference_attack_and_defense_in_decentralized_poi_recom/">Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>

@@ -94,9 +94,10 @@ hide:
 按论文发表年份跨会刊聚合。每个年份页面可继续进入对应会议/期刊的年度目录。
 
 <div class="recsys-grid">
-  <a class="recsys-card" href="2026/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2026 年</span>      <span class="recsys-badge">568 篇</span>    </div>    <div class="recsys-card-desc">按会议/期刊浏览 2026 年收录的推荐系统论文解读</div>  </a>
+  <a class="recsys-card" href="2026/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2026 年</span>      <span class="recsys-badge">792 篇</span>    </div>    <div class="recsys-card-desc">按会议/期刊浏览 2026 年收录的推荐系统论文解读</div>  </a>
   <a class="recsys-card" href="2025/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2025 年</span>      <span class="recsys-badge">672 篇</span>    </div>    <div class="recsys-card-desc">按会议/期刊浏览 2025 年收录的推荐系统论文解读</div>  </a>
   <a class="recsys-card" href="2024/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2024 年</span>      <span class="recsys-badge">470 篇</span>    </div>    <div class="recsys-card-desc">按会议/期刊浏览 2024 年收录的推荐系统论文解读</div>  </a>
   <a class="recsys-card" href="2023/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2023 年</span>      <span class="recsys-badge">441 篇</span>    </div>    <div class="recsys-card-desc">按会议/期刊浏览 2023 年收录的推荐系统论文解读</div>  </a>
   <a class="recsys-card" href="2022/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2022 年</span>      <span class="recsys-badge">315 篇</span>    </div>    <div class="recsys-card-desc">按会议/期刊浏览 2022 年收录的推荐系统论文解读</div>  </a>
+  <a class="recsys-card" href="2021/">    <div class="recsys-card-head">      <span class="recsys-card-title">🗓️ 2021 年</span>      <span class="recsys-badge">310 篇</span>    </div>    <div class="recsys-card-desc">按会议/期刊浏览 2021 年收录的推荐系统论文解读</div>  </a>
 </div>

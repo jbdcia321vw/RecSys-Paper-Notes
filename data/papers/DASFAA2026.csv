@@ -2,3 +2,19 @@
 DynamicPO: Dynamic Preference Optimization for Recommendation,2605.00327,https://arxiv.org/abs/2605.00327,https://github.com/xingyuHuxingyu/DynamicPO,llm_rec,DASFAA,2026
 Curr-RLCER:Curriculum Reinforcement Learning For Coherence Explainable Recommendation,2604.05341,https://arxiv.org/abs/2604.05341,https://github.com/pxcstart/Curr-RLCER,agent_conversational_rec,DASFAA,2026
 LLM-Enhanced Reinforcement Learning for Long-Term User Satisfaction in Interactive Recommendation,2601.19585,https://arxiv.org/abs/2601.19585,https://github.com/1163710212/LERL,rl_bandit_rec,DASFAA,2026
+Efficient Personalized Reranking with Semi-Autoregressive Generation and Online Knowledge Distillation,2603.07107,https://arxiv.org/abs/2603.07107,,multi_task_reranking,DASFAA,2026
+FlowRec: Prior-Informed Flow Matching for Efficient Sequential Recommendation Generation,2508.17618,https://arxiv.org/abs/2508.17618,,sequential_rec,DASFAA,2026
+Personalized Education with Ranking Alignment Recommendation,2507.23664,https://arxiv.org/abs/2507.23664,https://github.com/wuming29/RAR.git,rl_bandit_rec,DASFAA,2026
+TrackRec: Iterative Alternating Feedback with Chain-of-Thought via Preference Alignment for Recommendation,2508.15388,https://arxiv.org/abs/2508.15388,,llm_rec,DASFAA,2026
+A Universal Framework for Compressing Embeddings in CTR Prediction,2502.15355,https://arxiv.org/abs/2502.15355,https://github.com/USTC-StarTeam/MEC,ctr_feature_interaction,DASFAA,2026
+GENPLUGIN: A Plug-and-Play Framework for Long-Tail Generative Recommendation with Exposure Bias Mitigation,2507.03568,https://arxiv.org/abs/2507.03568,,generative_rec,DASFAA,2026
+Generative Representational Learning of Foundation Models for Recommendation,2506.11999,https://arxiv.org/abs/2506.11999,,multi_task_reranking,DASFAA,2026
+Beyond the Trigger: Learning Collaborative Context for Generalizable Trigger-Induced Recommendation,2411.11508,https://arxiv.org/abs/2411.11508,,self_supervised_denoising,DASFAA,2026
+Self-supervised Hierarchical Representation for Medication Recommendation,2411.03143,https://arxiv.org/abs/2411.03143,,graph_rec,DASFAA,2026
+Towards Unified Modeling for Positive and Negative Preferences in Sign-Aware Recommendation,2403.08246,https://arxiv.org/abs/2403.08246,,graph_rec,DASFAA,2026
+HierLLM: Hierarchical Large Language Model for Question Recommendation,2409.06177,https://arxiv.org/abs/2409.06177,,llm_rec,DASFAA,2026
+Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation,2502.11374,https://arxiv.org/abs/2502.11374,https://github.com/ll0ruc/DivSR,social_group_rec,DASFAA,2026
+UFIN: Universal Feature Interaction Network for Multi-Domain Click-Through Rate Prediction,2311.15493,https://arxiv.org/abs/2311.15493,https://github.com/RUCAIBox/UFIN,ctr_feature_interaction,DASFAA,2026
+Enhancing LLM-based Recommendation through Semantic-Aligned Collaborative Knowledge,2504.10107,https://arxiv.org/abs/2504.10107,,llm_rec,DASFAA,2026
+A Cognitive Distribution and Behavior-Consistent Framework for Black-Box Attacks on Recommender Systems,2602.10633,https://arxiv.org/abs/2602.10633,,debias_fairness_industrial,DASFAA,2026
+AdaF^2M^2: Comprehensive Learning and Responsive Leveraging Features in Recommendation System,2501.15816,https://arxiv.org/abs/2501.15816,,debias_fairness_industrial,DASFAA,2026

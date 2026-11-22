@@ -40,3 +40,14 @@ Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework w
 Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation,2602.07298,https://arxiv.org/abs/2602.07298,,llm_rec,ICLR_NeurIPS_ICML,2026
 On the Coordination of Value-Maximizing Bidders,2511.04993,https://arxiv.org/abs/2511.04993,,ctr_feature_interaction,ICLR_NeurIPS_ICML,2026
 Incentivized Exploration with Stochastic Covariates: A Two-Stage Mechanism Design for Recommender System,2406.04374,https://arxiv.org/abs/2406.04374,,rl_bandit_rec,ICLR_NeurIPS_ICML,2026
+Position: Preventing AI-Generated CSAM Necessitates New Approaches to AI Safety,2607.05407,https://arxiv.org/abs/2607.05407,,collaborative_filtering,ICLR_NeurIPS_ICML,2026
+Catalog-Native LLM: Speaking Item-ID Dialect with Less Entanglement for Recommendation,2510.05125,https://arxiv.org/abs/2510.05125,,llm_rec,ICLR_NeurIPS_ICML,2026
+Denoising Neural Reranker for Recommender Systems,2509.18736,https://arxiv.org/abs/2509.18736,,multi_task_reranking,ICLR_NeurIPS_ICML,2026
+Continual Low-Rank Adapters for LLM-based Generative Recommender Systems,2510.25093,https://arxiv.org/abs/2510.25093,,llm_rec,ICLR_NeurIPS_ICML,2026
+On the Mechanisms of Collaborative Learning in VAE Recommenders,2511.06781,https://arxiv.org/abs/2511.06781,,collaborative_filtering,ICLR_NeurIPS_ICML,2026
+Reinforced Latent Reasoning for LLM-based Recommendation,2505.19092,https://arxiv.org/abs/2505.19092,https://github.com/xuwenxinedu/R3,llm_rec,ICLR_NeurIPS_ICML,2026
+Steering Diffusion Models Towards Credible Content Recommendation,,https://proceedings.iclr.cc/paper_files/paper/2026/file/45ecdd6cf1f507d378a3442ed89e580b-Paper-Conference.pdf,,generative_rec,ICLR_NeurIPS_ICML,2026
+Token-Efficient Long-Term Interest Sketching and Internalized Reasoning for LLM-based Recommendation,,https://proceedings.iclr.cc/paper_files/paper/2026/file/c9b551a2e195a209fc0b280de2f7f781-Paper-Conference.pdf,,llm_rec,ICLR_NeurIPS_ICML,2026
+Inference-Time Personalized Safety Control via Paired Difference-in-Means Intervention,,https://proceedings.iclr.cc/paper_files/paper/2026/file/b63416bfd534662dca16a149477b1190-Paper-Conference.pdf,,llm_rec,ICLR_NeurIPS_ICML,2026
+iFusion: Integrating Dynamic Interest Streams via Diffusion Model for Click-Through Rate Prediction,,https://proceedings.iclr.cc/paper_files/paper/2026/file/1d051fb631f104cb2a621451f37676b9-Paper-Conference.pdf,,ctr_feature_interaction,ICLR_NeurIPS_ICML,2026
+More Than What Was Chosen: LLM-based Explainable Recommendation Beyond Noisy User Preferences,,https://proceedings.iclr.cc/paper_files/paper/2026/file/2a581c3f0fcaf50b6f87eac048f18369-Paper-Conference.pdf,,llm_rec,ICLR_NeurIPS_ICML,2026

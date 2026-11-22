@@ -1,0 +1,307 @@
+[
+  {
+    "title": "Unified Privacy Guarantees for Decentralized Learning via Matrix Factorization",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/a96368eb38bce0956a1132154d70d72d-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mitigating Semantic Collapse in Generative Personalization with Test-Time Embedding Adjustment",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/143ea4a156ef64f32d4d905206cf32e1-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Steering Diffusion Models Towards Credible Content Recommendation",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/45ecdd6cf1f507d378a3442ed89e580b-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Beyond Markovian Drifts: Action-Biased Geometric Walks with Memory for Personalized Summarization",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/8c696956ee2bc75c51d789562ec39930-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Revisual-R1: Advancing Multimodal Reasoning From Optimized Cold Start to Staged Reinforcement Learning",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/3792ac815260f4ba55ed71c7906cce36-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reducing Semantic Mismatch in Brain-to-Text Decoding Through Personalized Multimodal Masking",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/706338a08f9378b708f21cbf5686e617-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SPECS: Decoupling Multimodal Learning via Self-distilled Preference-based Cold Start",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/19a3636afac70a621a4f5f42136d5482-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Massive Memorization with Hundreds of Trillions of Parameters for Sequential Transducer Generative Recommenders",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/41bba7b0f5c81e789a20bb16a370aeeb-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Token-Efficient Long-Term Interest Sketching and Internalized Reasoning for LLM-based Recommendation",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/c9b551a2e195a209fc0b280de2f7f781-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "pFedMMA: Personalized Federated Fine-Tuning with Multi-Modal Adapter for Vision-Language Models",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/7b6e1905ebe2caa41870fcdcb9898243-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Generalizing Linear Autoencoder Recommenders with Decoupled Expected Quadratic Loss",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/cf7ba8b1cbb935e0f609e7abb5becf71-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Difficulty-Diversity Collaborative Filtering for Data-Efficient LLM Fine-Tuning",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/85ac1b2ee10c7c70f7d035611119c758-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Inference-Time Personalized Safety Control via Paired Difference-in-Means Intervention",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b63416bfd534662dca16a149477b1190-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Derandomized Online-to-Non-convex Conversion for Stochastic Weakly Convex Optimization",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/cb8c26df0c1c2a0297aacfa25f9ec541-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Back to Square Roots: An Optimal Bound on the Matrix Factorization Error for Multi-Epoch Differentially Private SGD",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/bdcfa850adac4a1088153881282ca972-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ProPerSim: Developing Proactive and Personalized AI Assistants through User-Assistant Simulation",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b3bdc41d0b2387eabbb719956a38f295-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Swap-guided Preference Learning for Personalized Reinforcement Learning from Human Feedback",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/ee33a5775e0f5022fa01f518df287217-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Token-Efficient Item Representation via Images for LLM Recommender Systems",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/951690f8dae19c76394404540b7ca734-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "RPM: Reasoning-Level Personalization for Black-Box Large Language Models",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/8790ba7a741c9389383575bc3e907768-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Directional Textual Inversion for Personalized Text-to-Image Generation",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/dbc8ce0fdfcd55172d73fb05dbae07fc-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Preserve and Personalize: Personalized Text-to-Image Diffusion Models without Distributional Drift",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/1a281c4e60aa2184525b4c098ff5bed5-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Embodied Agents Meet Personalization: Investigating Challenges and Solutions Through the Lens of Memory Utilization",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/08f805247677d42eac83664ccf9ef3ef-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Personalized Deep Research: Benchmarks and Evaluations",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/43ec75c1c7de5eb82aa7616a277ba3f4-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PrefDisco: Benchmarking Proactive Personalized Reasoning",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/82d50077a0e140b524a18f380c95d55a-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CollectiveKV: Decoupling and Sharing Collaborative Information in Sequential Recommendation",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/4078c8b648dc107aedbdf561dd4edc2a-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ARMOR: High-Performance Semi-Structured Pruning via Adaptive Matrix Factorization",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/38656b01f067b7f8a9df867d0e0ce27d-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PerFit: Exploring Personalization Shifts in Representation Space of LLMs",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/7a1ac10ea9d98178a389c7fbb3575567-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ACCORD: Alleviating Concept Coupling through Dependence Regularization for Text-to-Image Diffusion Personalization",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/6d2ecdf5e9141fa050edae6c65da19fe-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ReactID: Synchronizing Realistic Actions and Identity in Personalized Video Generation",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/6600458132d025c68a01e82081597b32-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "From Narrow to Panoramic Vision: Attention-Guided Cold-Start Reshapes Multimodal Reasoning",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/5eac76636998cf1e29300008adefb88c-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MobiEdit: Resource-efficient Knowledge Editing for Personalized On-device LLMs",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/2b35d186908df6fa14a51ba1cae9dc4e-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Denoising Neural Reranker for Recommender Systems",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/d1b1a091088904cbc7f7faa2b45c8f36-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning to summarize user information for personalized reinforcement learning from human feedback",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/c7af751b5e0a407c62ac023e3cb381f9-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "iFusion: Integrating Dynamic Interest Streams via Diffusion Model for Click-Through Rate Prediction",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/1d051fb631f104cb2a621451f37676b9-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "More Than What Was Chosen: LLM-based Explainable Recommendation Beyond Noisy User Preferences",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/2a581c3f0fcaf50b6f87eac048f18369-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving Online-to-Nonconvex Conversion for Smooth Optimization via Double Optimism",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/2c7bb2adfc1915580c6bcf665b86d05e-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "TVTSyn: Content-Synchronous Time-Varying Timbre for Streaming Voice Conversion and Anonymization",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/fd4700e8b03f8b2d8b9d7c27289359c3-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Co-LoRA: Collaborative Model Personalization on Heterogeneous Multi-Modal Clients",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/1baeb4973da3e78e523024030ea81cf5-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Feature Translation for Expression Recognition: An Efficient Source-Free Domain Adaptation Method",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/ff45bac2fc44064fd8ae85301b40b41e-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MOSAIC: Multi-Subject Personalized Generation via Correspondence-Aware Alignment and Disentanglement",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/67182d38f943d51ff5f1896841751243-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Catalog-Native LLM: Speaking Item-ID dialect with Less Entanglement for Recommendation",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/1524f54b256dc1a89dccbcf2f9707f35-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Low-pass Personalized Subgraph Federated Recommendation",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/13707aad517ddd6c09ea02e0f55e1e7a-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FSPO: Few-Shot Optimization of Synthetic Preferences Effectively Personalizes to Real Users",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/b2118ec72f6396c7e7bb2407e2d05eb4-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "On the Mechanisms of Collaborative Learning in VAE Recommenders",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/a102d6cb996be3482c059c1e18bbe523-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Think-While-Generating: On-the-Fly Reasoning for Personalized Long-Form Generation",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/54b3631a4b147a5858adc733e6ed0c21-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/6491ca565a2aa825b3cf8d4755296950-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/ee6e771ce962badeea34b918d3f962dd-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PreferThinker: Reasoning-based Personalized Image Preference Assessment",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/af31604708f3e44b4de9fdfa6dcaa9d1-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "FingerTip 20K: A Benchmark for Proactive and Personalized Mobile LLM Agents",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/88f43bcddeefc0d2899153bdab07981d-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledgeable Language Models as Black-Box Optimizers for Personalized Medicine",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/52a12da314bb2097ba83d02e1a0a82c0-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Continual Low-Rank Adapters for LLM-based Generative Recommender Systems",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/0b99315234cc95e6ef281f9155b68832-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "OmniPortrait: Fine-Grained Personalized Portrait Synthesis via Pivotal Optimization",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/64f4014a46a58a23bcfd9988e8204a12-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Collaborative Learning with Affinity-Based Variance Reduction",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/3514dbacaebf0f38b25adfe59ed81a8a-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "P-GenRM: Personalized Generative Reward Model with Test-time User-based Scaling",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/73bda9a20f6f9f6074ce822e76f126bb-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Evoking User Memory: Personalizing LLM via Recollection-Familiarity Adaptive Retrieval",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/58f2612e86e2671432499017d049fcb0-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Reinforced Latent Reasoning for LLM-based Recommendation",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/d0c6bc641a56bebee9d985b937307367-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "NextQuill: Causal Preference Modeling for Enhancing LLM Personalization",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/c0ae487420ebc8d0ed7c541b4e3f09d4-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Distribution-Aware Multi-Granularity Phase Coding: Towards Lower Conversion Error for Spike-Driven Large Language Models",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/81858886d6a6f22c2e555e9d8f5172d9-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mod-Adapter: Tuning-Free and Versatile Multi-concept Personalization via Modulation Adapter",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/0a9bc5536c595ee44a72b575b258d141-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/fb8f2d4e90018c0fae060dff09a91ce3-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems",
+    "ee": "https://proceedings.iclr.cc/paper_files/paper/2026/hash/a92de7efca19f26309a38b3e3fa3dd86-Abstract-Conference.html",
+    "key": "dblp_sparql"
+  }
+]

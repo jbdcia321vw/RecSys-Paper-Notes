@@ -1,0 +1,197 @@
+[
+  {
+    "title": "DeepLight: Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving",
+    "ee": "https://doi.org/10.1145/3437963.3441727",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Practical Compositional Fairness: Understanding Fairness in Multi-Component Recommender Systems",
+    "ee": "https://doi.org/10.1145/3437963.3441732",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Combating Selection Biases in Recommender Systems with a Few Unbiased Ratings",
+    "ee": "https://doi.org/10.1145/3437963.3441799",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Food Recommendation as Constrained Question Answering over a Large-scale Food Knowledge Graph",
+    "ee": "https://doi.org/10.1145/3437963.3441816",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Enhancing Neural Recommender Models through Domain-Specific Concordance",
+    "ee": "https://doi.org/10.1145/3437963.3441784",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "GPR: Global Personalized Restaurant Recommender System Leveraging Billions of Financial Transactions",
+    "ee": "https://doi.org/10.1145/3437963.3441709",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Advances in Bias-aware Recommendation on the Web",
+    "ee": "https://doi.org/10.1145/3437963.3441665",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Temporal Meta-path Guided Explainable Recommendation",
+    "ee": "https://doi.org/10.1145/3437963.3441762",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "User Response Models to Improve a REINFORCE Recommender System",
+    "ee": "https://doi.org/10.1145/3437963.3441764",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An Efficient and Effective Framework for Session-based Social Recommendation",
+    "ee": "https://doi.org/10.1145/3437963.3441792",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Beyond Point Estimate: Inferring Ensemble Prediction Variation from Neuron Activation Strength in Recommender Systems",
+    "ee": "https://doi.org/10.1145/3437963.3441770",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Decomposed Collaborative Filtering: Modeling Explicit and Implicit Factors For Recommender Systems",
+    "ee": "https://doi.org/10.1145/3437963.3441826",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Black-Box Attack Model for Visually-Aware Recommender Systems",
+    "ee": "https://doi.org/10.1145/3437963.3441757",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Long-term Fairness in Recommendation",
+    "ee": "https://doi.org/10.1145/3437963.3441824",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalization in Practice: Methods and Applications",
+    "ee": "https://doi.org/10.1145/3437963.3441657",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation",
+    "ee": "https://doi.org/10.1145/3437963.3441738",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Discovering Undisclosed Paid Partnership on Social Media via Aspect-Attentive Sponsored Post Learning",
+    "ee": "https://doi.org/10.1145/3437963.3441803",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Explainable Recommendation with Comparative Constraints on Product Aspects",
+    "ee": "https://doi.org/10.1145/3437963.3441754",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Origin-Aware Next Destination Recommendation with Personalized Preference Attention",
+    "ee": "https://doi.org/10.1145/3437963.3441797",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users",
+    "ee": "https://doi.org/10.1145/3437963.3441769",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Deep Recommender Systems Utilizing Side Information",
+    "ee": "https://doi.org/10.1145/3437963.3441669",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Fairness-Aware Recommendation in Multi-Sided Platforms",
+    "ee": "https://doi.org/10.1145/3437963.3441672",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Heterogeneous Graph Augmented Multi-Scenario Sharing Recommendation with Tree-Guided Expert Networks",
+    "ee": "https://doi.org/10.1145/3437963.3441729",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Diverse User Preference Elicitation with Multi-Armed Bandits",
+    "ee": "https://doi.org/10.1145/3437963.3441786",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Harnessing Big Data for Personalized Medicine",
+    "ee": "https://doi.org/10.1145/3437963.3441654",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Triangular Bidword Generation for Sponsored Search Auction",
+    "ee": "https://doi.org/10.1145/3437963.3441819",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sparse-Interest Network for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3437963.3441811",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Alleviating Cold-Start Problems in Recommendation through Pseudo-Labelling over Knowledge Graph",
+    "ee": "https://doi.org/10.1145/3437963.3441773",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Bilateral Variational Autoencoder for Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3437963.3441759",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Dynamic User Intention in Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3437963.3441674",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Denoising Implicit Feedback for Recommendation",
+    "ee": "https://doi.org/10.1145/3437963.3441800",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Unbiased Learning to Rank in Feeds Recommendation",
+    "ee": "https://doi.org/10.1145/3437963.3441751",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Real-time Relevant Recommendation Suggestion",
+    "ee": "https://doi.org/10.1145/3437963.3441733",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation",
+    "ee": "https://doi.org/10.1145/3437963.3441791",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Explanation as a Defense of Recommendation",
+    "ee": "https://doi.org/10.1145/3437963.3441726",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning User Representations with Hypercuboids for Recommender Systems",
+    "ee": "https://doi.org/10.1145/3437963.3441768",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising",
+    "ee": "https://doi.org/10.1145/3437963.3441771",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction",
+    "ee": "https://doi.org/10.1145/3437963.3441761",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Popularity-Opportunity Bias in Collaborative Filtering",
+    "ee": "https://doi.org/10.1145/3437963.3441820",
+    "key": "dblp_sparql"
+  }
+]

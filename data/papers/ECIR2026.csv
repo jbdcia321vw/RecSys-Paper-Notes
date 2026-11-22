@@ -10,3 +10,5 @@ Are Multimodal Embeddings Truly Beneficial for Recommendation? A Deep Dive into 
 Modeling Behavioral Patterns in News Recommendations Using Fuzzy Neural Networks,2601.04019,https://arxiv.org/abs/2601.04019,,debias_fairness_industrial,ECIR,2026
 UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems,2512.04588,https://arxiv.org/abs/2512.04588,,agent_conversational_rec,ECIR,2026
 SciNUP: Natural Language User Interest Profiles for Scientific Literature Recommendation,2510.21352,https://arxiv.org/abs/2510.21352,,llm_rec,ECIR,2026
+A Systematic Reproducibility Study of BSARec for Sequential Recommendation,2512.17442,https://arxiv.org/abs/2512.17442,,sequential_rec,ECIR,2026
+From What to Why: Thought-Space Recommendation with Small Language Models,2510.08626,https://arxiv.org/abs/2510.08626,,llm_rec,ECIR,2026

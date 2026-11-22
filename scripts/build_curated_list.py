@@ -430,6 +430,150 @@ def classify(title: str, abstract: str) -> str:
     return "collaborative_filtering"
 
 
+
+def _reconstruct_openalex_abstract(inv_idx: dict) -> str:
+    if not isinstance(inv_idx, dict) or not inv_idx:
+        return ""
+    words = []
+    for word, positions in inv_idx.items():
+        if isinstance(positions, list):
+            for pos in positions:
+                if isinstance(pos, int):
+                    words.append((pos, word))
+    words.sort(key=lambda x: x[0])
+    return " ".join(w for _, w in words)
+
+
+def _check_pdf_stream_ok(url: str, timeout: int = 12) -> bool:
+    if not url or not url.startswith("http"):
+        return False
+    low = url.lower()
+    # 跳过已知有 Cloudflare/登录墙的商业出版商 PDF 域名，避免浪费时间
+    if any(bad in low for bad in ("dl.acm.org/", "ieeexplore.ieee.org/", "link.springer.com/", "sciencedirect.com/")):
+        return False
+    for proxy_url in ("", "http://127.0.0.1:7897"):
+        try:
+            req = urllib.request.Request(
+                url,
+                headers={
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) RecSys-Paper-Notes/3.13",
+                    "Accept": "application/pdf,*/*",
+                },
+            )
+            if proxy_url:
+                opener = urllib.request.build_opener(
+                    urllib.request.ProxyHandler({"http": proxy_url, "https": proxy_url})
+                )
+                ctx = opener.open(req, timeout=timeout)
+            else:
+                ctx = urllib.request.urlopen(req, timeout=timeout)
+            with ctx as resp:
+                head = resp.read(8)
+                if head.startswith(b"%PDF-"):
+                    return True
+                return False
+        except urllib.error.HTTPError:
+            return False
+        except Exception:
+            continue
+    return False
+
+
+def _resolve_via_oa_fallback(title: str, ee_url: str, venue: str, year: str) -> dict:
+    """当 arXiv 标题精确检索未命中时，通过 DBLP ee 直链 + OpenAlex + Unpaywall 补救：
+    1. 若 OpenAlex 关联到了 arXiv ID（因标点/副标题差异导致 arXiv 标题搜漏），返回 `{"arxiv_id": ...}`；
+    2. 若找到可直连下载的开放获取 PDF（如 ACL Anthology / OpenReview / PMLR / 高校仓储），返回完整 OA 记录。
+    """
+    doi_m = re.search(r"doi\.org/(10\.\d{4,9}/[^\s\x22\x27<>]+)", ee_url or "", re.IGNORECASE)
+    doi = doi_m.group(1).rstrip("/") if doi_m else ""
+
+    oa_work = {}
+    try:
+        if doi:
+            oa_url = f"https://api.openalex.org/works/https://doi.org/{urllib.parse.quote(doi)}?mailto=recsys-notes@papernotes.org"
+            raw = _open_url_with_proxy_fallback(oa_url, timeout=15, accept="application/json")
+            if raw.startswith("{"):
+                oa_work = json.loads(raw)
+        if not oa_work and title:
+            oa_url = f"https://api.openalex.org/works?search={urllib.parse.quote(title[:120])}&per-page=1&mailto=recsys-notes@papernotes.org"
+            raw = _open_url_with_proxy_fallback(oa_url, timeout=15, accept="application/json")
+            if raw.startswith("{"):
+                res = json.loads(raw).get("results") or []
+                if res:
+                    cand = res[0]
+                    c_norm = re.sub(r"[^a-z0-9]", "", (cand.get("title") or "").lower())
+                    t_norm = re.sub(r"[^a-z0-9]", "", title.lower())
+                    if c_norm and t_norm and (c_norm == t_norm or (len(t_norm) >= 25 and (t_norm in c_norm or c_norm in t_norm))):
+                        oa_work = cand
+    except Exception:
+        oa_work = {}
+
+    # 1. 优先检查 OpenAlex 是否关联了被 arXiv 标题搜漏的 arXiv ID
+    if oa_work:
+        ids_dict = oa_work.get("ids") or {}
+        locs = oa_work.get("locations") or []
+        best_loc = oa_work.get("best_oa_location") or {}
+        for u in [ids_dict.get("arxiv", ""), best_loc.get("landing_page_url", ""), best_loc.get("pdf_url", "")] + [
+            (loc or {}).get("landing_page_url", "") for loc in locs
+        ] + [(loc or {}).get("pdf_url", "") for loc in locs]:
+            m_aid = re.search(r"arxiv\.org/(?:abs|pdf)/(\d{4}\.\d{4,5})", str(u or ""))
+            if m_aid:
+                return {"arxiv_id": m_aid.group(1)}
+
+    # 2. 收集开放获取 PDF 候选（顶会官网直链 -> OpenAlex -> Unpaywall）
+    pdf_candidates = []
+    u_ee = (ee_url or "").strip()
+    if u_ee:
+        if u_ee.lower().endswith(".pdf"):
+            pdf_candidates.append(u_ee)
+        elif "openreview.net/forum?id=" in u_ee:
+            pdf_candidates.append(u_ee.replace("openreview.net/forum?id=", "openreview.net/pdf?id="))
+        elif "aclanthology.org/" in u_ee:
+            pdf_candidates.append(u_ee.rstrip("/") + ".pdf")
+        elif "proceedings.mlr.press/" in u_ee and u_ee.endswith(".html"):
+            stem = u_ee.rsplit("/", 1)[-1][:-5]
+            pdf_candidates.append(u_ee.rsplit("/", 1)[0] + f"/{stem}/{stem}.pdf")
+
+    if oa_work:
+        best_oa = oa_work.get("best_oa_location") or {}
+        if best_oa.get("pdf_url"):
+            pdf_candidates.append(best_oa["pdf_url"])
+        for loc in (oa_work.get("locations") or []):
+            pu = (loc or {}).get("pdf_url")
+            if pu and pu not in pdf_candidates:
+                pdf_candidates.append(pu)
+
+    if doi and not pdf_candidates:
+        try:
+            up_url = f"https://api.unpaywall.org/v2/{urllib.parse.quote(doi)}?email=recsys-notes@papernotes.org"
+            raw_up = _open_url_with_proxy_fallback(up_url, timeout=15, accept="application/json")
+            if raw_up.startswith("{"):
+                up_data = json.loads(raw_up)
+                pu = (up_data.get("best_oa_location") or {}).get("url_for_pdf")
+                if pu:
+                    pdf_candidates.append(pu)
+        except Exception:
+            pass
+
+    for pdf_url in pdf_candidates:
+        if _check_pdf_stream_ok(pdf_url):
+            abstract = _reconstruct_openalex_abstract(oa_work.get("abstract_inverted_index") if oa_work else {})
+            pub_date = str((oa_work or {}).get("publication_date") or f"{year}-01-01")
+            return {
+                "title": (oa_work or {}).get("title") or title,
+                "content": f"Title: {title}\nPublished Date: {pub_date}\nOfficial Paper URL (paper_url): {pdf_url}\n\nAbstract:\n{abstract}",
+                "comment": f"Accepted at {venue} {year} (DBLP + OA PDF Verified)",
+                "published_date": pub_date,
+                "updated_date": pub_date,
+                "paper_url": pdf_url,
+                "code_url": "",
+                "arxiv_id": "",
+                "trusted_venue_match": True,
+                "oa_pdf": True,
+            }
+    return {}
+
+
 def batch_resolve_titles_on_arxiv(
     titles: list,
     venue: str,
@@ -502,13 +646,19 @@ def batch_resolve_titles_on_arxiv(
                 aid = re.sub(r"v\d+$", "", ep.get("arxiv_id", "").strip())
                 if not aid:
                     continue
+                ep_comment_low = (ep.get("comment") or "").lower()
+                if "withdrawn" in ep_comment_low:
+                    continue
+                ep_upd_year = (ep.get("updated_date") or ep.get("published_date") or "")[:4]
+                if ep_upd_year.isdigit() and str(year).isdigit() and int(ep_upd_year) < int(year) - 1:
+                    continue
                 norm_ep = re.sub(r"[^a-z0-9]", "", (ep.get("title") or "").lower())
                 if not norm_ep:
                     continue
                 matched_key = norm_ep if norm_ep in norm_map else None
                 if not matched_key:
                     for target_norm in norm_map:
-                        if len(target_norm) >= 25 and (target_norm in norm_ep or norm_ep in target_norm):
+                        if len(target_norm) >= 30 and abs(len(target_norm) - len(norm_ep)) <= 10 and (target_norm in norm_ep or norm_ep in target_norm):
                             matched_key = target_norm
                             break
                 if matched_key:
@@ -543,6 +693,80 @@ def batch_resolve_titles_on_arxiv(
             time.sleep(5.0)
             continue
 
+    # --- 二级开放获取兜底：针对 arXiv 标题搜漏的论文，通过 DBLP DOI -> OpenAlex / Unpaywall / 顶会直链补救 ---
+    unresolved_items = [
+        (norm_k, norm_map[norm_k], (ee_map or {}).get(norm_k, ""))
+        for norm_k in norm_map
+        if resolve_cache.get(norm_k) is None
+    ]
+    oa_cache_file = cache_dir / "oa_title_resolve_cache.json"
+    oa_cache = {}
+    if oa_cache_file.exists():
+        try:
+            oa_cache = json.loads(oa_cache_file.read_text(encoding="utf-8"))
+        except Exception:
+            oa_cache = {}
+    oa_dirty = False
+    oa_recovered_aids = []
+    oa_recovered_direct = []
+
+    if unresolved_items:
+        need_probe = [it for it in unresolved_items if it[0] not in oa_cache]
+        if need_probe:
+            print(f"  [OA Fallback] 正在通过 OpenAlex/Unpaywall/顶会直链补查 {len(need_probe)} 篇未命中 arXiv 的 DBLP 论文...", flush=True)
+        for norm_k, raw_t, ee_u in unresolved_items:
+            if norm_k in oa_cache:
+                cached_oa = oa_cache[norm_k]
+            else:
+                cached_oa = _resolve_via_oa_fallback(raw_t, ee_u, venue, year)
+                oa_cache[norm_k] = cached_oa
+                oa_dirty = True
+                time.sleep(0.25)
+            if isinstance(cached_oa, dict) and cached_oa.get("arxiv_id"):
+                aid_oa = re.sub(r"v\d+$", "", cached_oa["arxiv_id"].strip())
+                if aid_oa and aid_oa not in seen_ids:
+                    oa_recovered_aids.append((norm_k, aid_oa))
+            elif isinstance(cached_oa, dict) and cached_oa.get("paper_url"):
+                oa_recovered_direct.append(dict(cached_oa))
+
+    if oa_recovered_aids:
+        try:
+            fetched_oa_aids = fetch_arxiv_by_ids([x[1] for x in oa_recovered_aids], cache_dir=None, download_pdf=False)
+            by_oa_aid = {re.sub(r"v\d+$", "", p.get("arxiv_id", "")): p for p in fetched_oa_aids}
+            for norm_k, aid_oa in oa_recovered_aids:
+                ep = by_oa_aid.get(aid_oa)
+                if ep and aid_oa not in seen_ids:
+                    seen_ids.add(aid_oa)
+                    orig_c = ep.get("comment") or ""
+                    ep["comment"] = f"{orig_c} | Accepted at {venue} {year} (DBLP+OpenAlex Verified)".strip(" |")
+                    ep["trusted_venue_match"] = True
+                    ep["arxiv_id"] = aid_oa
+                    resolved.append(ep)
+                    resolve_cache[norm_k] = {
+                        "title": ep.get("title", ""),
+                        "content": ep.get("content", ""),
+                        "comment": ep.get("comment", ""),
+                        "published_date": ep.get("published_date", ""),
+                        "updated_date": ep.get("updated_date", ""),
+                        "paper_url": ep.get("paper_url", ""),
+                        "code_url": ep.get("code_url", ""),
+                        "arxiv_id": aid_oa,
+                    }
+                    cache_dirty = True
+        except Exception as e:
+            print(f"  [Warn] OpenAlex 补查 arXiv 元数据失败: {e}")
+
+    if oa_recovered_direct:
+        resolved.extend(oa_recovered_direct)
+
+    if oa_recovered_aids or oa_recovered_direct:
+        print(f"  [OA Fallback] 额外补救成功 {len(oa_recovered_aids) + len(oa_recovered_direct)} 篇（含 {len(oa_recovered_aids)} 篇漏网 arXiv + {len(oa_recovered_direct)} 篇开放获取 PDF）！")
+
+    if oa_dirty:
+        try:
+            oa_cache_file.write_text(json.dumps(oa_cache, ensure_ascii=False), encoding="utf-8")
+        except OSError:
+            pass
     if cache_dirty:
         try:
             resolve_cache_file.write_text(json.dumps(resolve_cache, ensure_ascii=False), encoding="utf-8")
@@ -1106,9 +1330,15 @@ def build_for_single_venue(venue: str, args, log: RunLog, single_venue_mode: boo
             papers.extend(dblp_found)
 
     candidates = []
+    seen_oa_urls = set()
     for p in papers:
         arxiv_id = re.sub(r"v\d+$", "", p.get("arxiv_id", "").strip())
-        if not arxiv_id or arxiv_id in seen_arxiv_ids:
+        is_oa_pdf = bool(p.get("oa_pdf") and p.get("paper_url"))
+        if not arxiv_id and not is_oa_pdf:
+            continue
+        if arxiv_id and arxiv_id in seen_arxiv_ids:
+            continue
+        if is_oa_pdf and p["paper_url"] in seen_oa_urls:
             continue
 
         pub_date = p.get("published_date", "")
@@ -1131,8 +1361,12 @@ def build_for_single_venue(venue: str, args, log: RunLog, single_venue_mode: boo
         if not args.no_relevance_filter and not is_recommendation_relevant(p["title"], abstract):
             continue
 
-        seen_arxiv_ids.add(arxiv_id)
+        if arxiv_id:
+            seen_arxiv_ids.add(arxiv_id)
+        if is_oa_pdf:
+            seen_oa_urls.add(p["paper_url"])
         p["arxiv_id"] = arxiv_id
+        p["_clf_key"] = arxiv_id or ("oa_" + hashlib.md5(p["paper_url"].encode("utf-8")).hexdigest()[:12])
         candidates.append((p, abstract))
 
     llm_results = {}
@@ -1146,7 +1380,7 @@ def build_for_single_venue(venue: str, args, log: RunLog, single_venue_mode: boo
             model = resolve_model(args.llm_model)
             print(f"[{venue} LLM] 使用 {model} 对 {len(candidates)} 篇新发现候选论文做严格推荐相关性判断与分类 ...")
             items = [
-                {"arxiv_id": p["arxiv_id"], "title": p["title"], "abstract": abstract}
+                {"arxiv_id": p["_clf_key"], "title": p["title"], "abstract": abstract}
                 for p, abstract in candidates
             ]
             llm_results = classify_items(
@@ -1164,7 +1398,8 @@ def build_for_single_venue(venue: str, args, log: RunLog, single_venue_mode: boo
     new_rows = []
     for p, abstract in candidates:
         arxiv_id = p["arxiv_id"]
-        result = llm_results.get(arxiv_id)
+        clf_key = p.get("_clf_key") or arxiv_id
+        result = llm_results.get(clf_key)
         if result and result.get("source") != "error":
             if (
                 not args.no_relevance_filter
@@ -1179,10 +1414,11 @@ def build_for_single_venue(venue: str, args, log: RunLog, single_venue_mode: boo
                 category = classify(p["title"], abstract)
         else:
             category = classify(p["title"], abstract)
+        final_paper_url = f"https://arxiv.org/abs/{arxiv_id}" if arxiv_id else p.get("paper_url", "")
         new_rows.append({
             "title": p["title"],
             "arxiv_id": arxiv_id,
-            "paper_url": f"https://arxiv.org/abs/{arxiv_id}",
+            "paper_url": final_paper_url,
             "code_url": p.get("code_url", ""),
             "category": category,
             "venue": venue,

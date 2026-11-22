@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Effects of Personalized and Aggregate Top-N Recommendation Lists on User Preference Ratings",
+    "ee": "https://doi.org/10.1145/3430028",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Context-aware Target Apps Selection and Recommendation for Enhancing Personal Mobile Assistants",
+    "ee": "https://doi.org/10.1145/3447678",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CoSam: An Efficient Collaborative Adaptive Sampler for Recommendation",
+    "ee": "https://doi.org/10.1145/3450289",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Integrating Collaboration and Leadership in Conversational Group Recommender Systems",
+    "ee": "https://doi.org/10.1145/3462759",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research",
+    "ee": "https://doi.org/10.1145/3434185",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning to Respond with Your Favorite Stickers: A Framework of Unifying Multi-Modality and User Preference in Multi-Turn Dialog",
+    "ee": "https://doi.org/10.1145/3429980",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Conversational Search and Recommendation: Introduction to the Special Issue",
+    "ee": "https://doi.org/10.1145/3465272",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dialogue History Matters! Personalized Response Selection in Multi-Turn Retrieval-Based Chatbots",
+    "ee": "https://doi.org/10.1145/3453183",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-start Users",
+    "ee": "https://doi.org/10.1145/3446427",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multilingual Review-aware Deep Recommender System via Aspect-based Sentiment Analysis",
+    "ee": "https://doi.org/10.1145/3432049",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Popularity Bias in False-positive Metrics for Recommender Systems Evaluation",
+    "ee": "https://doi.org/10.1145/3452740",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MyrrorBot: A Digital Assistant Based on Holistic User Models for Personalized Access to Online Services",
+    "ee": "https://doi.org/10.1145/3447679",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Interactive Sequential Basket Recommendation by Learning Basket Couplings and Positive/Negative Feedback",
+    "ee": "https://doi.org/10.1145/3444368",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Toward Dynamic User Intention: Temporal Evolutionary Effects of Item Relations in Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3432244",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Why or Why Not? The Effect of Justification Styles on Chatbot Recommendations",
+    "ee": "https://doi.org/10.1145/3441715",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modeling Multiple Coexisting Category-Level Intentions for Next Item Recommendation",
+    "ee": "https://doi.org/10.1145/3441642",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "RLPS: A Reinforcement Learning-Based Framework for Personalized Search",
+    "ee": "https://doi.org/10.1145/3446617",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Inductive Contextual Relation Learning for Personalization",
+    "ee": "https://doi.org/10.1145/3450353",
+    "key": "dblp_sparql"
+  }
+]

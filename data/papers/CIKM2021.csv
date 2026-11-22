@@ -1,0 +1,44 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+LT-OCF: Learnable-Time ODE-based Collaborative Filtering,2108.06208,https://arxiv.org/abs/2108.06208,,graph_rec,CIKM,2021
+Self-Supervised Graph Co-Training for Session-based Recommendation,2108.10560,https://arxiv.org/abs/2108.10560,,sequential_rec,CIKM,2021
+Hyperbolic Hypergraphs for Sequential Recommendation,2108.08134,https://arxiv.org/abs/2108.08134,,sequential_rec,CIKM,2021
+CMML: Contextual Modulation Meta Learning for Cold-Start Recommendation,2108.10511,https://arxiv.org/abs/2108.10511,,cold_start_rec,CIKM,2021
+Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer,2108.06625,https://arxiv.org/abs/2108.06625,https://github.com/DyGRec/TGSRec,sequential_rec,CIKM,2021
+Generative Inverse Deep Reinforcement Learning for Online Recommendation,2011.02248,https://arxiv.org/abs/2011.02248,,rl_bandit_rec,CIKM,2021
+Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation,2106.06165,https://arxiv.org/abs/2106.06165,https://github.com/DyGRec/DT4SR,sequential_rec,CIKM,2021
+Cross-Market Product Recommendation,2109.05929,https://arxiv.org/abs/2109.05929,,cross_domain_multi_scenario,CIKM,2021
+Unbiased Filtering Of Accidental Clicks in Verizon Media Native Advertising,2312.05017,https://arxiv.org/abs/2312.05017,,ctr_feature_interaction,CIKM,2021
+Reinforcement Learning to Optimize Lifetime Value in Cold-Start Recommendation,2108.09141,https://arxiv.org/abs/2108.09141,,rl_bandit_rec,CIKM,2021
+GLocal-K: Global and Local Kernels for Recommender Systems,2108.12184,https://arxiv.org/abs/2108.12184,,collaborative_filtering,CIKM,2021
+Click-Through Rate Prediction with Multi-Modal Hypergraphs,2109.02398,https://arxiv.org/abs/2109.02398,,ctr_feature_interaction,CIKM,2021
+TSI: an Ad Text Strength Indicator using Text-to-CTR and Semantic-Ad-Similarity,2108.08226,https://arxiv.org/abs/2108.08226,,ctr_feature_interaction,CIKM,2021
+Social Recommendation with Self-Supervised Metagraph Informax Network,2110.03958,https://arxiv.org/abs/2110.03958,https://github.com/SocialRecsys/SMIN,social_group_rec,CIKM,2021
+Dual Correction Strategy for Ranking Distillation in Top-N Recommender System,2109.03459,https://arxiv.org/abs/2109.03459,,collaborative_filtering,CIKM,2021
+UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation,2110.15114,https://arxiv.org/abs/2110.15114,,graph_rec,CIKM,2021
+Extracting Attentive Social Temporal Excitation for Sequential Recommendation,2109.13539,https://arxiv.org/abs/2109.13539,,sequential_rec,CIKM,2021
+Concept-Aware Denoising Graph Neural Network for Micro-Video Recommendation,2109.13527,https://arxiv.org/abs/2109.13527,,graph_rec,CIKM,2021
+SimpleX: A Simple and Strong Baseline for Collaborative Filtering,2109.12613,https://arxiv.org/abs/2109.12613,,collaborative_filtering,CIKM,2021
+Lightweight Self-Attentive Sequential Recommendation,2108.11333,https://arxiv.org/abs/2108.11333,,sequential_rec,CIKM,2021
+One Model to Serve All: Star Topology Adaptive Recommender for Multi-Domain CTR Prediction,2101.11427,https://arxiv.org/abs/2101.11427,,cross_domain_multi_scenario,CIKM,2021
+SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios,2110.06475,https://arxiv.org/abs/2110.06475,,cross_domain_multi_scenario,CIKM,2021
+How Powerful is Graph Convolution for Recommendation?,2108.07567,https://arxiv.org/abs/2108.07567,,graph_rec,CIKM,2021
+Counterfactual Explainable Recommendation,2108.10539,https://arxiv.org/abs/2108.10539,,debias_fairness_industrial,CIKM,2021
+DSKReG: Differentiable Sampling on Knowledge Graph for Recommendation with Relational GNN,2108.11883,https://arxiv.org/abs/2108.11883,https://github.com/YuWang-1024/DSKReG,graph_rec,CIKM,2021
+Fully Hyperbolic Graph Convolution Network for Recommendation,2108.04607,https://arxiv.org/abs/2108.04607,,graph_rec,CIKM,2021
+Disentangled Self-Attentive Neural Networks for Click-Through Rate Prediction,2101.03654,https://arxiv.org/abs/2101.03654,,ctr_feature_interaction,CIKM,2021
+Top-N Recommendation with Counterfactual User Preference Simulation,2109.02444,https://arxiv.org/abs/2109.02444,,debias_fairness_industrial,CIKM,2021
+SIFN: A Sentiment-aware Interactive Fusion Network for Review-based Item Recommendation,2108.08022,https://arxiv.org/abs/2108.08022,,multimodal_rec,CIKM,2021
+Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation,2109.04200,https://arxiv.org/abs/2109.04200,,social_group_rec,CIKM,2021
+Self-supervised Learning for Large-scale Item Recommendations,2007.12865,https://arxiv.org/abs/2007.12865,,self_supervised_denoising,CIKM,2021
+Open Benchmarking for Click-Through Rate Prediction,2009.05794,https://arxiv.org/abs/2009.05794,,ctr_feature_interaction,CIKM,2021
+Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality,2107.13876,https://arxiv.org/abs/2107.13876,,debias_fairness_industrial,CIKM,2021
+Learning Dual Dynamic Representations on Time-Sliced User-Item Interaction Graphs for Sequential Recommendation,2109.11790,https://arxiv.org/abs/2109.11790,,sequential_rec,CIKM,2021
+ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation,2104.02262,https://arxiv.org/abs/2104.02262,,poi_spatiotemporal_rec,CIKM,2021
+Zero Shot on the Cold-Start Problem: Model-Agnostic Interest Learning for Recommender Systems,2108.13592,https://arxiv.org/abs/2108.13592,,cold_start_rec,CIKM,2021
+Deep Retrieval: Learning A Retrievable Structure for Large-Scale Recommendations,2007.07203,https://arxiv.org/abs/2007.07203,,collaborative_filtering,CIKM,2021
+DeepGroup: Representation Learning for Group Recommendation with Implicit Feedback,2103.07597,https://arxiv.org/abs/2103.07597,,social_group_rec,CIKM,2021
+LightMove: A Lightweight Next-POI Recommendation for Taxicab Rooftop Advertising,2108.04993,https://arxiv.org/abs/2108.04993,,poi_spatiotemporal_rec,CIKM,2021
+Conditional Attention Networks for Distilling Knowledge Graphs in Recommendation,2111.02100,https://arxiv.org/abs/2111.02100,,graph_rec,CIKM,2021
+CausCF: Causal Collaborative Filtering for RecommendationEffect Estimation,2105.13881,https://arxiv.org/abs/2105.13881,,debias_fairness_industrial,CIKM,2021
+USER: A Unified Information Search and Recommendation Model based on Integrated Behavior Sequence,2109.15012,https://arxiv.org/abs/2109.15012,,cross_domain_multi_scenario,CIKM,2021
+"RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms",2011.01731,https://arxiv.org/abs/2011.01731,,debias_fairness_industrial,CIKM,2021

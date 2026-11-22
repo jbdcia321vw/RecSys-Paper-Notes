@@ -7,9 +7,9 @@ hide:
 
 > **研究范畴**：矩阵分解、双塔向量内积检索、ANN 索引量化、解耦表征与负采样理论
 
-当前方向共收录 **356** 篇顶会/顶刊论文解读：
+当前方向共收录 **450** 篇顶会/顶刊论文解读：
 
-🔥 **高频交叉主题：** 去偏公平与可信推荐 ×28 · 大语言模型推荐 ×16 · 流行度去偏 ×12 · 对比学习 ×8 · 知识蒸馏 ×7 · 生成式推荐 ×6 · 线性自编码器 ×6 · 因果去偏 ×5
+🔥 **高频交叉主题：** 去偏公平与可信推荐 ×29 · 大语言模型推荐 ×17 · 流行度去偏 ×15 · 知识蒸馏 ×10 · 对比学习 ×8 · 负采样 ×8 · 因果去偏 ×6 · 多行为推荐 ×6
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -22,106 +22,145 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">238</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">163</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">40</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">33</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">31</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">28</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">16</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">14</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="流行度去偏" aria-pressed="false">流行度去偏<span class="paper-tag-filter__count">12</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤" aria-pressed="false">协同过滤<span class="paper-tag-filter__count">10</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="自监督对比学习与交互去噪" aria-pressed="false">自监督对比学习与交互去噪<span class="paper-tag-filter__count">10</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">295</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">204</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">53</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">46</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">40</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">29</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">22</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤" aria-pressed="false">协同过滤<span class="paper-tag-filter__count">20</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">17</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="流行度去偏" aria-pressed="false">流行度去偏<span class="paper-tag-filter__count">15</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="自监督对比学习与交互去噪" aria-pressed="false">自监督对比学习与交互去噪<span class="paper-tag-filter__count">11</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">10</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对比学习" aria-pressed="false">对比学习<span class="paper-tag-filter__count">8</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">7</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="负采样" aria-pressed="false">负采样<span class="paper-tag-filter__count">8</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">7</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动与长尾推荐" aria-pressed="false">冷启动与长尾推荐<span class="paper-tag-filter__count">6</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="因果去偏" aria-pressed="false">因果去偏<span class="paper-tag-filter__count">6</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多行为推荐" aria-pressed="false">多行为推荐<span class="paper-tag-filter__count">6</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">6</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="矩阵分解" aria-pressed="false">矩阵分解<span class="paper-tag-filter__count">6</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="线性自编码器" aria-pressed="false">线性自编码器<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="因果去偏" aria-pressed="false">因果去偏<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回/排序" aria-pressed="false">召回/排序<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多任务学习" aria-pressed="false">多任务学习<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多兴趣表征" aria-pressed="false">多兴趣表征<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">5</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多行为推荐" aria-pressed="false">多行为推荐<span class="paper-tag-filter__count">5</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="负采样" aria-pressed="false">负采样<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="联邦推荐" aria-pressed="false">联邦推荐<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LightGCN" aria-pressed="false">LightGCN<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="冷启动与长尾推荐" aria-pressed="false">冷启动与长尾推荐<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与工业架构" aria-pressed="false">去偏公平与工业架构<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="双塔检索" aria-pressed="false">双塔检索<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="双塔模型" aria-pressed="false">双塔模型<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="变分自编码器" aria-pressed="false">变分自编码器<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回/排序" aria-pressed="false">召回/排序<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多兴趣表征" aria-pressed="false">多兴趣表征<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="矩阵分解" aria-pressed="false">矩阵分解<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="联邦推荐" aria-pressed="false">联邦推荐<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="可复现性研究" aria-pressed="false">可复现性研究<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="因果推断" aria-pressed="false">因果推断<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络" aria-pressed="false">图神经网络<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多兴趣建模" aria-pressed="false">多兴趣建模<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对抗训练" aria-pressed="false">对抗训练<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="流行度偏置" aria-pressed="false">流行度偏置<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="解耦表征" aria-pressed="false">解耦表征<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="难负样本挖掘" aria-pressed="false">难负样本挖掘<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Machine Unlearning" aria-pressed="false">Machine Unlearning<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="免训练推荐" aria-pressed="false">免训练推荐<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与工业架构" aria-pressed="false">去偏公平与工业架构<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="双塔检索" aria-pressed="false">双塔检索<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="双塔模型" aria-pressed="false">双塔模型<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="双层优化" aria-pressed="false">双层优化<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="双曲几何" aria-pressed="false">双曲几何<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="可复现性研究" aria-pressed="false">可复现性研究<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="可解释推荐" aria-pressed="false">可解释推荐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="图信号处理" aria-pressed="false">图信号处理<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="图协同过滤" aria-pressed="false">图协同过滤<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多兴趣建模" aria-pressed="false">多兴趣建模<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对抗训练" aria-pressed="false">对抗训练<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多任务学习与列表级重排" aria-pressed="false">多任务学习与列表级重排<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列推荐" aria-pressed="false">序列推荐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="谱滤波" aria-pressed="false">谱滤波<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="负采样偏差校正" aria-pressed="false">负采样偏差校正<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="过平滑" aria-pressed="false">过平滑<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="隐式反馈去噪" aria-pressed="false">隐式反馈去噪<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="AutoML" aria-pressed="false">AutoML<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="BPR" aria-pressed="false">BPR<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Contextual Bandit" aria-pressed="false">Contextual Bandit<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="EASE 闭式解" aria-pressed="false">EASE 闭式解<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Embedding 尺寸搜索" aria-pressed="false">Embedding 尺寸搜索<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="HDBSCAN" aria-pressed="false">HDBSCAN<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="iALS" aria-pressed="false">iALS<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Knowledge Distillation" aria-pressed="false">Knowledge Distillation<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LLM推荐" aria-pressed="false">LLM推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Neural ODE" aria-pressed="false">Neural ODE<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Softmax Loss" aria-pressed="false">Softmax Loss<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Triplet Loss" aria-pressed="false">Triplet Loss<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Two-Tower" aria-pressed="false">Two-Tower<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="乘积量化" aria-pressed="false">乘积量化<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="免训练协同过滤" aria-pressed="false">免训练协同过滤<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="分布鲁棒优化" aria-pressed="false">分布鲁棒优化<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平" aria-pressed="false">去偏公平<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="双曲空间" aria-pressed="false">双曲空间<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="双稳健估计" aria-pressed="false">双稳健估计<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="召回/全库排序" aria-pressed="false">召回/全库排序<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="召回/粗排" aria-pressed="false">召回/粗排<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回/评分预测" aria-pressed="false">召回/评分预测<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="可复现性" aria-pressed="false">可复现性<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="可解释推荐" aria-pressed="false">可解释推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="可复现性评估" aria-pressed="false">可复现性评估<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="后处理/模型修正" aria-pressed="false">后处理/模型修正<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="向量量化" aria-pressed="false">向量量化<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络" aria-pressed="false">图神经网络<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="图卷积网络" aria-pressed="false">图卷积网络<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络推荐" aria-pressed="false">图神经网络推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="在线学习" aria-pressed="false">在线学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多准则推荐" aria-pressed="false">多准则推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多项式图滤波" aria-pressed="false">多项式图滤波<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对抗学习" aria-pressed="false">对抗学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对齐与均匀性" aria-pressed="false">对齐与均匀性<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="属性遗忘 (Attribute Unlearning)" aria-pressed="false">属性遗忘 (Attribute Unlearning)<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="嵌入压缩" aria-pressed="false">嵌入压缩<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="嵌入坍缩" aria-pressed="false">嵌入坍缩<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="嵌入表压缩" aria-pressed="false">嵌入表压缩<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="差分隐私" aria-pressed="false">差分隐私<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="序列推荐" aria-pressed="false">序列推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="截断SVD" aria-pressed="false">截断SVD<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="投毒攻击" aria-pressed="false">投毒攻击<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="损失函数设计" aria-pressed="false">损失函数设计<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="曝光偏差" aria-pressed="false">曝光偏差<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="未观测混杂" aria-pressed="false">未观测混杂<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="本地差分隐私" aria-pressed="false">本地差分隐私<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="流行度偏置" aria-pressed="false">流行度偏置<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="梯度匹配" aria-pressed="false">梯度匹配<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="流式推荐" aria-pressed="false">流式推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="流行度偏差" aria-pressed="false">流行度偏差<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐与离散语义 ID" aria-pressed="false">生成式推荐与离散语义 ID<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="稀疏自编码器" aria-pressed="false">稀疏自编码器<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="粗排" aria-pressed="false">粗排<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排（评分预测）" aria-pressed="false">精排（评分预测）<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="联邦协同过滤" aria-pressed="false">联邦协同过滤<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="联邦学习" aria-pressed="false">联邦学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="联邦推荐安全" aria-pressed="false">联邦推荐安全<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="自适应负采样" aria-pressed="false">自适应负采样<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="谱图滤波" aria-pressed="false">谱图滤波<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="逆倾向加权" aria-pressed="false">逆倾向加权<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="逆倾向加权 (IPS)" aria-pressed="false">逆倾向加权 (IPS)<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="重要性采样" aria-pressed="false">重要性采样<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="门控融合" aria-pressed="false">门控融合<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="闭式解" aria-pressed="false">闭式解<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="难负样本采样" aria-pressed="false">难负样本采样<span class="paper-tag-filter__count">2</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>
 
 <dl data-paper-list>
+<dt data-paper-tags="[&quot;AAAI 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;重排/自适应选题&quot;,&quot;p-VAE&quot;,&quot;信息增益&quot;]"><strong><a href="../../venues/AAAI/2021/collaborative_filtering/educational_question_mining_at_scale_prediction_analysis_and_personalizatio/">Educational Question Mining At Scale: Prediction, Analysis and Personalization</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用 p-VAE 补全稀疏学生-题目答题矩阵，并以信息论指标量化题目质量、难度与个性化选题。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回/评分（矩阵分解）与事后解释&quot;,&quot;影响力估计&quot;,&quot;知识图谱补全&quot;,&quot;梯度回滚&quot;,&quot;可解释推荐&quot;]"><strong><a href="../../venues/AAAI/2021/collaborative_filtering/explaining_neural_matrix_factorization_with_gradient_rollback/">Explaining Neural Matrix Factorization with Gradient Rollback</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>训练中累积每个三元组引起的参数更新量，测试时回滚该更新即可免重训估计样本影响力；ROAR 重训验证 PD 提升 15–39 点，开销仅 3h|D| 内存。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;双曲几何 Poincaré Ball&quot;,&quot;知识图谱注意力聚合&quot;,&quot;双层优化自适应正则&quot;]"><strong><a href="../../venues/AAAI/2021/graph_rec/knowledge_enhanced_top_k_recommendation_in_poincar_ball/">Knowledge-Enhanced Top-K Recommendation in Poincaré Ball</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将用户/物品/KG 实体关系嵌入 Poincaré 球，用双曲注意力+Einstein 中点聚合邻居，并以双层优化自适应学习正则强度，NDCG@20 提升 3.46%–16.70%。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;逆强化学习&quot;,&quot;合成反馈闭环&quot;,&quot;生成式用户模拟&quot;]"><strong><a href="../../venues/AAAI/2021/collaborative_filtering/learning_to_recommend_from_sparse_data_via_generative_user_feedback/">Learning to Recommend from Sparse Data via Generative User Feedback</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用「虚拟用户」奖励估计器+反馈生成器与 CF 推荐器构成闭环，以 IRL 对抗正则在稀疏交互上稳定提升 VAE/MF 类召回 2%~9%。</p>
+</dd>
 <dt data-paper-tags="[&quot;AAAI 2022&quot;,&quot;协同过滤与双塔召回&quot;,&quot;精排/在线增量更新&quot;,&quot;Meta-Learning&quot;,&quot;参数级学习率&quot;,&quot;在线学习&quot;]"><strong><a href="../../venues/AAAI/2022/collaborative_filtering/meta_learning_for_online_update_of_recommender_systems/">Meta-Learning for Online Update of Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
 <p>MeLON 用元学习为每个「交互-参数」对生成二维自适应学习率，突破重要性重加权与元优化的单向灵活性；在三个在线数据集上 HR@5 最高提升 29.9%。</p>
@@ -162,6 +201,10 @@ hide:
 <dd>
 <p>揭示电商场景模态信息弱于协同信号，提出逐步图卷积沿维度分配层权重实现协同-模态共存，并以反向逐步卷积约束更新缓解模态遗忘，三数据集全排序提升2-6%且开销近LightGCN。</p>
 </dd>
+<dt data-paper-tags="[&quot;AAAI 2026&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回（负采样增强/训练阶段）&quot;,&quot;扩散负采样&quot;,&quot;可控硬度负样本&quot;]"><strong><a href="../../venues/AAAI/2026/self_supervised_denoising/adaptive_diffusion_based_augmentation_for_recommendation/">Adaptive Diffusion-based Augmentation for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用扩散前向加噪过程把正样本渐进腐蚀为“可控硬度”负样本，理论定位正负转换点 t* 并按用户打分自适应选步，作为即插即用模块普遍提升 CF 与序列推荐。</p>
+</dd>
 <dt data-paper-tags="[&quot;AAAI 2026&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;正样本扩充&quot;,&quot;分层对比学习&quot;]"><strong><a href="../../venues/AAAI/2026/collaborative_filtering/crops_improving_dense_retrieval_with_cross_perspective_positive_samples_in_/">CroPS: Improving Dense Retrieval with Cross-Perspective Positive Samples in Short-Video Search</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用查询改写/推荐流/LLM 三源扩充正样本，配分层标签与 H-InfoNCE，快手搜索线上 CTR +0.87%、改写率 -0.65%</p>
@@ -177,6 +220,14 @@ hide:
 <dt data-paper-tags="[&quot;AAAI 2026&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;半监督矩阵完成&quot;,&quot;低秩子空间共享&quot;,&quot;泛化界&quot;]"><strong><a href="../../venues/AAAI/2026/collaborative_filtering/generalization_bounds_for_semi_supervised_matrix_completion_with_distributi/">Generalization Bounds for Semi-supervised Matrix Completion with Distributional Side Information</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>提出隐式反馈采样分布与评分矩阵共享低秩子空间的半监督矩阵完成范式，证明误差可解耦为两项独立界，并在 ML-100K/Douban/Yelp 上验证。</p>
+</dd>
+<dt data-paper-tags="[&quot;EMNLP-Findings&quot;,&quot;协同过滤&quot;,&quot;精排&quot;,&quot;Aspect-Sentiment Pair&quot;,&quot;Review-Based Rating Prediction&quot;]"><strong><a href="../../venues/ACL_EMNLP/2021/collaborative_filtering/recommend_for_a_reason_unlocking_the_power_of_unsupervised_aspect_sentiment/">Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>无监督抽取（方面,情感）对并用双通道注意力-属性估计器做评分预测，7 个 Amazon 数据集 MSE 相对降 1.3%–4.1%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ACL 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;精排&quot;,&quot;抽取式摘要&quot;,&quot;BERT&quot;,&quot;K-Means&quot;]"><strong><a href="../../venues/ACL_EMNLP/2021/collaborative_filtering/unsupervised_extractive_summarization_based_representations_for_accurate_an/">Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用 BERT 句向量+K-Means 抽取评论摘要，统一用户/物品表征与解释；Amazon 5-core 评分预测平均 RMSE 0.9210，较最佳基线降 0.52%。</p>
 </dd>
 <dt data-paper-tags="[&quot;ACL 2022&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;双塔语义匹配&quot;,&quot;自监督语言对齐&quot;,&quot;档案感知多头注意力&quot;]"><strong><a href="../../venues/ACL_EMNLP/2022/collaborative_filtering/doctor_recommendation_in_online_health_forums_via_expertise_learning/">Doctor Recommendation in Online Health Forums via Expertise Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -209,6 +260,46 @@ hide:
 <dt data-paper-tags="[&quot;ACM MM 2025&quot;,&quot;去偏公平与可信推荐&quot;,&quot;后处理/嵌入层&quot;,&quot;机器遗忘 (Machine Unlearning)&quot;,&quot;互信息最小化&quot;,&quot;属性推断攻击&quot;]"><strong><a href="../../venues/ACM_MM/2025/debias_fairness_industrial/lego_a_lightweight_and_efficient_multiple_attribute_unlearning_framework_fo/">LEGO: A Lightweight and Efficient Multiple-Attribute Unlearning Framework for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>将多属性遗忘拆为并行嵌入校准与权重组合两步，以互信息最小化保证同时遗忘，动态需求下近零额外开销。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;离散路径索引&quot;,&quot;束搜索&quot;]"><strong><a href="../../venues/CIKM/2021/collaborative_filtering/deep_retrieval_learning_a_retrievable_structure_for_large_scale_recommendat/">Deep Retrieval: Learning A Retrievable Structure for Large-Scale Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出端到端学习的K×D路径索引与束搜索召回，在MovieLens/Amazon及线上亿级系统逼近暴力检索并显著优于ANN。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;协同过滤与双塔召回&quot;,&quot;精排&quot;,&quot;知识蒸馏&quot;,&quot;排序蒸馏&quot;,&quot;隐式反馈&quot;]"><strong><a href="../../venues/CIKM/2021/collaborative_filtering/dual_correction_strategy_for_ranking_distillation_in_top_n_recommender_syst/">Dual Correction Strategy for Ranking Distillation in Top-N Recommender System</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用师生排名差异动态选取待蒸馏知识，并行做用户侧与物品侧排序校正，Top-5 Hit 相对 RRD 提升 3.0%–6.6%</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;双曲空间&quot;,&quot;图卷积网络&quot;,&quot;Lorentz 模型&quot;]"><strong><a href="../../venues/CIKM/2021/graph_rec/fully_hyperbolic_graph_convolution_network_for_recommendation/">Fully Hyperbolic Graph Convolution Network for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将嵌入、邻域聚合、激活校准与测地距离打分全部置于 Lorentz 双曲空间，避免切空间近似误差，全库排序 R@20 相对 LightGCN 提升 7%–9%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回/评分预测&quot;,&quot;矩阵补全&quot;,&quot;局部-全局核&quot;]"><strong><a href="../../venues/CIKM/2021/collaborative_filtering/glocal_k_global_and_local_kernels_for_recommender_systems/">GLocal-K: Global and Local Kernels for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用局部RBF核预训练AE、全局卷积核微调，在纯评分矩阵上做矩阵补全；ML-1M RMSE 0.822，稀疏场景更稳。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;图信号处理与低通滤波&quot;,&quot;闭式解免训练协同过滤&quot;]"><strong><a href="../../venues/CIKM/2021/graph_rec/how_powerful_is_graph_convolution_for_recommendation/">How Powerful is Graph Convolution for Recommendation?</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用图信号处理证明 LightGCN 本质是低通滤波，导出无限维嵌入闭式解，并提出免训练 GF-CF 基线，Amazon-book 上 Recall@20 较 LightGCN 提升 72.7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;神经微分方程 NODE&quot;,&quot;可学习层组合时间&quot;,&quot;高阶 ODE 求解器与稠密连接&quot;]"><strong><a href="../../venues/CIKM/2021/graph_rec/lt_ocf_learnable_time_ode_based_collaborative_filtering/">LT-OCF: Learnable-Time ODE-based Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将 LightGCN 的离散层传播改写为用户/商品双共演化神经常微分方程，并学习层组合时间点，在三个基准的全库排序评测上稳定超越 LightGCN。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;工业级全链路架构与评测基准&quot;,&quot;离线评测与基准&quot;,&quot;统一数据抽象&quot;,&quot;GPU 加速 Top-K 全排序&quot;]"><strong><a href="../../venues/CIKM/2021/debias_fairness_industrial/recbole_towards_a_unified_comprehensive_and_efficient_framework_for_recomme/">RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出统一 PyTorch 推荐库 RecBole：73 模型 / 28 数据集、六类原子文件与 Interaction 张量结构、四接口标准化评测、GPU 矩阵化 Full-Ranking 加速 13–27×。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;协同过滤&quot;,&quot;召回&quot;,&quot;余弦对比损失&quot;,&quot;负采样比例&quot;,&quot;轻量基线&quot;]"><strong><a href="../../venues/CIKM/2021/collaborative_filtering/simplex_a_simple_and_strong_baseline_for_collaborative_filtering/">SimpleX: A Simple and Strong Baseline for Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出余弦对比损失 CCL 并配合大负采样比，用极简 MF+行为聚合架构在 11 个数据集上超越 29 个基线，NDCG@20 最高提升 48.5%，训练提速 10 倍。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;无穷层消息传递极限&quot;,&quot;约束损失&quot;,&quot;物品共现图&quot;]"><strong><a href="../../venues/CIKM/2021/graph_rec/ultragcn_ultra_simplification_of_graph_convolutional_networks_for_recommend/">UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用约束损失直接逼近无穷层消息传递的收敛态，无显式传播、仅 75 轮收敛，Recall@20 较 DGCF 提升 61.4% 且训练加速 14 倍。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排&quot;,&quot;对抗训练&quot;,&quot;流行度偏差&quot;]"><strong><a href="../../venues/CIKM/2021/debias_fairness_industrial/understanding_the_effects_of_adversarial_personalized_ranking_optimization_/">Understanding the Effects of Adversarial Personalized Ranking Optimization Method on Recommendation Quality</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>揭示 APR 在提升准确率与鲁棒性时放大流行度偏差、降低新颖性与覆盖度，并以梯度更新理论和水玻璃现象验证。</p>
 </dd>
 <dt data-paper-tags="[&quot;ACM Computing Surveys&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回与表征学习&quot;,&quot;对比学习&quot;,&quot;重建学习&quot;,&quot;对抗学习&quot;]"><strong><a href="../../venues/CIKM/2022/self_supervised_denoising/a_comprehensive_survey_on_self_supervised_learning_for_recommendation/">A Comprehensive Survey on Self-Supervised Learning for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -338,6 +429,10 @@ hide:
 <dd>
 <p>在任意谱滤波骨干上以带符号输入信号与带符号物品算子注入显式负反馈，免训练即插即用，全库排序下 R@20 最高提升 32.6%，比 SIGformer 快 7.7–155.3 倍。</p>
 </dd>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;序列与会话推荐&quot;,&quot;召回/排序&quot;,&quot;乘积量化&quot;,&quot;物品码&quot;,&quot;嵌入压缩&quot;]"><strong><a href="../../venues/CIKM/2026/sequential_rec/higher_capacity_transfer_into_jpq_item_codes_for_scalable_sequential_recomm/">Higher Capacity Transfer into JPQ Item Codes for Scalable Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>将高维SVD bootstrap经PQ压缩为固定预算JPQ物品码，在leave-last-out全库nDCG@10上较RecJPQ平均约30%，保持内存高效。</p>
+</dd>
 <dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;LLM推荐&quot;,&quot;召回&quot;,&quot;意图推理&quot;,&quot;个性化稠密检索&quot;,&quot;GRPO&quot;]"><strong><a href="../../venues/CIKM/2026/llm_rec/think_to_personalize_unifying_reasoning_and_retrieval_for_user_centric_pers/">Think-to-Personalize: Unifying Reasoning and Retrieval for User-Centric Personalized Dense Retrieval</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用 SFT+GRPO 两阶段让 LLM 显式推理用户历史生成意图增强查询并统一编码，Full-Ranking 下 Broad/LongTail 召回显著提升，线上订单量 +0.46%</p>
@@ -369,6 +464,34 @@ hide:
 <dt data-paper-tags="[&quot;DASFAA&quot;,&quot;去偏公平与可信推荐&quot;,&quot;精排&quot;,&quot;因果去偏&quot;,&quot;变分推断解耦&quot;,&quot;未观测混杂&quot;]"><strong><a href="../../venues/DASFAA/2025/debias_fairness_industrial/separating_and_learning_latent_confounders_to_enhancing_user_preferences_mo/">Separating and Learning Latent Confounders to Enhancing User Preferences Modeling</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>将前序推荐系统作为未观测混杂代理，用变分推断在隐空间解耦用户偏好与混杂，实现通用去偏，五数据集 Recall@10 全面领先。</p>
+</dd>
+<dt data-paper-tags="[&quot;DASFAA&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;语义对齐&quot;,&quot;协同知识注入&quot;]"><strong><a href="../../venues/DASFAA/2026/llm_rec/enhancing_llm_based_recommendation_through_semantic_aligned_collaborative_k/">Enhancing LLM-based Recommendation through Semantic-Aligned Collaborative Knowledge</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>通过对比对齐与预热投影将协同知识注入 LLM，三阶段训练使 Movie/Book 上 AUC 相对提升 2.6%/4.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;DASFAA 2026&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;符号图卷积&quot;,&quot;负偏好过滤&quot;]"><strong><a href="../../venues/DASFAA/2026/graph_rec/towards_unified_modeling_for_positive_and_negative_preferences_in_sign_awar/">Towards Unified Modeling for Positive and Negative Preferences in Sign-Aware Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>单一符号图编码器统一传播正负偏好，配合负偏好过滤与多任务训练，全库排序下 Recall@10 最高提升 16.21%</p>
+</dd>
+<dt data-paper-tags="[&quot;ECIR 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;精排&quot;,&quot;评论建模&quot;,&quot;零注意力机制&quot;,&quot;相关性匹配&quot;]"><strong><a href="../../venues/ECIR/2021/collaborative_filtering/a_zero_attentive_relevance_matching_networkfor_review_modeling_in_recommend/">A Zero Attentive Relevance Matching Network for Review Modeling in Recommendation System</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用相关性匹配替代语义共注意力，并以零注意力与真实评论辅助损失动态建模评论，在四个 Amazon 5-core 数据集上使 MSE 相对降低 0.8%–1.9%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ECIR 2021&quot;,&quot;去偏公平与工业架构&quot;,&quot;精排/排序&quot;,&quot;因果推断&quot;,&quot;匹配估计器&quot;]"><strong><a href="../../venues/ECIR/2021/debias_fairness_industrial/causality_aware_neighborhood_methods_for_recommender_systems/">Causality-Aware Neighborhood Methods for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用匹配估计器统一邻域推荐，免倾向性估计因果效应并稳健排序；半合成数据全库排序上 CP@10 相对最优基线提升约 5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ECIR&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回&quot;,&quot;联邦学习&quot;,&quot;BPR 成对排序&quot;,&quot;流行度偏置&quot;]"><strong><a href="../../venues/ECIR/2021/debias_fairness_industrial/federank_user_controlled_feedback_with_federated_recommender_systems/">FedeRank: User Controlled Feedback with Federated Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>首个联邦 pairwise 排序推荐框架，用正反馈掩码让用户自主控制披露比例 π，在 Amazon/LibraryThing 上以 10% 披露反超集中式 BPR-MF 约 50%</p>
+</dd>
+<dt data-paper-tags="[&quot;ECIR 2021&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;深度度量学习&quot;,&quot;Triplet Loss&quot;,&quot;会话编码器&quot;]"><strong><a href="../../venues/ECIR/2021/sequential_rec/metric_learning_for_session_based_recommendations/">Metric Learning for Session-based Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将会话推荐重构为共享嵌入空间的度量学习，用位置加权 Triplet/NCAS 损失与轻量编码器实现 SOTA，并给出与 pairwise LTR 的同构性分析与完整消融。</p>
+</dd>
+<dt data-paper-tags="[&quot;ECIR 2021&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排（评分预测）&quot;,&quot;元学习超网络&quot;,&quot;联邦隐私预算&quot;,&quot;可复现性研究&quot;]"><strong><a href="../../venues/ECIR/2021/debias_fairness_industrial/robustness_of_meta_matrix_factorization_against_strict_privacy_constraints/">Robustness of Meta Matrix Factorization Against Strict Privacy Constraints</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>复现 MetaMF 并证明元学习是其抵御严格隐私预算的关键，提出 ΔMAE@β 度量，揭示高活跃用户反而对隐私收紧最敏感。</p>
 </dd>
 <dt data-paper-tags="[&quot;ECIR 2022&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回/排序&quot;,&quot;GAN&quot;,&quot;可复现性评估&quot;]"><strong><a href="../../venues/ECIR/2022/collaborative_filtering/an_evaluation_study_of_generative_adversarial_networks_for_collaborative_fi/">An Evaluation Study of Generative Adversarial Networks for Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -402,6 +525,14 @@ hide:
 <dd>
 <p>在统一用户留出划分与 TPE 调参下复现 FPSR/FPSR+，发现 BISM 在 Amazon-CDs 反超，FPSR 家族在长尾显著占优。</p>
 </dd>
+<dt data-paper-tags="[&quot;ICDE&quot;,&quot;协同过滤&quot;,&quot;召回&quot;,&quot;用户邻域&quot;,&quot;归纳式表征&quot;]"><strong><a href="../../venues/ICDE/2021/collaborative_filtering/explore_user_neighborhood_for_real_time_e_commerce_recommendation/">Explore User Neighborhood for Real-time E-commerce Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用归纳式 UI 模型在线推理用户向量，实时检索相似用户邻域，与全局打分融合，实现工业级实时用户邻域召回；全库排序下平均提升 SASRec 8.9% HR@20，线上点击+2.5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDE&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;多空间度量学习&quot;,&quot;球面黎曼优化&quot;]"><strong><a href="../../venues/ICDE/2021/collaborative_filtering/multi_facet_recommender_networks_with_spherical_optimization/">Multi-Facet Recommender Networks with Spherical Optimization</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用多面投影空间化解单度量空间的表征冲突，并以球面黎曼优化增强鲁棒性，6 数据集 HR/nDCG 最高提升 47%。</p>
+</dd>
 <dt data-paper-tags="[&quot;ICDE&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;端到端训练（联邦推荐）&quot;,&quot;联邦推荐投毒攻击&quot;,&quot;模型投毒与梯度操纵&quot;,&quot;隐私保护与鲁棒聚合&quot;]"><strong><a href="../../venues/ICDE/2022/debias_fairness_industrial/fedrecattack_model_poisoning_attack_to_federated_recommendation/">FedRecAttack: Model Poisoning Attack to Federated Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
 <p>用仅1%公开交互反解全局用户隐向量，配合指数尾部代理损失生成限幅分摊的投毒梯度，3%恶意用户即可把目标物品ER@5推至0.94+且HR@10仅降2.5%。</p>
@@ -418,6 +549,14 @@ hide:
 <dd>
 <p>用 k-DPP 集合概率比较替代 BPR 的点对比较，把相关性排序与多样性排序统一进同一优化准则，全库排序下 Recall@5 相对最优基线提升 8–11%。</p>
 </dd>
+<dt data-paper-tags="[&quot;IJDSA&quot;,&quot;协同过滤&quot;,&quot;召回&quot;,&quot;Item-KNN&quot;,&quot;贝叶斯热门度解耦&quot;]"><strong><a href="../../venues/ICDM/2021/collaborative_filtering/a_probabilistic_perspective_on_nearest_neighbor_for_implicit_recommendation/">A probabilistic perspective on nearest neighbor for implicit recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将 Item-KNN 相似度重解释为条件概率，用 Beta 可信区间选邻居、概率 OR 聚合，并用贝叶斯推断解耦热门度，全库排序 NDCG@50 相对最优 KNN 提升 1.2%–5.6%</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDM 2021&quot;,&quot;协同过滤&quot;,&quot;召回（Embedding 表征层）&quot;,&quot;混合维度 Embedding&quot;,&quot;AutoML/DARTS 双层优化&quot;,&quot;流式推荐&quot;]"><strong><a href="../../venues/ICDM/2021/collaborative_filtering/autoemb_automated_embedding_dimensionality_search_in_streaming_recommendati/">AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用控制器网络为每个用户/物品按流行度软加权选择 2/16/128 维 embedding，并在流式设定下以 DARTS 式双层优化动态搜索，MSE 相对统一维度基线降 2.0%–2.3%。</p>
+</dd>
 <dt data-paper-tags="[&quot;ICDM 2023&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;Neural ODE&quot;,&quot;LightGCN&quot;,&quot;连续图传播&quot;]"><strong><a href="../../venues/ICDM/2023/graph_rec/graph_neural_ordinary_differential_equations_based_method_for_collaborative/">Graph Neural Ordinary Differential Equations-based method for Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>用 1–2 层 GCN 参数化导数函数、以 Neural ODE 积分替代多层堆叠与层组合，Euler 求解器在四个 Amazon 数据集上取得最优 Recall/NDCG 且训练最快。</p>
@@ -433,6 +572,14 @@ hide:
 <dt data-paper-tags="[&quot;ICDM 2024&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;LLM 用户画像重建&quot;,&quot;模型无关知识迁移&quot;,&quot;RecBole 实验框架&quot;]"><strong><a href="../../venues/ICDM/2024/llm_rec/llm_kt_a_versatile_framework_for_knowledge_transfer_from_large_language_mod/">LLM-KT: A Versatile Framework for Knowledge Transfer from Large Language Models to Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>将 LLM 生成的用户画像注入任意 CF 模型的中间层并以重建为辅助任务做知识迁移，模型无关、基于 RecBole 的插件式框架，ML-1M/Amazon CDs 上 NDCG@10 最高 +21.57%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICML&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;神经正切核&quot;,&quot;隐式正则与泛化界&quot;,&quot;曝光偏差去偏&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2021/collaborative_filtering/rethinking_neural_vs_matrix_factorization_collaborative_filtering_the_theor/">Rethinking Neural vs. Matrix-Factorization Collaborative Filtering: the Theoretical Perspectives</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用 NTK、隐式偏差与转导/归纳泛化界严格重审 MCF 与 NCF 之争，指出表达力等价但优化路径与评估协议（曝光偏差）才是胜负关键。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICML&quot;,&quot;协同过滤&quot;,&quot;召回&quot;,&quot;归纳式矩阵分解&quot;,&quot;注意力关系学习&quot;,&quot;冷启动&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2021/collaborative_filtering/towards_open_world_recommendation_an_inductive_model_based_collaborative_fi/">Towards Open-World Recommendation: An Inductive Model-based Collaborative Filtering Approach</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以 key 用户矩阵分解元隐变量为基座，用多头注意力关系图做归纳式消息传递，免特征实现少样本/零样本新用户即时表征，ML-1M 新用户 RMSE 降 4.0%。</p>
 </dd>
 <dt data-paper-tags="[&quot;arXiv 2022&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;重要性重采样&quot;,&quot;负采样偏差校正&quot;,&quot;难负样本缓存&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2022/collaborative_filtering/cache_augmented_inbatch_importance_resampling_for_training_recommender_retr/">Cache-Augmented Inbatch Importance Resampling for Training Recommender Retriever</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -526,6 +673,10 @@ hide:
 <dd>
 <p>两阶段低秩适配器+局部校准的推荐系统机器遗忘框架，20%删除率下兼顾遗忘完整性与效用，比全量重训快约 3 倍。</p>
 </dd>
+<dt data-paper-tags="[&quot;ICLR 2026&quot;,&quot;协同过滤&quot;,&quot;召回&quot;,&quot;VAE-CF&quot;,&quot;潜空间对齐&quot;,&quot;输入掩码&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2026/collaborative_filtering/on_the_mechanisms_of_collaborative_learning_in_vae_recommenders/">On the Mechanisms of Collaborative Learning in VAE Recommenders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>揭示 VAE-CF 协同由隐空间邻近半径支配，提出锚点对齐 PIA 稳定 masking 几何，在三大基准与 Amazon A/B 上稳定提升。</p>
+</dd>
 <dt data-paper-tags="[&quot;ICLR&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;知识蒸馏&quot;,&quot;交叉熵损失&quot;,&quot;排序模仿&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2026/llm_rec/rejuvenating_cross_entropy_loss_in_knowledge_distillation_for_recommender_s/">Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>揭示CE蒸馏损失与NDCG的闭包假设矛盾，提出师生协同子集拆分与自适应加权的RCE-KD，全库排序下NDCG@20最高提升11.76%。</p>
@@ -533,6 +684,10 @@ hide:
 <dt data-paper-tags="[&quot;NeurIPS&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;两级 Softmax 采样&quot;,&quot;负采样偏差校正&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2026/collaborative_filtering/two_level_softmax_sampling_done_right_correcting_bias_from_size_imbalance_a/">Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>揭示两级 softmax 采样因簇大小失衡与簇内相似度离散导致的系统性偏差，提出 S-2LS/SD-2LS 校正，KL 保真度提升 1–4 个数量级且开销近乎为零。</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI 2021&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;离线评测（评估协议）&quot;,&quot;Sampled Metrics&quot;,&quot;Consistency of Ranking Metrics&quot;,&quot;Unbiased Rank Estimator&quot;]"><strong><a href="../../venues/IJCAI/2021/debias_fairness_industrial/on_sampled_metrics_for_item_recommendation_extended_abstract/">On Sampled Metrics for Item Recommendation (Extended Abstract)</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>证明“1 正例 + m 采样负例”的采样排序指标在期望意义下也不保序，给出采样排名的二项分布刻画、无偏排名估计与偏差-方差修正，并在 MovieLens 上验证修正可恢复真实算法排序。</p>
 </dd>
 <dt data-paper-tags="[&quot;IJCAI 2022&quot;,&quot;去偏公平与工业架构&quot;,&quot;精排&quot;,&quot;逆倾向加权 IPS&quot;,&quot;对抗域适应去偏&quot;]"><strong><a href="../../venues/IJCAI/2022/debias_fairness_industrial/towards_resolving_propensity_contradiction_in_offline_recommender_learning/">Towards Resolving Propensity Contradiction in Offline Recommender Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -561,6 +716,46 @@ hide:
 <dt data-paper-tags="[&quot;IJCAI&quot;,&quot;生成式推荐&quot;,&quot;Draft-and-Verify&quot;,&quot;混合稀疏-稠密表征&quot;,&quot;并行验证推理&quot;]"><strong><a href="../../venues/IJCAI/2026/generative_rec/dav_gen_end_to_end_generative_retrieval_via_draft_and_verify/">DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>将生成式检索重构为“起草-验证”双阶段单模型范式，以混合稀疏-稠密表征与复合损失统一召回与排序，工业搜索延迟降至70ms。</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI 2026&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回/精排模型蒸馏部署&quot;,&quot;流行度去偏&quot;,&quot;球面测地路由&quot;,&quot;元学习门控融合&quot;]"><strong><a href="../../venues/IJCAI/2026/debias_fairness_industrial/geodesic_expert_routing_for_unbiased_knowledge_distillation_in_recommendati/">Geodesic Expert Routing for Unbiased Knowledge Distillation in Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>指出知识蒸馏会放大流行度偏差，用按热度分层训练的专家教师+球面测地路由+元去偏门控实现精度-公平双赢。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2021&quot;,&quot;冷启动与长尾推荐&quot;,&quot;召回&quot;,&quot;半个性化分群&quot;,&quot;冷用户嵌入预测&quot;]"><strong><a href="../../venues/KDD/2021/cold_start_rec/a_semi_personalized_system_for_user_cold_start_recommendation_on_music_stre/">A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出DNN预测冷用户嵌入并映射到暖用户分群的半个性化框架，在Deezer全库Top-50与在线A/B显著提升。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;精排&quot;,&quot;损失函数自动搜索&quot;,&quot;Gumbel-softmax 可微硬选择&quot;,&quot;DARTS 双层优化&quot;]"><strong><a href="../../venues/KDD/2021/collaborative_filtering/autoloss_automated_loss_function_search_in_recommendations/">AutoLoss: Automated Loss Function Search in Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以控制器网络逐样本生成候选损失权重并经 Gumbel-softmax 硬选择，DARTS 双层优化自动搜索损失函数，Criteo/ML-20m 上 AUC 全面超越 SLF</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回/排序模型设计&quot;,&quot;AutoML&quot;,&quot;性能预测器&quot;]"><strong><a href="../../venues/KDD/2021/collaborative_filtering/efficient_data_specific_model_search_for_collaborative_filtering/">Efficient Data-specific Model Search for Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>AutoCF 将CF拆为四阶段统一空间，用随机搜索+性能预测器为数据集定制模型，全库排序Recall@20较SOTA提升20.1%–22.7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;拉普拉斯特征映射初始化&quot;,&quot;流形学习与残差双损失&quot;]"><strong><a href="../../venues/KDD/2021/collaborative_filtering/initialization_matters_regularizing_manifold_informed_initialization_for_ne/">Initialization Matters: Regularizing Manifold-informed Initialization for Neural Recommendation Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用带流行度正则的拉普拉斯特征映射（LEPORID）为神经推荐系统提供流形感知初始化，并配残差双损失网络 DLR2，在三个数据集全库排序上显著超越 KNN 与 SOTA 神经模型。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回&quot;,&quot;弹性嵌入 (Elastic Embeddings)&quot;,&quot;端侧轻量化与免重训定制&quot;,&quot;神经架构搜索 (NAS)&quot;]"><strong><a href="../../venues/KDD/2021/debias_fairness_industrial/learning_elastic_embeddings_for_customizing_on_device_recommenders/">Learning Elastic Embeddings for Customizing On-Device Recommenders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将物品嵌入切成可选的块，配合多样性正则与性能估计器驱动的进化搜索，一次训练即可在任意端侧内存预算下免重训定制推荐器，5MB 极紧预算下 Recall@50 提升最高 51%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;深度哈希编码&quot;,&quot;无嵌入表参数化&quot;,&quot;OOV 冷启动&quot;]"><strong><a href="../../venues/KDD/2021/collaborative_filtering/learning_to_embed_categorical_features_without_embedding_tables_for_recomme/">Learning to Embed Categorical Features without Embedding Tables for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用稠密哈希编码加深度嵌入网络彻底取代 one-hot 嵌入表，在 1/4 参数下逼近全量嵌入 AUC 并原生支持 OOV。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2021&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;重排/推理阶段&quot;,&quot;因果推断&quot;,&quot;反事实推理&quot;,&quot;流行度去偏&quot;]"><strong><a href="../../venues/KDD/2021/debias_fairness_industrial/model_agnostic_counterfactual_reasoning_for_eliminating_popularity_bias_in_/">Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出模型无关因果图、多任务训练与反事实推理去除物品流行度直接效应，在五个真实数据集全库排序下显著优于DICE等基线。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;知识蒸馏&quot;,&quot;关系拓扑保持&quot;,&quot;模型压缩&quot;]"><strong><a href="../../venues/KDD/2021/collaborative_filtering/topology_distillation_for_recommender_system/">Topology Distillation for Recommender System</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将教师表示空间的关系拓扑分层（组级原型+组内实体级）蒸馏给轻量学生，Full-Ranking 下 Recall@50 较 SOTA DE 提升 3.0–7.2%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;低秩回归&quot;,&quot;矩阵分解&quot;,&quot;闭式解&quot;]"><strong><a href="../../venues/KDD/2021/collaborative_filtering/towards_a_better_understanding_of_linear_models_for_recommendation/">Towards a Better Understanding of Linear Models for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用统一闭式解揭示低秩回归与矩阵分解的奇异值缩放差异，并提出BPR超参搜索与近邻模型增强，在ML-20M/Netflix全库排序上逼近甚至超越EASE。</p>
 </dd>
 <dt data-paper-tags="[&quot;KDD 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;隐私攻击评测（黑盒 top-N 输出）&quot;,&quot;成员推断攻击&quot;,&quot;解耦表征（Gaussian/vMF）&quot;,&quot;样本重加权与交替训练&quot;]"><strong><a href="../../venues/KDD/2022/debias_fairness_industrial/debiasing_learning_for_membership_inference_attacks_against_recommender_sys/">Debiasing Learning for Membership Inference Attacks Against Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -682,6 +877,10 @@ hide:
 <dd>
 <p>洛伦兹双曲空间对齐 LLM 语义与协同信号，并用 Dasgupta 代价驱动的无超参层次聚类实现用户可调探索-利用权衡，效用最高 +5.49%、多样性 +11.39%。</p>
 </dd>
+<dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回&quot;,&quot;黎曼流形聚合&quot;,&quot;联邦推荐&quot;]"><strong><a href="../../venues/KDD/2026/debias_fairness_industrial/canonfedrec_a_canonical_geometric_framework_for_personalized_federated_reco/">CanonFedRec: A Canonical Geometric Framework for Personalized Federated Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>揭示联邦推荐中聚合物品嵌入崩塌的几何成因，用黎曼投影聚合+散度弹性对齐在单位超球面上重建全局拓扑，显存降低最多 40×。</p>
+</dd>
 <dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;生成式推荐&quot;,&quot;端到端推荐&quot;,&quot;协同记忆库&quot;,&quot;潜在上下文压缩&quot;,&quot;目标感知检索&quot;]"><strong><a href="../../venues/KDD/2026/generative_rec/collaborative_memory_augmentation_for_generative_recommendation/">Collaborative Memory Augmentation for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>为生成式推荐引入跨用户协同记忆库，用可学习查询token压缩序列、目标感知检索与门控交叉注意力融合，Full-Ranking下NDCG@5最高提升23.7%。</p>
@@ -701,6 +900,46 @@ hide:
 <dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;双塔稠密检索&quot;,&quot;Matryoshka 表征学习&quot;,&quot;多语言多垂类&quot;]"><strong><a href="../../venues/KDD/2026/collaborative_filtering/scaling_multilingual_semantic_search_in_uber_eats_delivery/">Scaling Multilingual Semantic Search in Uber Eats Delivery</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>基于 gte-Qwen2 双塔统一多语言多垂类语义召回，InfoNCE+Triplet NCE 两阶段训练与 MRL 多维度服务，Store R@20 相对 Legacy 提升 88%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;去偏公平&quot;,&quot;召回&quot;,&quot;流行度偏置&quot;,&quot;性别公平性&quot;]"><strong><a href="../../venues/RecSys/2021/debias_fairness_industrial/analyzing_item_popularity_bias_of_music_recommender_systems_are_different_g/">Analyzing Item Popularity Bias of Music Recommender Systems: Are Different Genders Equally Affected?</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用中位数/高阶矩/KL/Kendall τ 七维分布度量替代均值差，在 LFM-2b 上揭示七种 CF 算法对女性用户施加更强流行度偏置。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;重排/列表组织&quot;,&quot;UMAP&quot;,&quot;HDBSCAN&quot;]"><strong><a href="../../venues/RecSys/2021/collaborative_filtering/automatic_collection_creation_and_recommendation/">Automatic Collection Creation and Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>在ALS/双塔DNN嵌入上做UMAP降维+HDBSCAN密度聚类自动生成个性化歌单，线上A/B推荐驱动消费2.94→6.83首/日(2.3x)</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2021&quot;,&quot;去偏公平与可信推荐&quot;,&quot;精排&quot;,&quot;Pairwise Ranking&quot;,&quot;可解释性加权&quot;,&quot;曝光偏差IPS&quot;]"><strong><a href="../../venues/RecSys/2021/debias_fairness_industrial/debiased_explainable_pairwise_ranking_from_implicit_feedback/">Debiased Explainable Pairwise Ranking from Implicit Feedback</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>在 BPR 上引入 item 邻域可解释性加权 EBPR，并量化其额外曝光偏差，用 IPS 邻域倾向构造无偏估计 UEBPR，NDCG/MEP 双赢且自带流行度去偏。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;时间集合预测&quot;,&quot;Tweedie 分布 VAE&quot;]"><strong><a href="../../venues/RecSys/2021/sequential_rec/global_local_item_embedding_for_temporal_set_prediction/">Global-Local Item Embedding for Temporal Set Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>GLOIE 用时间衰减集合和的 VAE（Tweedie 输出）刻画全局协同信号，与动态图学到的局部序列嵌入做注意力融合，在三个下一篮基准的全库排序上稳定领先 DNNTSP。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;度量学习&quot;,&quot;翻译向量&quot;,&quot;记忆网络注意力&quot;]"><strong><a href="../../venues/RecSys/2021/collaborative_filtering/hierarchical_latent_relation_modeling_for_collaborative_metric_learning/">Hierarchical Latent Relation Modeling for Collaborative Metric Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用记忆网络注意力分层建模物品-物品与用户-物品潜在翻译向量，改造 CML 三元组损失；Full-Ranking 下 MovieLens/Echonest 排名指标较 AdaCML 提升约 7%/18%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;序列与会话推荐&quot;,&quot;排序（历史候选重排）&quot;,&quot;认知架构 ACT-R&quot;,&quot;重听行为建模&quot;]"><strong><a href="../../venues/RecSys/2021/sequential_rec/predicting_music_relistening_behavior_using_the_act_r_framework/">Predicting Music Relistening Behavior Using the ACT-R Framework</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用 ACT-R 声明记忆五组件建模音乐重听，一周滑窗逐 LE 预测会话剩余曲目，R-prec 0.111，较最强单组件 +6.0%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;NeuMF&quot;,&quot;可复现性评估&quot;,&quot;长尾与偏差&quot;]"><strong><a href="../../venues/RecSys/2021/collaborative_filtering/reenvisioning_collaborative_filtering_vs_matrix_factorization/">Reenvisioning Collaborative Filtering vs Matrix Factorization</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>复现 NCF vs MF 精度对比并扩展至长尾、多样性与偏差维度，证实 MF 精度与长尾双赢、NeuMF 覆盖率更高。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;Reverse MIPS&quot;,&quot;精确检索&quot;,&quot;下界索引&quot;]"><strong><a href="../../venues/RecSys/2021/collaborative_filtering/reverse_maximum_inner_product_search_how_to_efficiently_find_users_who_woul/">Reverse Maximum Inner Product Search: How to efficiently find users who would like to buy my item?</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出精确反向MIPS算法Simpfer，用范数排序、下界数组与块级过滤实现O(1)剪枝，四数据集至少两个数量级加速。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2021&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;稀疏特征分解&quot;,&quot;信息增益赋权&quot;]"><strong><a href="../../venues/RecSys/2021/graph_rec/sparse_feature_factorization_for_recommender_systems_with_knowledge_graphs/">Sparse Feature Factorization for Recommender Systems with Knowledge Graphs</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>KGFlex 以熵驱动信息增益为用户-特征对赋权，仅在用户相关 KG 特征上做稀疏因子分解，全库排序下精度可比、多样性与长尾覆盖显著更优。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回&quot;,&quot;本地差分隐私 (LDP)&quot;,&quot;联邦协同过滤&quot;,&quot;代理网络去链接&quot;]"><strong><a href="../../venues/RecSys/2021/debias_fairness_industrial/stronger_privacy_for_federated_collaborative_filtering_with_implicit_feedba/">Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>在联邦隐式反馈矩阵分解上引入用户级本地差分隐私（kε-LDP 梯度上报）与代理网络去可链接化，MovieLens 全库 HR@10&gt;0.5。</p>
 </dd>
 <dt data-paper-tags="[&quot;RecSys&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;互惠推荐 RRS&quot;,&quot;可转移效用匹配 (TU Matching)&quot;,&quot;IPFP 均衡求解&quot;]"><strong><a href="../../venues/RecSys/2022/collaborative_filtering/matching_theory_based_recommender_systems_in_online_dating/">Matching Theory-based Recommender Systems in Online Dating</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -946,6 +1185,46 @@ hide:
 <dd>
 <p>用 MAM 掩码动作建模 + 混合样本 + 跨阶段 KV 缓存复用，将生成式召回与排序全栈统一，线上延迟降 11.1%、QPS 升 63.6%。</p>
 </dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;无负采样自举学习&quot;,&quot;动量目标编码器&quot;,&quot;邻居随机增广&quot;]"><strong><a href="../../venues/SIGIR/2021/collaborative_filtering/bootstrapping_user_and_item_representations_for_one_class_collaborative_fil/">Bootstrapping User and Item Representations for One-Class Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>BUIR 用在线/目标双编码器互预测替代负采样, 配合邻居随机丢弃增广, 在极稀疏隐式反馈上 Full-Ranking P@10 相对最优基线提升 22.8%–58.7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回&quot;,&quot;因果去偏&quot;,&quot;流行度偏差&quot;,&quot;do-calculus&quot;]"><strong><a href="../../venues/SIGIR/2021/debias_fairness_industrial/causal_intervention_for_leveraging_popularity_bias_in_recommendation/">Causal Intervention for Leveraging Popularity Bias in Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将物品流行度识别为曝光-交互之间的混杂因子，用 do-calculus 解耦训练并在推理期反向注入期望流行度，Kwai 上 Recall@20 相对 BPRMF 提升约 165%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;跨批次负采样&quot;,&quot;双塔模型&quot;,&quot;内存队列&quot;]"><strong><a href="../../venues/SIGIR/2021/collaborative_filtering/cross_batch_negative_sampling_for_training_two_tower_recommenders/">Cross-Batch Negative Sampling for Training Two-Tower Recommenders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>利用编码器 embedding stability，以 FIFO memory bank 复用历史 batch 的 item 向量作为跨批次负样本，在几乎零额外编码开销下把负样本量从 128 扩至 2560，NDCG@50 最高提升 12.19%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;精排&quot;,&quot;属性图匹配&quot;,&quot;内外交互解耦&quot;,&quot;图神经网络&quot;]"><strong><a href="../../venues/SIGIR/2021/collaborative_filtering/neural_graph_matching_based_collaborative_filtering/">Neural Graph Matching based Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将属性交互解耦为内交互与交叉交互，用双属性图匹配结构分别做特征学习与偏好匹配，AUC/NDCG@10 最高提升 4.3%/16.5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;精排&quot;,&quot;混合推荐&quot;,&quot;神经表征学习&quot;,&quot;自编码器正则化&quot;]"><strong><a href="../../venues/SIGIR/2021/collaborative_filtering/neural_representations_in_hybrid_recommender_systems_prediction_versus_regu/">Neural Representations in Hybrid Recommender Systems: Prediction versus Regularization</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>论证混合推荐中神经表征应直接用于打分而非充作正则项，删去 MF 表征与解码器后 RMSE 降 3.8% 且训练更快、内存更省。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;多任务学习与列表级重排&quot;,&quot;重排&quot;,&quot;Metric Optimization&quot;,&quot;RBP Loss&quot;]"><strong><a href="../../venues/SIGIR/2021/multi_task_reranking/new_insights_into_metric_optimization_for_ranking_based_recommendation/">New Insights into Metric Optimization for Ranking-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>系统比较 RR/AP/nDCG/RBP 作为 pairwise 与 listwise 优化目标，提出 RBP 损失，揭示优化指标≠评估指标更优。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;二跳路径聚合&quot;,&quot;多兴趣建模&quot;]"><strong><a href="../../venues/SIGIR/2021/collaborative_filtering/path_based_deep_network_for_candidate_item_matching_in_recommenders/">Path-based Deep Network for Candidate Item Matching in Recommenders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用 TrigNet×SimNet 对用户-物品二跳路径逐条打分并聚合召回，兼顾个性化与兴趣多样性，淘宝线上 PCTR +18.04%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;负采样分布&quot;,&quot;参数密度估计&quot;,&quot;范数裁剪&quot;]"><strong><a href="../../venues/SIGIR/2021/collaborative_filtering/scalable_personalised_item_ranking_through_parametric_density_estimation/">Scalable Personalised Item Ranking through Parametric Density Estimation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以指数族参数密度估计推导点式排序风险与最优负采样分布（排序器自采样、免额外生成器），配合范数裁剪稳定训练；Full-Ranking 下 nDCG@20 较 DREGN-CF 最高 +18%，收敛快 1–2 个数量级。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;排序优化&quot;,&quot;集合排序&quot;,&quot;自适应负采样&quot;]"><strong><a href="../../venues/SIGIR/2021/collaborative_filtering/set2setrank_collaborative_set_to_set_ranking_for_implicit_feedback_based_re/">Set2setRank: Collaborative Set to Set Ranking for Implicit Feedback based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出集合到集合两级排序损失，结合自适应掩码负采样，在Full-Ranking下提升隐式反馈Top-N推荐。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;代理选择 (Proxy Selection)&quot;,&quot;温度 Softmax 硬选择&quot;,&quot;超平面投影度量学习&quot;]"><strong><a href="../../venues/SIGIR/2021/sequential_rec/unsupervised_proxy_selection_for_session_based_recommender_systems/">Unsupervised Proxy Selection for Session-based Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用可学习的 K 个代理在无监督下为匿名会话选择&quot;用户长期兴趣&quot;，结合短期兴趣与超平面投影距离，全库排序 R@20 相对提升最高 45.4%。</p>
+</dd>
 <dt data-paper-tags="[&quot;SIGIR 2022&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回/训练目标&quot;,&quot;损失函数自动生成&quot;,&quot;强化学习搜索&quot;,&quot;奖励过滤&quot;]"><strong><a href="../../venues/SIGIR/2022/collaborative_filtering/autolossgen_automatic_loss_function_generation_for_recommender_systems/">AutoLossGen: Automatic Loss Function Generation for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
 <p>用 RNN 控制器在基础算子空间上以 RL 从零搜索损失函数，配合代理测试与奖励过滤克服稀疏奖励，生成 MaxR/SumR 在 AUC 上稳定超过 MSE/BCE/Hinge/Focal。</p>
@@ -1122,6 +1401,26 @@ hide:
 <dd>
 <p>用独立编码+注意力聚合替代 STAR 的历史拼接，构建双通路稀疏用户向量，MIND NDCG@10 较 STAR 提升 11%，短历史场景反超稠密模型。</p>
 </dd>
+<dt data-paper-tags="[&quot;TKDD&quot;,&quot;协同过滤&quot;,&quot;精排&quot;,&quot;快照集成&quot;,&quot;记忆网络&quot;]"><strong><a href="../../venues/TKDD/2021/collaborative_filtering/neuse_a_neural_snapshot_ensemble_method_for_collaborative_filtering/">NeuSE: A Neural Snapshot Ensemble Method for Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Knowledge Discovery from Data">ACM TKDD</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>复用训练轨迹中的中间快照，用三层记忆网络为每个 user-item 对自适应生成集成权重，配合软标签 KL 训练，在 7 类 CF 骨架上取得最高 15.9% 相对提升。</p>
+</dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;耦合张量分解&quot;,&quot;图正则SNMF&quot;,&quot;ADMM&quot;]"><strong><a href="../../venues/TKDE/2021/collaborative_filtering/coupled_graphs_and_tensor_factorization_for_recommender_systems_and_communi/">Coupled Graphs and Tensor Factorization for Recommender Systems and Community Detection</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出 CGTF：PARAFAC 张量与对角缩放 SNMF 图耦合，ADMM 闭式补全缺失评分与图链接，40% 缺失下 NMSE 降 53.1%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;异构图&quot;,&quot;元路径&quot;,&quot;注意力融合&quot;]"><strong><a href="../../venues/TKDE/2021/graph_rec/deep_collaborative_filtering_with_multi_aspect_information_in_heterogeneous/">Deep Collaborative Filtering with Multi-Aspect Information in Heterogeneous Networks</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用元路径抽取方面级相似度，经 MLP 学习多视角隐因子并以注意力/自注意力融合，在 Leave-One-Out+99 负采样下 HR/NDCG 显著提升。</p>
+</dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;多任务学习与列表级重排&quot;,&quot;召回&quot;,&quot;多行为推荐&quot;,&quot;级联预测&quot;]"><strong><a href="../../venues/TKDE/2021/multi_task_reranking/learning_to_recommend_with_multiple_cascading_behaviors/">Learning to Recommend with Multiple Cascading Behaviors</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>NMTR 以共享嵌入、分行为交互函数与级联预测建模多行为序关系，并在两电商数据集全库排序上显著超越单/多行为基线。</p>
+</dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;负采样器设计&quot;,&quot;多行为反馈融合&quot;]"><strong><a href="../../venues/TKDE/2021/collaborative_filtering/sampler_design_for_bayesian_personalized_ranking_by_leveraging_view_data/">Sampler Design for Bayesian Personalized Ranking by Leveraging View Data</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用电商浏览行为作购买与未观测之间的中间反馈，重构 BPR 负采样器与三元加权损失，在留一法全库排序下 HR 相对提升 35.6%/17.1%。</p>
+</dd>
 <dt data-paper-tags="[&quot;TKDE&quot;,&quot;冷启动与长尾推荐&quot;,&quot;召回&quot;,&quot;离散哈希编码&quot;,&quot;去噪自编码器&quot;,&quot;成对排序损失&quot;]"><strong><a href="../../venues/TKDE/2022/cold_start_rec/deep_pairwise_hashing_for_cold_start_recommendation/">Deep Pairwise Hashing for Cold-start Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
 <p>DAE 内容预训练 + 成对排序离散哈希，将用户/物品映射为二值码用汉明距离检索；10% 稀疏冷启动下 Yelp MRR 较 DDL 提升 23%，在线打分加速 3.7–6.3 倍。</p>
@@ -1186,13 +1485,29 @@ hide:
 <dd>
 <p>用门控专家网络显式建模共享潜在因子，配合对比学习保证因子独立与一致，在三个多行为数据集 Full-Ranking 下 HR@10 最高提升 3.95%。</p>
 </dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;图压缩&quot;,&quot;二分结构损失&quot;,&quot;梯度匹配&quot;]"><strong><a href="../../venues/TKDE/2026/graph_rec/democratic_recommendation_with_user_and_item_representatives_produced_by_gr/">Democratic Recommendation with User and Item Representatives Produced by Graph Condensation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用图压缩生成用户/物品代表，并以二分结构损失 BSL 约束压缩图，80% 数据量下 P@20 仅降 8.5% 且训练快于 LightGCN。</p>
+</dd>
 <dt data-paper-tags="[&quot;TKDE&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;Krylov 子空间&quot;,&quot;多项式图滤波&quot;,&quot;免训练推荐&quot;]"><strong><a href="../../venues/TKDE/2026/collaborative_filtering/memory_is_no_longer_a_bottleneck_memory_efficient_graph_filtering_for_scala/">Memory Is No Longer a Bottleneck: Memory-Efficient Graph Filtering for Scalable Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用逐用户 Krylov 子空间替代全量物品相似度图，实现免训练多项式图滤波，内存降 5.74×、推理加速 26× 且精度反超 SOTA。</p>
 </dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;矩阵分解&quot;,&quot;archi2vec 架构编码&quot;,&quot;迁移性估计&quot;]"><strong><a href="../../venues/TKDE/2026/collaborative_filtering/pre_trained_model_recommendation_for_downstream_fine_tuning/">Pre-Trained Model Recommendation for Downstream Fine-tuning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>将预训练模型选择建模为 model-task 隐空间矩阵分解，配合 archi2vec 架构图编码与 CLIP 代理冷启动，O(1) 排序取得 SOTA 迁移性估计。</p>
+</dd>
 <dt data-paper-tags="[&quot;TMM&quot;,&quot;多模态推荐&quot;,&quot;召回&quot;,&quot;解耦表征&quot;,&quot;多模态注意力&quot;]"><strong><a href="../../venues/TMM/2023/multimodal_rec/disentangled_multimodal_representation_learning_for_recommendation/">Disentangled Multimodal Representation Learning for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Multimedia">IEEE TMM</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>用距离相关正则解耦 ID/文本/视觉特征的 K 个因子，再以权重共享的多模态注意力建模用户对各因子模态偏好，Amazon 五域全库排序 Recall@20 最高提升 15.7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;评测基准与复现审计&quot;,&quot;神经协同过滤&quot;,&quot;基线调优与早停&quot;,&quot;数据划分泄漏&quot;]"><strong><a href="../../venues/TOIS/2021/debias_fairness_industrial/a_troubling_analysis_of_reproducibility_and_progress_in_recommender_systems/">A Troubling Analysis of Reproducibility and Progress in Recommender Systems Research</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>系统复现26篇神经CF论文中的12篇，用统一调优的KNN/线性基线证明11/12可被简单方法击败，揭示评测协议与基线调优的系统性缺陷。</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回/训练采样&quot;,&quot;负采样&quot;,&quot;图扩散核&quot;,&quot;策略梯度&quot;]"><strong><a href="../../venues/TOIS/2021/collaborative_filtering/cosam_an_efficient_collaborative_adaptive_sampler_for_recommendation/">CoSam: An Efficient Collaborative Adaptive Sampler for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>在图扩散核上定义协同采样分布并以自适应随机走采样，再用乘性集成交互框架矫正采样偏置；Epinions 上 Pre@5 提升 61.7% 且比对抗采样快 20 倍。</p>
 </dd>
 <dt data-paper-tags="[&quot;TOIS&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回与排序&quot;,&quot;反射式缺失值填补&quot;,&quot;绑定权重自编码器&quot;,&quot;负采样去偏&quot;]"><strong><a href="../../venues/TOIS/2022/collaborative_filtering/collaborative_reflection_augmented_autoencoder_network_for_recommender_syst/">Collaborative Reflection-Augmented Autoencoder Network for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -1250,9 +1565,25 @@ hide:
 <dd>
 <p>提出锚点分布MMD与函数空间排序正则的PoT-AU双损失，多类属性遗忘复杂度降至O(T)且推荐性能近无损。</p>
 </dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;双塔检索&quot;,&quot;负采样&quot;,&quot;向量索引&quot;]"><strong><a href="../../venues/TOIS/2026/collaborative_filtering/a_comprehensive_survey_on_retrieval_methods_in_recommender_systems/">A Comprehensive Survey on Retrieval Methods in Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>首个系统梳理推荐召回阶段的综述：从相似度学习、索引机制与训练优化三大维度统一归纳，并在公开数据集上完成跨方法基准评测与工业多路召回案例复盘</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;嵌入学习&quot;,&quot;图神经网络&quot;,&quot;哈希与量化压缩&quot;]"><strong><a href="../../venues/TOIS/2026/collaborative_filtering/embedding_in_recommender_systems_a_survey/">Embedding in Recommender Systems: A Survey</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>以「矩阵/序列/图 × 学习范式 × 效率手段」三轴正交框架统一梳理推荐嵌入，归纳哈希/量化/AutoML 压缩路径与 LLM 语义补充，并给出开源复现仓库。</p>
+</dd>
 <dt data-paper-tags="[&quot;TOIS&quot;,&quot;去偏公平与可信推荐&quot;,&quot;精排&quot;,&quot;流行度去偏&quot;,&quot;逆倾向加权&quot;,&quot;列表级学习&quot;]"><strong><a href="../../venues/TOIS/2026/debias_fairness_industrial/mitigating_popularity_bias_in_recommendation_with_global_listwise_learning_/">Mitigating Popularity Bias in Recommendation with Global Listwise Learning and Progressive Bi-Weighting</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用 IPS 加权多项似然实现列表级全局无偏学习，并以 Bi-Weighting 平滑倾向估计与渐进式去偏，六数据集 Recall@20 平均提升 9.43%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS 2026&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回（训练阶段）&quot;,&quot;负采样&quot;,&quot;假负样本&quot;,&quot;难负样本&quot;]"><strong><a href="../../venues/TOIS/2026/collaborative_filtering/negative_sampling_in_recommendation_a_survey_and_future_directions/">Negative Sampling in Recommendation: A Survey and Future Directions</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>首个推荐负采样综述：以静态/动态/对抗生成/重要性重加权/知识增强五类分类法梳理 230+ 文献，剖析假负样本、精度-效率-稳定性三角与跨任务泛化三大挑战及采样复杂度权衡</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;双视图对齐&quot;,&quot;稀疏-稠密融合&quot;,&quot;信噪比分析&quot;,&quot;长尾物品&quot;]"><strong><a href="../../venues/TOIS/2026/collaborative_filtering/why_not_collaborative_filtering_in_dual_view_bridging_sparse_and_dense_mode/">Why not Collaborative Filtering in Dual View? Bridging Sparse and Dense Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>提出稀疏-稠密双视图框架 SaD：用 slim 的结构信号与 MF 语义嵌入互造伪标签对齐，理论上突破冷门物品的 $\sqrt{N_i}$ SNR 上限。</p>
 </dd>
 <dt data-paper-tags="[&quot;TORS 2023&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排&quot;,&quot;因果去偏&quot;,&quot;前门调整&quot;,&quot;未观测混杂&quot;]"><strong><a href="../../venues/TORS/2023/debias_fairness_industrial/deconfounded_causal_collaborative_filtering/">Deconfounded Causal Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -1278,9 +1609,33 @@ hide:
 <dd>
 <p>系统分析 MF 推荐中面向用户簇的投毒攻击，揭示 V 矩阵是攻击传播主通道，簇内真实评分量决定脆弱性。</p>
 </dd>
+<dt data-paper-tags="[&quot;TORS 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回/冷启动表征迁移&quot;,&quot;耦合自编码器&quot;,&quot;潜因子非线性映射&quot;,&quot;两阶段联合优化&quot;]"><strong><a href="../../venues/TORS/2026/cross_domain_multi_scenario/a_cross_domain_recommender_system_using_deep_coupled_autoencoders/">A cross-domain recommender system using deep coupled autoencoders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>提出 CACDR/LFACDR 两种耦合自编码器跨域框架，以“源编码器+MLP映射+目标解码器”端到端联合优化替代分阶段训练，在 MovieLens/Netflix 冷启动物品 RMSE 上平均降低 6.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TORS&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回/多步重训练&quot;,&quot;反馈回路&quot;,&quot;因果推断&quot;]"><strong><a href="../../venues/TORS/2026/debias_fairness_industrial/breaking_feedback_loops_in_recommender_systems_with_causal_inference/">Breaking Feedback Loops in Recommender Systems with Causal Inference</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用因果干预分布与CAFL重加权打破多步推荐反馈回路，仿真MSE较Pan降4.1%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TORS&quot;,&quot;序列与会话推荐&quot;,&quot;精排打分&quot;,&quot;Mixture-of-Experts&quot;,&quot;长短期偏好融合&quot;]"><strong><a href="../../venues/TORS/2026/sequential_rec/compositions_of_variant_experts_for_integrating_short_term_and_long_term_pr/">Compositions of Variant Experts for Integrating Short-Term and Long-Term Preferences</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用 BPR/GRU4Rec 异构专家 + 可学习门控动态融合用户长短期偏好，全库排序下 MRR 最高提升 38.03%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TORS&quot;,&quot;图神经网络推荐&quot;,&quot;召回&quot;,&quot;Cellular Sheaf&quot;,&quot;Sheaf Diffusion&quot;,&quot;BPR&quot;]"><strong><a href="../../venues/TORS/2026/graph_rec/sheaf4rec_sheaf_neural_networks_for_graph_based_recommender_systems/">Sheaf4Rec: Sheaf Neural Networks for Graph-based Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用细胞层 (Cellular Sheaf) 将节点/边表示为向量空间+限制映射,以 Sheaf 拉普拉斯扩散替代单向量 GCN,NDCG@10 最高相对提升 11.29%,且推理耗时反降 2.5%–37%。</p>
+</dd>
 <dt data-paper-tags="[&quot;TWEB&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;元特征学习&quot;,&quot;可视化配置抽象&quot;,&quot;跨数据集迁移&quot;]"><strong><a href="../../venues/TWEB/2022/collaborative_filtering/personalized_visualization_recommendation/">Personalized Visualization Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on the Web">ACM TWEB</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
 <p>用共享元特征空间+数据无关可视化配置抽象，构建四部图矩阵分解实现跨数据集个性化可视化推荐，HIT@5 相对提升 29.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;超长方体用户表示&quot;,&quot;序列兴趣建模&quot;,&quot;键值记忆网络&quot;]"><strong><a href="../../venues/WSDM/2021/collaborative_filtering/learning_user_representations_with_hypercuboids_for_recommender_systems/">Learning User Representations with Hypercuboids for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将用户由点嵌入升级为超长方体（中心+非负偏移），以内外复合距离度量用户-物品关系，全库排序下 Alibaba 线上数据 Recall@50 提升 8.5%–14.3%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2021&quot;,&quot;序列推荐&quot;,&quot;召回&quot;,&quot;稀疏兴趣激活&quot;,&quot;多兴趣表征&quot;,&quot;意图聚合&quot;]"><strong><a href="../../venues/WSDM/2021/sequential_rec/sparse_interest_network_for_sequential_recommendation/">Sparse-Interest Network for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用大规模概念原型池做可微 top-K 稀疏兴趣激活，再以主动意图预测聚合多兴趣向量，Taobao HR@50 相对 MIND 提升 15.2%，工业 4B 数据 HR@50 提升 34.06%。</p>
 </dd>
 <dt data-paper-tags="[&quot;WWW 2020&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;离散哈希码学习&quot;,&quot;直通估计器STE&quot;]"><strong><a href="../../venues/WSDM/2022/graph_rec/learning_to_hash_with_graph_neural_networks_for_recommender_systems/">Learning to Hash with Graph Neural Networks for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -1325,6 +1680,46 @@ hide:
 <dt data-paper-tags="[&quot;WSDM 2026&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;协作信息量化定义&quot;,&quot;协作关系分布实证&quot;,&quot;序列推荐评测&quot;]"><strong><a href="../../venues/WSDM/2026/collaborative_filtering/have_we_really_understood_collaborative_information_an_empirical_investigat/">Have We Really Understood Collaborative Information? An Empirical Investigation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>以物品共现路径长度量化协作信息为0/1/2-hop协作关系，系统实证其在六个基准上的分布、对12种推荐算法的影响与预测依赖，揭示模型强于简单CR、弱于复杂CR的核心规律。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;冷启动与长尾推荐&quot;,&quot;召回&quot;,&quot;元学习&quot;,&quot;课程学习&quot;,&quot;长尾分布&quot;]"><strong><a href="../../venues/WWW/2021/cold_start_rec/a_model_of_two_tales_dual_transfer_learning_framework_for_improved_long_tai/">A Model of Two Tales: Dual Transfer Learning Framework for Improved Long-tail Item Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>双迁移 MIRec：元映射学习少样本→多样本模型参数演化，配合长尾感知课程迁移打通头部与尾部物品，MovieLens1M 尾部 HR@10 相对提升 14.9%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;精排&quot;,&quot;知识蒸馏&quot;,&quot;秩差异感知采样&quot;,&quot;双向互学习&quot;]"><strong><a href="../../venues/WWW/2021/collaborative_filtering/bidirectional_distillation_for_top_k_recommender_system/">Bidirectional Distillation for Top-K Recommender System</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>打破“教师恒优”单向蒸馏假设，用方向差异化的秩差异感知采样实现师生互教，Full-Ranking 下学生 H@50 相对 CD/RD 提升 3.0%–13.9%，教师自身亦涨 3.8%–20.8%</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回/用户建模&quot;,&quot;EEG/ERP&quot;,&quot;NCF&quot;]"><strong><a href="../../venues/WWW/2021/collaborative_filtering/collaborative_filtering_with_preferences_inferred_from_brain_signals/">Collaborative Filtering with Preferences Inferred from Brain Signals</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用EEG/ERP直接解码面孔偏好并输入NCF，在31人×240项、10%缺失下RMSE 0.29，较SVD/kNN与随机显著更优。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回&quot;,&quot;因果嵌入解耦&quot;,&quot;流行度去偏&quot;,&quot;非IID鲁棒性&quot;]"><strong><a href="../../venues/WWW/2021/debias_fairness_industrial/disentangling_user_interest_and_conformity_for_recommendation_with_causal_e/">Disentangling User Interest and Conformity for Recommendation with Causal Embedding</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用对撞效应构造因果特定数据，把用户兴趣与从众拆成两套嵌入，在干预非IID测试集上 Recall@20 相对提升逾 20%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;协同过滤&quot;,&quot;召回&quot;,&quot;解释反馈配对学习&quot;,&quot;随机游走重启 (RWR)&quot;]"><strong><a href="../../venues/WWW/2021/collaborative_filtering/elixir_learning_from_user_feedback_on_explanations_to_improve_recommender_m/">ELIXIR: Learning from User Feedback on Explanations to Improve Recommender Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>让解释反馈可行动：对⟨推荐,解释⟩配对做二值相似度判断，经伪物品标签传播稠密化后学习用户偏好向量，注入 RWR 图推荐，Movie/Book 真实用户研究 P@5 提升 60–79%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;未来行为建模&quot;,&quot;胶囊动态路由&quot;,&quot;多趋势表征&quot;]"><strong><a href="../../venues/WWW/2021/sequential_rec/future_aware_diverse_trends_framework_for_recommendation/">Future-Aware Diverse Trends Framework for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用相似用户的相对未来行为构造未来序列，经胶囊动态路由聚成多趋势向量并以时间感知注意力融合，在 Amazon/Steam/ML-1M 上 Full-Ranking 下 Recall@50 最高提升 9.4% 且显著更diverse。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;行程感知注意力&quot;,&quot;双目标联合训练&quot;]"><strong><a href="../../venues/WWW/2021/collaborative_filtering/itinerary_aware_personalized_deep_matching_at_fliggy/">Itinerary-aware Personalized Deep Matching at Fliggy</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以「未消费订单列表=行程」为用户侧输入，用三重行程感知注意力 + 意图/点击双目标训练的双塔深度召回，在飞猪生产数据与线上 A/B 中 CTR 较 MIND 提升 1.3%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;协同过滤&quot;,&quot;召回&quot;,&quot;评论属性注意力&quot;,&quot;信息采纳理论&quot;,&quot;属性感知负采样&quot;]"><strong><a href="../../venues/WWW/2021/collaborative_filtering/leveraging_review_properties_for_effective_recommendation/">Leveraging Review Properties for Effective Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用 BERT 语义 + 六维评论属性注意力刻画评论有用性，配合属性一致性损失与属性感知负采样，Yelp/Amazon 时间切分下 MAP 较最优基线提升 19%–36%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;投影汉明不相似度&quot;,&quot;二值哈希码&quot;,&quot;变分哈希&quot;]"><strong><a href="../../venues/WWW/2021/collaborative_filtering/projected_hamming_dissimilarity_for_bit_level_importance_coding_in_collabor/">Projected Hamming Dissimilarity for Bit-Level Importance Coding in Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出投影汉明不相似度与变分哈希模型，在4个数据集上以同等存储和时延实现哈希CF最高+7% NDCG、+14% MRR。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;闭式解线性模型&quot;,&quot;物品-物品相似度&quot;,&quot;会话时效性&quot;]"><strong><a href="../../venues/WWW/2021/sequential_rec/session_aware_linear_item_item_models_for_session_based_recommendation/">Session-aware Linear Item-Item Models for Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以闭式解线性物品-物品模型统一建模会话一致性、序列依赖、重复消费与时效性的 SLIST，全库排序下 HR@20 最高提升 9.76%，训练比 SR-GNN 快 768×</p>
 </dd>
 <dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;在线知识蒸馏&quot;,&quot;异构目标一致性&quot;,&quot;多任务梯度归一化&quot;]"><strong><a href="../../venues/WWW/2022/collaborative_filtering/consensus_learning_from_heterogeneous_objectives_for_one_class_collaborativ/">Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -1525,6 +1920,10 @@ hide:
 <dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;稀疏嵌入&quot;,&quot;渐进剪枝&quot;,&quot;线性自编码器&quot;]"><strong><a href="../../venues/WWW/2026/collaborative_filtering/efficient_learning_of_sparse_representations_from_interactions/">Efficient Learning of Sparse Representations from Interactions</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>在 ELSA 线性自编码器训练中渐进剪枝学习高维稀疏物品嵌入，实现最高 100× 压缩仅损 2.5% nDCG，并派生可解释语义分段。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;图 ANN 检索&quot;,&quot;多关系度量学习&quot;,&quot;GPU 并行计算&quot;]"><strong><a href="../../venues/WWW/2026/collaborative_filtering/gpu_accelerated_multi_relational_parallel_graph_retrieval_for_web_scale_rec/">GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>百度 GMP-GR 用自协变损失把欧氏排序规律注入多行为 DNN 度量，并配 GPU 分层并行图检索，Cov 较 NANN 提升 20%+、吞吐翻倍。</p>
 </dd>
 <dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;Target-Aware 蒸馏&quot;,&quot;Generate-then-Rank&quot;,&quot;分解因果自注意力&quot;]"><strong><a href="../../venues/WWW/2026/collaborative_filtering/grank_towards_target_aware_and_streamlined_industrial_retrieval_with_a_gene/">GRank: Towards Target-Aware and Streamlined Industrial Retrieval with a Generate-Rank Framework</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>

@@ -1,0 +1,41 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+POINTREC: A Test Collection for Narrative-driven Point of Interest Recommendation,2105.09204,https://arxiv.org/abs/2105.09204,,poi_spatiotemporal_rec,SIGIR,2021
+Learning a Fine-Grained Review-based Transformer Model for Personalized Product Search,2004.09424,https://arxiv.org/abs/2004.09424,,sequential_rec,SIGIR,2021
+AutoDebias: Learning to Debias for Recommendation,2105.04170,https://arxiv.org/abs/2105.04170,https://github.com/DongHande/AutoDebias,debias_fairness_industrial,SIGIR,2021
+On Interpretation and Measurement of Soft Attributes for Recommendation,2105.09179,https://arxiv.org/abs/2105.09179,,agent_conversational_rec,SIGIR,2021
+Sequential Recommendation with Graph Neural Networks,2106.14226,https://arxiv.org/abs/2106.14226,,sequential_rec,SIGIR,2021
+Set2setRank: Collaborative Set to Set Ranking for Implicit Feedback based Recommendation,2105.07377,https://arxiv.org/abs/2105.07377,,collaborative_filtering,SIGIR,2021
+Looking at CTR Prediction Again: Is Attention All You Need?,2105.05563,https://arxiv.org/abs/2105.05563,,ctr_feature_interaction,SIGIR,2021
+Unsupervised Proxy Selection for Session-based Recommender Systems,2107.03564,https://arxiv.org/abs/2107.03564,,sequential_rec,SIGIR,2021
+ScaleFreeCTR: MixCache-based Distributed Training System for CTR Models with Huge Embedding Table,2104.08542,https://arxiv.org/abs/2104.08542,,ctr_feature_interaction,SIGIR,2021
+Enhanced Doubly Robust Learning for Debiasing Post-click Conversion Rate Estimation,2105.13623,https://arxiv.org/abs/2105.13623,https://github.com/guosyjlu/MRDR-DL,ctr_feature_interaction,SIGIR,2021
+Deep Position-wise Interaction Network for CTR Prediction,2106.05482,https://arxiv.org/abs/2106.05482,,ctr_feature_interaction,SIGIR,2021
+AdsGNN: Behavior-Graph Augmented Relevance Modeling in Sponsored Search,2104.12080,https://arxiv.org/abs/2104.12080,,ctr_feature_interaction,SIGIR,2021
+Bootstrapping User and Item Representations for One-Class Collaborative Filtering,2105.06323,https://arxiv.org/abs/2105.06323,,collaborative_filtering,SIGIR,2021
+Path-based Deep Network for Candidate Item Matching in Recommenders,2105.08246,https://arxiv.org/abs/2105.08246,,collaborative_filtering,SIGIR,2021
+Learning Graph Meta Embeddings for Cold-Start Ads in Click-Through Rate Prediction,2105.08909,https://arxiv.org/abs/2105.08909,,cold_start_rec,SIGIR,2021
+EXTRA: Explanation Ranking Datasets for Explainable Recommendation,2102.10315,https://arxiv.org/abs/2102.10315,,debias_fairness_industrial,SIGIR,2021
+Personalized News Recommendation with Knowledge-aware Interactive Matching,2104.10083,https://arxiv.org/abs/2104.10083,,graph_rec,SIGIR,2021
+New Insights into Metric Optimization for Ranking-based Recommendation,2106.02545,https://arxiv.org/abs/2106.02545,,multi_task_reranking,SIGIR,2021
+Learning to Ask Appropriate Questions in Conversational Recommendation,2105.04774,https://arxiv.org/abs/2105.04774,,agent_conversational_rec,SIGIR,2021
+Neural Representations in Hybrid Recommender Systems: Prediction versus Regularization,2010.06070,https://arxiv.org/abs/2010.06070,,collaborative_filtering,SIGIR,2021
+Neural Graph Matching based Collaborative Filtering,2105.04067,https://arxiv.org/abs/2105.04067,,collaborative_filtering,SIGIR,2021
+Clicks can be Cheating: Counterfactual Recommendation for Mitigating Clickbait Issue,2009.09945,https://arxiv.org/abs/2009.09945,,debias_fairness_industrial,SIGIR,2021
+TFROM: A Two-sided Fairness-Aware Recommendation Model for Both Customers and Providers,2104.09024,https://arxiv.org/abs/2104.09024,,debias_fairness_industrial,SIGIR,2021
+Scalable Personalised Item Ranking through Parametric Density Estimation,2105.04769,https://arxiv.org/abs/2105.04769,,collaborative_filtering,SIGIR,2021
+Sequential Recommendation for Cold-start Users with Meta Transitional Learning,2107.06427,https://arxiv.org/abs/2107.06427,,cold_start_rec,SIGIR,2021
+Cross-Batch Negative Sampling for Training Two-Tower Recommenders,2110.15154,https://arxiv.org/abs/2110.15154,,collaborative_filtering,SIGIR,2021
+Privileged Graph Distillation for Cold Start Recommendation,2105.14975,https://arxiv.org/abs/2105.14975,,cold_start_rec,SIGIR,2021
+Counterfactual Explanations for Neural Recommenders,2105.05008,https://arxiv.org/abs/2105.05008,,debias_fairness_industrial,SIGIR,2021
+ConsisRec: Enhancing GNN for Social Recommendation via Consistent Neighbor Aggregation,2105.02254,https://arxiv.org/abs/2105.02254,,social_group_rec,SIGIR,2021
+Comparison-based Conversational Recommender System with Relative Bandit Feedback,2208.09837,https://arxiv.org/abs/2208.09837,,agent_conversational_rec,SIGIR,2021
+Empowering News Recommendation with Pre-trained Language Models,2104.07413,https://arxiv.org/abs/2104.07413,,llm_rec,SIGIR,2021
+Causal Intervention for Leveraging Popularity Bias in Recommendation,2105.06067,https://arxiv.org/abs/2105.06067,,debias_fairness_industrial,SIGIR,2021
+Graph Meta Network for Multi-Behavior Recommendation,2110.03969,https://arxiv.org/abs/2110.03969,https://github.com/akaxlh/MB-GMN,graph_rec,SIGIR,2021
+Self-supervised Graph Learning for Recommendation,2010.10783,https://arxiv.org/abs/2010.10783,https://github.com/wujcan/SGL,self_supervised_denoising,SIGIR,2021
+Topology-aware Debiased Self-supervised Graph Learning for Recommendation,2310.15858,https://arxiv.org/abs/2310.15858,https://github.com/malajikuai/TDSGL,self_supervised_denoising,SIGIR,2021
+CauseRec: Counterfactual User Sequence Synthesis for Sequential Recommendation,2109.05261,https://arxiv.org/abs/2109.05261,,sequential_rec,SIGIR,2021
+Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks,2105.04790,https://arxiv.org/abs/2105.04790,,cold_start_rec,SIGIR,2021
+Transfer-Meta Framework for Cross-domain Recommendation to Cold-Start Users,2105.04785,https://arxiv.org/abs/2105.04785,,cross_domain_multi_scenario,SIGIR,2021
+UGRec: Modeling Directed and Undirected Relations for Recommendation,2105.04183,https://arxiv.org/abs/2105.04183,,graph_rec,SIGIR,2021
+Group based Personalized Search by Integrating Search Behaviour and Friend Network,2111.12618,https://arxiv.org/abs/2111.12618,,social_group_rec,SIGIR,2021

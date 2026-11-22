@@ -1,0 +1,92 @@
+[
+  {
+    "title": "IGDMRec: Behavior Conditioned Item Graph Diffusion for Multimodal Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2026.3679053",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LETTER: Self-Harmonized Representation Learning for Multimodal Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2025.3623549",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multimodal Recommendation via Modality-Shared Encoding and Multi-Dimensional Loss Optimization",
+    "ee": "https://doi.org/10.1109/TMM.2026.3660134",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hierarchy-Aware Multimodal Distillation for Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2026.3651049",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "IMMPOI: An Interest-Aware Multimodal Adaptive Fusion Framework for POI Recommendations",
+    "ee": "https://doi.org/10.1109/TMM.2026.3651120",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Unified Metric Learning for Personalized Fashion Recommendations With Fast User Adaptation",
+    "ee": "https://doi.org/10.1109/TMM.2026.3694502",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Plug-and-Play Model-Agnostic Embedding Enhancement Approach for Explainable Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2025.3623558",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Breaking the Curse of Knowledge: Towards Effective Multimodal Recommendation Using Knowledge Soft Integration",
+    "ee": "https://doi.org/10.1109/TMM.2026.3654432",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Structurally Refined Graph Transformer for Multimodal Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2026.3673527",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Multi-Modal Prompt-Tuning Framework for Non-Overlapping Multi-Domain Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2025.3645634",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Modality-Incomplete Multimodal Federated Recommendation With Bidirectional Modality Reconstruction",
+    "ee": "https://doi.org/10.1109/TMM.2026.3689434",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Enhanced Graph Contrastive Learning for Recommendations",
+    "ee": "https://doi.org/10.1109/TMM.2025.3626976",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Multi-Way Cascade-Attention Network for Multi-Modal Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2026.3664993",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Next Chain Prediction: A Generative Recommendation Model With Sequence-Chain Attention",
+    "ee": "https://doi.org/10.1109/TMM.2025.3623521",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions",
+    "ee": "https://doi.org/10.1109/TMM.2026.3668620",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "KANM$^{2}$L: Enhancing Multi-Modal Recommendation With KAN and Dilated Attention",
+    "ee": "https://doi.org/10.1109/TMM.2025.3623555",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sounding Depressed? Personalized Deep Learning Model for Depression Detection From Speech and Text",
+    "ee": "https://doi.org/10.1109/TMM.2026.3668527",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Crop the Way You Like: Personalized Image Cropping by Integrating Subjective and Objective Features",
+    "ee": "https://doi.org/10.1109/TMM.2026.3651046",
+    "key": "dblp_sparql"
+  }
+]

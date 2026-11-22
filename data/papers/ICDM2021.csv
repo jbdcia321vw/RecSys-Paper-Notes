@@ -1,0 +1,7 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations,2002.11252,https://arxiv.org/abs/2002.11252,,collaborative_filtering,ICDM,2021
+Sequential Item Recommendation in the MOBA Game Dota 2,2201.08724,https://arxiv.org/abs/2201.08724,,sequential_rec,ICDM,2021
+Hyper Meta-Path Contrastive Learning for Multi-Behavior Recommendation,2109.02859,https://arxiv.org/abs/2109.02859,,self_supervised_denoising,ICDM,2021
+Cold Item Integration in Deep Hybrid Recommenders via Tunable Stochastic Gates,2112.07615,https://arxiv.org/abs/2112.07615,,cold_start_rec,ICDM,2021
+Memory Augmented Multi-Instance Contrastive Predictive Coding for Sequential Recommendation,2109.00368,https://arxiv.org/abs/2109.00368,,sequential_rec,ICDM,2021
+A probabilistic perspective on nearest neighbor for implicit recommendation,,https://eprints.sztaki.hu/10559/1/Kelen_217_33165608_ny.pdf,,collaborative_filtering,ICDM,2021

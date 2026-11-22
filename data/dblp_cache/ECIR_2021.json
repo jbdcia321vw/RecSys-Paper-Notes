@@ -1,0 +1,52 @@
+[
+  {
+    "title": "FedeRank: User Controlled Feedback with Federated Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-030-72113-8_3",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "From the Beatles to Billie Eilish: Connecting Provider Representativeness and Exposure in Session-Based Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-030-72240-1_16",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Improving Cold-Start Recommendation via Multi-prior Meta-learning",
+    "ee": "https://doi.org/10.1007/978-3-030-72240-1_22",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Disparate Impact in Item Recommendation: A Case of Geographic Imbalance",
+    "ee": "https://doi.org/10.1007/978-3-030-72113-8_13",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "LEMONS: Listenable Explanations for Music recOmmeNder Systems",
+    "ee": "https://doi.org/10.1007/978-3-030-72240-1_60",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Robustness of Meta Matrix Factorization Against Strict Privacy Constraints",
+    "ee": "https://doi.org/10.1007/978-3-030-72240-1_8",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Causality-Aware Neighborhood Methods for Recommender Systems",
+    "ee": "https://doi.org/10.1007/978-3-030-72113-8_40",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "You Get What You Chat: Using Conversations to Personalize Search-Based Recommendations",
+    "ee": "https://doi.org/10.1007/978-3-030-72113-8_14",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Metric Learning for Session-Based Recommendations",
+    "ee": "https://doi.org/10.1007/978-3-030-72113-8_43",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Zero Attentive Relevance Matching Network for Review Modeling in Recommendation System",
+    "ee": "https://doi.org/10.1007/978-3-030-72113-8_48",
+    "key": "dblp_sparql"
+  }
+]

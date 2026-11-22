@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Learning and Fusing Multiple User Interest Representations for Micro-Video and Movie Recommendations",
+    "ee": "https://doi.org/10.1109/TMM.2020.2978618",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "User Identity Linkage Across Social Media via Attentive Time-Aware User Modeling",
+    "ee": "https://doi.org/10.1109/TMM.2020.3034540",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "IPTV Channel Zapping Recommendation With Attention Mechanism",
+    "ee": "https://doi.org/10.1109/TMM.2020.2984094",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Intelligibility Enhancement Via Normal-to-Lombard Speech Conversion With Long Short-Term Memory Network and Bayesian Gaussian Mixture Model",
+    "ee": "https://doi.org/10.1109/TMM.2021.3068565",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Viewpoint Recommendation Based on Object-Oriented 3D Scene Reconstruction",
+    "ee": "https://doi.org/10.1109/TMM.2020.2981237",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Adversarial Learning for Personalized Tag Recommendation",
+    "ee": "https://doi.org/10.1109/TMM.2020.2992941",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Context-Dependent Propagating-Based Video Recommendation in Multimodal Heterogeneous Information Networks",
+    "ee": "https://doi.org/10.1109/TMM.2020.3007330",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Matrix Factorization Based Framework for Fusion of Physical and Social Sensors",
+    "ee": "https://doi.org/10.1109/TMM.2020.3016222",
+    "key": "dblp_sparql"
+  }
+]

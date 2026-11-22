@@ -1,2 +1,4 @@
 ﻿title,arxiv_id,paper_url,code_url,category,venue,year
 Cross-Modal Attention Network with Dual Graph Learning in Multimodal Recommendation,2601.11151,https://arxiv.org/abs/2601.11151,,multimodal_rec,TMM,2026
+A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions,2502.15711,https://arxiv.org/abs/2502.15711,https://github.com/Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems,multimodal_rec,TMM,2026
+A Plug-and-play Model-agnostic Embedding Enhancement Approach for Explainable Recommendation,2509.03130,https://arxiv.org/abs/2509.03130,,self_supervised_denoising,TMM,2026

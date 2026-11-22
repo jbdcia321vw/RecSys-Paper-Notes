@@ -3,3 +3,19 @@ DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify,2607.08365,https:/
 Rethinking Convolutional Networks for Attribute-Aware Sequential Recommendation,2605.04723,https://arxiv.org/abs/2605.04723,https://github.com/ismll-research/ConvRec,sequential_rec,IJCAI,2026
 PACE: A Personalized Adaptive Curriculum Engine for 9-1-1 Call-taker Training,2603.05361,https://arxiv.org/abs/2603.05361,,rl_bandit_rec,IJCAI,2026
 A Survey of Personalized Federated Foundation Models for Privacy-Preserving Recommendation,2506.11563,https://arxiv.org/abs/2506.11563,,debias_fairness_industrial,IJCAI,2026
+Bridging the Semantic Gap: Leveraging LLMs for Hierarchical Interest Evolution in Sequential Recommendation,,https://www.ijcai.org/proceedings/2026/0273.pdf,,sequential_rec,IJCAI,2026
+Sentiment-aware Rating-based Recommendation via Semantic-enhanced Item Alignment,,https://www.ijcai.org/proceedings/2026/0281.pdf,,graph_rec,IJCAI,2026
+Toward Trustworthy Recommender Systems in the Era of Agentic AI: From Relational User Modeling to Generative Personalization,,https://www.ijcai.org/proceedings/2026/0905.pdf,,debias_fairness_industrial,IJCAI,2026
+MGRec: Structure-Grounded Medication Recommendation via Condition-Aware Molecular Representation Learning,,https://www.ijcai.org/proceedings/2026/0289.pdf,,generative_rec,IJCAI,2026
+HyperXRec: Unifying Preference Clusters and LLM Experts for Robust Explainable Recommendations,,https://www.ijcai.org/proceedings/2026/0295.pdf,,llm_rec,IJCAI,2026
+LLM-Summarized Interest Distillation for Multimedia Recommendation,,https://www.ijcai.org/proceedings/2026/0300.pdf,,llm_rec,IJCAI,2026
+Contrastive Flow Matching for Sequential Recommendation,,https://www.ijcai.org/proceedings/2026/0305.pdf,,sequential_rec,IJCAI,2026
+LLM-Enhanced Knowledge and Learning Path Understanding for Graph-based Educational Recommendation,,https://www.ijcai.org/proceedings/2026/0813.pdf,,llm_rec,IJCAI,2026
+Manifold-Aligned Rectification Flow for Denoised Social Recommendation,,https://www.ijcai.org/proceedings/2026/0326.pdf,,social_group_rec,IJCAI,2026
+Beyond Top-1: Addressing Inconsistencies in Evaluating Counterfactual Explanations for Recommender Systems (Extended Abstract),,https://www.ijcai.org/proceedings/2026/0926.pdf,,debias_fairness_industrial,IJCAI,2026
+You Don't Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control (Extended Abstract),,https://www.ijcai.org/proceedings/2026/0923.pdf,,debias_fairness_industrial,IJCAI,2026
+Joint Multi-Modal Multi-Interest Profiling and Preference-Grounded Reasoning for Explainable Recommendation,,https://www.ijcai.org/proceedings/2026/0339.pdf,,multimodal_rec,IJCAI,2026
+Dual-Channel Semantic-Enhanced Combinatorial Medication Recommendation via Knowledge Distillation,,https://www.ijcai.org/proceedings/2026/0772.pdf,,llm_rec,IJCAI,2026
+"Three Minds, One Student: Online Multi-Teacher Knowledge Distillation for Multimodal Recommenders",,https://www.ijcai.org/proceedings/2026/0348.pdf,,multimodal_rec,IJCAI,2026
+PDFlow: Popularity-Debiased Flow Matching for Sequential Recommendation,,https://www.ijcai.org/proceedings/2026/0353.pdf,,generative_rec,IJCAI,2026
+Geodesic Expert Routing for Unbiased Knowledge Distillation in Recommendation,,https://www.ijcai.org/proceedings/2026/0361.pdf,,debias_fairness_industrial,IJCAI,2026

@@ -7,9 +7,9 @@ hide:
 
 > **研究范畴**：图/序列对比数据增广 (SGL/SimGCL)、隐式反馈假阳性噪声过滤 (Denoising) 与鲁棒表征
 
-当前方向共收录 **322** 篇顶会/顶刊论文解读：
+当前方向共收录 **371** 篇顶会/顶刊论文解读：
 
-🔥 **高频交叉主题：** 多模态推荐 ×24 · 多行为推荐 ×13 · 知识蒸馏 ×10 · 大语言模型推荐 ×9 · 图对比学习 ×8 · 序列推荐 ×8 · 跨视图对比学习 ×8 · 隐式反馈去噪 ×7
+🔥 **高频交叉主题：** 多模态推荐 ×25 · 多行为推荐 ×15 · 图对比学习 ×11 · 大语言模型推荐 ×11 · 知识蒸馏 ×10 · 隐式反馈去噪 ×9 · 序列推荐 ×8 · 跨视图对比学习 ×8
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -22,86 +22,94 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">212</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="自监督对比学习与交互去噪" aria-pressed="false">自监督对比学习与交互去噪<span class="paper-tag-filter__count">79</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">75</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对比学习" aria-pressed="false">对比学习<span class="paper-tag-filter__count">47</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">43</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">31</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">30</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">24</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多行为推荐" aria-pressed="false">多行为推荐<span class="paper-tag-filter__count">13</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">240</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="自监督对比学习与交互去噪" aria-pressed="false">自监督对比学习与交互去噪<span class="paper-tag-filter__count">91</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">89</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对比学习" aria-pressed="false">对比学习<span class="paper-tag-filter__count">52</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">49</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">37</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">34</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">25</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多行为推荐" aria-pressed="false">多行为推荐<span class="paper-tag-filter__count">15</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="社交与群组推荐" aria-pressed="false">社交与群组推荐<span class="paper-tag-filter__count">12</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="图对比学习" aria-pressed="false">图对比学习<span class="paper-tag-filter__count">11</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">11</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="知识蒸馏" aria-pressed="false">知识蒸馏<span class="paper-tag-filter__count">10</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">9</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="召回/排序" aria-pressed="false">召回/排序<span class="paper-tag-filter__count">9</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">9</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="社交与群组推荐" aria-pressed="false">社交与群组推荐<span class="paper-tag-filter__count">9</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="图对比学习" aria-pressed="false">图对比学习<span class="paper-tag-filter__count">8</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="隐式反馈去噪" aria-pressed="false">隐式反馈去噪<span class="paper-tag-filter__count">9</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="序列推荐" aria-pressed="false">序列推荐<span class="paper-tag-filter__count">8</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="跨视图对比学习" aria-pressed="false">跨视图对比学习<span class="paper-tag-filter__count">8</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">7</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="隐式反馈去噪" aria-pressed="false">隐式反馈去噪<span class="paper-tag-filter__count">7</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">7</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动与长尾推荐" aria-pressed="false">冷启动与长尾推荐<span class="paper-tag-filter__count">6</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤" aria-pressed="false">协同过滤<span class="paper-tag-filter__count">6</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="双层优化" aria-pressed="false">双层优化<span class="paper-tag-filter__count">6</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="意图解耦" aria-pressed="false">意图解耦<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">6</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="负采样" aria-pressed="false">负采样<span class="paper-tag-filter__count">6</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">6</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="CTR预估与特征交叉" aria-pressed="false">CTR预估与特征交叉<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">5</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="冷启动与长尾推荐" aria-pressed="false">冷启动与长尾推荐<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="召回/精排" aria-pressed="false">召回/精排<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列去噪" aria-pressed="false">序列去噪<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">5</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="负采样" aria-pressed="false">负采样<span class="paper-tag-filter__count">5</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤" aria-pressed="false">协同过滤<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="变分自编码器" aria-pressed="false">变分自编码器<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="监督对比学习" aria-pressed="false">监督对比学习<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="知识图谱推荐" aria-pressed="false">知识图谱推荐<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自监督对比学习" aria-pressed="false">自监督对比学习<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="InfoNCE" aria-pressed="false">InfoNCE<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LightGCN" aria-pressed="false">LightGCN<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="不变风险最小化" aria-pressed="false">不变风险最小化<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="互信息最大化" aria-pressed="false">互信息最大化<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="会话推荐" aria-pressed="false">会话推荐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="元学习" aria-pressed="false">元学习<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="变分自编码器" aria-pressed="false">变分自编码器<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="图协同过滤" aria-pressed="false">图协同过滤<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多行为序列建模" aria-pressed="false">多行为序列建模<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对齐与均匀性" aria-pressed="false">对齐与均匀性<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="序列去噪" aria-pressed="false">序列去噪<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="序列数据增强" aria-pressed="false">序列数据增强<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="意图对比学习" aria-pressed="false">意图对比学习<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="捆绑推荐" aria-pressed="false">捆绑推荐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="数据增广" aria-pressed="false">数据增广<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="知识图谱推荐" aria-pressed="false">知识图谱推荐<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="数据增强" aria-pressed="false">数据增强<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自监督去噪" aria-pressed="false">自监督去噪<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="自监督学习" aria-pressed="false">自监督学习<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自监督预训练" aria-pressed="false">自监督预训练<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="解耦表征学习" aria-pressed="false">解耦表征学习<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="超图卷积" aria-pressed="false">超图卷积<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="跨域对比学习" aria-pressed="false">跨域对比学习<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Graph Transformer" aria-pressed="false">Graph Transformer<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="MoE" aria-pressed="false">MoE<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="不变风险最小化" aria-pressed="false">不变风险最小化<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="互信息最大化" aria-pressed="false">互信息最大化<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="会话推荐" aria-pressed="false">会话推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="交互去噪" aria-pressed="false">交互去噪<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="信息瓶颈" aria-pressed="false">信息瓶颈<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="元网络" aria-pressed="false">元网络<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="加权物品转移图" aria-pressed="false">加权物品转移图<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与工业架构" aria-pressed="false">去偏公平与工业架构<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回/端到端" aria-pressed="false">召回/端到端<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="召回与排序" aria-pressed="false">召回与排序<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="召回与精排" aria-pressed="false">召回与精排<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="召回与表征学习" aria-pressed="false">召回与表征学习<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="可解释推荐" aria-pressed="false">可解释推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="因果推断" aria-pressed="false">因果推断<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多任务学习" aria-pressed="false">多任务学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多兴趣表征" aria-pressed="false">多兴趣表征<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多视图对比学习" aria-pressed="false">多视图对比学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对抗训练" aria-pressed="false">对抗训练<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对比学习去噪" aria-pressed="false">对比学习去噪<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对比自监督" aria-pressed="false">对比自监督<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列模式挖掘" aria-pressed="false">序列模式挖掘<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="异质信息网络" aria-pressed="false">异质信息网络<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="意图感知对比学习" aria-pressed="false">意图感知对比学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="意图解耦表征" aria-pressed="false">意图解耦表征<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="扩散模型去噪" aria-pressed="false">扩散模型去噪<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="捆绑包推荐" aria-pressed="false">捆绑包推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="提示微调" aria-pressed="false">提示微调<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="数据增强" aria-pressed="false">数据增强<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="新闻推荐" aria-pressed="false">新闻推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="时空轨迹与POI本地生活推荐" aria-pressed="false">时空轨迹与POI本地生活推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="知识图谱去噪" aria-pressed="false">知识图谱去噪<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="社交去噪" aria-pressed="false">社交去噪<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="自监督学习" aria-pressed="false">自监督学习<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自监督对比与交互去噪" aria-pressed="false">自监督对比与交互去噪<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自监督数据增广" aria-pressed="false">自监督数据增广<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自适应数据增广" aria-pressed="false">自适应数据增广<span class="paper-tag-filter__count">2</span></button>
@@ -120,12 +128,17 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="难负采样" aria-pressed="false">难负采样<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="频域去噪" aria-pressed="false">频域去噪<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="频域滤波" aria-pressed="false">频域滤波<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="高斯分布表征" aria-pressed="false">高斯分布表征<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="鲁棒推荐" aria-pressed="false">鲁棒推荐<span class="paper-tag-filter__count">2</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>
 
 <dl data-paper-list>
+<dt data-paper-tags="[&quot;AAAI 2021&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;超图卷积&quot;,&quot;对比自监督&quot;,&quot;会话推荐&quot;]"><strong><a href="../../venues/AAAI/2021/sequential_rec/self_supervised_hypergraph_convolutional_networks_for_session_based_recomme/">Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>会话即超边构建双通道超图卷积，并以会话级互信息自监督增强，全库排序下 P@20 最高相对提升 19.7%。</p>
+</dd>
 <dt data-paper-tags="[&quot;AAAI 2022&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;捆绑推荐&quot;,&quot;意图解耦&quot;,&quot;对比学习&quot;]"><strong><a href="../../venues/AAAI/2022/graph_rec/multi_view_intent_disentangle_graph_networks_for_bundle_recommendation/">Multi-view Intent Disentangle Graph Networks for Bundle Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
 <p>用邻域路由在全局/局部双视图上解耦用户 K 个意图，并以意图级 InfoNCE 对齐，NetEase 上 Recall@20 相对最强基线提升 38.2%。</p>
@@ -174,6 +187,10 @@ hide:
 <dd>
 <p>以 ID 嵌入为锚做四级跨模态分布对齐，叠加特征掩码与图扰动自监督，Amazon 三集 Recall@20 最高提升 74.73%</p>
 </dd>
+<dt data-paper-tags="[&quot;AAAI 2026&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回（负采样增强/训练阶段）&quot;,&quot;扩散负采样&quot;,&quot;可控硬度负样本&quot;]"><strong><a href="../../venues/AAAI/2026/self_supervised_denoising/adaptive_diffusion_based_augmentation_for_recommendation/">Adaptive Diffusion-based Augmentation for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用扩散前向加噪过程把正样本渐进腐蚀为“可控硬度”负样本，理论定位正负转换点 t* 并按用户打分自适应选步，作为即插即用模块普遍提升 CF 与序列推荐。</p>
+</dd>
 <dt data-paper-tags="[&quot;AAAI 2026&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;频域建模&quot;,&quot;跨会话信息&quot;,&quot;频域一致性损失&quot;]"><strong><a href="../../venues/AAAI/2026/sequential_rec/exploiting_inter_session_information_with_frequency_enhanced_dual_path_netw/">Exploiting Inter-Session Information with Frequency-enhanced Dual-Path Networks for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>FreqRec 用可学习复数频域 MLP 双路建模跨会话群体节奏与用户局部高频，并加频域一致性损失，全库排序下 NDCG@10 最高提升 7.38%。</p>
@@ -201,6 +218,14 @@ hide:
 <dt data-paper-tags="[&quot;EMNLP&quot;,&quot;协同过滤与双塔召回&quot;,&quot;排序&quot;,&quot;模块化新闻推荐&quot;,&quot;监督对比学习&quot;,&quot;方面定制&quot;]"><strong><a href="../../venues/ACL_EMNLP/2024/collaborative_filtering/train_once_use_flexibly_a_modular_framework_for_multi_aspect_neural_news_re/">Train Once, Use Flexibly: A Modular Framework for Multi-Aspect Neural News Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>用监督对比学习训练内容/方面专用新闻编码器，推理时线性组合相似度实现按需个性化与多样化，MIND上nDCG@10相对提升2.3%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ACM MM&quot;,&quot;冷启动与长尾推荐&quot;,&quot;召回&quot;,&quot;对比学习&quot;,&quot;互信息最大化&quot;]"><strong><a href="../../venues/ACM_MM/2021/cold_start_rec/contrastive_learning_for_cold_start_recommendation/">Contrastive Learning for Cold-Start Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将冷启动物表征学习化为 U-I 与 R-E 互信息下界最大化，双对比网络在全库排序下冷启动 R@10 最高提升 103.95%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ACM MM&quot;,&quot;多模态推荐&quot;,&quot;召回表征预训练&quot;,&quot;图预训练&quot;,&quot;多模态图 Transformer&quot;,&quot;掩码特征重构&quot;]"><strong><a href="../../venues/ACM_MM/2021/multimodal_rec/pre_training_graph_transformer_with_multimodal_side_information_for_recomme/">Pre-training Graph Transformer with Multimodal Side Information for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用共购行为构建物品多模态图，以 MCNSampling 采样上下文邻居、多样性促进 Transformer 做结构与掩码特征双目标预训练，Recall@10 最高提升 15.4%，线上 60 万用户新播放 +6.80%。</p>
 </dd>
 <dt data-paper-tags="[&quot;ACM MM&quot;,&quot;多模态推荐&quot;,&quot;召回&quot;,&quot;行为引导模态去噪&quot;,&quot;多视图图卷积&quot;,&quot;行为感知融合&quot;]"><strong><a href="../../venues/ACM_MM/2023/multimodal_rec/multi_view_graph_convolutional_network_for_multimedia_recommendation/">Multi-View Graph Convolutional Network for Multimedia Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -233,6 +258,30 @@ hide:
 <dt data-paper-tags="[&quot;ACM MM&quot;,&quot;多模态推荐&quot;,&quot;精排&quot;,&quot;正交净化&quot;,&quot;混合专家路由&quot;]"><strong><a href="../../venues/ACM_MM/2026/multimodal_rec/beyond_modality_harmony_orthogonal_purification_and_topology_guided_moe_for/">Beyond Modality Harmony: Orthogonal Purification and Topology-Guided MoE for Conflict-Aware Multimodal Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>以纯协同锚点为几何参考轴正交分解并保能截断模态噪声，配合解耦 Sigmoid 路由 MoE 与冲突感知 safe-SSL，在 Amazon 三数据集 8:1:1 划分下 R@20 最高提升 6.55%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;异质三部图&quot;,&quot;图去噪子图采样&quot;,&quot;Gumbel-Softmax 可微离散采样&quot;]"><strong><a href="../../venues/CIKM/2021/graph_rec/concept_aware_denoising_graph_neural_network_for_micro_video_recommendation/">Concept-Aware Denoising Graph Neural Network for Micro-Video Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用标题/评论抽取概念构建用户-视频-概念三部图，GRU+Gumbel-Softmax 个性化去噪子图，UAUC 相对 GAT 提升 8.3%</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;超图卷积&quot;,&quot;双尺度自监督对比学习&quot;,&quot;群组偏好聚合&quot;]"><strong><a href="../../venues/CIKM/2021/social_group_rec/double_scale_self_supervised_hypergraph_learning_for_group_recommendation/">Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用用户级/群组级双层超图刻画群内与跨群组高阶交互，并以粗/细粒度节点丢弃构造双尺度自监督对比信号，缓解群组交互稀疏；在三个基准上 NDCG@20 相对最强基线最高提升约 8.6%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;可微采样 Gumbel-Softmax&quot;,&quot;关系感知注意力聚合&quot;,&quot;知识图谱去噪&quot;]"><strong><a href="../../venues/CIKM/2021/graph_rec/dskreg_differentiable_sampling_on_knowledge_graph_for_recommendation_with_r/">DSKReG: Differentiable Sampling on Knowledge Graph for Recommendation with Relational GNN</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>构建 co-interact 关系图并用 Gumbel-Softmax 可微采样 top-K 相关邻居，端到端去噪 KG 噪声；全库排序下 NDCG@20 最高提升 37.5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;图协同训练&quot;,&quot;对比学习&quot;]"><strong><a href="../../venues/CIKM/2021/sequential_rec/self_supervised_graph_co_training_for_session_based_recommendation/">Self-Supervised Graph Co-Training for Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以物品视图/会话视图双图构建互补充自监督信号，用协同训练互传伪标签并加对抗散度约束，Tmall P@20 提升 8.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回&quot;,&quot;相关特征掩码 (CFM)&quot;,&quot;对比学习正则化&quot;,&quot;双塔召回&quot;]"><strong><a href="../../venues/CIKM/2021/self_supervised_denoising/self_supervised_learning_for_large_scale_item_recommendations/">Self-supervised Learning for Large-scale Item Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出双塔召回上的多任务 SSL 框架与互信息引导的相关特征掩码 CFM，在 490M/1B 样本全库排序下 Recall@10 提升 6.1%/10.2%，线上 A/B 冷启切片 +4.5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;协同过滤&quot;,&quot;召回&quot;,&quot;余弦对比损失&quot;,&quot;负采样比例&quot;,&quot;轻量基线&quot;]"><strong><a href="../../venues/CIKM/2021/collaborative_filtering/simplex_a_simple_and_strong_baseline_for_collaborative_filtering/">SimpleX: A Simple and Strong Baseline for Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出余弦对比损失 CCL 并配合大负采样比，用极简 MF+行为聚合架构在 11 个数据集上超越 29 个基线，NDCG@20 最高提升 48.5%，训练提速 10 倍。</p>
 </dd>
 <dt data-paper-tags="[&quot;ACM Computing Surveys&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回与表征学习&quot;,&quot;对比学习&quot;,&quot;重建学习&quot;,&quot;对抗学习&quot;]"><strong><a href="../../venues/CIKM/2022/self_supervised_denoising/a_comprehensive_survey_on_self_supervised_learning_for_recommendation/">A Comprehensive Survey on Self-Supervised Learning for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -354,6 +403,10 @@ hide:
 <dd>
 <p>用多物品查询窗口+虚拟物品替代单查询掩码注意力，缓解序列噪声敏感，ML-1M HR@5 提升 21.2%，LastFM 达 SOTA。</p>
 </dd>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;粗排/精排&quot;,&quot;Temporal Distribution Shift&quot;,&quot;ELBO&quot;,&quot;Data Augmentation&quot;]"><strong><a href="../../venues/CIKM/2026/self_supervised_denoising/a_probabilistic_framework_for_temporal_distribution_generalization_in_indus/">A Probabilistic Framework for Temporal Distribution Generalization in Industry-Scale Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用因果图与 ELBO_TDS 分离稳定/时变因子，结合特征级增广，在 Shopee 搜索取得 +2.33% GMV/User。</p>
+</dd>
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;知识图谱融合&quot;,&quot;对抗扰动不稳定性估计&quot;,&quot;自适应对比学习&quot;]"><strong><a href="../../venues/CIKM/2026/graph_rec/do_all_nodes_benefit_equally_from_knowledge_graphs_adaptive_node_aware_kg_f/">Do All Nodes Benefit Equally from Knowledge Graphs? Adaptive Node-Aware KG Fusion for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>以对抗扰动估计节点级 CF 不稳定性，自适应门控 KG 注入强度并配合自适应对比对齐，四数据集 Full-Ranking 平均排名第一。</p>
@@ -378,6 +431,10 @@ hide:
 <dd>
 <p>以局部度不平衡曲率代理为每节点分配自适应传播深度，将 GCF 重释为节点根树集成，Full-Ranking 下 R@20 稳定超越 LightGCN 与 SSL 骨干。</p>
 </dd>
+<dt data-paper-tags="[&quot;DASFAA 2021&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;注意力邻居聚合&quot;,&quot;自适应间隔 BPR&quot;,&quot;相似度辅助损失&quot;]"><strong><a href="../../venues/DASFAA/2021/graph_rec/graph_attention_collaborative_similarity_embedding_for_recommender_system/">Graph Attention Collaborative Similarity Embedding for Recommender System</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>注意力邻居聚合 + 用户/物品二阶相似度辅助损失 + 自适应间隔 BPR，全库排序 Recall@20 最高相对提升 6.34%</p>
+</dd>
 <dt data-paper-tags="[&quot;DASFAA 2022&quot;,&quot;自监督对比与交互去噪&quot;,&quot;召回&quot;,&quot;多行为推荐&quot;,&quot;多视图对比学习&quot;,&quot;行为区分对比学习&quot;]"><strong><a href="../../venues/DASFAA/2022/self_supervised_denoising/multi_view_multi_behavior_contrastive_learning_in_recommendation/">Multi-view Multi-behavior Contrastive Learning in Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
 <p>用行为级、视图级、行为优先级三类对比任务统一多行为多视图推荐，Tmall/CIKM 采样排序下 NDCG@10 相对提升 7.4%/6.1%。</p>
@@ -398,6 +455,14 @@ hide:
 <dd>
 <p>将 Softmax 软标签目标解耦为目标置信度与未观测项兴趣分布两项，配合 K-means 邻居标签传播生成软标签，在四个骨干模型三个数据集上稳定提升。</p>
 </dd>
+<dt data-paper-tags="[&quot;DASFAA 2026&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;精排&quot;,&quot;触发诱导推荐&quot;,&quot;协同对比学习&quot;,&quot;跨场景泛化&quot;]"><strong><a href="../../venues/DASFAA/2026/self_supervised_denoising/beyond_the_trigger_learning_collaborative_context_for_generalizable_trigger/">Beyond the Trigger: Learning Collaborative Context for Generalizable Trigger-Induced Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>以 (user, trigger) 为复合条件，用同页共点击/共不点击作正样本、单点击作负样本构建对比任务，学场景泛化协同表征；新场景 AUC +0.50pt，线上 CTR +12.3%</p>
+</dd>
+<dt data-paper-tags="[&quot;DASFAA&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;精排&quot;,&quot;层次表征学习&quot;,&quot;自监督学习&quot;,&quot;药物推荐&quot;]"><strong><a href="../../venues/DASFAA/2026/graph_rec/self_supervised_hierarchical_representation_for_medication_recommendation/">Self-supervised Hierarchical Representation for Medication Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用 ICD 编码树做父节点聚合关系嵌入与码位位置编码，即插即用替换 one-hot 嵌入层，四个药物推荐基线的 Jaccard 提升 0.8%~5.7%</p>
+</dd>
 <dt data-paper-tags="[&quot;ECIR&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;长程依赖记忆参数&quot;,&quot;隐式反馈去噪&quot;]"><strong><a href="../../venues/ECIR/2022/sequential_rec/recommender_systems_when_memory_matters/">Recommender Systems: When Memory Matters</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
 <p>以平稳性与长程依赖记忆参数 d 筛除&#x27;行为飘忽&#x27;用户，配合块级正负反馈在线学习，在大规模稀疏数据上 MAP 提升 7–9%。</p>
@@ -409,6 +474,10 @@ hide:
 <dt data-paper-tags="[&quot;ECIR 2024&quot;,&quot;序列与会话推荐&quot;,&quot;召回/下一物品排序&quot;,&quot;自对比学习&quot;,&quot;表示均匀性&quot;]"><strong><a href="../../venues/ECIR/2024/sequential_rec/self_contrastive_learning_for_session_based_recommendation/">Self Contrastive Learning for Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>将自对比损失作为物品表示均匀性正则，无需数据增广/正负样本构造，在三个会话推荐基准全库排序下显著提升 P@10/MRR@10。</p>
+</dd>
+<dt data-paper-tags="[&quot;ECIR&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;Thought Space 对比对齐&quot;,&quot;理由监督信号&quot;,&quot;小语言模型&quot;]"><strong><a href="../../venues/ECIR/2026/llm_rec/from_what_to_why_thought_space_recommendation_with_small_language_models/">From What to Why: Thought-Space Recommendation with Small Language Models</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用 4B 小模型生成理由并与行为做对比对齐，构建 Thought Space 选理由后 SFT 精排，HR@1 显著超越十亿级 LLM 基线。</p>
 </dd>
 <dt data-paper-tags="[&quot;ECIR 2026&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回&quot;,&quot;LLM 提示去噪&quot;,&quot;后训练用户画像清洗&quot;]"><strong><a href="../../venues/ECIR/2026/self_supervised_denoising/post_training_denoising_of_user_profiles_with_llms_in_collaborative_filteri/">Post-Training Denoising of User Profiles with LLMs in Collaborative Filtering Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -482,6 +551,14 @@ hide:
 <dd>
 <p>从信息论证明零间隙对齐次优，提出解耦共享/特有表征+全局局部结构对齐的即插即用框架，全库排序下 Recall@20 最高提升 5.33%。</p>
 </dd>
+<dt data-paper-tags="[&quot;ICDM&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回&quot;,&quot;超元路径&quot;,&quot;图对比学习&quot;,&quot;多行为推荐&quot;]"><strong><a href="../../venues/ICDM/2021/self_supervised_denoising/hyper_meta_path_contrastive_learning_for_multi_behavior_recommendation/">Hyper Meta-Path Contrastive Learning for Multi-Behavior Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出超元路径/超元图显式刻画多行为依赖，用相邻超元图 InfoNCE 对比替代固定融合，Taobao Recall@5 相对提升 24.5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDM 2021&quot;,&quot;序列与会话推荐&quot;,&quot;召回/端到端&quot;,&quot;对比预测编码 (CPC)&quot;,&quot;记忆网络与多实例负采样&quot;]"><strong><a href="../../venues/ICDM/2021/sequential_rec/memory_augmented_multi_instance_contrastive_predictive_coding_for_sequentia/">Memory Augmented Multi-Instance Contrastive Predictive Coding for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>记忆增强 CPC + 多实例 NCE：用记忆残差捕捉长期偏好、Dropout 语义正样本缓解监督稀疏，四数据集全库排序 HR@5 最高提升 152.7%</p>
+</dd>
 <dt data-paper-tags="[&quot;NeurIPS&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回/精排&quot;,&quot;对抗负采样&quot;,&quot;难例挖掘&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2023/self_supervised_denoising/empowering_collaborative_filtering_with_principled_adversarial_contrastive_/">Empowering Collaborative Filtering with Principled Adversarial Contrastive Loss</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>提出 AdvInfoNCE：用可学习难度 δ_j 对抗重加权负样本，证明等价 KL-DRO，在四个 Top-K 基准上显著提升 OOD 泛化。</p>
@@ -510,13 +587,41 @@ hide:
 <dd>
 <p>提出 RSIR 递归自我改进框架，用模型自生成序列+保真度质量控制稠密化稀疏交互，理论证明其等价于流形切向隐式正则，多骨干多数据集 Full-Ranking 下 NDCG/Recall 稳定提升 3%–14%。</p>
 </dd>
+<dt data-paper-tags="[&quot;ICLR 2026&quot;,&quot;多任务学习与列表级重排&quot;,&quot;重排&quot;,&quot;分数去噪&quot;,&quot;对抗噪声生成&quot;,&quot;多阶段一致性&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2026/multi_task_reranking/denoising_neural_reranker_for_recommender_systems/">Denoising Neural Reranker for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>将重排建模为对召回打分的去噪过程，用对抗噪声生成器与三项损失实现 retriever-aware 重排，三数据集与线上 A/B（realshow +1.089%）验证。</p>
+</dd>
 <dt data-paper-tags="[&quot;ICML&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回&quot;,&quot;图信息瓶颈&quot;,&quot;跨行为对比学习&quot;,&quot;多行为推荐&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2026/self_supervised_denoising/gcib_graph_contrastive_information_bottleneck_for_multi_behavior_recommenda/">GCIB: Graph Contrastive Information Bottleneck for Multi-Behavior Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用图信息瓶颈在结构层剪枝辅助行为噪声边、用跨行为 InfoNCE 在特征层对齐目标语义，Leave-One-Out 全库排序下 NDCG@10 最高提升 37.2%。</p>
 </dd>
+<dt data-paper-tags="[&quot;ICLR 2026&quot;,&quot;大语言模型推荐&quot;,&quot;端到端生成式&quot;,&quot;偏好对齐DPO&quot;,&quot;可解释推荐&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2026/llm_rec/more_than_what_was_chosen_llm_based_explainable_recommendation_beyond_noisy/">More Than What Was Chosen: LLM-based Explainable Recommendation Beyond Noisy User Preferences</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>提出连贯偏好CP与冲突感知DPO(C-APO)，在Amazon五域Leave-One-Out协议下HR@1最高提升61.4%，在线CTR相对ML提升60.9%</p>
+</dd>
+<dt data-paper-tags="[&quot;ICLR 2026&quot;,&quot;协同过滤&quot;,&quot;召回&quot;,&quot;VAE-CF&quot;,&quot;潜空间对齐&quot;,&quot;输入掩码&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2026/collaborative_filtering/on_the_mechanisms_of_collaborative_learning_in_vae_recommenders/">On the Mechanisms of Collaborative Learning in VAE Recommenders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>揭示 VAE-CF 协同由隐空间邻近半径支配，提出锚点对齐 PIA 稳定 masking 几何，在三大基准与 Amazon A/B 上稳定提升。</p>
+</dd>
 <dt data-paper-tags="[&quot;ICML&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回&quot;,&quot;图协同过滤&quot;,&quot;对比学习损失&quot;,&quot;邻居对加权&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2026/self_supervised_denoising/rethinking_contrastive_learning_for_graph_collaborative_filtering_limitatio/">Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>展开 GCF 预测为邻居对加权聚合，揭示 SSM 仅按物品侧相似度更新且忽略邻居对类型，提出类型感知 NT-SSM，NDCG@20 最高提升 21.45%。</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI 2021&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;不可靠实例过滤&quot;,&quot;不确定性建模&quot;,&quot;高斯分布表征&quot;]"><strong><a href="../../venues/IJCAI/2021/sequential_rec/does_every_data_instance_matter_enhancing_sequential_recommendation_by_elim/">Does Every Data Instance Matter? Enhancing Sequential Recommendation by Eliminating Unreliable Data</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用高斯分布同时建模实例损失与不确定性，配合不确定性感知图卷积 UGCN 与端到端过滤机制剔除「目标与输入不匹配」的不可靠实例，四数据集采样排序下 NDCG 最高提升 11.98%。</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;自监督一致性预训练&quot;,&quot;模仿学习知识蒸馏&quot;]"><strong><a href="../../venues/IJCAI/2021/sequential_rec/improving_sequential_recommendation_consistency_with_self_supervised_imitat/">Improving Sequential Recommendation Consistency with Self-Supervised Imitation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用三条自监督一致性任务构造教师模型，再以 logit+表征模仿蒸馏进学生序列推荐器，1:99 采样排序下 NDCG@10 提升 2.0%–3.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;序列去噪&quot;,&quot;强化学习策略&quot;,&quot;序列模式挖掘&quot;]"><strong><a href="../../venues/IJCAI/2021/sequential_rec/pattern_enhanced_contrastive_policy_learning_network_for_sequential_recomme/">Pattern-enhanced Contrastive Policy Learning Network for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将序列去噪建模为 MDP，用频繁序列模式作先验引导策略网络逐物品打标签，并以正/负子序列延迟奖励做对比学习，Full-Ranking 下 HR@10 相对最佳基线提升 2-4%。</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;端到端预测&quot;,&quot;对抗分布正则&quot;,&quot;记忆网络多跳读取&quot;,&quot;药物相互作用DDI&quot;]"><strong><a href="../../venues/IJCAI/2021/self_supervised_denoising/self_supervised_adversarial_distribution_regularization_for_medication_reco/">Self-Supervised Adversarial Distribution Regularization for Medication Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>SARMR 从原始 EHR 中自监督拟合低 DDI 率患者表征的高斯先验，用 GAN 对抗正则患者表征分布以降低药物相互作用，MIMIC-III 上 F1 0.6608、ΔDDI -2.72%。</p>
 </dd>
 <dt data-paper-tags="[&quot;IJCAI 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;加权物品转移图&quot;,&quot;图对比学习&quot;,&quot;MMD表征对齐&quot;]"><strong><a href="../../venues/IJCAI/2022/sequential_rec/enhancing_sequential_recommendation_with_graph_contrastive_learning/">Enhancing Sequential Recommendation with Graph Contrastive Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -541,6 +646,22 @@ hide:
 <dt data-paper-tags="[&quot;IJCAI 2025&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;用户行为采样&quot;,&quot;强化学习策略梯度&quot;,&quot;多目标奖励&quot;]"><strong><a href="../../venues/IJCAI/2025/sequential_rec/towards_automatic_sampling_of_user_behaviors_for_sequential_recommender_sys/">Towards Automatic Sampling of User Behaviors for Sequential Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>提出 AutoSAM，用轻量采样器+强化学习多目标奖励自适应丢弃低信息历史行为，在四个真实数据集全库排序下 NDCG@10 平均提升约 8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI 2026&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;流匹配去噪&quot;,&quot;跨域流形对齐&quot;,&quot;社交噪声&quot;]"><strong><a href="../../venues/IJCAI/2026/social_group_rec/manifold_aligned_rectification_flow_for_denoised_social_recommendation/">Manifold-Aligned Rectification Flow for Denoised Social Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用流匹配将噪声社交表征沿社交感知偏好流形做跨域输运重整，随机 7:1:2 划分下 Recall@20 在 Ciao/Epinions 相对最优基线提升 2.34%/5.56%。</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI 2026&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;精排&quot;,&quot;软情感指派&quot;,&quot;跨视图对比对齐&quot;,&quot;情感交换机制&quot;]"><strong><a href="../../venues/IJCAI/2026/graph_rec/sentiment_aware_rating_based_recommendation_via_semantic_enhanced_item_alig/">Sentiment-aware Rating-based Recommendation via Semantic-enhanced Item Alignment</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用经验贝叶斯软情感指派替代硬阈值，配合协同-语义图与锚引导单向对齐，以及显式正负情感对冲打分，在四个 Amazon 5-core 数据集上全库排序取得 MSE 23.08%、NDCG@10 21.51% 的提升。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2021&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回&quot;,&quot;对比学习&quot;,&quot;逆倾向加权&quot;,&quot;曝光偏差&quot;]"><strong><a href="../../venues/KDD/2021/debias_fairness_industrial/contrastive_learning_for_debiased_candidate_generation_in_large_scale_recom/">Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>证明对比损失等价IPW去偏，提出队列CLRec/Multi-CLRec，淘宝四月A/B提升CTR并降马太效应。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2021&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回（Top-N图协同过滤）&quot;,&quot;三训练&quot;,&quot;社交增强视图&quot;,&quot;邻域判别对比学习&quot;]"><strong><a href="../../venues/KDD/2021/self_supervised_denoising/socially_aware_self_supervised_tri_training_for_recommendation/">Socially-Aware Self-Supervised Tri-Training for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>SEPT用好友/分享三角视图与偏好视图三编码器互伪标，邻域判别对比学习；5折全库排序，Yelp NDCG@10较LightGCN提升10.33%</p>
 </dd>
 <dt data-paper-tags="[&quot;KDD&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回/候选生成&quot;,&quot;对比学习&quot;,&quot;异质图偏好网络&quot;,&quot;冷启动迁移&quot;]"><strong><a href="../../venues/KDD/2022/cross_domain_multi_scenario/contrastive_cross_domain_recommendation_in_matching/">Contrastive Cross-domain Recommendation in Matching</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -642,6 +763,10 @@ hide:
 <dd>
 <p>沿特征维做 RFFT 学习视图自适应谱调制净化表征，再以净化全局锚做可靠性感知注意力融合，全库排序下 Taobao HR@10 相对提升 26.17%。</p>
 </dd>
+<dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;语义捷径&quot;,&quot;交互去噪&quot;]"><strong><a href="../../venues/KDD/2026/sequential_rec/lisrec_modeling_user_preferences_with_learned_item_shortcuts_for_sequential/">LISRec: Modeling User Preferences with Learned Item Shortcuts for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>任务无关语义编码构建个性化物品图，取最大连通分量作语义捷径去噪；Amazon/Yelp 全库排序较 TASTE 最高 +14.5% R@20。</p>
+</dd>
 <dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;大语言模型推荐&quot;,&quot;召回&quot;,&quot;画像外推&quot;,&quot;不变性学习&quot;]"><strong><a href="../../venues/KDD/2026/llm_rec/proex_a_unified_framework_leveraging_large_language_model_with_profile_extr/">ProEx: A Unified Framework Leveraging Large Language Model with Profile Extrapolation for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用四步 CoT 为每个用户/物品生成多面画像并做环境不变性融合，在三个数据集上对 6 个基模型平均提升 5%+。</p>
@@ -649,6 +774,10 @@ hide:
 <dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;多模态推荐&quot;,&quot;召回&quot;,&quot;虚拟交互增强&quot;,&quot;模态相似度&quot;]"><strong><a href="../../venues/KDD/2026/multimodal_rec/vi_mmrec_similarity_aware_training_cost_free_virtual_user_item_interactions/">VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用模态相似度构造虚拟交互矩阵并以统计权重融合，零训练开销即插即用地缓解多模态推荐数据稀疏，Full-Ranking 下 Recall@10 最高提升 22.25%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2021&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;正交投影去噪&quot;,&quot;用户记忆网络&quot;]"><strong><a href="../../venues/RecSys/2021/sequential_rec/denoising_user_aware_memory_network_for_recommendation/">Denoising User-aware Memory Network for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以显式反馈正交投影净化隐式反馈噪声，并用四路用户级记忆网络建模长期兴趣，AUC 较最优基线提升 1.18/0.97 个点。</p>
 </dd>
 <dt data-paper-tags="[&quot;RecSys 2022&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;可微二值掩码&quot;,&quot;Jacobian 正则&quot;,&quot;ARM 无偏梯度估计&quot;]"><strong><a href="../../venues/RecSys/2022/sequential_rec/denoising_self_attentive_sequential_recommendation/">Denoising Self-attentive Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -725,6 +854,30 @@ hide:
 <dt data-paper-tags="[&quot;RecSys&quot;,&quot;生成式推荐&quot;,&quot;分布级对比监督&quot;,&quot;软量化语义对齐&quot;]"><strong><a href="../../venues/RecSys/2026/generative_rec/distribution_level_contrastive_supervision_for_generative_recommendation/">Distribution-Level Contrastive Supervision for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用分词器多层码本概率分布作软语义目标，以负对称KL+BPR对比监督对齐推荐器表征，即插即用提升多种生成式骨干。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;无负采样自举学习&quot;,&quot;动量目标编码器&quot;,&quot;邻居随机增广&quot;]"><strong><a href="../../venues/SIGIR/2021/collaborative_filtering/bootstrapping_user_and_item_representations_for_one_class_collaborative_fil/">Bootstrapping User and Item Representations for One-Class Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>BUIR 用在线/目标双编码器互预测替代负采样, 配合邻居随机丢弃增广, 在极稀疏隐式反馈上 Full-Ranking P@10 相对最优基线提升 22.8%–58.7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;反事实序列合成&quot;,&quot;对比学习&quot;]"><strong><a href="../../venues/SIGIR/2021/sequential_rec/causerec_counterfactual_user_sequence_synthesis_for_sequential_recommendati/">CauseRec: Counterfactual User Sequence Synthesis for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>通过反事实概念替换合成用户序列并做对比学习，使用户表征对噪声不敏感、对关键兴趣更信任；Amazon Books NDCG@50 相对最强基线提升 22.1%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;跨批次负采样&quot;,&quot;双塔模型&quot;,&quot;内存队列&quot;]"><strong><a href="../../venues/SIGIR/2021/collaborative_filtering/cross_batch_negative_sampling_for_training_two_tower_recommenders/">Cross-Batch Negative Sampling for Training Two-Tower Recommenders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>利用编码器 embedding stability，以 FIFO memory bank 复用历史 batch 的 item 向量作为跨批次负样本，在几乎零额外编码开销下把负样本量从 128 扩至 2560，NDCG@50 最高提升 12.19%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;负采样分布&quot;,&quot;参数密度估计&quot;,&quot;范数裁剪&quot;]"><strong><a href="../../venues/SIGIR/2021/collaborative_filtering/scalable_personalised_item_ranking_through_parametric_density_estimation/">Scalable Personalised Item Ranking through Parametric Density Estimation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以指数族参数密度估计推导点式排序风险与最优负采样分布（排序器自采样、免额外生成器），配合范数裁剪稳定训练；Full-Ranking 下 nDCG@20 较 DREGN-CF 最高 +18%，收敛快 1–2 个数量级。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回&quot;,&quot;图对比学习&quot;,&quot;长尾去偏&quot;]"><strong><a href="../../venues/SIGIR/2021/self_supervised_denoising/self_supervised_graph_learning_for_recommendation/">Self-supervised Graph Learning for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>在 LightGCN 上叠加节点自判别对比任务，用节点/边丢弃与随机游走构造多视图，全库排序下 Recall@20 最高提升 9.13%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回&quot;,&quot;图对比学习&quot;,&quot;假阴性去偏&quot;,&quot;拓扑相似度&quot;]"><strong><a href="../../venues/SIGIR/2021/self_supervised_denoising/topology_aware_debiased_self_supervised_graph_learning_for_recommendation/">Topology-aware Debiased Self-supervised Graph Learning for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用交互共现拓扑筛选假阴性并转为辅助正样本，在三个数据集 Full-Ranking 下 Recall@20 最高相对提升约 3.1%。</p>
 </dd>
 <dt data-paper-tags="[&quot;SIGIR&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;精排&quot;,&quot;边特征图卷积&quot;,&quot;评论对齐对比学习&quot;]"><strong><a href="../../venues/SIGIR/2022/self_supervised_denoising/a_review_aware_graph_contrastive_learning_framework_for_recommendation/">A Review-aware Graph Contrastive Learning Framework for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -1034,9 +1187,17 @@ hide:
 <dd>
 <p>系统综述推荐系统对抗/非对抗鲁棒性，提出 ShillingREC 评测库统一攻击与防御模型评估。</p>
 </dd>
+<dt data-paper-tags="[&quot;TKDE 2026&quot;,&quot;序列与会话推荐&quot;,&quot;召回/端到端&quot;,&quot;数据增强&quot;,&quot;自监督辅助任务&quot;,&quot;扩散/LLM 生成&quot;]"><strong><a href="../../venues/TKDE/2026/sequential_rec/data_augmentation_for_sequential_recommendation_a_survey/">Data Augmentation for Sequential Recommendation: A Survey</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>首篇以数据增强为主角的序列推荐综述，提出原则×对象×目的三维分类与双训练范式形式化，三集 Full-Ranking 复现最高提升 66.0%。</p>
+</dd>
 <dt data-paper-tags="[&quot;TKDE&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;多兴趣聚类&quot;,&quot;稳定性-可塑性解耦&quot;]"><strong><a href="../../venues/TKDE/2026/sequential_rec/mida_multi_interest_decoding_with_adaptive_aggregation_for_session_based_re/">MIDA: Multi-Interest Decoding with Adaptive Aggregation for Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>提出编码器无关的双空间解耦解码器：原始嵌入上可微多兴趣聚类 + 稳定性/可塑性双查询门控聚合，长会话与高语义分散场景显著提升。</p>
+</dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;推理时计算 (Test-Time Scaling)&quot;,&quot;隐式思维链 (Latent CoT)&quot;,&quot;推理位置编码&quot;]"><strong><a href="../../venues/TKDE/2026/sequential_rec/think_before_recommend_unleashing_the_latent_reasoning_power_for_sequential/">Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>提出首个推理时计算框架 ReaRec，将末位隐状态自回归回灌实现隐式多步推理，配合 ERL/PRL 两种轻量学习策略，全库排序下平均提升 7.49%、推理延迟仅增 3.51%。</p>
 </dd>
 <dt data-paper-tags="[&quot;TMM&quot;,&quot;序列与会话推荐&quot;,&quot;召回/排序&quot;,&quot;多级图神经网络&quot;,&quot;超图&quot;,&quot;对比学习&quot;]"><strong><a href="../../venues/TMM/2023/sequential_rec/contrastive_multi_level_graph_neural_networks_for_session_based_recommendat/">Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Multimedia">IEEE TMM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -1106,9 +1267,33 @@ hide:
 <dd>
 <p>用 IRM 范式 + VAE 从多行为交互中抽取用户不变偏好以抑制辅助行为噪声，Leave-One-Out + Full-Ranking 下 HR@10 最高提升 3.98%。</p>
 </dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;Counterfactual Learning&quot;,&quot;Representation Disentanglement&quot;]"><strong><a href="../../venues/TOIS/2026/cross_domain_multi_scenario/counterfactual_learning_driven_representation_disentanglement_for_search_en/">Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用三元组反事实信号解耦搜索域物品表征，剥离查询无关的通用特征并以门控融合/软加权数据增广注入推荐，采样排序下 HR@1 最高提升 10.84%。</p>
+</dd>
 <dt data-paper-tags="[&quot;TOIS&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;精排&quot;,&quot;超图对比学习&quot;,&quot;相似就诊检索&quot;]"><strong><a href="../../venues/TOIS/2026/graph_rec/hypemed_enhancing_medication_recommendations_with_hypergraph_based_patient_/">HypeMed: Enhancing Medication Recommendations with Hypergraph-Based Patient Relationships</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>以就诊为超边建模集合级语义，知识感知对比预训练构建可检索空间，就诊条件检索相似病历增强用药推荐，Jaccard 提升 0.4–0.6% 且 DDI 低于真实处方。</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;序列与会话推荐&quot;,&quot;数据预处理（模型无关前置模块）&quot;,&quot;LLM 指令微调&quot;,&quot;不确定度估计&quot;,&quot;序列去噪&quot;]"><strong><a href="../../venues/TOIS/2026/sequential_rec/llm4dsr_leveraging_large_language_model_for_denoising_sequential_recommenda/">LLM4DSR: Leveraging Large Language Model for Denoising Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用自监督指令微调激活 LLM 的序列去噪能力，并以 token 级不确定度阈值筛选高置信噪声、生成式补全替换，作为模型无关的数据预处理在三个 Amazon 数据集全库排序下稳定超越 HSD/STEAM/CL4SRec。</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS 2026&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回（训练阶段）&quot;,&quot;负采样&quot;,&quot;假负样本&quot;,&quot;难负样本&quot;]"><strong><a href="../../venues/TOIS/2026/collaborative_filtering/negative_sampling_in_recommendation_a_survey_and_future_directions/">Negative Sampling in Recommendation: A Survey and Future Directions</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>首个推荐负采样综述：以静态/动态/对抗生成/重要性重加权/知识增强五类分类法梳理 230+ 文献，剖析假负样本、精度-效率-稳定性三角与跨任务泛化三大挑战及采样复杂度权衡</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;数据清洗/训练期&quot;,&quot;语言智能体&quot;,&quot;LossEraser 遗忘式训练&quot;,&quot;隐式反馈去噪&quot;]"><strong><a href="../../venues/TOIS/2026/self_supervised_denoising/ruleagent_discovering_rules_for_recommendation_denoising_with_autonomous_la/">RuleAgent: Discovering Rules for Recommendation Denoising with Autonomous Language Agents</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用 LLM Agent 自动发现推荐去噪规则，配合 LossEraser 遗忘式免重训策略，在 Beauty/Yelp/Gowalla 小规模子集上 Full 排序 Recall@20 全面超越 T-CE/DeCA/BOD/DCF。</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;State Space Model&quot;,&quot;变长序列建模&quot;]"><strong><a href="../../venues/TOIS/2026/sequential_rec/ssd4rec_a_structured_state_space_duality_model_for_efficient_sequential_rec/">SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用 Mamba 的 Structured State Space Duality 块替代自注意力，配合变长拼接+段寄存器与双向翻转，在 4 个基准上取得 NDCG@10 最高 18.99% 提升并保持近线性复杂度。</p>
+</dd>
+<dt data-paper-tags="[&quot;TOIS 2026&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回/训练&quot;,&quot;Graph Contrastive Learning&quot;,&quot;Targeted Promotion Attack&quot;,&quot;Spectral Smoothing&quot;]"><strong><a href="../../venues/TOIS/2026/debias_fairness_industrial/when_graph_contrastive_learning_backfires_spectral_vulnerability_and_defens/">When Graph Contrastive Learning Backfires: Spectral Vulnerability and Defense in Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>揭示GCL谱平滑放大定向推广攻击，提出CLeaR攻击与SIM防御，在三大数据集上显著降H@50且保Recall。</p>
 </dd>
 <dt data-paper-tags="[&quot;TORS 2023&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回/排序&quot;,&quot;输出扰动&quot;,&quot;无负采样&quot;]"><strong><a href="../../venues/TORS/2023/self_supervised_denoising/selfcf_a_simple_framework_for_self_supervised_collaborative_filtering/">SelfCF: A Simple Framework for Self-supervised Collaborative Filtering</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -1133,6 +1318,10 @@ hide:
 <dt data-paper-tags="[&quot;TWEB&quot;,&quot;序列与会话推荐&quot;,&quot;召回&quot;,&quot;异构图神经网络&quot;,&quot;多行为会话建模&quot;]"><strong><a href="../../venues/TWEB/2024/sequential_rec/heterogeneous_information_crossing_on_graphs_for_session_based_recommender_/">Heterogeneous Information Crossing on Graphs for Session-based Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on the Web">ACM TWEB</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>会话多行为异构图 + 跨行为类型边 + 双层注意力交叉，全库排序下 HR@20 相对最优基线提升约 3.5%</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2021&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回/精排训练&quot;,&quot;隐式反馈去噪&quot;,&quot;自适应损失&quot;]"><strong><a href="../../venues/WSDM/2021/self_supervised_denoising/denoising_implicit_feedback_for_recommendation/">Denoising Implicit Feedback for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出自适应去噪训练ADT，用动态截断/重加权CE剪枝大损失假阳性交互；三数据集全库排序下NeuMF+T-CE平均提升15.62%。</p>
 </dd>
 <dt data-paper-tags="[&quot;WSDM&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;表示退化 (Anisotropy)&quot;,&quot;对比学习正则 (Dropout 增广 / 监督正样本)&quot;]"><strong><a href="../../venues/WSDM/2022/sequential_rec/contrastive_learning_for_representation_degeneration_problem_in_sequential_/">Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -1237,6 +1426,18 @@ hide:
 <dt data-paper-tags="[&quot;WSDM&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;侧信息融合&quot;,&quot;频域去噪&quot;,&quot;时间跨度划分&quot;]"><strong><a href="../../venues/WSDM/2026/sequential_rec/time_aware_adaptive_side_information_fusion_for_sequential_recommendation/">Time-Aware Adaptive Side Information Fusion for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>提出 TSP 时间跨度划分 + AFF 自适应频域滤波 + ASIF「引导不混合」融合层，在 4 个数据集 Full-Ranking 下 Recall@20 最高提升 10.28%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;序列与会话推荐&quot;,&quot;召回/排序（下一物品预测）&quot;,&quot;变分自编码器&quot;,&quot;对抗变分贝叶斯&quot;,&quot;对比学习&quot;]"><strong><a href="../../venues/WWW/2021/sequential_rec/adversarial_and_contrastive_variational_autoencoder_for_sequential_recommen/">Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将AVB对抗训练与对比学习引入序列VAE，用RNN-CNN编码提升隐变量质量，在四个数据集Top-k全排序上显著超越SVAE。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;用户意图建模&quot;,&quot;关系路径聚合&quot;,&quot;知识图谱推荐&quot;]"><strong><a href="../../venues/WWW/2021/graph_rec/learning_intents_behind_interactions_with_knowledge_graph_for_recommendatio/">Learning Intents behind Interactions with Knowledge Graph for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将用户-物品交互细粒度拆解为多意图并与KG关系耦合，配合关系路径感知聚合，在Full-Ranking下ndcg@20相对KGAT最高提升14.51%</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;社交与群组推荐&quot;,&quot;召回&quot;,&quot;超图卷积&quot;,&quot;自监督互信息最大化&quot;]"><strong><a href="../../venues/WWW/2021/social_group_rec/self_supervised_multi_channel_hypergraph_convolutional_network_for_social_r/">Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="社交与群组推荐">Social</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用三角形模体诱导多通道超图卷积建模高阶社交关系，并以层级互信息最大化自监督补偿聚合损失，全库排序下 NDCG@10 最高提升 21.3%。</p>
 </dd>
 <dt data-paper-tags="[&quot;WWW&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;长短期兴趣解耦&quot;,&quot;自监督对比学习&quot;]"><strong><a href="../../venues/WWW/2022/sequential_rec/disentangling_long_and_short_term_interests_for_recommendation/">Disentangling Long and Short-Term Interests for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -1413,5 +1614,9 @@ hide:
 <dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回&quot;,&quot;对比学习&quot;,&quot;扩散增广&quot;,&quot;非对称对比&quot;]"><strong><a href="../../venues/WWW/2026/self_supervised_denoising/radar_relation_aware_diffusion_asymmetric_graph_contrastive_learning_for_re/">RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>以 VGAE 生成视图与关系感知去噪视图构成双视图，叠加扩散引导增广与非对称对比目标，在 Full-Ranking 下 Recall@20 相对 SOTA 提升 3.8%–4.7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;召回&quot;,&quot;多行为推荐&quot;,&quot;目标锚定对比学习&quot;,&quot;不变风险最小化&quot;]"><strong><a href="../../venues/WWW/2026/self_supervised_denoising/rmbrec_robust_multi_behavior_recommendation_towards_target_behaviors/">RMBRec: Robust Multi-Behavior Recommendation towards Target Behaviors</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>以目标行为为锚做用户侧对比对齐（RRM）+ 跨行为风险方差正则（ORM/REx），在 Taobao/TMall/Beibei 的 Full-Ranking 协议下 HR@10 最高提升 16.3%，且强抗噪。</p>
 </dd>
 </dl>

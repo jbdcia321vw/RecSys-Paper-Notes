@@ -1,0 +1,21 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity,2106.01300,https://arxiv.org/abs/2106.01300,,cold_start_rec,ACL_EMNLP,2021
+HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation,2106.04408,https://arxiv.org/abs/2106.04408,,sequential_rec,ACL_EMNLP,2021
+CRSLab: An Open-Source Toolkit for Building Conversational Recommender System,2101.00939,https://arxiv.org/abs/2101.00939,https://github.com/RUCAIBox/CRSLab,agent_conversational_rec,ACL_EMNLP,2021
+RevCore: Review-augmented Conversational Recommendation,2106.00957,https://arxiv.org/abs/2106.00957,,agent_conversational_rec,ACL_EMNLP,2021
+Personalized Transformer for Explainable Recommendation,2105.11601,https://arxiv.org/abs/2105.11601,,agent_conversational_rec,ACL_EMNLP,2021
+Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction,2109.03821,https://arxiv.org/abs/2109.03821,,collaborative_filtering,ACL_EMNLP,2021
+Neural News Recommendation with Collaborative News Encoding and Structural User Encoding,2109.00750,https://arxiv.org/abs/2109.00750,https://github.com/Veason-silverbullet/NNR,graph_rec,ACL_EMNLP,2021
+Uni-FedRec: A Unified Privacy-Preserving News Recommendation Framework for Model Training and Online Serving,2109.05236,https://arxiv.org/abs/2109.05236,,debias_fairness_industrial,ACL_EMNLP,2021
+Leveraging Order-Free Tag Relations for Context-Aware Recommendation,2012.02957,https://arxiv.org/abs/2012.02957,,generative_rec,ACL_EMNLP,2021
+Learning Neural Templates for Recommender Dialogue System,2109.12302,https://arxiv.org/abs/2109.12302,https://github.com/jokieleung/NTRD,agent_conversational_rec,ACL_EMNLP,2021
+Faithfully Explainable Recommendation via Neural Logic Reasoning,2104.07869,https://arxiv.org/abs/2104.07869,,graph_rec,ACL_EMNLP,2021
+"""It doesn't look good for a date"": Transforming Critiques into Preferences for Conversational Recommendation Systems",2109.07576,https://arxiv.org/abs/2109.07576,,agent_conversational_rec,ACL_EMNLP,2021
+DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation,2109.08877,https://arxiv.org/abs/2109.08877,,agent_conversational_rec,ACL_EMNLP,2021
+Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation,2109.05446,https://arxiv.org/abs/2109.05446,,debias_fairness_industrial,ACL_EMNLP,2021
+Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering,,https://aclanthology.org/2021.acl-long.232.pdf,,collaborative_filtering,ACL_EMNLP,2021
+Leveraging Bidding Graphs for Advertiser-Aware Relevance Modeling in Sponsored Search,,https://aclanthology.org/2021.findings-emnlp.191.pdf,,ctr_feature_interaction,ACL_EMNLP,2021
+CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation,,https://aclanthology.org/2021.emnlp-main.139.pdf,,agent_conversational_rec,ACL_EMNLP,2021
+KERS: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals,,https://aclanthology.org/2021.findings-emnlp.94.pdf,,agent_conversational_rec,ACL_EMNLP,2021
+#HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention,,https://aclanthology.org/2021.emnlp-main.616.pdf,,sequential_rec,ACL_EMNLP,2021
+CRFR: Improving Conversational Recommender Systems via Flexible Fragments Reasoning on Knowledge Graphs,,https://aclanthology.org/2021.emnlp-main.355.pdf,,agent_conversational_rec,ACL_EMNLP,2021

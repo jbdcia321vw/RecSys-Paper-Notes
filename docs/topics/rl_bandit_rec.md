@@ -7,9 +7,9 @@ hide:
 
 > **研究范畴**：Contextual Bandit 探索与利用 (E&E)、Offline RL 长期留存与生命周期价值 (LTV) 策略优化
 
-当前方向共收录 **206** 篇顶会/顶刊论文解读：
+当前方向共收录 **259** 篇顶会/顶刊论文解读：
 
-🔥 **高频交叉主题：** 生成式推荐 ×18 · 大语言模型推荐 ×11 · Actor-Critic ×6 · 端到端生成式 ×6 · Thompson Sampling ×5 · Decision Transformer ×4 · LLM Agent ×4 · Uplift Modeling ×4
+🔥 **高频交叉主题：** 生成式推荐 ×21 · 大语言模型推荐 ×13 · Thompson Sampling ×11 · 端到端生成式 ×8 · Actor-Critic ×7 · Decision Transformer ×4 · GRPO ×4 · LLM Agent ×4
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -22,50 +22,58 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">116</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">38</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">34</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">33</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">18</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="Contextual Bandit" aria-pressed="false">Contextual Bandit<span class="paper-tag-filter__count">15</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">13</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="强化学习与动态探索推荐" aria-pressed="false">强化学习与动态探索推荐<span class="paper-tag-filter__count">140</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">43</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">41</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">38</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Contextual Bandit" aria-pressed="false">Contextual Bandit<span class="paper-tag-filter__count">21</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">21</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">17</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">13</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">12</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="离线强化学习" aria-pressed="false">离线强化学习<span class="paper-tag-filter__count">12</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">11</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">10</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">9</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Thompson Sampling" aria-pressed="false">Thompson Sampling<span class="paper-tag-filter__count">11</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对话推荐与智能体仿真" aria-pressed="false">对话推荐与智能体仿真<span class="paper-tag-filter__count">11</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">9</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自动出价" aria-pressed="false">自动出价<span class="paper-tag-filter__count">9</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">8</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="Actor-Critic" aria-pressed="false">Actor-Critic<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">6</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="Thompson Sampling" aria-pressed="false">Thompson Sampling<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">8</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Actor-Critic" aria-pressed="false">Actor-Critic<span class="paper-tag-filter__count">7</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多任务学习与列表级重排" aria-pressed="false">多任务学习与列表级重排<span class="paper-tag-filter__count">6</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">5</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Decision Transformer" aria-pressed="false">Decision Transformer<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="GRPO" aria-pressed="false">GRPO<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="LLM Agent" aria-pressed="false">LLM Agent<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Uplift Modeling" aria-pressed="false">Uplift Modeling<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="冷启动与长尾推荐" aria-pressed="false">冷启动与长尾推荐<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多任务学习与列表级重排" aria-pressed="false">多任务学习与列表级重排<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与工业架构" aria-pressed="false">去偏公平与工业架构<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多智能体强化学习" aria-pressed="false">多智能体强化学习<span class="paper-tag-filter__count">4</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="CTR预估与特征交叉" aria-pressed="false">CTR预估与特征交叉<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Off-Policy Evaluation" aria-pressed="false">Off-Policy Evaluation<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Offline RL" aria-pressed="false">Offline RL<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="上下文 Bandit" aria-pressed="false">上下文 Bandit<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="分层强化学习" aria-pressed="false">分层强化学习<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与可信推荐" aria-pressed="false">去偏公平与可信推荐<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多任务学习" aria-pressed="false">多任务学习<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多智能体强化学习" aria-pressed="false">多智能体强化学习<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="奖励塑形" aria-pressed="false">奖励塑形<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="流式推荐" aria-pressed="false">流式推荐<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐与离散语义ID" aria-pressed="false">生成式推荐与离散语义ID<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="端到端策略学习" aria-pressed="false">端到端策略学习<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="逆强化学习" aria-pressed="false">逆强化学习<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="长期留存优化" aria-pressed="false">长期留存优化<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Actor-Critic 强化学习" aria-pressed="false">Actor-Critic 强化学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Contextual Combinatorial Semi-Bandit" aria-pressed="false">Contextual Combinatorial Semi-Bandit<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Dueling Bandit" aria-pressed="false">Dueling Bandit<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Epistemic Neural Network" aria-pressed="false">Epistemic Neural Network<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="GFlowNet" aria-pressed="false">GFlowNet<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="GRPO" aria-pressed="false">GRPO<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Off-Policy Learning" aria-pressed="false">Off-Policy Learning<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="Offline RL" aria-pressed="false">Offline RL<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Slate 推荐" aria-pressed="false">Slate 推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="Soft Actor-Critic" aria-pressed="false">Soft Actor-Critic<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="上下文 Bandit" aria-pressed="false">上下文 Bandit<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="上下文老虎机" aria-pressed="false">上下文老虎机<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="上下文赌博机" aria-pressed="false">上下文赌博机<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="主动推荐" aria-pressed="false">主动推荐<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="双层优化" aria-pressed="false">双层优化<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="因果推断" aria-pressed="false">因果推断<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="奖励分解" aria-pressed="false">奖励分解<span class="paper-tag-filter__count">2</span></button>
@@ -73,23 +81,56 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="嵌入维度搜索" aria-pressed="false">嵌入维度搜索<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="强化学习策略梯度" aria-pressed="false">强化学习策略梯度<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="探索-利用权衡" aria-pressed="false">探索-利用权衡<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="机制设计" aria-pressed="false">机制设计<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="模仿学习" aria-pressed="false">模仿学习<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="生成式端到端" aria-pressed="false">生成式端到端<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="用户兴趣探索" aria-pressed="false">用户兴趣探索<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="用户模拟" aria-pressed="false">用户模拟<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="用户模拟器" aria-pressed="false">用户模拟器<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="社交与群组推荐" aria-pressed="false">社交与群组推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="离线策略学习" aria-pressed="false">离线策略学习<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="离线策略评估" aria-pressed="false">离线策略评估<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="离线策略评估 (OPE)" aria-pressed="false">离线策略评估 (OPE)<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="端到端策略学习" aria-pressed="false">端到端策略学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="粗排" aria-pressed="false">粗排<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排/策略层" aria-pressed="false">精排/策略层<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="约束优化" aria-pressed="false">约束优化<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="联合广告拍卖" aria-pressed="false">联合广告拍卖<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="语义ID" aria-pressed="false">语义ID<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="逆倾向得分" aria-pressed="false">逆倾向得分<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="逆强化学习" aria-pressed="false">逆强化学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="重要性采样" aria-pressed="false">重要性采样<span class="paper-tag-filter__count">2</span></button>
   </div>
   <div class="paper-tag-filter__status" data-tag-status></div>
 </div>
 
 <dl data-paper-list>
+<dt data-paper-tags="[&quot;AAAI 2021&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;召回/端到端策略学习&quot;,&quot;Offline RL&quot;,&quot;外推误差约束&quot;,&quot;离散随机策略&quot;]"><strong><a href="../../venues/AAAI/2021/rl_bandit_rec/a_general_offline_reinforcement_learning_framework_for_interactive_recommen/">A General Offline Reinforcement Learning Framework for Interactive Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将交互推荐写成概率生成模型的变分推断，用离散随机 Actor-Critic 加五种行为策略约束抑制外推误差，全库排序下 NDCG@10 提升 13.8%~25.2%。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;重排&quot;,&quot;Contextual Combinatorial Bandit&quot;,&quot;Dispersion Function&quot;,&quot;多样性推荐&quot;]"><strong><a href="../../venues/AAAI/2021/rl_bandit_rec/a_hybrid_bandit_framework_for_diversified_recommendation/">A Hybrid Bandit Framework for Diversified Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用模块函数刻画相关性、散度函数刻画多样性，在线联合学习用户对二者的个性化偏好，贪心+UCB 求解并给出无间隙 regret 上界。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;广告投放实验/创意分配&quot;,&quot;Contextual Thompson Sampling&quot;,&quot;实验即服务 (EaaS)&quot;,&quot;互斥子人群拆分 (DA)&quot;]"><strong><a href="../../venues/AAAI/2021/rl_bandit_rec/comparison_lift_bandit_based_experimentation_system_for_online_advertising/">Comparison Lift: Bandit-based Experimentation System for Online Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>京东广告 EaaS 系统：将重叠目标人群拆为互斥子人群，在子人群上跑 Contextual Thompson Sampling，再聚合回人群层做创意-人群最优组合推断；线上 1,547 次实验平均提升测试期点击 +27%、广告主 CTR +46%。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;重排&quot;,&quot;DQN 多子动作联合决策&quot;,&quot;Dueling 价值-优势分解&quot;,&quot;广告-推荐列表混排&quot;]"><strong><a href="../../venues/AAAI/2021/rl_bandit_rec/dear_deep_reinforcement_learning_for_online_advertising_impression_in_recom/">DEAR: Deep Reinforcement Learning for Online Advertising Impression in Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用单一 Dueling-DQN 同时决策「是否插广告/插哪条/插哪个槽位」，把前向复杂度从 O(|A|·L) 降到 O(|A|)，在抖音 100 万会话上累积奖励较 HDQN 提升 6.71%。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;召回&quot;,&quot;Contextual Bandit&quot;,&quot;Thompson Sampling&quot;,&quot;动态规划&quot;]"><strong><a href="../../venues/AAAI/2021/rl_bandit_rec/efficient_optimal_selection_for_composited_advertising_creatives_with_tree_/">Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用 ingredient 树 + 元素二部图参数化创意 CTR，动态规划精确搜索最优创意，并将 Thompson sampling 下沉到参数后验实现高效探索。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;逆强化学习&quot;,&quot;合成反馈闭环&quot;,&quot;生成式用户模拟&quot;]"><strong><a href="../../venues/AAAI/2021/collaborative_filtering/learning_to_recommend_from_sparse_data_via_generative_user_feedback/">Learning to Recommend from Sparse Data via Generative User Feedback</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用「虚拟用户」奖励估计器+反馈生成器与 CF 推荐器构成闭环，以 IRL 对抗正则在稀疏交互上稳定提升 VAE/MF 类召回 2%~9%。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI 2021&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;重排/策略层端到端&quot;,&quot;世界模型 (World Model)&quot;,&quot;通用价值函数 (UVF)&quot;,&quot;解耦价值估计&quot;]"><strong><a href="../../venues/AAAI/2021/rl_bandit_rec/reinforcement_learning_with_a_disentangled_universal_value_function_for_ite/">Reinforcement Learning with a Disentangled Universal Value Function for Item Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以目标导向世界模型解耦环境动态与高方差奖励，构建通用价值函数 $Q=g^{\top}M(s,a,g)$，在三个仿真环境与网易线上场景提升累积点击 3.7%–10.7%。</p>
+</dd>
 <dt data-paper-tags="[&quot;AAAI&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;召回&quot;,&quot;Contextual Bandit&quot;,&quot;隐空间探索&quot;,&quot;长期奖励&quot;]"><strong><a href="../../venues/AAAI/2022/rl_bandit_rec/context_uncertainty_in_contextual_bandits_with_applications_to_recommender_/">Context Uncertainty in Contextual Bandits with Applications to Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
 <p>提出 REN，在 RNN 隐空间用 DPP 多样性项 + 表征不确定性 UCB 项联合打分，兼顾相关性与探索，理论上保持率最优次线性 regret，在线滚动评估中长期奖励显著超越 GRU4Rec/TCN/HRNN。</p>
@@ -150,9 +191,21 @@ hide:
 <dd>
 <p>用双神经网络+上下文聚类替代组合老虎机的精确优化 oracle，实现 $\tilde{O}(\tilde{d}\sqrt{T})$ 遗憾并显著降低推荐累积遗憾。</p>
 </dd>
+<dt data-paper-tags="[&quot;AAAI 2026&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;端到端序列决策&quot;,&quot;学习路径推荐&quot;,&quot;GraphRAG&quot;,&quot;判别学习&quot;]"><strong><a href="../../venues/AAAI/2026/graph_rec/graphrag_induced_dual_knowledge_structure_graphs_for_personalized_learning_/">GraphRAG-Induced Dual Knowledge Structure Graphs for Personalized Learning Path Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>以 TextGrad+EDU-GraphRAG 自动合成先决/相似双知识结构图，再用 PPO 三智能体生成学习路径，仿真协议下最长路径提升约 29%</p>
+</dd>
 <dt data-paper-tags="[&quot;AAAI 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;召回&quot;,&quot;Dueling Bandit&quot;,&quot;反馈增强&quot;,&quot;置信界校准&quot;]"><strong><a href="../../venues/AAAI/2026/rl_bandit_rec/preference_is_more_than_comparisons_rethinking_dueling_bandits_with_augment/">Preference is More Than Comparisons: Rethinking Dueling Bandits with Augmented Human Feedback</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用增强置信界把相似/依赖观测注入无模型 Dueling Bandit，给出样本复杂度与遗憾权衡，在推荐、多目标优化与 LLM 响应优化上显著降遗憾。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI 2026&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;序贯决策智能体（离线仿真）&quot;,&quot;递推持续性环&quot;,&quot;因果损伤归因&quot;,&quot;机制可解释性评测&quot;]"><strong><a href="../../venues/AAAI/2026/debias_fairness_industrial/recon_ipsundrum_an_inspectable_recurrent_persistence_loop_agent_with_affect/">ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>在 ReCoN 状态机上外挂感官显著性递推环与可选 affect 代理，用熟悉度控制的走廊偏好、探索性玩耍、疼痛尾部与因果损伤四类探针，把“持续性—偏好稳定—结构化扫描”拆成可分离的机制链路。</p>
+</dd>
+<dt data-paper-tags="[&quot;AAAI 2026&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;重排/策略层（交互式推荐）&quot;,&quot;物品生命周期建模&quot;,&quot;层级强化学习&quot;]"><strong><a href="../../venues/AAAI/2026/debias_fairness_industrial/revisiting_fairness_aware_interactive_recommendation_item_lifecycle_as_a_co/">Revisiting Fairness-aware Interactive Recommendation: Item Lifecycle as a Control Knob</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：AAAI Conference on Artificial Intelligence">AAAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>实证短视频物品呈压缩三段式生命周期，以 STL+iTransformer 阶段判别器驱动双层 RL 分阶段分配曝光，在 KuaiSim 模拟器上交互长度 +10.5%、累积奖励 +13.1% 且公平性同步改善。</p>
 </dd>
 <dt data-paper-tags="[&quot;ACL/EMNLP 2025&quot;,&quot;大语言模型推荐&quot;,&quot;生成式推荐&quot;,&quot;个性化估值&quot;,&quot;拍卖闭环评估&quot;]"><strong><a href="../../venues/ACL_EMNLP/2025/llm_rec/lamp_val_large_language_models_empower_personalized_valuation_in_auction/">LaMP-Val: Large Language Models Empower Personalized Valuation in Auction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACL &amp; EMNLP Conferences">ACL / EMNLP (RecSys &amp; CRS)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
@@ -169,6 +222,10 @@ hide:
 <dt data-paper-tags="[&quot;ACM MM&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;生成式推荐&quot;,&quot;GFlowNet&quot;,&quot;短视频预取&quot;,&quot;多候选生成&quot;]"><strong><a href="../../venues/ACM_MM/2025/rl_bandit_rec/generative_flow_networks_for_personalized_multimedia_systems_a_case_study_o/">Generative Flow Networks for Personalized Multimedia Systems: A Case Study on Short Video Feeds</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 GFlowNet 多候选生成替代单动作 RL 策略，在短视频预取场景实现个性化 QoE 与带宽双优化。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排/重排（排序融合）&quot;,&quot;Actor-Critic&quot;,&quot;冷启动 LTV&quot;,&quot;POC-MDP&quot;]"><strong><a href="../../venues/CIKM/2021/rl_bandit_rec/reinforcement_learning_to_optimize_lifetime_value_in_cold_start_recommendat/">Reinforcement Learning to Optimize Lifetime Value in Cold-Start Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以 POC-MDP 建模商品生命周期，Actor-Critic 预估冷启商品 LTV 并与 CTR 分数双路融合排序，淘宝线上 IPV/GMV 相对提升 8.67%/18.03%。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;去偏公平与工业可信&quot;,&quot;精排&quot;,&quot;双稳健估计&quot;,&quot;选择偏差&quot;,&quot;不确定性门控&quot;]"><strong><a href="../../venues/CIKM/2023/debias_fairness_industrial/cdr_conservative_doubly_robust_learning_for_debiased_recommendation/">CDR: Conservative Doubly Robust Learning for Debiased Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -222,6 +279,10 @@ hide:
 <dd>
 <p>用分层专家行为克隆替代 RL 探索，配合动作熵正则与自适应专家选择，在快手双平台 A/B 中提升活跃天数 0.098%/0.122%。</p>
 </dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;生成式推荐与离散语义 ID&quot;,&quot;召回&quot;,&quot;Semantic ID&quot;,&quot;RQ-VAE&quot;,&quot;GRPO&quot;]"><strong><a href="../../venues/CIKM/2026/generative_rec/efficient_generative_retrieval_for_e_commerce_search_with_semantic_cluster_/">Efficient Generative Retrieval for E-commerce Search with Semantic Cluster IDs and Expert-Guided RL</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>以类目约束 RQ-VAE 构造语义簇 ID（CQ-SID），并用专家注入的 GRPO 对齐下游排序，天猫搜索线上 GMV +1.15%。</p>
+</dd>
 <dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;重排&quot;,&quot;Off-Policy Learning&quot;,&quot;Top-k Policy Decomposition&quot;]"><strong><a href="../../venues/CIKM/2026/rl_bandit_rec/efficient_offline_learning_of_ranking_policies_via_top_k_policy_decompositi/">Efficient Offline Learning of Ranking Policies via Top-$k$ Policy Decomposition</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>将排序策略分解为 top-$k$ 策略梯度与 bottom 回归两段，在 CPC 条件下无偏且大幅降方差，小样本与大规模排序空间下显著优于 IPS/DR/RIPS/IIPS。</p>
@@ -238,13 +299,25 @@ hide:
 <dd>
 <p>用 SFT 检查点诊断语义 ID 前缀树可达性，对不可达样本注入最短目标前缀提示并以提示感知信用分解（前缀 SFT + 后缀 GRPO）恢复学习信号，零优势组从 70%+ 降至 20% 以下。</p>
 </dd>
+<dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排/序列决策&quot;,&quot;奖励塑形&quot;,&quot;视觉显著性&quot;]"><strong><a href="../../venues/CIKM/2026/rl_bandit_rec/visalrec_visual_and_saliency_informed_reward_augmentation_for_sequential_re/">ViSalRec: Visual and Saliency-Informed Reward Augmentation for Sequential Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>将商品图、合成显著性与多模态 LLM 判断转为稠密奖励注入 SA2C；Amazon 上 NDCG@10 最高 +27.0%，但收益受数据密度与训练变体制约。</p>
+</dd>
 <dt data-paper-tags="[&quot;DASFAA 2024&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;端到端交互策略&quot;,&quot;分层强化学习&quot;,&quot;Chain-of-Choice&quot;,&quot;多类型属性询问&quot;]"><strong><a href="../../venues/DASFAA/2024/agent_conversational_rec/chain_of_choice_hierarchical_policy_learning_for_conversational_recommendat/">Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>提出 MTAMCR 多类型属性多轮对话场景与 CoCHPL 分层策略，逐级生成属性/物品链；四数据集 SR@15/AT/hDCG 全面领先。</p>
 </dd>
+<dt data-paper-tags="[&quot;DASFAA 2026&quot;,&quot;大语言模型推荐&quot;,&quot;端到端序列决策策略&quot;,&quot;层次强化学习 HMDP&quot;,&quot;LoRA 策略微调&quot;]"><strong><a href="../../venues/DASFAA/2026/llm_rec/hierllm_hierarchical_large_language_model_for_question_recommendation/">HierLLM: Hierarchical Large Language Model for Question Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用「概念→题目」双层 LLM 策略将超大题库动作空间逐级收缩，并以策略梯度直接优化学习收益，显著缓解教育推荐冷启动与长程决策难题。</p>
+</dd>
 <dt data-paper-tags="[&quot;DASFAA 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;重排&quot;,&quot;分层强化学习&quot;,&quot;LLM 语义规划&quot;,&quot;过滤气泡缓解&quot;]"><strong><a href="../../venues/DASFAA/2026/rl_bandit_rec/llm_enhanced_reinforcement_learning_for_long_term_user_satisfaction_in_inte/">LLM-Enhanced Reinforcement Learning for Long-Term User Satisfaction in Interactive Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>LLM 做类别级语义规划、PPO 做物品级策略，KuaiSim 全会话仿真下 Tint/Rcum 显著超越 DNaIR 等 SOTA。</p>
+</dd>
+<dt data-paper-tags="[&quot;DASFAA 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;端到端策略学习&quot;,&quot;RL exploration&quot;,&quot;Ranking alignment&quot;,&quot;Collaborative regularization&quot;]"><strong><a href="../../venues/DASFAA/2026/rl_bandit_rec/personalized_education_with_ranking_alignment_recommendation/">Personalized Education with Ranking Alignment Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>提出 RAR，以学习目标对称差与推荐序列距离构造排序对齐损失，增强 RL 题目推荐探索效率；在 KSS 与四个 KT 模拟器上显著提升学习效果。</p>
 </dd>
 <dt data-paper-tags="[&quot;ECIR 2024&quot;,&quot;序列与会话推荐&quot;,&quot;序列 Next-Item 排序&quot;,&quot;离线强化学习&quot;,&quot;Critic Regularized Regression&quot;,&quot;DistilGPT2&quot;]"><strong><a href="../../venues/ECIR/2024/sequential_rec/integrating_offline_reinforcement_learning_with_transformers_for_sequential/">Integrating Offline Reinforcement Learning with Transformers for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
@@ -253,6 +326,10 @@ hide:
 <dt data-paper-tags="[&quot;ICDE 2023&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;匹配/派单&quot;,&quot;Contextual Bandit&quot;,&quot;Capacity-Aware Assignment&quot;]"><strong><a href="../../venues/ICDE/2023/rl_bandit_rec/towards_capacity_aware_broker_matching_from_recommendation_to_assignment/">Towards Capacity-Aware Broker Matching: From Recommendation to Assignment</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>将经纪人匹配从 top-k 推荐转为容量感知指派，NN-UCB 在线估容量，MDP 价值函数+KM 全局分配，CBS 无损加速。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDE 2026&quot;,&quot;生成式推荐&quot;,&quot;召回&quot;,&quot;MoE 并行量化码本&quot;,&quot;推理路径自反思&quot;]"><strong><a href="../../venues/ICDE/2026/generative_rec/reg4rec_reasoning_enhanced_generative_model_for_large_scale_recommendation_/">REG4Rec: Reasoning-Enhanced Generative Model for Large-Scale Recommendation Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用 MoE 并行量化码本构建无序多路径推理空间，配 GRPO 偏好对齐与自反思剪枝，在 Amazon 三域与阿里广告 5.7B 交互数据上 Full-Ranking R@5 相对提升 4.97%~16.59%，线上广告收入 +5.60%。</p>
 </dd>
 <dt data-paper-tags="[&quot;KAIS / ICDM 2022&quot;,&quot;冷启动与长尾推荐&quot;,&quot;嵌入层（召回/精排通用）&quot;,&quot;Actor-Critic 强化学习&quot;,&quot;层级共享嵌入&quot;,&quot;流式推荐&quot;]"><strong><a href="../../venues/ICDM/2022/cold_start_rec/autoassign_automatic_shared_embedding_assignment_in_streaming_recommendatio/">AutoAssign+: Automatic Shared Embedding Assignment in Streaming Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -269,6 +346,26 @@ hide:
 <dt data-paper-tags="[&quot;ICDM 2025&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;生成式推荐&quot;,&quot;逆强化学习&quot;,&quot;模仿学习&quot;,&quot;离线 RL&quot;]"><strong><a href="../../venues/ICDM/2025/rl_bandit_rec/beyond_static_llm_policies_imitation_enhanced_reinforcement_learning_for_re/">Beyond Static LLM Policies: Imitation-Enhanced Reinforcement Learning for Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Mining">ICDM</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 LLM 轨迹作次优示范，经对抗逆强化学习提取奖励并加权模仿，离线 RL 策略在 Steam/Amazon 上累积奖励较 BiLLP 提升 13%+。</p>
+</dd>
+<dt data-paper-tags="[&quot;NeurIPS&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;召回&quot;,&quot;上下文线性 Bandit&quot;,&quot;切割平面与凸几何&quot;,&quot;列表推荐与低遗憾在线学习&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2021/rl_bandit_rec/contextual_recommendations_and_low_regret_cutting_plane_algorithms/">Contextual Recommendations and Low-Regret Cutting-Plane Algorithms</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>仅在仅能观测“最优动作身份”的定性反馈下，将上下文推荐归约为低遗憾切割平面算法，给出 $O(d\log T)$、$\exp(O(d\log d))$及列表推荐$O(d^2\log d)$ 的遗憾界。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICML&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;在线探索/排序&quot;,&quot;Incentivized Bandit&quot;,&quot;Self-Reinforcing Preference&quot;,&quot;Pólya Urn&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2021/rl_bandit_rec/incentivized_bandit_learning_with_self_reinforcing_user_preferences/">Incentivized Bandit Learning with Self-Reinforcing User Preferences</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出激励式 MAB 与自增强偏好模型，以多色 Pólya 罐设计三阶段 ALnETC/UCB-List，证明 $O(\log T)$ 遗憾与支付，仿真验证。</p>
+</dd>
+<dt data-paper-tags="[&quot;NeurIPS&quot;,&quot;多任务学习与列表级重排&quot;,&quot;召回+精排级联&quot;,&quot;两阶段推荐&quot;,&quot;Mixture-of-Experts&quot;,&quot;Bandit遗憾分解&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2021/multi_task_reranking/on_component_interactions_in_two_stage_recommender_systems/">On component interactions in two-stage recommender systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用遗憾分解揭示两阶段推荐器组件交互，提出MoE学习物品池分配，提升prec@5/recall@5。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICML&quot;,&quot;去偏公平与工业架构&quot;,&quot;离线评测/策略审计&quot;,&quot;随机可达性&quot;,&quot;凸优化&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2021/debias_fairness_industrial/quantifying_availability_and_discovery_in_recommender_systems_via_stochasti/">Quantifying Availability and Discovery in Recommender Systems via Stochastic Reachability</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用 softmax 随机可达性凸程序审计推荐系统，在 ML-1M/LastFM/MIND 上量化流行度偏差是否内生于打分模型本身。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICML 2021&quot;,&quot;CTR/CVR 预估与特征交互&quot;,&quot;精排后定价/计费&quot;,&quot;一价拍卖保留价&quot;,&quot;零阶随机梯度&quot;,&quot;方差缩减&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2021/ctr_feature_interaction/reserve_price_optimization_for_first_price_auctions_in_display_advertising/">Reserve Price Optimization for First Price Auctions in Display Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将一价拍卖收入分解为需求与竞价两项并分别做参数化拟合与分位数截断降方差，零阶梯度收敛率由 Õ(N^{-1/4}) 提升到 Õ(N^{-1/3})。</p>
 </dd>
 <dt data-paper-tags="[&quot;NeurIPS&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;策略层/预算约束决策&quot;,&quot;Contextual Bandits with Knapsacks&quot;,&quot;Conversion Model&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2022/rl_bandit_rec/contextual_bandits_with_knapsacks_for_a_conversion_model/">Contextual Bandits with Knapsacks for a Conversion Model</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -390,6 +487,10 @@ hide:
 <dd>
 <p>揭示主动推荐中策略梯度的长度捷径与高方差缺陷，提出逐步奖励中心化与位置特定优势估计，三数据集全面超越 SOTA。</p>
 </dd>
+<dt data-paper-tags="[&quot;ICLR/NeurIPS/ICML 2026&quot;,&quot;LLM4Rec&quot;,&quot;生成式端到端&quot;,&quot;Latent Reasoning&quot;,&quot;GRPO&quot;,&quot;强化学习微调&quot;]"><strong><a href="../../venues/ICLR_NeurIPS_ICML/2026/llm_rec/reinforced_latent_reasoning_for_llm_based_recommendation/">Reinforced Latent Reasoning for LLM-based Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：Top ML Conferences (RecSys Papers)">ICLR / NeurIPS / ICML (RecSys)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用连续隐空间 Token 替代显式 CoT，结合两阶段 SFT+改进 GRPO 无 CoT 监督地学习推理，D3 底座全库排序相对提升 8.4% 且推理延迟仅约 +1 token。</p>
+</dd>
 <dt data-paper-tags="[&quot;IJCAI 2022&quot;,&quot;多任务学习与列表级重排&quot;,&quot;重排&quot;,&quot;列表级上下文建模&quot;,&quot;评估器-生成器范式&quot;,&quot;综述与基准库&quot;]"><strong><a href="../../venues/IJCAI/2022/multi_task_reranking/neural_re_ranking_in_multi_stage_recommender_systems_a_review/">Neural Re-ranking in Multi-stage Recommender Systems: A Review</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
 <p>以“目标×监督信号”四象限梳理神经重排，给出复杂度对比、LibRerank 基准与 PRM Public 上 +68% 的量化结论。</p>
@@ -405,6 +506,18 @@ hide:
 <dt data-paper-tags="[&quot;IJCAI 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;重排&quot;,&quot;上下文老虎机&quot;,&quot;知识追踪&quot;,&quot;课程推荐&quot;]"><strong><a href="../../venues/IJCAI/2026/rl_bandit_rec/pace_a_personalized_adaptive_curriculum_engine_for_9_1_1_call_taker_trainin/">PACE: A Personalized Adaptive Curriculum Engine for 9-1-1 Call-taker Training</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用技能图信念传播+个体学习/遗忘动力学+Thompson Sampling 上下文老虎机为 9-1-1 调度员推荐训练场景，Z2H 缩短 19.50%、终局掌握度提升 10.95%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2021&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排/广告排序&quot;,&quot;高斯过程&quot;,&quot;上下文 Bandit&quot;,&quot;不确定性估计&quot;]"><strong><a href="../../venues/KDD/2021/rl_bandit_rec/exploration_in_online_advertising_systems_with_deep_uncertainty_aware_learn/">Exploration in Online Advertising Systems with Deep Uncertainty-Aware Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将深度核高斯过程嵌入 CTR 模型以估计不确定性，结合 UCB/TS 排序做探索，线上社福 +8.2%、收入 +8.0%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2021&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;召回/流量分配（实验层）&quot;,&quot;Multi-Armed Bandit&quot;,&quot;D-Optimal Design&quot;,&quot;Thompson Sampling&quot;]"><strong><a href="../../venues/KDD/2021/rl_bandit_rec/towards_the_d_optimal_online_experiment_design_for_recommender_selection/">Towards the D-Optimal Online Experiment Design for Recommender Selection</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用统计学 D-最优设计替代均匀随机探索来分配多推荐器流量，在线性/贝叶斯/非线性奖励下最大化 Fisher 信息增益，MovieLens 在线模拟与 Walmart.com 杂货相似商品部署验证累积召回显著提升。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2021&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;广告主侧策略推荐（出价/定向决策）&quot;,&quot;Contextual Bandit&quot;,&quot;Dropout as Thompson Sampling&quot;,&quot;偏好向量学习&quot;]"><strong><a href="../../venues/KDD/2021/ctr_feature_interaction/we_know_what_you_want_an_advertising_strategy_recommender_system_for_online/">We Know What You Want: An Advertising Strategy Recommender System for Online Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用 MLP 将广告主特征映射为 KPI 偏好向量 w，以 σ(w^T·v) 预测策略采纳率，Dropout 近似 Thompson Sampling 平衡探索，仿真累计后悔较随机策略降 61.2%</p>
 </dd>
 <dt data-paper-tags="[&quot;KDD&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排&quot;,&quot;探索-利用权衡 (E&amp;E)&quot;,&quot;对抗梯度扰动&quot;,&quot;反馈回路去偏&quot;]"><strong><a href="../../venues/KDD/2022/rl_bandit_rec/adversarial_gradient_driven_exploration_for_deep_click_through_rate_predict/">Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -498,6 +611,18 @@ hide:
 <dd>
 <p>将购物候选生成器触发建模为因果决策，用 DR 多任务提升学习+随机 Holdout+线性回放，线上触发率降 85% 而购物会话持平。</p>
 </dd>
+<dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;自动机制设计 (AMD)&quot;,&quot;联合广告拍卖&quot;,&quot;可微排序确定性分配&quot;]"><strong><a href="../../venues/KDD/2026/ctr_feature_interaction/deterministic_allocation_and_anonymous_joint_advertising_in_e_commerce_plat/">Deterministic-Allocation and Anonymous Joint Advertising in E-commerce Platforms</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用无位置编码 Transformer + 可微排序算子生成匿名、确定性分配的联合广告拍卖机制，离线与线上 A/B 收入显著提升。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;端到端生成式&quot;,&quot;激励广告&quot;,&quot;约束策略优化&quot;,&quot;拉格朗日对偶&quot;]"><strong><a href="../../venues/KDD/2026/rl_bandit_rec/generative_optimization_for_incentivized_advertising_with_global_level_cons/">Generative Optimization for Incentivized Advertising with Global Level Constraints</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>把激励金分配重构为 λ 条件自回归生成，用 SCPO 单一策略跨 ROI 约束泛化；IA 数据 REV +18.5%、RVR 相对降 18.4%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;端到端生成式&quot;,&quot;语义ID量化&quot;,&quot;RSPO 列表级强化学习&quot;,&quot;动态Beam服务&quot;]"><strong><a href="../../venues/KDD/2026/generative_rec/generative_recommendation_for_large_scale_advertising/">Generative Recommendation for Large-Scale Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>快手广告 GR4AD：UA-SID 语义ID + LazyAR 惰性自回归解码 + VSL/RSPO 在线价值对齐与动态 Beam 服务，线上 A/B 广告收入 +4.28%、吞吐 +117%。</p>
+</dd>
 <dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;重排&quot;,&quot;Uplift Modeling&quot;,&quot;多处理因果推断&quot;,&quot;多目标权衡&quot;]"><strong><a href="../../venues/KDD/2026/rl_bandit_rec/heterogeneous_multi_treatment_uplift_modeling_for_trade_off_optimization_in/">Heterogeneous Multi-treatment Uplift Modeling for Trade-off Optimization in Short-Video Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用异构多处理增益建模+在线动态权重，个性化权衡短视频消费与商业化指标，快手全量部署</p>
@@ -514,9 +639,45 @@ hide:
 <dd>
 <p>将同伴影响力概率学习建模为双目标线性上下文 Bandit，刻画 Regret–RMSE 帕累托前沿并提出 InfluenceCB 以单参数 β 导航权衡。</p>
 </dd>
+<dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;生成式推荐&quot;,&quot;端到端生成式召回/排序&quot;,&quot;动态语义 ID&quot;,&quot;多目标强化学习对齐&quot;]"><strong><a href="../../venues/KDD/2026/generative_rec/onelive_dynamically_unified_generative_framework_for_live_streaming_recomme/">OneLive: Dynamically Unified Generative Framework for Live-Streaming Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>面向直播的动态统一生成式框架：IA 动态 Tokenizer + 时间感知门控注意力 + Sequential MTP 推理加速 + 多目标 GRPO 对齐，离线 HR@128 相对提升 16.70%，已在快手双端上线。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;生成式推荐&quot;,&quot;端到端生成式召回&quot;,&quot;语义ID&quot;,&quot;强化学习解码&quot;]"><strong><a href="../../venues/KDD/2026/generative_rec/spend_search_where_it_pays_value_guided_structured_sampling_and_optimizatio/">Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>以价值引导预算解码与兄弟组 GRPO 缓解概率-奖励错配，在 Amazon 与微信线上提升 HR/NDCG/GMV。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;生成式端到端解码/重排&quot;,&quot;约束解码&quot;,&quot;原始-对偶在线优化&quot;]"><strong><a href="../../venues/KDD/2026/generative_rec/stochastic_primal_dual_decoding_for_multiobjective_generative_recommender_s/">Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>在自回归生成推荐推理期插入原始-对偶解码层，按约束松弛动态调权辅助目标，离线Pareto全面占优，线上辅助目标+5.44%且消费不降。</p>
+</dd>
 <dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;重排&quot;,&quot;不确定性量化&quot;,&quot;UCB 探索&quot;,&quot;风险规避降权&quot;]"><strong><a href="../../venues/KDD/2026/rl_bandit_rec/uncertainty_calibrated_recommendations_for_low_active_users/">Uncertainty-Aware Adaptive Recommendation across User Lifecycle</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用 EPE Critic 与经验贝叶斯先验方差量化逐样本认知不确定性，对低活跃用户风险规避降权、高活跃用户 UCB 探索加成，14 天线上 A/B 验证留存与多样性双收益。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;召回&quot;,&quot;联邦协同过滤&quot;,&quot;多臂老虎机&quot;]"><strong><a href="../../venues/RecSys/2021/debias_fairness_industrial/a_payload_optimization_method_for_federated_recommender_systems/">A Payload Optimization Method for Federated Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以贝叶斯 Thompson Sampling 在联邦服务器端挑选物品子集传输，实现 90% 载荷削减下仅 4%–8% 精度损失</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;离线评测&quot;,&quot;Off-Policy Evaluation&quot;,&quot;Double/Debiased Machine Learning&quot;,&quot;Neyman Orthogonality&quot;]"><strong><a href="../../venues/RecSys/2021/rl_bandit_rec/debiased_off_policy_evaluation_for_recommendation_systems/">Debiased Off-Policy Evaluation for Recommendation Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将 Doubly Robust 与 Double/Debiased ML 结合，用 Neyman 正交+cross-fitting 实现 √N 一致的去偏离线策略评估，线上广告 relative-RMSE 较 DR 降 13.5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2021&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;离线策略评估&quot;,&quot;Off-Policy Evaluation&quot;,&quot;CDF 鲁棒性分析&quot;,&quot;反事实估计&quot;]"><strong><a href="../../venues/RecSys/2021/rl_bandit_rec/evaluating_the_robustness_of_off_policy_evaluation/">Evaluating the Robustness of Off-Policy Evaluation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出 IEOE，以性能 CDF/AU-CDF/CVaR 替代单点 MSE，量化 OPE 估计器对超参与评估策略的鲁棒性，在 Open Bandit 与真实电商数据上给出安全选型准则。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys 2021&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;重排/离线评估&quot;,&quot;Slate Exposure&quot;,&quot;Candidate Sampling Bias&quot;]"><strong><a href="../../venues/RecSys/2021/debias_fairness_industrial/finn_no_slates_dataset_a_new_sequential_dataset_logging_interactions_allvie/">FINN.no Slates Dataset: A new Sequential Dataset Logging Interactions, allViewed Items and Click Responses/No-Click for Recommender Systems Research</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>发布FINN.no 30天真实市场slate级序列日志，含曝光列表、点击/no-click与搜索/推荐来源，支撑曝光条件似然与离线策略评估。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;多任务学习与列表级重排&quot;,&quot;重排&quot;,&quot;页面级序列决策&quot;,&quot;上下文 Bandit 数据采集&quot;,&quot;位置偏置 IPS&quot;]"><strong><a href="../../venues/RecSys/2021/multi_task_reranking/page_level_optimization_of_e_commerce_item_recommendations/">Page-level Optimization of e-Commerce Item Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将商品详情页模块的选序建模为两阶段 RNN 序列决策，用模块族嵌入压缩动作空间、束搜索+IPS+Thompson 采样实现线上个性化重排，线上 CTR +2.48%、PTR +7.34%。</p>
+</dd>
+<dt data-paper-tags="[&quot;RecSys&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;自适应序列长度&quot;,&quot;Actor-Critic 强化学习&quot;,&quot;联合损失正则&quot;]"><strong><a href="../../venues/RecSys/2021/sequential_rec/sequence_adaptation_via_reinforcement_learning_in_recommender_systems/">Sequence Adaptation via Reinforcement Learning in Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用 actor-critic 把“回看序列长度 l”建模为 MDP 动作，按用户个性化裁剪子序列并以 Q 值乘性正则交叉熵，Steam/ML-10M 上 NDCG@10 相对最优基线提升 6.5%/12.1%。</p>
 </dd>
 <dt data-paper-tags="[&quot;RecSys&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;生成式端到端&quot;,&quot;多智能体强化学习&quot;,&quot;束推荐&quot;,&quot;完形预训练&quot;]"><strong><a href="../../venues/RecSys/2022/agent_conversational_rec/bundle_mcr_towards_conversational_bundle_recommendation/">Bundle MCR: Towards Conversational Bundle Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -638,6 +799,10 @@ hide:
 <dd>
 <p>用 Gemini 双智能体（快循环提名+慢循环上线）自动改写优化器/架构/奖励函数，在 YouTube 线上 A/B 取得显著北极星指标提升。</p>
 </dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;在线推荐/候选臂选择&quot;,&quot;Contextual Bandit&quot;,&quot;Relative Feedback&quot;]"><strong><a href="../../venues/SIGIR/2021/agent_conversational_rec/comparison_based_conversational_recommender_system_with_relative_bandit_fee/">Comparison-based Conversational Recommender System with Relative Bandit Feedback</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出 RelativeConUCB，用成对 key-term 相对反馈与差异岭回归更新偏好；真实数据漂移场景累积遗憾较 ConUCB 降低 44.75%–49.96%。</p>
+</dd>
 <dt data-paper-tags="[&quot;SIGIR&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排&quot;,&quot;提示式学习&quot;,&quot;离线强化学习&quot;,&quot;会话序列推荐&quot;]"><strong><a href="../../venues/SIGIR/2022/rl_bandit_rec/rethinking_reinforcement_learning_for_recommendation_a_prompt_perspective/">Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
 <p>将离线 RL 推荐从「状态-动作→Q 值」翻转为「状态-累计回报→动作」的提示式监督学习，全库排序下购买 HR@5 最高 +13.0%。</p>
@@ -738,6 +903,10 @@ hide:
 <dd>
 <p>TKDE 2024｜图神经网络与知识图谱推荐｜在协同知识图谱上用两步注意力路径采样器压缩动作空间，以强化学习优化反事实解释策略，生成物品属性级反事实解释并反哺推荐训练（Yelp2018 Recall@80 +78.03%）。</p>
 </dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;对话推荐与智能体仿真&quot;,&quot;交互式在线推荐(多轮对话)&quot;,&quot;Thompson Sampling&quot;,&quot;冷启动&quot;,&quot;属性问询策略&quot;]"><strong><a href="../../venues/TOIS/2021/agent_conversational_rec/seamlessly_unifying_attributes_and_items_conversational_recommendation_for_/">Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-Start Users</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="对话推荐与智能体仿真">CRS</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>把物品与属性统一进同一臂空间，用上下文 Thompson Sampling 端到端决定「问属性还是推物品」，Yelp 上 SR@15 较 EAR 提升 69.5%。</p>
+</dd>
 <dt data-paper-tags="[&quot;TOIS&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;工业架构与评测基准&quot;,&quot;隐私计算&quot;,&quot;数据披露机制&quot;,&quot;多智能体模拟&quot;]"><strong><a href="../../venues/TOIS/2023/debias_fairness_industrial/studying_the_impact_of_data_disclosure_mechanism_in_recommender_systems_via/">Studying the Impact of Data Disclosure Mechanism in Recommender Systems via Simulation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>提出隐私感知推荐框架，以隐私计算建模用户细粒度数据披露决策，并用多智能体 bandit 模拟证明细粒度机制优于“全有或全无”。</p>
@@ -758,13 +927,29 @@ hide:
 <dd>
 <p>提出 VPMCR 模糊偏好场景与 VPPL 框架，用软估计替代二值过滤，SR@15 最高提升 22%，平均轮次显著下降。</p>
 </dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排/在线决策&quot;,&quot;Contextual Bandit&quot;,&quot;Hypernetwork&quot;,&quot;LLM Warm-Start&quot;]"><strong><a href="../../venues/TOIS/2026/rl_bandit_rec/enhancing_bandit_algorithms_with_llms_for_time_varying_user_preferences_in_/">Enhancing Bandit Algorithms with LLMs for Time-varying User Preferences in Streaming Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>Euler 时间嵌入驱动超网络生成低秩偏好矩阵刻画周期偏好，LLM 仿真做离线热启动，三数据集累积奖励超 SOTA 且具 2/3 阶动态遗憾界。</p>
+</dd>
 <dt data-paper-tags="[&quot;TORS&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;在线探索与推荐策略&quot;,&quot;Incentive-Aware Bandit&quot;,&quot;Randomized Pooling&quot;,&quot;Ex-Post Fairness&quot;]"><strong><a href="../../venues/TORS/2024/rl_bandit_rec/incentive_aware_recommender_systems_in_two_sided_markets/">Incentive-Aware Recommender Systems in Two-Sided Markets</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>提出激励兼容的随机池化 Bandit 推荐，已知/未知机会成本下分别用 ARP/MARP 兼顾探索、公平与次线性 regret。</p>
 </dd>
+<dt data-paper-tags="[&quot;TORS&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;在线列表推荐/重排与探索&quot;,&quot;Contextual Bandit&quot;,&quot;Thompson Sampling&quot;,&quot;Reward-Informed Segmentation&quot;]"><strong><a href="../../venues/TORS/2026/rl_bandit_rec/a_reward_informed_semi_personalized_bandit_approach_for_enhancing_accuracy_/">A Reward-Informed Semi-Personalized Bandit Approach for Enhancing Accuracy and Serendipity in Online Slate Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>按物品学习奖励监督决策树划分用户段，并在叶级运行 Thompson Sampling 生成列表，兼顾 regret 与 serendipity。</p>
+</dd>
 <dt data-paper-tags="[&quot;TWEB&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回&quot;,&quot;异质信息网络&quot;,&quot;元路径层次注意力&quot;,&quot;强化学习策略梯度&quot;]"><strong><a href="../../venues/TWEB/2023/graph_rec/reinforced_moocs_concept_recommendation_in_heterogeneous_information_networ/">Reinforced MOOCs Concept Recommendation in Heterogeneous Information Networks</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on the Web">ACM TWEB</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>将 MOOC 用户-课程-视频-概念构造为异质图，用元路径层次注意力编码用户，并以 REINFORCE 做概念序列推荐，XuetangX 上 HR@5 提升 9.74%+</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排&quot;,&quot;机制设计&quot;,&quot;多目标拍卖&quot;,&quot;单调性约束&quot;,&quot;深度策略优化&quot;]"><strong><a href="../../venues/WSDM/2021/ctr_feature_interaction/optimizing_multiple_performance_metrics_with_deep_gsp_auctions_for_e_commer/">Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用深度网络替换 GSP 的静态 rank score，在单调性与平滑过渡约束下以 DDPG 端到端学习多指标拍卖排序，淘宝线上全指标共赢。</p>
+</dd>
+<dt data-paper-tags="[&quot;WSDM 2021&quot;,&quot;去偏公平与工业架构&quot;,&quot;重排&quot;,&quot;约束马尔可夫决策过程&quot;,&quot;长期曝光公平&quot;,&quot;约束策略优化 CPO&quot;]"><strong><a href="../../venues/WSDM/2021/debias_fairness_industrial/towards_long_term_fairness_in_recommendation/">Towards Long-term Fairness in Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将动态流行度分组的曝光公平建模为 CMDP，用双 Critic 的 CPO 在 400 步长程推荐中持续压制 Gini 与流行度率，NDCG@20 相对最优基线提升 26.6%–43.2%。</p>
 </dd>
 <dt data-paper-tags="[&quot;WSDM 2022&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;Auto-bidding 自动出价&quot;,&quot;多智能体强化学习&quot;,&quot;信用分配&quot;]"><strong><a href="../../venues/WSDM/2022/ctr_feature_interaction/a_cooperative_competitive_multi_agent_framework_for_auto_bidding_in_online_/">A Cooperative-Competitive Multi-Agent Framework for Auto-bidding in Online Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -801,6 +986,38 @@ hide:
 <dt data-paper-tags="[&quot;WSDM&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排&quot;,&quot;负采样 Q-learning&quot;,&quot;Advantage Actor-Critic&quot;]"><strong><a href="../../venues/WSDM/2025/rl_bandit_rec/supervised_advantage_actor_critic_for_recommender_systems/">Supervised Advantage Actor-Critic for Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>为 RL 头引入负采样构造 SNQN，并用采样优势 A2C 重加权监督头，在 RC15/RetailRocket 上显著超越 SQN/SAC。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;重排/在线创意选择&quot;,&quot;Visual-aware Ranking&quot;,&quot;Hybrid Bandit&quot;,&quot;Thompson Sampling&quot;]"><strong><a href="../../venues/WWW/2021/rl_bandit_rec/a_hybrid_bandit_model_with_visual_priors_for_creative_ranking_in_display_ad/">A Hybrid Bandit Model with Visual Priors for Creative Ranking in Display Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>视觉list-wise先验热启动商品/创意双线性混合Bandit，在CreativeRanking回放协议下sCTR达3.320%、Regret降至78.11%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;CTR预估与特征交叉&quot;,&quot;精排/在线创意优选&quot;,&quot;AutoML交互搜索&quot;,&quot;Thompson Sampling&quot;]"><strong><a href="../../venues/WWW/2021/ctr_feature_interaction/automated_creative_optimization_for_e_commerce_advertising/">Automated Creative Optimization for E-Commerce Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用one-shot算子搜索建模广告创意元素交互，并以变分Thompson采样平衡探索利用，线上CTR提升7%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排&quot;,&quot;深度上下文老虎机&quot;,&quot;引导式 Bootstrap&quot;,&quot;不确定性探索&quot;]"><strong><a href="../../venues/WWW/2021/rl_bandit_rec/guideboot_guided_bootstrap_for_deep_contextual_bandits/">GuideBoot: Guided Bootstrap for Deep Contextual Bandits in Online Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>WWW 2021｜强化学习与探索推荐｜以预测不确定性反比生成伪样本引导深度 bootstrap 探索，五大模型袋随机决策，广告仿真平均奖励最高提升约 6%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;时空轨迹与POI本地生活推荐&quot;,&quot;召回&quot;,&quot;多智能体强化学习&quot;,&quot;集中式注意力 Critic&quot;,&quot;多目标动态梯度重加权&quot;]"><strong><a href="../../venues/WWW/2021/poi_spatiotemporal_rec/intelligent_electric_vehicle_charging_recommendation_based_on_multi_agent_r/">Intelligent Electric Vehicle Charging Recommendation Based on Multi-Agent Reinforcement Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>把每个充电站视为一个智能体，用集中式注意力 Critic、延迟访问未来竞争信息与多目标动态梯度重加权，在真实京沪数据上同时降低等待时长、充电价格与失败率。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;召回/粗排&quot;,&quot;Policy Gradient&quot;,&quot;下游自适应剪枝&quot;,&quot;奖励塑形&quot;]"><strong><a href="../../venues/WWW/2021/rl_bandit_rec/optimizing_ad_pruning_of_sponsored_search_with_reinforcement_learning/">Optimizing AD Pruning of Sponsored Search with Reinforcement Learning</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将下游精排/拍卖视为黑盒环境，用策略梯度的序列式选品智能体替代 eCPM 规则剪枝，百度在线 A/B 取得 CPM +1.95%</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;去偏公平与工业架构&quot;,&quot;精排/策略层&quot;,&quot;异质因果效应估计&quot;,&quot;约束优化&quot;,&quot;A/B 实验个性化&quot;]"><strong><a href="../../venues/WWW/2021/debias_fairness_industrial/personalized_treatment_selection_using_causal_heterogeneity/">Personalized Treatment Selection using Causal Heterogeneity</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用 Causal Tree/Forest 估计异质因果效应，再通过带约束的随机/确定性优化为每个队列选择最优 treatment，在 LinkedIn 通知配额场景取得 +1.39% Sessions 提升。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排&quot;,&quot;Pareto 优化&quot;,&quot;多目标确定性策略梯度&quot;]"><strong><a href="../../venues/WWW/2021/rl_bandit_rec/reinforcement_recommendation_with_user_multi_aspect_preference/">Reinforcement Recommendation with User Multi-aspect Preference</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将单值 reward 扩展为多维度方面级 reward 向量，用 Pareto-DPG 多 critic 单 actor 学得帕累托有效策略，并理论分析梯度偏差上界，三个数据集 F1/NDCG 相对最优基线提升 4.4%–9.5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2021&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;在线竞价与预算分配&quot;,&quot;Bandits with Knapsacks&quot;,&quot;跨平台预算优化&quot;]"><strong><a href="../../venues/WWW/2021/rl_bandit_rec/stochastic_bandits_for_multi_platform_budget_optimization_in_online_adverti/">Stochastic Bandits for Multi-platform Budget Optimization in Online Advertising</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将跨平台预算分配建模为带背包的随机赌博机，设计乘性权重原始-对偶算法实现 $O(OPT\sqrt{mn/B})$ 级 regret 并验证预算均匀耗尽。</p>
 </dd>
 <dt data-paper-tags="[&quot;WWW 2023&quot;,&quot;自监督对比学习与交互去噪&quot;,&quot;精排（训练数据级预处理）&quot;,&quot;深度强化学习策略网络&quot;,&quot;实例级去噪与数据子集迁移&quot;]"><strong><a href="../../venues/WWW/2023/self_supervised_denoising/autodenoise_automatic_data_instance_denoising_for_recommendations/">AutoDenoise: Automatic Data Instance Denoising for Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
@@ -898,6 +1115,10 @@ hide:
 <dd>
 <p>用扩散模型生成跨渠道预算/约束目标轨迹、结合约束执行与实时控制出价，离线与线上 A/B 收益提升 13.57%。</p>
 </dd>
+<dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;精排/批量流量分配&quot;,&quot;Contextual Bandit&quot;,&quot;Constrained LP&quot;]"><strong><a href="../../venues/WWW/2026/rl_bandit_rec/banditlp_large_scale_stochastic_optimization_for_personalized_recommendatio/">BanditLP: Large-Scale Stochastic Optimization for Personalized Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>神经 Thompson 采样与十亿级 LP 约束动作选择耦合，LinkedIn 邮件营销 A/B 收入 +3.08%、退订 -1.51%。</p>
+</dd>
 <dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;出价与预算分配&quot;,&quot;LLM 上下文学习&quot;,&quot;GRPO 微调&quot;,&quot;双阶段智能体&quot;]"><strong><a href="../../venues/WWW/2026/rl_bandit_rec/dara_few_shot_budget_allocation_in_online_advertising_via_in_context_decisi/">DARA: Few-shot Budget Allocation in Online Advertising via In-Context Decision Making with RL-Finetuned LLMs</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>双阶段 LLM 智能体分离少样本规划与精细优化，配合动态参考策略 GRPO-Adaptive 微调，在真实与合成广告环境中显著降低边际 ROI 方差。</p>
@@ -905,6 +1126,10 @@ hide:
 <dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;强化学习与动态探索推荐&quot;,&quot;召回&quot;,&quot;库存约束&quot;,&quot;离线策略学习&quot;,&quot;上下文赌博机&quot;]"><strong><a href="../../venues/WWW/2026/rl_bandit_rec/off_policy_learning_with_limited_supply/">Off-Policy Learning with Limited Supply</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>首次形式化库存受限下的离线策略学习，提出按“相对奖励差”分配稀缺物品的 OPLS，在合成与 KuaiRec 上稳定超越贪心 OPL。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;大语言模型推荐&quot;,&quot;重排&quot;,&quot;学习者状态建模&quot;,&quot;GRPO 强化学习&quot;]"><strong><a href="../../venues/WWW/2026/llm_rec/personalized_learning_path_planning_with_goal_driven_learner_state_modeling/">Personalized Learning Path Planning through Goal-Driven Learner State Modeling</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>Pxplore 以四维结构化学习者状态+SFT/GRPO 强化学习训练解决学习路径规划中的目标对齐与长视界问题，真实用户学习增益 +28.28%。</p>
 </dd>
 <dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;大语言模型推荐&quot;,&quot;精排&quot;,&quot;规则感知奖励塑形&quot;,&quot;自适应引导回放&quot;]"><strong><a href="../../venues/WWW/2026/llm_rec/taosr_agrl_adaptive_guided_reinforcement_learning_framework_for_e_commerce_/">TaoSR-AGRL: Adaptive Guided Reinforcement Learning Framework for E-commerce Search Relevance</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="强化学习与动态探索推荐">RL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>

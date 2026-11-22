@@ -1,0 +1,3 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+NeuSE: A Neural Snapshot Ensemble Method for Collaborative Filtering,2104.07269,https://arxiv.org/abs/2104.07269,,collaborative_filtering,TKDD,2021
+Side Information Fusion for Recommender Systems over Heterogeneous Information Network,1801.02411,https://arxiv.org/abs/1801.02411,,graph_rec,TKDD,2021

@@ -1,0 +1,39 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Dynamic Prior Thompson Sampling for Cold-Start Exploration in Recommender Systems,2602.00943,https://arxiv.org/abs/2602.00943,,cold_start_rec,RecSys,2021
+Fast Multi-Step Critiquing for VAE-based Recommender Systems,2105.00774,https://arxiv.org/abs/2105.00774,,agent_conversational_rec,RecSys,2021
+Sparse Feature Factorization for Recommender Systems with Knowledge Graphs,2107.14290,https://arxiv.org/abs/2107.14290,,graph_rec,RecSys,2021
+Sequence Adaptation via Reinforcement Learning in Recommender Systems,2108.01442,https://arxiv.org/abs/2108.01442,https://github.com/stefanosantaris/sar,sequential_rec,RecSys,2021
+Denoising User-aware Memory Network for Recommendation,2107.05474,https://arxiv.org/abs/2107.05474,,sequential_rec,RecSys,2021
+Debiased Explainable Pairwise Ranking from Implicit Feedback,2107.14768,https://arxiv.org/abs/2107.14768,,debias_fairness_industrial,RecSys,2021
+Online Learning for Recommendations at Grubhub,2107.07106,https://arxiv.org/abs/2107.07106,,debias_fairness_industrial,RecSys,2021
+Scaling TensorFlow to 300 million predictions per second,2109.09541,https://arxiv.org/abs/2109.09541,,debias_fairness_industrial,RecSys,2021
+Learning to Represent Human Motives for Goal-directed Web Browsing,2108.03350,https://arxiv.org/abs/2108.03350,,sequential_rec,RecSys,2021
+Global-Local Item Embedding for Temporal Set Prediction,2109.02074,https://arxiv.org/abs/2109.02074,,sequential_rec,RecSys,2021
+Scaling Enterprise Recommender Systems for Decentralization,2109.09231,https://arxiv.org/abs/2109.09231,,debias_fairness_industrial,RecSys,2021
+Analyzing Item Popularity Bias of Music Recommender Systems: Are Different Genders Equally Affected?,2108.06973,https://arxiv.org/abs/2108.06973,,debias_fairness_industrial,RecSys,2021
+Recommendations and Results Organization in Netflix Search,2105.14134,https://arxiv.org/abs/2105.14134,,multi_task_reranking,RecSys,2021
+A Payload Optimization Method for Federated Recommender Systems,2107.13078,https://arxiv.org/abs/2107.13078,,debias_fairness_industrial,RecSys,2021
+Page-level Optimization of e-Commerce Item Recommendations,2108.05891,https://arxiv.org/abs/2108.05891,,multi_task_reranking,RecSys,2021
+Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback,2105.03941,https://arxiv.org/abs/2105.03941,,debias_fairness_industrial,RecSys,2021
+Learning an Adaptive Meta Model-Generator for Incrementally Updating Recommender Systems,2111.04282,https://arxiv.org/abs/2111.04282,,debias_fairness_industrial,RecSys,2021
+An Analysis Of Entire Space Multi-Task Models For Post-Click Conversion Prediction,2108.13475,https://arxiv.org/abs/2108.13475,,ctr_feature_interaction,RecSys,2021
+Multi-Step Critiquing User Interface for Recommender Systems,2107.06416,https://arxiv.org/abs/2107.06416,,agent_conversational_rec,RecSys,2021
+Debiased Off-Policy Evaluation for Recommendation Systems,2002.08536,https://arxiv.org/abs/2002.08536,,rl_bandit_rec,RecSys,2021
+Cold Start Similar Artists Ranking with Gravity-Inspired Graph Autoencoders,2108.01053,https://arxiv.org/abs/2108.01053,,cold_start_rec,RecSys,2021
+Predicting Music Relistening Behavior Using the ACT-R Framework,2108.02138,https://arxiv.org/abs/2108.02138,,sequential_rec,RecSys,2021
+Online Evaluation Methods for the Causal Effect of Recommendations,2107.06630,https://arxiv.org/abs/2107.06630,,debias_fairness_industrial,RecSys,2021
+Evaluating the Robustness of Off-Policy Evaluation,2108.13703,https://arxiv.org/abs/2108.13703,,rl_bandit_rec,RecSys,2021
+You Do Not Need a Bigger Boat: Recommendations at Reasonable Scale in a (Mostly) Serverless and Open Stack,2107.07346,https://arxiv.org/abs/2107.07346,,debias_fairness_industrial,RecSys,2021
+Quality Metrics in Recommender Systems: Do We Calculate Metrics Consistently?,2206.12858,https://arxiv.org/abs/2206.12858,,debias_fairness_industrial,RecSys,2021
+Next-item Recommendations in Short Sessions,2107.07453,https://arxiv.org/abs/2107.07453,,sequential_rec,RecSys,2021
+Automatic Collection Creation and Recommendation,2105.01004,https://arxiv.org/abs/2105.01004,,collaborative_filtering,RecSys,2021
+Follow the guides: disentangling human and algorithmic curation in online music consumption,2109.03915,https://arxiv.org/abs/2109.03915,,debias_fairness_industrial,RecSys,2021
+Hierarchical Latent Relation Modeling for Collaborative Metric Learning,2108.04655,https://arxiv.org/abs/2108.04655,,collaborative_filtering,RecSys,2021
+Black-Box Attacks on Sequential Recommenders via Data-Free Model Extraction,2109.01165,https://arxiv.org/abs/2109.01165,,debias_fairness_industrial,RecSys,2021
+Large-Scale Modeling of Mobile User Click Behaviors Using Deep Learning,2108.05342,https://arxiv.org/abs/2108.05342,,sequential_rec,RecSys,2021
+Reverse Maximum Inner Product Search: How to efficiently find users who would like to buy my item?,2110.07131,https://arxiv.org/abs/2110.07131,,collaborative_filtering,RecSys,2021
+Reenvisioning Collaborative Filtering vs Matrix Factorization,2107.13472,https://arxiv.org/abs/2107.13472,,collaborative_filtering,RecSys,2021
+A Case Study on Sampling Strategies for Evaluating Neural Sequential Item Recommendation Models,2107.13045,https://arxiv.org/abs/2107.13045,,sequential_rec,RecSys,2021
+NU:BRIEF -- A Privacy-aware Newsletter Personalization Engine for Publishers,2109.03955,https://arxiv.org/abs/2109.03955,,debias_fairness_industrial,RecSys,2021
+"FINN.no Slates Dataset: A new Sequential Dataset Logging Interactions, allViewed Items and Click Responses/No-Click for Recommender Systems Research",2111.03340,https://arxiv.org/abs/2111.03340,,debias_fairness_industrial,RecSys,2021
+An Audit of Misinformation Filter Bubbles on YouTube: Bubble Bursting and Recent Behavior Changes,2203.13769,https://arxiv.org/abs/2203.13769,,debias_fairness_industrial,RecSys,2021

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-generate_recsys_notes.py (v3.8 新增 OpenCode 免费 deepseek-v4.1-flash-free 协议支持 + arXiv 429 退避版)
+generate_recsys_notes.py (v3.10 支持非 arXiv 开放获取直链 PDF + 中转站 502 退避 + OpenCode 免费版)
 核心改进：
   1. 彻底移除文末堆砌的 `## 论文图表`：
      - 仅当大模型认为某张图（如核心模型架构图、关键动机对比图）适合放在对应正文段落位置时，才在正文中内嵌最多 1–3 张图片。
@@ -1815,7 +1815,6 @@ def tasks_from_curated_csv(csv_path: Path, cache_dir: Path, download_pdf: bool, 
             valid_existing_any.add(p.stem)
 
     pending_rows = []
-    ids = []
     skipped_existing = 0
     for row in rows:
         title_str = row.get("title", "")
@@ -1832,28 +1831,91 @@ def tasks_from_curated_csv(csv_path: Path, cache_dir: Path, download_pdf: bool, 
             m = re.search(r"arxiv\.org/(?:abs|pdf)/(\d{4}\.\d{4,5})", row.get("paper_url", ""))
             aid = m.group(1) if m else ""
         if aid:
-            aid_clean = re.sub(r"v\d+$", "", aid.strip())
-            row["arxiv_id"] = aid_clean
+            row["arxiv_id"] = re.sub(r"v\d+$", "", aid.strip())
+            pending_rows.append(row)
+        elif (row.get("paper_url") or "").startswith("http"):
+            row["arxiv_id"] = ""
             pending_rows.append(row)
 
     # P0-3 修复：在过滤掉已存在的健康笔记之后再应用 --limit，确保 --limit N 真正处理 N 篇待生成/待修复笔记
     if limit and limit > 0:
         pending_rows = pending_rows[:limit]
-    ids = [r["arxiv_id"] for r in pending_rows]
+    ids = [r["arxiv_id"] for r in pending_rows if r.get("arxiv_id")]
 
     print(f"  [Task-Plan] 已存在 {skipped_existing} 篇合格笔记，待拉取全文并生成 {len(pending_rows)} 篇论文 ...", flush=True)
     if not pending_rows:
         return []
 
-    fetched = fetch_arxiv_by_ids(ids, cache_dir=cache_dir, download_pdf=download_pdf)
+    fetched = fetch_arxiv_by_ids(ids, cache_dir=cache_dir, download_pdf=download_pdf) if ids else []
     by_id = {re.sub(r"v\d+$", "", p["arxiv_id"]): p for p in fetched}
     tasks = []
     for row in pending_rows:
         aid = row.get("arxiv_id", "")
-        paper = by_id.get(aid)
-        if not paper:
-            print(f"  [Warn] 策展名单中未能从 arXiv 获取全文，已跳过: {row.get('title') or aid}")
-            continue
+        if aid:
+            paper = by_id.get(aid)
+            if not paper:
+                print(f"  [Warn] 策展名单中未能从 arXiv 获取全文，已跳过: {row.get('title') or aid}")
+                continue
+        else:
+            # 支持非 arXiv 的开放获取直链 PDF（如 ACL Anthology / OpenReview / PMLR / 高校仓储）
+            oa_url = row.get("paper_url", "")
+            title_s = row.get("title") or "Untitled"
+            slug_s = slugify(title_s)
+            pdf_file = None
+            full_body = ""
+            if download_pdf and cache_dir and oa_url:
+                cache_dir.mkdir(parents=True, exist_ok=True)
+                pdf_file = cache_dir / f"oa_{slug_s[:60]}.pdf"
+                txt_cache = cache_dir / f"oa_{slug_s[:60]}.extracted.txt"
+                if txt_cache.exists():
+                    full_body = txt_cache.read_text(encoding="utf-8", errors="ignore")
+                if not pdf_file.exists():
+                    for dl_route in ("", "http://127.0.0.1:7897", "http://127.0.0.1:7890"):
+                        try:
+                            req = urllib.request.Request(
+                                oa_url,
+                                headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) RecSys-Paper-Notes/3.10", "Accept": "application/pdf,*/*"},
+                            )
+                            if dl_route:
+                                opener = urllib.request.build_opener(urllib.request.ProxyHandler({"http": dl_route, "https": dl_route}))
+                                with opener.open(req, timeout=35) as resp:
+                                    raw_b = resp.read()
+                            else:
+                                with urllib.request.urlopen(req, timeout=35) as resp:
+                                    raw_b = resp.read()
+                            if raw_b.startswith(b"%PDF-"):
+                                pdf_file.write_bytes(raw_b)
+                                break
+                        except Exception:
+                            continue
+                if not full_body and pdf_file is not None and pdf_file.exists():
+                    full_body = extract_text_from_pdf(pdf_file)
+                    if len(full_body) > 500:
+                        try:
+                            txt_cache.write_text(full_body, encoding="utf-8")
+                        except OSError:
+                            pass
+            if not full_body:
+                print(f"  [Warn] 策展名单中未能下载开放获取 PDF，已跳过: {title_s[:60]}")
+                continue
+            p_url, c_url, all_codes = extract_code_and_paper_urls(full_body, default_paper_url=oa_url)
+            paper = {
+                "title": title_s,
+                "content": (
+                    f"Title: {title_s}\n"
+                    f"Official Paper URL (paper_url): {p_url}\n"
+                    f"Detected Open-Source Code URL (code_url): {c_url or 'None detected'}\n"
+                    f"All Candidate Code URLs in Text: {', '.join(all_codes) if all_codes else 'None'}\n\n"
+                    f"Full Paper Text (with LaTeX formulas & experimental tables):\n{full_body}"
+                ),
+                "comment": "",
+                "paper_url": p_url,
+                "code_url": row.get("code_url") or c_url,
+                "arxiv_id": "",
+                "pdf_file": str(pdf_file) if pdf_file and pdf_file.exists() else "",
+                "full_text": True,
+                "source": "oa_pdf",
+            }
         for key in ("title", "venue", "year", "category", "paper_url", "code_url"):
             if row.get(key):
                 paper[key] = row[key]

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "BoB: BERT Over BERT for Training Persona-based Dialogue Models from Limited Personalized Data",
+    "ee": "https://doi.org/10.18653/V1/2021.ACL-LONG.14",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PENS: A Dataset and Generic Framework for Personalized News Headline Generation",
+    "ee": "https://doi.org/10.18653/V1/2021.ACL-LONG.7",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach",
+    "ee": "https://doi.org/10.18653/V1/2021.ACL-LONG.168",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "IFlyEA: A Chinese Essay Assessment System with Automated Rating, Review Generation, and Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2021.ACL-DEMO.29",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Controversy and Conformity: from Generalized to Personalized Aggressiveness Detection",
+    "ee": "https://doi.org/10.18653/V1/2021.ACL-LONG.460",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Transformer for Explainable Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2021.ACL-LONG.383",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "RevCore: Review-Augmented Conversational Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2021.FINDINGS-ACL.99",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Unsupervised Extractive Summarization-Based Representations for Accurate and Explainable Collaborative Filtering",
+    "ee": "https://doi.org/10.18653/V1/2021.ACL-LONG.232",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PP-Rec: News Recommendation with Personalized User Interest and Time-aware News Popularity",
+    "ee": "https://doi.org/10.18653/V1/2021.ACL-LONG.424",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2021.ACL-LONG.423",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Quotation Recommendation and Interpretation Based on Transformation from Queries to Quotations",
+    "ee": "https://doi.org/10.18653/V1/2021.ACL-SHORT.95",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CRSLab: An Open-Source Toolkit for Building Conversational Recommender System",
+    "ee": "https://doi.org/10.18653/V1/2021.ACL-DEMO.22",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "ClauseRec: A Clause Recommendation Framework for AI-aided Contract Authoring",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.691",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Leveraging Bidding Graphs for Advertiser-Aware Relevance Modeling in Sponsored Search",
+    "ee": "https://doi.org/10.18653/V1/2021.FINDINGS-EMNLP.191",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "\"It doesn't look good for a date\": Transforming Critiques into Preferences for Conversational Recommendation Systems",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.145",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Refocusing on Relevance: Personalization in NLG",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.421",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Leveraging Order-Free Tag Relations for Context-Aware Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.279",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "APIRecX: Cross-Library API Recommendation via Pre-Trained Language Model",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.275",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Neural Templates for Recommender Dialogue System",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.617",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction",
+    "ee": "https://doi.org/10.18653/V1/2021.FINDINGS-EMNLP.66",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.356",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Neural News Recommendation with Collaborative News Encoding and Structural User Encoding",
+    "ee": "https://doi.org/10.18653/V1/2021.FINDINGS-EMNLP.5",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CR-Walker: Tree-Structured Graph Reasoning and Dialog Acts for Conversational Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.139",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Uni-FedRec: A Unified Privacy-Preserving News Recommendation Framework for Model Training and Online Serving",
+    "ee": "https://doi.org/10.18653/V1/2021.FINDINGS-EMNLP.124",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Integrating Personalized PageRank into Neural Word Sense Disambiguation",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.715",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Point-of-Interest Type Prediction using Text and Images",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.614",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Efficient-FedRec: Efficient Federated Learning Framework for Privacy-Preserving News Recommendation",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.223",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "KERS: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals",
+    "ee": "https://doi.org/10.18653/V1/2021.FINDINGS-EMNLP.94",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "#HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.616",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CRFR: Improving Conversational Recommender Systems via Flexible Fragments Reasoning on Knowledge Graphs",
+    "ee": "https://doi.org/10.18653/V1/2021.EMNLP-MAIN.355",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Learning Paralinguistic Features from Audiobooks through Style Voice Conversion",
+    "ee": "https://doi.org/10.18653/V1/2021.NAACL-MAIN.377",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "An Empirical Study of Generating Texts for Search Engine Advertising",
+    "ee": "https://doi.org/10.18653/V1/2021.NAACL-INDUSTRY.32",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Response Generation via Generative Split Memory Network",
+    "ee": "https://doi.org/10.18653/V1/2021.NAACL-MAIN.157",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Faithfully Explainable Recommendation via Neural Logic Reasoning",
+    "ee": "https://doi.org/10.18653/V1/2021.NAACL-MAIN.245",
+    "key": "dblp_sparql"
+  }
+]

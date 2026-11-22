@@ -7,9 +7,9 @@ hide:
 
 > **研究范畴**：跨域知识迁移 (CDR)、重叠/非重叠用户对齐、多业务场景联合建模 (STAR/PEPNet 等)
 
-当前方向共收录 **158** 篇顶会/顶刊论文解读：
+当前方向共收录 **187** 篇顶会/顶刊论文解读：
 
-🔥 **高频交叉主题：** 生成式推荐 ×9 · 对比学习 ×7 · 联邦学习 ×7 · 大语言模型推荐 ×4 · 信息瓶颈 ×3 · 表征解耦 ×3 · 跨域知识迁移 ×3 · 跨域迁移 ×3
+🔥 **高频交叉主题：** 生成式推荐 ×9 · 对比学习 ×7 · 联邦学习 ×7 · 大语言模型推荐 ×5 · 信息瓶颈 ×3 · 冷启动 ×3 · 多任务学习 ×3 · 搜索推荐联合建模 ×3
 
 <div class="paper-tag-filter" data-paper-tag-filter>
   <div class="paper-tag-filter__head">
@@ -22,26 +22,31 @@ hide:
     <button type="button" class="paper-tag-filter__clear" data-tag-clear disabled>清除标签</button>
   </div>
   <div class="paper-tag-filter__chips">
-<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">116</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">68</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">57</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="跨域序列推荐" aria-pressed="false">跨域序列推荐<span class="paper-tag-filter__count">13</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨域与多场景推荐" aria-pressed="false">跨域与多场景推荐<span class="paper-tag-filter__count">136</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="召回" aria-pressed="false">召回<span class="paper-tag-filter__count">74</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="精排" aria-pressed="false">精排<span class="paper-tag-filter__count">67</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="跨域序列推荐" aria-pressed="false">跨域序列推荐<span class="paper-tag-filter__count">16</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="生成式推荐" aria-pressed="false">生成式推荐<span class="paper-tag-filter__count">9</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="序列与会话推荐" aria-pressed="false">序列与会话推荐<span class="paper-tag-filter__count">8</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对比学习" aria-pressed="false">对比学习<span class="paper-tag-filter__count">7</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="联邦学习" aria-pressed="false">联邦学习<span class="paper-tag-filter__count">7</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="负迁移抑制" aria-pressed="false">负迁移抑制<span class="paper-tag-filter__count">7</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">4</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动与长尾推荐" aria-pressed="false">冷启动与长尾推荐<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="大语言模型推荐" aria-pressed="false">大语言模型推荐<span class="paper-tag-filter__count">5</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR 预估与特征交叉" aria-pressed="false">CTR/CVR 预估与特征交叉<span class="paper-tag-filter__count">4</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="信息瓶颈" aria-pressed="false">信息瓶颈<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="冷启动与长尾推荐" aria-pressed="false">冷启动与长尾推荐<span class="paper-tag-filter__count">3</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="去偏公平、可信隐私与工业架构" aria-pressed="false">去偏公平、可信隐私与工业架构<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多任务学习" aria-pressed="false">多任务学习<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="搜索推荐联合建模" aria-pressed="false">搜索推荐联合建模<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="表征解耦" aria-pressed="false">表征解耦<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="跨域知识迁移" aria-pressed="false">跨域知识迁移<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="跨域迁移" aria-pressed="false">跨域迁移<span class="paper-tag-filter__count">3</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="重排" aria-pressed="false">重排<span class="paper-tag-filter__count">3</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="CTR/CVR预估与特征交叉" aria-pressed="false">CTR/CVR预估与特征交叉<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="Mixture-of-Experts" aria-pressed="false">Mixture-of-Experts<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="互信息最大化" aria-pressed="false">互信息最大化<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="冷启动" aria-pressed="false">冷启动<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="冷启动偏好迁移" aria-pressed="false">冷启动偏好迁移<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="协同过滤与双塔召回" aria-pressed="false">协同过滤与双塔召回<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="去偏公平与工业架构" aria-pressed="false">去偏公平与工业架构<span class="paper-tag-filter__count">2</span></button>
@@ -49,16 +54,20 @@ hide:
 <button type="button" class="paper-tag-filter__chip" data-tag="召回/排序" aria-pressed="false">召回/排序<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="向量量化码本" aria-pressed="false">向量量化码本<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="因果发现" aria-pressed="false">因果发现<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="图神经网络与知识图谱推荐" aria-pressed="false">图神经网络与知识图谱推荐<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="多任务学习" aria-pressed="false">多任务学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="多域学习" aria-pressed="false">多域学习<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多域序列推荐" aria-pressed="false">多域序列推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="多模态推荐" aria-pressed="false">多模态推荐<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="对偶学习" aria-pressed="false">对偶学习<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="对比预训练" aria-pressed="false">对比预训练<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="序列推荐" aria-pressed="false">序列推荐<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="异构图嵌入" aria-pressed="false">异构图嵌入<span class="paper-tag-filter__count">2</span></button>
-<button type="button" class="paper-tag-filter__chip" data-tag="搜索推荐联合建模" aria-pressed="false">搜索推荐联合建模<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="扩散模型" aria-pressed="false">扩散模型<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="模型合并" aria-pressed="false">模型合并<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="神经过程" aria-pressed="false">神经过程<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="端到端生成式" aria-pressed="false">端到端生成式<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="自监督对比学习与交互去噪" aria-pressed="false">自监督对比学习与交互去噪<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="语义ID" aria-pressed="false">语义ID<span class="paper-tag-filter__count">2</span></button>
+<button type="button" class="paper-tag-filter__chip" data-tag="负迁移" aria-pressed="false">负迁移<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="跨域公平性" aria-pressed="false">跨域公平性<span class="paper-tag-filter__count">2</span></button>
 <button type="button" class="paper-tag-filter__chip" data-tag="迁移推荐" aria-pressed="false">迁移推荐<span class="paper-tag-filter__count">2</span></button>
   </div>
@@ -109,6 +118,34 @@ hide:
 <dt data-paper-tags="[&quot;ACM MM&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;扩散模型生成式迁移&quot;,&quot;多模态大表征模型&quot;,&quot;边侧用户分布学习&quot;]"><strong><a href="../../venues/ACM_MM/2025/cross_domain_multi_scenario/leveraging_multimodal_data_and_side_users_for_diffusion_cross_domain_recomm/">Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用 MLLM 抽取多模态特征做初步对齐，再以边侧用户+重叠用户两阶段扩散生成目标域冷启动用户向量，Amazon 三任务 MAE 最高降 13.6%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ACM MM 2026&quot;,&quot;多模态推荐&quot;,&quot;多模态表征与端到端&quot;,&quot;Mixture-of-Experts&quot;,&quot;联邦跨模态对齐&quot;]"><strong><a href="../../venues/ACM_MM/2026/multimodal_rec/fm_2_unified_federated_foundation_models_for_heterogeneous_multimodal_medic/">FM2: Unified Federated Foundation Models for Heterogeneous Multimodal Medical Imaging</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="多模态推荐与内容理解">MM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>双 MoE 解耦类级个性化与模态级共识，近端正则 HMA 保证 O(1/√T) 收敛，LLM 描述作跨模态语义桥 CEL，联邦医疗三任务全面领先</p>
+</dd>
+<dt data-paper-tags="[&quot;ACM MM 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回/精排&quot;,&quot;联邦协作预训练&quot;,&quot;语义软交叉熵&quot;,&quot;LoRA 适配&quot;]"><strong><a href="../../venues/ACM_MM/2026/cross_domain_multi_scenario/from_transfer_to_collaboration_a_federated_framework_for_cross_market_seque/">From Transfer to Collaboration: A Federated Framework for Cross-Market Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Multimedia">ACM MM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>FeCoSR 以联邦多对多协作与语义软交叉熵 S2CE 缓解跨市场异质性，在 XMarket 八市场 Leave-One-Out Full-Ranking 上 NDCG@10 最高提升 17.28%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;冷启动与长尾推荐&quot;,&quot;精排&quot;,&quot;Meta-Learning&quot;,&quot;上下文调制&quot;]"><strong><a href="../../venues/CIKM/2021/cold_start_rec/cmml_contextual_modulation_meta_learning_for_cold_start_recommendation/">CMML: Contextual Modulation Meta Learning for Cold-Start Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用上下文编码+混合上下文+调制网络替代 MAML 内循环梯度，纯前馈实现冷启动任务快速适配，精度持平/超越 s2Meta 而推理开销降 2k 倍。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;跨域与多场景推荐&quot;,&quot;排序&quot;,&quot;市场自适应&quot;,&quot;MAML/Forking&quot;]"><strong><a href="../../venues/CIKM/2021/cross_domain_multi_scenario/cross_market_product_recommendation/">Cross-Market Product Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>提出 XMarket 与 FOREC：MAML 预训练市场无关 NMF，再分叉冻结底层并加市场头微调，在低资源市场 Top-N 推荐中稳定超越迁移基线。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;星型拓扑参数生成&quot;,&quot;分区归一化&quot;]"><strong><a href="../../venues/CIKM/2021/cross_domain_multi_scenario/one_model_to_serve_all_star_topology_adaptive_recommender_for_multi_domain_/">One Model to Serve All: Star Topology Adaptive Recommender for Multi-Domain CTR Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>STAR 用共享中心 FCN 与域私有 FCN 的逐元素乘积生成各域专属网络，辅以分区归一化与域指示辅助网络，在阿里 19 域生产数据上 Overall AUC 0.6506、线上 CTR +8.0%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;多场景CTR&quot;,&quot;干预去偏&quot;,&quot;公平系数&quot;]"><strong><a href="../../venues/CIKM/2021/cross_domain_multi_scenario/sar_net_a_scenario_aware_ranking_network_for_personalized_fair_recommendati/">SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>双注意力跨场景兴趣+场景去偏专家+FC加权，20场景AUC 0.6997，线上CTR+5%。</p>
+</dd>
+<dt data-paper-tags="[&quot;CIKM 2021&quot;,&quot;跨域与多场景推荐&quot;,&quot;重排&quot;,&quot;异构行为序列&quot;,&quot;搜索推荐联合建模&quot;]"><strong><a href="../../venues/CIKM/2021/cross_domain_multi_scenario/user_a_unified_information_search_and_recommendation_model_based_on_integra/">USER: A Unified Information Search and Recommendation Model based on Integrated Behavior Sequence</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>将搜索与推荐行为融合为异构序列，用统一排序框架同时服务两任务，统一数据下搜索 MAP 提升 3.49%、推荐 MAP 提升 71.96%。</p>
 </dd>
 <dt data-paper-tags="[&quot;CIKM&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;多域双塔检索&quot;,&quot;领域自适应&quot;]"><strong><a href="../../venues/CIKM/2022/cross_domain_multi_scenario/adaptive_domain_interest_network_for_multi_domain_recommendation/">Adaptive Domain Interest Network for Multi-domain Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -182,6 +219,10 @@ hide:
 <dd>
 <p>用域门控双专家+物品级注意力掩码+双池负采样对比学习，抑制 LLM 跨域序列推荐中的负迁移，10 域上超越 26 个基线，线上 CTR 相对提升 47.6%。</p>
 </dd>
+<dt data-paper-tags="[&quot;CIKM&quot;,&quot;跨域与多场景推荐&quot;,&quot;重排&quot;,&quot;域感知条件化&quot;,&quot;跨域序列建模&quot;,&quot;游戏匹配&quot;]"><strong><a href="../../venues/CIKM/2026/cross_domain_multi_scenario/champ_cross_domain_hybrid_architecture_for_matchmaking_and_prediction_in_on/">CHAMP: Cross-domain Hybrid Architecture for Matchmaking and Prediction in Online Multi-Player Games</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>以 DAKE 域 token 条件化 OmniNet 编码器，单模型服务多游戏模式匹配重排，Elite 胜率预测 67.73%，新手 5 分钟击杀崩盘率降 20.73%。</p>
+</dd>
 <dt data-paper-tags="[&quot;CIKM 2026&quot;,&quot;生成式推荐&quot;,&quot;跨国推荐&quot;,&quot;语义码本&quot;,&quot;数据级知识迁移&quot;]"><strong><a href="../../venues/CIKM/2026/generative_rec/cross_country_code_mixing_for_generative_recommendation/">Cross-Country Code-Mixing for Generative Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Information and Knowledge Management">CIKM</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>借鉴多语言 code-switching，用双约束 token 级跨国混码合成混合序列并做上下文自适应重加权，在无重叠 ID 的跨国场景显著提升小国召回。</p>
@@ -222,6 +263,10 @@ hide:
 <dd>
 <p>用域对抗抽取域共享偏好、DAG 学习潜属性因果结构，缓解目标域稀疏下的 OOD 泛化，OOD 测试 HR@10 提升约 2-6%。</p>
 </dd>
+<dt data-paper-tags="[&quot;DASFAA&quot;,&quot;CTR/CVR 预估与特征交叉&quot;,&quot;精排&quot;,&quot;LLM 特征编码&quot;,&quot;自适应特征交互&quot;,&quot;多域知识蒸馏&quot;]"><strong><a href="../../venues/DASFAA/2026/ctr_feature_interaction/ufin_universal_feature_interaction_network_for_multi_domain_click_through_r/">UFIN: Universal Feature Interaction Network for Multi-Domain Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Conference on Database Systems for Advanced Applications">DASFAA</span><span class="paper-tag paper-tag--category" title="CTR/CVR 预估与特征交叉">CTR</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>将特征文本化经 LLM 编码-解码为通用特征，再用 MoE+EulerNet 学习自适应交互阶数并多域蒸馏，跨平台 AUC 提升 0.1%–1.6%。</p>
+</dd>
 <dt data-paper-tags="[&quot;ECIR 2023&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排/CTR&quot;,&quot;多域推荐&quot;,&quot;图神经网络&quot;,&quot;域感知消息传递&quot;]"><strong><a href="../../venues/ECIR/2023/cross_domain_multi_scenario/exploiting_graph_structured_cross_domain_representation_for_multi_domain_re/">Exploiting Graph Structured Cross-Domain Representation for Multi-Domain Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2023</span></span></dt>
 <dd>
 <p>用域感知图卷积与全局图池化建模多域交互图，CTR 负采样评测在 Amazon 2–13 域稳定超越 MDR/MTL 基线。</p>
@@ -237,6 +282,14 @@ hide:
 <dt data-paper-tags="[&quot;ECIR 2024&quot;,&quot;时空轨迹与POI本地生活推荐&quot;,&quot;精排&quot;,&quot;地理分组自适应路由&quot;,&quot;Co-Action Network&quot;,&quot;EM/REINFORCE 联合优化&quot;]"><strong><a href="../../venues/ECIR/2024/poi_spatiotemporal_rec/an_adaptive_framework_of_geographical_group_specific_network_on_o2o_recomme/">An Adaptive Framework of Geographical Group-Specific Network on O2O Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：European Conference on Information Retrieval">ECIR</span><span class="paper-tag paper-tag--category" title="时空轨迹与 POI 本地生活推荐">POI</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>GeoGrouse 用可学习地理分组隐变量驱动「共享+分组专用」双塔策略网络，在饿了么零售到店场景 7 天线上 A/B 中 CTR/ACR 双涨。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDE 2021&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;黑盒 Top-K 输出/数据注入&quot;,&quot;跨域用户画像&quot;,&quot;强化学习策略梯度&quot;]"><strong><a href="../../venues/ICDE/2021/debias_fairness_industrial/attacking_black_box_recommendations_via_copying_cross_domain_user_profiles/">Attacking Black-box Recommendations via Copying Cross-domain User Profiles</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>ICDE 2021｜可信推荐/数据投毒：用跨域真实画像复制、层次策略梯度选择与裁剪画像，在黑盒 Top-K 查询下攻击推荐，HR@20 最高提升 166.1%。</p>
+</dd>
+<dt data-paper-tags="[&quot;ICDE 2021&quot;,&quot;图神经网络与知识图谱推荐&quot;,&quot;召回排序&quot;,&quot;多行为推荐&quot;,&quot;跨行为关系建模&quot;,&quot;图消息传播&quot;]"><strong><a href="../../venues/ICDE/2021/graph_rec/multi_behavior_enhanced_recommendation_with_cross_interaction_collaborative/">Multi-Behavior Enhanced Recommendation with Cross-Interaction Collaborative Relation Modeling</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>GNMR 用类型特定消息编码 + 跨行为注意力聚合建模多行为依赖，在 HR/NDCG@10 上相对最优基线提升 4.6%–27.7%。</p>
 </dd>
 <dt data-paper-tags="[&quot;ICDE 2022&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;信息瓶颈&quot;,&quot;变分二分图编码器&quot;,&quot;冷启动用户&quot;]"><strong><a href="../../venues/ICDE/2022/cross_domain_multi_scenario/cross_domain_recommendation_to_cold_start_users_via_variational_information/">Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE International Conference on Data Engineering">ICDE</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -294,9 +347,21 @@ hide:
 <dd>
 <p>提出 FedGCDR，以 HVH 联邦图学习 + DP 知识迁移 + 虚拟用户图扩展过滤负迁移，在 Amazon 16 域采样排序上显著优于 SOTA。</p>
 </dd>
+<dt data-paper-tags="[&quot;IJCAI 2021&quot;,&quot;跨域与多场景推荐&quot;,&quot;综述与分类体系&quot;,&quot;域定义与知识迁移&quot;,&quot;负迁移&quot;]"><strong><a href="../../venues/IJCAI/2021/cross_domain_multi_scenario/cross_domain_recommendation_challenges_progress_and_prospects/">Cross-Domain Recommendation: Challenges, Progress, and Prospects</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>以单目标/多域/双目标/多目标四类场景重构 CDR 版图，提出含 CH1–CH6 挑战与全景观分类体系的系统性综述。</p>
+</dd>
+<dt data-paper-tags="[&quot;IJCAI 2021&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;图卷积网络&quot;,&quot;共享账户隐潜用户&quot;,&quot;域感知注意力&quot;]"><strong><a href="../../venues/IJCAI/2021/cross_domain_multi_scenario/da_gcn_a_domain_aware_attentive_graph_convolution_network_for_shared_accoun/">DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="图神经网络与知识图谱推荐">Graph</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>构建跨域序列图并用域感知注意力 GCN 建模共享账户下 H 个隐潜用户，E 域 MRR@5 相对 PSJNet 提升 15.7%。</p>
+</dd>
 <dt data-paper-tags="[&quot;IJCAI 2024&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回/序列建模&quot;,&quot;四维张量降维&quot;,&quot;多级跨域融合与跨域桥&quot;,&quot;辅助学习技术&quot;]"><strong><a href="../../venues/IJCAI/2024/cross_domain_multi_scenario/a_survey_on_cross_domain_sequential_recommendation/">A Survey on Cross-Domain Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：International Joint Conference on Artificial Intelligence">IJCAI (RecSys Track)</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2024</span></span></dt>
 <dd>
 <p>以四维数据张量统一刻画 CDSR，宏观抽象三级融合结构与三类跨域桥、微观梳理基础/辅助技术，并汇总 Amazon Foods/Kitchens 全库排序结果（HR@10 较 SOCCF 最优提升 42.2%）</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2021&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;对偶学习&quot;,&quot;跨域序列推荐&quot;]"><strong><a href="../../venues/KDD/2021/cross_domain_multi_scenario/dual_attentive_sequential_learning_for_cross_domain_click_through_rate_pred/">Dual Attentive Sequential Learning for Cross-Domain Click-Through Rate Prediction</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用正交对偶映射对齐双域用户表征、用跨域拼接 Query 的双注意力做匹配，三数据集 AUC/HR@10 全面领先，线上 VV +7.07%</p>
 </dd>
 <dt data-paper-tags="[&quot;KDD&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回/候选生成&quot;,&quot;对比学习&quot;,&quot;异质图偏好网络&quot;,&quot;冷启动迁移&quot;]"><strong><a href="../../venues/KDD/2022/cross_domain_multi_scenario/contrastive_cross_domain_recommendation_in_matching/">Contrastive Cross-domain Recommendation in Matching</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -342,9 +407,17 @@ hide:
 <dd>
 <p>将跨域序列推荐重构为推荐损失与跨域注意力抑制的双目标帕累托优化，以即插即用方式改造自注意力，平均提升 Recall@10 达 9.8%/16.0%。</p>
 </dd>
+<dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;端到端序列推荐&quot;,&quot;扩散模型&quot;,&quot;跨域序列推荐&quot;]"><strong><a href="../../venues/KDD/2026/cross_domain_multi_scenario/align_for_fusion_harmonizing_triple_preferences_via_dual_oriented_diffusion/">Align-for-Fusion: Harmonizing Triple Preferences via Dual-oriented Diffusion for Cross-domain Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>提出align-for-fusion：检索混合域行为噪声并对源/目标双域扩散，四设置Last-item排序HR@10最高+8.22%。</p>
+</dd>
 <dt data-paper-tags="[&quot;KDD&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;原子意图缓存&quot;,&quot;目标感知意图检索&quot;]"><strong><a href="../../venues/KDD/2026/cross_domain_multi_scenario/atomic_intent_reasoning_bringing_llm_semantics_to_industrial_cross_domain_r/">Atomic Intent Reasoning: Bringing LLM Semantics to Industrial Cross-Domain Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>将 LLM 意图推理离线化为原子行为-意图对缓存，在线经意图树构建与目标感知检索实现约 400× 加速，快手 A/B 测试 GMV +3.446%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;Tokenization&quot;,&quot;多任务学习&quot;]"><strong><a href="../../venues/KDD/2026/cross_domain_multi_scenario/mdl_a_unified_multi_distribution_learner_in_large_scale_industrial_recommen/">MDL: A Unified Multi-Distribution Learner in Large-scale Industrial Recommendation through Tokenization</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>将场景/任务Token化并与特征逐层交叉注意，在抖音搜索0.5B模型上QAUC相对提升0.23–0.77%，线上LT30 +0.0626%。</p>
 </dd>
 <dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;生成式推荐&quot;,&quot;模型合并&quot;,&quot;任务向量&quot;]"><strong><a href="../../venues/KDD/2026/cross_domain_multi_scenario/mergerec_model_merging_for_data_isolated_cross_domain_sequential_recommenda/">MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -353,6 +426,14 @@ hide:
 <dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;多域多目标MDMO&quot;,&quot;组合合并与知识蒸馏&quot;]"><strong><a href="../../venues/KDD/2026/cross_domain_multi_scenario/meta_lattice_model_space_redesign_for_cost_effective_industry_scale_ads_rec/">Meta Lattice: Model Space Redesign for Cost-Effective Industry-Scale Ads Recommendations</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>以模型空间重构统一碎片化广告组合，融合归因窗口混合、帕累托特征选择与推理期知识迁移，线上Topline +10%、容量省20%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;LLM Persona 建模&quot;,&quot;Doppelganger 跨域迁移&quot;]"><strong><a href="../../venues/KDD/2026/cross_domain_multi_scenario/multi_tap_multi_criteria_target_adaptive_persona_modeling_for_cross_domain_/">Multi-TAP: Multi-criteria Target Adaptive Persona Modeling for Cross-Domain Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用 LLM 将用户偏好拆成五类语义 Persona 表征域内异质性，再用 doppelganger 交叉注意力做目标域自适应的选择性迁移；Amazon 时间切分全库排序下 HR@5 最高提升 36.3%。</p>
+</dd>
+<dt data-paper-tags="[&quot;KDD 2026&quot;,&quot;生成式推荐与离散语义ID&quot;,&quot;召回&quot;,&quot;统一生成式检索&quot;,&quot;结果条件生成&quot;]"><strong><a href="../../venues/KDD/2026/generative_rec/pinrec_unified_generative_retrieval_for_pinterest_recommender_systems/">PinRec: Unified Generative Retrieval for Pinterest Recommender Systems</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>PinRec以连续Embedding生成式检索统一Pinterest多场景，预训练-微调+结果条件生成，在1M负样本Recall@10与在线A/B取得搜索收藏+3.88%等收益。</p>
 </dd>
 <dt data-paper-tags="[&quot;KDD&quot;,&quot;跨域与多场景推荐&quot;,&quot;生成式推荐&quot;,&quot;模型合并&quot;,&quot;锐度感知优化&quot;,&quot;LoRA 重参数化&quot;]"><strong><a href="../../venues/KDD/2026/cross_domain_multi_scenario/sharpness_aware_model_merging_with_salience_recovery_for_llm_based_cross_do/">Sharpness-aware Model Merging with Salience Recovery for LLM-based Cross-Domain Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGKDD Conference on Knowledge Discovery and Data Mining">KDD</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -397,6 +478,10 @@ hide:
 <dt data-paper-tags="[&quot;RecSys&quot;,&quot;生成式推荐&quot;,&quot;跨域序列推荐&quot;,&quot;串并解码&quot;]"><strong><a href="../../venues/RecSys/2026/generative_rec/empowering_cross_domain_sequential_recommendation_with_hybrid_tokenization_/">Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Conference on Recommender Systems">RecSys</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>跨域共享-专属多塔 RQ-VAE 混合分词 + 两段式串并解码，Leave-One-Out 全库排序下精度 +1.5%、时延 -85.1%。</p>
+</dd>
+<dt data-paper-tags="[&quot;SIGIR 2021&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;Meta Learning&quot;,&quot;MAML&quot;,&quot;EMCDR&quot;,&quot;冷启动&quot;]"><strong><a href="../../venues/SIGIR/2021/cross_domain_multi_scenario/transfer_meta_framework_for_cross_domain_recommendation_to_cold_start_users/">Transfer-Meta Framework for Cross-domain Recommendation to Cold-Start Users</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用全量预训练替代重叠用户重训，并以 MAML 式任务导向元网络隐式迁移源域用户表征，6 个跨域冷启动任务 AUC 最高提升 4.8%。</p>
 </dd>
 <dt data-paper-tags="[&quot;SIGIR&quot;,&quot;序列与会话推荐&quot;,&quot;精排&quot;,&quot;数据分布自适应&quot;,&quot;模型补丁参数调制&quot;]"><strong><a href="../../venues/SIGIR/2022/sequential_rec/ada_ranker_a_data_distribution_adaptive_ranking_paradigm_for_sequential_rec/">Ada-Ranker: A Data Distribution Adaptive Ranking Paradigm for Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -466,6 +551,10 @@ hide:
 <dd>
 <p>用双层 RQ-VAE 码本作联邦传输介质，对齐跨市场不相交 ID 空间，AUC 全面超越本地/联邦基线且通信量降 20×。</p>
 </dd>
+<dt data-paper-tags="[&quot;SIGIR 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;生成式端到端&quot;,&quot;条件扩散模型&quot;,&quot;LLM 伪重叠构造&quot;,&quot;MoE 门控融合&quot;]"><strong><a href="../../venues/SIGIR/2026/cross_domain_multi_scenario/from_clues_to_generation_language_guided_conditional_diffusion_for_cross_do/">From Clues to Generation: Language-Guided Conditional Diffusion for Cross-Domain Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用 LLM 推断单域用户目标域伪交互构建伪重叠锚点，配合条件扩散与 MoE 融合实现跨域冷启动推荐，1:999 采样排序下全面超越 SOTA。</p>
+</dd>
 <dt data-paper-tags="[&quot;SIGIR 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;跨域序列推荐&quot;,&quot;双阶段训练&quot;,&quot;LLM数据增广&quot;]"><strong><a href="../../venues/SIGIR/2026/cross_domain_multi_scenario/llm_edt_large_language_model_enhanced_cross_domain_sequential_recommendatio/">LLM-EDT: Large Language Model Enhanced Cross-domain Sequential Recommendation with Dual-phase Training</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM SIGIR Conference on Research and Development in Information Retrieval">SIGIR</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用可迁移物品增广+双阶段训练+域感知画像，缓解CDSR域不平衡与域迁移难题，全库排序下H@10最高提升26.96%</p>
@@ -509,6 +598,14 @@ hide:
 <dt data-paper-tags="[&quot;TKDE&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;Prompt Learning&quot;,&quot;非重叠跨域序列推荐&quot;,&quot;分离约束&quot;]"><strong><a href="../../venues/TKDE/2025/cross_domain_multi_scenario/automated_prompting_for_non_overlapping_cross_domain_sequential_recommendat/">Automated Prompting for Non-overlapping Cross-domain Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
 <p>用可学习连续 Prompt（域无关+域特定+冻结标签）替代域对齐约束，实现无重叠实体、仅隐式反馈的双目标跨域序列推荐，Movie-Book 上 HR@10 相对最优基线提升约 17.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TKDE&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排&quot;,&quot;知识蒸馏&quot;,&quot;显式反馈去偏&quot;,&quot;风险上界分解&quot;]"><strong><a href="../../venues/TKDE/2026/debias_fairness_industrial/bpl_bias_adaptive_preference_distillation_learning_for_recommender_system/">BPL: Bias-adaptive Preference Distillation Learning for Recommender System</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>以风险上界三项分解为骨架，用亲和度自适应的双蒸馏（可靠性过滤自蒸馏+置信惩罚偏好蒸馏）同时提升 factual 与 counterfactual 测试，Yahoo!R3 RCT MSE 降 22.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TKDE 2026&quot;,&quot;大语言模型推荐&quot;,&quot;端到端生成式&quot;,&quot;持续预训练&quot;,&quot;学习率调度&quot;,&quot;跨域行为序列&quot;]"><strong><a href="../../venues/TKDE/2026/llm_rec/large_language_model_empowered_recommendation_meets_all_domain_continual_pr/">Large Language Model Empowered Recommendation Meets All-domain Continual Pre-Training</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Knowledge and Data Engineering">IEEE TKDE</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>CPRec 用全领域持续预训练 + Warmup-Stable-Annealing 调度，把 LLM 开放世界语义平滑适配到协同域，全库未交互采样排序下 HR@1 平均提升 7.4%</p>
 </dd>
 <dt data-paper-tags="[&quot;TMM&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;联邦学习&quot;,&quot;本地差分隐私原型&quot;,&quot;对比学习&quot;]"><strong><a href="../../venues/TMM/2025/cross_domain_multi_scenario/federated_user_preference_modeling_for_privacy_preserving_cross_domain_reco/">Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：IEEE Transactions on Multimedia">IEEE TMM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2025</span></span></dt>
 <dd>
@@ -558,6 +655,14 @@ hide:
 <dd>
 <p>统一建模跨域与单域双重分布偏移，用双层因果结构与 LLM 引导混杂因子发现实现跨域 OOD 推荐，HR@10 平均提升 6.34%。</p>
 </dd>
+<dt data-paper-tags="[&quot;TOIS&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;Counterfactual Learning&quot;,&quot;Representation Disentanglement&quot;]"><strong><a href="../../venues/TOIS/2026/cross_domain_multi_scenario/counterfactual_learning_driven_representation_disentanglement_for_search_en/">Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Information Systems">ACM TOIS</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="自监督对比学习与交互去噪">SSL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用三元组反事实信号解耦搜索域物品表征，剥离查询无关的通用特征并以门控融合/软加权数据增广注入推荐，采样排序下 HR@1 最高提升 10.84%。</p>
+</dd>
+<dt data-paper-tags="[&quot;TORS 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回/冷启动表征迁移&quot;,&quot;耦合自编码器&quot;,&quot;潜因子非线性映射&quot;,&quot;两阶段联合优化&quot;]"><strong><a href="../../venues/TORS/2026/cross_domain_multi_scenario/a_cross_domain_recommender_system_using_deep_coupled_autoencoders/">A cross-domain recommender system using deep coupled autoencoders</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on Recommender Systems">ACM TORS</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>提出 CACDR/LFACDR 两种耦合自编码器跨域框架，以“源编码器+MLP映射+目标解码器”端到端联合优化替代分阶段训练，在 MovieLens/Netflix 冷启动物品 RMSE 上平均降低 6.8%。</p>
+</dd>
 <dt data-paper-tags="[&quot;TWEB&quot;,&quot;协同过滤与双塔召回&quot;,&quot;召回&quot;,&quot;元特征学习&quot;,&quot;可视化配置抽象&quot;,&quot;跨数据集迁移&quot;]"><strong><a href="../../venues/TWEB/2022/collaborative_filtering/personalized_visualization_recommendation/">Personalized Visualization Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Transactions on the Web">ACM TWEB</span><span class="paper-tag paper-tag--category" title="协同过滤与双塔召回">CF</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
 <p>用共享元特征空间+数据无关可视化配置抽象，构建四部图矩阵分解实现跨数据集个性化可视化推荐，HIT@5 相对提升 29.8%。</p>
@@ -605,6 +710,10 @@ hide:
 <dt data-paper-tags="[&quot;WSDM 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;多场景多任务&quot;,&quot;LoRA 信息解耦&quot;,&quot;信息流剪枝&quot;]"><strong><a href="../../venues/WSDM/2026/cross_domain_multi_scenario/automated_information_flow_selection_for_multi_scenario_multi_task_recommen/">Automated Information Flow Selection for Multi-scenario Multi-task Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM International Conference on Web Search and Data Mining">WSDM</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="多任务学习与列表级重排">MTL</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>用 LoRA 解耦四类场景-任务信息单元并以可学习掩码剪枝无效信息流，AUC 全面超越 HiNet/M3oE，线上 CVR 均涨 2.46%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;冷启动与长尾推荐&quot;,&quot;召回&quot;,&quot;神经过程&quot;,&quot;元学习任务自适应&quot;]"><strong><a href="../../venues/WWW/2021/cold_start_rec/task_adaptive_neural_process_for_user_cold_start_recommendation/">Task-adaptive Neural Process for User Cold-Start Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2021</span></span></dt>
+<dd>
+<p>用神经过程替代 MAML 梯度初始化，以任务软聚类嵌入调制解码器参数，三个数据集 P@5 稳定提升 3.6–4.7%。</p>
 </dd>
 <dt data-paper-tags="[&quot;WWW 2022&quot;,&quot;去偏公平、可信隐私与工业架构&quot;,&quot;精排&quot;,&quot;工具变量&quot;,&quot;因果解耦表征&quot;,&quot;搜索推荐联合建模&quot;]"><strong><a href="../../venues/WWW/2022/debias_fairness_industrial/a_model_agnostic_causal_learning_framework_for_recommendation_using_search_/">A Model-Agnostic Causal Learning Framework for Recommendation using Search Data</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2022</span></span></dt>
 <dd>
@@ -678,9 +787,17 @@ hide:
 <dd>
 <p>用源域购买序列+跨域引导提示驱动 LLM 零样本重排目标域候选，揭示域间隙与模型规模对跨域迁移的决定性影响。</p>
 </dd>
+<dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;跨域因果建模&quot;,&quot;部分标签学习&quot;,&quot;门控特征融合&quot;]"><strong><a href="../../venues/WWW/2026/cross_domain_multi_scenario/causality_enhancement_for_cross_domain_recommendation/">Causality Enhancement for Cross-Domain Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>将跨域推荐重构为因果图，用相似度启发式构造因果感知数据并推导无偏部分标签因果损失，作为模型无关插件在四个域与线上 A/B 全面涨点</p>
+</dd>
 <dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;联邦学习&quot;,&quot;LoRA 方向分解&quot;,&quot;个性化聚合权重&quot;]"><strong><a href="../../venues/WWW/2026/cross_domain_multi_scenario/fedecider_an_llm_based_framework_for_federated_cross_domain_recommendation/">FeDecider: An LLM-Based Framework for Federated Cross-Domain Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>联邦跨域 LLM 推荐中，服务器只广播 LoRA 更新的方向分量以消除尺度噪声，客户端用可学习个性化权重做数据感知融合，Goodreads 平均 Hit@5 提升 3.8%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW&quot;,&quot;跨域与多场景推荐&quot;,&quot;端到端生成式&quot;,&quot;Flow Matching&quot;,&quot;高斯混合先验&quot;,&quot;多域序列推荐&quot;]"><strong><a href="../../venues/WWW/2026/cross_domain_multi_scenario/gaussian_mixture_flow_matching_with_domain_alignment_for_multi_domain_seque/">Gaussian Mixture Flow Matching with Domain Alignment for Multi-Domain Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="生成式推荐与离散语义 ID">GenRec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用双掩码单骨干 Transformer 解耦域不变/域特定意图，再以域对齐先验引导高斯混合流匹配生成多峰转移轨迹，JD/Amazon 1:999 采样排序下 NDCG@5 最高提升 44%。</p>
 </dd>
 <dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;数据重生成&quot;,&quot;对比解码&quot;,&quot;序列推荐&quot;]"><strong><a href="../../venues/WWW/2026/cross_domain_multi_scenario/generative_data_transformation_from_mixed_to_unified_data/">Generative Data Transformation: From Mixed to Unified Data</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="序列与会话推荐">Seq</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
@@ -690,6 +807,10 @@ hide:
 <dd>
 <p>用无噪声热方程平滑+锐化ODE替代扩散模型做跨域冷启动，免训练即在三场景六跨域对上 HR/NDCG 平均提升 7.07%/7.42%</p>
 </dd>
+<dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;召回&quot;,&quot;LLM 语义增强&quot;,&quot;跨域序列推荐&quot;]"><strong><a href="../../venues/WWW/2026/cross_domain_multi_scenario/semacdr_llm_powered_transferable_semantics_for_cross_domain_sequential_reco/">SemaCDR: LLM-Powered Transferable Semantics for Cross-Domain Sequential Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用 LLM 生成领域无关语义并与领域特定表征对比对齐，配合跨域行为融合与自适应加权，在 Amazon 六个跨域序列场景 HR@10 最高提升 14.7%。</p>
+</dd>
 <dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;跨域公平性&quot;,&quot;信息论增益重分配&quot;]"><strong><a href="../../venues/WWW/2026/cross_domain_multi_scenario/the_double_edged_sword_of_knowledge_transfer_diagnosing_and_curing_fairness/">The Double-Edged Sword of Knowledge Transfer: Diagnosing and Curing Fairness Pathologies in Cross-Domain Recommendation</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="去偏公平、可信隐私与工业架构">Debias</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>理论揭示跨域推荐中“差异迁移”与“信息增益不均”两类公平性病理，提出模型无关的 CDFA 框架，在 Tenrec QB/QK 上 UGF 最高降 98.97% 且精度不降。</p>
@@ -697,5 +818,9 @@ hide:
 <dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;冷启动&quot;,&quot;精排&quot;,&quot;跨场景统计特征张量&quot;,&quot;稳定性感知模型更新&quot;]"><strong><a href="../../venues/WWW/2026/cold_start_rec/trinity_a_scenario_aware_recommendation_framework_for_large_scale_cold_star/">Trinity: A Scenario-Aware Recommendation Framework for Large-Scale Cold-Start Users</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="冷启动与长尾推荐">Cold</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
 <dd>
 <p>面向十亿级产品迁移的“特征-架构-更新”三位一体冷启动框架，Copilot 新场景 AUC 0.564→0.726、COPC 0.13→0.95，线上时长 +5.61%。</p>
+</dd>
+<dt data-paper-tags="[&quot;WWW 2026&quot;,&quot;跨域与多场景推荐&quot;,&quot;精排&quot;,&quot;模型合并 (Model Merging)&quot;,&quot;LoRA 混合域交叉训练&quot;]"><strong><a href="../../venues/WWW/2026/cross_domain_multi_scenario/weaverec_an_llm_based_cross_domain_sequential_recommendation_framework_with/">WeaveRec: An LLM-Based Cross-Domain Sequential Recommendation Framework with Model Merging</a></strong><span class="paper-tags"><span class="paper-tag paper-tag--venue" title="发表出处：ACM Web Conference">WWW (TheWebConf)</span><span class="paper-tag paper-tag--category" title="跨域与多场景推荐">Cross</span><span class="paper-tag paper-tag--category" title="大语言模型推荐 (LLM4Rec)">LLM4Rec</span><span class="paper-tag paper-tag--year" title="发表年份">2026</span></span></dt>
+<dd>
+<p>用「源域+目标域」混合数据交叉训练多个 LoRA 再权重平均合并，既避免直接数据合并的梯度冲突，又让合并成员均强于目标域，实现零额外推理开销的跨域序列推荐。</p>
 </dd>
 </dl>

@@ -116,3 +116,10 @@ Variance Reduction for Heavy-Tailed Monetization Metrics in Ranking Experiments 
 Following the Eye-Tracking Evidence: Established Web-Search Assumptions Fail in Carousel Interfaces,2604.21019,https://arxiv.org/abs/2604.21019,,debias_fairness_industrial,SIGIR,2026
 RecQuest: Towards Estimating User Domain Knowledge in Conversational Recommender Systems,2512.13173,https://arxiv.org/abs/2512.13173,,agent_conversational_rec,SIGIR,2026
 When & How to Write for Personalized Demand-aware Query Rewriting in Video Search,2602.17667,https://arxiv.org/abs/2602.17667,,llm_rec,SIGIR,2026
+Action-Aware Generative Sequence Modeling for Short Video Recommendation,2604.25834,https://arxiv.org/abs/2604.25834,,sequential_rec,SIGIR,2026
+KARMA: Knowledge-Action Regularized Multimodal Alignment for Personalized Search at Taobao,2603.22779,https://arxiv.org/abs/2603.22779,,llm_rec,SIGIR,2026
+RQ-GMM: Residual Quantized Gaussian Mixture Model for Multimodal Semantic Discretization in CTR Prediction,2602.12593,https://arxiv.org/abs/2602.12593,,ctr_feature_interaction,SIGIR,2026
+RES-MR: Risk-Aware Reasoning for Explainable and Safe Medication Recommendation,2610.14474,https://arxiv.org/abs/2610.14474,https://github.com/wangcong2001/RES-MR,llm_rec,SIGIR,2026
+Beyond Single Slot: Joint Optimization for Multi-Slot Guaranteed Display Advertising,2605.21556,https://arxiv.org/abs/2605.21556,,ctr_feature_interaction,SIGIR,2026
+OxygenREC: An Instruction-Following Generative Framework for E-commerce Recommendation,2512.22386,https://arxiv.org/abs/2512.22386,,generative_rec,SIGIR,2026
+From Clues to Generation: Language-Guided Conditional Diffusion for Cross-Domain Recommendation,2604.05365,https://arxiv.org/abs/2604.05365,,cross_domain_multi_scenario,SIGIR,2026

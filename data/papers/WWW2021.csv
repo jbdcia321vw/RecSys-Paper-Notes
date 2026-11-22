@@ -1,0 +1,40 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Projected Hamming Dissimilarity for Bit-Level Importance Coding in Collaborative Filtering,2103.14455,https://arxiv.org/abs/2103.14455,,collaborative_filtering,WWW,2021
+Learning Heterogeneous Temporal Patterns of User Preference for Timely Recommendation,2104.14200,https://arxiv.org/abs/2104.14200,,sequential_rec,WWW,2021
+Stochastic Bandits for Multi-platform Budget Optimization in Online Advertising,2103.10246,https://arxiv.org/abs/2103.10246,,rl_bandit_rec,WWW,2021
+Automated Creative Optimization for E-Commerce Advertising,2103.00436,https://arxiv.org/abs/2103.00436,,ctr_feature_interaction,WWW,2021
+Toward the Next Generation of News Recommender Systems,2103.06909,https://arxiv.org/abs/2103.06909,,multi_task_reranking,WWW,2021
+Leveraging Review Properties for Effective Recommendation,2102.03089,https://arxiv.org/abs/2102.03089,,collaborative_filtering,WWW,2021
+Session-aware Linear Item-Item Models for Session-based Recommendation,2103.16104,https://arxiv.org/abs/2103.16104,,sequential_rec,WWW,2021
+ELIXIR: Learning from User Feedback on Explanations to Improve Recommender Models,2102.09388,https://arxiv.org/abs/2102.09388,,collaborative_filtering,WWW,2021
+Dual Side Deep Context-aware Modulation for Social Recommendation,2103.08976,https://arxiv.org/abs/2103.08976,,social_group_rec,WWW,2021
+Optimizing AD Pruning of Sponsored Search with Reinforcement Learning,2008.02014,https://arxiv.org/abs/2008.02014,,rl_bandit_rec,WWW,2021
+Bidirectional Distillation for Top-K Recommender System,2106.02870,https://arxiv.org/abs/2106.02870,,collaborative_filtering,WWW,2021
+STAN: Spatio-Temporal Attention Network for Next Location Recommendation,2102.04095,https://arxiv.org/abs/2102.04095,,poi_spatiotemporal_rec,WWW,2021
+Interest-aware Message-Passing GCN for Recommendation,2102.10044,https://arxiv.org/abs/2102.10044,,graph_rec,WWW,2021
+Task-adaptive Neural Process for User Cold-Start Recommendation,2103.06137,https://arxiv.org/abs/2103.06137,,cold_start_rec,WWW,2021
+Adversarial Item Promotion: Vulnerabilities at the Core of Top-N Recommenders that Use Images to Address Cold Start,2006.01888,https://arxiv.org/abs/2006.01888,https://github.com/liuzrcc/AIP,debias_fairness_industrial,WWW,2021
+Future-Aware Diverse Trends Framework for Recommendation,2011.00422,https://arxiv.org/abs/2011.00422,,sequential_rec,WWW,2021
+User-oriented Fairness in Recommendation,2104.10671,https://arxiv.org/abs/2104.10671,,debias_fairness_industrial,WWW,2021
+A Hybrid Bandit Model with Visual Priors for Creative Ranking in Display Advertising,2102.04033,https://arxiv.org/abs/2102.04033,,rl_bandit_rec,WWW,2021
+Learning Intents behind Interactions with Knowledge Graph for Recommendation,2102.07057,https://arxiv.org/abs/2102.07057,https://github.com/huangtinglin/Knowledge_Graph_based_Intent_Network,graph_rec,WWW,2021
+Personalized Treatment Selection using Causal Heterogeneity,1901.10550,https://arxiv.org/abs/1901.10550,,debias_fairness_industrial,WWW,2021
+Itinerary-aware Personalized Deep Matching at Fliggy,2108.02343,https://arxiv.org/abs/2108.02343,,collaborative_filtering,WWW,2021
+Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation,2101.06448,https://arxiv.org/abs/2101.06448,https://github.com/Coder-Yu/RecQ,social_group_rec,WWW,2021
+Linear-Time Self Attention with Codeword Histogram for Efficient Recommendation,2105.14068,https://arxiv.org/abs/2105.14068,,sequential_rec,WWW,2021
+Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation,2103.10693,https://arxiv.org/abs/2103.10693,,sequential_rec,WWW,2021
+Learning Fair Representations for Recommendation: A Graph-based Perspective,2102.09140,https://arxiv.org/abs/2102.09140,https://github.com/newlei/FairGo,debias_fairness_industrial,WWW,2021
+TextGNN: Improving Text Encoder via Graph Neural Network in Sponsored Search,2101.06323,https://arxiv.org/abs/2101.06323,,ctr_feature_interaction,WWW,2021
+Drug Package Recommendation via Interaction-aware Graph Induction,2102.03577,https://arxiv.org/abs/2102.03577,,graph_rec,WWW,2021
+Disentangling User Interest and Conformity for Recommendation with Causal Embedding,2006.11011,https://arxiv.org/abs/2006.11011,,debias_fairness_industrial,WWW,2021
+DGCN: Diversified Recommendation with Graph Convolutional Networks,2108.06952,https://arxiv.org/abs/2108.06952,,graph_rec,WWW,2021
+Graph Embedding for Recommendation against Attribute Inference Attacks,2101.12549,https://arxiv.org/abs/2101.12549,,debias_fairness_industrial,WWW,2021
+RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation,2101.12457,https://arxiv.org/abs/2101.12457,,sequential_rec,WWW,2021
+Variation Control and Evaluation for Generative SlateRecommendations,2102.13302,https://arxiv.org/abs/2102.13302,,generative_rec,WWW,2021
+GuideBoot: Guided Bootstrap for Deep Contextual Bandits,2107.08383,https://arxiv.org/abs/2107.08383,,rl_bandit_rec,WWW,2021
+Random Walks with Erasure: Diversifying Personalized Recommendations on Social and Information Networks,2102.09635,https://arxiv.org/abs/2102.09635,,debias_fairness_industrial,WWW,2021
+$FM^2$: Field-matrixed Factorization Machines for Recommender Systems,2102.12994,https://arxiv.org/abs/2102.12994,,ctr_feature_interaction,WWW,2021
+A Model of Two Tales: Dual Transfer Learning Framework for Improved Long-tail Item Recommendation,2010.15982,https://arxiv.org/abs/2010.15982,,cold_start_rec,WWW,2021
+Intelligent Electric Vehicle Charging Recommendation Based on Multi-Agent Reinforcement Learning,2102.07359,https://arxiv.org/abs/2102.07359,,poi_spatiotemporal_rec,WWW,2021
+Reinforcement Recommendation with User Multi-aspect Preference,,https://discovery.ucl.ac.uk/10130485/1/3442381.3449846.pdf,,rl_bandit_rec,WWW,2021
+Collaborative Filtering with Preferences Inferred from Brain Signals,,https://curis.ku.dk/ws/files/306898598/Collaborative_filtering.pdf,,collaborative_filtering,WWW,2021

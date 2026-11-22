@@ -1,0 +1,187 @@
+[
+  {
+    "title": "Impression Allocation and Policy Search in Display Advertising",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00086",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Cold Item Integration in Deep Hybrid Recommenders via Tunable Stochastic Gates",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00112",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Generating Explanations for Recommendation Systems via Injective VAE",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00115",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Conversion Prediction with Delayed Feedback: A Multi-task Learning Approach",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00029",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hypergraph Convolutional Network for Group Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00036",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Addressing Exposure Bias in Uplift Modeling for Large-scale Online Advertising",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00138",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MASCOT: A Quantization Framework for Efficient Matrix Factorization in Recommender Systems",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00039",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Mcore: Multi-Agent Collaborative Learning for Knowledge-Graph-Enhanced Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00044",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Towards Interpretability and Personalization: A Predictive Framework for Clinical Time-series Analysis",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00045",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MetaEDL: Meta Evidential Learning For Uncertainty-Aware Cold-Start Recommendations",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00154",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Memory Augmented Multi-Instance Contrastive Predictive Coding for Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00063",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PSANet - subspace attention for personalized compatibility",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00170",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "HyperTeNet: Hypergraph and Transformer-based Neural Network for Personalized List Continuation",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00146",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "PRGAN: Personalized Recommendation with Conditional Generative Adversarial Networks",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00084",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Composition-Enhanced Graph Collaborative Filtering for Multi-behavior Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00183",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Hyper Meta-Path Contrastive Learning for Multi-Behavior Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00090",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MERITS: Medication Recommendation for Chronic Disease with Irregular Time-Series",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00192",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Graph Neighborhood Routing and Random Walk for Session-based Recommendation",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00198",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "AutoEmb: Automated Embedding Dimensionality Search in Streaming Recommendations",
+    "ee": "https://doi.org/10.1109/ICDM51629.2021.00101",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Incorporating Adjacent User Modeling into Session-based Recommendation with Graph Neural Networks",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00008",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Sequential Item Recommendation in the MOBA Game Dota 2",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00009",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "On the Unreasonable Efficiency of State Space Clustering in Personalization Tasks",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00097",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dynamic Sequential Recommendation: Decoupling User Intent from Temporal Context",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00010",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A probabilistic perspective on nearest neighbor for implicit recommendation",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00011",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "DynaPosGNN: Dynamic-Positional GNN for Next POI Recommendation",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00012",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "CoBERT: Scientific Collaboration Prediction via Sequential Recommendation",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00013",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Neural Architecture Search",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00077",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Sentiment-aware Delightful Walking Route Recommendation System Considering the Scenery and Season",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00112",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Analysis of User Behavior in a C2C Platform during COVID-19 Pandemic",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00114",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SynEvaRec: A Framework for Evaluating Recommender Systems on Synthetic Data Classes",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00014",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Balanced News Neural Network for a News Recommender System",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00015",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Accelerating Active Learning Image Labeling Through Bulk Shift Recommendations",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00055",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "HappyRec: Evaluation of a \"Happy Spot\" Recommendation System Aimed at Improving Mental Well-Being",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00116",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Knowledge-aware and Time-sensitive Financial News Recommendation System Based on Firm Relation Derivation",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00146",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Embedding Normalization: Significance Preserving Feature Normalization for Click-Through Rate Prediction",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00016",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "SCORER-Gap: Sequentially Correlated Rules for Event Recommendation Considering Gap Size",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00121",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Challenging the Long Tail Recommendation on Heterogeneous Information Network",
+    "ee": "https://doi.org/10.1109/ICDMW53433.2021.00018",
+    "key": "dblp_sparql"
+  }
+]

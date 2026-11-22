@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Privacy-Preserving Representation Learning with Gradient Obfuscation against Attribute Inference for Recommendation",
+    "ee": "https://doi.org/10.1145/3773987",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Overlapping Community-aware Social Recommendation via Graph Attention Network Method",
+    "ee": "https://doi.org/10.1145/3821564",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Variational Contrastive Learning for Recommendation",
+    "ee": "https://doi.org/10.1145/3805046",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Bridging NIP and MLM: A Unified Meta-Learning Framework for Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3786346",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Trust and User Preference Model for Marketing Information Dissemination",
+    "ee": "https://doi.org/10.1145/3829076",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Medical Federated Learning with Improved Representation and Personalized Aggregation",
+    "ee": "https://doi.org/10.1145/3737649",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MESA: Plugin Meta-Modulation for Transformer-Based Cold-Start Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3788282",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "MRGE: Enhancing Long-Short-Term Interest Session Recommendation through Multivariate Relationship Graph Embedding",
+    "ee": "https://doi.org/10.1145/3815109",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dual-Stream MLP Is All You Need for CTR Prediction",
+    "ee": "https://doi.org/10.1145/3819238",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Enhanced Multi-Level Session Graph Model for Interactive Recommendation through Deep Reinforcement Learning",
+    "ee": "https://doi.org/10.1145/3811912",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Local and Global Exploration for Next New POI Recommendation",
+    "ee": "https://doi.org/10.1145/3807950",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Personalized Data-Free Knowledge Distillation for Federated Learning under Heterogeneous Models and Data",
+    "ee": "https://doi.org/10.1145/3831243",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Align Sequential Collaborative Signals and Text Semantics for Citation Recommendation: A Hybrid Perspective",
+    "ee": "https://doi.org/10.1145/3797954",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Knowledge-Enhanced Hyperbolic Attention Network for Trustworthy Sequential Recommendation",
+    "ee": "https://doi.org/10.1145/3806830",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "A Semi-supervised Co-training Algorithm for Robust Recommendation",
+    "ee": "https://doi.org/10.1145/3773988",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "RWKV4Rec: RWKV-Based Personalized Sequential Recommendation Model",
+    "ee": "https://doi.org/10.1145/3810245",
+    "key": "dblp_sparql"
+  },
+  {
+    "title": "Dynamic Dependency-Aware Collaborative Contrastive Learning for Multi-Behavior Recommendation",
+    "ee": "https://doi.org/10.1145/3788878",
+    "key": "dblp_sparql"
+  }
+]

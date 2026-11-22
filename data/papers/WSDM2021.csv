@@ -1,0 +1,19 @@
+﻿title,arxiv_id,paper_url,code_url,category,venue,year
+Personalized Food Recommendation as Constrained Question Answering over a Large-scale Food Knowledge Graph,2101.01775,https://arxiv.org/abs/2101.01775,,graph_rec,WSDM,2021
+Temporal Meta-path Guided Explainable Recommendation,2101.01433,https://arxiv.org/abs/2101.01433,,sequential_rec,WSDM,2021
+Pre-Training Graph Neural Networks for Cold-Start Users and Items Representation,2012.07064,https://arxiv.org/abs/2012.07064,,cold_start_rec,WSDM,2021
+Origin-Aware Next Destination Recommendation with Personalized Preference Attention,2012.01915,https://arxiv.org/abs/2012.01915,,poi_spatiotemporal_rec,WSDM,2021
+A Black-Box Attack Model for Visually-Aware Recommender Systems,2011.02701,https://arxiv.org/abs/2011.02701,,debias_fairness_industrial,WSDM,2021
+Towards Long-term Fairness in Recommendation,2101.03584,https://arxiv.org/abs/2101.03584,,debias_fairness_industrial,WSDM,2021
+Alleviating Cold-Start Problems in Recommendation through Pseudo-Labelling over Knowledge Graph,2011.05061,https://arxiv.org/abs/2011.05061,,cold_start_rec,WSDM,2021
+Triangular Bidword Generation for Sponsored Search Auction,2101.11349,https://arxiv.org/abs/2101.11349,,ctr_feature_interaction,WSDM,2021
+Learning User Representations with Hypercuboids for Recommender Systems,2011.05742,https://arxiv.org/abs/2011.05742,,collaborative_filtering,WSDM,2021
+Sparse-Interest Network for Sequential Recommendation,2102.09267,https://arxiv.org/abs/2102.09267,,sequential_rec,WSDM,2021
+Denoising Implicit Feedback for Recommendation,2006.04153,https://arxiv.org/abs/2006.04153,,self_supervised_denoising,WSDM,2021
+Explanation as a Defense of Recommendation,2101.09656,https://arxiv.org/abs/2101.09656,,agent_conversational_rec,WSDM,2021
+Optimizing Multiple Performance Metrics with Deep GSP Auctions for E-commerce Advertising,2012.02930,https://arxiv.org/abs/2012.02930,,ctr_feature_interaction,WSDM,2021
+Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction,2012.06968,https://arxiv.org/abs/2012.06968,,ctr_feature_interaction,WSDM,2021
+DeepLight: Deep Lightweight Feature Interactions for Accelerating CTR Predictions in Ad Serving,2002.06987,https://arxiv.org/abs/2002.06987,https://github.com/WayneDW/DeepLight_Deep-Lightweight-Feature-Interactions,ctr_feature_interaction,WSDM,2021
+Practical Compositional Fairness: Understanding Fairness in Multi-Component Recommender Systems,1911.01916,https://arxiv.org/abs/1911.01916,,debias_fairness_industrial,WSDM,2021
+Beyond Point Estimate: Inferring Ensemble Prediction Variation from Neuron Activation Strength in Recommender Systems,2008.07032,https://arxiv.org/abs/2008.07032,,debias_fairness_industrial,WSDM,2021
+Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users,2102.01744,https://arxiv.org/abs/2102.01744,,debias_fairness_industrial,WSDM,2021
